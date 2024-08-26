@@ -20,7 +20,14 @@ jobs:
           env:
             DOMAIN: "cra-arc.gc.ca"
 
+        - name: Check for changes
+          id: git_diff
+          run: |
+            git fetch origin main
+            git diff --exit-code origin/main || echo "changes"
+
         - name: Commit files
+          if: steps.git_diff.outputs.changes == 'changes'
           run: |
             git config --local user.email "action@github.com"
             git config --local user.name "Work bot"
