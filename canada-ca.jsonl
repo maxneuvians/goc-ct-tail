@@ -3800,3 +3800,7 @@
 {"id":"8029613353","timestamp":"2024-08-26T14:18:40.339567636Z","domain":"*.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2024-08-26T00:00:00Z","to":"2025-09-25T23:59:59Z"}
 {"id":"8029613353","timestamp":"2024-08-26T14:18:40.339567716Z","domain":"ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2024-08-26T00:00:00Z","to":"2025-09-25T23:59:59Z"}
 {"id":"8030474094","timestamp":"2024-08-26T14:18:40.339567806Z","domain":"micro-acquisition.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-08-26T07:00:32Z","to":"2024-11-24T07:00:31Z"}
+{"id":"8033434371","timestamp":"2024-08-26T17:18:42.096870594Z","domain":"ailab.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-08-26T15:19:00Z","to":"2024-11-24T15:18:59Z"}
+{"id":"8033849399","timestamp":"2024-08-26T18:19:48.907196137Z","domain":"dev.catalogue.alpha.phac-aspc.gc.ca","issuer":"Let's Encrypt","from":"2024-08-26T16:32:41Z","to":"2024-11-24T16:32:40Z"}
+{"id":"8033849399","timestamp":"2024-08-26T18:19:48.907196538Z","domain":"dev.cd-dc.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-08-26T16:32:41Z","to":"2024-11-24T16:32:40Z"}
+{"id":"8033849399","timestamp":"2024-08-26T18:19:48.907196839Z","domain":"dev.dc-cd.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-08-26T16:32:41Z","to":"2024-11-24T16:32:40Z"}
