@@ -1,0 +1,24 @@
+name: Tail canada.ca logs
+
+on:
+  workflow_dispatch:
+
+jobs:
+    tail-canada-ca-logs:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+
+        - name: Tail canada.ca logs
+          uses: maxneuvians/tail-ct-log-action@main
+          env:
+            DOMAIN: "canada.ca"
+
+        - name: Commit files
+          run: |
+            git config --local user.email "action@github.com"
+            git config --local user.name "Work bot"
+            git add -A
+            git commit -m "Adding canada.ca logs `date '+%Y-%m-%d %H:%M:%S'`" -a
+            git push origin main
