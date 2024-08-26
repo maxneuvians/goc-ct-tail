@@ -1,0 +1,442 @@
+{"id":"5659828831","timestamp":"2024-08-26T19:08:52.30067043Z","domain":"du.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-09T00:00:00Z","to":"2024-09-06T23:59:59Z"}
+{"id":"5659843807","timestamp":"2024-08-26T19:08:52.300670961Z","domain":"db.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-09T00:00:00Z","to":"2024-09-06T23:59:59Z"}
+{"id":"5659845298","timestamp":"2024-08-26T19:08:52.300671171Z","domain":"du.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-09T00:00:00Z","to":"2024-09-06T23:59:59Z"}
+{"id":"5659861812","timestamp":"2024-08-26T19:08:52.300671402Z","domain":"db.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-09T00:00:00Z","to":"2024-09-06T23:59:59Z"}
+{"id":"5663209502","timestamp":"2024-08-26T19:08:52.300671471Z","domain":"di.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-10T00:00:00Z","to":"2024-09-07T23:59:59Z"}
+{"id":"5663226222","timestamp":"2024-08-26T19:08:52.300672473Z","domain":"di.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-10T00:00:00Z","to":"2024-09-07T23:59:59Z"}
+{"id":"5663226225","timestamp":"2024-08-26T19:08:52.300672544Z","domain":"di.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-10T00:00:00Z","to":"2024-09-07T23:59:59Z"}
+{"id":"5694550334","timestamp":"2024-08-26T19:08:52.300672614Z","domain":"api.jayfares.dfs-dsv-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-16T00:00:00Z","to":"2024-09-13T23:59:59Z"}
+{"id":"5694550339","timestamp":"2024-08-26T19:08:52.300672684Z","domain":"api.jayfares.dfs-dsv-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-16T00:00:00Z","to":"2024-09-13T23:59:59Z"}
+{"id":"5694566908","timestamp":"2024-08-26T19:08:52.300673405Z","domain":"jayfares.dfs-dsv-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-16T00:00:00Z","to":"2024-09-13T23:59:59Z"}
+{"id":"5694916692","timestamp":"2024-08-26T19:08:52.300673475Z","domain":"tide-flowtime.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-08-16T17:08:57Z","to":"2024-09-16T17:08:56Z"}
+{"id":"5695209505","timestamp":"2024-08-26T19:08:52.300673546Z","domain":"api.dfs-dsv-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-16T00:00:00Z","to":"2024-09-13T23:59:59Z"}
+{"id":"5695224442","timestamp":"2024-08-26T19:08:52.300673615Z","domain":"dfs-dsv-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-16T00:00:00Z","to":"2024-09-13T23:59:59Z"}
+{"id":"5700355115","timestamp":"2024-08-26T19:08:52.300673686Z","domain":"cc130j-ietp-dev.forces.gc.ca","issuer":"Entrust","from":"2023-08-17T15:56:24Z","to":"2024-09-17T15:56:23Z"}
+{"id":"5701245004","timestamp":"2024-08-26T19:08:52.300673756Z","domain":"tide-sasweb.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-08-17T19:39:09Z","to":"2024-09-17T19:39:08Z"}
+{"id":"5701263826","timestamp":"2024-08-26T19:08:52.300673826Z","domain":"tide-hub.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-08-17T19:42:13Z","to":"2024-09-17T19:42:12Z"}
+{"id":"5723283709","timestamp":"2024-08-26T19:08:52.300673896Z","domain":"cafdbl-ldm.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-08-21T21:31:39Z","to":"2024-09-21T21:31:38Z"}
+{"id":"5723283709","timestamp":"2024-08-26T19:08:52.300673966Z","domain":"cafdbl-ldmfac.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-08-21T21:31:39Z","to":"2024-09-21T21:31:38Z"}
+{"id":"5723283709","timestamp":"2024-08-26T19:08:52.300674848Z","domain":"www.cafdbl-ldm.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-08-21T21:31:39Z","to":"2024-09-21T21:31:38Z"}
+{"id":"5723283709","timestamp":"2024-08-26T19:08:52.300674908Z","domain":"www.cafdbl-ldmfac.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-08-21T21:31:39Z","to":"2024-09-21T21:31:38Z"}
+{"id":"5727784017","timestamp":"2024-08-26T19:08:52.300674978Z","domain":"api.dfs-dsv-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-22T00:00:00Z","to":"2024-09-19T23:59:59Z"}
+{"id":"5727790924","timestamp":"2024-08-26T19:08:52.300675048Z","domain":"dfs-dsv-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-22T00:00:00Z","to":"2024-09-19T23:59:59Z"}
+{"id":"5733505794","timestamp":"2024-08-26T19:08:52.300675118Z","domain":"api.dfs-dsv.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-23T00:00:00Z","to":"2024-09-20T23:59:59Z"}
+{"id":"5733507139","timestamp":"2024-08-26T19:08:52.300675189Z","domain":"dfs-dsv.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-23T00:00:00Z","to":"2024-09-20T23:59:59Z"}
+{"id":"5734961026","timestamp":"2024-08-26T19:08:52.300675259Z","domain":"tideppd-hub.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-08-24T01:24:41Z","to":"2024-09-24T01:24:40Z"}
+{"id":"5734968934","timestamp":"2024-08-26T19:08:52.300675329Z","domain":"tideppd-sasweb.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-08-24T01:27:12Z","to":"2024-09-24T01:27:11Z"}
+{"id":"5734970895","timestamp":"2024-08-26T19:08:52.300675399Z","domain":"tideppd-flowtime.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-08-24T01:29:39Z","to":"2024-09-24T01:29:38Z"}
+{"id":"5760324597","timestamp":"2024-08-26T19:08:52.300675469Z","domain":"pvc.cloud.forces.gc.ca","issuer":"DigiCert","from":"2023-08-28T00:00:00Z","to":"2024-08-28T23:59:59Z"}
+{"id":"5764342791","timestamp":"2024-08-26T19:08:52.300675539Z","domain":"ds.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-29T00:00:00Z","to":"2024-09-26T23:59:59Z"}
+{"id":"5764352662","timestamp":"2024-08-26T19:08:52.300675629Z","domain":"ds.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-29T00:00:00Z","to":"2024-09-26T23:59:59Z"}
+{"id":"5764856354","timestamp":"2024-08-26T19:08:52.300675719Z","domain":"atess.dfs-dsv-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-29T00:00:00Z","to":"2024-09-26T23:59:59Z"}
+{"id":"5764858247","timestamp":"2024-08-26T19:08:52.30067581Z","domain":"api.atess.dfs-dsv-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-29T00:00:00Z","to":"2024-09-26T23:59:59Z"}
+{"id":"5764858302","timestamp":"2024-08-26T19:08:52.30067588Z","domain":"api.atess.dfs-dsv-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-08-29T00:00:00Z","to":"2024-09-26T23:59:59Z"}
+{"id":"5834184364","timestamp":"2024-08-26T19:08:52.30067595Z","domain":"jimmy-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-09-11T00:00:00Z","to":"2024-10-09T23:59:59Z"}
+{"id":"5835522625","timestamp":"2024-08-26T19:08:52.30067604Z","domain":"jdcp-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-09-11T00:00:00Z","to":"2024-10-09T23:59:59Z"}
+{"id":"5838784945","timestamp":"2024-08-26T19:08:52.30067611Z","domain":"covid-app.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-09-12T11:49:59Z","to":"2024-10-12T11:49:57Z"}
+{"id":"5839304678","timestamp":"2024-08-26T19:08:52.30067618Z","domain":"hangar-dev.aws.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-09-12T14:15:37Z","to":"2024-10-12T14:15:36Z"}
+{"id":"5839364484","timestamp":"2024-08-26T19:08:52.300676251Z","domain":"rcn-gci.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-09-12T14:32:53Z","to":"2024-10-12T14:32:51Z"}
+{"id":"5839627301","timestamp":"2024-08-26T19:08:52.300676321Z","domain":"db.aws.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-09-12T15:48:04Z","to":"2024-10-12T15:48:03Z"}
+{"id":"5839639602","timestamp":"2024-08-26T19:08:52.300676391Z","domain":"permis-dev-aws.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-09-12T15:50:17Z","to":"2024-10-12T15:50:16Z"}
+{"id":"5839812396","timestamp":"2024-08-26T19:08:52.300677172Z","domain":"ds.aws.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-09-12T16:37:55Z","to":"2024-10-12T16:37:54Z"}
+{"id":"5844225114","timestamp":"2024-08-26T19:08:52.300677252Z","domain":"app.allies.forces.gc.ca","issuer":"Entrust","from":"2023-09-13T13:19:37Z","to":"2024-10-13T13:19:36Z"}
+{"id":"5844225114","timestamp":"2024-08-26T19:08:52.300677322Z","domain":"*.forces.gc.ca","issuer":"Entrust","from":"2023-09-13T13:19:37Z","to":"2024-10-13T13:19:36Z"}
+{"id":"5844225114","timestamp":"2024-08-26T19:08:52.300677393Z","domain":"uav-allies.forces.gc.ca","issuer":"Entrust","from":"2023-09-13T13:19:37Z","to":"2024-10-13T13:19:36Z"}
+{"id":"5844225114","timestamp":"2024-08-26T19:08:52.300677453Z","domain":"www.app.allies.forces.gc.ca","issuer":"Entrust","from":"2023-09-13T13:19:37Z","to":"2024-10-13T13:19:36Z"}
+{"id":"5844225114","timestamp":"2024-08-26T19:08:52.300677523Z","domain":"www.uav-allies.forces.gc.ca","issuer":"Entrust","from":"2023-09-13T13:19:37Z","to":"2024-10-13T13:19:36Z"}
+{"id":"5852432868","timestamp":"2024-08-26T19:08:52.300677593Z","domain":"hangar-staging.aws.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-09-15T04:10:42Z","to":"2024-10-15T04:10:41Z"}
+{"id":"5855667892","timestamp":"2024-08-26T19:08:52.300677663Z","domain":"test-covid-app.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-09-15T19:39:53Z","to":"2024-10-15T19:39:52Z"}
+{"id":"5875252033","timestamp":"2024-08-26T19:08:52.300677733Z","domain":"di.aws.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-09-19T14:03:44Z","to":"2024-10-19T14:03:43Z"}
+{"id":"5875252033","timestamp":"2024-08-26T19:08:52.300677803Z","domain":"www.di.aws.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-09-19T14:03:44Z","to":"2024-10-19T14:03:43Z"}
+{"id":"5883038735","timestamp":"2024-08-26T19:08:52.300677883Z","domain":"securelogin.k24.is2s.forces.gc.ca","issuer":"Entrust","from":"2023-09-20T20:46:03Z","to":"2024-09-20T20:46:02Z"}
+{"id":"5886831904","timestamp":"2024-08-26T19:08:52.300677954Z","domain":"dj.aws.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-09-21T12:22:00Z","to":"2024-10-21T12:21:59Z"}
+{"id":"5886831904","timestamp":"2024-08-26T19:08:52.300678024Z","domain":"www.dj.aws.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-09-21T12:22:00Z","to":"2024-10-21T12:21:59Z"}
+{"id":"5887310627","timestamp":"2024-08-26T19:08:52.300678094Z","domain":"jdcp-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-09-21T00:00:00Z","to":"2024-10-19T23:59:59Z"}
+{"id":"5887312932","timestamp":"2024-08-26T19:08:52.300678164Z","domain":"jdcp-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-09-21T00:00:00Z","to":"2024-10-19T23:59:59Z"}
+{"id":"5893571483","timestamp":"2024-08-26T19:08:52.300678234Z","domain":"cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-09-22T00:00:00Z","to":"2024-10-20T23:59:59Z"}
+{"id":"5893615688","timestamp":"2024-08-26T19:08:52.300678304Z","domain":"api.cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-09-22T00:00:00Z","to":"2024-10-20T23:59:59Z"}
+{"id":"5914638308","timestamp":"2024-08-26T19:08:52.300678375Z","domain":"cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-09-26T00:00:00Z","to":"2024-10-24T23:59:59Z"}
+{"id":"5919036691","timestamp":"2024-08-26T19:08:52.300678444Z","domain":"jdcp-test.aws.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-09-27T17:50:59Z","to":"2024-10-27T17:50:58Z"}
+{"id":"5978817314","timestamp":"2024-08-26T19:08:52.300678515Z","domain":"defense365.forces.gc.ca","issuer":"DigiCert","from":"2023-10-09T00:00:00Z","to":"2024-10-09T23:59:59Z"}
+{"id":"5987041228","timestamp":"2024-08-26T19:08:52.300678595Z","domain":"cafpay-soldefac-dev.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-10-10T16:20:04Z","to":"2024-11-10T16:20:03Z"}
+{"id":"5987041228","timestamp":"2024-08-26T19:08:52.300678655Z","domain":"cafpay-soldefac-stg.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-10-10T16:20:04Z","to":"2024-11-10T16:20:03Z"}
+{"id":"5987041228","timestamp":"2024-08-26T19:08:52.300678725Z","domain":"cafpay-soldefac-tst.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-10-10T16:20:04Z","to":"2024-11-10T16:20:03Z"}
+{"id":"5997171055","timestamp":"2024-08-26T19:08:52.300678795Z","domain":"securelogin.k25.is2s.forces.gc.ca","issuer":"Entrust","from":"2023-10-12T13:33:42Z","to":"2024-11-12T13:33:41Z"}
+{"id":"5998478009","timestamp":"2024-08-26T19:08:52.300678865Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-10-12T00:00:00Z","to":"2024-11-09T23:59:59Z"}
+{"id":"6020166131","timestamp":"2024-08-26T19:08:52.300678936Z","domain":"pshcp-rssfp-dev.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-10-16T18:31:41Z","to":"2024-11-16T18:31:40Z"}
+{"id":"6020166131","timestamp":"2024-08-26T19:08:52.300679005Z","domain":"pshcp-rssfp-stg.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-10-16T18:31:41Z","to":"2024-11-16T18:31:40Z"}
+{"id":"6020166131","timestamp":"2024-08-26T19:08:52.300679066Z","domain":"pshcp-rssfp-tst.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-10-16T18:31:41Z","to":"2024-11-16T18:31:40Z"}
+{"id":"6020166131","timestamp":"2024-08-26T19:08:52.300679136Z","domain":"pshcp-rssfp-uat.cloud.forces.gc.ca","issuer":"Entrust","from":"2023-10-16T18:31:41Z","to":"2024-11-16T18:31:40Z"}
+{"id":"6020961413","timestamp":"2024-08-26T19:08:52.300679296Z","domain":"*.forces.gc.ca","issuer":"Entrust","from":"2023-10-16T22:08:16Z","to":"2024-11-16T22:08:15Z"}
+{"id":"6020961413","timestamp":"2024-08-26T19:08:52.300679356Z","domain":"forces.gc.ca","issuer":"Entrust","from":"2023-10-16T22:08:16Z","to":"2024-11-16T22:08:15Z"}
+{"id":"6020961413","timestamp":"2024-08-26T19:08:52.300679426Z","domain":"prod-erecruiting-dnd-mdn.fjgc-gccf.gc.ca","issuer":"Entrust","from":"2023-10-16T22:08:16Z","to":"2024-11-16T22:08:15Z"}
+{"id":"6020961413","timestamp":"2024-08-26T19:08:52.300679497Z","domain":"www.armee.forces.ca","issuer":"Entrust","from":"2023-10-16T22:08:16Z","to":"2024-11-16T22:08:15Z"}
+{"id":"6020961413","timestamp":"2024-08-26T19:08:52.300679557Z","domain":"www.army.forces.ca","issuer":"Entrust","from":"2023-10-16T22:08:16Z","to":"2024-11-16T22:08:15Z"}
+{"id":"6020961413","timestamp":"2024-08-26T19:08:52.300679627Z","domain":"www.forces.gc.ca","issuer":"Entrust","from":"2023-10-16T22:08:16Z","to":"2024-11-16T22:08:15Z"}
+{"id":"6020961413","timestamp":"2024-08-26T19:08:52.300679697Z","domain":"www.prod-recruiting-recrutement.forces.gc.ca","issuer":"Entrust","from":"2023-10-16T22:08:16Z","to":"2024-11-16T22:08:15Z"}
+{"id":"6024503308","timestamp":"2024-08-26T19:08:52.300679767Z","domain":"cargo-ops-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-10-17T00:00:00Z","to":"2024-11-14T23:59:59Z"}
+{"id":"6024937159","timestamp":"2024-08-26T19:08:52.300679837Z","domain":"cargo-ops.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-10-17T00:00:00Z","to":"2024-11-14T23:59:59Z"}
+{"id":"6031280273","timestamp":"2024-08-26T19:08:52.300679907Z","domain":"cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2023-10-18T00:00:00Z","to":"2024-11-15T23:59:59Z"}
+{"id":"6046955407","timestamp":"2024-08-26T19:08:52.30068119Z","domain":"pvc-dev.cloud.forces.gc.ca","issuer":"DigiCert","from":"2023-10-21T00:00:00Z","to":"2024-10-21T23:59:59Z"}
+{"id":"6069811247","timestamp":"2024-08-26T19:08:52.30068126Z","domain":"mbr-rmb.forces.gc.ca","issuer":"Entrust","from":"2023-10-25T13:12:48Z","to":"2024-11-25T13:12:47Z"}
+{"id":"6076186199","timestamp":"2024-08-26T19:08:52.30068134Z","domain":"*.app.allies.forces.gc.ca","issuer":"Entrust","from":"2023-10-26T14:29:59Z","to":"2024-10-13T14:29:58Z"}
+{"id":"6076186199","timestamp":"2024-08-26T19:08:52.30068141Z","domain":"app.allies.forces.gc.ca","issuer":"Entrust","from":"2023-10-26T14:29:59Z","to":"2024-10-13T14:29:58Z"}
+{"id":"6076186199","timestamp":"2024-08-26T19:08:52.30068148Z","domain":"*.forces.gc.ca","issuer":"Entrust","from":"2023-10-26T14:29:59Z","to":"2024-10-13T14:29:58Z"}
+{"id":"6076186199","timestamp":"2024-08-26T19:08:52.30068154Z","domain":"uav-allies.forces.gc.ca","issuer":"Entrust","from":"2023-10-26T14:29:59Z","to":"2024-10-13T14:29:58Z"}
+{"id":"6076186199","timestamp":"2024-08-26T19:08:52.30068161Z","domain":"www.app.allies.forces.gc.ca","issuer":"Entrust","from":"2023-10-26T14:29:59Z","to":"2024-10-13T14:29:58Z"}
+{"id":"6076186199","timestamp":"2024-08-26T19:08:52.30068169Z","domain":"www.uav-allies.forces.gc.ca","issuer":"Entrust","from":"2023-10-26T14:29:59Z","to":"2024-10-13T14:29:58Z"}
+{"id":"6077139403","timestamp":"2024-08-26T19:08:52.300681771Z","domain":"survey-sondage.forces.gc.ca","issuer":"Entrust","from":"2023-10-26T18:22:24Z","to":"2024-11-26T18:22:23Z"}
+{"id":"6077139403","timestamp":"2024-08-26T19:08:52.300681841Z","domain":"www.survey-sondage.forces.gc.ca","issuer":"Entrust","from":"2023-10-26T18:22:24Z","to":"2024-11-26T18:22:23Z"}
+{"id":"6112029908","timestamp":"2024-08-26T19:08:52.300681911Z","domain":"staging-cafdbl-ldmfac.forces.gc.ca","issuer":"Entrust","from":"2023-11-01T18:07:59Z","to":"2024-12-01T18:07:58Z"}
+{"id":"6112029908","timestamp":"2024-08-26T19:08:52.300681971Z","domain":"www.staging-cafdbl-ldmfac.forces.gc.ca","issuer":"Entrust","from":"2023-11-01T18:07:59Z","to":"2024-12-01T18:07:58Z"}
+{"id":"6112069347","timestamp":"2024-08-26T19:08:52.300682041Z","domain":"health-sante.forces.gc.ca","issuer":"Entrust","from":"2023-11-01T18:15:32Z","to":"2024-12-01T18:15:31Z"}
+{"id":"6112069347","timestamp":"2024-08-26T19:08:52.300682111Z","domain":"www.health-sante.forces.gc.ca","issuer":"Entrust","from":"2023-11-01T18:15:32Z","to":"2024-12-01T18:15:31Z"}
+{"id":"6112071177","timestamp":"2024-08-26T19:08:52.300682182Z","domain":"staging-health-sante.forces.gc.ca","issuer":"Entrust","from":"2023-11-01T18:17:53Z","to":"2024-12-01T18:17:52Z"}
+{"id":"6112071177","timestamp":"2024-08-26T19:08:52.300682252Z","domain":"www.staging-health-sante.forces.gc.ca","issuer":"Entrust","from":"2023-11-01T18:17:53Z","to":"2024-12-01T18:17:52Z"}
+{"id":"6191257387","timestamp":"2024-08-26T19:08:52.300682322Z","domain":"eis-dcb-iv08578.gpnet-respol.forces.gc.ca","issuer":"Entrust","from":"2023-11-15T15:24:38Z","to":"2024-12-15T15:24:37Z"}
+{"id":"6191257387","timestamp":"2024-08-26T19:08:52.300682392Z","domain":"staging-dhh-dhp.forces.gc.ca","issuer":"Entrust","from":"2023-11-15T15:24:38Z","to":"2024-12-15T15:24:37Z"}
+{"id":"6191257387","timestamp":"2024-08-26T19:08:52.300682462Z","domain":"www.staging-dhh-dhp.forces.gc.ca","issuer":"Entrust","from":"2023-11-15T15:24:38Z","to":"2024-12-15T15:24:37Z"}
+{"id":"6212626198","timestamp":"2024-08-26T19:08:52.300682532Z","domain":"dhh-dhp.forces.gc.ca","issuer":"Entrust","from":"2023-11-20T02:40:10Z","to":"2024-12-20T02:40:09Z"}
+{"id":"6212626198","timestamp":"2024-08-26T19:08:52.300682602Z","domain":"www.dhh-dhp.forces.gc.ca","issuer":"Entrust","from":"2023-11-20T02:40:10Z","to":"2024-12-20T02:40:09Z"}
+{"id":"6317068757","timestamp":"2024-08-26T19:08:52.300682672Z","domain":"defenceo365.forces.gc.ca","issuer":"DigiCert","from":"2023-12-06T00:00:00Z","to":"2024-12-06T23:59:59Z"}
+{"id":"6317158236","timestamp":"2024-08-26T19:08:52.300682743Z","domain":"365.forces.gc.ca","issuer":"DigiCert","from":"2023-12-06T00:00:00Z","to":"2024-12-06T23:59:59Z"}
+{"id":"6317697120","timestamp":"2024-08-26T19:08:52.300682813Z","domain":"defenseo365.forces.gc.ca","issuer":"DigiCert","from":"2023-12-06T00:00:00Z","to":"2024-12-06T23:59:59Z"}
+{"id":"6318251590","timestamp":"2024-08-26T19:08:52.300682883Z","domain":"defence365.forces.gc.ca","issuer":"DigiCert","from":"2023-12-06T00:00:00Z","to":"2024-12-06T23:59:59Z"}
+{"id":"6324938377","timestamp":"2024-08-26T19:08:52.300682953Z","domain":"pvc-qa.cloud.forces.gc.ca","issuer":"DigiCert","from":"2023-12-07T00:00:00Z","to":"2024-12-07T23:59:59Z"}
+{"id":"6325985993","timestamp":"2024-08-26T19:08:52.300683023Z","domain":"pvc.cloud.forces.gc.ca","issuer":"DigiCert","from":"2023-12-07T00:00:00Z","to":"2024-12-07T23:59:59Z"}
+{"id":"6373867502","timestamp":"2024-08-26T19:08:52.300683093Z","domain":"*.forces.gc.ca","issuer":"Entrust","from":"2023-12-15T18:19:02Z","to":"2025-01-15T18:19:01Z"}
+{"id":"6373867502","timestamp":"2024-08-26T19:08:52.300683163Z","domain":"forces.gc.ca","issuer":"Entrust","from":"2023-12-15T18:19:02Z","to":"2025-01-15T18:19:01Z"}
+{"id":"6373867502","timestamp":"2024-08-26T19:08:52.300683233Z","domain":"www.armee.forces.ca","issuer":"Entrust","from":"2023-12-15T18:19:02Z","to":"2025-01-15T18:19:01Z"}
+{"id":"6373867502","timestamp":"2024-08-26T19:08:52.300683293Z","domain":"www.army.forces.ca","issuer":"Entrust","from":"2023-12-15T18:19:02Z","to":"2025-01-15T18:19:01Z"}
+{"id":"6373867502","timestamp":"2024-08-26T19:08:52.300683364Z","domain":"www.forces.gc.ca","issuer":"Entrust","from":"2023-12-15T18:19:02Z","to":"2025-01-15T18:19:01Z"}
+{"id":"6373867502","timestamp":"2024-08-26T19:08:52.300683424Z","domain":"www.mdn.ca","issuer":"Entrust","from":"2023-12-15T18:19:02Z","to":"2025-01-15T18:19:01Z"}
+{"id":"6461723932","timestamp":"2024-08-26T19:08:52.300683494Z","domain":"sra.cadets.forces.gc.ca","issuer":"SSL.com","from":"2023-12-29T16:11:15Z","to":"2025-01-17T16:11:15Z"}
+{"id":"6534528554","timestamp":"2024-08-26T19:08:52.300683564Z","domain":"*.dev.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-01-10T14:49:15Z","to":"2025-02-10T14:49:13Z"}
+{"id":"6541516331","timestamp":"2024-08-26T19:08:52.300683634Z","domain":"smmsrq.trg.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-01-11T17:05:40Z","to":"2025-02-11T17:05:39Z"}
+{"id":"6541516331","timestamp":"2024-08-26T19:08:52.300683714Z","domain":"smms.trg.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-01-11T17:05:40Z","to":"2025-02-11T17:05:39Z"}
+{"id":"6541545874","timestamp":"2024-08-26T19:08:52.300683794Z","domain":"smmsalt.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-01-11T17:13:04Z","to":"2025-02-11T17:13:03Z"}
+{"id":"6541545874","timestamp":"2024-08-26T19:08:52.300683854Z","domain":"smms.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-01-11T17:13:04Z","to":"2025-02-11T17:13:03Z"}
+{"id":"6541545874","timestamp":"2024-08-26T19:08:52.300683925Z","domain":"smmsprodcertpub.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-01-11T17:13:04Z","to":"2025-02-11T17:13:03Z"}
+{"id":"6541545874","timestamp":"2024-08-26T19:08:52.300683995Z","domain":"smmsrqalt.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-01-11T17:13:04Z","to":"2025-02-11T17:13:03Z"}
+{"id":"6541545874","timestamp":"2024-08-26T19:08:52.300684055Z","domain":"smmsrq.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-01-11T17:13:04Z","to":"2025-02-11T17:13:03Z"}
+{"id":"6567794062","timestamp":"2024-08-26T19:08:52.300684125Z","domain":"uav-journal.forces.gc.ca","issuer":"Entrust","from":"2024-01-15T22:02:19Z","to":"2025-02-15T22:02:18Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300684205Z","domain":"drdc.gc.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300684275Z","domain":"drdc-rddc.gc.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300684346Z","domain":"forces.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300684406Z","domain":"forces.gc.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300684476Z","domain":"rddc.gc.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300684546Z","domain":"www.airforce.forces.gc.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300684606Z","domain":"www.arc.forces.gc.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300684676Z","domain":"www.armee.forces.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300684746Z","domain":"www.armee.forces.gc.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300684806Z","domain":"www.army-armee.forces.gc.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300684876Z","domain":"www.army.forces.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300684937Z","domain":"www.combatcamera.forces.gc.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300685007Z","domain":"www.forceaerienne.forces.gc.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300685077Z","domain":"www.navy-marine.forces.gc.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300685137Z","domain":"www.rcaf-arc.forces.gc.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6612479492","timestamp":"2024-08-26T19:08:52.300685207Z","domain":"www.rcaf.forces.gc.ca","issuer":"Entrust","from":"2024-01-22T20:08:34Z","to":"2025-01-22T20:08:32Z"}
+{"id":"6624841151","timestamp":"2024-08-26T19:08:52.300685277Z","domain":"www.cmrsj-rmcsj.ca","issuer":"Entrust","from":"2024-01-24T19:58:49Z","to":"2025-01-31T19:58:48Z"}
+{"id":"6624841151","timestamp":"2024-08-26T19:08:52.300685337Z","domain":"www.cmrsj-rmcsj.forces.gc.ca","issuer":"Entrust","from":"2024-01-24T19:58:49Z","to":"2025-01-31T19:58:48Z"}
+{"id":"6660977794","timestamp":"2024-08-26T19:08:52.300685408Z","domain":"journal.forces.gc.ca","issuer":"Entrust","from":"2024-01-30T16:21:28Z","to":"2025-02-28T16:21:27Z"}
+{"id":"6660977794","timestamp":"2024-08-26T19:08:52.300685478Z","domain":"www.journal.forces.gc.ca","issuer":"Entrust","from":"2024-01-30T16:21:28Z","to":"2025-02-28T16:21:27Z"}
+{"id":"6696064895","timestamp":"2024-08-26T19:08:52.300685548Z","domain":"hangar-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-05T00:00:00Z","to":"2025-03-06T23:59:59Z"}
+{"id":"6696064895","timestamp":"2024-08-26T19:08:52.300685608Z","domain":"www.hangar-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-05T00:00:00Z","to":"2025-03-06T23:59:59Z"}
+{"id":"6726287403","timestamp":"2024-08-26T19:08:52.300685678Z","domain":"cmadev.forces.gc.ca","issuer":"Entrust","from":"2024-02-09T18:58:01Z","to":"2025-03-09T18:58:00Z"}
+{"id":"6741018551","timestamp":"2024-08-26T19:08:52.300685748Z","domain":"caface-rfacace.forces.gc.ca","issuer":"Entrust","from":"2024-02-12T13:42:42Z","to":"2025-03-12T13:42:41Z"}
+{"id":"6741664107","timestamp":"2024-08-26T19:08:52.300685818Z","domain":"cafpay-soldefac.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-02-12T16:22:54Z","to":"2025-03-12T16:22:53Z"}
+{"id":"6741664107","timestamp":"2024-08-26T19:08:52.300685888Z","domain":"cafpay-soldefac-stg.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-02-12T16:22:54Z","to":"2025-03-12T16:22:53Z"}
+{"id":"6763170972","timestamp":"2024-08-26T19:08:52.300685958Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-16T00:00:00Z","to":"2025-03-17T23:59:59Z"}
+{"id":"6763667745","timestamp":"2024-08-26T19:08:52.300686029Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-16T00:00:00Z","to":"2025-03-17T23:59:59Z"}
+{"id":"6766676014","timestamp":"2024-08-26T19:08:52.300686109Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-16T00:00:00Z","to":"2025-03-16T23:59:59Z"}
+{"id":"6766797338","timestamp":"2024-08-26T19:08:52.300686169Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-16T00:00:00Z","to":"2025-03-16T23:59:59Z"}
+{"id":"6766839505","timestamp":"2024-08-26T19:08:52.300686249Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-16T00:00:00Z","to":"2025-03-16T23:59:59Z"}
+{"id":"6779970465","timestamp":"2024-08-26T19:08:52.300686319Z","domain":"api.dfs-dsv-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-19T00:00:00Z","to":"2025-03-20T23:59:59Z"}
+{"id":"6781995534","timestamp":"2024-08-26T19:08:52.300686389Z","domain":"dfs-dsv-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-19T00:00:00Z","to":"2025-03-19T23:59:59Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300686459Z","domain":"cadets.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.30068653Z","domain":"www.airforce.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.3006866Z","domain":"www.arc.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300688754Z","domain":"www.armee.forces.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300688824Z","domain":"www.armee.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300688894Z","domain":"www.army-armee.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300688954Z","domain":"www.army.forces.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300689024Z","domain":"www.army.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300689094Z","domain":"www.cadets.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300689155Z","domain":"www.cmj.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300689224Z","domain":"www.combatcamera.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300689295Z","domain":"www.forceaerienne.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300689355Z","domain":"www.jmc-cmj.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300689425Z","domain":"www.jmc.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300689495Z","domain":"www.navy-marine.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300689555Z","domain":"www.ombudsman.forces.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300689625Z","domain":"www.ombudsman.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300689685Z","domain":"www.rcaf-arc.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300689756Z","domain":"www.rcaf.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789019327","timestamp":"2024-08-26T19:08:52.300689826Z","domain":"www.rcn-mrc.forces.gc.ca","issuer":"Entrust","from":"2024-02-20T12:30:25Z","to":"2025-03-20T12:30:24Z"}
+{"id":"6789596386","timestamp":"2024-08-26T19:08:52.300689896Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-20T00:00:00Z","to":"2025-03-20T23:59:59Z"}
+{"id":"6789817621","timestamp":"2024-08-26T19:08:52.300689966Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-20T00:00:00Z","to":"2025-03-20T23:59:59Z"}
+{"id":"6791840740","timestamp":"2024-08-26T19:08:52.300690036Z","domain":"hangar-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-21T00:00:00Z","to":"2025-03-22T23:59:59Z"}
+{"id":"6791840959","timestamp":"2024-08-26T19:08:52.300690106Z","domain":"hangar-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-21T00:00:00Z","to":"2025-03-22T23:59:59Z"}
+{"id":"6795628128","timestamp":"2024-08-26T19:08:52.300690176Z","domain":"cmadev.forces.gc.ca","issuer":"Entrust","from":"2024-02-21T14:01:06Z","to":"2025-03-09T14:01:05Z"}
+{"id":"6795679069","timestamp":"2024-08-26T19:08:52.81291941Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-21T00:00:00Z","to":"2025-03-21T23:59:59Z"}
+{"id":"6795775761","timestamp":"2024-08-26T19:08:52.812919971Z","domain":"hangar.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-02-21T14:32:57Z","to":"2025-03-21T14:32:56Z"}
+{"id":"6797276840","timestamp":"2024-08-26T19:08:52.812920231Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-02-21T00:00:00Z","to":"2025-03-21T23:59:59Z"}
+{"id":"6825517862","timestamp":"2024-08-26T19:08:52.812921433Z","domain":"cafpay-soldefac-dev.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-02-26T16:23:36Z","to":"2024-11-10T16:23:35Z"}
+{"id":"6825517862","timestamp":"2024-08-26T19:08:52.812921534Z","domain":"cafpay-soldefac-stg.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-02-26T16:23:36Z","to":"2024-11-10T16:23:35Z"}
+{"id":"6825517862","timestamp":"2024-08-26T19:08:52.812922165Z","domain":"cafpay-soldefac-tst.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-02-26T16:23:36Z","to":"2024-11-10T16:23:35Z"}
+{"id":"6825517862","timestamp":"2024-08-26T19:08:52.812922245Z","domain":"cafpay-soldefac-uat.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-02-26T16:23:36Z","to":"2024-11-10T16:23:35Z"}
+{"id":"6825517862","timestamp":"2024-08-26T19:08:52.812922335Z","domain":"dev-rtm-gtr-web.cloud.mil.ca","issuer":"Entrust","from":"2024-02-26T16:23:36Z","to":"2024-11-10T16:23:35Z"}
+{"id":"6825517862","timestamp":"2024-08-26T19:08:52.812922415Z","domain":"pshcp-rssfp-dev.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-02-26T16:23:36Z","to":"2024-11-10T16:23:35Z"}
+{"id":"6825517862","timestamp":"2024-08-26T19:08:52.812923157Z","domain":"pshcp-rssfp-tst.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-02-26T16:23:36Z","to":"2024-11-10T16:23:35Z"}
+{"id":"6825517862","timestamp":"2024-08-26T19:08:52.812923247Z","domain":"pshcp-rssfp-uat.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-02-26T16:23:36Z","to":"2024-11-10T16:23:35Z"}
+{"id":"6825517862","timestamp":"2024-08-26T19:08:52.812923327Z","domain":"tst-rtm-gtr-web.cloud.mil.ca","issuer":"Entrust","from":"2024-02-26T16:23:36Z","to":"2024-11-10T16:23:35Z"}
+{"id":"6825517862","timestamp":"2024-08-26T19:08:52.812923407Z","domain":"uat-rtm-gtr-web.cloud.mil.ca","issuer":"Entrust","from":"2024-02-26T16:23:36Z","to":"2024-11-10T16:23:35Z"}
+{"id":"6832546866","timestamp":"2024-08-26T19:08:52.812923517Z","domain":"stage-erecruiting-dnd-mdn.fjgc-gccf.gc.ca","issuer":"Entrust","from":"2024-02-27T16:28:12Z","to":"2025-03-27T16:28:11Z"}
+{"id":"6832546866","timestamp":"2024-08-26T19:08:52.812923597Z","domain":"stage-recruiting-recrutement.forces.gc.ca","issuer":"Entrust","from":"2024-02-27T16:28:12Z","to":"2025-03-27T16:28:11Z"}
+{"id":"6832546866","timestamp":"2024-08-26T19:08:52.812923688Z","domain":"www.stage-recruiting-recrutement.forces.gc.ca","issuer":"Entrust","from":"2024-02-27T16:28:12Z","to":"2025-03-27T16:28:11Z"}
+{"id":"6832766973","timestamp":"2024-08-26T19:08:52.812923778Z","domain":"*.forces.gc.ca","issuer":"Entrust","from":"2024-02-27T17:18:04Z","to":"2025-03-27T17:18:03Z"}
+{"id":"6832766973","timestamp":"2024-08-26T19:08:52.812923858Z","domain":"forces.gc.ca","issuer":"Entrust","from":"2024-02-27T17:18:04Z","to":"2025-03-27T17:18:03Z"}
+{"id":"6832766973","timestamp":"2024-08-26T19:08:52.81292467Z","domain":"www.forces.gc.ca","issuer":"Entrust","from":"2024-02-27T17:18:04Z","to":"2025-03-27T17:18:03Z"}
+{"id":"6896411628","timestamp":"2024-08-26T19:08:52.81292476Z","domain":"tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-08T00:00:00Z","to":"2025-04-06T23:59:59Z"}
+{"id":"6903850285","timestamp":"2024-08-26T19:08:52.81292486Z","domain":"api.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-10T00:00:00Z","to":"2025-04-09T23:59:59Z"}
+{"id":"6903850285","timestamp":"2024-08-26T19:08:52.81292494Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-10T00:00:00Z","to":"2025-04-09T23:59:59Z"}
+{"id":"6903850285","timestamp":"2024-08-26T19:08:52.81292503Z","domain":"tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-10T00:00:00Z","to":"2025-04-09T23:59:59Z"}
+{"id":"6904397688","timestamp":"2024-08-26T19:08:52.81292512Z","domain":"api.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-10T00:00:00Z","to":"2025-04-09T23:59:59Z"}
+{"id":"6904397688","timestamp":"2024-08-26T19:08:52.8129252Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-10T00:00:00Z","to":"2025-04-09T23:59:59Z"}
+{"id":"6904397688","timestamp":"2024-08-26T19:08:52.812925281Z","domain":"tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-10T00:00:00Z","to":"2025-04-09T23:59:59Z"}
+{"id":"7014806351","timestamp":"2024-08-26T19:08:52.812925381Z","domain":"feams.dig.forces.gc.ca","issuer":"Entrust","from":"2024-03-27T16:12:10Z","to":"2025-04-27T16:12:09Z"}
+{"id":"7020501317","timestamp":"2024-08-26T19:08:52.812925471Z","domain":"*.apps.rcaf-arc.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-03-28T13:25:45Z","to":"2025-04-28T13:25:44Z"}
+{"id":"7020501317","timestamp":"2024-08-26T19:08:52.812925551Z","domain":"apps.rcaf-arc.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-03-28T13:25:45Z","to":"2025-04-28T13:25:44Z"}
+{"id":"7020501317","timestamp":"2024-08-26T19:08:52.812925631Z","domain":"rcaf-arc.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-03-28T13:25:45Z","to":"2025-04-28T13:25:44Z"}
+{"id":"7021076515","timestamp":"2024-08-26T19:08:52.812925721Z","domain":"army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021202799","timestamp":"2024-08-26T19:08:52.812925802Z","domain":"api.army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021202799","timestamp":"2024-08-26T19:08:52.812925892Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021202799","timestamp":"2024-08-26T19:08:52.812925972Z","domain":"army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021341663","timestamp":"2024-08-26T19:08:52.812926062Z","domain":"api.army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021341663","timestamp":"2024-08-26T19:08:52.812926142Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021341663","timestamp":"2024-08-26T19:08:52.812926222Z","domain":"army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021362219","timestamp":"2024-08-26T19:08:52.812926313Z","domain":"api.army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021362219","timestamp":"2024-08-26T19:08:52.812926403Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021362219","timestamp":"2024-08-26T19:08:52.812926483Z","domain":"army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021383891","timestamp":"2024-08-26T19:08:52.812927555Z","domain":"api.army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021383891","timestamp":"2024-08-26T19:08:52.812927635Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021383891","timestamp":"2024-08-26T19:08:52.812927725Z","domain":"army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021495559","timestamp":"2024-08-26T19:08:52.812927836Z","domain":"api.army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021495559","timestamp":"2024-08-26T19:08:52.812927916Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7021495559","timestamp":"2024-08-26T19:08:52.812927996Z","domain":"army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-03-28T00:00:00Z","to":"2025-04-26T23:59:59Z"}
+{"id":"7052762612","timestamp":"2024-08-26T19:08:52.812928116Z","domain":"gs.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-04-02T00:00:00Z","to":"2025-05-01T23:59:59Z"}
+{"id":"7070360925","timestamp":"2024-08-26T19:08:52.812928206Z","domain":"*.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-04-05T13:19:20Z","to":"2025-05-05T13:19:19Z"}
+{"id":"7070360925","timestamp":"2024-08-26T19:08:52.812928286Z","domain":"cloud.forces.gc.ca","issuer":"Entrust","from":"2024-04-05T13:19:20Z","to":"2025-05-05T13:19:19Z"}
+{"id":"7090319778","timestamp":"2024-08-26T19:08:52.812928377Z","domain":"api.cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-04-08T00:00:00Z","to":"2025-05-07T23:59:59Z"}
+{"id":"7112136742","timestamp":"2024-08-26T19:08:52.812928466Z","domain":"cadcopstaging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-04-12T00:00:00Z","to":"2025-05-11T23:59:59Z"}
+{"id":"7132445674","timestamp":"2024-08-26T19:08:52.812928557Z","domain":"dln.digtdc.forces.gc.ca","issuer":"Entrust","from":"2024-04-15T15:55:02Z","to":"2025-05-15T15:55:01Z"}
+{"id":"7138158953","timestamp":"2024-08-26T19:08:52.812928637Z","domain":"link16-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-04-16T00:00:00Z","to":"2025-05-15T23:59:59Z"}
+{"id":"7157911267","timestamp":"2024-08-26T19:08:52.812928727Z","domain":"securelogin.h17.is2s.forces.gc.ca","issuer":"Entrust","from":"2024-04-19T15:30:38Z","to":"2025-05-19T15:30:37Z"}
+{"id":"7184777588","timestamp":"2024-08-26T19:08:52.812928817Z","domain":"tideqa-hub.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-04-23T18:23:29Z","to":"2025-05-23T18:23:28Z"}
+{"id":"7184777588","timestamp":"2024-08-26T19:08:52.812928897Z","domain":"www.tideqa-hub.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-04-23T18:23:29Z","to":"2025-05-23T18:23:28Z"}
+{"id":"7189140794","timestamp":"2024-08-26T19:08:52.812928987Z","domain":"tideqa-flowtime.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-04-24T11:01:35Z","to":"2025-05-24T11:01:34Z"}
+{"id":"7189140794","timestamp":"2024-08-26T19:08:52.812929078Z","domain":"www.tideqa-flowtime.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-04-24T11:01:35Z","to":"2025-05-24T11:01:34Z"}
+{"id":"7196568515","timestamp":"2024-08-26T19:08:52.812929158Z","domain":"cafdbl-ldmfac.forces.gc.ca","issuer":"Entrust","from":"2024-04-25T11:21:55Z","to":"2025-05-25T11:21:54Z"}
+{"id":"7196568515","timestamp":"2024-08-26T19:08:52.812929248Z","domain":"www.cafdbl-ldmfac.forces.gc.ca","issuer":"Entrust","from":"2024-04-25T11:21:55Z","to":"2025-05-25T11:21:54Z"}
+{"id":"7244755307","timestamp":"2024-08-26T19:08:52.812929328Z","domain":"api.genai-admin.cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-02T00:00:00Z","to":"2025-05-31T23:59:59Z"}
+{"id":"7244755637","timestamp":"2024-08-26T19:08:52.812929418Z","domain":"socket.genai-admin.cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-02T00:00:00Z","to":"2025-05-31T23:59:59Z"}
+{"id":"7244992961","timestamp":"2024-08-26T19:08:52.812929508Z","domain":"socket.genai-admin.cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-02T00:00:00Z","to":"2025-05-31T23:59:59Z"}
+{"id":"7245002544","timestamp":"2024-08-26T19:08:52.812929599Z","domain":"api.genai-admin.cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-02T00:00:00Z","to":"2025-05-31T23:59:59Z"}
+{"id":"7245277901","timestamp":"2024-08-26T19:08:52.812929679Z","domain":"api.genai-admin.cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-02T00:00:00Z","to":"2025-05-31T23:59:59Z"}
+{"id":"7245277942","timestamp":"2024-08-26T19:08:52.812929769Z","domain":"socket.genai-admin.cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-02T00:00:00Z","to":"2025-05-31T23:59:59Z"}
+{"id":"7245332304","timestamp":"2024-08-26T19:08:52.812929859Z","domain":"socket.genai-admin.cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-02T00:00:00Z","to":"2025-05-31T23:59:59Z"}
+{"id":"7245332864","timestamp":"2024-08-26T19:08:52.812929949Z","domain":"api.genai-admin.cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-02T00:00:00Z","to":"2025-05-31T23:59:59Z"}
+{"id":"7245420796","timestamp":"2024-08-26T19:08:52.812930029Z","domain":"socket.genai-admin.cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-03T00:00:00Z","to":"2025-06-02T23:59:59Z"}
+{"id":"7245421047","timestamp":"2024-08-26T19:08:52.81293012Z","domain":"api.genai-admin.cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-03T00:00:00Z","to":"2025-06-02T23:59:59Z"}
+{"id":"7245624387","timestamp":"2024-08-26T19:08:52.81293021Z","domain":"genai-admin.cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-03T00:00:00Z","to":"2025-06-02T23:59:59Z"}
+{"id":"7267225182","timestamp":"2024-08-26T19:08:52.81293029Z","domain":"hangar.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-05-06T18:31:40Z","to":"2025-03-21T18:31:39Z"}
+{"id":"7306711516","timestamp":"2024-08-26T19:08:52.81293038Z","domain":"cargo-ops-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-13T00:00:00Z","to":"2025-06-11T23:59:59Z"}
+{"id":"7309914069","timestamp":"2024-08-26T19:08:52.81293047Z","domain":"apps.forces.gc.ca","issuer":"Entrust","from":"2024-05-13T19:26:23Z","to":"2025-06-13T19:26:22Z"}
+{"id":"7309914069","timestamp":"2024-08-26T19:08:52.812930561Z","domain":"www.apps.forces.gc.ca","issuer":"Entrust","from":"2024-05-13T19:26:23Z","to":"2025-06-13T19:26:22Z"}
+{"id":"7328025708","timestamp":"2024-08-26T19:08:52.812930641Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-16T00:00:00Z","to":"2025-06-14T23:59:59Z"}
+{"id":"7375335192","timestamp":"2024-08-26T19:08:52.812930731Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-24T00:00:00Z","to":"2025-06-22T23:59:59Z"}
+{"id":"7375386811","timestamp":"2024-08-26T19:08:52.812930821Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-05-24T00:00:00Z","to":"2025-06-22T23:59:59Z"}
+{"id":"7427349720","timestamp":"2024-08-26T19:08:52.812930911Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-06-01T23:02:21Z","to":"2024-08-30T23:02:20Z"}
+{"id":"7443850877","timestamp":"2024-08-26T19:08:52.812932344Z","domain":"securelogin.k31.is2s.forces.gc.ca","issuer":"Entrust","from":"2024-06-04T17:49:49Z","to":"2025-07-04T17:49:48Z"}
+{"id":"7467109667","timestamp":"2024-08-26T19:08:52.812932444Z","domain":"portal-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2024-06-08T18:05:42Z","to":"2024-09-06T18:55:33Z"}
+{"id":"7476994846","timestamp":"2024-08-26T19:08:52.812932534Z","domain":"dln-rad.forces.gc.ca","issuer":"Entrust","from":"2024-06-10T15:37:29Z","to":"2025-07-10T15:37:28Z"}
+{"id":"7477059797","timestamp":"2024-08-26T19:08:52.812932614Z","domain":"aad-sso.rcaf-arc.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-06-10T15:54:35Z","to":"2025-07-10T15:54:34Z"}
+{"id":"7499188614","timestamp":"2024-08-26T19:08:52.812932705Z","domain":"api.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-06-13T00:00:00Z","to":"2025-07-12T23:59:59Z"}
+{"id":"7499188653","timestamp":"2024-08-26T19:08:52.812932795Z","domain":"api.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-06-13T00:00:00Z","to":"2025-07-12T23:59:59Z"}
+{"id":"7499188660","timestamp":"2024-08-26T19:08:52.812932875Z","domain":"api.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-06-13T00:00:00Z","to":"2025-07-12T23:59:59Z"}
+{"id":"7499188710","timestamp":"2024-08-26T19:08:52.812932965Z","domain":"api.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-06-13T00:00:00Z","to":"2025-07-12T23:59:59Z"}
+{"id":"7499189660","timestamp":"2024-08-26T19:08:52.812933055Z","domain":"api.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-06-13T00:00:00Z","to":"2025-07-12T23:59:59Z"}
+{"id":"7509102238","timestamp":"2024-08-26T19:08:52.812933145Z","domain":"mars.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-06-15T09:00:09Z","to":"2024-09-13T09:00:08Z"}
+{"id":"7509102660","timestamp":"2024-08-26T19:08:52.812933235Z","domain":"bib.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-06-15T09:00:17Z","to":"2024-09-13T09:00:16Z"}
+{"id":"7530265585","timestamp":"2024-08-26T19:08:52.812933315Z","domain":"dev.met.forces.gc.ca","issuer":"Entrust","from":"2024-06-18T18:31:44Z","to":"2025-06-26T18:31:43Z"}
+{"id":"7530265585","timestamp":"2024-08-26T19:08:52.812933406Z","domain":"jmc.met.forces.gc.ca","issuer":"Entrust","from":"2024-06-18T18:31:44Z","to":"2025-06-26T18:31:43Z"}
+{"id":"7530265585","timestamp":"2024-08-26T19:08:52.812933486Z","domain":"met.forces.gc.ca","issuer":"Entrust","from":"2024-06-18T18:31:44Z","to":"2025-06-26T18:31:43Z"}
+{"id":"7530265585","timestamp":"2024-08-26T19:08:52.812933566Z","domain":"stage.met.forces.gc.ca","issuer":"Entrust","from":"2024-06-18T18:31:44Z","to":"2025-06-26T18:31:43Z"}
+{"id":"7531649327","timestamp":"2024-08-26T19:08:52.812933656Z","domain":"*.dnastack-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-06-19T00:00:00Z","to":"2025-07-19T23:59:59Z"}
+{"id":"7531649327","timestamp":"2024-08-26T19:08:52.812933736Z","domain":"dnastack-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-06-19T00:00:00Z","to":"2025-07-19T23:59:59Z"}
+{"id":"7537437342","timestamp":"2024-08-26T19:08:52.812933827Z","domain":"portal-api-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2024-06-19T19:40:21Z","to":"2024-09-17T20:33:34Z"}
+{"id":"7549201608","timestamp":"2024-08-26T19:08:52.812933917Z","domain":"insights.ntg-gim.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-06-21T13:46:09Z","to":"2025-06-21T13:46:08Z"}
+{"id":"7549201608","timestamp":"2024-08-26T19:08:52.812933997Z","domain":"perspicace.ntg-gim.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-06-21T13:46:09Z","to":"2025-06-21T13:46:08Z"}
+{"id":"7550793841","timestamp":"2024-08-26T19:08:52.812934097Z","domain":"abis.cfintcom.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-06-21T19:02:49Z","to":"2025-07-21T19:02:48Z"}
+{"id":"7550793841","timestamp":"2024-08-26T19:08:52.812934177Z","domain":"cfintcom.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-06-21T19:02:49Z","to":"2025-07-21T19:02:48Z"}
+{"id":"7550793841","timestamp":"2024-08-26T19:08:52.812934267Z","domain":"gw.cfintcom.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-06-21T19:02:49Z","to":"2025-07-21T19:02:48Z"}
+{"id":"7550793841","timestamp":"2024-08-26T19:08:52.812934348Z","domain":"gwsync.cfintcom.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-06-21T19:02:49Z","to":"2025-07-21T19:02:48Z"}
+{"id":"7550793841","timestamp":"2024-08-26T19:08:52.812934428Z","domain":"tm.cfintcom.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-06-21T19:02:49Z","to":"2025-07-21T19:02:48Z"}
+{"id":"7550793841","timestamp":"2024-08-26T19:08:52.812934518Z","domain":"ue.cfintcom.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-06-21T19:02:49Z","to":"2025-07-21T19:02:48Z"}
+{"id":"7577843153","timestamp":"2024-08-26T19:08:52.812934598Z","domain":"genai-admin.cmsg-datalake-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-06-25T00:00:00Z","to":"2025-07-24T23:59:59Z"}
+{"id":"7586105508","timestamp":"2024-08-26T19:08:52.812934688Z","domain":"dj.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-06-27T00:00:00Z","to":"2025-07-27T23:59:59Z"}
+{"id":"7586107457","timestamp":"2024-08-26T19:08:52.812934778Z","domain":"dj.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-06-27T00:00:00Z","to":"2025-07-27T23:59:59Z"}
+{"id":"7598315638","timestamp":"2024-08-26T19:08:52.812934889Z","domain":"papm.ntg-gim.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-06-28T17:07:56Z","to":"2025-07-28T17:07:55Z"}
+{"id":"7598315638","timestamp":"2024-08-26T19:08:52.812934989Z","domain":"slp.ntg-gim.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-06-28T17:07:56Z","to":"2025-07-28T17:07:55Z"}
+{"id":"7615977899","timestamp":"2024-08-26T19:08:52.812935099Z","domain":"www.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-07-01T09:00:16Z","to":"2024-09-29T09:00:15Z"}
+{"id":"7658640364","timestamp":"2024-08-26T19:08:52.812935189Z","domain":"defense365.forces.gc.ca","issuer":"DigiCert","from":"2024-07-07T00:00:00Z","to":"2025-07-07T23:59:59Z"}
+{"id":"7666632893","timestamp":"2024-08-26T19:08:52.812935279Z","domain":"www3.ombudsman.forces.gc.ca","issuer":"DigiCert","from":"2024-07-08T00:00:00Z","to":"2025-06-21T23:59:59Z"}
+{"id":"7667802162","timestamp":"2024-08-26T19:08:52.81293539Z","domain":"du.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-09T00:00:00Z","to":"2025-08-08T23:59:59Z"}
+{"id":"7667803754","timestamp":"2024-08-26T19:08:52.81293548Z","domain":"db.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-09T00:00:00Z","to":"2025-08-08T23:59:59Z"}
+{"id":"7667805062","timestamp":"2024-08-26T19:08:52.81293557Z","domain":"du.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-09T00:00:00Z","to":"2025-08-08T23:59:59Z"}
+{"id":"7667807539","timestamp":"2024-08-26T19:08:52.81293565Z","domain":"db.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-09T00:00:00Z","to":"2025-08-08T23:59:59Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.81293575Z","domain":"arbitration-awards.pwu.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.81293583Z","domain":"brevets-decisions-patents.opic-cipo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.81293592Z","domain":"coadecisions.ontariocourts.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812936Z","domain":"csc.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812936081Z","domain":"csc.lexum.org","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812936171Z","domain":"decisia-api.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812936251Z","domain":"decisia-demo-api.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812936341Z","domain":"decisia-demo.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812936421Z","domain":"decisia-fja-cmf.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812936501Z","domain":"decisia.jmc-cmj.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812936582Z","domain":"decisia.judiciary.gov.rw","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812936672Z","domain":"decisia.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812936752Z","domain":"decisions.abcouncil.ab.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812936832Z","domain":"decisions.aglc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812936922Z","domain":"decisions.cai.gouv.qc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812937002Z","domain":"decisions.cart-crac.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812937082Z","domain":"decisions.cb-cda.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812937163Z","domain":"decisions.chrt-tcdp.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812937253Z","domain":"decisions.cisro-ocra.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812937333Z","domain":"decisions.citt-tcce.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812937413Z","domain":"decisions.civilresolutionbc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812937493Z","domain":"decisions.cmac-cacm.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812937583Z","domain":"decisions.courts.ns.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812937664Z","domain":"decisions.ct-tc.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812937744Z","domain":"decisions.eptc-tpec.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812937834Z","domain":"decisions.fca-caf.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812937914Z","domain":"decisions.fca-caf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812937994Z","domain":"decisions.fct-cf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812938075Z","domain":"decisions.fpslreb-crtespf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812938164Z","domain":"decisions.grc.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812938245Z","domain":"decisions.grc-rcmp.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812938325Z","domain":"decisions.icm.mb.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812938405Z","domain":"decisions.ipc.on.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812938495Z","domain":"decisions.opic-cipo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812938575Z","domain":"decisions.osc.gov.on.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812938656Z","domain":"decisions.psdpt-tpfd.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812938746Z","domain":"decisions.rcmp.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812938826Z","domain":"decisions.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812938906Z","domain":"decisions.scc-csc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812938986Z","domain":"decisions.sct-trp.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812939076Z","domain":"decisions.sst-tss.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812941451Z","domain":"decisions.surfacerightsboard.bc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812941541Z","domain":"decisions.tatc.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812941621Z","domain":"decision.tcc-cci.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812941701Z","domain":"docs.mbsecurities.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812941811Z","domain":"nmonesource.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812941891Z","domain":"offers.sopf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812941982Z","domain":"offres.cidphn.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812942062Z","domain":"online.nabplaw.pharmacy","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812942142Z","domain":"opinions.arcourts.gov","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812942222Z","domain":"parti.fng.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812942312Z","domain":"partii-partiii.fng.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812942392Z","domain":"records.adbmich.org","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812942472Z","domain":"recueil.cmf-fja.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812942563Z","domain":"recueil.cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812942643Z","domain":"recueil.fja-cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812942723Z","domain":"recueil.fja.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812942803Z","domain":"reports.cmf-fja.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812942893Z","domain":"reports.cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812942973Z","domain":"reports.fja-cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812943054Z","domain":"reports.fja.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812943134Z","domain":"scc-csc-api.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812943224Z","domain":"scc-csc.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812943304Z","domain":"scc.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812943384Z","domain":"scc.lexum.org","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812943465Z","domain":"www.energyregtracker.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812943554Z","domain":"www.energyregtracker.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812943635Z","domain":"www.nmonesource.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812943715Z","domain":"www.ordersdecisions.bcuc.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812943795Z","domain":"www.trackenergyregs.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-08-26T19:08:52.812943885Z","domain":"www.trackenergyregs.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7675140459","timestamp":"2024-08-26T19:08:52.812943975Z","domain":"di.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-10T00:00:00Z","to":"2025-08-09T23:59:59Z"}
+{"id":"7675144616","timestamp":"2024-08-26T19:08:52.812944055Z","domain":"di.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-10T00:00:00Z","to":"2025-08-09T23:59:59Z"}
+{"id":"7704787147","timestamp":"2024-08-26T19:08:52.812944146Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-07-13T23:02:40Z","to":"2024-10-11T23:02:39Z"}
+{"id":"7714733926","timestamp":"2024-08-26T19:08:52.812944236Z","domain":"jcr-rjc.ca","issuer":"Entrust","from":"2024-07-15T11:14:24Z","to":"2025-07-15T11:14:23Z"}
+{"id":"7714733926","timestamp":"2024-08-26T19:08:52.812944326Z","domain":"www.fr.forces.gc.ca","issuer":"Entrust","from":"2024-07-15T11:14:24Z","to":"2025-07-15T11:14:23Z"}
+{"id":"7714733926","timestamp":"2024-08-26T19:08:52.812944406Z","domain":"www.jcr-rjc.ca","issuer":"Entrust","from":"2024-07-15T11:14:24Z","to":"2025-07-15T11:14:23Z"}
+{"id":"7723711894","timestamp":"2024-08-26T19:08:52.812944486Z","domain":"dsc-tss-cma-test.forces.gc.ca","issuer":"Entrust","from":"2024-07-16T11:32:23Z","to":"2025-08-16T11:32:22Z"}
+{"id":"7725821850","timestamp":"2024-08-26T19:08:52.812944587Z","domain":"cafpay-soldefac.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-07-16T17:39:16Z","to":"2025-08-16T17:39:15Z"}
+{"id":"7725821850","timestamp":"2024-08-26T19:08:52.812944667Z","domain":"cafpay-soldefac-stg.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-07-16T17:39:16Z","to":"2025-08-16T17:39:15Z"}
+{"id":"7725821850","timestamp":"2024-08-26T19:08:52.812944757Z","domain":"pshcp-rssfp.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-07-16T17:39:16Z","to":"2025-08-16T17:39:15Z"}
+{"id":"7725821850","timestamp":"2024-08-26T19:08:52.812944837Z","domain":"pshcp-rssfp-stg.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-07-16T17:39:16Z","to":"2025-08-16T17:39:15Z"}
+{"id":"7725821850","timestamp":"2024-08-26T19:08:52.812944917Z","domain":"rtm-gtr-web.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-07-16T17:39:16Z","to":"2025-08-16T17:39:15Z"}
+{"id":"7725821850","timestamp":"2024-08-26T19:08:52.812944997Z","domain":"stg-rtm-gtr-web.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-07-16T17:39:16Z","to":"2025-08-16T17:39:15Z"}
+{"id":"7749394514","timestamp":"2024-08-26T19:08:52.812945088Z","domain":"athenapro.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-07-19T13:17:06Z","to":"2025-08-19T13:17:05Z"}
+{"id":"7749728217","timestamp":"2024-08-26T19:08:52.812945178Z","domain":"pvc-dev.cloud.forces.gc.ca","issuer":"DigiCert","from":"2024-07-19T00:00:00Z","to":"2025-07-19T23:59:59Z"}
+{"id":"7767205180","timestamp":"2024-08-26T19:08:52.812945268Z","domain":"api.dfs-dsv-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-22T00:00:00Z","to":"2025-08-21T23:59:59Z"}
+{"id":"7769076200","timestamp":"2024-08-26T19:08:52.812945348Z","domain":"dfs-dsv-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-22T00:00:00Z","to":"2025-08-21T23:59:59Z"}
+{"id":"7774894425","timestamp":"2024-08-26T19:08:52.812945438Z","domain":"api.dfs-dsv.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-23T00:00:00Z","to":"2025-08-22T23:59:59Z"}
+{"id":"7778618858","timestamp":"2024-08-26T19:08:52.812945528Z","domain":"dfs-dsv.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-23T00:00:00Z","to":"2025-08-21T23:59:59Z"}
+{"id":"7779306293","timestamp":"2024-08-26T19:08:52.812945618Z","domain":"sc2is.rcaf-arc.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-07-23T14:06:32Z","to":"2025-08-23T14:06:31Z"}
+{"id":"7802357679","timestamp":"2024-08-26T19:08:52.812945698Z","domain":"aad-sso.rcaf-arc.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-07-26T15:57:45Z","to":"2025-07-10T15:57:44Z"}
+{"id":"7803280411","timestamp":"2024-08-26T19:08:52.812945789Z","domain":"api.army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-26T00:00:00Z","to":"2025-08-24T23:59:59Z"}
+{"id":"7803280411","timestamp":"2024-08-26T19:08:52.812945879Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-26T00:00:00Z","to":"2025-08-24T23:59:59Z"}
+{"id":"7803280411","timestamp":"2024-08-26T19:08:52.812945959Z","domain":"army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-26T00:00:00Z","to":"2025-08-24T23:59:59Z"}
+{"id":"7818794776","timestamp":"2024-08-26T19:08:52.812946049Z","domain":"ds.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-29T00:00:00Z","to":"2025-08-28T23:59:59Z"}
+{"id":"7818806104","timestamp":"2024-08-26T19:08:52.812946129Z","domain":"ds.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-29T00:00:00Z","to":"2025-08-28T23:59:59Z"}
+{"id":"7818806381","timestamp":"2024-08-26T19:08:52.812946219Z","domain":"api.atess.dfs-dsv-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-29T00:00:00Z","to":"2025-08-28T23:59:59Z"}
+{"id":"7820184279","timestamp":"2024-08-26T19:08:52.81294631Z","domain":"atess.dfs-dsv-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-29T00:00:00Z","to":"2025-08-28T23:59:59Z"}
+{"id":"7824023834","timestamp":"2024-08-26T19:08:52.8129464Z","domain":"admin.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-29T00:00:00Z","to":"2025-08-27T23:59:59Z"}
+{"id":"7824866715","timestamp":"2024-08-26T19:08:52.81294648Z","domain":"api.admin.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-29T00:00:00Z","to":"2025-08-27T23:59:59Z"}
+{"id":"7825248661","timestamp":"2024-08-26T19:08:52.81294657Z","domain":"admin.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-07-29T00:00:00Z","to":"2025-08-27T23:59:59Z"}
+{"id":"7833944618","timestamp":"2024-08-26T19:08:52.81294666Z","domain":"bib.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-07-30T23:58:45Z","to":"2024-10-28T23:58:44Z"}
+{"id":"7833983952","timestamp":"2024-08-26T19:08:52.812946751Z","domain":"www.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-07-31T00:04:27Z","to":"2024-10-29T00:04:26Z"}
+{"id":"7833992291","timestamp":"2024-08-26T19:08:52.812946831Z","domain":"mars.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-07-31T00:07:14Z","to":"2024-10-29T00:07:13Z"}
+{"id":"7850778853","timestamp":"2024-08-26T19:08:52.812946921Z","domain":"*.chat.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-08-02T00:00:00Z","to":"2025-09-01T23:59:59Z"}
+{"id":"7850778853","timestamp":"2024-08-26T19:08:52.812947011Z","domain":"chat.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-08-02T00:00:00Z","to":"2025-09-01T23:59:59Z"}
+{"id":"7853692854","timestamp":"2024-08-26T19:08:52.812947091Z","domain":"*.chat.army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-08-02T00:00:00Z","to":"2025-08-31T23:59:59Z"}
+{"id":"7853692854","timestamp":"2024-08-26T19:08:52.812947171Z","domain":"chat.army.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-08-02T00:00:00Z","to":"2025-08-31T23:59:59Z"}
+{"id":"7864014216","timestamp":"2024-08-26T19:08:52.950491768Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-08-03T23:04:02Z","to":"2024-11-01T23:04:01Z"}
+{"id":"7867009255","timestamp":"2024-08-26T19:08:52.950493992Z","domain":"portal-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2024-08-04T09:32:20Z","to":"2024-11-02T10:26:55Z"}
+{"id":"7895926868","timestamp":"2024-08-26T19:08:52.95050375Z","domain":"tidedatavpndev.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-08-08T11:57:46Z","to":"2025-09-08T11:57:45Z"}
+{"id":"7918228116","timestamp":"2024-08-26T19:08:52.950504973Z","domain":"jimmy-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-08-11T00:00:00Z","to":"2025-09-09T23:59:59Z"}
+{"id":"7925501037","timestamp":"2024-08-26T19:08:52.950505103Z","domain":"tidedatavpnqa.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-08-12T11:20:05Z","to":"2025-08-12T11:20:04Z"}
+{"id":"7934646040","timestamp":"2024-08-26T19:08:52.950505995Z","domain":"tide-flowtime.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-08-13T17:00:22Z","to":"2025-09-13T17:00:21Z"}
+{"id":"7943645681","timestamp":"2024-08-26T19:08:52.950506105Z","domain":"api.admin.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-08-14T00:00:00Z","to":"2025-09-12T23:59:59Z"}
+{"id":"7948947542","timestamp":"2024-08-26T19:08:52.950506245Z","domain":"autodiscover.forces.gc.ca","issuer":"Entrust","from":"2024-08-15T15:25:53Z","to":"2025-09-15T15:25:51Z"}
+{"id":"7948947542","timestamp":"2024-08-26T19:08:52.950506345Z","domain":"autodiscover.forces.mil.ca","issuer":"Entrust","from":"2024-08-15T15:25:53Z","to":"2025-09-15T15:25:51Z"}
+{"id":"7948947542","timestamp":"2024-08-26T19:08:52.950507528Z","domain":"autodiscover.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-08-15T15:25:53Z","to":"2025-09-15T15:25:51Z"}
+{"id":"7948947542","timestamp":"2024-08-26T19:08:52.950507628Z","domain":"mail-dnd-alt.forces.mil.ca","issuer":"Entrust","from":"2024-08-15T15:25:53Z","to":"2025-09-15T15:25:51Z"}
+{"id":"7948947542","timestamp":"2024-08-26T19:08:52.950507728Z","domain":"mail-dnd.forces.gc.ca","issuer":"Entrust","from":"2024-08-15T15:25:53Z","to":"2025-09-15T15:25:51Z"}
+{"id":"7948947542","timestamp":"2024-08-26T19:08:52.950507818Z","domain":"mail-dnd.forces.mil.ca","issuer":"Entrust","from":"2024-08-15T15:25:53Z","to":"2025-09-15T15:25:51Z"}
+{"id":"7948947542","timestamp":"2024-08-26T19:08:52.950507908Z","domain":"mail-dnd-sfk.forces.mil.ca","issuer":"Entrust","from":"2024-08-15T15:25:53Z","to":"2025-09-15T15:25:51Z"}
+{"id":"7948947542","timestamp":"2024-08-26T19:08:52.950508008Z","domain":"mrs1.forces.gc.ca","issuer":"Entrust","from":"2024-08-15T15:25:53Z","to":"2025-09-15T15:25:51Z"}
+{"id":"7948947542","timestamp":"2024-08-26T19:08:52.950508299Z","domain":"mrs2.forces.gc.ca","issuer":"Entrust","from":"2024-08-15T15:25:53Z","to":"2025-09-15T15:25:51Z"}
+{"id":"7957377675","timestamp":"2024-08-26T19:08:52.950508419Z","domain":"tide-sasweb.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-08-16T17:48:21Z","to":"2025-09-16T17:48:20Z"}
+{"id":"7957462813","timestamp":"2024-08-26T19:08:52.950508529Z","domain":"tide-hub.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-08-16T18:06:49Z","to":"2025-09-16T18:06:48Z"}
+{"id":"7972733408","timestamp":"2024-08-26T19:08:52.950509912Z","domain":"portal-api-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2024-08-18T19:40:34Z","to":"2024-11-16T20:34:48Z"}
+{"id":"7979002700","timestamp":"2024-08-26T19:08:52.950510082Z","domain":"*.dnastack-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-08-19T00:00:00Z","to":"2025-09-17T23:59:59Z"}
+{"id":"7979002700","timestamp":"2024-08-26T19:08:52.950510193Z","domain":"dnastack-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-08-19T00:00:00Z","to":"2025-09-17T23:59:59Z"}
+{"id":"7985393122","timestamp":"2024-08-26T19:08:52.950510333Z","domain":"tideppd-flowtime.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-08-20T13:24:12Z","to":"2025-09-20T13:24:11Z"}
+{"id":"7985393122","timestamp":"2024-08-26T19:08:52.950510433Z","domain":"tideppd-hub.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-08-20T13:24:12Z","to":"2025-09-20T13:24:11Z"}
+{"id":"7985393122","timestamp":"2024-08-26T19:08:52.950510543Z","domain":"tideppd-sasweb.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-08-20T13:24:12Z","to":"2025-09-20T13:24:11Z"}
+{"id":"7985437543","timestamp":"2024-08-26T19:08:52.950510653Z","domain":"tideppd-hub.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-08-20T13:33:03Z","to":"2025-09-20T13:33:02Z"}
+{"id":"7985466198","timestamp":"2024-08-26T19:08:52.950510754Z","domain":"tideppd-sasweb.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-08-20T13:36:55Z","to":"2025-09-20T13:36:54Z"}
+{"id":"7986664997","timestamp":"2024-08-26T19:08:52.950510874Z","domain":"cafoap-pclfac.forces.gc.ca","issuer":"Entrust","from":"2024-08-20T17:10:10Z","to":"2025-09-20T17:10:09Z"}
+{"id":"7986664997","timestamp":"2024-08-26T19:08:52.950510964Z","domain":"www.cafoap-pclfac.forces.gc.ca","issuer":"Entrust","from":"2024-08-20T17:10:10Z","to":"2025-09-20T17:10:09Z"}
+{"id":"7986925830","timestamp":"2024-08-26T19:08:52.950511084Z","domain":"cafoap-pp1-beta.forces.gc.ca","issuer":"Entrust","from":"2024-08-20T17:57:53Z","to":"2025-09-20T17:57:52Z"}
+{"id":"7986925830","timestamp":"2024-08-26T19:08:52.950511174Z","domain":"www.cafoap-pp1-beta.forces.gc.ca","issuer":"Entrust","from":"2024-08-20T17:57:53Z","to":"2025-09-20T17:57:52Z"}
+{"id":"7988959949","timestamp":"2024-08-26T19:08:52.950511284Z","domain":"jdcp-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-08-21T00:00:00Z","to":"2025-09-20T23:59:59Z"}
+{"id":"7990100938","timestamp":"2024-08-26T19:08:52.950511395Z","domain":"jdcp-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-08-21T00:00:00Z","to":"2025-09-20T23:59:59Z"}
+{"id":"7992121252","timestamp":"2024-08-26T19:08:52.950511495Z","domain":"cafoap-pp2-trg.forces.gc.ca","issuer":"Entrust","from":"2024-08-21T09:29:40Z","to":"2025-08-21T09:29:39Z"}
+{"id":"7992121252","timestamp":"2024-08-26T19:08:52.950511595Z","domain":"www.cafoap-pp2-trg.forces.gc.ca","issuer":"Entrust","from":"2024-08-21T09:29:40Z","to":"2025-08-21T09:29:39Z"}
+{"id":"7999003601","timestamp":"2024-08-26T19:08:52.950511695Z","domain":"cadcopdev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-08-22T00:00:00Z","to":"2025-09-20T23:59:59Z"}
+{"id":"8030195131","timestamp":"2024-08-26T19:08:52.950511805Z","domain":"cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-08-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
