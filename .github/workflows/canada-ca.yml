@@ -3,6 +3,9 @@ name: Tail canada.ca logs
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
     tail-canada-ca-logs:
       runs-on: ubuntu-latest
