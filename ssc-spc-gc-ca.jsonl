@@ -424,3 +424,8 @@
 {"id":"8041425430","timestamp":"2024-08-27T16:40:39.052885318Z","domain":"tcclarityuatreport.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-08-27T15:31:16Z","to":"2025-09-27T15:31:15Z"}
 {"id":"8041425430","timestamp":"2024-08-27T16:40:39.052885408Z","domain":"tcclarityuat.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-08-27T15:31:16Z","to":"2025-09-27T15:31:15Z"}
 {"id":"8045922830","timestamp":"2024-08-28T05:39:20.607645104Z","domain":"icelab-nextcloud.ctoblab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2024-08-28T03:35:38Z","to":"2024-11-26T03:35:37Z"}
+{"id":"8050362046","timestamp":"2024-08-28T17:39:22.376016801Z","domain":"autodiscover.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-08-28T17:26:15Z","to":"2025-09-27T17:26:14Z"}
+{"id":"8050362046","timestamp":"2024-08-28T17:39:22.376017092Z","domain":"hyb1.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-08-28T17:26:15Z","to":"2025-09-27T17:26:14Z"}
+{"id":"8050362046","timestamp":"2024-08-28T17:39:22.376017252Z","domain":"hyb2.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-08-28T17:26:15Z","to":"2025-09-27T17:26:14Z"}
+{"id":"8050362046","timestamp":"2024-08-28T17:39:22.376017392Z","domain":"mail.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-08-28T17:26:15Z","to":"2025-09-27T17:26:14Z"}
+{"id":"8050362046","timestamp":"2024-08-28T17:39:22.376017462Z","domain":"smtp.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-08-28T17:26:15Z","to":"2025-09-27T17:26:14Z"}
