@@ -3847,3 +3847,8 @@
 {"id":"8050805788","timestamp":"2024-08-28T19:18:17.369558737Z","domain":"*.md.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2024-08-28T00:00:00Z","to":"2024-11-26T23:59:59Z"}
 {"id":"8050964439","timestamp":"2024-08-28T19:18:17.369558807Z","domain":"*.md.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2024-08-28T00:00:00Z","to":"2024-11-26T23:59:59Z"}
 {"id":"8053276352","timestamp":"2024-08-29T02:31:38.214666238Z","domain":"tapx-rolemanager-uat-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2024-08-29T00:00:00Z","to":"2025-02-28T23:59:59Z"}
+{"id":"8055153247","timestamp":"2024-08-29T08:19:45.537499668Z","domain":"policy-community.canada.ca","issuer":"Let's Encrypt","from":"2024-08-29T06:15:46Z","to":"2024-11-27T06:15:45Z"}
+{"id":"8055211065","timestamp":"2024-08-29T08:19:45.537500009Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-08-29T06:25:56Z","to":"2024-11-27T06:25:55Z"}
+{"id":"8055211065","timestamp":"2024-08-29T08:19:45.537500229Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-08-29T06:25:56Z","to":"2024-11-27T06:25:55Z"}
+{"id":"8055234319","timestamp":"2024-08-29T08:19:45.53750043Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-08-29T06:29:07Z","to":"2024-11-27T06:29:06Z"}
+{"id":"8055234319","timestamp":"2024-08-29T08:19:45.53750052Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-08-29T06:29:07Z","to":"2024-11-27T06:29:06Z"}
