@@ -3877,3 +3877,5 @@
 {"id":"8070444591","timestamp":"2024-08-31T01:44:41.566073209Z","domain":"rp1-oidc.id.alpha.canada.ca","issuer":"DigiCert","from":"2024-08-31T00:00:00Z","to":"2025-02-28T23:59:59Z"}
 {"id":"8077647032","timestamp":"2024-08-31T22:18:48.894462982Z","domain":"oidc-provider.id.alpha.canada.ca","issuer":"DigiCert","from":"2024-08-31T00:00:00Z","to":"2025-02-28T23:59:59Z"}
 {"id":"8080055915","timestamp":"2024-09-01T04:20:06.366555319Z","domain":"rp2-oidc.id.alpha.canada.ca","issuer":"DigiCert","from":"2024-09-01T00:00:00Z","to":"2025-03-01T23:59:59Z"}
+{"id":"8080386562","timestamp":"2024-09-01T05:18:57.03921975Z","domain":"connect.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T03:39:01Z","to":"2024-11-30T03:39:00Z"}
+{"id":"8080386562","timestamp":"2024-09-01T05:18:57.039220101Z","domain":"www.connect.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T03:39:01Z","to":"2024-11-30T03:39:00Z"}
