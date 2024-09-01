@@ -3880,3 +3880,9 @@
 {"id":"8080386562","timestamp":"2024-09-01T05:18:57.03921975Z","domain":"connect.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T03:39:01Z","to":"2024-11-30T03:39:00Z"}
 {"id":"8080386562","timestamp":"2024-09-01T05:18:57.039220101Z","domain":"www.connect.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T03:39:01Z","to":"2024-11-30T03:39:00Z"}
 {"id":"8080564606","timestamp":"2024-09-01T06:20:08.363189901Z","domain":"communaute-politiques.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T04:15:54Z","to":"2024-11-30T04:15:53Z"}
+{"id":"8081647900","timestamp":"2024-09-01T09:18:51.86343143Z","domain":"*.acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T08:02:01Z","to":"2024-11-30T08:02:00Z"}
+{"id":"8081647900","timestamp":"2024-09-01T09:18:51.86343168Z","domain":"acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T08:02:01Z","to":"2024-11-30T08:02:00Z"}
+{"id":"8081652504","timestamp":"2024-09-01T09:18:51.86343184Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T08:02:51Z","to":"2024-11-30T08:02:50Z"}
+{"id":"8081652504","timestamp":"2024-09-01T09:18:51.863432001Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T08:02:51Z","to":"2024-11-30T08:02:50Z"}
+{"id":"8081653578","timestamp":"2024-09-01T09:18:51.863432081Z","domain":"*.tc.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T08:03:47Z","to":"2024-11-30T08:03:46Z"}
+{"id":"8081653578","timestamp":"2024-09-01T09:18:51.863432842Z","domain":"tc.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T08:03:47Z","to":"2024-11-30T08:03:46Z"}
