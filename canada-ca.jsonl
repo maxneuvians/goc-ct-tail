@@ -3887,3 +3887,8 @@
 {"id":"8081653578","timestamp":"2024-09-01T09:18:51.863432081Z","domain":"*.tc.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T08:03:47Z","to":"2024-11-30T08:03:46Z"}
 {"id":"8081653578","timestamp":"2024-09-01T09:18:51.863432842Z","domain":"tc.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T08:03:47Z","to":"2024-11-30T08:03:46Z"}
 {"id":"8083162394","timestamp":"2024-09-01T15:18:46.704019425Z","domain":"nachet.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T13:20:12Z","to":"2024-11-30T13:20:11Z"}
+{"id":"8085872791","timestamp":"2024-09-02T00:30:55.511205742Z","domain":"*.itsm.qa.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2024-09-02T00:00:00Z","to":"2025-10-02T23:59:59Z"}
+{"id":"8085872791","timestamp":"2024-09-02T00:30:55.511206043Z","domain":"itsm.qa.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2024-09-02T00:00:00Z","to":"2025-10-02T23:59:59Z"}
+{"id":"8085875553","timestamp":"2024-09-02T00:30:55.511206273Z","domain":"*.itsm.dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2024-09-02T00:00:00Z","to":"2025-10-02T23:59:59Z"}
+{"id":"8085875553","timestamp":"2024-09-02T00:30:55.511206504Z","domain":"itsm.dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2024-09-02T00:00:00Z","to":"2025-10-02T23:59:59Z"}
+{"id":"8085942840","timestamp":"2024-09-02T00:30:55.511206604Z","domain":"test.canada.ca","issuer":"Let's Encrypt","from":"2024-09-01T23:21:00Z","to":"2024-11-30T23:20:59Z"}
