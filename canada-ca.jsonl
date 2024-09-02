@@ -3895,3 +3895,14 @@
 {"id":"8086979618","timestamp":"2024-09-02T04:19:35.321174341Z","domain":"conception.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T02:41:29Z","to":"2024-12-01T02:41:28Z"}
 {"id":"8089868690","timestamp":"2024-09-02T13:20:02.08035431Z","domain":"dol-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T11:31:29Z","to":"2024-12-01T11:31:28Z"}
 {"id":"8089975316","timestamp":"2024-09-02T13:20:02.08035464Z","domain":"grafana.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T11:50:43Z","to":"2024-12-01T11:50:42Z"}
+{"id":"8092112696","timestamp":"2024-09-02T20:19:20.707555945Z","domain":"*.bc.paradire.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T18:34:27Z","to":"2024-12-01T18:34:26Z"}
+{"id":"8092119926","timestamp":"2024-09-02T20:19:20.707556265Z","domain":"*.nb.paradire.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T18:36:26Z","to":"2024-12-01T18:36:25Z"}
+{"id":"8092121917","timestamp":"2024-09-02T20:19:20.707556425Z","domain":"*.ns.paradire.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T18:36:44Z","to":"2024-12-01T18:36:43Z"}
+{"id":"8092123033","timestamp":"2024-09-02T20:19:20.707556606Z","domain":"*.nt.paradire.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T18:37:00Z","to":"2024-12-01T18:36:59Z"}
+{"id":"8092123620","timestamp":"2024-09-02T20:19:20.707556686Z","domain":"*.on.paradire.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T18:37:30Z","to":"2024-12-01T18:37:29Z"}
+{"id":"8092123651","timestamp":"2024-09-02T20:19:20.707557668Z","domain":"*.phac.paradire.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T18:34:19Z","to":"2024-12-01T18:34:18Z"}
+{"id":"8092124048","timestamp":"2024-09-02T20:19:20.707557738Z","domain":"*.nu.paradire.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T18:37:17Z","to":"2024-12-01T18:37:16Z"}
+{"id":"8092126934","timestamp":"2024-09-02T20:19:20.707557808Z","domain":"*.mb.paradire.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T18:36:04Z","to":"2024-12-01T18:36:03Z"}
+{"id":"8092128936","timestamp":"2024-09-02T20:19:20.707557878Z","domain":"*.pe.paradire.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T18:37:46Z","to":"2024-12-01T18:37:45Z"}
+{"id":"8092131070","timestamp":"2024-09-02T20:19:20.707558609Z","domain":"*.sk.paradire.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T18:38:15Z","to":"2024-12-01T18:38:14Z"}
+{"id":"8092135284","timestamp":"2024-09-02T20:19:20.707558679Z","domain":"*.yt.paradire.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T18:38:35Z","to":"2024-12-01T18:38:34Z"}
