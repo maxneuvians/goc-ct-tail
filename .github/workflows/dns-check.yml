@@ -21,7 +21,7 @@ jobs:
           id: critical_domains
           run: |
             echo "critical_domains=$(jq 'length' critical.json)" >> $GITHUB_ENV
-            echo "domains=$(jq -r '.Domain' critical.json)" >> $GITHUB_ENV
+            echo "domains=$(jq -r '.[].Domain' critical.json)" >> $GITHUB_ENV
 
         - name: Send email if critical domains found
           uses: cds-snc/gc-notification-github-action@main
