@@ -24,19 +24,23 @@ jobs:
         - name: Get length of critical domains and save in output
           id: critical_domains
           run: |
-            domain_list=$(jq -r '.[].Domain' critical.json)
-            echo "::add-mask::$domain_list"
             echo "critical_domains=$(jq 'length' critical.json)" >> $GITHUB_OUTPUT
-            echo "domains<<EOF" >> $GITHUB_OUTPUT
-            echo "$domain_list" >> $GITHUB_OUTPUT
-            echo "EOF" >> $GITHUB_OUTPUT
-            
+
+        - name: Upload critical domains
+          id: upload_critical_domains
+          if: steps.critical_domains.outputs.critical_domains > 0
+          uses: actions/upload-artifact@v4
+            with:
+              name: critical-domains
+              path: critical.json
+              retention-days: 1
+
 
         - name: Send email if critical domains found
           if: steps.critical_domains.outputs.critical_domains > 0
           uses: cds-snc/gc-notification-github-action@main
           env:
-            BODY: '{"subject": "Domains for hijacking found", "body": "${{ steps.critical_domains.outputs.domains }}"}'
+            BODY: '{"subject": "${{ steps.critical_domains.outputs.critical_domains }} vulnerable domains found", "body": "[View domain list]${{ steps.upload_critical_domains.outputs.artifact-url }}"}'
           with:
             api-key: ${{ secrets.NOTIFY_API_KEY }}
             personalisation: ${{ env.BODY }}
