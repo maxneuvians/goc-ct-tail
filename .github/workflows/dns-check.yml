@@ -25,7 +25,7 @@ jobs:
           id: critical_domains
           run: |
             echo "critical_domains=$(jq 'length' critical.json)" >> $GITHUB_OUTPUT
-            echo "filecontent=${base64 -w 0 critical.json}" >> $GITHUB_OUTPUT
+            echo "filecontent=$(base64 -w 0 critical.json)" >> $GITHUB_OUTPUT
 
         - name: Send email if critical domains found
           if: steps.critical_domains.outputs.critical_domains > 0
