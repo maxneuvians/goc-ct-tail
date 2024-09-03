@@ -31,7 +31,7 @@ jobs:
           if: steps.critical_domains.outputs.critical_domains > 0
           uses: cds-snc/gc-notification-github-action@main
           env:
-            BODY: '{"subject": "${{ steps.critical_domains.outputs.critical_domains }} vulnerable domains found", "body": "See attached", "critical_file": {"file": "${{ steps.critical_domains.outputs.filecontent }}", "filename": "critical.json", "sending_method": "attach"  }}'
+            BODY: '{"subject": "${{ steps.critical_domains.outputs.critical_domains }} vulnerable domains found", "body": "See attached", "critical_file": {"file": "Q2FuYWRh", "filename": "critical.json", "sending_method": "attach"  }}'
           with:
             api-key: ${{ secrets.NOTIFY_API_KEY }}
             personalisation: ${{ env.BODY }}
