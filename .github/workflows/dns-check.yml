@@ -24,10 +24,10 @@ jobs:
             echo 'domains=$(cat critical.json)' >> $GITHUB_ENV
 
         - name: Send email if critical domains found
-          if: steps.critical_domains.outputs.critical_domains
           uses: cds-snc/gc-notification-github-action@main
           env:
             BODY: '{"subject": "Domains for hijacking found", "body": "${{ steps.critical_domains.outputs.domains }}"}'
+            LENGTH: ${{ steps.critical_domains.outputs.critical_domains }}
           with:
             api-key: ${{ secrets.NOTIFY_API_KEY }}
             personalisation: ${{ env.BODY }}
