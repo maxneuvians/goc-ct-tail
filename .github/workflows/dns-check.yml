@@ -1,0 +1,22 @@
+name: Check DNS records for hicjacking
+
+on:
+  workflow_dispatch:
+
+jobs:
+    check-dns-records:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+
+        - name: Convert JSONL logs to JSON
+          run: |
+            jq -r '.domain' nrcan-gc-ca.jsonl | sort | uniq > domains.txt
+
+        - name: Check DNS records
+          uses: maxneuvians/dns-hijack-check-action@main
+
+        - name: Cat critical.json
+          run: |
+            cat critical.json
