@@ -20,8 +20,8 @@ jobs:
         - name: Get length of critical domains and save in output
           id: critical_domains
           run: |
-            echo "critical_domains=$(jq 'length' critical.json)" >> $GITHUB_ENV
-            echo "domains=$(jq -r '.[].Domain' critical.json)" >> $GITHUB_ENV
+            echo "critical_domains=$(jq 'length' critical.json)" >> $GITHUB_OUTPUT
+            echo "domains=$(jq -r '.[].Domain' critical.json)" >> $GITHUB_OUTPUT
 
         - name: Send email if critical domains found
           uses: cds-snc/gc-notification-github-action@main
