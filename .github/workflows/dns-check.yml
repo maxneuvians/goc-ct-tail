@@ -26,9 +26,10 @@ jobs:
           run: |
             echo "critical_domains=$(jq 'length' critical.json)" >> $GITHUB_OUTPUT
             jq '.[].Domain' critical.json > critical.txt
-            echo "filecontent=$(base64 -w 0 critical.txt)" >> $GITHUB_OUTPUT
-            echo "filecontent=$(base64 -w 0 critical.txt)" >> $GITHUB_ENV
-
+            filecontent=$(base64 -w 0 critical.txt)
+            echo "filecontent=$filecontent" >> $GITHUB_OUTPUT
+            echo "::add-mask::$filecontent"
+            
         - name: Send email if critical domains found
           if: steps.critical_domains.outputs.critical_domains > 0
           uses: cds-snc/gc-notification-github-action@main
