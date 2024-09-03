@@ -1,4 +1,4 @@
-name: Check DNS records for hicjacking
+name: Check DNS records for hijacking
 
 on:
   workflow_dispatch:
@@ -17,6 +17,20 @@ jobs:
         - name: Check DNS records
           uses: maxneuvians/dns-hijack-check-action@main
 
-        - name: Cat critical.json
+        - name: Get length of critical domains and save in output
+          id: critical_domains
           run: |
-            cat critical.json
+            critical_domains=$(jq 'length' critical.json)
+            echo "critical_domains=$critical_domains" >> $GITHUB_ENV
+            echo "domains=$(cat critical.json)" >> $GITHUB_ENV
+
+        - name: Send email if critical domains found
+          if: steps.critical_domains.outputs.critical_domains > 0
+          uses: cds-snc/gc-notification-github-action@main
+          env:
+            BODY: '{"subject": "Domains for hijacking found", "body": "${{ steps.critical_domains.outputs.domains }}"}'
+          with:
+            api-key: ${{ secrets.NOTIFY_API_KEY }}
+            personalisation: ${{ env.BODY }}
+            recipient: max@neuvians.net
+            template-id: ${{ secrets.NOTIFY_EMAIL_TEMPLATE_ID }}
