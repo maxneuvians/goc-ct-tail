@@ -30,10 +30,10 @@ jobs:
           id: upload_critical_domains
           if: steps.critical_domains.outputs.critical_domains > 0
           uses: actions/upload-artifact@v4
-            with:
-              name: critical-domains
-              path: critical.json
-              retention-days: 1
+          with:
+            name: critical-domains
+            path: critical.json
+            retention-days: 1
 
 
         - name: Send email if critical domains found
