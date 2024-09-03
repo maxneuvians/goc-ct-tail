@@ -26,12 +26,13 @@ jobs:
           run: |
             echo "critical_domains=$(jq 'length' critical.json)" >> $GITHUB_OUTPUT
             echo "filecontent=$(base64 -w 0 critical.json)" >> $GITHUB_OUTPUT
+            echo "filecontent=$(base64 -w 0 critical.json)" >> $GITHUB_ENV
 
         - name: Send email if critical domains found
           if: steps.critical_domains.outputs.critical_domains > 0
           uses: cds-snc/gc-notification-github-action@main
           env:
-            BODY: '{"subject": "${{ steps.critical_domains.outputs.critical_domains }} vulnerable domains found", "body": "See attached", "critical_file": {"file": "Q2FuYWRh", "filename": "critical.json", "sending_method": "attach"  }}'
+            BODY: '{"subject": "${{ steps.critical_domains.outputs.critical_domains }} vulnerable domains found", "body": "See attached", "critical_file": {"file": "${{ steps.critical_domains.outputs.filecontent }}", "filename": "critical.txt", "sending_method": "attach"  }}'
           with:
             api-key: ${{ secrets.NOTIFY_API_KEY }}
             personalisation: ${{ env.BODY }}
