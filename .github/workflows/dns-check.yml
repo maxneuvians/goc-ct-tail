@@ -22,7 +22,7 @@ jobs:
           run: |
             critical_domains=$(jq 'length' critical.json)
             echo "critical_domains=$critical_domains" >> $GITHUB_ENV
-            echo "domains=$(cat critical.json)" >> $GITHUB_ENV
+            echo 'domains=$(cat critical.json)' >> $GITHUB_ENV
 
         - name: Send email if critical domains found
           if: steps.critical_domains.outputs.critical_domains > 0
