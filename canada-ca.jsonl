@@ -3907,3 +3907,7 @@
 {"id":"8092131070","timestamp":"2024-09-02T20:19:20.707558609Z","domain":"*.sk.paradire.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T18:38:15Z","to":"2024-12-01T18:38:14Z"}
 {"id":"8092135284","timestamp":"2024-09-02T20:19:20.707558679Z","domain":"*.yt.paradire.phac-aspc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-02T18:38:35Z","to":"2024-12-01T18:38:34Z"}
 {"id":"8095081362","timestamp":"2024-09-03T06:20:04.563288205Z","domain":"design.cra-arc.alpha.canada.ca","issuer":"DigiCert","from":"2024-09-03T00:00:00Z","to":"2025-09-03T23:59:59Z"}
+{"id":"8095812080","timestamp":"2024-09-03T08:19:49.285148261Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-03T06:25:21Z","to":"2024-12-02T06:25:20Z"}
+{"id":"8095812080","timestamp":"2024-09-03T08:19:49.285148512Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-03T06:25:21Z","to":"2024-12-02T06:25:20Z"}
+{"id":"8095823697","timestamp":"2024-09-03T08:19:49.285148692Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-03T06:25:54Z","to":"2024-12-02T06:25:53Z"}
+{"id":"8095823697","timestamp":"2024-09-03T08:19:49.285148873Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-03T06:25:54Z","to":"2024-12-02T06:25:53Z"}
