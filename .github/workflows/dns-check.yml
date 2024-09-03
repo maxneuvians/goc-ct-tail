@@ -25,22 +25,13 @@ jobs:
           id: critical_domains
           run: |
             echo "critical_domains=$(jq 'length' critical.json)" >> $GITHUB_OUTPUT
-
-        - name: Upload critical domains
-          id: upload_critical_domains
-          if: steps.critical_domains.outputs.critical_domains > 0
-          uses: actions/upload-artifact@v4
-          with:
-            name: critical-domains
-            path: critical.json
-            retention-days: 1
-
+            echo "filecontent=${base64 critical.json}" >> $GITHUB_OUTPUT
 
         - name: Send email if critical domains found
           if: steps.critical_domains.outputs.critical_domains > 0
           uses: cds-snc/gc-notification-github-action@main
           env:
-            BODY: '{"subject": "${{ steps.critical_domains.outputs.critical_domains }} vulnerable domains found", "body": "[View domain list](${{ steps.upload_critical_domains.outputs.artifact-url }})"}'
+            BODY: '{"subject": "${{ steps.critical_domains.outputs.critical_domains }} vulnerable domains found", "body": "See attached", "critical_file": {"file": "${{ steps.critical_domains.outputs.filecontent }}", "filename": "critical.json", "sending_method": "attach"  }}'
           with:
             api-key: ${{ secrets.NOTIFY_API_KEY }}
             personalisation: ${{ env.BODY }}
