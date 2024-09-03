@@ -40,7 +40,7 @@ jobs:
           if: steps.critical_domains.outputs.critical_domains > 0
           uses: cds-snc/gc-notification-github-action@main
           env:
-            BODY: '{"subject": "${{ steps.critical_domains.outputs.critical_domains }} vulnerable domains found", "body": "[View domain list]${{ steps.upload_critical_domains.outputs.artifact-url }}"}'
+            BODY: '{"subject": "${{ steps.critical_domains.outputs.critical_domains }} vulnerable domains found", "body": "[View domain list](${{ steps.upload_critical_domains.outputs.artifact-url }})"}'
           with:
             api-key: ${{ secrets.NOTIFY_API_KEY }}
             personalisation: ${{ env.BODY }}
