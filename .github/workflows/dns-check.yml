@@ -10,9 +10,13 @@ jobs:
         - name: Checkout
           uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
 
+        - name: Concatenate JSONL files
+          run: |
+            cat *.jsonl > combined.jsonl
+
         - name: Convert JSONL logs to JSON
           run: |
-            jq -r '.domain' nrcan-gc-ca.jsonl | sort | uniq > domains.txt
+            jq -r '.domain' combined.jsonl | sort | uniq > domains.txt
 
         - name: Check DNS records
           uses: maxneuvians/dns-hijack-check-action@main
