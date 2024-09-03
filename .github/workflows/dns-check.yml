@@ -24,10 +24,8 @@ jobs:
         - name: Get length of critical domains and save in output
           id: critical_domains
           run: |
-            domain_list=$(jq -r '.[].Domain' critical.json)
             echo "critical_domains=$(jq 'length' critical.json)" >> $GITHUB_OUTPUT
             echo "domains=$(jq -r '.[].Domain' critical.json)" >> $GITHUB_OUTPUT
-            echo "::add-mask::$domain_list"
 
         - name: Send email if critical domains found
           if: steps.critical_domains.outputs.critical_domains > 0
