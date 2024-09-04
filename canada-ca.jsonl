@@ -3917,3 +3917,5 @@
 {"id":"8098854250","timestamp":"2024-09-03T17:18:39.868505057Z","domain":"rappels.canada.ca","issuer":"DigiCert","from":"2024-09-03T00:00:00Z","to":"2025-09-03T23:59:59Z"}
 {"id":"8099270307","timestamp":"2024-09-03T18:19:51.53753405Z","domain":"ace.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-09-03T17:52:16Z","to":"2025-10-03T17:52:15Z"}
 {"id":"8099293351","timestamp":"2024-09-03T18:19:51.537534361Z","domain":"ace-main.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-09-03T17:57:16Z","to":"2025-10-03T17:57:15Z"}
+{"id":"8102391380","timestamp":"2024-09-04T05:19:00.300761063Z","domain":"diffusion-cnrc.canada.ca","issuer":"Let's Encrypt","from":"2024-09-04T03:26:07Z","to":"2024-12-03T03:26:06Z"}
+{"id":"8102409634","timestamp":"2024-09-04T05:19:00.300761414Z","domain":"outreach-nrc.canada.ca","issuer":"Let's Encrypt","from":"2024-09-04T03:26:10Z","to":"2024-12-03T03:26:09Z"}
