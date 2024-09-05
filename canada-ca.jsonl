@@ -4084,3 +4084,7 @@
 {"id":"8107298171","timestamp":"2024-09-04T20:19:48.648369268Z","domain":"resources.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-04T18:17:58Z","to":"2024-12-03T18:17:57Z"}
 {"id":"8110522112","timestamp":"2024-09-05T05:18:42.878756083Z","domain":"meteo-spatiale.canada.ca","issuer":"Sectigo","from":"2024-09-05T00:00:00Z","to":"2024-12-04T23:59:59Z"}
 {"id":"8110522112","timestamp":"2024-09-05T05:18:42.878756614Z","domain":"space-weather.canada.ca","issuer":"Sectigo","from":"2024-09-05T00:00:00Z","to":"2024-12-04T23:59:59Z"}
+{"id":"8111288680","timestamp":"2024-09-05T08:19:46.793389497Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-05T06:25:18Z","to":"2024-12-04T06:25:17Z"}
+{"id":"8111288680","timestamp":"2024-09-05T08:19:46.793389778Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-05T06:25:18Z","to":"2024-12-04T06:25:17Z"}
+{"id":"8111318030","timestamp":"2024-09-05T08:19:46.793390018Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-05T06:29:07Z","to":"2024-12-04T06:29:06Z"}
+{"id":"8111318030","timestamp":"2024-09-05T08:19:46.793390248Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-05T06:29:07Z","to":"2024-12-04T06:29:06Z"}
