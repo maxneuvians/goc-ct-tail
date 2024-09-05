@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-    tail-canada-ca-logs:
+    tail-nrcan-gc-ca-logs:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
