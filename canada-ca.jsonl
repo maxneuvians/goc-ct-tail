@@ -4101,3 +4101,5 @@
 {"id":"8116655341","timestamp":"2024-09-06T00:29:46.76670534Z","domain":"auth-dev.climate-change.canada.ca","issuer":"DigiCert","from":"2024-09-05T00:00:00Z","to":"2025-03-05T23:59:59Z"}
 {"id":"8116744838","timestamp":"2024-09-06T00:29:46.766705551Z","domain":"ace.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-09-06T00:12:24Z","to":"2025-09-06T00:12:23Z"}
 {"id":"8119437609","timestamp":"2024-09-06T09:19:22.012266404Z","domain":"code.open.canada.ca","issuer":"Let's Encrypt","from":"2024-09-06T07:45:01Z","to":"2024-12-05T07:45:00Z"}
+{"id":"8122094447","timestamp":"2024-09-06T17:18:19.65081661Z","domain":"finesse-internal.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-06T15:42:43Z","to":"2024-12-05T15:42:42Z"}
+{"id":"8122151100","timestamp":"2024-09-06T17:18:19.650816971Z","domain":"finesse.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-06T15:52:12Z","to":"2024-12-05T15:52:11Z"}
