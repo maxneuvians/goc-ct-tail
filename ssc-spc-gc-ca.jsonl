@@ -455,3 +455,13 @@
 {"id":"8159299826","timestamp":"2024-09-11T15:39:39.437749418Z","domain":"min2.pwgsc.gc.ca","issuer":"Entrust","from":"2024-09-11T15:29:52Z","to":"2025-09-27T15:29:51Z"}
 {"id":"8159299826","timestamp":"2024-09-11T15:39:39.437749528Z","domain":"smtp.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-09-11T15:29:52Z","to":"2025-09-27T15:29:51Z"}
 {"id":"8159299826","timestamp":"2024-09-11T15:39:39.437749628Z","domain":"smtp.tpsgc-pwgsc.gc.ca","issuer":"Entrust","from":"2024-09-11T15:29:52Z","to":"2025-09-27T15:29:51Z"}
+{"id":"8160717441","timestamp":"2024-09-11T20:39:01.119931339Z","domain":"daemon.srv.gc.ca","issuer":"Let's Encrypt","from":"2024-09-11T19:26:08Z","to":"2024-12-10T19:26:07Z"}
+{"id":"8160717441","timestamp":"2024-09-11T20:39:01.119931699Z","domain":"gdrm.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2024-09-11T19:26:08Z","to":"2024-12-10T19:26:07Z"}
+{"id":"8160717441","timestamp":"2024-09-11T20:39:01.119931909Z","domain":"registre.gc.ca","issuer":"Let's Encrypt","from":"2024-09-11T19:26:08Z","to":"2024-12-10T19:26:07Z"}
+{"id":"8160717441","timestamp":"2024-09-11T20:39:01.11993216Z","domain":"registre-registry.gc.ca","issuer":"Let's Encrypt","from":"2024-09-11T19:26:08Z","to":"2024-12-10T19:26:07Z"}
+{"id":"8160717441","timestamp":"2024-09-11T20:39:01.11993225Z","domain":"registry.gc.ca","issuer":"Let's Encrypt","from":"2024-09-11T19:26:08Z","to":"2024-12-10T19:26:07Z"}
+{"id":"8160717441","timestamp":"2024-09-11T20:39:01.119932761Z","domain":"registry-registre.gc.ca","issuer":"Let's Encrypt","from":"2024-09-11T19:26:08Z","to":"2024-12-10T19:26:07Z"}
+{"id":"8160717441","timestamp":"2024-09-11T20:39:01.119932851Z","domain":"www.registre.gc.ca","issuer":"Let's Encrypt","from":"2024-09-11T19:26:08Z","to":"2024-12-10T19:26:07Z"}
+{"id":"8160717441","timestamp":"2024-09-11T20:39:01.119932931Z","domain":"www.registre-registry.gc.ca","issuer":"Let's Encrypt","from":"2024-09-11T19:26:08Z","to":"2024-12-10T19:26:07Z"}
+{"id":"8160717441","timestamp":"2024-09-11T20:39:01.119933011Z","domain":"www.registry.gc.ca","issuer":"Let's Encrypt","from":"2024-09-11T19:26:08Z","to":"2024-12-10T19:26:07Z"}
+{"id":"8160717441","timestamp":"2024-09-11T20:39:01.119933532Z","domain":"www.registry-registre.gc.ca","issuer":"Let's Encrypt","from":"2024-09-11T19:26:08Z","to":"2024-12-10T19:26:07Z"}
