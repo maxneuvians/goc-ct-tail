@@ -4177,3 +4177,6 @@
 {"id":"8163066760","timestamp":"2024-09-12T05:18:53.602558886Z","domain":"canchat.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-09-12T00:00:00Z","to":"2025-03-12T23:59:59Z"}
 {"id":"8163229353","timestamp":"2024-09-12T05:18:53.602559427Z","domain":"chis.canada.ca","issuer":"Let's Encrypt","from":"2024-09-12T04:09:04Z","to":"2024-12-11T04:09:03Z"}
 {"id":"8163229353","timestamp":"2024-09-12T05:18:53.602559747Z","domain":"scir.canada.ca","issuer":"Let's Encrypt","from":"2024-09-12T04:09:04Z","to":"2024-12-11T04:09:03Z"}
+{"id":"8163951408","timestamp":"2024-09-12T08:19:43.108854371Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-12T06:34:09Z","to":"2024-12-11T06:34:08Z"}
+{"id":"8163951408","timestamp":"2024-09-12T08:19:43.108855413Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-12T06:34:09Z","to":"2024-12-11T06:34:08Z"}
+{"id":"8163977228","timestamp":"2024-09-12T08:19:43.108855684Z","domain":"tccampus-catalogue.tc.canada.ca","issuer":"Let's Encrypt","from":"2024-09-12T06:36:14Z","to":"2024-12-11T06:36:13Z"}
