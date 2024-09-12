@@ -4174,3 +4174,6 @@
 {"id":"8156166524","timestamp":"2024-09-11T05:18:47.657830091Z","domain":"seismes.canada.ca","issuer":"Let's Encrypt","from":"2024-09-11T03:40:03Z","to":"2024-12-10T03:40:02Z"}
 {"id":"8158137657","timestamp":"2024-09-11T12:20:57.251100158Z","domain":"dev.estimateurae-eiestimator.service.canada.ca","issuer":"Entrust","from":"2024-09-11T11:20:06Z","to":"2025-09-11T11:20:05Z"}
 {"id":"8160348748","timestamp":"2024-09-11T19:17:05.589104192Z","domain":"testjs2.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-09-11T00:00:00Z","to":"2025-10-10T23:59:59Z"}
+{"id":"8163066760","timestamp":"2024-09-12T05:18:53.602558886Z","domain":"canchat.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-09-12T00:00:00Z","to":"2025-03-12T23:59:59Z"}
+{"id":"8163229353","timestamp":"2024-09-12T05:18:53.602559427Z","domain":"chis.canada.ca","issuer":"Let's Encrypt","from":"2024-09-12T04:09:04Z","to":"2024-12-11T04:09:03Z"}
+{"id":"8163229353","timestamp":"2024-09-12T05:18:53.602559747Z","domain":"scir.canada.ca","issuer":"Let's Encrypt","from":"2024-09-12T04:09:04Z","to":"2024-12-11T04:09:03Z"}
