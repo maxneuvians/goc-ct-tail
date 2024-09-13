@@ -4190,3 +4190,5 @@
 {"id":"8169143018","timestamp":"2024-09-13T00:29:54.809191498Z","domain":"ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2024-09-13T00:00:00Z","to":"2025-10-13T23:59:59Z"}
 {"id":"8169353613","timestamp":"2024-09-13T01:46:07.892125674Z","domain":"api.io.canada.ca","issuer":"Let's Encrypt","from":"2024-09-12T23:48:28Z","to":"2024-12-11T23:48:27Z"}
 {"id":"8169353613","timestamp":"2024-09-13T01:46:07.892125894Z","domain":"api-test.io.canada.ca","issuer":"Let's Encrypt","from":"2024-09-12T23:48:28Z","to":"2024-12-11T23:48:27Z"}
+{"id":"8172945673","timestamp":"2024-09-13T12:20:51.005917172Z","domain":"*.dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2024-09-13T00:00:00Z","to":"2025-10-12T23:59:59Z"}
+{"id":"8172945673","timestamp":"2024-09-13T12:20:51.005917593Z","domain":"dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2024-09-13T00:00:00Z","to":"2025-10-12T23:59:59Z"}
