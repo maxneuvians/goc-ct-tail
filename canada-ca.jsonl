@@ -4208,3 +4208,7 @@
 {"id":"8193613247","timestamp":"2024-09-16T12:21:08.08853265Z","domain":"articles.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2024-09-16T00:00:00Z","to":"2025-10-15T23:59:59Z"}
 {"id":"8193839999","timestamp":"2024-09-16T13:20:42.78754244Z","domain":"impact.canada.ca","issuer":"Entrust","from":"2024-09-16T12:49:55Z","to":"2025-10-16T12:49:54Z"}
 {"id":"8193840029","timestamp":"2024-09-16T13:20:42.78754282Z","domain":"api.forms-formulaires.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2024-09-16T00:00:00Z","to":"2025-10-15T23:59:59Z"}
+{"id":"8194363996","timestamp":"2024-09-16T15:19:30.46162795Z","domain":"ebidm.sandbox.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-09-16T00:00:00Z","to":"2025-03-16T23:59:59Z"}
+{"id":"8194514648","timestamp":"2024-09-16T15:19:30.46162829Z","domain":"fertiscan.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-16T13:57:40Z","to":"2024-12-15T13:57:39Z"}
+{"id":"8194524552","timestamp":"2024-09-16T15:19:30.461628561Z","domain":"energy-information.canada.ca","issuer":"Let's Encrypt","from":"2024-09-16T13:59:11Z","to":"2024-12-15T13:59:10Z"}
+{"id":"8194524552","timestamp":"2024-09-16T15:19:30.461628751Z","domain":"information-energie.canada.ca","issuer":"Let's Encrypt","from":"2024-09-16T13:59:11Z","to":"2024-12-15T13:59:10Z"}
