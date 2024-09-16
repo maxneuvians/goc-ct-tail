@@ -206,3 +206,14 @@
 {"id":"8074468000","timestamp":"2024-09-05T19:45:38.460206067Z","domain":"tapx-tiv-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-08-31T00:00:00Z","to":"2025-02-28T23:59:59Z"}{"id":"8137419845","timestamp":"2024-09-08T16:40:08.044715374Z","domain":"sitefinity-backend.poc.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-09-08T00:00:00Z","to":"2025-03-08T23:59:59Z"}
 {"id":"8192137157","timestamp":"2024-09-16T07:37:36.700308865Z","domain":"myaw-monlta-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-09-16T00:00:00Z","to":"2025-03-16T23:59:59Z"}
 {"id":"8194434753","timestamp":"2024-09-16T15:38:09.696443667Z","domain":"mockups-frontend-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-09-16T00:00:00Z","to":"2025-03-16T23:59:59Z"}
+{"id":"8195549762","timestamp":"2024-09-16T18:40:21.1887915Z","domain":"autodiscover.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-09-16T18:32:29Z","to":"2025-10-16T18:32:28Z"}
+{"id":"8195549762","timestamp":"2024-09-16T18:40:21.18879188Z","domain":"mail.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-09-16T18:32:29Z","to":"2025-10-16T18:32:28Z"}
+{"id":"8195549762","timestamp":"2024-09-16T18:40:21.188792131Z","domain":"mobile.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-09-16T18:32:29Z","to":"2025-10-16T18:32:28Z"}
+{"id":"8195549762","timestamp":"2024-09-16T18:40:21.188792381Z","domain":"tbs-mb-01.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-09-16T18:32:29Z","to":"2025-10-16T18:32:28Z"}
+{"id":"8195549762","timestamp":"2024-09-16T18:40:21.188792481Z","domain":"tbs-mb-02.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-09-16T18:32:29Z","to":"2025-10-16T18:32:28Z"}
+{"id":"8195549762","timestamp":"2024-09-16T18:40:21.188793503Z","domain":"tbs-mb-03.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-09-16T18:32:29Z","to":"2025-10-16T18:32:28Z"}
+{"id":"8195549762","timestamp":"2024-09-16T18:40:21.188793594Z","domain":"tbs-mb-04.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-09-16T18:32:29Z","to":"2025-10-16T18:32:28Z"}
+{"id":"8195549762","timestamp":"2024-09-16T18:40:21.188793674Z","domain":"tbs-mm-01.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-09-16T18:32:29Z","to":"2025-10-16T18:32:28Z"}
+{"id":"8195549762","timestamp":"2024-09-16T18:40:21.188793754Z","domain":"tbs-pf-01.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-09-16T18:32:29Z","to":"2025-10-16T18:32:28Z"}
+{"id":"8195549762","timestamp":"2024-09-16T18:40:21.188794836Z","domain":"tbs-pf-02.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-09-16T18:32:29Z","to":"2025-10-16T18:32:28Z"}
+{"id":"8195549762","timestamp":"2024-09-16T18:40:21.188794926Z","domain":"tbs-sct.gc.ca","issuer":"Entrust","from":"2024-09-16T18:32:29Z","to":"2025-10-16T18:32:28Z"}
