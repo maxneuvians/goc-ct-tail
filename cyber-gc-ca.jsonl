@@ -183,3 +183,5 @@
 {"id":"8144482168","timestamp":"2024-09-09T14:31:52.980428011Z","domain":"enterpriseregistration.sts.cyber.gc.ca","issuer":"Entrust","from":"2024-09-09T14:09:32Z","to":"2025-10-09T14:09:31Z"}
 {"id":"8144482168","timestamp":"2024-09-09T14:31:52.980428262Z","domain":"sts.cyber.gc.ca","issuer":"Entrust","from":"2024-09-09T14:09:32Z","to":"2025-10-09T14:09:31Z"}
 {"id":"8144482168","timestamp":"2024-09-09T14:31:52.980428432Z","domain":"www.sts.cyber.gc.ca","issuer":"Entrust","from":"2024-09-09T14:09:32Z","to":"2025-10-09T14:09:31Z"}
+{"id":"8194196307","timestamp":"2024-09-16T14:31:27.298423906Z","domain":"reflector.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2024-09-16T12:56:41Z","to":"2024-12-15T12:56:40Z"}
+{"id":"8194235236","timestamp":"2024-09-16T14:31:27.298424587Z","domain":"reflector2.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2024-09-16T13:04:47Z","to":"2024-12-15T13:04:46Z"}
