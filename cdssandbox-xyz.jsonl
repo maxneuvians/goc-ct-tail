@@ -255,3 +255,5 @@
 {"id":"8161731563","timestamp":"2024-09-12T01:20:40.135161031Z","domain":"strapi.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-09-12T00:00:00Z","to":"2025-10-12T23:59:59Z"}
 {"id":"8190785119","timestamp":"2024-09-16T02:20:26.733059037Z","domain":"*.soak-test-lb-rule.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-09-16T00:00:00Z","to":"2025-10-16T23:59:59Z"}
 {"id":"8190785119","timestamp":"2024-09-16T02:20:26.733059338Z","domain":"soak-test-lb-rule.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-09-16T00:00:00Z","to":"2025-10-16T23:59:59Z"}
+{"id":"8193206680","timestamp":"2024-09-16T10:55:58.791506005Z","domain":"*.threat-modeling.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-09-16T00:00:00Z","to":"2025-10-15T23:59:59Z"}
+{"id":"8193206680","timestamp":"2024-09-16T10:55:58.791506386Z","domain":"threat-modeling.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-09-16T00:00:00Z","to":"2025-10-15T23:59:59Z"}
