@@ -463,3 +463,4 @@
 {"id":"8165813300","timestamp":"2024-09-12T14:09:20.095217123Z","domain":"cc130j-ietp-dev.forces.gc.ca","issuer":"Entrust","from":"2024-09-12T13:15:48Z","to":"2025-10-12T13:15:47Z"}
 {"id":"8183557236","timestamp":"2024-09-15T00:32:36.389561566Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-09-14T23:03:20Z","to":"2024-12-13T23:03:19Z"}
 {"id":"8184955389","timestamp":"2024-09-15T05:09:08.802169233Z","domain":"spacecop.hangar-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-09-15T00:00:00Z","to":"2025-10-15T23:59:59Z"}
+{"id":"8192366197","timestamp":"2024-09-16T09:09:32.755492163Z","domain":"cargo-ops-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-09-16T00:00:00Z","to":"2025-10-15T23:59:59Z"}
