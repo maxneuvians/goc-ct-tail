@@ -4227,3 +4227,7 @@
 {"id":"8197113190","timestamp":"2024-09-17T00:25:40.419728109Z","domain":"dev.diss.aws-lza.hc-sc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-09-17T00:00:00Z","to":"2025-10-17T23:59:59Z"}
 {"id":"8197705641","timestamp":"2024-09-17T02:20:21.408998679Z","domain":"uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-17T01:07:57Z","to":"2024-12-16T01:07:56Z"}
 {"id":"8198195010","timestamp":"2024-09-17T04:19:27.402764095Z","domain":"cipo.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-17T02:43:31Z","to":"2024-12-16T02:43:30Z"}
+{"id":"8199370572","timestamp":"2024-09-17T08:20:04.38088895Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-17T06:25:33Z","to":"2024-12-16T06:25:32Z"}
+{"id":"8199370572","timestamp":"2024-09-17T08:20:04.380889351Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-17T06:25:33Z","to":"2024-12-16T06:25:32Z"}
+{"id":"8199378924","timestamp":"2024-09-17T08:20:04.380889661Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-17T06:25:54Z","to":"2024-12-16T06:25:53Z"}
+{"id":"8199378924","timestamp":"2024-09-17T08:20:04.380890202Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-17T06:25:54Z","to":"2024-12-16T06:25:53Z"}
