@@ -4231,3 +4231,5 @@
 {"id":"8199370572","timestamp":"2024-09-17T08:20:04.380889351Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-17T06:25:33Z","to":"2024-12-16T06:25:32Z"}
 {"id":"8199378924","timestamp":"2024-09-17T08:20:04.380889661Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-17T06:25:54Z","to":"2024-12-16T06:25:53Z"}
 {"id":"8199378924","timestamp":"2024-09-17T08:20:04.380890202Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-17T06:25:54Z","to":"2024-12-16T06:25:53Z"}
+{"id":"8202813077","timestamp":"2024-09-17T18:20:03.851345267Z","domain":"dashboard.bc16.exp.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-09-17T17:09:03Z","to":"2024-12-16T17:09:02Z"}
+{"id":"8202819839","timestamp":"2024-09-17T18:20:03.851345728Z","domain":"database.bc16.exp.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-09-17T17:09:02Z","to":"2024-12-16T17:09:01Z"}
