@@ -4331,3 +4331,7 @@
 {"id":"8251879902","timestamp":"2024-09-24T07:18:48.479820906Z","domain":"hydra.canada.ca","issuer":"Let's Encrypt","from":"2024-09-24T05:18:59Z","to":"2024-12-23T05:18:58Z"}
 {"id":"8251881777","timestamp":"2024-09-24T07:18:48.479821267Z","domain":"qasi.canada.ca","issuer":"Let's Encrypt","from":"2024-09-24T05:19:09Z","to":"2024-12-23T05:19:08Z"}
 {"id":"8251883157","timestamp":"2024-09-24T07:18:48.479821498Z","domain":"ciqap.canada.ca","issuer":"Let's Encrypt","from":"2024-09-24T05:18:31Z","to":"2024-12-23T05:18:30Z"}
+{"id":"8252257042","timestamp":"2024-09-24T08:20:10.604774262Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-24T06:25:18Z","to":"2024-12-23T06:25:17Z"}
+{"id":"8252257042","timestamp":"2024-09-24T08:20:10.604774663Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-24T06:25:18Z","to":"2024-12-23T06:25:17Z"}
+{"id":"8252294836","timestamp":"2024-09-24T08:20:10.604774913Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-24T06:34:06Z","to":"2024-12-23T06:34:05Z"}
+{"id":"8252294836","timestamp":"2024-09-24T08:20:10.604775134Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-24T06:34:06Z","to":"2024-12-23T06:34:05Z"}
