@@ -4080,3 +4080,39 @@
 {"id":"8248568901","timestamp":"2024-09-23T20:14:50.759319943Z","domain":"www.maps-cartes.gc.ca","issuer":"Entrust","from":"2024-09-23T19:41:24Z","to":"2025-10-23T19:41:23Z"}
 {"id":"8248568901","timestamp":"2024-09-23T20:14:50.759320023Z","domain":"www.the-atlas-of-canada.gc.ca","issuer":"Entrust","from":"2024-09-23T19:41:24Z","to":"2025-10-23T19:41:23Z"}
 {"id":"8248568901","timestamp":"2024-09-23T20:14:50.759320243Z","domain":"www.theatlasofcanada.gc.ca","issuer":"Entrust","from":"2024-09-23T19:41:24Z","to":"2025-10-23T19:41:23Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900290508Z","domain":"pas.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900290759Z","domain":"pas.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900290929Z","domain":"pas.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900291099Z","domain":"pas.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900291179Z","domain":"pas-sap.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900292051Z","domain":"pas-sap.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900292121Z","domain":"sap.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900292191Z","domain":"sap.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900292251Z","domain":"sap-pas.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900293253Z","domain":"sap-pas.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900293313Z","domain":"sap-pas.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900293383Z","domain":"sap-pas.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900293444Z","domain":"sap-recrutement.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900293514Z","domain":"sap-recrutement.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900293584Z","domain":"sap-recrutement.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900293644Z","domain":"sap-recrutement.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900293714Z","domain":"sap.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900293774Z","domain":"sap.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900294355Z","domain":"www.pas.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900294415Z","domain":"www.pas.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900294486Z","domain":"www.pas.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900294555Z","domain":"www.pas.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900294626Z","domain":"www.pas-sap.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900294686Z","domain":"www.pas-sap.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900294756Z","domain":"www.sap.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900294826Z","domain":"www.sap.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900294886Z","domain":"www.sap-pas.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900294956Z","domain":"www.sap-pas.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900295016Z","domain":"www.sap-pas.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900295087Z","domain":"www.sap-pas.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900295157Z","domain":"www.sap-recrutement.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900295217Z","domain":"www.sap-recrutement.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900295287Z","domain":"www.sap-recrutement.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900295347Z","domain":"www.sap-recrutement.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900295417Z","domain":"www.sap.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
+{"id":"8251500774","timestamp":"2024-09-24T05:14:13.900295487Z","domain":"www.sap.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T04:03:54Z","to":"2024-12-23T04:03:53Z"}
