@@ -4351,3 +4351,5 @@
 {"id":"8261724976","timestamp":"2024-09-25T13:21:00.571266937Z","domain":"pollution-waste.canada.ca","issuer":"Entrust","from":"2024-09-25T12:28:16Z","to":"2025-10-25T12:28:15Z"}
 {"id":"8261961515","timestamp":"2024-09-25T13:21:00.571267598Z","domain":"aggpt.canada.ca","issuer":"Entrust","from":"2024-09-25T13:11:40Z","to":"2025-10-25T13:11:39Z"}
 {"id":"8261961515","timestamp":"2024-09-25T13:21:00.571267869Z","domain":"aggpt-func.canada.ca","issuer":"Entrust","from":"2024-09-25T13:11:40Z","to":"2025-10-25T13:11:39Z"}
+{"id":"8262401382","timestamp":"2024-09-25T15:19:23.004473581Z","domain":"test-app.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-25T13:32:37Z","to":"2024-12-24T13:32:36Z"}
+{"id":"8262438469","timestamp":"2024-09-25T15:19:23.004474262Z","domain":"test-app.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-25T13:36:48Z","to":"2024-12-24T13:36:47Z"}
