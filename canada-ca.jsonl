@@ -4354,3 +4354,7 @@
 {"id":"8262401382","timestamp":"2024-09-25T15:19:23.004473581Z","domain":"test-app.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-25T13:32:37Z","to":"2024-12-24T13:32:36Z"}
 {"id":"8262438469","timestamp":"2024-09-25T15:19:23.004474262Z","domain":"test-app.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-25T13:36:48Z","to":"2024-12-24T13:36:47Z"}
 {"id":"8264106426","timestamp":"2024-09-25T20:19:22.645728048Z","domain":"canchat.uat.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-09-25T00:00:00Z","to":"2025-03-25T23:59:59Z"}
+{"id":"8267579263","timestamp":"2024-09-26T08:19:59.083911797Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-26T06:25:58Z","to":"2024-12-25T06:25:57Z"}
+{"id":"8267579263","timestamp":"2024-09-26T08:19:59.083912077Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-26T06:25:58Z","to":"2024-12-25T06:25:57Z"}
+{"id":"8267599513","timestamp":"2024-09-26T08:19:59.083912238Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-26T06:29:05Z","to":"2024-12-25T06:29:04Z"}
+{"id":"8267599513","timestamp":"2024-09-26T08:19:59.083912408Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-09-26T06:29:05Z","to":"2024-12-25T06:29:04Z"}
