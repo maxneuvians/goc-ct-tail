@@ -4375,3 +4375,5 @@
 {"id":"8289972962","timestamp":"2024-09-29T16:19:39.074929117Z","domain":"vouch.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-29T14:45:49Z","to":"2024-12-28T14:45:48Z"}
 {"id":"8292318848","timestamp":"2024-09-30T00:33:21.541762341Z","domain":"*.public.aws-lza.hc-sc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-09-30T00:00:00Z","to":"2025-10-30T23:59:59Z"}
 {"id":"8292725719","timestamp":"2024-09-30T01:48:22.74405045Z","domain":"performance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-09-30T00:26:42Z","to":"2024-12-29T00:26:41Z"}
+{"id":"8292952274","timestamp":"2024-09-30T02:37:56.322212001Z","domain":"dev.dam.explore-labour-market.service.canada.ca","issuer":"DigiCert","from":"2024-09-30T00:00:00Z","to":"2025-03-30T23:59:59Z"}
+{"id":"8292952299","timestamp":"2024-09-30T02:37:56.322212352Z","domain":"api.explorer-marche-travail.service.canada.ca","issuer":"DigiCert","from":"2024-09-30T00:00:00Z","to":"2025-03-30T23:59:59Z"}
