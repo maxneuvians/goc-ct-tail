@@ -4397,3 +4397,7 @@
 {"id":"8300000398","timestamp":"2024-10-01T00:35:19.875386993Z","domain":"internal.accessconsortium.aws-lza.hc-sc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-10-01T00:00:00Z","to":"2025-10-31T23:59:59Z"}
 {"id":"8300807340","timestamp":"2024-10-01T03:22:04.934409934Z","domain":"vaccin-covid.canada.ca","issuer":"Google Trust Services","from":"2024-10-01T01:42:27Z","to":"2024-12-30T01:42:26Z"}
 {"id":"8300823592","timestamp":"2024-10-01T03:22:04.934410244Z","domain":"vaccin-covid.canada.ca","issuer":"Google Trust Services","from":"2024-10-01T01:42:19Z","to":"2024-12-30T01:42:18Z"}
+{"id":"8302256995","timestamp":"2024-10-01T08:20:08.994646931Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-01T06:25:56Z","to":"2024-12-30T06:25:55Z"}
+{"id":"8302256995","timestamp":"2024-10-01T08:20:08.994647281Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-01T06:25:56Z","to":"2024-12-30T06:25:55Z"}
+{"id":"8302268772","timestamp":"2024-10-01T08:20:08.994647532Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-01T06:29:10Z","to":"2024-12-30T06:29:09Z"}
+{"id":"8302268772","timestamp":"2024-10-01T08:20:08.994647772Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-01T06:29:10Z","to":"2024-12-30T06:29:09Z"}
