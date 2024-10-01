@@ -4401,3 +4401,9 @@
 {"id":"8302256995","timestamp":"2024-10-01T08:20:08.994647281Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-01T06:25:56Z","to":"2024-12-30T06:25:55Z"}
 {"id":"8302268772","timestamp":"2024-10-01T08:20:08.994647532Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-01T06:29:10Z","to":"2024-12-30T06:29:09Z"}
 {"id":"8302268772","timestamp":"2024-10-01T08:20:08.994647772Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-01T06:29:10Z","to":"2024-12-30T06:29:09Z"}
+{"id":"8302787284","timestamp":"2024-10-01T09:19:25.17985629Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2024-10-01T08:02:54Z","to":"2024-12-30T08:02:53Z"}
+{"id":"8302787284","timestamp":"2024-10-01T09:19:25.17985657Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2024-10-01T08:02:54Z","to":"2024-12-30T08:02:53Z"}
+{"id":"8302794426","timestamp":"2024-10-01T09:19:25.179856761Z","domain":"*.acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2024-10-01T08:02:02Z","to":"2024-12-30T08:02:01Z"}
+{"id":"8302794426","timestamp":"2024-10-01T09:19:25.179856921Z","domain":"acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2024-10-01T08:02:02Z","to":"2024-12-30T08:02:01Z"}
+{"id":"8302802148","timestamp":"2024-10-01T09:19:25.179857001Z","domain":"*.tc.canada.ca","issuer":"Let's Encrypt","from":"2024-10-01T08:03:47Z","to":"2024-12-30T08:03:46Z"}
+{"id":"8302802148","timestamp":"2024-10-01T09:19:25.179857372Z","domain":"tc.canada.ca","issuer":"Let's Encrypt","from":"2024-10-01T08:03:47Z","to":"2024-12-30T08:03:46Z"}
