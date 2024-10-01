@@ -27,7 +27,9 @@ jobs:
         id: git_diff
         run: |
           git fetch origin main
-          git diff --exit-code origin/main || echo "changes=changes" >> $GITHUB_OUTPUT
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=changes" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit files
         if: steps.git_diff.outputs.changes == 'changes'
