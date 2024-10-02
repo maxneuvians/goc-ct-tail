@@ -4418,3 +4418,7 @@
 {"id":"8311493254","timestamp":"2024-10-02T13:20:37.271691821Z","domain":"cde-contactcentre-coe.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-10-02T11:58:12Z","to":"2024-12-31T11:58:11Z"}
 {"id":"8311682617","timestamp":"2024-10-02T14:18:51.616965033Z","domain":"*.sccs.g.ent.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-10-02T13:33:24Z","to":"2025-11-02T13:33:23Z"}
 {"id":"8311682617","timestamp":"2024-10-02T14:18:51.616965474Z","domain":"sccs.g.ent.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-10-02T13:33:24Z","to":"2025-11-02T13:33:23Z"}
+{"id":"8312001333","timestamp":"2024-10-02T15:19:22.203025835Z","domain":"argocd.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-02T13:27:49Z","to":"2024-12-31T13:27:48Z"}
+{"id":"8312003851","timestamp":"2024-10-02T15:19:22.203026436Z","domain":"argocd.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-02T13:28:03Z","to":"2024-12-31T13:28:02Z"}
+{"id":"8312004191","timestamp":"2024-10-02T15:19:22.203026676Z","domain":"argocd.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-02T13:28:09Z","to":"2024-12-31T13:28:08Z"}
+{"id":"8312023018","timestamp":"2024-10-02T15:19:22.203026907Z","domain":"alertmanager.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-02T13:29:27Z","to":"2024-12-31T13:29:26Z"}
