@@ -1,0 +1,485 @@
+{"id":"5888176944","timestamp":"2024-10-02T16:16:11.387369164Z","domain":"services2-rcmp-grc-acr.fjgc-gccf.gc.ca","issuer":"Entrust","from":"2023-09-21T18:11:46Z","to":"2024-10-21T18:11:45Z"}
+{"id":"5888176944","timestamp":"2024-10-02T16:16:11.387369935Z","domain":"services2.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-09-21T18:11:46Z","to":"2024-10-21T18:11:45Z"}
+{"id":"5888176944","timestamp":"2024-10-02T16:16:11.387370436Z","domain":"services3.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-09-21T18:11:46Z","to":"2024-10-21T18:11:45Z"}
+{"id":"5888176944","timestamp":"2024-10-02T16:16:11.387371639Z","domain":"services-rcmp-grc-acr.fjgc-gccf.gc.ca","issuer":"Entrust","from":"2023-09-21T18:11:46Z","to":"2024-10-21T18:11:45Z"}
+{"id":"5888176944","timestamp":"2024-10-02T16:16:11.387371739Z","domain":"services.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-09-21T18:11:46Z","to":"2024-10-21T18:11:45Z"}
+{"id":"5888176944","timestamp":"2024-10-02T16:16:11.387372911Z","domain":"www1.services2.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-09-21T18:11:46Z","to":"2024-10-21T18:11:45Z"}
+{"id":"5888176944","timestamp":"2024-10-02T16:16:11.387372991Z","domain":"www1.services3.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-09-21T18:11:46Z","to":"2024-10-21T18:11:45Z"}
+{"id":"5888176944","timestamp":"2024-10-02T16:16:11.387373061Z","domain":"www1.services.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-09-21T18:11:46Z","to":"2024-10-21T18:11:45Z"}
+{"id":"5888176944","timestamp":"2024-10-02T16:16:11.387373132Z","domain":"www2.services2.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-09-21T18:11:46Z","to":"2024-10-21T18:11:45Z"}
+{"id":"5888176944","timestamp":"2024-10-02T16:16:11.387374274Z","domain":"www2.services3.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-09-21T18:11:46Z","to":"2024-10-21T18:11:45Z"}
+{"id":"5888176944","timestamp":"2024-10-02T16:16:11.387374354Z","domain":"www2.services.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-09-21T18:11:46Z","to":"2024-10-21T18:11:45Z"}
+{"id":"5888176944","timestamp":"2024-10-02T16:16:11.387374424Z","domain":"www.services2.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-09-21T18:11:46Z","to":"2024-10-21T18:11:45Z"}
+{"id":"5888176944","timestamp":"2024-10-02T16:16:11.387374504Z","domain":"www.services3.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-09-21T18:11:46Z","to":"2024-10-21T18:11:45Z"}
+{"id":"5888176944","timestamp":"2024-10-02T16:16:11.387374584Z","domain":"www.services.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-09-21T18:11:46Z","to":"2024-10-21T18:11:45Z"}
+{"id":"6024486240","timestamp":"2024-10-02T16:16:11.387374775Z","domain":"acpic-vm5556.dmz.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-10-17T12:42:32Z","to":"2024-11-17T12:42:31Z"}
+{"id":"6024486240","timestamp":"2024-10-02T16:16:11.387374855Z","domain":"fileshare-partagedefichier.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-10-17T12:42:32Z","to":"2024-11-17T12:42:31Z"}
+{"id":"6024486240","timestamp":"2024-10-02T16:16:11.387374935Z","domain":"fileshare.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-10-17T12:42:32Z","to":"2024-11-17T12:42:31Z"}
+{"id":"6024995963","timestamp":"2024-10-02T16:16:11.387375025Z","domain":"acpic-vm5556.dmz.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-10-17T14:50:54Z","to":"2024-11-17T14:50:53Z"}
+{"id":"6024995963","timestamp":"2024-10-02T16:16:11.387377059Z","domain":"acpic-vm5556.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-10-17T14:50:54Z","to":"2024-11-17T14:50:53Z"}
+{"id":"6024995963","timestamp":"2024-10-02T16:16:11.387377139Z","domain":"fileshare-partagedefichier.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-10-17T14:50:54Z","to":"2024-11-17T14:50:53Z"}
+{"id":"6024995963","timestamp":"2024-10-02T16:16:11.387377209Z","domain":"fileshare.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-10-17T14:50:54Z","to":"2024-11-17T14:50:53Z"}
+{"id":"6070570691","timestamp":"2024-10-02T16:16:11.387377309Z","domain":"acpic-s506.dmz.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-10-25T16:13:32Z","to":"2024-11-25T16:13:31Z"}
+{"id":"6070570691","timestamp":"2024-10-02T16:16:11.387377389Z","domain":"acpic-s506.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-10-25T16:13:32Z","to":"2024-11-25T16:13:31Z"}
+{"id":"6070570691","timestamp":"2024-10-02T16:16:11.387377469Z","domain":"fileshare-dev.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-10-25T16:13:32Z","to":"2024-11-25T16:13:31Z"}
+{"id":"6076385981","timestamp":"2024-10-02T16:16:11.38737757Z","domain":"*.con.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-10-26T15:16:04Z","to":"2024-11-26T15:16:03Z"}
+{"id":"6076385981","timestamp":"2024-10-02T16:16:11.38737765Z","domain":"con.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-10-26T15:16:04Z","to":"2024-11-26T15:16:03Z"}
+{"id":"6112014405","timestamp":"2024-10-02T16:16:11.38737774Z","domain":"acpic-vm5557.dmz.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-01T18:04:41Z","to":"2024-12-01T18:04:40Z"}
+{"id":"6112014405","timestamp":"2024-10-02T16:16:11.38737782Z","domain":"acpic-vm5557.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-01T18:04:41Z","to":"2024-12-01T18:04:40Z"}
+{"id":"6112014405","timestamp":"2024-10-02T16:16:11.3873779Z","domain":"fileshare-partagedefichier-qc.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-01T18:04:41Z","to":"2024-12-01T18:04:40Z"}
+{"id":"6112014405","timestamp":"2024-10-02T16:16:11.387377981Z","domain":"fileshare-qc.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-01T18:04:41Z","to":"2024-12-01T18:04:40Z"}
+{"id":"6191281789","timestamp":"2024-10-02T16:16:11.387378071Z","domain":"*.azs.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-15T15:29:10Z","to":"2024-12-15T15:29:09Z"}
+{"id":"6191281789","timestamp":"2024-10-02T16:16:11.387378141Z","domain":"azs.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-15T15:29:10Z","to":"2024-12-15T15:29:09Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387378241Z","domain":"devportal.dev.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387378311Z","domain":"devportal.pd.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387378391Z","domain":"devportal.poc.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387378471Z","domain":"devportal.qc.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387378551Z","domain":"devportal.sandbox.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387378622Z","domain":"devportal.uat.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387378702Z","domain":"gateway.dev.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387378772Z","domain":"gateway.pd.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387380806Z","domain":"gateway.poc.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387380876Z","domain":"gateway.qc.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387380956Z","domain":"gateway.sandbox.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387381036Z","domain":"gateway.uat.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387381116Z","domain":"legacy.dev.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387381187Z","domain":"legacy.pd.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387381256Z","domain":"legacy.poc.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387381327Z","domain":"legacy.qc.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387381397Z","domain":"legacy.sandbox.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387381467Z","domain":"legacy.uat.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387381537Z","domain":"management.dev.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387381607Z","domain":"management.pd.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387381687Z","domain":"management.poc.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387381757Z","domain":"management.qc.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387381838Z","domain":"management.sandbox.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387381908Z","domain":"management.uat.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387381978Z","domain":"scm.dev.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387382048Z","domain":"scm.pd.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387382128Z","domain":"scm.poc.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387382198Z","domain":"scm.qc.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387382269Z","domain":"scm.sandbox.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203481499","timestamp":"2024-10-02T16:16:11.387382349Z","domain":"scm.uat.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T15:43:40Z","to":"2024-12-17T15:43:39Z"}
+{"id":"6203807032","timestamp":"2024-10-02T16:16:11.387382449Z","domain":"devportal.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T16:50:46Z","to":"2024-12-17T16:50:45Z"}
+{"id":"6203807032","timestamp":"2024-10-02T16:16:11.387382529Z","domain":"devportal.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T16:50:46Z","to":"2024-12-17T16:50:45Z"}
+{"id":"6203807032","timestamp":"2024-10-02T16:16:11.387382609Z","domain":"gateway.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T16:50:46Z","to":"2024-12-17T16:50:45Z"}
+{"id":"6203807032","timestamp":"2024-10-02T16:16:11.387382679Z","domain":"gateway.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T16:50:46Z","to":"2024-12-17T16:50:45Z"}
+{"id":"6203807032","timestamp":"2024-10-02T16:16:11.387382749Z","domain":"legacy.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T16:50:46Z","to":"2024-12-17T16:50:45Z"}
+{"id":"6203807032","timestamp":"2024-10-02T16:16:11.38738283Z","domain":"legacy.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T16:50:46Z","to":"2024-12-17T16:50:45Z"}
+{"id":"6203807032","timestamp":"2024-10-02T16:16:11.3873829Z","domain":"management.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T16:50:46Z","to":"2024-12-17T16:50:45Z"}
+{"id":"6203807032","timestamp":"2024-10-02T16:16:11.38738298Z","domain":"management.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T16:50:46Z","to":"2024-12-17T16:50:45Z"}
+{"id":"6203807032","timestamp":"2024-10-02T16:16:11.38738306Z","domain":"scm.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T16:50:46Z","to":"2024-12-17T16:50:45Z"}
+{"id":"6203807032","timestamp":"2024-10-02T16:16:11.38738314Z","domain":"scm.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-17T16:50:46Z","to":"2024-12-17T16:50:45Z"}
+{"id":"6278473808","timestamp":"2024-10-02T16:16:11.38738323Z","domain":"acpic-s2231.dmz.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-29T18:46:01Z","to":"2024-12-29T18:46:00Z"}
+{"id":"6278473808","timestamp":"2024-10-02T16:16:11.3873833Z","domain":"acpic-s2231.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-29T18:46:01Z","to":"2024-12-29T18:46:00Z"}
+{"id":"6278473808","timestamp":"2024-10-02T16:16:11.38738338Z","domain":"fileshare-rnd.rcmp-grc.gc.ca","issuer":"Entrust","from":"2023-11-29T18:46:01Z","to":"2024-12-29T18:46:00Z"}
+{"id":"6565627871","timestamp":"2024-10-02T16:16:11.387383461Z","domain":"nvan.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-01-15T14:35:07Z","to":"2025-02-15T14:35:06Z"}
+{"id":"6565627871","timestamp":"2024-10-02T16:16:11.387383541Z","domain":"www.nvan.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-01-15T14:35:07Z","to":"2025-02-15T14:35:06Z"}
+{"id":"6637765233","timestamp":"2024-10-02T16:16:11.387383621Z","domain":"acpic-s2841.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-01-26T20:22:39Z","to":"2025-02-26T20:22:38Z"}
+{"id":"6637765233","timestamp":"2024-10-02T16:16:11.387383701Z","domain":"publiccert2.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-01-26T20:22:39Z","to":"2025-02-26T20:22:38Z"}
+{"id":"6824822042","timestamp":"2024-10-02T16:16:11.387386606Z","domain":"sunshinecoast.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-02-26T13:42:07Z","to":"2025-03-26T13:42:06Z"}
+{"id":"6824822042","timestamp":"2024-10-02T16:16:11.387386697Z","domain":"www.sunshinecoast.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-02-26T13:42:07Z","to":"2025-03-26T13:42:06Z"}
+{"id":"6850459787","timestamp":"2024-10-02T16:16:11.387386797Z","domain":"ncecclea.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-03-01T13:27:15Z","to":"2025-04-01T13:27:14Z"}
+{"id":"7013495452","timestamp":"2024-10-02T16:16:11.387386887Z","domain":"acpic-vm5061.natl.rossdev.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-03-27T11:25:52Z","to":"2025-03-27T11:25:50Z"}
+{"id":"7013515623","timestamp":"2024-10-02T16:16:11.387386977Z","domain":"acpic-vm5071.natl.rossdev.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-03-27T11:34:16Z","to":"2025-03-27T11:34:15Z"}
+{"id":"7014154320","timestamp":"2024-10-02T16:16:11.387387067Z","domain":"acpic-vm5067.natl.rossdev.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-03-27T13:48:00Z","to":"2025-04-27T13:47:59Z"}
+{"id":"7014187448","timestamp":"2024-10-02T16:16:11.387387147Z","domain":"acpic-vm5065.natl.rossdev.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-03-27T13:58:11Z","to":"2025-04-27T13:58:10Z"}
+{"id":"7014221323","timestamp":"2024-10-02T16:16:11.387387228Z","domain":"acpic-vm5070.natl.rossdev.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-03-27T14:04:18Z","to":"2025-04-27T14:04:17Z"}
+{"id":"7014391606","timestamp":"2024-10-02T16:16:11.387387308Z","domain":"acpic-vm5063.natl.rossdev.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-03-27T14:38:05Z","to":"2025-03-27T14:38:04Z"}
+{"id":"7014430057","timestamp":"2024-10-02T16:16:11.387387388Z","domain":"acpic-vm5064.natl.rossdev.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-03-27T14:46:36Z","to":"2025-03-27T14:46:35Z"}
+{"id":"7014478946","timestamp":"2024-10-02T16:16:11.387387468Z","domain":"acpic-vm5069.natl.rossdev.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-03-27T14:55:56Z","to":"2025-03-27T14:55:55Z"}
+{"id":"7014872689","timestamp":"2024-10-02T16:16:11.387387548Z","domain":"acpic-vm5066.natl.rossdev.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-03-27T16:25:04Z","to":"2025-03-27T16:25:03Z"}
+{"id":"7014909235","timestamp":"2024-10-02T16:16:11.387387628Z","domain":"acpic-vm5068.natl.rossdev.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-03-27T16:31:45Z","to":"2025-04-27T16:31:44Z"}
+{"id":"7014928590","timestamp":"2024-10-02T16:16:11.387387709Z","domain":"acpic-vm5060.natl.rossdev.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-03-27T16:35:23Z","to":"2025-04-27T16:35:22Z"}
+{"id":"7020231205","timestamp":"2024-10-02T16:16:11.387387789Z","domain":"acpic-vm5062.natl.rossdev.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-03-28T12:27:32Z","to":"2025-04-28T12:27:31Z"}
+{"id":"7139064824","timestamp":"2024-10-02T16:16:11.387387869Z","domain":"princegeorge.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-16T17:05:48Z","to":"2025-05-16T17:05:47Z"}
+{"id":"7139064824","timestamp":"2024-10-02T16:16:11.387387949Z","domain":"princegeorge.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-16T17:05:48Z","to":"2025-05-16T17:05:47Z"}
+{"id":"7139064824","timestamp":"2024-10-02T16:16:11.387388019Z","domain":"www.princegeorge.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-16T17:05:48Z","to":"2025-05-16T17:05:47Z"}
+{"id":"7139064824","timestamp":"2024-10-02T16:16:11.387388099Z","domain":"www.princegeorge.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-16T17:05:48Z","to":"2025-05-16T17:05:47Z"}
+{"id":"7154310872","timestamp":"2024-10-02T16:16:11.387388189Z","domain":"*.aks.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-19T02:28:12Z","to":"2025-05-19T02:28:11Z"}
+{"id":"7154310872","timestamp":"2024-10-02T16:16:11.38738826Z","domain":"aks.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-19T02:28:12Z","to":"2025-05-19T02:28:11Z"}
+{"id":"7157978676","timestamp":"2024-10-02T16:16:11.38738835Z","domain":"ssl1.pub.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-19T15:46:16Z","to":"2025-05-19T15:46:15Z"}
+{"id":"7157978676","timestamp":"2024-10-02T16:16:11.38738842Z","domain":"ssl1.pub.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-19T15:46:16Z","to":"2025-05-19T15:46:15Z"}
+{"id":"7157978676","timestamp":"2024-10-02T16:16:11.3873885Z","domain":"ssl2.pub.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-19T15:46:16Z","to":"2025-05-19T15:46:15Z"}
+{"id":"7157978676","timestamp":"2024-10-02T16:16:11.38738857Z","domain":"ssl2.pub.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-19T15:46:16Z","to":"2025-05-19T15:46:15Z"}
+{"id":"7157978676","timestamp":"2024-10-02T16:16:11.38738865Z","domain":"www.ssl1.pub.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-19T15:46:16Z","to":"2025-05-19T15:46:15Z"}
+{"id":"7190107728","timestamp":"2024-10-02T16:16:11.387388741Z","domain":"surrey.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-24T14:27:59Z","to":"2025-05-24T14:27:58Z"}
+{"id":"7190107728","timestamp":"2024-10-02T16:16:11.387388811Z","domain":"surrey.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-24T14:27:59Z","to":"2025-05-24T14:27:58Z"}
+{"id":"7190107728","timestamp":"2024-10-02T16:16:11.387388901Z","domain":"www.surrey.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-24T14:27:59Z","to":"2025-05-24T14:27:58Z"}
+{"id":"7190107728","timestamp":"2024-10-02T16:16:11.387388991Z","domain":"www.surrey.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-24T14:27:59Z","to":"2025-05-24T14:27:58Z"}
+{"id":"7197567939","timestamp":"2024-10-02T16:16:11.387389071Z","domain":"nanaimo.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-25T15:08:36Z","to":"2025-05-25T15:08:35Z"}
+{"id":"7197567939","timestamp":"2024-10-02T16:16:11.387389151Z","domain":"nanaimo.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-25T15:08:36Z","to":"2025-05-25T15:08:35Z"}
+{"id":"7197567939","timestamp":"2024-10-02T16:16:11.387389231Z","domain":"www.nanaimo.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-25T15:08:36Z","to":"2025-05-25T15:08:35Z"}
+{"id":"7197567939","timestamp":"2024-10-02T16:16:11.387389311Z","domain":"www.nanaimo.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-25T15:08:36Z","to":"2025-05-25T15:08:35Z"}
+{"id":"7197607234","timestamp":"2024-10-02T16:16:11.387389402Z","domain":"burnaby.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-25T15:17:27Z","to":"2025-05-25T15:17:26Z"}
+{"id":"7197607234","timestamp":"2024-10-02T16:16:11.387389482Z","domain":"burnaby.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-25T15:17:27Z","to":"2025-05-25T15:17:26Z"}
+{"id":"7197607234","timestamp":"2024-10-02T16:16:11.387389562Z","domain":"www.burnaby.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-25T15:17:27Z","to":"2025-05-25T15:17:26Z"}
+{"id":"7197607234","timestamp":"2024-10-02T16:16:11.387389642Z","domain":"www.burnaby.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-25T15:17:27Z","to":"2025-05-25T15:17:26Z"}
+{"id":"7197645982","timestamp":"2024-10-02T16:16:11.387389722Z","domain":"kamloops.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-25T15:27:41Z","to":"2025-05-25T15:27:40Z"}
+{"id":"7197645982","timestamp":"2024-10-02T16:16:11.387389792Z","domain":"kamloops.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-25T15:27:41Z","to":"2025-05-25T15:27:40Z"}
+{"id":"7197645982","timestamp":"2024-10-02T16:16:11.387389873Z","domain":"www.kamloops.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-25T15:27:41Z","to":"2025-05-25T15:27:40Z"}
+{"id":"7197645982","timestamp":"2024-10-02T16:16:11.387389953Z","domain":"www.kamloops.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-25T15:27:41Z","to":"2025-05-25T15:27:40Z"}
+{"id":"7197699533","timestamp":"2024-10-02T16:16:11.387390043Z","domain":"revelstoke.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-25T15:39:04Z","to":"2025-05-25T15:39:03Z"}
+{"id":"7197699533","timestamp":"2024-10-02T16:16:11.387390123Z","domain":"revelstoke.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-25T15:39:04Z","to":"2025-05-25T15:39:03Z"}
+{"id":"7197699533","timestamp":"2024-10-02T16:16:11.387390203Z","domain":"www.revelstoke.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-25T15:39:04Z","to":"2025-05-25T15:39:03Z"}
+{"id":"7197699533","timestamp":"2024-10-02T16:16:11.387390273Z","domain":"www.revelstoke.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-25T15:39:04Z","to":"2025-05-25T15:39:03Z"}
+{"id":"7197754180","timestamp":"2024-10-02T16:16:11.387390353Z","domain":"langley.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-25T15:54:17Z","to":"2025-05-25T15:54:16Z"}
+{"id":"7197754180","timestamp":"2024-10-02T16:16:11.387390434Z","domain":"langley.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-25T15:54:17Z","to":"2025-05-25T15:54:16Z"}
+{"id":"7197754180","timestamp":"2024-10-02T16:16:11.387390514Z","domain":"www.langley.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-25T15:54:17Z","to":"2025-05-25T15:54:16Z"}
+{"id":"7197754180","timestamp":"2024-10-02T16:16:11.387390594Z","domain":"www.langley.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-25T15:54:17Z","to":"2025-05-25T15:54:16Z"}
+{"id":"7198192086","timestamp":"2024-10-02T16:16:11.387390694Z","domain":"bc-cb.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-25T17:30:25Z","to":"2025-05-25T17:30:24Z"}
+{"id":"7198192086","timestamp":"2024-10-02T16:16:11.387390764Z","domain":"bc.rcmp.gc.ca","issuer":"Entrust","from":"2024-04-25T17:30:25Z","to":"2025-05-25T17:30:24Z"}
+{"id":"7198192086","timestamp":"2024-10-02T16:16:11.387390845Z","domain":"cb-bc.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-25T17:30:25Z","to":"2025-05-25T17:30:24Z"}
+{"id":"7198192086","timestamp":"2024-10-02T16:16:11.387390914Z","domain":"cb.grc.gc.ca","issuer":"Entrust","from":"2024-04-25T17:30:25Z","to":"2025-05-25T17:30:24Z"}
+{"id":"7198192086","timestamp":"2024-10-02T16:16:11.387391005Z","domain":"www.bc-cb.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-25T17:30:25Z","to":"2025-05-25T17:30:24Z"}
+{"id":"7198192086","timestamp":"2024-10-02T16:16:11.387391085Z","domain":"www.bc.rcmp.gc.ca","issuer":"Entrust","from":"2024-04-25T17:30:25Z","to":"2025-05-25T17:30:24Z"}
+{"id":"7198192086","timestamp":"2024-10-02T16:16:11.387391155Z","domain":"www.cb-bc.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-25T17:30:25Z","to":"2025-05-25T17:30:24Z"}
+{"id":"7198192086","timestamp":"2024-10-02T16:16:11.387391235Z","domain":"www.cb.grc.gc.ca","issuer":"Entrust","from":"2024-04-25T17:30:25Z","to":"2025-05-25T17:30:24Z"}
+{"id":"7206146962","timestamp":"2024-10-02T16:16:11.387391315Z","domain":"westshore.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-26T19:59:37Z","to":"2025-05-26T19:59:36Z"}
+{"id":"7206146962","timestamp":"2024-10-02T16:16:11.387391395Z","domain":"westshore.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-26T19:59:37Z","to":"2025-05-26T19:59:36Z"}
+{"id":"7206146962","timestamp":"2024-10-02T16:16:11.387391466Z","domain":"www.westshore.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-26T19:59:37Z","to":"2025-05-26T19:59:36Z"}
+{"id":"7206146962","timestamp":"2024-10-02T16:16:11.387391536Z","domain":"www.westshore.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-26T19:59:37Z","to":"2025-05-26T19:59:36Z"}
+{"id":"7222937237","timestamp":"2024-10-02T16:16:11.387391616Z","domain":"vernon-northokanagan.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T13:40:10Z","to":"2025-05-29T13:40:09Z"}
+{"id":"7222937237","timestamp":"2024-10-02T16:16:11.387391696Z","domain":"vernon-northokanagan.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T13:40:10Z","to":"2025-05-29T13:40:09Z"}
+{"id":"7222937237","timestamp":"2024-10-02T16:16:11.387391766Z","domain":"www.vernon-northokanagan.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T13:40:10Z","to":"2025-05-29T13:40:09Z"}
+{"id":"7222937237","timestamp":"2024-10-02T16:16:11.387391846Z","domain":"www.vernon-northokanagan.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T13:40:10Z","to":"2025-05-29T13:40:09Z"}
+{"id":"7222961216","timestamp":"2024-10-02T16:16:11.387391927Z","domain":"eieh.grc.gc.ca","issuer":"Entrust","from":"2024-04-29T13:48:41Z","to":"2025-05-29T13:48:40Z"}
+{"id":"7222961216","timestamp":"2024-10-02T16:16:11.387391997Z","domain":"eieh-ihit.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T13:48:41Z","to":"2025-05-29T13:48:40Z"}
+{"id":"7222961216","timestamp":"2024-10-02T16:16:11.387392077Z","domain":"ihit-eieh.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T13:48:41Z","to":"2025-05-29T13:48:40Z"}
+{"id":"7222961216","timestamp":"2024-10-02T16:16:11.387392147Z","domain":"ihit.rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T13:48:41Z","to":"2025-05-29T13:48:40Z"}
+{"id":"7222961216","timestamp":"2024-10-02T16:16:11.387392237Z","domain":"www.eieh.grc.gc.ca","issuer":"Entrust","from":"2024-04-29T13:48:41Z","to":"2025-05-29T13:48:40Z"}
+{"id":"7222961216","timestamp":"2024-10-02T16:16:11.387392307Z","domain":"www.eieh-ihit.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T13:48:41Z","to":"2025-05-29T13:48:40Z"}
+{"id":"7222961216","timestamp":"2024-10-02T16:16:11.387392387Z","domain":"www.ihit-eieh.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T13:48:41Z","to":"2025-05-29T13:48:40Z"}
+{"id":"7222961216","timestamp":"2024-10-02T16:16:11.387392468Z","domain":"www.ihit.rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T13:48:41Z","to":"2025-05-29T13:48:40Z"}
+{"id":"7223177118","timestamp":"2024-10-02T16:16:11.387392548Z","domain":"upperfraservalley.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T14:30:27Z","to":"2025-05-29T14:30:26Z"}
+{"id":"7223177118","timestamp":"2024-10-02T16:16:11.387392628Z","domain":"upperfraservalley.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T14:30:27Z","to":"2025-05-29T14:30:26Z"}
+{"id":"7223177118","timestamp":"2024-10-02T16:16:11.387392708Z","domain":"www.upperfraservalley.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T14:30:27Z","to":"2025-05-29T14:30:26Z"}
+{"id":"7223177118","timestamp":"2024-10-02T16:16:11.387392778Z","domain":"www.upperfraservalley.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T14:30:27Z","to":"2025-05-29T14:30:26Z"}
+{"id":"7223479789","timestamp":"2024-10-02T16:16:11.387392858Z","domain":"ridgemeadows.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T15:39:26Z","to":"2025-05-29T15:39:25Z"}
+{"id":"7223479789","timestamp":"2024-10-02T16:16:11.387396575Z","domain":"ridgemeadows.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T15:39:26Z","to":"2025-05-29T15:39:25Z"}
+{"id":"7223479789","timestamp":"2024-10-02T16:16:11.387396645Z","domain":"www.ridgemeadows.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T15:39:26Z","to":"2025-05-29T15:39:25Z"}
+{"id":"7223479789","timestamp":"2024-10-02T16:16:11.387396725Z","domain":"www.ridgemeadows.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T15:39:26Z","to":"2025-05-29T15:39:25Z"}
+{"id":"7223528589","timestamp":"2024-10-02T16:16:11.387396816Z","domain":"richmond.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T15:47:26Z","to":"2025-05-29T15:47:25Z"}
+{"id":"7223528589","timestamp":"2024-10-02T16:16:11.387396896Z","domain":"richmond.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T15:47:26Z","to":"2025-05-29T15:47:25Z"}
+{"id":"7223528589","timestamp":"2024-10-02T16:16:11.387396976Z","domain":"www.richmond.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T15:47:26Z","to":"2025-05-29T15:47:25Z"}
+{"id":"7223528589","timestamp":"2024-10-02T16:16:11.387397046Z","domain":"www.richmond.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T15:47:26Z","to":"2025-05-29T15:47:25Z"}
+{"id":"7223546228","timestamp":"2024-10-02T16:16:11.387397136Z","domain":"coquitlam.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T15:54:42Z","to":"2025-05-29T15:54:41Z"}
+{"id":"7223546228","timestamp":"2024-10-02T16:16:11.387397206Z","domain":"coquitlam.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T15:54:42Z","to":"2025-05-29T15:54:41Z"}
+{"id":"7223546228","timestamp":"2024-10-02T16:16:11.387397277Z","domain":"www.coquitlam.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T15:54:42Z","to":"2025-05-29T15:54:41Z"}
+{"id":"7223546228","timestamp":"2024-10-02T16:16:11.387397357Z","domain":"www.coquitlam.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T15:54:42Z","to":"2025-05-29T15:54:41Z"}
+{"id":"7223571229","timestamp":"2024-10-02T16:16:11.387397437Z","domain":"grc.gc.ca","issuer":"Entrust","from":"2024-04-29T15:58:09Z","to":"2025-05-29T15:58:08Z"}
+{"id":"7223571229","timestamp":"2024-10-02T16:16:11.387397507Z","domain":"grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T15:58:09Z","to":"2025-05-29T15:58:08Z"}
+{"id":"7223571229","timestamp":"2024-10-02T16:16:11.387397577Z","domain":"rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T15:58:09Z","to":"2025-05-29T15:58:08Z"}
+{"id":"7223571229","timestamp":"2024-10-02T16:16:11.387397647Z","domain":"rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T15:58:09Z","to":"2025-05-29T15:58:08Z"}
+{"id":"7223571229","timestamp":"2024-10-02T16:16:11.387397727Z","domain":"www.grc.gc.ca","issuer":"Entrust","from":"2024-04-29T15:58:09Z","to":"2025-05-29T15:58:08Z"}
+{"id":"7223571229","timestamp":"2024-10-02T16:16:11.387397807Z","domain":"www.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T15:58:09Z","to":"2025-05-29T15:58:08Z"}
+{"id":"7223571229","timestamp":"2024-10-02T16:16:11.387397887Z","domain":"www.rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T15:58:09Z","to":"2025-05-29T15:58:08Z"}
+{"id":"7223571229","timestamp":"2024-10-02T16:16:11.387397968Z","domain":"www.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T15:58:09Z","to":"2025-05-29T15:58:08Z"}
+{"id":"7223622067","timestamp":"2024-10-02T16:16:11.387398048Z","domain":"whiterock.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T16:09:38Z","to":"2025-05-29T16:09:37Z"}
+{"id":"7223622067","timestamp":"2024-10-02T16:16:11.387398118Z","domain":"whiterock.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T16:09:38Z","to":"2025-05-29T16:09:37Z"}
+{"id":"7223622067","timestamp":"2024-10-02T16:16:11.387398198Z","domain":"www.whiterock.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-29T16:09:38Z","to":"2025-05-29T16:09:37Z"}
+{"id":"7223622067","timestamp":"2024-10-02T16:16:11.387398268Z","domain":"www.whiterock.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-29T16:09:38Z","to":"2025-05-29T16:09:37Z"}
+{"id":"7230211889","timestamp":"2024-10-02T16:16:11.387398359Z","domain":"servicesb2cdev-rcmp-grc-acr.fjgc-gccf.gc.ca","issuer":"Entrust","from":"2024-04-30T14:56:26Z","to":"2025-05-30T14:56:25Z"}
+{"id":"7230211889","timestamp":"2024-10-02T16:16:11.387398428Z","domain":"servicesdev.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-30T14:56:26Z","to":"2025-05-30T14:56:25Z"}
+{"id":"7232268810","timestamp":"2024-10-02T16:16:11.387398519Z","domain":"circulation.grc.gc.ca","issuer":"Entrust","from":"2024-04-30T22:25:22Z","to":"2025-05-30T22:25:21Z"}
+{"id":"7232268810","timestamp":"2024-10-02T16:16:11.387398589Z","domain":"circulation-traffic.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-30T22:25:22Z","to":"2025-05-30T22:25:21Z"}
+{"id":"7232268810","timestamp":"2024-10-02T16:16:11.387398659Z","domain":"traffic-circulation.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-30T22:25:22Z","to":"2025-05-30T22:25:21Z"}
+{"id":"7232268810","timestamp":"2024-10-02T16:16:11.387398739Z","domain":"traffic.rcmp.gc.ca","issuer":"Entrust","from":"2024-04-30T22:25:22Z","to":"2025-05-30T22:25:21Z"}
+{"id":"7232268810","timestamp":"2024-10-02T16:16:11.387398809Z","domain":"www.circulation.grc.gc.ca","issuer":"Entrust","from":"2024-04-30T22:25:22Z","to":"2025-05-30T22:25:21Z"}
+{"id":"7232268810","timestamp":"2024-10-02T16:16:11.387398889Z","domain":"www.circulation-traffic.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-04-30T22:25:22Z","to":"2025-05-30T22:25:21Z"}
+{"id":"7232268810","timestamp":"2024-10-02T16:16:11.38739897Z","domain":"www.traffic-circulation.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-04-30T22:25:22Z","to":"2025-05-30T22:25:21Z"}
+{"id":"7232268810","timestamp":"2024-10-02T16:16:11.38739905Z","domain":"www.traffic.rcmp.gc.ca","issuer":"Entrust","from":"2024-04-30T22:25:22Z","to":"2025-05-30T22:25:21Z"}
+{"id":"7244192657","timestamp":"2024-10-02T16:16:11.38739914Z","domain":"kelowna.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-05-02T19:12:02Z","to":"2025-06-02T19:12:01Z"}
+{"id":"7244192657","timestamp":"2024-10-02T16:16:11.38739921Z","domain":"kelowna.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-05-02T19:12:02Z","to":"2025-06-02T19:12:01Z"}
+{"id":"7244192657","timestamp":"2024-10-02T16:16:11.38739929Z","domain":"www.kelowna.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-05-02T19:12:02Z","to":"2025-06-02T19:12:01Z"}
+{"id":"7244192657","timestamp":"2024-10-02T16:16:11.38739937Z","domain":"www.kelowna.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-05-02T19:12:02Z","to":"2025-06-02T19:12:01Z"}
+{"id":"7279050686","timestamp":"2024-10-02T16:16:11.38739947Z","domain":"adr-s2841.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-05-08T17:02:25Z","to":"2025-06-08T17:02:24Z"}
+{"id":"7279050686","timestamp":"2024-10-02T16:16:11.387399541Z","domain":"publiccert.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-05-08T17:02:25Z","to":"2025-06-08T17:02:24Z"}
+{"id":"7314755400","timestamp":"2024-10-02T16:16:11.387399631Z","domain":"mission.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-05-14T13:56:21Z","to":"2025-06-14T13:56:20Z"}
+{"id":"7314755400","timestamp":"2024-10-02T16:16:11.387399711Z","domain":"mission.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-05-14T13:56:21Z","to":"2025-06-14T13:56:20Z"}
+{"id":"7314755400","timestamp":"2024-10-02T16:16:11.387399791Z","domain":"www.mission.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-05-14T13:56:21Z","to":"2025-06-14T13:56:20Z"}
+{"id":"7314755400","timestamp":"2024-10-02T16:16:11.387399861Z","domain":"www.mission.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-05-14T13:56:21Z","to":"2025-06-14T13:56:20Z"}
+{"id":"7368027954","timestamp":"2024-10-02T16:16:11.387399951Z","domain":"sidney.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-05-23T12:29:11Z","to":"2025-06-18T12:29:10Z"}
+{"id":"7368027954","timestamp":"2024-10-02T16:16:11.387400031Z","domain":"sidney.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-05-23T12:29:11Z","to":"2025-06-18T12:29:10Z"}
+{"id":"7368027954","timestamp":"2024-10-02T16:16:11.387400102Z","domain":"www.sidney.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-05-23T12:29:11Z","to":"2025-06-18T12:29:10Z"}
+{"id":"7368027954","timestamp":"2024-10-02T16:16:11.387400172Z","domain":"www.sidney.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-05-23T12:29:11Z","to":"2025-06-18T12:29:10Z"}
+{"id":"7443074637","timestamp":"2024-10-02T16:16:11.387400262Z","domain":"ncs-snc.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-06-04T14:50:03Z","to":"2025-07-04T14:50:02Z"}
+{"id":"7443074637","timestamp":"2024-10-02T16:16:11.387400332Z","domain":"www.ncs-snc.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-06-04T14:50:03Z","to":"2025-07-04T14:50:02Z"}
+{"id":"7498678874","timestamp":"2024-10-02T16:16:11.387400422Z","domain":"wcms1.pub.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-06-13T18:36:22Z","to":"2025-07-13T18:36:21Z"}
+{"id":"7498678874","timestamp":"2024-10-02T16:16:11.387400492Z","domain":"wcms2.pub.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-06-13T18:36:22Z","to":"2025-07-13T18:36:21Z"}
+{"id":"7498678874","timestamp":"2024-10-02T16:16:11.387400572Z","domain":"wcms.pub.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-06-13T18:36:22Z","to":"2025-07-13T18:36:21Z"}
+{"id":"7498678874","timestamp":"2024-10-02T16:16:11.387400653Z","domain":"www.wcms.pub.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-06-13T18:36:22Z","to":"2025-07-13T18:36:21Z"}
+{"id":"7498766167","timestamp":"2024-10-02T16:16:11.387400743Z","domain":"pre.pub.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-06-13T18:55:18Z","to":"2025-07-13T18:55:17Z"}
+{"id":"7498766167","timestamp":"2024-10-02T16:16:11.387400813Z","domain":"www.pre.pub.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-06-13T18:55:18Z","to":"2025-07-13T18:55:17Z"}
+{"id":"7665915800","timestamp":"2024-10-02T16:16:11.387400913Z","domain":"services4.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-08T17:04:37Z","to":"2025-07-08T17:04:36Z"}
+{"id":"7671813466","timestamp":"2024-10-02T16:16:11.387401004Z","domain":"acpic-vm5085.natl.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-09T13:27:52Z","to":"2025-07-09T13:27:51Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387401093Z","domain":"arbitration-awards.pwu.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387401174Z","domain":"brevets-decisions-patents.opic-cipo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387401244Z","domain":"coadecisions.ontariocourts.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387401324Z","domain":"csc.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387401394Z","domain":"csc.lexum.org","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387401474Z","domain":"decisia-api.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387401614Z","domain":"decisia-demo-api.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387401695Z","domain":"decisia-demo.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387401765Z","domain":"decisia-fja-cmf.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387401845Z","domain":"decisia.jmc-cmj.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387401915Z","domain":"decisia.judiciary.gov.rw","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387401985Z","domain":"decisia.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387402055Z","domain":"decisions.abcouncil.ab.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387402135Z","domain":"decisions.aglc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387402206Z","domain":"decisions.cai.gouv.qc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387402276Z","domain":"decisions.cart-crac.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387402346Z","domain":"decisions.cb-cda.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387402436Z","domain":"decisions.chrt-tcdp.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387402506Z","domain":"decisions.cisro-ocra.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387402586Z","domain":"decisions.citt-tcce.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387402656Z","domain":"decisions.civilresolutionbc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387402737Z","domain":"decisions.cmac-cacm.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387402817Z","domain":"decisions.courts.ns.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387402887Z","domain":"decisions.ct-tc.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387402967Z","domain":"decisions.eptc-tpec.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387403037Z","domain":"decisions.fca-caf.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387403107Z","domain":"decisions.fca-caf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387403188Z","domain":"decisions.fct-cf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387403268Z","domain":"decisions.fpslreb-crtespf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387403338Z","domain":"decisions.grc.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387403418Z","domain":"decisions.grc-rcmp.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387403498Z","domain":"decisions.icm.mb.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387403568Z","domain":"decisions.ipc.on.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387403648Z","domain":"decisions.opic-cipo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387403718Z","domain":"decisions.osc.gov.on.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387403799Z","domain":"decisions.psdpt-tpfd.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387403869Z","domain":"decisions.rcmp.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387403949Z","domain":"decisions.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387404019Z","domain":"decisions.scc-csc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387404099Z","domain":"decisions.sct-trp.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387404169Z","domain":"decisions.sst-tss.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.38740425Z","domain":"decisions.surfacerightsboard.bc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387404319Z","domain":"decisions.tatc.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.3874044Z","domain":"decision.tcc-cci.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.38740447Z","domain":"docs.mbsecurities.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.38740454Z","domain":"nmonesource.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.38740462Z","domain":"offers.sopf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.38740469Z","domain":"offres.cidphn.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387404771Z","domain":"online.nabplaw.pharmacy","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387404851Z","domain":"opinions.arcourts.gov","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387404921Z","domain":"parti.fng.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387405001Z","domain":"partii-partiii.fng.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387405081Z","domain":"records.adbmich.org","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387405161Z","domain":"recueil.cmf-fja.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387405231Z","domain":"recueil.cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387405301Z","domain":"recueil.fja-cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387405381Z","domain":"recueil.fja.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387405462Z","domain":"reports.cmf-fja.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387405532Z","domain":"reports.cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387405612Z","domain":"reports.fja-cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387405692Z","domain":"reports.fja.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387405782Z","domain":"scc-csc-api.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387405853Z","domain":"scc-csc.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387405933Z","domain":"scc.lexum.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387406013Z","domain":"scc.lexum.org","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387406083Z","domain":"www.energyregtracker.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387406163Z","domain":"www.energyregtracker.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387406233Z","domain":"www.nmonesource.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387406313Z","domain":"www.ordersdecisions.bcuc.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387406394Z","domain":"www.trackenergyregs.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7673611600","timestamp":"2024-10-02T16:16:11.387406474Z","domain":"www.trackenergyregs.com","issuer":"Let's Encrypt","from":"2024-07-09T17:57:58Z","to":"2024-10-07T17:57:57Z"}
+{"id":"7695652324","timestamp":"2024-10-02T16:16:11.387406564Z","domain":"acpic-vm5080.natl.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-12T16:18:50Z","to":"2025-08-12T16:18:49Z"}
+{"id":"7695670259","timestamp":"2024-10-02T16:16:11.387406654Z","domain":"acpic-vm5081.natl.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-12T16:22:53Z","to":"2025-08-12T16:22:51Z"}
+{"id":"7695687766","timestamp":"2024-10-02T16:16:11.387406734Z","domain":"acpic-vm5082.natl.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-12T16:25:12Z","to":"2025-08-12T16:25:11Z"}
+{"id":"7695704063","timestamp":"2024-10-02T16:16:11.387406814Z","domain":"acpic-vm5083.natl.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-12T16:28:13Z","to":"2025-08-12T16:28:12Z"}
+{"id":"7695717973","timestamp":"2024-10-02T16:16:11.387406894Z","domain":"acpic-vm5084.natl.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-12T16:30:55Z","to":"2025-08-12T16:30:54Z"}
+{"id":"7695731560","timestamp":"2024-10-02T16:16:11.387406975Z","domain":"acpic-vm5090.natl.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-12T16:34:01Z","to":"2025-08-12T16:34:00Z"}
+{"id":"7695745416","timestamp":"2024-10-02T16:16:11.387407065Z","domain":"acpic-vm5091.natl.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-12T16:36:37Z","to":"2025-08-12T16:36:35Z"}
+{"id":"7695785610","timestamp":"2024-10-02T16:16:11.387407145Z","domain":"acpic-vm5086.natl.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-12T16:43:52Z","to":"2025-08-12T16:43:51Z"}
+{"id":"7695802445","timestamp":"2024-10-02T16:16:11.387407235Z","domain":"acpic-vm5087.natl.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-12T16:46:51Z","to":"2025-08-12T16:46:50Z"}
+{"id":"7695815693","timestamp":"2024-10-02T16:16:11.387407315Z","domain":"acpic-vm5088.natl.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-12T16:49:19Z","to":"2025-08-12T16:49:18Z"}
+{"id":"7695835143","timestamp":"2024-10-02T16:16:11.387407405Z","domain":"acpic-vm5092.natl.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-12T16:52:40Z","to":"2025-08-12T16:52:39Z"}
+{"id":"7824019223","timestamp":"2024-10-02T16:16:11.387407505Z","domain":"ocre-sielc-adm.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-29T17:11:25Z","to":"2025-08-29T17:11:24Z"}
+{"id":"7824019223","timestamp":"2024-10-02T16:16:11.387407576Z","domain":"ocre-sielc-admstg.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-29T17:11:25Z","to":"2025-08-29T17:11:24Z"}
+{"id":"7824019223","timestamp":"2024-10-02T16:16:11.387407646Z","domain":"ocre-sielc-stg.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-29T17:11:25Z","to":"2025-08-29T17:11:24Z"}
+{"id":"7824019223","timestamp":"2024-10-02T16:16:11.387407726Z","domain":"rapport-adm.grc.gc.ca","issuer":"Entrust","from":"2024-07-29T17:11:25Z","to":"2025-08-29T17:11:24Z"}
+{"id":"7824019223","timestamp":"2024-10-02T16:16:11.387407806Z","domain":"*.report-adm.rcmp.gc.ca","issuer":"Entrust","from":"2024-07-29T17:11:25Z","to":"2025-08-29T17:11:24Z"}
+{"id":"7824019223","timestamp":"2024-10-02T16:16:11.387407886Z","domain":"report-adm.rcmp.gc.ca","issuer":"Entrust","from":"2024-07-29T17:11:25Z","to":"2025-08-29T17:11:24Z"}
+{"id":"7824019223","timestamp":"2024-10-02T16:16:11.387407956Z","domain":"*.report.rcmp.gc.ca","issuer":"Entrust","from":"2024-07-29T17:11:25Z","to":"2025-08-29T17:11:24Z"}
+{"id":"7824019223","timestamp":"2024-10-02T16:16:11.387408037Z","domain":"*.signaler-adm.grc.gc.ca","issuer":"Entrust","from":"2024-07-29T17:11:25Z","to":"2025-08-29T17:11:24Z"}
+{"id":"7824019223","timestamp":"2024-10-02T16:16:11.387408107Z","domain":"signaler-adm.grc.gc.ca","issuer":"Entrust","from":"2024-07-29T17:11:25Z","to":"2025-08-29T17:11:24Z"}
+{"id":"7824019223","timestamp":"2024-10-02T16:16:11.387408187Z","domain":"*.signaler.grc.gc.ca","issuer":"Entrust","from":"2024-07-29T17:11:25Z","to":"2025-08-29T17:11:24Z"}
+{"id":"7824019223","timestamp":"2024-10-02T16:16:11.387408257Z","domain":"www.ocre-sielc-adm.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-07-29T17:11:25Z","to":"2025-08-29T17:11:24Z"}
+{"id":"7824019223","timestamp":"2024-10-02T16:16:11.387408327Z","domain":"www.rapport-adm.grc.gc.ca","issuer":"Entrust","from":"2024-07-29T17:11:25Z","to":"2025-08-29T17:11:24Z"}
+{"id":"7824019223","timestamp":"2024-10-02T16:16:11.387408407Z","domain":"www.report-adm.rcmp.gc.ca","issuer":"Entrust","from":"2024-07-29T17:11:25Z","to":"2025-08-29T17:11:24Z"}
+{"id":"7846082291","timestamp":"2024-10-02T16:16:11.387408497Z","domain":"ocre-sielc.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-08-01T12:26:47Z","to":"2025-09-01T12:26:46Z"}
+{"id":"7846082291","timestamp":"2024-10-02T16:16:11.387408578Z","domain":"rapport.grc.ca","issuer":"Entrust","from":"2024-08-01T12:26:47Z","to":"2025-09-01T12:26:46Z"}
+{"id":"7846082291","timestamp":"2024-10-02T16:16:11.387408648Z","domain":"report.rcmp.ca","issuer":"Entrust","from":"2024-08-01T12:26:47Z","to":"2025-09-01T12:26:46Z"}
+{"id":"7846082291","timestamp":"2024-10-02T16:16:11.387408728Z","domain":"sielc-ocre.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-08-01T12:26:47Z","to":"2025-09-01T12:26:46Z"}
+{"id":"7846082291","timestamp":"2024-10-02T16:16:11.387408808Z","domain":"signaler.grc.ca","issuer":"Entrust","from":"2024-08-01T12:26:47Z","to":"2025-09-01T12:26:46Z"}
+{"id":"7846082291","timestamp":"2024-10-02T16:16:11.387408888Z","domain":"www.ocre-sielc.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-08-01T12:26:47Z","to":"2025-09-01T12:26:46Z"}
+{"id":"7846082291","timestamp":"2024-10-02T16:16:11.387416512Z","domain":"www.rapport.grc.ca","issuer":"Entrust","from":"2024-08-01T12:26:47Z","to":"2025-09-01T12:26:46Z"}
+{"id":"7846082291","timestamp":"2024-10-02T16:16:11.387416582Z","domain":"www.report.rcmp.ca","issuer":"Entrust","from":"2024-08-01T12:26:47Z","to":"2025-09-01T12:26:46Z"}
+{"id":"7846082291","timestamp":"2024-10-02T16:16:11.387416653Z","domain":"www.sielc-ocre.grc-rcmp.gc.ca","issuer":"Entrust","from":"2024-08-01T12:26:47Z","to":"2025-09-01T12:26:46Z"}
+{"id":"8066182851","timestamp":"2024-10-02T16:16:11.387416743Z","domain":"*.onboarding.azs.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-08-30T14:20:08Z","to":"2025-09-30T14:20:07Z"}
+{"id":"8066182851","timestamp":"2024-10-02T16:16:11.387416813Z","domain":"onboarding.azs.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-08-30T14:20:08Z","to":"2025-09-30T14:20:07Z"}
+{"id":"8222185202","timestamp":"2024-10-02T16:16:11.387416903Z","domain":"services2-rcmp-grc-acr.fjgc-gccf.gc.ca","issuer":"Entrust","from":"2024-09-20T11:19:15Z","to":"2025-10-20T11:19:14Z"}
+{"id":"8222185202","timestamp":"2024-10-02T16:16:11.387416983Z","domain":"services2.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-20T11:19:15Z","to":"2025-10-20T11:19:14Z"}
+{"id":"8222185202","timestamp":"2024-10-02T16:16:11.387417053Z","domain":"services3.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-20T11:19:15Z","to":"2025-10-20T11:19:14Z"}
+{"id":"8222185202","timestamp":"2024-10-02T16:16:11.387417123Z","domain":"services-rcmp-grc-acr.fjgc-gccf.gc.ca","issuer":"Entrust","from":"2024-09-20T11:19:15Z","to":"2025-10-20T11:19:14Z"}
+{"id":"8222185202","timestamp":"2024-10-02T16:16:11.387417204Z","domain":"services.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-20T11:19:15Z","to":"2025-10-20T11:19:14Z"}
+{"id":"8222185202","timestamp":"2024-10-02T16:16:11.387417274Z","domain":"www1.services2.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-20T11:19:15Z","to":"2025-10-20T11:19:14Z"}
+{"id":"8222185202","timestamp":"2024-10-02T16:16:11.387417354Z","domain":"www1.services3.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-20T11:19:15Z","to":"2025-10-20T11:19:14Z"}
+{"id":"8222185202","timestamp":"2024-10-02T16:16:11.387417424Z","domain":"www1.services.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-20T11:19:15Z","to":"2025-10-20T11:19:14Z"}
+{"id":"8222185202","timestamp":"2024-10-02T16:16:11.387417504Z","domain":"www2.services2.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-20T11:19:15Z","to":"2025-10-20T11:19:14Z"}
+{"id":"8222185202","timestamp":"2024-10-02T16:16:11.387417584Z","domain":"www2.services3.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-20T11:19:15Z","to":"2025-10-20T11:19:14Z"}
+{"id":"8222185202","timestamp":"2024-10-02T16:16:11.387417655Z","domain":"www2.services.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-20T11:19:15Z","to":"2025-10-20T11:19:14Z"}
+{"id":"8222185202","timestamp":"2024-10-02T16:16:11.387417724Z","domain":"www.services2.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-20T11:19:15Z","to":"2025-10-20T11:19:14Z"}
+{"id":"8222185202","timestamp":"2024-10-02T16:16:11.387417795Z","domain":"www.services3.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-20T11:19:15Z","to":"2025-10-20T11:19:14Z"}
+{"id":"8222185202","timestamp":"2024-10-02T16:16:11.387417875Z","domain":"www.services.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-20T11:19:15Z","to":"2025-10-20T11:19:14Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387417965Z","domain":"arbitration-awards.pwu.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387418035Z","domain":"brevets-decisions-patents.opic-cipo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387418105Z","domain":"coadecisions.ontariocourts.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387418185Z","domain":"csc.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387418256Z","domain":"csc.lexum.org","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387418336Z","domain":"decisia-api.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387418406Z","domain":"decisia-demo-api.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387418476Z","domain":"decisia-demo.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387418556Z","domain":"decisia-fja-cmf.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387418636Z","domain":"decisia.jmc-cmj.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387418706Z","domain":"decisia.judiciary.gov.rw","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387418786Z","domain":"decisia.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387418857Z","domain":"decisions.abcouncil.ab.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387418937Z","domain":"decisions.aglc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387419017Z","domain":"decisions.cai.gouv.qc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387419087Z","domain":"decisions.cart-crac.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387419167Z","domain":"decisions.cb-cda.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387419238Z","domain":"decisions.chrt-tcdp.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387419318Z","domain":"decisions.cisro-ocra.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387419388Z","domain":"decisions.citt-tcce.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387419468Z","domain":"decisions.civilresolutionbc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387419548Z","domain":"decisions.cmac-cacm.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387419618Z","domain":"decisions.courts.ns.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387419688Z","domain":"decisions.ct-tc.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387419768Z","domain":"decisions.eptc-tpec.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387419848Z","domain":"decisions.fca-caf.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387419919Z","domain":"decisions.fca-caf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387419989Z","domain":"decisions.fct-cf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387420069Z","domain":"decisions.fpslreb-crtespf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387420139Z","domain":"decisions.grc.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387420209Z","domain":"decisions.grc-rcmp.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387420279Z","domain":"decisions.icm.mb.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.38742036Z","domain":"decisions.ipc.on.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.38742043Z","domain":"decisions.opic-cipo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.38742051Z","domain":"decisions.osc.gov.on.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.38742059Z","domain":"decisions.psdpt-tpfd.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.38742066Z","domain":"decisions.rcmp.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.38742073Z","domain":"decisions.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.38742081Z","domain":"decisions.scc-csc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387420881Z","domain":"decisions.sct-trp.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387420961Z","domain":"decisions.sst-tss.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387421031Z","domain":"decisions.surfacerightsboard.bc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387421111Z","domain":"decisions.tatc.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387421191Z","domain":"decision.tcc-cci.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387421271Z","domain":"docs.mbsecurities.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387421341Z","domain":"nmonesource.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387421411Z","domain":"offers.sopf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387421492Z","domain":"offres.cidphn.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387421562Z","domain":"online.nabplaw.pharmacy","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387421632Z","domain":"opinions.arcourts.gov","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387421712Z","domain":"parti.fng.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387421782Z","domain":"partii-partiii.fng.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387421862Z","domain":"records.adbmich.org","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387421932Z","domain":"recueil.cmf-fja.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387422012Z","domain":"recueil.cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387422083Z","domain":"recueil.fja-cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387422153Z","domain":"recueil.fja.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387422233Z","domain":"reports.cmf-fja.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387422313Z","domain":"reports.cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387422383Z","domain":"reports.fja-cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387422464Z","domain":"reports.fja.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387422544Z","domain":"scc-csc-api.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387422614Z","domain":"scc-csc.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387422694Z","domain":"scc.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387422774Z","domain":"scc.lexum.org","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387422854Z","domain":"www.energyregtracker.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387422934Z","domain":"www.energyregtracker.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387423014Z","domain":"www.nmonesource.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387423085Z","domain":"www.ordersdecisions.bcuc.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387423165Z","domain":"www.trackenergyregs.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270927102","timestamp":"2024-10-02T16:16:11.387423245Z","domain":"www.trackenergyregs.com","issuer":"Let's Encrypt","from":"2024-09-26T17:31:22Z","to":"2024-12-25T17:31:21Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387423345Z","domain":"arbitration-awards.pwu.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387423415Z","domain":"brevets-decisions-patents.opic-cipo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387423495Z","domain":"coadecisions.ontariocourts.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387423566Z","domain":"csc.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387423646Z","domain":"csc.lexum.org","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387423716Z","domain":"decisia-api.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387423786Z","domain":"decisia-demo-api.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387423856Z","domain":"decisia-demo.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387423936Z","domain":"decisia-fja-cmf.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387424016Z","domain":"decisia.jmc-cmj.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387424087Z","domain":"decisia.judiciary.gov.rw","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387424167Z","domain":"decisia.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387424237Z","domain":"decisions.abcouncil.ab.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387424307Z","domain":"decisions.aglc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387424377Z","domain":"decisions.cai.gouv.qc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387424447Z","domain":"decisions.cart-crac.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387424527Z","domain":"decisions.cb-cda.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387424597Z","domain":"decisions.chrt-tcdp.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387424677Z","domain":"decisions.cisro-ocra.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387424748Z","domain":"decisions.citt-tcce.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387424818Z","domain":"decisions.civilresolutionbc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387424898Z","domain":"decisions.cmac-cacm.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387424978Z","domain":"decisions.courts.ns.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387425048Z","domain":"decisions.ct-tc.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387425118Z","domain":"decisions.eptc-tpec.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387425198Z","domain":"decisions.fca-caf.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387425269Z","domain":"decisions.fca-caf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387425339Z","domain":"decisions.fct-cf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387425409Z","domain":"decisions.fpslreb-crtespf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387425489Z","domain":"decisions.grc.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387425559Z","domain":"decisions.grc-rcmp.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387425629Z","domain":"decisions.icm.mb.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.38742571Z","domain":"decisions.ipc.on.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.38742578Z","domain":"decisions.opic-cipo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.38742585Z","domain":"decisions.osc.gov.on.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.38742593Z","domain":"decisions.psdpt-tpfd.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387426Z","domain":"decisions.rcmp.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.38742607Z","domain":"decisions.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.38742615Z","domain":"decisions.scc-csc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.38742622Z","domain":"decisions.sct-trp.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.3874263Z","domain":"decisions.sst-tss.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387426371Z","domain":"decisions.surfacerightsboard.bc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387426441Z","domain":"decisions.tatc.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387426511Z","domain":"decision.tcc-cci.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387426591Z","domain":"docs.mbsecurities.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387426661Z","domain":"nmonesource.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387426731Z","domain":"offers.sopf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387426812Z","domain":"offres.cidphn.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387426882Z","domain":"online.nabplaw.pharmacy","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387426952Z","domain":"opinions.arcourts.gov","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387427022Z","domain":"parti.fng.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387427102Z","domain":"partii-partiii.fng.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387427182Z","domain":"records.adbmich.org","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387427252Z","domain":"recueil.cmf-fja.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387427322Z","domain":"recueil.cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387427403Z","domain":"recueil.fja-cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387427473Z","domain":"recueil.fja.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387427543Z","domain":"reports.cmf-fja.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387427613Z","domain":"reports.cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387427693Z","domain":"reports.fja-cmf.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387427763Z","domain":"reports.fja.gc.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387427834Z","domain":"scc-csc-api.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387427903Z","domain":"scc-csc.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387427974Z","domain":"scc.lexum.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387428044Z","domain":"scc.lexum.org","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387428114Z","domain":"www.energyregtracker.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387428194Z","domain":"www.energyregtracker.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387428274Z","domain":"www.nmonesource.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387428344Z","domain":"www.ordersdecisions.bcuc.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387428415Z","domain":"www.trackenergyregs.ca","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8270932858","timestamp":"2024-10-02T16:16:11.387428495Z","domain":"www.trackenergyregs.com","issuer":"Let's Encrypt","from":"2024-09-26T17:34:02Z","to":"2024-12-25T17:34:01Z"}
+{"id":"8277181239","timestamp":"2024-10-02T16:16:11.387428595Z","domain":"acpic-s1651.natl.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-27T17:27:11Z","to":"2025-10-27T17:27:10Z"}
+{"id":"8277181239","timestamp":"2024-10-02T16:16:11.387428665Z","domain":"autodiscover.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-27T17:27:11Z","to":"2025-10-27T17:27:10Z"}
+{"id":"8277181239","timestamp":"2024-10-02T16:16:11.387428745Z","domain":"email-courriel.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-27T17:27:11Z","to":"2025-10-27T17:27:10Z"}
+{"id":"8277181239","timestamp":"2024-10-02T16:16:11.387428815Z","domain":"mrs2.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-27T17:27:11Z","to":"2025-10-27T17:27:10Z"}
+{"id":"8277196909","timestamp":"2024-10-02T16:16:11.387428916Z","domain":"acpic-s1650.natl.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-27T17:31:41Z","to":"2025-10-27T17:31:40Z"}
+{"id":"8277196909","timestamp":"2024-10-02T16:16:11.387428996Z","domain":"autodiscover.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-27T17:31:41Z","to":"2025-10-27T17:31:40Z"}
+{"id":"8277196909","timestamp":"2024-10-02T16:16:11.387429066Z","domain":"email-courriel.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-27T17:31:41Z","to":"2025-10-27T17:31:40Z"}
+{"id":"8277196909","timestamp":"2024-10-02T16:16:11.387429146Z","domain":"mrs1.rcmp-grc.gc.ca","issuer":"Entrust","from":"2024-09-27T17:31:41Z","to":"2025-10-27T17:31:40Z"}
