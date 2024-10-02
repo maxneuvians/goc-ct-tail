@@ -1,4 +1,4 @@
-name: Tail matrix logs
+name: Tail 30m logs
 
 on:
   workflow_dispatch:
@@ -13,7 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        domain: ['agr.gc.ca', 'pco.gc.ca', 'pm.gc.ca', 'science.gc.ca', 'statcan.gc.ca']
+        domain: [
+          'agr.gc.ca',
+          'cds-snc.ca',
+          'cdssandbox.xyz',
+          'cyber.gc.ca',
+          'mint.ca',
+          'pco.gc.ca', 
+          'pm.gc.ca', 
+          'science.gc.ca', 
+          'statcan.gc.ca',
+          'tbs-sct.gc.ca',
+        ]
     steps:
       - name: Checkout
         uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
