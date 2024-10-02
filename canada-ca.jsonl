@@ -4414,3 +4414,5 @@
 {"id":"8308819201","timestamp":"2024-10-02T05:18:54.343028584Z","domain":"gcperformance.alpha.canada.ca","issuer":"DigiCert","from":"2024-10-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
 {"id":"8310090099","timestamp":"2024-10-02T09:19:15.399472906Z","domain":"rpss-dev-backend.apim-dev.tbs-sct.canada.ca","issuer":"DigiCert","from":"2024-10-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
 {"id":"8310541429","timestamp":"2024-10-02T10:19:11.954300612Z","domain":"uat.ewp-pmee.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2024-10-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
+{"id":"8311426339","timestamp":"2024-10-02T13:20:37.27169141Z","domain":"cde-contactcentre-coe-uat.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-02T11:43:17Z","to":"2024-12-31T11:43:16Z"}
+{"id":"8311493254","timestamp":"2024-10-02T13:20:37.271691821Z","domain":"cde-contactcentre-coe.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-10-02T11:58:12Z","to":"2024-12-31T11:58:11Z"}
