@@ -1,0 +1,434 @@
+{"id":"5809362294","timestamp":"2024-10-03T14:26:44.335618821Z","domain":"ctto-otpc.qc.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-09-06T16:41:58Z","to":"2024-10-06T16:41:57Z"}
+{"id":"5809362294","timestamp":"2024-10-03T14:26:44.335619712Z","domain":"msfbsdev.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-09-06T16:41:58Z","to":"2024-10-06T16:41:57Z"}
+{"id":"5809362294","timestamp":"2024-10-03T14:26:44.335620023Z","domain":"msfbs-sfdsm.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-09-06T16:41:58Z","to":"2024-10-06T16:41:57Z"}
+{"id":"5822053495","timestamp":"2024-10-03T14:26:44.335620544Z","domain":"snifc71gl.wpc.edgecastcdn.net","issuer":"DigiCert","from":"2023-09-09T00:00:00Z","to":"2024-10-09T23:59:59Z"}
+{"id":"5822053495","timestamp":"2024-10-03T14:26:44.335620674Z","domain":"waves-vagues.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2023-09-09T00:00:00Z","to":"2024-10-09T23:59:59Z"}
+{"id":"5849011979","timestamp":"2024-10-03T14:26:44.335622227Z","domain":"citrix.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-09-14T12:25:33Z","to":"2024-10-14T12:25:32Z"}
+{"id":"5849011979","timestamp":"2024-10-03T14:26:44.335622327Z","domain":"www.citrix.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-09-14T12:25:33Z","to":"2024-10-14T12:25:32Z"}
+{"id":"6030559842","timestamp":"2024-10-03T14:26:44.335622467Z","domain":"rpims.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-18T14:18:48Z","to":"2024-11-18T14:18:47Z"}
+{"id":"6031216977","timestamp":"2024-10-03T14:26:44.335622577Z","domain":"rpims-dev.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-18T16:56:03Z","to":"2024-11-18T16:56:02Z"}
+{"id":"6042800893","timestamp":"2024-10-03T14:26:44.33562365Z","domain":"edh-cde.dev.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-20T17:58:42Z","to":"2024-11-20T17:58:41Z"}
+{"id":"6042800893","timestamp":"2024-10-03T14:26:44.33562375Z","domain":"*.edh-cde.dev.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-20T17:58:42Z","to":"2024-11-20T17:58:41Z"}
+{"id":"6042800893","timestamp":"2024-10-03T14:26:44.33562385Z","domain":"edh-cde.dev.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-20T17:58:42Z","to":"2024-11-20T17:58:41Z"}
+{"id":"6042800893","timestamp":"2024-10-03T14:26:44.33562394Z","domain":"edh.dev.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-20T17:58:42Z","to":"2024-11-20T17:58:41Z"}
+{"id":"6042800893","timestamp":"2024-10-03T14:26:44.33562403Z","domain":"*.edh.dev.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-20T17:58:42Z","to":"2024-11-20T17:58:41Z"}
+{"id":"6042800893","timestamp":"2024-10-03T14:26:44.33562413Z","domain":"edh.dev.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-20T17:58:42Z","to":"2024-11-20T17:58:41Z"}
+{"id":"6042826080","timestamp":"2024-10-03T14:26:44.335624231Z","domain":"edh-cde.staging.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-20T18:02:49Z","to":"2024-11-20T18:02:48Z"}
+{"id":"6042826080","timestamp":"2024-10-03T14:26:44.335624331Z","domain":"*.edh-cde.staging.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-20T18:02:49Z","to":"2024-11-20T18:02:48Z"}
+{"id":"6042826080","timestamp":"2024-10-03T14:26:44.335624421Z","domain":"edh-cde.staging.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-20T18:02:49Z","to":"2024-11-20T18:02:48Z"}
+{"id":"6042826080","timestamp":"2024-10-03T14:26:44.335625583Z","domain":"edh.staging.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-20T18:02:49Z","to":"2024-11-20T18:02:48Z"}
+{"id":"6042826080","timestamp":"2024-10-03T14:26:44.335625854Z","domain":"*.edh.staging.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-20T18:02:49Z","to":"2024-11-20T18:02:48Z"}
+{"id":"6042826080","timestamp":"2024-10-03T14:26:44.335625954Z","domain":"edh.staging.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-20T18:02:49Z","to":"2024-11-20T18:02:48Z"}
+{"id":"6058802211","timestamp":"2024-10-03T14:26:44.335626064Z","domain":"edh-cde.test.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-23T15:43:06Z","to":"2024-11-23T15:43:05Z"}
+{"id":"6058802211","timestamp":"2024-10-03T14:26:44.335626164Z","domain":"*.edh-cde.test.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-23T15:43:06Z","to":"2024-11-23T15:43:05Z"}
+{"id":"6058802211","timestamp":"2024-10-03T14:26:44.335626274Z","domain":"edh-cde.test.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-23T15:43:06Z","to":"2024-11-23T15:43:05Z"}
+{"id":"6058802211","timestamp":"2024-10-03T14:26:44.335626364Z","domain":"edh.test.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-23T15:43:06Z","to":"2024-11-23T15:43:05Z"}
+{"id":"6058802211","timestamp":"2024-10-03T14:26:44.335626465Z","domain":"*.edh.test.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-23T15:43:06Z","to":"2024-11-23T15:43:05Z"}
+{"id":"6058802211","timestamp":"2024-10-03T14:26:44.335626565Z","domain":"edh.test.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-23T15:43:06Z","to":"2024-11-23T15:43:05Z"}
+{"id":"6058824900","timestamp":"2024-10-03T14:26:44.335626685Z","domain":"edh-cde.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-23T15:50:17Z","to":"2024-11-23T15:50:16Z"}
+{"id":"6058824900","timestamp":"2024-10-03T14:26:44.335626785Z","domain":"*.edh-cde.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-23T15:50:17Z","to":"2024-11-23T15:50:16Z"}
+{"id":"6058824900","timestamp":"2024-10-03T14:26:44.335626876Z","domain":"edh-cde.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-23T15:50:17Z","to":"2024-11-23T15:50:16Z"}
+{"id":"6058824900","timestamp":"2024-10-03T14:26:44.335626976Z","domain":"edh.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-23T15:50:17Z","to":"2024-11-23T15:50:16Z"}
+{"id":"6058824900","timestamp":"2024-10-03T14:26:44.335627076Z","domain":"*.edh.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-23T15:50:17Z","to":"2024-11-23T15:50:16Z"}
+{"id":"6058824900","timestamp":"2024-10-03T14:26:44.335627346Z","domain":"edh.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-23T15:50:17Z","to":"2024-11-23T15:50:16Z"}
+{"id":"6076558603","timestamp":"2024-10-03T14:26:44.335627466Z","domain":"dfocmg.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-26T15:59:31Z","to":"2024-11-26T15:59:30Z"}
+{"id":"6105103356","timestamp":"2024-10-03T14:26:44.335627587Z","domain":"citrix-mfa.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-31T14:42:42Z","to":"2024-11-30T14:42:41Z"}
+{"id":"6105193456","timestamp":"2024-10-03T14:26:44.335627707Z","domain":"dfnsb2ywvorp002.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-31T15:02:40Z","to":"2024-11-30T15:02:39Z"}
+{"id":"6105193456","timestamp":"2024-10-03T14:26:44.335627797Z","domain":"www.dfnsb2ywvorp002.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-31T15:02:40Z","to":"2024-11-30T15:02:39Z"}
+{"id":"6105491049","timestamp":"2024-10-03T14:26:44.335627897Z","domain":"dfnsb2ywvorp002.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-31T16:11:56Z","to":"2024-11-30T16:11:55Z"}
+{"id":"6105491049","timestamp":"2024-10-03T14:26:44.335627998Z","domain":"www.dfnsb2ywvorp002.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-10-31T16:11:56Z","to":"2024-11-30T16:11:55Z"}
+{"id":"6197165330","timestamp":"2024-10-03T14:26:44.335628108Z","domain":"krest.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-11-16T14:16:16Z","to":"2024-12-16T14:16:15Z"}
+{"id":"6197194407","timestamp":"2024-10-03T14:26:44.33562937Z","domain":"krest-test.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-11-16T14:21:45Z","to":"2024-12-16T14:21:44Z"}
+{"id":"6217586979","timestamp":"2024-10-03T14:26:44.3356295Z","domain":"notices.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-11-20T17:01:53Z","to":"2024-12-20T17:01:52Z"}
+{"id":"6217586979","timestamp":"2024-10-03T14:26:44.33562959Z","domain":"www-ops2.pac.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-11-20T17:01:53Z","to":"2024-12-20T17:01:52Z"}
+{"id":"6283025225","timestamp":"2024-10-03T14:26:44.335629691Z","domain":"*.analytics.edh-test.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-11-30T12:38:45Z","to":"2024-12-30T12:38:44Z"}
+{"id":"6283025225","timestamp":"2024-10-03T14:26:44.335629851Z","domain":"*.dmp.edh-test.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-11-30T12:38:45Z","to":"2024-12-30T12:38:44Z"}
+{"id":"6283025225","timestamp":"2024-10-03T14:26:44.335629951Z","domain":"*.edh-cde.test.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-11-30T12:38:45Z","to":"2024-12-30T12:38:44Z"}
+{"id":"6283025225","timestamp":"2024-10-03T14:26:44.335630041Z","domain":"*.edh-cde.test.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-11-30T12:38:45Z","to":"2024-12-30T12:38:44Z"}
+{"id":"6283025225","timestamp":"2024-10-03T14:26:44.335630142Z","domain":"edh-cde.test.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-11-30T12:38:45Z","to":"2024-12-30T12:38:44Z"}
+{"id":"6283025225","timestamp":"2024-10-03T14:26:44.335630232Z","domain":"*.edh-test.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-11-30T12:38:45Z","to":"2024-12-30T12:38:44Z"}
+{"id":"6283025225","timestamp":"2024-10-03T14:26:44.335630332Z","domain":"*.edh.test.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-11-30T12:38:45Z","to":"2024-12-30T12:38:44Z"}
+{"id":"6283025225","timestamp":"2024-10-03T14:26:44.335630422Z","domain":"*.vms.edh-test.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-11-30T12:38:45Z","to":"2024-12-30T12:38:44Z"}
+{"id":"6284259263","timestamp":"2024-10-03T14:26:44.335630532Z","domain":"focpoc-telework-logins.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2023-11-30T00:00:00Z","to":"2024-11-30T23:59:59Z"}
+{"id":"6290755140","timestamp":"2024-10-03T14:26:44.335630643Z","domain":"*.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-12-01T19:56:57Z","to":"2025-01-01T19:56:56Z"}
+{"id":"6290755140","timestamp":"2024-10-03T14:26:44.335630733Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-12-01T19:56:57Z","to":"2025-01-01T19:56:56Z"}
+{"id":"6313982987","timestamp":"2024-10-03T14:26:44.335630833Z","domain":"*.analytics.edh-dev.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-12-05T16:48:21Z","to":"2025-01-05T16:48:20Z"}
+{"id":"6313982987","timestamp":"2024-10-03T14:26:44.335630923Z","domain":"*.dmp.edh-dev.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-12-05T16:48:21Z","to":"2025-01-05T16:48:20Z"}
+{"id":"6313982987","timestamp":"2024-10-03T14:26:44.335631013Z","domain":"*.edh-cde.dev.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-12-05T16:48:21Z","to":"2025-01-05T16:48:20Z"}
+{"id":"6313982987","timestamp":"2024-10-03T14:26:44.335631113Z","domain":"*.edh-cde.dev.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-12-05T16:48:21Z","to":"2025-01-05T16:48:20Z"}
+{"id":"6313982987","timestamp":"2024-10-03T14:26:44.335631204Z","domain":"edh-cde.dev.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-12-05T16:48:21Z","to":"2025-01-05T16:48:20Z"}
+{"id":"6313982987","timestamp":"2024-10-03T14:26:44.335631294Z","domain":"*.edh-dev.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-12-05T16:48:21Z","to":"2025-01-05T16:48:20Z"}
+{"id":"6313982987","timestamp":"2024-10-03T14:26:44.335631384Z","domain":"*.edh.dev.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-12-05T16:48:21Z","to":"2025-01-05T16:48:20Z"}
+{"id":"6313982987","timestamp":"2024-10-03T14:26:44.335631484Z","domain":"*.vms.edh-dev.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-12-05T16:48:21Z","to":"2025-01-05T16:48:20Z"}
+{"id":"6316430251","timestamp":"2024-10-03T14:26:44.335631584Z","domain":"msteams.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2023-12-06T00:00:00Z","to":"2024-12-06T23:59:59Z"}
+{"id":"6316999445","timestamp":"2024-10-03T14:26:44.335631674Z","domain":"ccg-moodle.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2023-12-06T00:00:00Z","to":"2024-12-06T23:59:59Z"}
+{"id":"6317135822","timestamp":"2024-10-03T14:26:44.335631794Z","domain":"ccg-moodle.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2023-12-06T00:00:00Z","to":"2024-12-06T23:59:59Z"}
+{"id":"6404448295","timestamp":"2024-10-03T14:26:44.335631915Z","domain":"far-rlp.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-12-20T20:00:34Z","to":"2025-01-20T20:00:33Z"}
+{"id":"6404448295","timestamp":"2024-10-03T14:26:44.335632185Z","domain":"far-rpl.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-12-20T20:00:34Z","to":"2025-01-20T20:00:33Z"}
+{"id":"6404448295","timestamp":"2024-10-03T14:26:44.335632286Z","domain":"www.far-rlp.dfo-mpo.gc.ca","issuer":"Entrust","from":"2023-12-20T20:00:34Z","to":"2025-01-20T20:00:33Z"}
+{"id":"6498136879","timestamp":"2024-10-03T14:26:44.335632416Z","domain":"nam-gcr.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-01-04T15:46:25Z","to":"2025-02-04T15:46:24Z"}
+{"id":"6541610960","timestamp":"2024-10-03T14:26:44.335632526Z","domain":"sci-zone.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-01-11T17:29:25Z","to":"2025-02-11T17:29:24Z"}
+{"id":"6572822408","timestamp":"2024-10-03T14:26:44.335632636Z","domain":"recfish-pechesportive.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-01-16T15:38:21Z","to":"2025-02-16T15:38:20Z"}
+{"id":"6610581511","timestamp":"2024-10-03T14:26:44.335632736Z","domain":"avadepth.ccg.gc.ca","issuer":"Entrust","from":"2024-01-22T12:41:03Z","to":"2025-02-22T12:41:02Z"}
+{"id":"6610581511","timestamp":"2024-10-03T14:26:44.335632836Z","domain":"avadepth.ccg-gcc.gc.ca","issuer":"Entrust","from":"2024-01-22T12:41:03Z","to":"2025-02-22T12:41:02Z"}
+{"id":"6610581511","timestamp":"2024-10-03T14:26:44.335632937Z","domain":"avadepth.gcc-ccg.gc.ca","issuer":"Entrust","from":"2024-01-22T12:41:03Z","to":"2025-02-22T12:41:02Z"}
+{"id":"6610581511","timestamp":"2024-10-03T14:26:44.335633047Z","domain":"avadepth.gcc.gc.ca","issuer":"Entrust","from":"2024-01-22T12:41:03Z","to":"2025-02-22T12:41:02Z"}
+{"id":"6610581511","timestamp":"2024-10-03T14:26:44.335633137Z","domain":"www2.pac.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-01-22T12:41:03Z","to":"2025-02-22T12:41:02Z"}
+{"id":"6699553402","timestamp":"2024-10-03T14:26:44.335633257Z","domain":"*.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-02-05T12:36:12Z","to":"2025-01-01T12:36:11Z"}
+{"id":"6699553402","timestamp":"2024-10-03T14:26:44.335633357Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-02-05T12:36:12Z","to":"2025-01-01T12:36:11Z"}
+{"id":"6699553402","timestamp":"2024-10-03T14:26:44.335633458Z","domain":"*.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-02-05T12:36:12Z","to":"2025-01-01T12:36:11Z"}
+{"id":"6767902349","timestamp":"2024-10-03T14:26:44.335635111Z","domain":"dfnsb2ywpasp003.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-02-16T19:23:48Z","to":"2025-03-16T19:23:47Z"}
+{"id":"6887871376","timestamp":"2024-10-03T14:26:44.335635211Z","domain":"cnodc-cndoc.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T11:58:10Z","to":"2025-04-07T11:58:09Z"}
+{"id":"6887871376","timestamp":"2024-10-03T14:26:44.335635301Z","domain":"cnodc-cndoc.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T11:58:10Z","to":"2025-04-07T11:58:09Z"}
+{"id":"6887871376","timestamp":"2024-10-03T14:26:44.335635401Z","domain":"www.cnodc-cndoc.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T11:58:10Z","to":"2025-04-07T11:58:09Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335635521Z","domain":"cartes-charts.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335635612Z","domain":"cartes.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335635702Z","domain":"ccg-gcc.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335635792Z","domain":"charts-cartes.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335635892Z","domain":"charts.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335635982Z","domain":"chs.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335636082Z","domain":"chs-shc.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335636173Z","domain":"collab.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335636263Z","domain":"dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335636353Z","domain":"enregistrer.chs-shc.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335636574Z","domain":"fcs-scp.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335636654Z","domain":"fishing.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335636744Z","domain":"fishing-peche.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335636824Z","domain":"fishing-pecheuat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335636904Z","domain":"fish-peche.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335636994Z","domain":"fish-peche-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335637075Z","domain":"ftp.isdm.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335637155Z","domain":"ftp.isdm-gdsi.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335637245Z","domain":"ftp.meds-sdmm.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335637325Z","domain":"gdsi.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335637425Z","domain":"gdsi-isdm.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335637515Z","domain":"geoportail.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335637596Z","domain":"geoportail-geoportal.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335637676Z","domain":"geoportal.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335637756Z","domain":"geoportal-geoportail.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335637846Z","domain":"gisp.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335637926Z","domain":"gispfed.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335638006Z","domain":"gisppub.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335638096Z","domain":"gist.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335638177Z","domain":"inter.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335638257Z","domain":"inter-j01.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335638337Z","domain":"inter-j01-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335638427Z","domain":"inter-j02.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335638507Z","domain":"inter-j02-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335638587Z","domain":"inter-j03.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335638678Z","domain":"inter-j03-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335638758Z","domain":"inter-j04.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335638838Z","domain":"inter-j04-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335638918Z","domain":"inter-l01.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335639008Z","domain":"inter-l01-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335639088Z","domain":"inter-l02.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335639168Z","domain":"inter-l03.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335639248Z","domain":"internet.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335639339Z","domain":"inter-w01.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335639419Z","domain":"inter-w01-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335639499Z","domain":"inter-w02.ccg-gcc.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335639589Z","domain":"inter-w02.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335639669Z","domain":"inter-w02-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335639749Z","domain":"inter-w03.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335639829Z","domain":"inter-w04.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.33563992Z","domain":"inter-w05.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.33564Z","domain":"inter-w06.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.33564008Z","domain":"iob-bio.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.33564016Z","domain":"iob.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.33564025Z","domain":"isdm.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.33564033Z","domain":"isdm-gdsi.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335640411Z","domain":"marees.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335640501Z","domain":"meds.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335640581Z","domain":"meds-sdmm.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335640661Z","domain":"medsweb.meds-sdmm.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335640741Z","domain":"nea-nae-dfo-mpo.fjgc-gccf.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335640831Z","domain":"nea-nae.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335640911Z","domain":"nea-nae-stg-dfo-mpo.fjgc-gccf.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335640992Z","domain":"nea-nae-stg.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335641082Z","domain":"niveauxdeau.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335641162Z","domain":"notices.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335641242Z","domain":"peche.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335641322Z","domain":"peche-fish.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335641412Z","domain":"peche-fish-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335641493Z","domain":"register.chs-shc.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335641573Z","domain":"register-enregistrer.chs-shc.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335641663Z","domain":"sdmm.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335641743Z","domain":"shc-chs.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335641823Z","domain":"shc.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335641904Z","domain":"swi.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335644458Z","domain":"swi-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335644538Z","domain":"test.isdm-gdsi.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335644618Z","domain":"tides.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335644709Z","domain":"waterlevels.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335644789Z","domain":"web.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335644879Z","domain":"webstats.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335644959Z","domain":"ws-shc.qc.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335645039Z","domain":"www2.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.33564513Z","domain":"www2.glf.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.33564521Z","domain":"www.aquaticspeciesatrisk.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.33564529Z","domain":"www.bio.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.33564537Z","domain":"www.bio-iob.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.33564546Z","domain":"www.cartes-charts.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.33564554Z","domain":"www.cartes.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.33564562Z","domain":"www.ccg-gcc.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335645711Z","domain":"www.cgc.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335645791Z","domain":"www.charts-cartes.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335645871Z","domain":"www.charts.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335645961Z","domain":"www.chs.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335646041Z","domain":"www.chs-shc.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335646121Z","domain":"www.coast-guard.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335646212Z","domain":"www.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335646292Z","domain":"www.especesaquatiquesenperil.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335646372Z","domain":"www.fisheriesandoceanscanada.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335646462Z","domain":"www.fisheriesandoceans.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335646542Z","domain":"www.fishing-peche.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335646622Z","domain":"www.garde-cotiere.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335646712Z","domain":"www.gdsi.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335646793Z","domain":"www.geoportail.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335646873Z","domain":"www.geoportail-geoportal.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335646963Z","domain":"www.geoportal.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335647043Z","domain":"www.geoportal-geoportail.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335647123Z","domain":"www.glf.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335647203Z","domain":"www.inter.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335647294Z","domain":"www.iob-bio.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335647374Z","domain":"www.iob.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335647454Z","domain":"www.isdm.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335647544Z","domain":"www.isdm-gdsi.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335647624Z","domain":"www.mar.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335647704Z","domain":"www.marees.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335647795Z","domain":"www.meds-sdmm.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335647875Z","domain":"www.mpo-dfo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335647955Z","domain":"www.nfl.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335648045Z","domain":"www.niveauxdeau.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335648125Z","domain":"www-ops2.pac.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335648205Z","domain":"www-ops.pac.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335648285Z","domain":"www.overfishing.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335648376Z","domain":"www.pac.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335648456Z","domain":"www.pacific.ccg-gcc.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335648536Z","domain":"www.pechesetoceanscanada.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335648626Z","domain":"www.pechesetoceans.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335648706Z","domain":"www.qc.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335648786Z","domain":"www.shc-chs.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335648877Z","domain":"www.shc.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335648957Z","domain":"www.surpeche.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335649037Z","domain":"www.tides.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335649127Z","domain":"www.tuna.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6888767197","timestamp":"2024-10-03T14:26:44.335649207Z","domain":"www.waterlevels.gc.ca","issuer":"Entrust","from":"2024-03-07T15:11:01Z","to":"2025-04-07T15:10:58Z"}
+{"id":"6970158767","timestamp":"2024-10-03T14:26:44.335649297Z","domain":"test.recfish-pechesportive.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-03-20T13:52:07Z","to":"2025-04-20T13:52:06Z"}
+{"id":"7104020679","timestamp":"2024-10-03T14:26:44.335649387Z","domain":"epro-stage.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2024-04-11T00:00:00Z","to":"2024-10-11T23:59:59Z"}
+{"id":"7183336847","timestamp":"2024-10-03T14:26:44.335649478Z","domain":"app-gg-ef.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-04-23T13:05:47Z","to":"2025-05-23T13:05:46Z"}
+{"id":"7183336847","timestamp":"2024-10-03T14:26:44.335649558Z","domain":"gg-ef-dev.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-04-23T13:05:47Z","to":"2025-05-23T13:05:46Z"}
+{"id":"7183336847","timestamp":"2024-10-03T14:26:44.335649638Z","domain":"gg-ef.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-04-23T13:05:47Z","to":"2025-05-23T13:05:46Z"}
+{"id":"7183336847","timestamp":"2024-10-03T14:26:44.335649728Z","domain":"gg-ef-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-04-23T13:05:47Z","to":"2025-05-23T13:05:46Z"}
+{"id":"7183336847","timestamp":"2024-10-03T14:26:44.335649808Z","domain":"pwaapp-dev.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-04-23T13:05:47Z","to":"2025-05-23T13:05:46Z"}
+{"id":"7183336847","timestamp":"2024-10-03T14:26:44.335649888Z","domain":"pwaapp.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-04-23T13:05:47Z","to":"2025-05-23T13:05:46Z"}
+{"id":"7183336847","timestamp":"2024-10-03T14:26:44.335649968Z","domain":"pwaapp-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-04-23T13:05:47Z","to":"2025-05-23T13:05:46Z"}
+{"id":"7183336847","timestamp":"2024-10-03T14:26:44.335650059Z","domain":"www.gg-ef.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-04-23T13:05:47Z","to":"2025-05-23T13:05:46Z"}
+{"id":"7201889090","timestamp":"2024-10-03T14:26:44.335650149Z","domain":"epro-dev.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2024-04-26T00:00:00Z","to":"2024-10-26T23:59:59Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335650239Z","domain":"2016smtp.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335650319Z","domain":"autodiscover.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335650409Z","domain":"autodiscover.mar.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335650489Z","domain":"autodiscover.pac.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335650569Z","domain":"centralmrs.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.33565065Z","domain":"dfbcv2cwpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.33565074Z","domain":"dfbcv6cwpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.33565082Z","domain":"dfbcv8jwpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.3356509Z","domain":"dfbcv8jwpexp002.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.33565099Z","domain":"dfbcv8lwpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.33565107Z","domain":"dfbcv8vwpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335651151Z","domain":"dfbcv9twpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335651241Z","domain":"dfbcvavwpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335651321Z","domain":"dfmbr3twpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335651401Z","domain":"dfnla1cwpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335651491Z","domain":"dfnla1cwpexp002.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335651571Z","domain":"dfnsb2ywpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335651651Z","domain":"dfnsb2ywphc003.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335651732Z","domain":"dfnsb2ywpmsp003.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335651822Z","domain":"dfntx0ewpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335651902Z","domain":"dfntx0ewpexp002.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335651982Z","domain":"dfntx1awpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335652072Z","domain":"dfnux0awpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335652152Z","domain":"dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335652233Z","domain":"dfonk1awpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335652323Z","domain":"dfonk1awphc003.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335652403Z","domain":"dfonk1awpmsp004.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335652483Z","domain":"dfonl7swpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335652573Z","domain":"dfonp2awpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335652653Z","domain":"dfonp6awpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335652734Z","domain":"dfosmtp.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335652824Z","domain":"dfqcg1kwpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335652904Z","domain":"dfyty1awpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335652984Z","domain":"easternmrs.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335653074Z","domain":"legacy.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335653154Z","domain":"vsbcioshc01.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335653234Z","domain":"vsbcioshc02.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335653315Z","domain":"vsnsbiohc01.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335653405Z","domain":"vsnsbiohc02.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335653485Z","domain":"vsonkenhc01.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335653565Z","domain":"vsonkenhc02.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335653655Z","domain":"webmail.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335653735Z","domain":"webmail.hay.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335653816Z","domain":"webmail.iqa.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335653906Z","domain":"webmail.mar.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335653986Z","domain":"webmail.nan.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335654066Z","domain":"webmail.nfl.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335654156Z","domain":"webmail.pac.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335654236Z","domain":"webmail.whi.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335654327Z","domain":"webmail.yel.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335654407Z","domain":"www.dfonk1awpexp001.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7249041197","timestamp":"2024-10-03T14:26:44.335654497Z","domain":"www.webmail.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-03T13:12:57Z","to":"2025-06-03T13:12:56Z"}
+{"id":"7265778741","timestamp":"2024-10-03T14:26:44.335654577Z","domain":"psdp-pdsp-dev.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-06T12:54:23Z","to":"2025-05-06T12:54:22Z"}
+{"id":"7265778741","timestamp":"2024-10-03T14:26:44.335654667Z","domain":"psdp-pdsp.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-06T12:54:23Z","to":"2025-05-06T12:54:22Z"}
+{"id":"7265778741","timestamp":"2024-10-03T14:26:44.335654747Z","domain":"psdp-pdsp-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-06T12:54:23Z","to":"2025-05-06T12:54:22Z"}
+{"id":"7265778741","timestamp":"2024-10-03T14:26:44.335654828Z","domain":"www.psdp-pdsp.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-06T12:54:23Z","to":"2025-05-06T12:54:22Z"}
+{"id":"7309569551","timestamp":"2024-10-03T14:26:44.335654918Z","domain":"dfbcv8lwvgip005.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-13T18:03:49Z","to":"2025-06-13T18:03:48Z"}
+{"id":"7309569551","timestamp":"2024-10-03T14:26:44.335654998Z","domain":"pacgis01.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-13T18:03:49Z","to":"2025-06-13T18:03:48Z"}
+{"id":"7309569551","timestamp":"2024-10-03T14:26:44.335655088Z","domain":"pacgis02.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-13T18:03:49Z","to":"2025-06-13T18:03:48Z"}
+{"id":"7309748742","timestamp":"2024-10-03T14:26:44.335655168Z","domain":"app-gg-ef.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-13T18:45:13Z","to":"2025-05-23T18:45:12Z"}
+{"id":"7309748742","timestamp":"2024-10-03T14:26:44.335655258Z","domain":"gg-ef-dev.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-13T18:45:13Z","to":"2025-05-23T18:45:12Z"}
+{"id":"7309748742","timestamp":"2024-10-03T14:26:44.335655338Z","domain":"gg-ef.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-13T18:45:13Z","to":"2025-05-23T18:45:12Z"}
+{"id":"7309748742","timestamp":"2024-10-03T14:26:44.335655419Z","domain":"gg-ef-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-13T18:45:13Z","to":"2025-05-23T18:45:12Z"}
+{"id":"7309748742","timestamp":"2024-10-03T14:26:44.335655509Z","domain":"pwaapp-dev.ent.dfo-mpo.ca","issuer":"Entrust","from":"2024-05-13T18:45:13Z","to":"2025-05-23T18:45:12Z"}
+{"id":"7309748742","timestamp":"2024-10-03T14:26:44.335655589Z","domain":"pwaapp.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-13T18:45:13Z","to":"2025-05-23T18:45:12Z"}
+{"id":"7309748742","timestamp":"2024-10-03T14:26:44.335655669Z","domain":"pwaapp-uat.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-13T18:45:13Z","to":"2025-05-23T18:45:12Z"}
+{"id":"7309748742","timestamp":"2024-10-03T14:26:44.335655749Z","domain":"www.gg-ef.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-05-13T18:45:13Z","to":"2025-05-23T18:45:12Z"}
+{"id":"7436483340","timestamp":"2024-10-03T14:26:44.33565585Z","domain":"gisp1.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-06-03T13:56:37Z","to":"2025-07-03T13:56:36Z"}
+{"id":"7436483340","timestamp":"2024-10-03T14:26:44.33565593Z","domain":"gisp.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-06-03T13:56:37Z","to":"2025-07-03T13:56:36Z"}
+{"id":"7436483340","timestamp":"2024-10-03T14:26:44.33565602Z","domain":"gist1.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-06-03T13:56:37Z","to":"2025-07-03T13:56:36Z"}
+{"id":"7436483340","timestamp":"2024-10-03T14:26:44.3356561Z","domain":"gist.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-06-03T13:56:37Z","to":"2025-07-03T13:56:36Z"}
+{"id":"7491291722","timestamp":"2024-10-03T14:26:44.33565619Z","domain":"egisp.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-06-12T15:00:11Z","to":"2025-06-12T15:00:10Z"}
+{"id":"7491291722","timestamp":"2024-10-03T14:26:44.33565627Z","domain":"egist.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-06-12T15:00:11Z","to":"2025-06-12T15:00:10Z"}
+{"id":"7491291722","timestamp":"2024-10-03T14:26:44.33565635Z","domain":"gisp.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-06-12T15:00:11Z","to":"2025-06-12T15:00:10Z"}
+{"id":"7491291722","timestamp":"2024-10-03T14:26:44.33565644Z","domain":"gist1.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-06-12T15:00:11Z","to":"2025-06-12T15:00:10Z"}
+{"id":"7491291722","timestamp":"2024-10-03T14:26:44.335656521Z","domain":"gist.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-06-12T15:00:11Z","to":"2025-06-12T15:00:10Z"}
+{"id":"7543839840","timestamp":"2024-10-03T14:26:44.335656611Z","domain":"publications-chatgpt.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2024-06-20T00:00:00Z","to":"2024-12-20T23:59:59Z"}
+{"id":"7585354096","timestamp":"2024-10-03T14:26:44.335656691Z","domain":"epro-loader-stage.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2024-06-26T00:00:00Z","to":"2024-12-26T23:59:59Z"}
+{"id":"7656508041","timestamp":"2024-10-03T14:26:44.335656791Z","domain":"falco-ui.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-07T06:40:25Z","to":"2024-10-05T06:40:24Z"}
+{"id":"7670613471","timestamp":"2024-10-03T14:26:44.335656871Z","domain":"falco-ui.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T08:31:17Z","to":"2024-10-07T08:31:16Z"}
+{"id":"7673350948","timestamp":"2024-10-03T14:26:44.335656961Z","domain":"*.dfo-dev-ase01.ase.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-09T17:05:35Z","to":"2024-10-07T17:05:34Z"}
+{"id":"7691508494","timestamp":"2024-10-03T14:26:44.335657062Z","domain":"wla.dev.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-12T02:24:53Z","to":"2024-10-10T02:24:52Z"}
+{"id":"7691508494","timestamp":"2024-10-03T14:26:44.335657142Z","domain":"wla.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-12T02:24:53Z","to":"2024-10-10T02:24:52Z"}
+{"id":"7694141238","timestamp":"2024-10-03T14:26:44.335657232Z","domain":"fm-training.rhq.pac.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-07-12T11:27:59Z","to":"2025-08-12T11:27:58Z"}
+{"id":"7694141238","timestamp":"2024-10-03T14:26:44.335657312Z","domain":"test-notices.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-07-12T11:27:59Z","to":"2025-08-12T11:27:58Z"}
+{"id":"7705979210","timestamp":"2024-10-03T14:26:44.335657402Z","domain":"grafana.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-14T02:57:06Z","to":"2024-10-12T02:57:05Z"}
+{"id":"7729078558","timestamp":"2024-10-03T14:26:44.335657482Z","domain":"api.dev.spine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-17T01:51:37Z","to":"2024-10-15T01:51:36Z"}
+{"id":"7743224825","timestamp":"2024-10-03T14:26:44.335657573Z","domain":"prediction.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-18T16:24:24Z","to":"2024-10-16T16:24:23Z"}
+{"id":"7770900330","timestamp":"2024-10-03T14:26:44.335657663Z","domain":"prometheus.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-22T10:13:04Z","to":"2024-10-20T10:13:03Z"}
+{"id":"7772566717","timestamp":"2024-10-03T14:26:44.335676438Z","domain":"api.dev.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-22T15:24:17Z","to":"2024-10-20T15:24:16Z"}
+{"id":"7772566717","timestamp":"2024-10-03T14:26:44.335676538Z","domain":"api.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-22T15:24:17Z","to":"2024-10-20T15:24:16Z"}
+{"id":"7777405845","timestamp":"2024-10-03T14:26:44.335676658Z","domain":"argocd.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-23T07:07:30Z","to":"2024-10-21T07:07:29Z"}
+{"id":"7788823631","timestamp":"2024-10-03T14:26:44.335676758Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-24T19:40:58Z","to":"2024-10-22T19:40:57Z"}
+{"id":"7798393072","timestamp":"2024-10-03T14:26:44.335676869Z","domain":"neptune.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-26T02:35:56Z","to":"2024-10-24T02:35:55Z"}
+{"id":"7798455255","timestamp":"2024-10-03T14:26:44.335676979Z","domain":"api.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-26T02:49:45Z","to":"2024-10-24T02:49:44Z"}
+{"id":"7798455255","timestamp":"2024-10-03T14:26:44.335677079Z","domain":"api-iwls.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-26T02:49:45Z","to":"2024-10-24T02:49:44Z"}
+{"id":"7798455255","timestamp":"2024-10-03T14:26:44.335677179Z","domain":"api.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-26T02:49:45Z","to":"2024-10-24T02:49:44Z"}
+{"id":"7798455255","timestamp":"2024-10-03T14:26:44.335677269Z","domain":"api-sine.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-26T02:49:45Z","to":"2024-10-24T02:49:44Z"}
+{"id":"7798700047","timestamp":"2024-10-03T14:26:44.335677379Z","domain":"intra-api.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-26T03:35:17Z","to":"2024-10-24T03:35:16Z"}
+{"id":"7804369162","timestamp":"2024-10-03T14:26:44.33567748Z","domain":"system-informer-sandbox.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-26T21:25:44Z","to":"2024-10-24T21:25:43Z"}
+{"id":"7804371709","timestamp":"2024-10-03T14:26:44.33567759Z","domain":"system-informer-sandbox.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-26T21:28:08Z","to":"2024-10-24T21:28:07Z"}
+{"id":"7804412836","timestamp":"2024-10-03T14:26:44.33567769Z","domain":"system-informer-sandbox.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-26T21:36:07Z","to":"2024-10-24T21:36:06Z"}
+{"id":"7804428331","timestamp":"2024-10-03T14:26:44.3356778Z","domain":"system-informer-sandbox.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-26T21:40:05Z","to":"2024-10-24T21:40:04Z"}
+{"id":"7808532241","timestamp":"2024-10-03T14:26:44.3356779Z","domain":"policy-reporter.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-27T10:27:41Z","to":"2024-10-25T10:27:40Z"}
+{"id":"7824914270","timestamp":"2024-10-03T14:26:44.335678001Z","domain":"grafana.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-29T19:10:30Z","to":"2024-10-27T19:10:29Z"}
+{"id":"7825162652","timestamp":"2024-10-03T14:26:44.335678101Z","domain":"system-informer-sandbox.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-07-29T20:04:58Z","to":"2024-10-27T20:04:57Z"}
+{"id":"7847823772","timestamp":"2024-10-03T14:26:44.335678201Z","domain":"epro-test.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2024-08-01T00:00:00Z","to":"2025-02-01T23:59:59Z"}
+{"id":"7848305325","timestamp":"2024-10-03T14:26:44.335678301Z","domain":"system-informer-sandbox.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-01T18:33:53Z","to":"2024-10-30T18:33:52Z"}
+{"id":"7848429877","timestamp":"2024-10-03T14:26:44.335678401Z","domain":"system-informer-sandbox.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-01T19:00:53Z","to":"2024-10-30T19:00:52Z"}
+{"id":"7848447849","timestamp":"2024-10-03T14:26:44.335678512Z","domain":"system-informer-cert.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-01T19:04:15Z","to":"2024-10-30T19:04:14Z"}
+{"id":"7871362054","timestamp":"2024-10-03T14:26:44.335678612Z","domain":"*.aps.dev.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-05T02:25:55Z","to":"2024-11-03T02:25:54Z"}
+{"id":"7874400820","timestamp":"2024-10-03T14:26:44.335678712Z","domain":"chatgpt.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2024-08-05T00:00:00Z","to":"2025-02-05T23:59:59Z"}
+{"id":"7887923532","timestamp":"2024-10-03T14:26:44.335678812Z","domain":"policy-reporter.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-07T08:43:13Z","to":"2024-11-05T08:43:12Z"}
+{"id":"7888421570","timestamp":"2024-10-03T14:26:44.335678922Z","domain":"app.dev.rese-rees.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-07T10:12:52Z","to":"2024-11-05T10:12:51Z"}
+{"id":"7895766038","timestamp":"2024-10-03T14:26:44.335679022Z","domain":"api-spine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-08T10:23:25Z","to":"2024-11-06T10:23:24Z"}
+{"id":"7895766038","timestamp":"2024-10-03T14:26:44.335679123Z","domain":"api-spine.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-08T10:23:25Z","to":"2024-11-06T10:23:24Z"}
+{"id":"7896267409","timestamp":"2024-10-03T14:26:44.335679233Z","domain":"intra-api.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-08T12:10:06Z","to":"2024-11-06T12:10:05Z"}
+{"id":"7900004888","timestamp":"2024-10-03T14:26:44.335679333Z","domain":"snifc71gl.wpc.edgecastcdn.net","issuer":"DigiCert","from":"2024-08-09T00:00:00Z","to":"2025-09-09T23:59:59Z"}
+{"id":"7900004888","timestamp":"2024-10-03T14:26:44.335679433Z","domain":"waves-vagues.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2024-08-09T00:00:00Z","to":"2025-09-09T23:59:59Z"}
+{"id":"7920190655","timestamp":"2024-10-03T14:26:44.335679534Z","domain":"api.test.spine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-11T16:35:54Z","to":"2024-11-09T16:35:53Z"}
+{"id":"7925745572","timestamp":"2024-10-03T14:26:44.335679654Z","domain":"*.analytics.edh-staging.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:07:22Z","to":"2025-09-12T12:07:21Z"}
+{"id":"7925745572","timestamp":"2024-10-03T14:26:44.335679744Z","domain":"asdworkorder-commandedetravaildgsa.tc.gc.ca","issuer":"Entrust","from":"2024-08-12T12:07:22Z","to":"2025-09-12T12:07:21Z"}
+{"id":"7925745572","timestamp":"2024-10-03T14:26:44.335679834Z","domain":"*.dmp.edh-staging.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:07:22Z","to":"2025-09-12T12:07:21Z"}
+{"id":"7925745572","timestamp":"2024-10-03T14:26:44.335679934Z","domain":"*.edh-cde.staging.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:07:22Z","to":"2025-09-12T12:07:21Z"}
+{"id":"7925745572","timestamp":"2024-10-03T14:26:44.335680035Z","domain":"*.edh-cde.staging.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:07:22Z","to":"2025-09-12T12:07:21Z"}
+{"id":"7925745572","timestamp":"2024-10-03T14:26:44.335680125Z","domain":"edh-cde.staging.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:07:22Z","to":"2025-09-12T12:07:21Z"}
+{"id":"7925745572","timestamp":"2024-10-03T14:26:44.335680215Z","domain":"*.edh-staging.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:07:22Z","to":"2025-09-12T12:07:21Z"}
+{"id":"7925745572","timestamp":"2024-10-03T14:26:44.335680305Z","domain":"*.edh.staging.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:07:22Z","to":"2025-09-12T12:07:21Z"}
+{"id":"7925745572","timestamp":"2024-10-03T14:26:44.335680405Z","domain":"*.vms.edh-staging.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:07:22Z","to":"2025-09-12T12:07:21Z"}
+{"id":"7925818148","timestamp":"2024-10-03T14:26:44.335680515Z","domain":"*.analytics.edh.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:20:00Z","to":"2025-09-04T12:19:59Z"}
+{"id":"7925818148","timestamp":"2024-10-03T14:26:44.335680605Z","domain":"*.dmp.edh.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:20:00Z","to":"2025-09-04T12:19:59Z"}
+{"id":"7925818148","timestamp":"2024-10-03T14:26:44.335680706Z","domain":"*.edh.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:20:00Z","to":"2025-09-04T12:19:59Z"}
+{"id":"7925818148","timestamp":"2024-10-03T14:26:44.335680786Z","domain":"edh.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:20:00Z","to":"2025-09-04T12:19:59Z"}
+{"id":"7925818148","timestamp":"2024-10-03T14:26:44.335680886Z","domain":"*.edh-cde.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:20:00Z","to":"2025-09-04T12:19:59Z"}
+{"id":"7925818148","timestamp":"2024-10-03T14:26:44.335680986Z","domain":"edh-cde.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:20:00Z","to":"2025-09-04T12:19:59Z"}
+{"id":"7925818148","timestamp":"2024-10-03T14:26:44.335681077Z","domain":"*.edh-cde.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:20:00Z","to":"2025-09-04T12:19:59Z"}
+{"id":"7925818148","timestamp":"2024-10-03T14:26:44.335681166Z","domain":"edh-cde.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:20:00Z","to":"2025-09-04T12:19:59Z"}
+{"id":"7925818148","timestamp":"2024-10-03T14:26:44.335681257Z","domain":"*.vms.edh.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-12T12:20:00Z","to":"2025-09-04T12:19:59Z"}
+{"id":"7926671799","timestamp":"2024-10-03T14:26:44.335681377Z","domain":"wla.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-12T14:05:03Z","to":"2024-11-10T14:05:02Z"}
+{"id":"7926671799","timestamp":"2024-10-03T14:26:44.335681467Z","domain":"wla.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-12T14:05:03Z","to":"2024-11-10T14:05:02Z"}
+{"id":"7928035415","timestamp":"2024-10-03T14:26:44.335681587Z","domain":"tanium-core.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-12T18:25:45Z","to":"2024-11-10T18:25:44Z"}
+{"id":"7928035415","timestamp":"2024-10-03T14:26:44.335681678Z","domain":"tanium-module.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-12T18:25:45Z","to":"2024-11-10T18:25:44Z"}
+{"id":"7928035415","timestamp":"2024-10-03T14:26:44.335681778Z","domain":"tanium-syslog.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-12T18:25:45Z","to":"2024-11-10T18:25:44Z"}
+{"id":"7928035415","timestamp":"2024-10-03T14:26:44.335681868Z","domain":"tanium-zone.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-12T18:25:45Z","to":"2024-11-10T18:25:44Z"}
+{"id":"7932854795","timestamp":"2024-10-03T14:26:44.335681978Z","domain":"*.edh-cde.staging.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-13T11:08:23Z","to":"2025-09-13T11:08:21Z"}
+{"id":"7932854795","timestamp":"2024-10-03T14:26:44.335682068Z","domain":"edh-cde.staging.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-13T11:08:23Z","to":"2025-09-13T11:08:21Z"}
+{"id":"7932854795","timestamp":"2024-10-03T14:26:44.335682168Z","domain":"*.edh-cde.staging.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-13T11:08:23Z","to":"2025-09-13T11:08:21Z"}
+{"id":"7932854795","timestamp":"2024-10-03T14:26:44.335682259Z","domain":"edh-cde.staging.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-13T11:08:23Z","to":"2025-09-13T11:08:21Z"}
+{"id":"7932854795","timestamp":"2024-10-03T14:26:44.335682349Z","domain":"*.edh-staging.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-13T11:08:23Z","to":"2025-09-13T11:08:21Z"}
+{"id":"7932854795","timestamp":"2024-10-03T14:26:44.335682439Z","domain":"*.edh.staging.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-13T11:08:23Z","to":"2025-09-13T11:08:21Z"}
+{"id":"7932854795","timestamp":"2024-10-03T14:26:44.335682529Z","domain":"edh-staging.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-13T11:08:23Z","to":"2025-09-13T11:08:21Z"}
+{"id":"7932854795","timestamp":"2024-10-03T14:26:44.335682619Z","domain":"edh.staging.azure.cloud.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-08-13T11:08:23Z","to":"2025-09-13T11:08:21Z"}
+{"id":"7948369647","timestamp":"2024-10-03T14:26:44.33568272Z","domain":"policy-reporter.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-15T12:37:04Z","to":"2024-11-13T12:37:03Z"}
+{"id":"7951524939","timestamp":"2024-10-03T14:26:44.33568283Z","domain":"*.aps.dev.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-15T23:13:32Z","to":"2024-11-13T23:13:31Z"}
+{"id":"7983472609","timestamp":"2024-10-03T14:26:44.33568293Z","domain":"falco-ui.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-20T06:14:35Z","to":"2024-11-18T06:14:34Z"}
+{"id":"7983515099","timestamp":"2024-10-03T14:26:44.33568303Z","domain":"prometheus.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-20T06:21:11Z","to":"2024-11-18T06:21:10Z"}
+{"id":"7984156992","timestamp":"2024-10-03T14:26:44.33568313Z","domain":"argocd.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-20T08:25:07Z","to":"2024-11-18T08:25:06Z"}
+{"id":"7991238593","timestamp":"2024-10-03T14:26:44.33568323Z","domain":"*.aps.dev.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-21T05:54:11Z","to":"2024-11-19T05:54:10Z"}
+{"id":"7994605633","timestamp":"2024-10-03T14:26:44.335683331Z","domain":"system-informer-cert.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-21T16:02:13Z","to":"2024-11-19T16:02:12Z"}
+{"id":"8005214453","timestamp":"2024-10-03T14:26:44.335683421Z","domain":"neptune.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-22T22:59:54Z","to":"2024-11-20T22:59:53Z"}
+{"id":"8012670514","timestamp":"2024-10-03T14:26:44.335683521Z","domain":"prediction.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-23T21:39:20Z","to":"2024-11-21T21:39:19Z"}
+{"id":"8012696861","timestamp":"2024-10-03T14:26:44.335683611Z","domain":"neptune.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-23T21:44:25Z","to":"2024-11-21T21:44:24Z"}
+{"id":"8024922138","timestamp":"2024-10-03T14:26:44.335683711Z","domain":"app.test.rese-rees.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-25T14:23:58Z","to":"2024-11-23T14:23:57Z"}
+{"id":"8049117048","timestamp":"2024-10-03T14:26:44.335683811Z","domain":"epro-stage.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2024-08-28T00:00:00Z","to":"2025-02-28T23:59:59Z"}
+{"id":"8051552843","timestamp":"2024-10-03T14:26:44.335683912Z","domain":"focpoc-telework-logins.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2024-08-28T00:00:00Z","to":"2025-08-28T23:59:59Z"}
+{"id":"8054495207","timestamp":"2024-10-03T14:26:44.335684002Z","domain":"intra-api.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-29T04:26:14Z","to":"2024-11-27T04:26:13Z"}
+{"id":"8061907748","timestamp":"2024-10-03T14:26:44.335684102Z","domain":"api.test.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-30T01:55:37Z","to":"2024-11-28T01:55:36Z"}
+{"id":"8061907748","timestamp":"2024-10-03T14:26:44.335684192Z","domain":"api.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-30T01:55:37Z","to":"2024-11-28T01:55:36Z"}
+{"id":"8063035294","timestamp":"2024-10-03T14:26:44.335684303Z","domain":"prediction.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-30T05:05:28Z","to":"2024-11-28T05:05:27Z"}
+{"id":"8072183213","timestamp":"2024-10-03T14:26:44.335684403Z","domain":"wla.test.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-31T05:00:07Z","to":"2024-11-29T05:00:06Z"}
+{"id":"8072183213","timestamp":"2024-10-03T14:26:44.335684493Z","domain":"wla.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-31T05:00:07Z","to":"2024-11-29T05:00:06Z"}
+{"id":"8078639753","timestamp":"2024-10-03T14:26:44.480237738Z","domain":"*.aps.dev.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-08-31T23:03:59Z","to":"2024-11-29T23:03:58Z"}
+{"id":"8086699174","timestamp":"2024-10-03T14:26:44.480240052Z","domain":"grafana.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-02T01:45:33Z","to":"2024-12-01T01:45:32Z"}
+{"id":"8086705246","timestamp":"2024-10-03T14:26:44.480240423Z","domain":"prometheus.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-02T01:46:17Z","to":"2024-12-01T01:46:16Z"}
+{"id":"8086764628","timestamp":"2024-10-03T14:26:44.480241384Z","domain":"argocd.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-02T01:59:28Z","to":"2024-12-01T01:59:27Z"}
+{"id":"8095516528","timestamp":"2024-10-03T14:26:44.480241505Z","domain":"msteams.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2024-09-03T00:00:00Z","to":"2025-09-03T23:59:59Z"}
+{"id":"8095736753","timestamp":"2024-10-03T14:26:44.480242136Z","domain":"ccg-moodle.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2024-09-03T00:00:00Z","to":"2025-09-03T23:59:59Z"}
+{"id":"8097629168","timestamp":"2024-10-03T14:26:44.480242256Z","domain":"ccg-moodle.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2024-09-03T00:00:00Z","to":"2025-09-03T23:59:59Z"}
+{"id":"8111045616","timestamp":"2024-10-03T14:26:44.480242356Z","domain":"falco-ui.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-05T05:43:09Z","to":"2024-12-04T05:43:08Z"}
+{"id":"8126939096","timestamp":"2024-10-03T14:26:44.480242456Z","domain":"falco-ui.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-07T07:34:01Z","to":"2024-12-06T07:34:00Z"}
+{"id":"8148343455","timestamp":"2024-10-03T14:26:44.480243408Z","domain":"wla.dev.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-10T01:26:44Z","to":"2024-12-09T01:26:43Z"}
+{"id":"8148343455","timestamp":"2024-10-03T14:26:44.480243518Z","domain":"wla.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-10T01:26:44Z","to":"2024-12-09T01:26:43Z"}
+{"id":"8162600225","timestamp":"2024-10-03T14:26:44.480243629Z","domain":"grafana.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-12T01:59:51Z","to":"2024-12-11T01:59:50Z"}
+{"id":"8162688075","timestamp":"2024-10-03T14:26:44.480243729Z","domain":"epro-dev.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2024-09-12T00:00:00Z","to":"2025-03-12T23:59:59Z"}
+{"id":"8184117972","timestamp":"2024-10-03T14:26:44.480243829Z","domain":"api.dev.spine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-15T00:54:21Z","to":"2024-12-14T00:54:20Z"}
+{"id":"8194973003","timestamp":"2024-10-03T14:26:44.480243929Z","domain":"prediction.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-16T15:27:08Z","to":"2024-12-15T15:27:07Z"}
+{"id":"8221826465","timestamp":"2024-10-03T14:26:44.480244039Z","domain":"prometheus.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-20T09:15:48Z","to":"2024-12-19T09:15:47Z"}
+{"id":"8222724407","timestamp":"2024-10-03T14:26:44.48024413Z","domain":"*.dfo-dev-ase01.ase.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-20T11:50:59Z","to":"2024-12-19T11:50:58Z"}
+{"id":"8222928568","timestamp":"2024-10-03T14:26:44.48024423Z","domain":"citrix.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-09-20T13:24:56Z","to":"2025-10-20T13:24:55Z"}
+{"id":"8222928568","timestamp":"2024-10-03T14:26:44.480245141Z","domain":"www.citrix.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-09-20T13:24:56Z","to":"2025-10-20T13:24:55Z"}
+{"id":"8223699017","timestamp":"2024-10-03T14:26:44.480245241Z","domain":"api.dev.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-20T14:26:08Z","to":"2024-12-19T14:26:07Z"}
+{"id":"8223699017","timestamp":"2024-10-03T14:26:44.480245342Z","domain":"api.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-20T14:26:08Z","to":"2024-12-19T14:26:07Z"}
+{"id":"8229205508","timestamp":"2024-10-03T14:26:44.480245442Z","domain":"argocd.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-21T06:10:14Z","to":"2024-12-20T06:10:13Z"}
+{"id":"8249905960","timestamp":"2024-10-03T14:26:44.480245552Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-23T23:08:49Z","to":"2024-12-22T23:08:48Z"}
+{"id":"8250731437","timestamp":"2024-10-03T14:26:44.480245652Z","domain":"neptune.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T01:38:41Z","to":"2024-12-23T01:38:40Z"}
+{"id":"8250793609","timestamp":"2024-10-03T14:26:44.480245753Z","domain":"api.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T01:51:37Z","to":"2024-12-23T01:51:36Z"}
+{"id":"8250793609","timestamp":"2024-10-03T14:26:44.480245853Z","domain":"api-iwls.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T01:51:37Z","to":"2024-12-23T01:51:36Z"}
+{"id":"8250793609","timestamp":"2024-10-03T14:26:44.480245953Z","domain":"api.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T01:51:37Z","to":"2024-12-23T01:51:36Z"}
+{"id":"8250793609","timestamp":"2024-10-03T14:26:44.480246053Z","domain":"api-sine.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T01:51:37Z","to":"2024-12-23T01:51:36Z"}
+{"id":"8251037639","timestamp":"2024-10-03T14:26:44.480246163Z","domain":"intra-api.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-24T02:38:03Z","to":"2024-12-23T02:38:02Z"}
+{"id":"8261090613","timestamp":"2024-10-03T14:26:44.480246263Z","domain":"policy-reporter.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-25T09:30:25Z","to":"2024-12-24T09:30:24Z"}
+{"id":"8276475179","timestamp":"2024-10-03T14:26:44.480246364Z","domain":"ctto-otpc.qc.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-09-27T14:58:32Z","to":"2025-10-27T14:58:30Z"}
+{"id":"8276475179","timestamp":"2024-10-03T14:26:44.480246454Z","domain":"msfbsdev.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-09-27T14:58:32Z","to":"2025-10-27T14:58:30Z"}
+{"id":"8276475179","timestamp":"2024-10-03T14:26:44.480246564Z","domain":"msfbs-sfdsm.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-09-27T14:58:32Z","to":"2025-10-27T14:58:30Z"}
+{"id":"8277650359","timestamp":"2024-10-03T14:26:44.480246664Z","domain":"grafana.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-27T18:13:14Z","to":"2024-12-26T18:13:13Z"}
+{"id":"8311283492","timestamp":"2024-10-03T14:26:44.480246764Z","domain":"it.support.ti.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-10-02T12:20:16Z","to":"2025-10-02T12:20:15Z"}
+{"id":"8311283492","timestamp":"2024-10-03T14:26:44.480246864Z","domain":"support.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-10-02T12:20:16Z","to":"2025-10-02T12:20:15Z"}
