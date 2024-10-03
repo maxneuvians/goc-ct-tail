@@ -4427,3 +4427,7 @@
 {"id":"8314198177","timestamp":"2024-10-02T22:15:28.126891042Z","domain":"rpss-qa-backend.apim-dev.tbs-sct.canada.ca","issuer":"DigiCert","from":"2024-10-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
 {"id":"8316512080","timestamp":"2024-10-03T05:15:27.246279335Z","domain":"suivi.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-03T04:08:42Z","to":"2025-01-01T04:08:41Z"}
 {"id":"8316512080","timestamp":"2024-10-03T05:15:27.246279755Z","domain":"tracker.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-03T04:08:42Z","to":"2025-01-01T04:08:41Z"}
+{"id":"8317180572","timestamp":"2024-10-03T08:16:24.59797237Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-03T06:25:23Z","to":"2025-01-01T06:25:22Z"}
+{"id":"8317180572","timestamp":"2024-10-03T08:16:24.597972771Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-03T06:25:23Z","to":"2025-01-01T06:25:22Z"}
+{"id":"8317224400","timestamp":"2024-10-03T08:16:24.597973071Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-03T06:34:13Z","to":"2025-01-01T06:34:12Z"}
+{"id":"8317224400","timestamp":"2024-10-03T08:16:24.597973352Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-03T06:34:13Z","to":"2025-01-01T06:34:12Z"}
