@@ -187,3 +187,6 @@
 {"id":"8302792340","timestamp":"2024-10-01T09:50:45.134225921Z","domain":"*.tc.gc.ca","issuer":"Let's Encrypt","from":"2024-10-01T08:04:12Z","to":"2024-12-30T08:04:11Z"}
 {"id":"8302792340","timestamp":"2024-10-01T09:50:45.134226703Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2024-10-01T08:04:12Z","to":"2024-12-30T08:04:11Z"}
 {"id":"8313308170","timestamp":"2024-10-02T19:14:51.596373748Z","domain":"wwwapps2.tc.gc.ca","issuer":"Entrust","from":"2024-10-02T18:25:09Z","to":"2025-11-02T18:25:08Z"}
+{"id":"8319957169","timestamp":"2024-10-03T17:15:57.711507837Z","domain":"eigacc.tc.gc.ca","issuer":"Entrust","from":"2024-10-03T16:22:56Z","to":"2025-11-03T16:22:55Z"}
+{"id":"8319990696","timestamp":"2024-10-03T17:15:57.711508278Z","domain":"eig.tc.gc.ca","issuer":"Entrust","from":"2024-10-03T16:28:26Z","to":"2025-11-03T16:28:25Z"}
+{"id":"8319990696","timestamp":"2024-10-03T17:15:57.711508488Z","domain":"www.eig.tc.gc.ca","issuer":"Entrust","from":"2024-10-03T16:28:26Z","to":"2025-11-03T16:28:25Z"}
