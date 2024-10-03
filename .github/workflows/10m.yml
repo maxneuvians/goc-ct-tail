@@ -50,10 +50,12 @@ jobs:
           git add -A
           git commit -m "Adding ${{ matrix.domain }} logs `date '+%Y-%m-%d %H:%M:%S'`" -a
       
-      - name: Pull latest changes
+      - name: Pull and push changes
         if: steps.git_diff.outputs.changes == 'changes'
-        run: git pull --rebase origin main
-
-      - name: Push changes
-        if: steps.git_diff.outputs.changes == 'changes'
-        run: git push origin main
+        uses: nick-fields/retry@v3
+        with:
+          timeout_seconds: 10
+          max_attempts: 3
+          command: |
+            git pull --rebase origin main
+            git push origin main
