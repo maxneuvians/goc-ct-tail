@@ -4440,3 +4440,7 @@
 {"id":"8326760374","timestamp":"2024-10-04T16:16:09.06366918Z","domain":"acquisition.canada.ca","issuer":"Entrust","from":"2024-10-04T15:26:33Z","to":"2025-02-26T15:26:32Z"}
 {"id":"8326760374","timestamp":"2024-10-04T16:16:09.06366938Z","domain":"*.canada.ca","issuer":"Entrust","from":"2024-10-04T15:26:33Z","to":"2025-02-26T15:26:32Z"}
 {"id":"8326760374","timestamp":"2024-10-04T16:16:09.06366966Z","domain":"canada.ca","issuer":"Entrust","from":"2024-10-04T15:26:33Z","to":"2025-02-26T15:26:32Z"}
+{"id":"8327085515","timestamp":"2024-10-04T17:15:00.895625559Z","domain":"canchat-ibm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-04T15:33:14Z","to":"2025-01-02T15:33:13Z"}
+{"id":"8327225463","timestamp":"2024-10-04T17:15:00.895625869Z","domain":"*.acquisition.canada.ca","issuer":"Entrust","from":"2024-10-04T17:01:08Z","to":"2025-11-04T17:01:07Z"}
+{"id":"8327225463","timestamp":"2024-10-04T17:15:00.89562608Z","domain":"acquisition.canada.ca","issuer":"Entrust","from":"2024-10-04T17:01:08Z","to":"2025-11-04T17:01:07Z"}
+{"id":"8327225463","timestamp":"2024-10-04T17:15:00.89562627Z","domain":"it-ti.acquisition.canada.ca","issuer":"Entrust","from":"2024-10-04T17:01:08Z","to":"2025-11-04T17:01:07Z"}
