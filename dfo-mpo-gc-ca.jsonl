@@ -432,3 +432,4 @@
 {"id":"8277650359","timestamp":"2024-10-03T14:26:44.480246664Z","domain":"grafana.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-09-27T18:13:14Z","to":"2024-12-26T18:13:13Z"}
 {"id":"8311283492","timestamp":"2024-10-03T14:26:44.480246764Z","domain":"it.support.ti.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-10-02T12:20:16Z","to":"2025-10-02T12:20:15Z"}
 {"id":"8311283492","timestamp":"2024-10-03T14:26:44.480246864Z","domain":"support.dfo-mpo.gc.ca","issuer":"Entrust","from":"2024-10-02T12:20:16Z","to":"2025-10-02T12:20:15Z"}
+{"id":"8339604804","timestamp":"2024-10-06T09:25:15.641106295Z","domain":"policy-reporter.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-10-06T07:45:57Z","to":"2025-01-04T07:45:56Z"}
