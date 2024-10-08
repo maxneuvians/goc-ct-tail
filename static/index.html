@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GoC CT Data Visualization</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" charset="utf8"
+        src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
+</head>
+
+<body class="bg-gray-100">
+    <div class="container mx-auto px-4 py-8">
+        <h1 class="text-3xl font-bold mb-4">GoC CT Data Visualization</h1>
+        <div class="bg-white shadow-md rounded p-6 mb-6">
+            <h2 class="text-xl font-semibold mb-4">Total Certificates by Issuer</h2>
+            <canvas id="issuerChart"></canvas>
+        </div>
+        <div class="bg-white shadow-md rounded p-6 mb-6">
+            <h2 class="text-xl font-semibold mb-4">Domains</h2>
+            <div class="overflow-x-auto">
+                <table id="domainTable" class="display">
+                    <thead>
+                        <tr>
+                            <th>Domain</th>
+                            <th>Total</th>
+                            <!-- Issuer columns will be dynamically added here -->
+                            <th>Raw Data</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const baseUrl = 'https://raw.githubusercontent.com/maxneuvians/goc-ct-tail/refs/heads/main/';
+        const statsUrl = baseUrl + 'stats/';
+
+        async function fetchData(url) {
+            const response = await fetch(url);
+            return response.json();
+        }
+
+        async function loadIndexData() {
+            const data = await fetchData(statsUrl + 'index.json');
+            createIssuerChart(data.grandTotalByIssuer);
+            createDataTable(data.files, Object.keys(data.grandTotalByIssuer));
+        }
+
+        function createIssuerChart(data) {
+            const ctx = document.getElementById('issuerChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: Object.keys(data),
+                    datasets: [{
+                        label: 'Total Certificates',
+                        data: Object.values(data),
+                        backgroundColor: 'rgba(75, 192, 192, 0.6)',
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+
+        function createDataTable(files, issuers) {
+            const tableHead = document.querySelector('#domainTable thead tr');
+
+            // Add issuer columns to the table header
+            issuers.forEach(issuer => {
+                const th = document.createElement('th');
+                th.textContent = issuer;
+                tableHead.insertBefore(th, tableHead.lastElementChild);
+            });
+
+            const tableData = files.map(file => {
+                const row = [
+                    `<a href="domain?file=${encodeURIComponent(file.outputFile)}" class="text-blue-600 hover:underline">
+                    ${file.inputFile.replace('.jsonl', '').replace(/-/g, '.')}
+                 </a>`,
+                    file.totalCertificates,
+                    ...issuers.map(issuer => file.totalsByIssuer[issuer] || 0),
+                    `<a href="${baseUrl + file.inputFile}" target="_blank" class="text-blue-600 hover:underline">Raw Data</a>`
+                ];
+                return row;
+            });
+
+            $(document).ready(function () {
+                $('#domainTable').DataTable({
+                    data: tableData,
+                    columns: [
+                        { title: "Domain" },
+                        { title: "Total" },
+                        ...issuers.map(issuer => ({ title: issuer })),
+                        { title: "Raw Data" }
+                    ],
+                    order: [[1, 'desc']], // Sort by Total column descending
+                    pageLength: 25, // Show 25 entries per page
+                    lengthMenu: [[10, 25, 50, -1], [10, 25, 50, "All"]]
+                });
+            });
+        }
+
+        loadIndexData();
+    </script>
+</body>
+
+</html>

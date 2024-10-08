@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Domain Detail - GoC CT Data Visualization</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js"></script>
+    <script
+        src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@2.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100">
+    <div class="container mx-auto px-4 py-8">
+        <h1 id="domainTitle" class="text-3xl font-bold mb-4"></h1>
+        <a href="index.html" class="text-blue-600 hover:underline mb-4 inline-block">&larr; Back to Index</a>
+        <div class="md:flex md:space-x-4">
+            <div class="md:w-2/3 bg-white shadow-md rounded p-6 mb-6">
+                <h2 class="text-xl font-semibold mb-4">Certificates Over Time</h2>
+                <canvas id="timelineChart"></canvas>
+            </div>
+            <div class="md:w-1/3 bg-white shadow-md rounded p-6 mb-6">
+                <h2 class="text-xl font-semibold mb-4">Certificates by Issuer</h2>
+                <canvas id="issuerChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const baseUrl = 'https://raw.githubusercontent.com/maxneuvians/goc-ct-tail/refs/heads/main/';
+
+        async function fetchData(url) {
+            const response = await fetch(url);
+            return response.json();
+        }
+
+        function getParameterByName(name, url = window.location.href) {
+            name = name.replace(/[\[\]]/g, '\\$&');
+            var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, ' '));
+        }
+
+        async function loadDomainData() {
+            const file = getParameterByName('file');
+            if (!file) {
+                alert('No file specified');
+                return;
+            }
+
+            const data = await fetchData(baseUrl + file);
+            document.getElementById('domainTitle').textContent = file.replace('-stats.json', '').replace(/-/g, '.');
+            createTimelineChart(data.stats);
+            createIssuerChart(data.stats);
+        }
+        function generateColors(count) {
+            const colors = [];
+            for (let i = 0; i < count; i++) {
+                const hue = (i * 137.508) % 360; // Use golden angle approximation
+                colors.push(`hsl(${hue}, 70%, 60%)`);
+            }
+            return colors;
+        }
+
+        function createTimelineChart(stats) {
+            const dates = Object.keys(stats).sort();
+            const datasets = {};
+            const issuers = new Set();
+
+            dates.forEach(date => {
+                Object.entries(stats[date]).forEach(([issuer, count]) => {
+                    if (!datasets[issuer]) {
+                        datasets[issuer] = [];
+                        issuers.add(issuer);
+                    }
+                    datasets[issuer].push({ x: new Date(date), y: count });
+                });
+            });
+
+            const colors = generateColors(issuers.size);
+
+            const ctx = document.getElementById('timelineChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    datasets: Object.entries(datasets).map(([issuer, data], index) => ({
+                        label: issuer,
+                        data: data,
+                        borderColor: colors[index],
+                        backgroundColor: colors[index],
+                        fill: false
+                    }))
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        x: {
+                            type: 'time',
+                            time: {
+                                unit: 'month'
+                            }
+                        },
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+
+        function createIssuerChart(stats) {
+            const issuers = {};
+            Object.values(stats).forEach(dailyStats => {
+                Object.entries(dailyStats).forEach(([issuer, count]) => {
+                    issuers[issuer] = (issuers[issuer] || 0) + count;
+                });
+            });
+
+            const colors = generateColors(Object.keys(issuers).length);
+
+            const ctx = document.getElementById('issuerChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'pie',
+                data: {
+                    labels: Object.keys(issuers),
+                    datasets: [{
+                        data: Object.values(issuers),
+                        backgroundColor: colors
+                    }]
+                },
+                options: {
+                    responsive: true
+                }
+            });
+        }
+
+        loadDomainData();
+    </script>
+</body>
+
+</html>
