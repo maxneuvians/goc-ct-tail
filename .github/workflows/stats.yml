@@ -1,0 +1,88 @@
+name: Certificate Statistics
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Process JSONL files
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            // Ensure the stats directory exists
+            const statsDir = 'stats';
+            if (!fs.existsSync(statsDir)) {
+              fs.mkdirSync(statsDir);
+            }
+
+            function processFile(filePath) {
+              const content = fs.readFileSync(filePath, 'utf8');
+              const lines = content.trim().split('\n');
+              const stats = {};
+              const totalsByIssuer = {};
+
+              lines.forEach(line => {
+                const data = JSON.parse(line);
+                const date = data.from.split('T')[0];
+                const issuer = data.issuer;
+
+                if (!stats[date]) {
+                  stats[date] = {};
+                }
+
+                if (!stats[date][issuer]) {
+                  stats[date][issuer] = 0;
+                }
+
+                stats[date][issuer]++;
+
+                if (!totalsByIssuer[issuer]) {
+                  totalsByIssuer[issuer] = 0;
+                }
+                totalsByIssuer[issuer]++;
+              });
+
+              return { stats, totalsByIssuer };
+            }
+
+            const jsonlFiles = fs.readdirSync('.').filter(file => file.endsWith('.jsonl'));
+            const fileIndex = [];
+            let grandTotalByIssuer = {};
+
+            jsonlFiles.forEach(file => {
+              const { stats, totalsByIssuer } = processFile(file);
+              const outputFile = path.join(statsDir, `${path.parse(file).name}-stats.json`);
+              fs.writeFileSync(outputFile, JSON.stringify(stats, null, 2));
+              console.log(`Processed ${file} and generated ${outputFile}`);
+
+              fileIndex.push({
+                inputFile: file,
+                outputFile: outputFile,
+                totalCertificates: Object.values(totalsByIssuer).reduce((a, b) => a + b, 0),
+                totalsByIssuer: totalsByIssuer
+              });
+
+              // Aggregate grand totals
+              Object.entries(totalsByIssuer).forEach(([issuer, count]) => {
+                grandTotalByIssuer[issuer] = (grandTotalByIssuer[issuer] || 0) + count;
+              });
+            });
+
+            // Write the index file
+            const indexFile = path.join(statsDir, 'index.json');
+            fs.writeFileSync(indexFile, JSON.stringify({
+              files: fileIndex,
+              grandTotalByIssuer: grandTotalByIssuer
+            }, null, 2));
+            console.log(`Generated index file: ${indexFile}`);
+
+      - name: cat stats/index.json
+        run: cat stats/index.json
