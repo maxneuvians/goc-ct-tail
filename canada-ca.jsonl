@@ -4457,3 +4457,15 @@
 {"id":"8349885700","timestamp":"2024-10-07T20:15:57.684352365Z","domain":"canchat.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-10-07T00:00:00Z","to":"2025-04-07T23:59:59Z"}
 {"id":"8350727256","timestamp":"2024-10-07T22:15:29.326491855Z","domain":"web-toolbox-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-10-07T00:00:00Z","to":"2025-11-05T23:59:59Z"}
 {"id":"8350756516","timestamp":"2024-10-07T23:15:26.189834066Z","domain":"web-toolbox-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-10-07T00:00:00Z","to":"2025-11-05T23:59:59Z"}
+{"id":"8354332079","timestamp":"2024-10-08T08:16:27.756814848Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-08T06:29:14Z","to":"2025-01-06T06:29:13Z"}
+{"id":"8354332079","timestamp":"2024-10-08T08:16:27.756815169Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-08T06:29:14Z","to":"2025-01-06T06:29:13Z"}
+{"id":"8354376012","timestamp":"2024-10-08T08:16:27.75681545Z","domain":"navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2024-10-08T06:34:27Z","to":"2025-01-06T06:34:26Z"}
+{"id":"8354376012","timestamp":"2024-10-08T08:16:27.75681565Z","domain":"navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2024-10-08T06:34:27Z","to":"2025-01-06T06:34:26Z"}
+{"id":"8354376012","timestamp":"2024-10-08T08:16:27.75681574Z","domain":"ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2024-10-08T06:34:27Z","to":"2025-01-06T06:34:26Z"}
+{"id":"8354376012","timestamp":"2024-10-08T08:16:27.756816652Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2024-10-08T06:34:27Z","to":"2025-01-06T06:34:26Z"}
+{"id":"8354376012","timestamp":"2024-10-08T08:16:27.756816742Z","domain":"www.navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2024-10-08T06:34:27Z","to":"2025-01-06T06:34:26Z"}
+{"id":"8354376012","timestamp":"2024-10-08T08:16:27.756816822Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2024-10-08T06:34:27Z","to":"2025-01-06T06:34:26Z"}
+{"id":"8354383427","timestamp":"2024-10-08T08:16:27.756816923Z","domain":"navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2024-10-08T06:35:43Z","to":"2025-01-06T06:35:42Z"}
+{"id":"8354383427","timestamp":"2024-10-08T08:16:27.756817624Z","domain":"ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2024-10-08T06:35:43Z","to":"2025-01-06T06:35:42Z"}
+{"id":"8354383427","timestamp":"2024-10-08T08:16:27.756817704Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2024-10-08T06:35:43Z","to":"2025-01-06T06:35:42Z"}
+{"id":"8354383427","timestamp":"2024-10-08T08:16:27.756817794Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2024-10-08T06:35:43Z","to":"2025-01-06T06:35:42Z"}
