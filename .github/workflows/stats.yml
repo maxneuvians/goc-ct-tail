@@ -3,6 +3,9 @@ name: Certificate Statistics
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate-stats:
     runs-on: ubuntu-latest
@@ -98,5 +101,10 @@ jobs:
             }, null, 2));
             console.log(`Generated index file: ${indexFile}`);
 
-      - name: cat stats/index.json
-        run: cat stats/index.json
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Work bot"
+          git add stats/
+          git commit -m "Update certificate statistics" || echo "No changes to commit"
+          git push
