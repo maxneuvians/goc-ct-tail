@@ -1,9 +1,9 @@
-name: Tail 40m logs
+name: Tail 50m logs
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '40 * * * *'
+    - cron: '50 * * * *'
 
 permissions:
   contents: write
@@ -14,16 +14,16 @@ jobs:
     strategy:
       matrix:
         domain: [
-          'asc-csa.gc.ca',
-          'catsa-acsta.gc.ca',
-          'cbsa-asfc.gc.ca',
-          'chrc-ccdp.gc.ca',
-          'cmhc-schl.gc.ca',
-          'csps-efpc.gc.ca',   
-          'hrsdc-rhdcc.gc.ca',
-          'jobbank.gc.ca',
-          'servicecanada.gc.ca',
-          'weather.gc.ca',
+          'bac-lac.gc.ca',
+          'cas-satj.gc.ca',
+          'cer-rec.gc.ca',
+          'cse-cst.gc.ca',
+          'csc-scc.gc.ca',
+          'irb-cisr.gc.ca',
+          'nserc-crsng.gc.ca',
+          'nsira-ossnr.gc.ca',
+          'otc-cta.gc.ca',
+          'sac-isc.gc.ca',
         ]
     steps:
       - name: Checkout
