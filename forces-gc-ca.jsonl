@@ -624,3 +624,9 @@
 {"id":"8336789267","timestamp":"2024-10-06T00:34:03.84539418Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-10-05T23:03:48Z","to":"2025-01-03T23:03:47Z"}
 {"id":"8349144271","timestamp":"2024-10-07T17:15:30.485844633Z","domain":"space-cop.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-10-07T00:00:00Z","to":"2025-11-05T23:59:59Z"}
 {"id":"8349434388","timestamp":"2024-10-07T18:16:22.0614453Z","domain":"space-cop.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-10-07T00:00:00Z","to":"2025-11-05T23:59:59Z"}
+{"id":"8356637888","timestamp":"2024-10-08T13:17:17.182114528Z","domain":"*.app.allies.forces.gc.ca","issuer":"Entrust","from":"2024-10-08T13:08:29Z","to":"2025-11-08T13:08:28Z"}
+{"id":"8356637888","timestamp":"2024-10-08T13:17:17.182114798Z","domain":"app.allies.forces.gc.ca","issuer":"Entrust","from":"2024-10-08T13:08:29Z","to":"2025-11-08T13:08:28Z"}
+{"id":"8356637888","timestamp":"2024-10-08T13:17:17.182115059Z","domain":"*.forces.gc.ca","issuer":"Entrust","from":"2024-10-08T13:08:29Z","to":"2025-11-08T13:08:28Z"}
+{"id":"8356637888","timestamp":"2024-10-08T13:17:17.182115249Z","domain":"uav-allies.forces.gc.ca","issuer":"Entrust","from":"2024-10-08T13:08:29Z","to":"2025-11-08T13:08:28Z"}
+{"id":"8356637888","timestamp":"2024-10-08T13:17:17.182115339Z","domain":"www.app.allies.forces.gc.ca","issuer":"Entrust","from":"2024-10-08T13:08:29Z","to":"2025-11-08T13:08:28Z"}
+{"id":"8356637888","timestamp":"2024-10-08T13:17:17.182115911Z","domain":"www.uav-allies.forces.gc.ca","issuer":"Entrust","from":"2024-10-08T13:08:29Z","to":"2025-11-08T13:08:28Z"}
