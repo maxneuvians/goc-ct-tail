@@ -8,6 +8,8 @@ on:
       - 'stats/**'
     branches:
       - main
+  schedule:
+    - cron: '20 4 * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -40,7 +42,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload static directory to be deployed
-          path: 'stats'
+          path: 'static'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
