@@ -28,29 +28,39 @@ jobs:
               const lines = content.trim().split('\n');
               const stats = {};
               const totalsByIssuer = {};
+              const errors = [];
 
-              lines.forEach(line => {
-                const data = JSON.parse(line);
-                const date = data.from.split('T')[0];
-                const issuer = data.issuer;
+              lines.forEach((line, index) => {
+                try {
+                  const data = JSON.parse(line);
+                  if (!data.from || !data.issuer) {
+                    throw new Error('Missing required fields');
+                  }
+                  const date = data.from.split('T')[0];
+                  const issuer = data.issuer;
 
-                if (!stats[date]) {
-                  stats[date] = {};
+                  if (!stats[date]) {
+                    stats[date] = {};
+                  }
+
+                  if (!stats[date][issuer]) {
+                    stats[date][issuer] = 0;
+                  }
+
+                  stats[date][issuer]++;
+
+                  if (!totalsByIssuer[issuer]) {
+                    totalsByIssuer[issuer] = 0;
+                  }
+                  totalsByIssuer[issuer]++;
+                } catch (error) {
+                  errors.push(`Error processing line ${index + 1}: ${error.message}`);
+                  console.error(`Error in file ${filePath}, line ${index + 1}: ${error.message}`);
+                  console.error(`Line content: ${line}`);
                 }
-
-                if (!stats[date][issuer]) {
-                  stats[date][issuer] = 0;
-                }
-
-                stats[date][issuer]++;
-
-                if (!totalsByIssuer[issuer]) {
-                  totalsByIssuer[issuer] = 0;
-                }
-                totalsByIssuer[issuer]++;
               });
 
-              return { stats, totalsByIssuer };
+              return { stats, totalsByIssuer, errors };
             }
 
             const jsonlFiles = fs.readdirSync('.').filter(file => file.endsWith('.jsonl'));
@@ -58,16 +68,20 @@ jobs:
             let grandTotalByIssuer = {};
 
             jsonlFiles.forEach(file => {
-              const { stats, totalsByIssuer } = processFile(file);
+              const { stats, totalsByIssuer, errors } = processFile(file);
               const outputFile = path.join(statsDir, `${path.parse(file).name}-stats.json`);
-              fs.writeFileSync(outputFile, JSON.stringify(stats, null, 2));
+              fs.writeFileSync(outputFile, JSON.stringify({ stats, errors }, null, 2));
               console.log(`Processed ${file} and generated ${outputFile}`);
+              if (errors.length > 0) {
+                console.log(`Encountered ${errors.length} errors while processing ${file}`);
+              }
 
               fileIndex.push({
                 inputFile: file,
                 outputFile: outputFile,
                 totalCertificates: Object.values(totalsByIssuer).reduce((a, b) => a + b, 0),
-                totalsByIssuer: totalsByIssuer
+                totalsByIssuer: totalsByIssuer,
+                errorCount: errors.length
               });
 
               // Aggregate grand totals
