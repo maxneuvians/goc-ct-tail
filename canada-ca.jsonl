@@ -4501,3 +4501,38 @@
 {"id":"8363939476","timestamp":"2024-10-09T12:17:04.122502139Z","domain":"spc-approagile-immersif.canada.ca","issuer":"Let's Encrypt","from":"2024-10-09T11:02:51Z","to":"2025-01-07T11:02:50Z"}
 {"id":"8363939476","timestamp":"2024-10-09T12:17:04.12250254Z","domain":"ssc-agileprocurement-immersive.canada.ca","issuer":"Let's Encrypt","from":"2024-10-09T11:02:51Z","to":"2025-01-07T11:02:50Z"}
 {"id":"8364566798","timestamp":"2024-10-09T14:15:16.825649902Z","domain":"fertiscan-pgsql.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-09T12:59:34Z","to":"2025-01-07T12:59:33Z"}
+{"id":"8364984234","timestamp":"2024-10-09T16:16:03.093731331Z","domain":"spc-approagile-avatar.canada.ca","issuer":"Let's Encrypt","from":"2024-10-09T14:14:20Z","to":"2025-01-07T14:14:19Z"}
+{"id":"8364984234","timestamp":"2024-10-09T16:16:03.093731611Z","domain":"ssc-agileprocurement-avatar.canada.ca","issuer":"Let's Encrypt","from":"2024-10-09T14:14:20Z","to":"2025-01-07T14:14:19Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093731802Z","domain":"achatsetventes-buyandsell-stg.fjgc-gccf.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093731962Z","domain":"artifacts.buyandsell.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093732032Z","domain":"auteur.beta.achatsetventes.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093733144Z","domain":"author.beta.buyandsell.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093733214Z","domain":"beta1.achatsetventes.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093733274Z","domain":"beta1.buyandsell.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093733345Z","domain":"beta.achatsetventes.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093734016Z","domain":"beta.buyandsell.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093734086Z","domain":"beta.ocama.achatscanada.canada.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093734156Z","domain":"beta.sosa.canadabuys.canada.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093734216Z","domain":"chat.buyandsell.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093734286Z","domain":"content.buyandsell.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093734356Z","domain":"content.sosa.canadabuys.canada.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093734417Z","domain":"contenu.achatsetventes.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093734487Z","domain":"contenu.ocama.achatscanada.canada.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093734547Z","domain":"demo.buyandsell.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093735429Z","domain":"gamma.achatsetventes.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093735499Z","domain":"gamma.buyandsell.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093735569Z","domain":"gamma.ocama.achatscanada.canada.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093735629Z","domain":"gamma.sosa.canadabuys.canada.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093735699Z","domain":"gcweb.beta.achatsetventes.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093735769Z","domain":"gcweb.beta.buyandsell.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093735829Z","domain":"gitlab.buyandsell.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093735899Z","domain":"gitlab-ce.buyandsell.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.09373597Z","domain":"opra-beta.pwgsc.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.09373603Z","domain":"opra-beta.tpsgc.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.0937361Z","domain":"opra-build.pwgsc.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.09373616Z","domain":"opra-build.tpsgc.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.09373623Z","domain":"stage-staging.achatsetventes-buyandsell.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.0937363Z","domain":"test.achatsetventes.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.09373636Z","domain":"test.buyandsell.gc.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093736431Z","domain":"test.ocama.achatscanada.canada.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
+{"id":"8365027607","timestamp":"2024-10-09T16:16:03.093736491Z","domain":"test.sosa.canadabuys.canada.ca","issuer":"Entrust","from":"2024-10-09T15:20:39Z","to":"2025-08-11T15:20:37Z"}
