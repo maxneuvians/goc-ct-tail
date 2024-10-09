@@ -245,3 +245,5 @@
 {"id":"8312815402","timestamp":"2024-10-02T18:38:12.355180654Z","domain":"selfid-autoid-api-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
 {"id":"8312829664","timestamp":"2024-10-02T18:38:12.355180905Z","domain":"selfid-autoid-api-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
 {"id":"8312830252","timestamp":"2024-10-02T18:38:12.355181125Z","domain":"selfid-autoid-api-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
+{"id":"8365927672","timestamp":"2024-10-09T18:37:53.760240981Z","domain":"v3-sandbox-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-09T00:00:00Z","to":"2025-04-09T23:59:59Z"}
+{"id":"8365932980","timestamp":"2024-10-09T18:37:53.760241322Z","domain":"v3-sandbox2-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-09T00:00:00Z","to":"2025-04-09T23:59:59Z"}
