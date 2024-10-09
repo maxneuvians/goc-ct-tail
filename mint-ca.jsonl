@@ -183,3 +183,15 @@
 {"id":"8306159417","timestamp":"2024-10-01T20:26:19.500156564Z","domain":"mail1.mint.ca","issuer":"Entrust","from":"2024-10-01T19:46:52Z","to":"2025-11-01T19:46:50Z"}
 {"id":"8306159417","timestamp":"2024-10-01T20:26:19.500156945Z","domain":"mail2.mint.ca","issuer":"Entrust","from":"2024-10-01T19:46:52Z","to":"2025-11-01T19:46:50Z"}
 {"id":"8337451371","timestamp":"2024-10-06T02:48:57.398547106Z","domain":"clicks.mint.ca","issuer":"Let's Encrypt","from":"2024-10-06T01:09:43Z","to":"2025-01-04T01:09:42Z"}
+{"id":"8365078995","timestamp":"2024-10-09T16:37:24.514714038Z","domain":"remote.mint.ca","issuer":"Entrust","from":"2024-10-09T15:31:24Z","to":"2025-11-09T15:31:23Z"}
+{"id":"8365078995","timestamp":"2024-10-09T16:37:24.514714519Z","domain":"remote.monnaie.ca","issuer":"Entrust","from":"2024-10-09T15:31:24Z","to":"2025-11-09T15:31:23Z"}
+{"id":"8365078995","timestamp":"2024-10-09T16:37:24.514714759Z","domain":"vpn.mint.ca","issuer":"Entrust","from":"2024-10-09T15:31:24Z","to":"2025-11-09T15:31:23Z"}
+{"id":"8365078995","timestamp":"2024-10-09T16:37:24.514714969Z","domain":"vpn.monnaie.ca","issuer":"Entrust","from":"2024-10-09T15:31:24Z","to":"2025-11-09T15:31:23Z"}
+{"id":"8365080291","timestamp":"2024-10-09T16:37:24.51471517Z","domain":"remote3.mint.ca","issuer":"Entrust","from":"2024-10-09T15:34:08Z","to":"2025-11-09T15:34:07Z"}
+{"id":"8365080291","timestamp":"2024-10-09T16:37:24.514715891Z","domain":"remote3.monnaie.ca","issuer":"Entrust","from":"2024-10-09T15:34:08Z","to":"2025-11-09T15:34:07Z"}
+{"id":"8365080291","timestamp":"2024-10-09T16:37:24.514715971Z","domain":"vpn3.mint.ca","issuer":"Entrust","from":"2024-10-09T15:34:08Z","to":"2025-11-09T15:34:07Z"}
+{"id":"8365080291","timestamp":"2024-10-09T16:37:24.514716051Z","domain":"vpn3.monnaie.ca","issuer":"Entrust","from":"2024-10-09T15:34:08Z","to":"2025-11-09T15:34:07Z"}
+{"id":"8365293978","timestamp":"2024-10-09T16:37:24.514716142Z","domain":"reserve.monnaie.ca","issuer":"Entrust","from":"2024-10-09T16:13:26Z","to":"2025-11-09T16:13:25Z"}
+{"id":"8365293978","timestamp":"2024-10-09T16:37:24.514717023Z","domain":"reserves.mint.ca","issuer":"Entrust","from":"2024-10-09T16:13:26Z","to":"2025-11-09T16:13:25Z"}
+{"id":"8365293978","timestamp":"2024-10-09T16:37:24.514717104Z","domain":"www.reserve.monnaie.ca","issuer":"Entrust","from":"2024-10-09T16:13:26Z","to":"2025-11-09T16:13:25Z"}
+{"id":"8365293978","timestamp":"2024-10-09T16:37:24.514717184Z","domain":"www.reserves.mint.ca","issuer":"Entrust","from":"2024-10-09T16:13:26Z","to":"2025-11-09T16:13:25Z"}
