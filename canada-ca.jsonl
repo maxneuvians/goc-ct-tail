@@ -4544,3 +4544,7 @@
 {"id":"8372224098","timestamp":"2024-10-10T13:17:27.604514789Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-10T06:29:15Z","to":"2025-01-08T06:29:14Z"}
 {"id":"8372228106","timestamp":"2024-10-10T13:17:27.604515109Z","domain":"*.osdp-psdo.canada.ca","issuer":"Entrust","from":"2024-10-10T13:06:02Z","to":"2025-11-10T13:06:01Z"}
 {"id":"8372228106","timestamp":"2024-10-10T13:17:27.6045154Z","domain":"osdp-psdo.canada.ca","issuer":"Entrust","from":"2024-10-10T13:06:02Z","to":"2025-11-10T13:06:01Z"}
+{"id":"8372831436","timestamp":"2024-10-10T15:15:48.697707972Z","domain":"clinical-trials-search.canada.ca","issuer":"Google Trust Services","from":"2024-10-10T13:51:30Z","to":"2025-01-08T13:51:29Z"}
+{"id":"8372835673","timestamp":"2024-10-10T15:15:48.697708343Z","domain":"clinical-trials-search.canada.ca","issuer":"Google Trust Services","from":"2024-10-10T13:51:38Z","to":"2025-01-08T13:51:37Z"}
+{"id":"8372836712","timestamp":"2024-10-10T15:15:48.697708583Z","domain":"recherche-essais-cliniques.canada.ca","issuer":"Google Trust Services","from":"2024-10-10T13:52:54Z","to":"2025-01-08T13:52:53Z"}
+{"id":"8372838015","timestamp":"2024-10-10T15:15:48.697708824Z","domain":"recherche-essais-cliniques.canada.ca","issuer":"Google Trust Services","from":"2024-10-10T13:53:04Z","to":"2025-01-08T13:53:03Z"}
