@@ -1297,6 +1297,12 @@
       "DigiCert": 1,
       "Entrust": 33,
       "Google Trust Services": 1
+    },
+    "2024-10-10": {
+      "Let's Encrypt": 8,
+      "Entrust": 7,
+      "Google Trust Services": 4,
+      "Sectigo": 6
     }
   },
   "errors": []
