@@ -4563,3 +4563,5 @@
 {"id":"8374412006","timestamp":"2024-10-10T20:15:47.638766573Z","domain":"*.md.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2024-10-10T00:00:00Z","to":"2025-01-08T23:59:59Z"}
 {"id":"8374780905","timestamp":"2024-10-10T21:15:38.6511955Z","domain":"*.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2024-10-10T00:00:00Z","to":"2025-01-08T23:59:59Z"}
 {"id":"8374929564","timestamp":"2024-10-10T22:15:21.174991669Z","domain":"*.nxrm.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2024-10-10T00:00:00Z","to":"2025-01-08T23:59:59Z"}
+{"id":"8377336789","timestamp":"2024-10-11T05:15:26.855964676Z","domain":"*.test.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-11T03:31:24Z","to":"2025-01-09T03:31:23Z"}
+{"id":"8377336789","timestamp":"2024-10-11T05:15:26.855965207Z","domain":"test.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-11T03:31:24Z","to":"2025-01-09T03:31:23Z"}
