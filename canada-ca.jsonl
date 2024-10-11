@@ -4565,3 +4565,7 @@
 {"id":"8374929564","timestamp":"2024-10-10T22:15:21.174991669Z","domain":"*.nxrm.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2024-10-10T00:00:00Z","to":"2025-01-08T23:59:59Z"}
 {"id":"8377336789","timestamp":"2024-10-11T05:15:26.855964676Z","domain":"*.test.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-11T03:31:24Z","to":"2025-01-09T03:31:23Z"}
 {"id":"8377336789","timestamp":"2024-10-11T05:15:26.855965207Z","domain":"test.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-11T03:31:24Z","to":"2025-01-09T03:31:23Z"}
+{"id":"8380789528","timestamp":"2024-10-11T15:15:36.280769009Z","domain":"forces-mobile.canada.ca","issuer":"Let's Encrypt","from":"2024-10-11T13:25:09Z","to":"2025-01-09T13:25:08Z"}
+{"id":"8381033550","timestamp":"2024-10-11T15:15:36.280769519Z","domain":"ftp.cartes.canada.ca","issuer":"Entrust","from":"2024-10-11T15:09:08Z","to":"2025-11-11T15:09:07Z"}
+{"id":"8381033550","timestamp":"2024-10-11T15:15:36.28076983Z","domain":"ftp.geogratis.gc.ca","issuer":"Entrust","from":"2024-10-11T15:09:08Z","to":"2025-11-11T15:09:07Z"}
+{"id":"8381033550","timestamp":"2024-10-11T15:15:36.280770251Z","domain":"ftp.maps.canada.ca","issuer":"Entrust","from":"2024-10-11T15:09:08Z","to":"2025-11-11T15:09:07Z"}
