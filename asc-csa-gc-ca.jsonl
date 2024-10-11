@@ -37,3 +37,7 @@
 {"id":"8145947390","timestamp":"2024-10-07T17:43:38.536096166Z","domain":"www.espace.canada.ca","issuer":"Entrust","from":"2024-09-09T18:23:58Z","to":"2025-10-09T18:23:57Z"}
 {"id":"8145947390","timestamp":"2024-10-07T17:43:38.536096246Z","domain":"www.space.canada.ca","issuer":"Entrust","from":"2024-09-09T18:23:58Z","to":"2025-10-09T18:23:57Z"}
 {"id":"8318521994","timestamp":"2024-10-07T17:43:38.536096356Z","domain":"*.asc-csa.gc.ca","issuer":"Entrust","from":"2024-10-03T11:46:38Z","to":"2025-10-22T11:46:37Z"}
+{"id":"8380090669","timestamp":"2024-10-11T12:52:37.769867756Z","domain":"autodiscover.asc-csa.gc.ca","issuer":"Entrust","from":"2024-10-11T12:21:41Z","to":"2025-11-11T12:21:40Z"}
+{"id":"8380090669","timestamp":"2024-10-11T12:52:37.769868487Z","domain":"autodiscover.csa-asc.gc.ca","issuer":"Entrust","from":"2024-10-11T12:21:41Z","to":"2025-11-11T12:21:40Z"}
+{"id":"8380090669","timestamp":"2024-10-11T12:52:37.769868748Z","domain":"mail.asc-csa.gc.ca","issuer":"Entrust","from":"2024-10-11T12:21:41Z","to":"2025-11-11T12:21:40Z"}
+{"id":"8380090669","timestamp":"2024-10-11T12:52:37.769868968Z","domain":"mrs.asc-csa.gc.ca","issuer":"Entrust","from":"2024-10-11T12:21:41Z","to":"2025-11-11T12:21:40Z"}
