@@ -498,3 +498,8 @@
 {"id":"8318779060","timestamp":"2024-10-03T13:17:19.909884009Z","domain":"supplier-fournisseur-dev-sscp2pspc.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-10-03T12:39:36Z","to":"2025-11-03T12:39:35Z"}
 {"id":"8318779060","timestamp":"2024-10-03T13:17:19.90988428Z","domain":"www.dev-sscp2pspc.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-10-03T12:39:36Z","to":"2025-11-03T12:39:35Z"}
 {"id":"8340360153","timestamp":"2024-10-06T11:14:47.978202342Z","domain":"ztpocfw.ztpoc.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2024-10-06T10:06:40Z","to":"2025-01-04T10:06:39Z"}
+{"id":"8381456399","timestamp":"2024-10-11T17:15:03.263030264Z","domain":"autodiscover.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-10-11T16:29:17Z","to":"2025-09-27T16:29:16Z"}
+{"id":"8381456399","timestamp":"2024-10-11T17:15:03.263030584Z","domain":"hyb1.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-10-11T16:29:17Z","to":"2025-09-27T16:29:16Z"}
+{"id":"8381456399","timestamp":"2024-10-11T17:15:03.263030795Z","domain":"hyb2.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-10-11T16:29:17Z","to":"2025-09-27T16:29:16Z"}
+{"id":"8381456399","timestamp":"2024-10-11T17:15:03.263030985Z","domain":"mail.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-10-11T16:29:17Z","to":"2025-09-27T16:29:16Z"}
+{"id":"8381456399","timestamp":"2024-10-11T17:15:03.263031085Z","domain":"smtp.ssc-spc.gc.ca","issuer":"Entrust","from":"2024-10-11T16:29:17Z","to":"2025-09-27T16:29:16Z"}
