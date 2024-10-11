@@ -1,0 +1,52 @@
+name: Tail 0m logs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  tail-logs:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        domain: [
+          'gg.ca',
+        ]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1
+
+      - name: Tail logs for ${{ matrix.domain }}
+        uses: maxneuvians/tail-ct-log-action@main
+        env:
+          DOMAIN: ${{ matrix.domain }}
+
+      - name: Check for changes
+        id: git_diff
+        run: |
+          git fetch origin main
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=changes" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit files
+        if: steps.git_diff.outputs.changes == 'changes'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Work bot"
+          git add -A
+          git commit -m "Adding ${{ matrix.domain }} logs `date '+%Y-%m-%d %H:%M:%S'`" -a
+      
+      - name: Pull and push changes
+        if: steps.git_diff.outputs.changes == 'changes'
+        uses: nick-fields/retry@v3
+        with:
+          timeout_seconds: 10
+          max_attempts: 3
+          command: |
+            git pull --rebase origin main
+            git push origin main
