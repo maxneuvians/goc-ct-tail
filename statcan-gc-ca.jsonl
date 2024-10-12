@@ -348,3 +348,8 @@
 {"id":"8254958820","timestamp":"2024-10-01T22:09:59.019553947Z","domain":"gcsra-a.statcan.gc.ca","issuer":"Entrust","from":"2024-09-24T15:43:47Z","to":"2025-10-12T15:43:46Z"}
 {"id":"8254958820","timestamp":"2024-10-01T22:09:59.019554027Z","domain":"gcsra-b.statcan.gc.ca","issuer":"Entrust","from":"2024-09-24T15:43:47Z","to":"2025-10-12T15:43:46Z"}
 {"id":"8254958820","timestamp":"2024-10-01T22:09:59.019554107Z","domain":"gcsra.statcan.gc.ca","issuer":"Entrust","from":"2024-09-24T15:43:47Z","to":"2025-10-12T15:43:46Z"}
+{"id":"8387364561","timestamp":"2024-10-12T16:37:29.265524029Z","domain":"api.statcan.gc.ca","issuer":"Let's Encrypt","from":"2024-10-12T12:38:45Z","to":"2025-01-10T12:38:44Z"}
+{"id":"8387638207","timestamp":"2024-10-12T16:37:29.26552434Z","domain":"statcan.ca","issuer":"Let's Encrypt","from":"2024-10-12T13:56:35Z","to":"2025-01-10T13:56:34Z"}
+{"id":"8387638207","timestamp":"2024-10-12T16:37:29.26552457Z","domain":"statcan.gc.ca","issuer":"Let's Encrypt","from":"2024-10-12T13:56:35Z","to":"2025-01-10T13:56:34Z"}
+{"id":"8387638207","timestamp":"2024-10-12T16:37:29.26552475Z","domain":"www.statcan.ca","issuer":"Let's Encrypt","from":"2024-10-12T13:56:35Z","to":"2025-01-10T13:56:34Z"}
+{"id":"8387638207","timestamp":"2024-10-12T16:37:29.265524821Z","domain":"www.statcan.gc.ca","issuer":"Let's Encrypt","from":"2024-10-12T13:56:35Z","to":"2025-01-10T13:56:34Z"}
