@@ -4581,3 +4581,4 @@
 {"id":"8386252642","timestamp":"2024-10-12T15:15:20.730032449Z","domain":"sso-uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-12T03:32:36Z","to":"2025-01-10T03:32:35Z"}
 {"id":"8386252642","timestamp":"2024-10-12T15:15:20.730033551Z","domain":"sso-uat-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2024-10-12T03:32:36Z","to":"2025-01-10T03:32:35Z"}
 {"id":"8386471816","timestamp":"2024-10-12T15:15:20.730033671Z","domain":"dev.ewp-pmee.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2024-10-12T00:00:00Z","to":"2025-04-12T23:59:59Z"}
+{"id":"8387803038","timestamp":"2024-10-12T16:15:55.948830199Z","domain":"canary-gateway.ssc-spc.com-test.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2024-10-12T10:54:01Z","to":"2025-01-10T11:47:15Z"}
