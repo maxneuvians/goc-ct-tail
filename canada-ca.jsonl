@@ -4582,3 +4582,12 @@
 {"id":"8386252642","timestamp":"2024-10-12T15:15:20.730033551Z","domain":"sso-uat-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2024-10-12T03:32:36Z","to":"2025-01-10T03:32:35Z"}
 {"id":"8386471816","timestamp":"2024-10-12T15:15:20.730033671Z","domain":"dev.ewp-pmee.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2024-10-12T00:00:00Z","to":"2025-04-12T23:59:59Z"}
 {"id":"8387803038","timestamp":"2024-10-12T16:15:55.948830199Z","domain":"canary-gateway.ssc-spc.com-test.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2024-10-12T10:54:01Z","to":"2025-01-10T11:47:15Z"}
+{"id":"8389079398","timestamp":"2024-10-14T16:16:05.504567913Z","domain":"*.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2024-10-12T00:00:00Z","to":"2025-01-10T23:59:59Z"}
+{"id":"8389081313","timestamp":"2024-10-14T16:16:05.504568444Z","domain":"*.nxrm.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2024-10-12T00:00:00Z","to":"2025-01-10T23:59:59Z"}
+{"id":"8389136229","timestamp":"2024-10-14T16:16:05.504568744Z","domain":"*.md.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2024-10-12T00:00:00Z","to":"2025-01-10T23:59:59Z"}
+{"id":"8395939968","timestamp":"2024-10-14T16:16:05.504569065Z","domain":"webtop.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-13T13:04:08Z","to":"2025-01-11T13:04:07Z"}
+{"id":"8398129789","timestamp":"2024-10-14T16:16:05.504569185Z","domain":"preprod.accessconsortium.aws-lza.hc-sc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-10-14T00:00:00Z","to":"2025-11-13T23:59:59Z"}
+{"id":"8401684051","timestamp":"2024-10-14T16:16:05.504570538Z","domain":"accessibilite.canada.ca","issuer":"Let's Encrypt","from":"2024-10-14T09:29:09Z","to":"2025-01-12T09:29:08Z"}
+{"id":"8401684051","timestamp":"2024-10-14T16:16:05.504570658Z","domain":"accessibility.canada.ca","issuer":"Let's Encrypt","from":"2024-10-14T09:29:09Z","to":"2025-01-12T09:29:08Z"}
+{"id":"8401684051","timestamp":"2024-10-14T16:16:05.504570748Z","domain":"accessible.canada.ca","issuer":"Let's Encrypt","from":"2024-10-14T09:29:09Z","to":"2025-01-12T09:29:08Z"}
+{"id":"8403387048","timestamp":"2024-10-14T16:16:05.504570858Z","domain":"canary.ssc-spc.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2024-10-14T14:04:13Z","to":"2025-01-12T14:56:46Z"}
