@@ -32,15 +32,15 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 4584,
+      "totalCertificates": 4593,
       "totalsByIssuer": {
         "Entrust": 2461,
-        "Amazon Trust Services": 516,
+        "Amazon Trust Services": 517,
         "DigiCert": 234,
         "GoDaddy": 6,
-        "Let's Encrypt": 1163,
-        "Google Trust Services": 46,
-        "Sectigo": 158
+        "Let's Encrypt": 1167,
+        "Google Trust Services": 47,
+        "Sectigo": 161
       },
       "errorCount": 0
     },
@@ -176,11 +176,11 @@
     {
       "inputFile": "dfo-mpo-gc-ca.jsonl",
       "outputFile": "stats/dfo-mpo-gc-ca-stats.json",
-      "totalCertificates": 441,
+      "totalCertificates": 442,
       "totalsByIssuer": {
         "Entrust": 330,
         "DigiCert": 20,
-        "Let's Encrypt": 91
+        "Let's Encrypt": 92
       },
       "errorCount": 0
     },
@@ -299,12 +299,12 @@
     {
       "inputFile": "mint-ca.jsonl",
       "outputFile": "stats/mint-ca-stats.json",
-      "totalCertificates": 205,
+      "totalCertificates": 207,
       "totalsByIssuer": {
         "Entrust": 137,
         "DigiCert": 16,
         "Let's Encrypt": 12,
-        "Google Trust Services": 40
+        "Google Trust Services": 42
       },
       "errorCount": 0
     },
@@ -499,12 +499,12 @@
     {
       "inputFile": "veterans-gc-ca.jsonl",
       "outputFile": "stats/veterans-gc-ca-stats.json",
-      "totalCertificates": 142,
+      "totalCertificates": 143,
       "totalsByIssuer": {
         "Amazon Trust Services": 10,
         "Entrust": 11,
         "GoDaddy": 1,
-        "Let's Encrypt": 120
+        "Let's Encrypt": 121
       },
       "errorCount": 0
     },
@@ -520,12 +520,12 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 9952,
-    "Amazon Trust Services": 1124,
-    "Let's Encrypt": 3471,
+    "Amazon Trust Services": 1125,
+    "Let's Encrypt": 3477,
     "DigiCert": 767,
     "GoDaddy": 11,
-    "Google Trust Services": 95,
-    "Sectigo": 2589,
+    "Google Trust Services": 98,
+    "Sectigo": 2592,
     "SSL.com": 1
   }
 }

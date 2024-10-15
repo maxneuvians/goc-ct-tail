@@ -1312,6 +1312,15 @@
     "2024-10-12": {
       "Let's Encrypt": 10,
       "DigiCert": 1,
+      "Google Trust Services": 1,
+      "Sectigo": 3
+    },
+    "2024-10-13": {
+      "Let's Encrypt": 1
+    },
+    "2024-10-14": {
+      "Amazon Trust Services": 1,
+      "Let's Encrypt": 3,
       "Google Trust Services": 1
     }
   },
