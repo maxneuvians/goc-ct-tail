@@ -144,3 +144,14 @@
 {"id":"8421038990","timestamp":"2024-10-16T14:26:37.49184553Z","domain":"search-form-updates.unclass.aks.cloud.veterans.gc.ca","issuer":"Let's Encrypt","from":"2024-10-16T13:01:35Z","to":"2025-01-14T13:01:34Z"}
 {"id":"8421044762","timestamp":"2024-10-16T14:26:37.491846071Z","domain":"push-api-changes.unclass.aks.cloud.veterans.gc.ca","issuer":"Let's Encrypt","from":"2024-10-16T13:01:55Z","to":"2025-01-14T13:01:54Z"}
 {"id":"8421542078","timestamp":"2024-10-16T15:26:48.679290849Z","domain":"14036-view-fixes.unclass.aks.cloud.veterans.gc.ca","issuer":"Let's Encrypt","from":"2024-10-16T14:17:26Z","to":"2025-01-14T14:17:25Z"}
+{"id":"8421612544","timestamp":"2024-10-16T16:28:47.001738497Z","domain":"*.acc.gc.ca","issuer":"Entrust","from":"2024-10-16T15:28:18Z","to":"2025-11-10T15:28:17Z"}
+{"id":"8421612544","timestamp":"2024-10-16T16:28:47.001738998Z","domain":"acc.gc.ca","issuer":"Entrust","from":"2024-10-16T15:28:18Z","to":"2025-11-10T15:28:17Z"}
+{"id":"8421612544","timestamp":"2024-10-16T16:28:47.001739208Z","domain":"*.acc-vac.gc.ca","issuer":"Entrust","from":"2024-10-16T15:28:18Z","to":"2025-11-10T15:28:17Z"}
+{"id":"8421612544","timestamp":"2024-10-16T16:28:47.001739468Z","domain":"acc-vac.gc.ca","issuer":"Entrust","from":"2024-10-16T15:28:18Z","to":"2025-11-10T15:28:17Z"}
+{"id":"8421612544","timestamp":"2024-10-16T16:28:47.001739568Z","domain":"*.ombudsman-veterans.gc.ca","issuer":"Entrust","from":"2024-10-16T15:28:18Z","to":"2025-11-10T15:28:17Z"}
+{"id":"8421612544","timestamp":"2024-10-16T16:28:47.001740661Z","domain":"*.vac-acc.gc.ca","issuer":"Entrust","from":"2024-10-16T15:28:18Z","to":"2025-11-10T15:28:17Z"}
+{"id":"8421612544","timestamp":"2024-10-16T16:28:47.001740761Z","domain":"vac-acc.gc.ca","issuer":"Entrust","from":"2024-10-16T15:28:18Z","to":"2025-11-10T15:28:17Z"}
+{"id":"8421612544","timestamp":"2024-10-16T16:28:47.001740851Z","domain":"*.vac.gc.ca","issuer":"Entrust","from":"2024-10-16T15:28:18Z","to":"2025-11-10T15:28:17Z"}
+{"id":"8421612544","timestamp":"2024-10-16T16:28:47.001740931Z","domain":"vac.gc.ca","issuer":"Entrust","from":"2024-10-16T15:28:18Z","to":"2025-11-10T15:28:17Z"}
+{"id":"8421612544","timestamp":"2024-10-16T16:28:47.001741582Z","domain":"*.veterans.gc.ca","issuer":"Entrust","from":"2024-10-16T15:28:18Z","to":"2025-11-10T15:28:17Z"}
+{"id":"8421612544","timestamp":"2024-10-16T16:28:47.001741683Z","domain":"*.vrab-tacra.gc.ca","issuer":"Entrust","from":"2024-10-16T15:28:18Z","to":"2025-11-10T15:28:17Z"}
