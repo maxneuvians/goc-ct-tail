@@ -29,3 +29,13 @@
 {"id":"8254971341","timestamp":"2024-10-08T15:54:19.582025799Z","domain":"extranet3-02.irb-cisr.gc.ca","issuer":"Entrust","from":"2024-09-24T15:45:53Z","to":"2025-10-12T15:45:52Z"}
 {"id":"8254971341","timestamp":"2024-10-08T15:54:19.582025869Z","domain":"extranet3-03.irb-cisr.gc.ca","issuer":"Entrust","from":"2024-09-24T15:45:53Z","to":"2025-10-12T15:45:52Z"}
 {"id":"8254971341","timestamp":"2024-10-08T15:54:19.582025929Z","domain":"extranet3.irb-cisr.gc.ca","issuer":"Entrust","from":"2024-09-24T15:45:53Z","to":"2025-10-12T15:45:52Z"}
+{"id":"8422428745","timestamp":"2024-10-16T17:54:31.399658999Z","domain":"*.cisr.gc.ca","issuer":"Entrust","from":"2024-10-16T17:39:42Z","to":"2025-11-16T17:39:41Z"}
+{"id":"8422428745","timestamp":"2024-10-16T17:54:31.39965949Z","domain":"cisr.gc.ca","issuer":"Entrust","from":"2024-10-16T17:39:42Z","to":"2025-11-16T17:39:41Z"}
+{"id":"8422428745","timestamp":"2024-10-16T17:54:31.399659821Z","domain":"*.cisr-irb.gc.ca","issuer":"Entrust","from":"2024-10-16T17:39:42Z","to":"2025-11-16T17:39:41Z"}
+{"id":"8422428745","timestamp":"2024-10-16T17:54:31.399660072Z","domain":"cisr-irb.gc.ca","issuer":"Entrust","from":"2024-10-16T17:39:42Z","to":"2025-11-16T17:39:41Z"}
+{"id":"8422428745","timestamp":"2024-10-16T17:54:31.399660172Z","domain":"*.irb-cisr.gc.ca","issuer":"Entrust","from":"2024-10-16T17:39:42Z","to":"2025-11-16T17:39:41Z"}
+{"id":"8422428745","timestamp":"2024-10-16T17:54:31.399661564Z","domain":"irb-cisr.gc.ca","issuer":"Entrust","from":"2024-10-16T17:39:42Z","to":"2025-11-16T17:39:41Z"}
+{"id":"8422428745","timestamp":"2024-10-16T17:54:31.399661664Z","domain":"*.irb.gc.ca","issuer":"Entrust","from":"2024-10-16T17:39:42Z","to":"2025-11-16T17:39:41Z"}
+{"id":"8422428745","timestamp":"2024-10-16T17:54:31.399661764Z","domain":"irb.gc.ca","issuer":"Entrust","from":"2024-10-16T17:39:42Z","to":"2025-11-16T17:39:41Z"}
+{"id":"8422428745","timestamp":"2024-10-16T17:54:31.399661855Z","domain":"*.irbnet.gc.ca","issuer":"Entrust","from":"2024-10-16T17:39:42Z","to":"2025-11-16T17:39:41Z"}
+{"id":"8422428745","timestamp":"2024-10-16T17:54:31.399662887Z","domain":"irbnet.gc.ca","issuer":"Entrust","from":"2024-10-16T17:39:42Z","to":"2025-11-16T17:39:41Z"}
