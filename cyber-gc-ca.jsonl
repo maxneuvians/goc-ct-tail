@@ -197,3 +197,6 @@
 {"id":"8413530717","timestamp":"2024-10-15T17:35:05.007295836Z","domain":"jwtiotest.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2024-10-15T16:15:02Z","to":"2025-01-13T16:15:01Z"}
 {"id":"8413572701","timestamp":"2024-10-15T17:35:05.007296628Z","domain":"test.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2024-10-15T16:21:37Z","to":"2025-01-13T16:21:36Z"}
 {"id":"8414406094","timestamp":"2024-10-15T20:34:16.752736406Z","domain":"*.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2024-10-15T18:49:05Z","to":"2025-01-13T18:49:04Z"}
+{"id":"8423069671","timestamp":"2024-10-16T20:34:24.844535037Z","domain":"*.core.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2024-10-16T18:34:39Z","to":"2025-01-14T18:34:38Z"}
+{"id":"8423069671","timestamp":"2024-10-16T20:34:24.844535578Z","domain":"core.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2024-10-16T18:34:39Z","to":"2025-01-14T18:34:38Z"}
+{"id":"8423167078","timestamp":"2024-10-16T20:34:24.844535919Z","domain":"trino.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2024-10-16T18:51:56Z","to":"2025-01-14T18:51:55Z"}
