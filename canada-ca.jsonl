@@ -4621,3 +4621,6 @@
 {"id":"8421165781","timestamp":"2024-10-16T15:15:43.719438745Z","domain":"spc-approagile-avatar.canada.ca","issuer":"Let's Encrypt","from":"2024-10-16T13:20:35Z","to":"2025-01-14T13:20:34Z"}
 {"id":"8421165781","timestamp":"2024-10-16T15:15:43.719439146Z","domain":"ssc-agileprocurement-avatar.canada.ca","issuer":"Let's Encrypt","from":"2024-10-16T13:20:35Z","to":"2025-01-14T13:20:34Z"}
 {"id":"8424229518","timestamp":"2024-10-17T00:31:21.615738325Z","domain":"doc-to-html.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-16T22:27:13Z","to":"2025-01-14T22:27:12Z"}
+{"id":"8426948078","timestamp":"2024-10-17T08:16:26.394230727Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-17T06:25:45Z","to":"2025-01-15T06:25:44Z"}
+{"id":"8426948078","timestamp":"2024-10-17T08:16:26.394231338Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-17T06:25:45Z","to":"2025-01-15T06:25:44Z"}
+{"id":"8426987557","timestamp":"2024-10-17T08:16:26.394231959Z","domain":"canary-gateway.ssc-spc.com-dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2024-10-17T06:28:33Z","to":"2025-01-15T07:21:26Z"}
