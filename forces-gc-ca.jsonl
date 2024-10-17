@@ -633,3 +633,14 @@
 {"id":"8371658739","timestamp":"2024-10-10T12:17:04.519741825Z","domain":"insights-stg-ntg-gim.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-10-10T11:30:04Z","to":"2025-11-10T11:30:02Z"}
 {"id":"8371658739","timestamp":"2024-10-10T12:17:04.519742266Z","domain":"perspicace-stg-ntg-gim.cloud.forces.gc.ca","issuer":"Entrust","from":"2024-10-10T11:30:04Z","to":"2025-11-10T11:30:02Z"}
 {"id":"8414939343","timestamp":"2024-10-15T22:15:15.22595099Z","domain":"npcc-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-10-15T00:00:00Z","to":"2025-11-13T23:59:59Z"}
+{"id":"8429537875","timestamp":"2024-10-17T15:16:02.463704784Z","domain":"health-sante.forces.gc.ca","issuer":"Entrust","from":"2024-10-17T14:32:28Z","to":"2025-11-17T14:32:27Z"}
+{"id":"8429537875","timestamp":"2024-10-17T15:16:02.463705094Z","domain":"www.health-sante.forces.gc.ca","issuer":"Entrust","from":"2024-10-17T14:32:28Z","to":"2025-11-17T14:32:27Z"}
+{"id":"8429569524","timestamp":"2024-10-17T15:16:02.463705335Z","domain":"staging-health-sante.forces.gc.ca","issuer":"Entrust","from":"2024-10-17T14:35:30Z","to":"2025-11-17T14:35:29Z"}
+{"id":"8429569524","timestamp":"2024-10-17T15:16:02.463705566Z","domain":"www.staging-health-sante.forces.gc.ca","issuer":"Entrust","from":"2024-10-17T14:35:30Z","to":"2025-11-17T14:35:29Z"}
+{"id":"8429573185","timestamp":"2024-10-17T15:16:02.463705666Z","domain":"*.forces.gc.ca","issuer":"Entrust","from":"2024-10-17T14:38:53Z","to":"2025-11-17T14:38:52Z"}
+{"id":"8429573185","timestamp":"2024-10-17T15:16:02.463706668Z","domain":"forces.gc.ca","issuer":"Entrust","from":"2024-10-17T14:38:53Z","to":"2025-11-17T14:38:52Z"}
+{"id":"8429573185","timestamp":"2024-10-17T15:16:02.463706748Z","domain":"prod-erecruiting-dnd-mdn.fjgc-gccf.gc.ca","issuer":"Entrust","from":"2024-10-17T14:38:53Z","to":"2025-11-17T14:38:52Z"}
+{"id":"8429573185","timestamp":"2024-10-17T15:16:02.463706838Z","domain":"www.armee.forces.ca","issuer":"Entrust","from":"2024-10-17T14:38:53Z","to":"2025-11-17T14:38:52Z"}
+{"id":"8429573185","timestamp":"2024-10-17T15:16:02.463706918Z","domain":"www.army.forces.ca","issuer":"Entrust","from":"2024-10-17T14:38:53Z","to":"2025-11-17T14:38:52Z"}
+{"id":"8429573185","timestamp":"2024-10-17T15:16:02.463707649Z","domain":"www.forces.gc.ca","issuer":"Entrust","from":"2024-10-17T14:38:53Z","to":"2025-11-17T14:38:52Z"}
+{"id":"8429573185","timestamp":"2024-10-17T15:16:02.46370773Z","domain":"www.prod-recruiting-recrutement.forces.gc.ca","issuer":"Entrust","from":"2024-10-17T14:38:53Z","to":"2025-11-17T14:38:52Z"}
