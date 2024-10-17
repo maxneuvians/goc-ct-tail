@@ -250,3 +250,6 @@
 {"id":"8412657361","timestamp":"2024-10-15T15:35:02.378536952Z","domain":"v3-sandbox3-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-15T00:00:00Z","to":"2025-04-15T23:59:59Z"}
 {"id":"8412657446","timestamp":"2024-10-15T15:35:02.378542151Z","domain":"v3-sandbox4-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-15T00:00:00Z","to":"2025-04-15T23:59:59Z"}
 {"id":"8423586704","timestamp":"2024-10-16T21:33:56.565037134Z","domain":"atip-aoas-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-16T00:00:00Z","to":"2025-04-16T23:59:59Z"}
+{"id":"8429540113","timestamp":"2024-10-17T15:35:35.423818329Z","domain":"v3-pbi-pses-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-17T00:00:00Z","to":"2025-04-17T23:59:59Z"}
+{"id":"8429540642","timestamp":"2024-10-17T15:35:35.42381862Z","domain":"v3-pbi-mental-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-17T00:00:00Z","to":"2025-04-17T23:59:59Z"}
+{"id":"8429541798","timestamp":"2024-10-17T15:35:35.42381883Z","domain":"v3-pbi-pcis-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-17T00:00:00Z","to":"2025-04-17T23:59:59Z"}
