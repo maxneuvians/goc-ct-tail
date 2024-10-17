@@ -14,7 +14,16 @@ jobs:
     strategy:
       matrix:
         domain: [
+          'cannor.gc.ca',
+          'fcc-fac.ca',
           'gg.ca',
+          'grainscanada.gc.ca',
+          'hc-sc.gc.ca',
+          'ised-isde.gc.ca',
+          'ppsc-sppc.gc.ca',
+          'scc-csc.ca',
+          'sshrc-crsh.gc.ca',
+          'tsb.gc.ca',
         ]
     steps:
       - name: Checkout
