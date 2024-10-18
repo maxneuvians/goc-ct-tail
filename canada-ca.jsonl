@@ -4687,3 +4687,8 @@
 {"id":"8437775693","timestamp":"2024-10-18T16:16:04.746345642Z","domain":"stg-kimberleyprocess-processuskimberley.canada.ca","issuer":"Entrust","from":"2024-10-18T15:22:15Z","to":"2025-11-18T15:22:14Z"}
 {"id":"8437775693","timestamp":"2024-10-18T16:16:04.746345913Z","domain":"tst-kimberleyprocess-processuskimberley.canada.ca","issuer":"Entrust","from":"2024-10-18T15:22:15Z","to":"2025-11-18T15:22:14Z"}
 {"id":"8439026805","timestamp":"2024-10-18T19:14:39.383000146Z","domain":"nginx.cdn-rdc.service.canada.ca","issuer":"DigiCert","from":"2024-10-18T00:00:00Z","to":"2025-04-18T23:59:59Z"}
+{"id":"8439689773","timestamp":"2024-10-18T21:15:31.751856613Z","domain":"vocab.canada.ca","issuer":"Let's Encrypt","from":"2024-10-18T19:45:09Z","to":"2025-01-16T19:45:08Z"}
+{"id":"8439826855","timestamp":"2024-10-18T21:15:31.751856894Z","domain":"api.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-18T20:08:19Z","to":"2025-01-16T20:08:18Z"}
+{"id":"8439826855","timestamp":"2024-10-18T21:15:31.751857154Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-18T20:08:19Z","to":"2025-01-16T20:08:18Z"}
+{"id":"8439826855","timestamp":"2024-10-18T21:15:31.751857345Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-18T20:08:19Z","to":"2025-01-16T20:08:18Z"}
+{"id":"8439826855","timestamp":"2024-10-18T21:15:31.751857435Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-18T20:08:19Z","to":"2025-01-16T20:08:18Z"}
