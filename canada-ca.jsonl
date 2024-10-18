@@ -4664,3 +4664,22 @@
 {"id":"8434204134","timestamp":"2024-10-18T05:15:34.680277388Z","domain":"www.npa-apn.gc.ca","issuer":"Let's Encrypt","from":"2024-10-18T03:43:24Z","to":"2025-01-16T03:43:23Z"}
 {"id":"8434204134","timestamp":"2024-10-18T05:15:34.680278319Z","domain":"www.npa.gc.ca","issuer":"Let's Encrypt","from":"2024-10-18T03:43:24Z","to":"2025-01-16T03:43:23Z"}
 {"id":"8435679262","timestamp":"2024-10-18T09:15:48.986300809Z","domain":"waayback.exp.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-10-18T00:00:00Z","to":"2025-04-18T23:59:59Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.522749514Z","domain":"parcs.canada.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.522749835Z","domain":"parcscanada.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.522750005Z","domain":"parcscanada.com","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.522750206Z","domain":"parcscanada.gc.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.522750306Z","domain":"parks.canada.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.522751147Z","domain":"parkscanada.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.522751228Z","domain":"parkscanada.gc.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.522751308Z","domain":"pc.gc.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.522751398Z","domain":"secure.pc.gc.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.522752249Z","domain":"www2.parcscanada.gc.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.522752339Z","domain":"www2.parkscanada.gc.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.52275242Z","domain":"www.parcs.canada.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.5227525Z","domain":"www.parcscanada.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.52275259Z","domain":"www.parcscanada.com","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.52275267Z","domain":"www.parcscanada.gc.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.52275275Z","domain":"www.parks.canada.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.522752831Z","domain":"www.parkscanada.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.52275292Z","domain":"www.parkscanada.gc.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
+{"id":"8437252699","timestamp":"2024-10-18T14:15:18.522753902Z","domain":"www.pc.gc.ca","issuer":"Entrust","from":"2024-10-18T13:52:48Z","to":"2025-10-18T13:52:47Z"}
