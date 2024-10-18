@@ -186,3 +186,7 @@
 {"id":"8114111632","timestamp":"2024-10-07T17:43:41.064081668Z","domain":"catalogue.csps-efpc.gc.ca","issuer":"Let's Encrypt","from":"2024-09-05T14:42:53Z","to":"2024-12-04T14:42:52Z"}
 {"id":"8311494280","timestamp":"2024-10-07T17:43:41.064081738Z","domain":"catalogue-app-staging.csps-efpc.gc.ca","issuer":"Entrust","from":"2024-10-02T12:58:52Z","to":"2025-11-02T12:58:51Z"}
 {"id":"8437294915","timestamp":"2024-10-18T14:43:45.537853492Z","domain":"fts-stf.csps-efpc.gc.ca","issuer":"Let's Encrypt","from":"2024-10-18T13:01:23Z","to":"2025-01-16T13:01:22Z"}
+{"id":"8438467543","timestamp":"2024-10-18T17:43:28.564851638Z","domain":"legacy.csps-efpc.gc.ca","issuer":"Entrust","from":"2024-10-18T17:16:18Z","to":"2025-11-18T17:16:17Z"}
+{"id":"8438467543","timestamp":"2024-10-18T17:43:28.564851909Z","domain":"www.legacy.csps-efpc.gc.ca","issuer":"Entrust","from":"2024-10-18T17:16:18Z","to":"2025-11-18T17:16:17Z"}
+{"id":"8438501314","timestamp":"2024-10-18T17:43:28.564852169Z","domain":"legacy-dev.csps-efpc.gc.ca","issuer":"Entrust","from":"2024-10-18T17:23:34Z","to":"2025-11-18T17:23:33Z"}
+{"id":"8438501314","timestamp":"2024-10-18T17:43:28.56485237Z","domain":"www.legacy-dev.csps-efpc.gc.ca","issuer":"Entrust","from":"2024-10-18T17:23:34Z","to":"2025-11-18T17:23:33Z"}
