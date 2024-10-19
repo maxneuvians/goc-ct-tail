@@ -15,7 +15,6 @@ jobs:
       matrix:
         domain: [
           'cannor.gc.ca',
-          'fcc-fac.ca',
           'gg.ca',
           'grainscanada.gc.ca',
           'hc-sc.gc.ca',
