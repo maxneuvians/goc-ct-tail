@@ -440,3 +440,5 @@
 {"id":"8380684217","timestamp":"2024-10-11T14:26:27.527211801Z","domain":"wla.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-10-11T13:06:55Z","to":"2025-01-09T13:06:54Z"}
 {"id":"8380684217","timestamp":"2024-10-11T14:26:27.527212432Z","domain":"wla.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-10-11T13:06:55Z","to":"2025-01-09T13:06:54Z"}
 {"id":"8402426863","timestamp":"2024-10-14T16:28:33.147530168Z","domain":"policy-reporter.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-10-14T11:39:48Z","to":"2025-01-12T11:39:47Z"}
+{"id":"8443379107","timestamp":"2024-10-19T08:27:53.467686195Z","domain":"falco-ui.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-10-19T05:17:19Z","to":"2025-01-17T05:17:18Z"}
+{"id":"8443423049","timestamp":"2024-10-19T08:27:53.467686716Z","domain":"prometheus.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-10-19T05:23:55Z","to":"2025-01-17T05:23:54Z"}
