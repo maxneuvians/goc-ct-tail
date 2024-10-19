@@ -4692,3 +4692,8 @@
 {"id":"8439826855","timestamp":"2024-10-18T21:15:31.751857154Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-18T20:08:19Z","to":"2025-01-16T20:08:18Z"}
 {"id":"8439826855","timestamp":"2024-10-18T21:15:31.751857345Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-18T20:08:19Z","to":"2025-01-16T20:08:18Z"}
 {"id":"8439826855","timestamp":"2024-10-18T21:15:31.751857435Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-18T20:08:19Z","to":"2025-01-16T20:08:18Z"}
+{"id":"8442371528","timestamp":"2024-10-19T05:15:08.700127021Z","domain":"*.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-19T04:04:16Z","to":"2025-01-17T04:04:15Z"}
+{"id":"8442371528","timestamp":"2024-10-19T05:15:08.700127532Z","domain":"gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-19T04:04:16Z","to":"2025-01-17T04:04:15Z"}
+{"id":"8442371528","timestamp":"2024-10-19T05:15:08.700127853Z","domain":"*.p5.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-19T04:04:16Z","to":"2025-01-17T04:04:15Z"}
+{"id":"8442371528","timestamp":"2024-10-19T05:15:08.700128103Z","domain":"*.pprd.p5.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-19T04:04:16Z","to":"2025-01-17T04:04:15Z"}
+{"id":"8442371528","timestamp":"2024-10-19T05:15:08.700128224Z","domain":"*.prod.p5.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-19T04:04:16Z","to":"2025-01-17T04:04:15Z"}
