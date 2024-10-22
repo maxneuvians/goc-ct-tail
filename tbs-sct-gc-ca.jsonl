@@ -255,3 +255,8 @@
 {"id":"8429541798","timestamp":"2024-10-17T15:35:35.42381883Z","domain":"v3-pbi-pcis-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-17T00:00:00Z","to":"2025-04-17T23:59:59Z"}
 {"id":"8468947199","timestamp":"2024-10-22T15:34:51.800455184Z","domain":"dev2.atip-aiprp.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-10-22T14:53:44Z","to":"2025-11-22T14:53:43Z"}
 {"id":"8468947199","timestamp":"2024-10-22T15:34:51.800455514Z","domain":"qa2.atip-aiprp.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-10-22T14:53:44Z","to":"2025-11-22T14:53:43Z"}
+{"id":"8469740770","timestamp":"2024-10-22T17:34:21.696389294Z","domain":"tapx-claimsigner.dev.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-10-22T17:06:50Z","to":"2025-11-22T17:06:49Z"}
+{"id":"8469740770","timestamp":"2024-10-22T17:34:21.696389785Z","domain":"tapx-claimsigner.qa.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-10-22T17:06:50Z","to":"2025-11-22T17:06:49Z"}
+{"id":"8469740770","timestamp":"2024-10-22T17:34:21.696390096Z","domain":"www.tapx-claimsigner.dev.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-10-22T17:06:50Z","to":"2025-11-22T17:06:49Z"}
+{"id":"8469765982","timestamp":"2024-10-22T17:34:21.696390386Z","domain":"tapx-tiv.dev.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-10-22T17:11:33Z","to":"2025-11-22T17:11:32Z"}
+{"id":"8469765982","timestamp":"2024-10-22T17:34:21.696390496Z","domain":"tapx-tiv.qa.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-10-22T17:11:33Z","to":"2025-11-22T17:11:32Z"}
