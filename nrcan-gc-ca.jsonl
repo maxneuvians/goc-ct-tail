@@ -4360,3 +4360,7 @@
 {"id":"8465345643","timestamp":"2024-10-22T05:15:28.699060771Z","domain":"www.buildings.nrcan.gc.ca","issuer":"Sectigo","from":"2024-10-22T00:00:00Z","to":"2025-01-20T23:59:59Z"}
 {"id":"8465345643","timestamp":"2024-10-22T05:15:28.699060882Z","domain":"www.buildings.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-10-22T00:00:00Z","to":"2025-01-20T23:59:59Z"}
 {"id":"8465345643","timestamp":"2024-10-22T05:15:28.699060972Z","domain":"www.buildings.rncan.gc.ca","issuer":"Sectigo","from":"2024-10-22T00:00:00Z","to":"2025-01-20T23:59:59Z"}
+{"id":"8468351950","timestamp":"2024-10-22T13:17:30.313630191Z","domain":"chis.nrcan.gc.ca","issuer":"Entrust","from":"2024-10-22T13:05:47Z","to":"2025-11-22T13:05:46Z"}
+{"id":"8468351950","timestamp":"2024-10-22T13:17:30.313630752Z","domain":"origin1.chis.nrcan.gc.ca","issuer":"Entrust","from":"2024-10-22T13:05:47Z","to":"2025-11-22T13:05:46Z"}
+{"id":"8468351950","timestamp":"2024-10-22T13:17:30.313631073Z","domain":"origin2.chis.nrcan.gc.ca","issuer":"Entrust","from":"2024-10-22T13:05:47Z","to":"2025-11-22T13:05:46Z"}
+{"id":"8468351950","timestamp":"2024-10-22T13:17:30.313631323Z","domain":"scir.rncan.gc.ca","issuer":"Entrust","from":"2024-10-22T13:05:47Z","to":"2025-11-22T13:05:46Z"}
