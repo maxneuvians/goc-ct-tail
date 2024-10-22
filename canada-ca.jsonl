@@ -4710,3 +4710,7 @@
 {"id":"8461814428","timestamp":"2024-10-21T18:16:31.485900559Z","domain":"fertiscan.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-21T17:13:30Z","to":"2025-01-19T17:13:29Z"}
 {"id":"8461817332","timestamp":"2024-10-21T19:14:46.304987362Z","domain":"irb-cisr.canada.ca","issuer":"Entrust","from":"2024-10-21T18:13:27Z","to":"2025-11-21T18:13:26Z"}
 {"id":"8461817332","timestamp":"2024-10-21T19:14:46.304987763Z","domain":"www.irb-cisr.canada.ca","issuer":"Entrust","from":"2024-10-21T18:13:27Z","to":"2025-11-21T18:13:26Z"}
+{"id":"8466298037","timestamp":"2024-10-22T08:16:25.028039789Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-22T06:25:27Z","to":"2025-01-20T06:25:26Z"}
+{"id":"8466298037","timestamp":"2024-10-22T08:16:25.0280403Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-22T06:25:27Z","to":"2025-01-20T06:25:26Z"}
+{"id":"8466355516","timestamp":"2024-10-22T08:16:25.028040671Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-22T06:24:52Z","to":"2025-01-20T06:24:51Z"}
+{"id":"8466355516","timestamp":"2024-10-22T08:16:25.028041051Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-22T06:24:52Z","to":"2025-01-20T06:24:51Z"}
