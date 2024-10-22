@@ -4716,3 +4716,5 @@
 {"id":"8466355516","timestamp":"2024-10-22T08:16:25.028041051Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-22T06:24:52Z","to":"2025-01-20T06:24:51Z"}
 {"id":"8467650776","timestamp":"2024-10-22T12:17:12.652668976Z","domain":"qbms-sgbq.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-10-22T11:08:35Z","to":"2025-11-19T11:08:34Z"}
 {"id":"8467737000","timestamp":"2024-10-22T12:17:12.652669377Z","domain":"io-stage.canada.ca","issuer":"Entrust","from":"2024-10-22T11:22:47Z","to":"2025-11-22T11:22:46Z"}
+{"id":"8468615619","timestamp":"2024-10-22T14:15:34.750615361Z","domain":"testcert.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-10-22T00:00:00Z","to":"2025-11-20T23:59:59Z"}
+{"id":"8468680819","timestamp":"2024-10-22T14:15:34.750615712Z","domain":"msca-ng-web-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-10-22T12:39:46Z","to":"2025-01-20T12:39:45Z"}
