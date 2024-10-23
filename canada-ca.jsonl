@@ -4732,3 +4732,6 @@
 {"id":"8474150886","timestamp":"2024-10-23T07:15:59.762403004Z","domain":"api.aro.aro-dev.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-23T05:41:28Z","to":"2025-01-21T05:41:27Z"}
 {"id":"8474150886","timestamp":"2024-10-23T07:15:59.762403515Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-23T05:41:28Z","to":"2025-01-21T05:41:27Z"}
 {"id":"8474150886","timestamp":"2024-10-23T07:15:59.762403826Z","domain":"*.apps.aro.aro-dev.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-10-23T05:41:28Z","to":"2025-01-21T05:41:27Z"}
+{"id":"8475997684","timestamp":"2024-10-23T12:17:08.450666237Z","domain":"census.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-23T10:52:05Z","to":"2025-01-21T10:52:04Z"}
+{"id":"8475997684","timestamp":"2024-10-23T12:17:08.450666587Z","domain":"census-cws.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2024-10-23T10:52:05Z","to":"2025-01-21T10:52:04Z"}
+{"id":"8475997684","timestamp":"2024-10-23T12:17:08.450666828Z","domain":"recensement.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-23T10:52:05Z","to":"2025-01-21T10:52:04Z"}
