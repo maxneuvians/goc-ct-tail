@@ -446,3 +446,7 @@
 {"id":"8463408723","timestamp":"2024-10-21T23:25:12.838794476Z","domain":"neptune.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-10-21T22:02:38Z","to":"2025-01-19T22:02:37Z"}
 {"id":"8471173083","timestamp":"2024-10-22T22:26:40.960409484Z","domain":"prediction.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-10-22T20:42:13Z","to":"2025-01-20T20:42:12Z"}
 {"id":"8471212258","timestamp":"2024-10-22T22:26:40.960410035Z","domain":"neptune.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-10-22T20:47:09Z","to":"2025-01-20T20:47:08Z"}
+{"id":"8479109932","timestamp":"2024-10-23T21:24:37.724461961Z","domain":"tanium-core.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-10-23T20:01:45Z","to":"2025-01-21T20:01:44Z"}
+{"id":"8479109932","timestamp":"2024-10-23T21:24:37.724462602Z","domain":"tanium-module.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-10-23T20:01:45Z","to":"2025-01-21T20:01:44Z"}
+{"id":"8479109932","timestamp":"2024-10-23T21:24:37.724462822Z","domain":"tanium-syslog.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-10-23T20:01:45Z","to":"2025-01-21T20:01:44Z"}
+{"id":"8479109932","timestamp":"2024-10-23T21:24:37.724463023Z","domain":"tanium-zone.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-10-23T20:01:45Z","to":"2025-01-21T20:01:44Z"}
