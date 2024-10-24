@@ -32,13 +32,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 4731,
+      "totalCertificates": 4743,
       "totalsByIssuer": {
-        "Entrust": 2500,
+        "Entrust": 2502,
         "Amazon Trust Services": 523,
-        "DigiCert": 243,
+        "DigiCert": 245,
         "GoDaddy": 6,
-        "Let's Encrypt": 1250,
+        "Let's Encrypt": 1258,
         "Google Trust Services": 48,
         "Sectigo": 161
       },
@@ -84,9 +84,9 @@
     {
       "inputFile": "cds-snc-ca.jsonl",
       "outputFile": "stats/cds-snc-ca-stats.json",
-      "totalCertificates": 17,
+      "totalCertificates": 18,
       "totalsByIssuer": {
-        "Amazon Trust Services": 3,
+        "Amazon Trust Services": 4,
         "Let's Encrypt": 14
       },
       "errorCount": 0
@@ -94,18 +94,18 @@
     {
       "inputFile": "cdssandbox-xyz.jsonl",
       "outputFile": "stats/cdssandbox-xyz-stats.json",
-      "totalCertificates": 445,
+      "totalCertificates": 456,
       "totalsByIssuer": {
-        "Amazon Trust Services": 445
+        "Amazon Trust Services": 456
       },
       "errorCount": 0
     },
     {
       "inputFile": "cer-rec-gc-ca.jsonl",
       "outputFile": "stats/cer-rec-gc-ca-stats.json",
-      "totalCertificates": 110,
+      "totalCertificates": 115,
       "totalsByIssuer": {
-        "Entrust": 110
+        "Entrust": 115
       },
       "errorCount": 0
     },
@@ -122,9 +122,9 @@
     {
       "inputFile": "cmhc-schl-gc-ca.jsonl",
       "outputFile": "stats/cmhc-schl-gc-ca-stats.json",
-      "totalCertificates": 280,
+      "totalCertificates": 281,
       "totalsByIssuer": {
-        "DigiCert": 266,
+        "DigiCert": 267,
         "Entrust": 4,
         "Sectigo": 4,
         "Let's Encrypt": 2,
@@ -163,11 +163,11 @@
     {
       "inputFile": "csps-efpc-gc-ca.jsonl",
       "outputFile": "stats/csps-efpc-gc-ca-stats.json",
-      "totalCertificates": 192,
+      "totalCertificates": 193,
       "totalsByIssuer": {
         "Entrust": 92,
         "Amazon Trust Services": 5,
-        "DigiCert": 92,
+        "DigiCert": 93,
         "Let's Encrypt": 3
       },
       "errorCount": 0
@@ -185,11 +185,11 @@
     {
       "inputFile": "dfo-mpo-gc-ca.jsonl",
       "outputFile": "stats/dfo-mpo-gc-ca-stats.json",
-      "totalCertificates": 448,
+      "totalCertificates": 452,
       "totalsByIssuer": {
         "Entrust": 330,
         "DigiCert": 20,
-        "Let's Encrypt": 98
+        "Let's Encrypt": 102
       },
       "errorCount": 0
     },
@@ -205,10 +205,10 @@
     {
       "inputFile": "forces-gc-ca.jsonl",
       "outputFile": "stats/forces-gc-ca-stats.json",
-      "totalCertificates": 649,
+      "totalCertificates": 650,
       "totalsByIssuer": {
         "Amazon Trust Services": 161,
-        "Entrust": 236,
+        "Entrust": 237,
         "DigiCert": 18,
         "SSL.com": 1,
         "Let's Encrypt": 227,
@@ -517,10 +517,10 @@
     {
       "inputFile": "statcan-gc-ca.jsonl",
       "outputFile": "stats/statcan-gc-ca-stats.json",
-      "totalCertificates": 355,
+      "totalCertificates": 381,
       "totalsByIssuer": {
-        "Entrust": 316,
-        "Let's Encrypt": 39
+        "Entrust": 341,
+        "Let's Encrypt": 40
       },
       "errorCount": 0
     },
@@ -567,12 +567,12 @@
     {
       "inputFile": "veterans-gc-ca.jsonl",
       "outputFile": "stats/veterans-gc-ca-stats.json",
-      "totalCertificates": 168,
+      "totalCertificates": 172,
       "totalsByIssuer": {
         "Amazon Trust Services": 10,
         "Entrust": 22,
         "GoDaddy": 1,
-        "Let's Encrypt": 135
+        "Let's Encrypt": 139
       },
       "errorCount": 0
     },
@@ -587,10 +587,10 @@
     }
   ],
   "grandTotalByIssuer": {
-    "Entrust": 11074,
-    "Amazon Trust Services": 1188,
-    "Let's Encrypt": 3743,
-    "DigiCert": 798,
+    "Entrust": 11107,
+    "Amazon Trust Services": 1200,
+    "Let's Encrypt": 3760,
+    "DigiCert": 802,
     "GoDaddy": 42,
     "Google Trust Services": 100,
     "Sectigo": 2612,
