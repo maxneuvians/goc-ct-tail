@@ -4753,3 +4753,7 @@
 {"id":"8489412447","timestamp":"2024-10-25T05:15:40.828942798Z","domain":"itsm.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-25T03:31:36Z","to":"2025-01-23T03:31:35Z"}
 {"id":"8490388923","timestamp":"2024-10-25T08:16:18.573345571Z","domain":"micro-acquisition.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-25T06:29:50Z","to":"2025-01-23T06:29:49Z"}
 {"id":"8490595652","timestamp":"2024-10-25T08:16:18.573345882Z","domain":"vmo.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-10-25T00:00:00Z","to":"2025-04-25T23:59:59Z"}
+{"id":"8492280438","timestamp":"2024-10-25T13:17:15.840525759Z","domain":"tc2-dev.gcfm.canada.ca","issuer":"Entrust","from":"2024-10-25T13:01:10Z","to":"2025-11-25T13:01:09Z"}
+{"id":"8492280438","timestamp":"2024-10-25T13:17:15.84052617Z","domain":"th2-dev.gcfm.canada.ca","issuer":"Entrust","from":"2024-10-25T13:01:10Z","to":"2025-11-25T13:01:09Z"}
+{"id":"8492354515","timestamp":"2024-10-25T13:17:15.84052642Z","domain":"collab.fin.canada.ca","issuer":"Entrust","from":"2024-10-25T13:13:18Z","to":"2025-11-25T13:13:17Z"}
+{"id":"8492354515","timestamp":"2024-10-25T13:17:15.840526641Z","domain":"www.collab.fin.canada.ca","issuer":"Entrust","from":"2024-10-25T13:13:18Z","to":"2025-11-25T13:13:17Z"}
