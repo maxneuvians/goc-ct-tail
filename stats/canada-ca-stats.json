@@ -1364,7 +1364,9 @@
       "Entrust": 2
     },
     "2024-10-24": {
-      "DigiCert": 1
+      "DigiCert": 1,
+      "Let's Encrypt": 6,
+      "Entrust": 2
     }
   },
   "errors": []
