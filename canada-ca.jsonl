@@ -4757,3 +4757,14 @@
 {"id":"8492280438","timestamp":"2024-10-25T13:17:15.84052617Z","domain":"th2-dev.gcfm.canada.ca","issuer":"Entrust","from":"2024-10-25T13:01:10Z","to":"2025-11-25T13:01:09Z"}
 {"id":"8492354515","timestamp":"2024-10-25T13:17:15.84052642Z","domain":"collab.fin.canada.ca","issuer":"Entrust","from":"2024-10-25T13:13:18Z","to":"2025-11-25T13:13:17Z"}
 {"id":"8492354515","timestamp":"2024-10-25T13:17:15.840526641Z","domain":"www.collab.fin.canada.ca","issuer":"Entrust","from":"2024-10-25T13:13:18Z","to":"2025-11-25T13:13:17Z"}
+{"id":"8492604675","timestamp":"2024-10-25T18:16:19.511276153Z","domain":"www.cto-dev-test1.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-10-25T00:00:00Z","to":"2025-04-25T23:59:59Z"}
+{"id":"8492616457","timestamp":"2024-10-25T18:16:19.511276594Z","domain":"*.sig-sige.dev.ised-isde.canada.ca","issuer":"Entrust","from":"2024-10-25T16:12:07Z","to":"2025-11-25T16:12:06Z"}
+{"id":"8492616457","timestamp":"2024-10-25T18:16:19.511276834Z","domain":"sig-sige.dev.ised-isde.canada.ca","issuer":"Entrust","from":"2024-10-25T16:12:07Z","to":"2025-11-25T16:12:06Z"}
+{"id":"8492721213","timestamp":"2024-10-25T18:16:19.511277175Z","domain":"andjeutcha-webtop.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-25T13:08:37Z","to":"2025-01-23T13:08:36Z"}
+{"id":"8492753846","timestamp":"2024-10-25T18:16:19.511277305Z","domain":"spevraire-webtop.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-25T13:14:23Z","to":"2025-01-23T13:14:22Z"}
+{"id":"8492754660","timestamp":"2024-10-25T18:16:19.511278167Z","domain":"jtalbi-webtop.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-25T13:14:31Z","to":"2025-01-23T13:14:30Z"}
+{"id":"8492785712","timestamp":"2024-10-25T18:16:19.511278277Z","domain":"andjeutcha-webtop.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-25T13:13:54Z","to":"2025-01-23T13:13:53Z"}
+{"id":"8492789340","timestamp":"2024-10-25T18:16:19.511278407Z","domain":"jbarbier-webtop.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-25T13:14:21Z","to":"2025-01-23T13:14:20Z"}
+{"id":"8492789371","timestamp":"2024-10-25T18:16:19.511278508Z","domain":"gallagbe-webtop.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-25T13:14:22Z","to":"2025-01-23T13:14:21Z"}
+{"id":"8492789599","timestamp":"2024-10-25T18:16:19.511279369Z","domain":"wlemire-webtop.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-25T13:14:23Z","to":"2025-01-23T13:14:22Z"}
+{"id":"8492792904","timestamp":"2024-10-25T18:16:19.511279459Z","domain":"tcardin-webtop.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-10-25T13:14:52Z","to":"2025-01-23T13:14:51Z"}
