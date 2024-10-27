@@ -4820,3 +4820,9 @@
 {"id":"8493885373","timestamp":"2024-10-25T20:15:40.410722301Z","domain":"*.www.red-seal.ca","issuer":"Let's Encrypt","from":"2024-10-25T16:30:48Z","to":"2025-01-23T16:30:47Z"}
 {"id":"8493885373","timestamp":"2024-10-25T20:15:40.410722381Z","domain":"*.www.sceau-rouge.ca","issuer":"Let's Encrypt","from":"2024-10-25T16:30:48Z","to":"2025-01-23T16:30:47Z"}
 {"id":"8493885373","timestamp":"2024-10-25T20:15:40.410722461Z","domain":"*.www.tableauellis.ca","issuer":"Let's Encrypt","from":"2024-10-25T16:30:48Z","to":"2025-01-23T16:30:47Z"}
+{"id":"8503641447","timestamp":"2024-10-27T00:36:22.467359581Z","domain":"nvmip-sap-app-prod.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-10-27T00:00:00Z","to":"2025-11-25T23:59:59Z"}
+{"id":"8503641511","timestamp":"2024-10-27T00:36:22.467359871Z","domain":"nvmip-sap-poads-dev.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-10-27T00:00:00Z","to":"2025-11-25T23:59:59Z"}
+{"id":"8503641988","timestamp":"2024-10-27T00:36:22.467360112Z","domain":"nvmip-sap-poads-qa.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-10-27T00:00:00Z","to":"2025-11-25T23:59:59Z"}
+{"id":"8503642199","timestamp":"2024-10-27T00:36:22.467360332Z","domain":"nvmip-sap-app-qa.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-10-27T00:00:00Z","to":"2025-11-25T23:59:59Z"}
+{"id":"8503642737","timestamp":"2024-10-27T00:36:22.467360442Z","domain":"nvmip-sap-app-dev.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-10-27T00:00:00Z","to":"2025-11-25T23:59:59Z"}
+{"id":"8503643051","timestamp":"2024-10-27T00:36:22.467360923Z","domain":"nvmip-sap-poads-prod.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-10-27T00:00:00Z","to":"2025-11-25T23:59:59Z"}
