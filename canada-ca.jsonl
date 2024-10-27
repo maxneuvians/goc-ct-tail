@@ -4826,3 +4826,5 @@
 {"id":"8503642199","timestamp":"2024-10-27T00:36:22.467360332Z","domain":"nvmip-sap-app-qa.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-10-27T00:00:00Z","to":"2025-11-25T23:59:59Z"}
 {"id":"8503642737","timestamp":"2024-10-27T00:36:22.467360442Z","domain":"nvmip-sap-app-dev.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-10-27T00:00:00Z","to":"2025-11-25T23:59:59Z"}
 {"id":"8503643051","timestamp":"2024-10-27T00:36:22.467360923Z","domain":"nvmip-sap-poads-prod.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-10-27T00:00:00Z","to":"2025-11-25T23:59:59Z"}
+{"id":"8505516284","timestamp":"2024-10-27T06:16:34.28686768Z","domain":"*.uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-27T03:31:35Z","to":"2025-01-25T03:31:34Z"}
+{"id":"8505516284","timestamp":"2024-10-27T06:16:34.28686793Z","domain":"uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-27T03:31:35Z","to":"2025-01-25T03:31:34Z"}
