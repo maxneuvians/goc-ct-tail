@@ -1374,7 +1374,12 @@
       "Entrust": 6
     },
     "2024-10-27": {
-      "Amazon Trust Services": 6
+      "Amazon Trust Services": 6,
+      "Let's Encrypt": 2,
+      "DigiCert": 1
+    },
+    "2024-10-28": {
+      "DigiCert": 1
     }
   },
   "errors": []
