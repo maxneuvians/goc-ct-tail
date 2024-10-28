@@ -261,3 +261,5 @@
 {"id":"8469765982","timestamp":"2024-10-22T17:34:21.696390386Z","domain":"tapx-tiv.dev.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-10-22T17:11:33Z","to":"2025-11-22T17:11:32Z"}
 {"id":"8469765982","timestamp":"2024-10-22T17:34:21.696390496Z","domain":"tapx-tiv.qa.tbs-sct.gc.ca","issuer":"Entrust","from":"2024-10-22T17:11:33Z","to":"2025-11-22T17:11:32Z"}
 {"id":"8512765107","timestamp":"2024-10-28T04:37:10.473679742Z","domain":"burolis-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-28T00:00:00Z","to":"2025-04-28T23:59:59Z"}
+{"id":"8514287032","timestamp":"2024-10-28T08:37:47.28991719Z","domain":"burolis-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-28T00:00:00Z","to":"2025-04-28T23:59:59Z"}
+{"id":"8514449650","timestamp":"2024-10-28T08:37:47.28991753Z","domain":"burolis-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-10-28T00:00:00Z","to":"2025-04-28T23:59:59Z"}
