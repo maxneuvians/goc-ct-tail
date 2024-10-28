@@ -4879,3 +4879,6 @@
 {"id":"8516465980","timestamp":"2024-10-28T14:15:26.798607159Z","domain":"*.www.red-seal.ca","issuer":"Let's Encrypt","from":"2024-10-28T12:47:24Z","to":"2025-01-26T12:47:23Z"}
 {"id":"8516465980","timestamp":"2024-10-28T14:15:26.798607229Z","domain":"*.www.sceau-rouge.ca","issuer":"Let's Encrypt","from":"2024-10-28T12:47:24Z","to":"2025-01-26T12:47:23Z"}
 {"id":"8516465980","timestamp":"2024-10-28T14:15:26.798607299Z","domain":"*.www.tableauellis.ca","issuer":"Let's Encrypt","from":"2024-10-28T12:47:24Z","to":"2025-01-26T12:47:23Z"}
+{"id":"8516685231","timestamp":"2024-10-28T15:15:47.609022109Z","domain":"aegis.canada.ca","issuer":"Entrust","from":"2024-10-28T14:25:04Z","to":"2025-11-28T14:25:03Z"}
+{"id":"8516713764","timestamp":"2024-10-28T15:15:47.60902248Z","domain":"aegis-dev.canada.ca","issuer":"Entrust","from":"2024-10-28T14:27:54Z","to":"2025-11-28T14:27:53Z"}
+{"id":"8516740628","timestamp":"2024-10-28T15:15:47.60902271Z","domain":"aegis-acc.canada.ca","issuer":"Entrust","from":"2024-10-28T14:31:24Z","to":"2025-11-28T14:31:23Z"}
