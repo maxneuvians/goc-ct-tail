@@ -1379,7 +1379,10 @@
       "DigiCert": 1
     },
     "2024-10-28": {
-      "DigiCert": 1
+      "DigiCert": 4,
+      "Let's Encrypt": 48,
+      "Entrust": 3,
+      "Google Trust Services": 1
     }
   },
   "errors": []
