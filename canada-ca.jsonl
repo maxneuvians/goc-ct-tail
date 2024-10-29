@@ -4891,3 +4891,13 @@
 {"id":"8523148649","timestamp":"2024-10-29T08:16:19.593505632Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-10-29T06:30:01Z","to":"2025-01-27T06:30:00Z"}
 {"id":"8524903356","timestamp":"2024-10-29T12:17:11.087077893Z","domain":"www.cto-dev-mmahdavian.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-10-29T00:00:00Z","to":"2025-04-29T23:59:59Z"}
 {"id":"8525131736","timestamp":"2024-10-29T12:17:11.087078233Z","domain":"www.cto-dev-mmahdavian.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-10-29T00:00:00Z","to":"2025-04-29T23:59:59Z"}
+{"id":"8526242456","timestamp":"2024-10-29T15:15:47.56706156Z","domain":"pre0-ccapi-ipacc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-10-29T14:50:05Z","to":"2025-11-29T14:50:04Z"}
+{"id":"8526242456","timestamp":"2024-10-29T15:15:47.567061981Z","domain":"www.pre0-ccapi-ipacc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-10-29T14:50:05Z","to":"2025-11-29T14:50:04Z"}
+{"id":"8526271033","timestamp":"2024-10-29T15:15:47.567062321Z","domain":"pre1-ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-10-29T14:53:00Z","to":"2025-11-29T14:52:59Z"}
+{"id":"8526271033","timestamp":"2024-10-29T15:15:47.567062632Z","domain":"www.pre1-ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-10-29T14:53:00Z","to":"2025-11-29T14:52:59Z"}
+{"id":"8526306299","timestamp":"2024-10-29T15:15:47.567062752Z","domain":"pre2-ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-10-29T14:55:48Z","to":"2025-11-29T14:55:47Z"}
+{"id":"8526306299","timestamp":"2024-10-29T15:15:47.567063984Z","domain":"www.pre2-ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-10-29T14:55:48Z","to":"2025-11-29T14:55:47Z"}
+{"id":"8526309117","timestamp":"2024-10-29T15:15:47.567064105Z","domain":"pre0-ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-10-29T14:59:47Z","to":"2025-11-29T14:59:46Z"}
+{"id":"8526309117","timestamp":"2024-10-29T15:15:47.567064205Z","domain":"www.pre0-ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-10-29T14:59:47Z","to":"2025-11-29T14:59:46Z"}
+{"id":"8526338043","timestamp":"2024-10-29T15:15:47.567064295Z","domain":"pre4-ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-10-29T15:04:16Z","to":"2025-11-29T15:04:15Z"}
+{"id":"8526338043","timestamp":"2024-10-29T15:15:47.567065577Z","domain":"www.pre4-ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Entrust","from":"2024-10-29T15:04:16Z","to":"2025-11-29T15:04:15Z"}
