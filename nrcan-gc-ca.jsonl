@@ -4364,3 +4364,7 @@
 {"id":"8468351950","timestamp":"2024-10-22T13:17:30.313630752Z","domain":"origin1.chis.nrcan.gc.ca","issuer":"Entrust","from":"2024-10-22T13:05:47Z","to":"2025-11-22T13:05:46Z"}
 {"id":"8468351950","timestamp":"2024-10-22T13:17:30.313631073Z","domain":"origin2.chis.nrcan.gc.ca","issuer":"Entrust","from":"2024-10-22T13:05:47Z","to":"2025-11-22T13:05:46Z"}
 {"id":"8468351950","timestamp":"2024-10-22T13:17:30.313631323Z","domain":"scir.rncan.gc.ca","issuer":"Entrust","from":"2024-10-22T13:05:47Z","to":"2025-11-22T13:05:46Z"}
+{"id":"8532220925","timestamp":"2024-10-30T05:15:36.094561029Z","domain":"bootcamp.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-10-30T03:39:09Z","to":"2025-01-28T03:39:08Z"}
+{"id":"8532220925","timestamp":"2024-10-30T05:15:36.09456146Z","domain":"bootcamp.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-10-30T03:39:09Z","to":"2025-01-28T03:39:08Z"}
+{"id":"8532220925","timestamp":"2024-10-30T05:15:36.094561801Z","domain":"bootcamp.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-10-30T03:39:09Z","to":"2025-01-28T03:39:08Z"}
+{"id":"8532220925","timestamp":"2024-10-30T05:15:36.094562011Z","domain":"bootcamp.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-10-30T03:39:09Z","to":"2025-01-28T03:39:08Z"}
