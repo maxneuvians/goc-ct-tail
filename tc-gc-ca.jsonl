@@ -196,3 +196,7 @@
 {"id":"8492299882","timestamp":"2024-10-25T13:17:15.194062235Z","domain":"wwwapps.tc.gc.ca","issuer":"Entrust","from":"2024-10-25T13:01:54Z","to":"2025-11-25T13:01:52Z"}
 {"id":"8550534531","timestamp":"2024-11-01T09:15:43.752362433Z","domain":"*.tc.gc.ca","issuer":"Let's Encrypt","from":"2024-11-01T08:04:50Z","to":"2025-01-30T08:04:49Z"}
 {"id":"8550534531","timestamp":"2024-11-01T09:15:43.752362793Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2024-11-01T08:04:50Z","to":"2025-01-30T08:04:49Z"}
+{"id":"8553624623","timestamp":"2024-11-01T19:14:57.457302503Z","domain":"*.acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2024-11-01T08:02:40Z","to":"2025-01-30T08:02:39Z"}
+{"id":"8553624623","timestamp":"2024-11-01T19:14:57.457302953Z","domain":"acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2024-11-01T08:02:40Z","to":"2025-01-30T08:02:39Z"}
+{"id":"8553635631","timestamp":"2024-11-01T19:14:57.457303314Z","domain":"*.dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2024-11-01T08:03:50Z","to":"2025-01-30T08:03:49Z"}
+{"id":"8553635631","timestamp":"2024-11-01T19:14:57.457303585Z","domain":"dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2024-11-01T08:03:50Z","to":"2025-01-30T08:03:49Z"}
