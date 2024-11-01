@@ -301,3 +301,5 @@
 {"id":"8536686985","timestamp":"2024-10-30T16:47:17.931834908Z","domain":"sft-tfs-test.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2024-10-30T00:00:00Z","to":"2025-10-29T23:59:59Z"}
 {"id":"8536790973","timestamp":"2024-10-30T16:47:17.931835309Z","domain":"sft-tfs.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2024-10-30T00:00:00Z","to":"2025-10-29T23:59:59Z"}
 {"id":"8542529186","timestamp":"2024-10-31T08:45:20.814709325Z","domain":"mu-mli-lender-portal-test.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2024-10-31T00:00:00Z","to":"2025-04-30T23:59:59Z"}
+{"id":"8551275283","timestamp":"2024-11-01T11:43:34.080536235Z","domain":"*.cmhc-schl.gc.ca","issuer":"Google Trust Services","from":"2024-11-01T10:19:06Z","to":"2025-01-30T10:19:05Z"}
+{"id":"8551275283","timestamp":"2024-11-01T11:43:34.080536666Z","domain":"cmhc-schl.gc.ca","issuer":"Google Trust Services","from":"2024-11-01T10:19:06Z","to":"2025-01-30T10:19:05Z"}
