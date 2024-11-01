@@ -1390,7 +1390,11 @@
       "Entrust": 10
     },
     "2024-10-30": {
-      "Google Trust Services": 3
+      "Google Trust Services": 4,
+      "Let's Encrypt": 1
+    },
+    "2024-10-31": {
+      "Let's Encrypt": 11
     }
   },
   "errors": []
