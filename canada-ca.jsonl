@@ -4930,3 +4930,5 @@
 {"id":"8552508579","timestamp":"2024-11-01T15:16:02.633296625Z","domain":"fednor.canada.ca","issuer":"Entrust","from":"2024-11-01T15:12:05Z","to":"2025-12-01T15:12:04Z"}
 {"id":"8552508579","timestamp":"2024-11-01T15:16:02.633297065Z","domain":"www.fednor.canada.ca","issuer":"Entrust","from":"2024-11-01T15:12:05Z","to":"2025-12-01T15:12:04Z"}
 {"id":"8555674532","timestamp":"2024-11-02T01:43:53.819253571Z","domain":"nagios.privatecloud.experimentation.m.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-02T00:17:28Z","to":"2025-01-31T00:17:27Z"}
+{"id":"8564895130","timestamp":"2024-11-03T07:15:35.022639701Z","domain":"meteo-spatiale.canada.ca","issuer":"Sectigo","from":"2024-11-03T00:00:00Z","to":"2025-02-01T23:59:59Z"}
+{"id":"8564895130","timestamp":"2024-11-03T07:15:35.022640052Z","domain":"space-weather.canada.ca","issuer":"Sectigo","from":"2024-11-03T00:00:00Z","to":"2025-02-01T23:59:59Z"}
