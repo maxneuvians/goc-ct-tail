@@ -359,12 +359,12 @@
     {
       "inputFile": "nrcan-gc-ca.jsonl",
       "outputFile": "stats/nrcan-gc-ca-stats.json",
-      "totalCertificates": 4813,
+      "totalCertificates": 4842,
       "totalsByIssuer": {
         "Amazon Trust Services": 28,
         "Entrust": 460,
         "DigiCert": 20,
-        "Let's Encrypt": 1593,
+        "Let's Encrypt": 1622,
         "Sectigo": 2712
       },
       "errorCount": 0
@@ -598,7 +598,7 @@
   "grandTotalByIssuer": {
     "Entrust": 11236,
     "Amazon Trust Services": 1238,
-    "Let's Encrypt": 4096,
+    "Let's Encrypt": 4125,
     "DigiCert": 857,
     "GoDaddy": 42,
     "Google Trust Services": 119,
