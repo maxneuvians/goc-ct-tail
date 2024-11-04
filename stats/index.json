@@ -32,15 +32,15 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 4932,
+      "totalCertificates": 4938,
       "totalsByIssuer": {
         "Entrust": 2525,
-        "Amazon Trust Services": 529,
+        "Amazon Trust Services": 530,
         "DigiCert": 254,
         "GoDaddy": 6,
-        "Let's Encrypt": 1404,
-        "Google Trust Services": 53,
-        "Sectigo": 161
+        "Let's Encrypt": 1406,
+        "Google Trust Services": 54,
+        "Sectigo": 163
       },
       "errorCount": 0
     },
@@ -94,9 +94,9 @@
     {
       "inputFile": "cdssandbox-xyz.jsonl",
       "outputFile": "stats/cdssandbox-xyz-stats.json",
-      "totalCertificates": 488,
+      "totalCertificates": 501,
       "totalsByIssuer": {
-        "Amazon Trust Services": 488
+        "Amazon Trust Services": 501
       },
       "errorCount": 0
     },
@@ -205,9 +205,9 @@
     {
       "inputFile": "forces-gc-ca.jsonl",
       "outputFile": "stats/forces-gc-ca-stats.json",
-      "totalCertificates": 662,
+      "totalCertificates": 664,
       "totalsByIssuer": {
-        "Amazon Trust Services": 161,
+        "Amazon Trust Services": 163,
         "Entrust": 249,
         "DigiCert": 18,
         "SSL.com": 1,
@@ -359,13 +359,13 @@
     {
       "inputFile": "nrcan-gc-ca.jsonl",
       "outputFile": "stats/nrcan-gc-ca-stats.json",
-      "totalCertificates": 4842,
+      "totalCertificates": 5436,
       "totalsByIssuer": {
         "Amazon Trust Services": 28,
         "Entrust": 460,
         "DigiCert": 20,
-        "Let's Encrypt": 1622,
-        "Sectigo": 2712
+        "Let's Encrypt": 1672,
+        "Sectigo": 3256
       },
       "errorCount": 0
     },
@@ -597,12 +597,12 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11236,
-    "Amazon Trust Services": 1238,
-    "Let's Encrypt": 4125,
+    "Amazon Trust Services": 1254,
+    "Let's Encrypt": 4177,
     "DigiCert": 857,
     "GoDaddy": 42,
-    "Google Trust Services": 119,
-    "Sectigo": 2913,
+    "Google Trust Services": 120,
+    "Sectigo": 3459,
     "SSL.com": 1
   }
 }

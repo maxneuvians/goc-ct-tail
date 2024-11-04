@@ -1402,6 +1402,14 @@
     },
     "2024-11-02": {
       "Let's Encrypt": 1
+    },
+    "2024-11-03": {
+      "Sectigo": 2,
+      "Let's Encrypt": 2,
+      "Google Trust Services": 1
+    },
+    "2024-11-04": {
+      "Amazon Trust Services": 1
     }
   },
   "errors": []
