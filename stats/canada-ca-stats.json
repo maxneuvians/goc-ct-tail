@@ -1409,7 +1409,12 @@
       "Google Trust Services": 1
     },
     "2024-11-04": {
-      "Amazon Trust Services": 1
+      "Amazon Trust Services": 2,
+      "Let's Encrypt": 89
+    },
+    "2024-11-05": {
+      "DigiCert": 1,
+      "Let's Encrypt": 4
     }
   },
   "errors": []
