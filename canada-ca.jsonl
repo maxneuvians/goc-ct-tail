@@ -5300,3 +5300,7 @@
 {"id":"8600365499","timestamp":"2024-11-07T14:15:15.65775702Z","domain":"www.geotourcb.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-11-07T04:49:40Z","to":"2025-02-05T04:49:39Z"}
 {"id":"8600365499","timestamp":"2024-11-07T14:15:15.6577571Z","domain":"www.geotourcb.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-11-07T04:49:40Z","to":"2025-02-05T04:49:39Z"}
 {"id":"8601065261","timestamp":"2024-11-07T16:16:22.812500807Z","domain":"workload1.client1erhm.erhm.com-dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2024-11-07T14:20:19Z","to":"2025-02-05T15:12:52Z"}
+{"id":"8601707270","timestamp":"2024-11-07T17:14:54.66562378Z","domain":"ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-11-07T16:45:19Z","to":"2025-12-07T05:00:00Z"}
+{"id":"8601707270","timestamp":"2024-11-07T17:14:54.66562424Z","domain":"www.ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-11-07T16:45:19Z","to":"2025-12-07T05:00:00Z"}
+{"id":"8601739934","timestamp":"2024-11-07T17:14:54.665624541Z","domain":"ccapi-ipacc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-11-07T16:50:19Z","to":"2025-12-02T06:55:04Z"}
+{"id":"8601739934","timestamp":"2024-11-07T17:14:54.665624832Z","domain":"www.ccapi-ipacc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-11-07T16:50:19Z","to":"2025-12-02T06:55:04Z"}
