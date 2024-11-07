@@ -5308,3 +5308,31 @@
 {"id":"8602448088","timestamp":"2024-11-07T19:14:40.678920328Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T06:26:10Z","to":"2025-02-05T06:26:09Z"}
 {"id":"8602789663","timestamp":"2024-11-07T20:15:38.1786216Z","domain":"servicesweb-staging.cartes.canada.ca","issuer":"SSL.com","from":"2024-11-07T19:30:17Z","to":"2025-12-07T05:00:00Z"}
 {"id":"8602789663","timestamp":"2024-11-07T20:15:38.17862181Z","domain":"webservices-staging.maps.canada.ca","issuer":"SSL.com","from":"2024-11-07T19:30:17Z","to":"2025-12-07T05:00:00Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340751533Z","domain":"*.cms-sgc.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340751854Z","domain":"cms-sgc.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340752065Z","domain":"*.cms-sgc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340752245Z","domain":"cms-sgc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340752345Z","domain":"*.crt-orc.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340753587Z","domain":"crt-orc.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340753668Z","domain":"*.crt-orc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340753757Z","domain":"crt-orc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340753838Z","domain":"*.intranet.search-recherche.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340754779Z","domain":"intranet.search-recherche.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.34075487Z","domain":"*.iservice.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.34075495Z","domain":"iservice.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.34075503Z","domain":"*.iservice.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.34075512Z","domain":"iservice.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.3407552Z","domain":"*.ort-orl.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.34075528Z","domain":"ort-orl.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340755371Z","domain":"*.ort-orl.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340755451Z","domain":"ort-orl.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340756262Z","domain":"*.prort-orlrtc.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340756342Z","domain":"prort-orlrtc.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340756433Z","domain":"*.prort-orlrtc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340756513Z","domain":"prort-orlrtc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340756603Z","domain":"*.prv.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340756683Z","domain":"prv.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340756763Z","domain":"*.prv.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340756853Z","domain":"prv.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340756934Z","domain":"*.search-recherche.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
+{"id":"8603004281","timestamp":"2024-11-07T21:15:07.340757024Z","domain":"search-recherche.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-07T13:04:00Z","to":"2025-02-05T13:03:59Z"}
