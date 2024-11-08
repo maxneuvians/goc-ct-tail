@@ -1418,7 +1418,12 @@
     },
     "2024-11-06": {
       "DigiCert": 1,
-      "Let's Encrypt": 22
+      "Let's Encrypt": 24
+    },
+    "2024-11-07": {
+      "Let's Encrypt": 135,
+      "Google Trust Services": 1,
+      "SSL.com": 6
     }
   },
   "errors": []
