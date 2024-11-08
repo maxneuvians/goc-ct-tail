@@ -550,3 +550,6 @@
 {"id":"8527173213","timestamp":"2024-10-29T17:26:13.57135406Z","domain":"mapayegc-mygcpay-preprod.tpsgc-pwgsc.gc.ca","issuer":"Entrust","from":"2024-10-29T17:01:36Z","to":"2025-11-29T17:01:34Z"}
 {"id":"8601775149","timestamp":"2024-11-07T17:25:32.694473865Z","domain":"ibgcc-prjwrk2.tpsgc-pwgsc.gc.ca","issuer":"SSL.com","from":"2024-11-07T16:58:45Z","to":"2025-12-07T05:00:00Z"}
 {"id":"8601775149","timestamp":"2024-11-07T17:25:32.694474286Z","domain":"ib-prjwrk2.tpsgc-pwgsc.gc.ca","issuer":"SSL.com","from":"2024-11-07T16:58:45Z","to":"2025-12-07T05:00:00Z"}
+{"id":"8609264235","timestamp":"2024-11-08T14:26:14.310099747Z","domain":"ibgcc-reldev.tpsgc-pwgsc.gc.ca","issuer":"SSL.com","from":"2024-11-08T13:34:13Z","to":"2025-11-23T05:00:00Z"}
+{"id":"8609264235","timestamp":"2024-11-08T14:26:14.310100198Z","domain":"ib-reldev.tpsgc-pwgsc.gc.ca","issuer":"SSL.com","from":"2024-11-08T13:34:13Z","to":"2025-11-23T05:00:00Z"}
+{"id":"8609264235","timestamp":"2024-11-08T14:26:14.310100478Z","domain":"www.ib-reldev.tpsgc-pwgsc.gc.ca","issuer":"SSL.com","from":"2024-11-08T13:34:13Z","to":"2025-11-23T05:00:00Z"}
