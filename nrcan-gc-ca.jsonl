@@ -5580,3 +5580,11 @@
 {"id":"8615159214","timestamp":"2024-11-09T07:14:52.275719482Z","domain":"www.ecoflotte.gc.ca","issuer":"Sectigo","from":"2024-11-09T00:00:00Z","to":"2025-02-07T23:59:59Z"}
 {"id":"8615159214","timestamp":"2024-11-09T07:14:52.275719572Z","domain":"www.ecoflotte.nrcan.gc.ca","issuer":"Sectigo","from":"2024-11-09T00:00:00Z","to":"2025-02-07T23:59:59Z"}
 {"id":"8615159214","timestamp":"2024-11-09T07:14:52.275720294Z","domain":"www.ecoflotte.rncan.gc.ca","issuer":"Sectigo","from":"2024-11-09T00:00:00Z","to":"2025-02-07T23:59:59Z"}
+{"id":"8616193374","timestamp":"2024-11-09T10:15:10.691322399Z","domain":"lcre.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-11-09T05:25:51Z","to":"2025-02-07T05:25:50Z"}
+{"id":"8616193374","timestamp":"2024-11-09T10:15:10.691322739Z","domain":"lcre.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-11-09T05:25:51Z","to":"2025-02-07T05:25:50Z"}
+{"id":"8616193374","timestamp":"2024-11-09T10:15:10.691322929Z","domain":"lcre.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-11-09T05:25:51Z","to":"2025-02-07T05:25:50Z"}
+{"id":"8616193374","timestamp":"2024-11-09T10:15:10.69132313Z","domain":"lcre.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-11-09T05:25:51Z","to":"2025-02-07T05:25:50Z"}
+{"id":"8616193374","timestamp":"2024-11-09T10:15:10.69132323Z","domain":"www.lcre.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-11-09T05:25:51Z","to":"2025-02-07T05:25:50Z"}
+{"id":"8616193374","timestamp":"2024-11-09T10:15:10.691324092Z","domain":"www.lcre.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-11-09T05:25:51Z","to":"2025-02-07T05:25:50Z"}
+{"id":"8616193374","timestamp":"2024-11-09T10:15:10.691324182Z","domain":"www.lcre.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-11-09T05:25:51Z","to":"2025-02-07T05:25:50Z"}
+{"id":"8616193374","timestamp":"2024-11-09T10:15:10.691324262Z","domain":"www.lcre.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-11-09T05:25:51Z","to":"2025-02-07T05:25:50Z"}
