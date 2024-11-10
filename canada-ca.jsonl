@@ -5437,3 +5437,5 @@
 {"id":"8620739240","timestamp":"2024-11-10T00:33:39.302755294Z","domain":"nvmipiis-ihs-qa.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-10T00:00:00Z","to":"2025-12-09T23:59:59Z"}
 {"id":"8620739659","timestamp":"2024-11-10T00:33:39.302755384Z","domain":"nvmipiis-ace-dev.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-10T00:00:00Z","to":"2025-12-09T23:59:59Z"}
 {"id":"8620821635","timestamp":"2024-11-10T00:33:39.302755915Z","domain":"auth.acc.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-11-10T00:00:00Z","to":"2025-05-10T23:59:59Z"}
+{"id":"8622659196","timestamp":"2024-11-10T06:16:07.614672643Z","domain":"chis.canada.ca","issuer":"Let's Encrypt","from":"2024-11-10T05:08:37Z","to":"2025-02-08T05:08:36Z"}
+{"id":"8622659196","timestamp":"2024-11-10T06:16:07.614673073Z","domain":"scir.canada.ca","issuer":"Let's Encrypt","from":"2024-11-10T05:08:37Z","to":"2025-02-08T05:08:36Z"}
