@@ -5427,3 +5427,13 @@
 {"id":"8614761066","timestamp":"2024-11-09T06:16:05.307526606Z","domain":"dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-09T04:32:36Z","to":"2025-02-07T04:32:35Z"}
 {"id":"8618741813","timestamp":"2024-11-09T18:15:58.465751937Z","domain":"earthquakes.canada.ca","issuer":"Let's Encrypt","from":"2024-11-09T04:40:26Z","to":"2025-02-07T04:40:25Z"}
 {"id":"8618741813","timestamp":"2024-11-09T18:15:58.465752368Z","domain":"seismes.canada.ca","issuer":"Let's Encrypt","from":"2024-11-09T04:40:26Z","to":"2025-02-07T04:40:25Z"}
+{"id":"8620728120","timestamp":"2024-11-10T00:33:39.302753561Z","domain":"nvmipiis-ihs-dev.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-10T00:00:00Z","to":"2025-12-09T23:59:59Z"}
+{"id":"8620728270","timestamp":"2024-11-10T00:33:39.302753941Z","domain":"nvmip-drools-prod.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-10T00:00:00Z","to":"2025-12-09T23:59:59Z"}
+{"id":"8620728798","timestamp":"2024-11-10T00:33:39.302754152Z","domain":"nvmip-drools-qa.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-10T00:00:00Z","to":"2025-12-09T23:59:59Z"}
+{"id":"8620728847","timestamp":"2024-11-10T00:33:39.302754382Z","domain":"nvmip-drools-dev.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-10T00:00:00Z","to":"2025-12-09T23:59:59Z"}
+{"id":"8620729114","timestamp":"2024-11-10T00:33:39.302754482Z","domain":"nvmipiis-ihs-prod.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-10T00:00:00Z","to":"2025-12-09T23:59:59Z"}
+{"id":"8620729261","timestamp":"2024-11-10T00:33:39.302755083Z","domain":"nvmipiis-ace-qa.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-10T00:00:00Z","to":"2025-12-09T23:59:59Z"}
+{"id":"8620729621","timestamp":"2024-11-10T00:33:39.302755194Z","domain":"nvmipiis-ace-prod.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-10T00:00:00Z","to":"2025-12-09T23:59:59Z"}
+{"id":"8620739240","timestamp":"2024-11-10T00:33:39.302755294Z","domain":"nvmipiis-ihs-qa.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-10T00:00:00Z","to":"2025-12-09T23:59:59Z"}
+{"id":"8620739659","timestamp":"2024-11-10T00:33:39.302755384Z","domain":"nvmipiis-ace-dev.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-10T00:00:00Z","to":"2025-12-09T23:59:59Z"}
+{"id":"8620821635","timestamp":"2024-11-10T00:33:39.302755915Z","domain":"auth.acc.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-11-10T00:00:00Z","to":"2025-05-10T23:59:59Z"}
