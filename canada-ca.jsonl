@@ -5444,3 +5444,7 @@
 {"id":"8632202080","timestamp":"2024-11-11T12:17:07.622087452Z","domain":"anakwad.canadaeast.cloudapp.azure.com","issuer":"Let's Encrypt","from":"2024-11-11T10:27:40Z","to":"2025-02-09T10:27:39Z"}
 {"id":"8633404790","timestamp":"2024-11-11T15:15:31.449603848Z","domain":"myaw-monlta-prd-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2024-11-11T00:00:00Z","to":"2025-05-11T23:59:59Z"}
 {"id":"8637279295","timestamp":"2024-11-12T01:43:49.647936999Z","domain":"auth-prod.climate-change.canada.ca","issuer":"DigiCert","from":"2024-11-12T00:00:00Z","to":"2025-05-12T23:59:59Z"}
+{"id":"8639362348","timestamp":"2024-11-12T08:16:16.550638307Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-12T06:26:07Z","to":"2025-02-10T06:26:06Z"}
+{"id":"8639362348","timestamp":"2024-11-12T08:16:16.550638828Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-12T06:26:07Z","to":"2025-02-10T06:26:06Z"}
+{"id":"8639384957","timestamp":"2024-11-12T08:16:16.550639039Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-12T06:30:17Z","to":"2025-02-10T06:30:16Z"}
+{"id":"8639384957","timestamp":"2024-11-12T08:16:16.550639229Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-12T06:30:17Z","to":"2025-02-10T06:30:16Z"}
