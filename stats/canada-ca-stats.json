@@ -1436,6 +1436,13 @@
       "Amazon Trust Services": 9,
       "DigiCert": 1,
       "Let's Encrypt": 2
+    },
+    "2024-11-11": {
+      "Let's Encrypt": 3,
+      "DigiCert": 1
+    },
+    "2024-11-12": {
+      "DigiCert": 1
     }
   },
   "errors": []
