@@ -1442,7 +1442,13 @@
       "DigiCert": 1
     },
     "2024-11-12": {
-      "DigiCert": 1
+      "DigiCert": 3,
+      "Let's Encrypt": 4,
+      "SSL.com": 6,
+      "Sectigo": 1
+    },
+    "2024-11-13": {
+      "Amazon Trust Services": 3
     }
   },
   "errors": []
