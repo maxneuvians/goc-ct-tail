@@ -313,3 +313,9 @@
 {"id":"8642692723","timestamp":"2024-11-12T17:43:33.173854144Z","domain":"eddv1vmcdpinc01.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2024-11-12T00:00:00Z","to":"2025-11-12T23:59:59Z"}
 {"id":"8643976561","timestamp":"2024-11-12T21:43:38.845996139Z","domain":"eppd1vmcdptps01.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2024-11-12T00:00:00Z","to":"2025-11-12T23:59:59Z"}
 {"id":"8644024486","timestamp":"2024-11-12T21:43:38.845997061Z","domain":"eddv1vmcdptps01.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2024-11-12T00:00:00Z","to":"2025-11-12T23:59:59Z"}
+{"id":"8646116857","timestamp":"2024-11-13T03:44:47.249336653Z","domain":"gateway-passerelle.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2024-11-13T00:00:00Z","to":"2025-11-13T23:59:59Z"}
+{"id":"8646116857","timestamp":"2024-11-13T03:44:47.249336934Z","domain":"www.gateway-passerelle.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2024-11-13T00:00:00Z","to":"2025-11-13T23:59:59Z"}
+{"id":"8646168477","timestamp":"2024-11-13T03:44:47.249337165Z","domain":"gateway-passerelle.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2024-11-13T00:00:00Z","to":"2025-11-13T23:59:59Z"}
+{"id":"8646168477","timestamp":"2024-11-13T03:44:47.249337415Z","domain":"www.gateway-passerelle.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2024-11-13T00:00:00Z","to":"2025-11-13T23:59:59Z"}
+{"id":"8646199526","timestamp":"2024-11-13T03:44:47.249337525Z","domain":"gateway-internal-passerelle-interne.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2024-11-13T00:00:00Z","to":"2025-11-13T23:59:59Z"}
+{"id":"8646199526","timestamp":"2024-11-13T03:44:47.249338236Z","domain":"www.gateway-internal-passerelle-interne.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2024-11-13T00:00:00Z","to":"2025-11-13T23:59:59Z"}
