@@ -5458,3 +5458,5 @@
 {"id":"8644594526","timestamp":"2024-11-12T23:15:23.387394685Z","domain":"io-stage.canada.ca","issuer":"Sectigo","from":"2024-11-12T00:00:00Z","to":"2025-02-10T23:59:59Z"}
 {"id":"8644920154","timestamp":"2024-11-13T00:31:22.309473775Z","domain":"cv-parser.dev.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-11-12T00:00:00Z","to":"2025-05-12T23:59:59Z"}
 {"id":"8645103327","timestamp":"2024-11-13T00:31:22.309474055Z","domain":"winorg-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-13T00:00:00Z","to":"2025-12-13T23:59:59Z"}
+{"id":"8645627072","timestamp":"2024-11-13T02:32:09.134976619Z","domain":"*.design-system.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-13T00:00:00Z","to":"2025-12-13T23:59:59Z"}
+{"id":"8645627072","timestamp":"2024-11-13T02:32:09.13497743Z","domain":"design-system.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-13T00:00:00Z","to":"2025-12-13T23:59:59Z"}
