@@ -5470,3 +5470,7 @@
 {"id":"8649301492","timestamp":"2024-11-13T13:17:09.748110854Z","domain":"ouvert.canada.ca","issuer":"SSL.com","from":"2024-11-13T12:19:00Z","to":"2025-12-13T05:00:00Z"}
 {"id":"8649848902","timestamp":"2024-11-13T14:15:18.635701947Z","domain":"www.cto-dev-eslz.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-11-13T00:00:00Z","to":"2025-05-13T23:59:59Z"}
 {"id":"8649864789","timestamp":"2024-11-13T14:15:18.635702418Z","domain":"io-stage.canada.ca","issuer":"SSL.com","from":"2024-11-13T13:45:11Z","to":"2025-11-22T11:22:46Z"}
+{"id":"8655944840","timestamp":"2024-11-14T08:16:22.218240929Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-14T06:26:01Z","to":"2025-02-12T06:26:00Z"}
+{"id":"8655944840","timestamp":"2024-11-14T08:16:22.21824198Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-14T06:26:01Z","to":"2025-02-12T06:26:00Z"}
+{"id":"8655945644","timestamp":"2024-11-14T08:16:22.218242181Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-14T06:26:18Z","to":"2025-02-12T06:26:17Z"}
+{"id":"8655945644","timestamp":"2024-11-14T08:16:22.218242391Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-14T06:26:18Z","to":"2025-02-12T06:26:17Z"}
