@@ -585,3 +585,15 @@
 {"id":"8526034343","timestamp":"2024-10-29T15:05:07.879708158Z","domain":"hc-sc.gc.ca","issuer":"Entrust","from":"2024-10-29T14:19:12Z","to":"2025-11-29T14:19:11Z"}
 {"id":"8650688958","timestamp":"2024-11-13T17:04:42.736994405Z","domain":"*.preprod.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-11-13T16:02:42Z","to":"2025-12-13T05:00:00Z"}
 {"id":"8650688958","timestamp":"2024-11-13T17:04:42.736994846Z","domain":"preprod.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-11-13T16:02:42Z","to":"2025-12-13T05:00:00Z"}
+{"id":"8666637365","timestamp":"2024-11-15T14:05:09.947029965Z","domain":"chemicalsubstanceschimiques.gc.ca","issuer":"SSL.com","from":"2024-11-15T13:42:11Z","to":"2025-12-15T05:00:00Z"}
+{"id":"8666637365","timestamp":"2024-11-15T14:05:09.947030946Z","domain":"chemicalsubstances.gc.ca","issuer":"SSL.com","from":"2024-11-15T13:42:11Z","to":"2025-12-15T05:00:00Z"}
+{"id":"8666637365","timestamp":"2024-11-15T14:05:09.947031237Z","domain":"cost-illness.canada.ca","issuer":"SSL.com","from":"2024-11-15T13:42:11Z","to":"2025-12-15T05:00:00Z"}
+{"id":"8666637365","timestamp":"2024-11-15T14:05:09.947031527Z","domain":"cout-maladie.canada.ca","issuer":"SSL.com","from":"2024-11-15T13:42:11Z","to":"2025-12-15T05:00:00Z"}
+{"id":"8666637365","timestamp":"2024-11-15T14:05:09.947031638Z","domain":"ebic-femc.phac-aspc.gc.ca","issuer":"SSL.com","from":"2024-11-15T13:42:11Z","to":"2025-12-15T05:00:00Z"}
+{"id":"8666637365","timestamp":"2024-11-15T14:05:09.94703279Z","domain":"lap-dmz-p01.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-11-15T13:42:11Z","to":"2025-12-15T05:00:00Z"}
+{"id":"8666637365","timestamp":"2024-11-15T14:05:09.94703288Z","domain":"substanceschimiques.gc.ca","issuer":"SSL.com","from":"2024-11-15T13:42:11Z","to":"2025-12-15T05:00:00Z"}
+{"id":"8666637365","timestamp":"2024-11-15T14:05:09.94703298Z","domain":"www.chemicalsubstanceschimiques.gc.ca","issuer":"SSL.com","from":"2024-11-15T13:42:11Z","to":"2025-12-15T05:00:00Z"}
+{"id":"8666637365","timestamp":"2024-11-15T14:05:09.94703307Z","domain":"www.chemicalsubstances.gc.ca","issuer":"SSL.com","from":"2024-11-15T13:42:11Z","to":"2025-12-15T05:00:00Z"}
+{"id":"8666637365","timestamp":"2024-11-15T14:05:09.947033942Z","domain":"www.ebic-femc.phac-aspc.gc.ca","issuer":"SSL.com","from":"2024-11-15T13:42:11Z","to":"2025-12-15T05:00:00Z"}
+{"id":"8666637365","timestamp":"2024-11-15T14:05:09.947034032Z","domain":"www.lap-dmz-p01.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-11-15T13:42:11Z","to":"2025-12-15T05:00:00Z"}
+{"id":"8666637365","timestamp":"2024-11-15T14:05:09.947034123Z","domain":"www.substanceschimiques.gc.ca","issuer":"SSL.com","from":"2024-11-15T13:42:11Z","to":"2025-12-15T05:00:00Z"}
