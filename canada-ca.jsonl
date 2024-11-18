@@ -5518,3 +5518,14 @@
 {"id":"8691625763","timestamp":"2024-11-18T15:15:57.123327308Z","domain":"*.apps.aro-eng.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-18T13:52:52Z","to":"2025-02-16T13:52:51Z"}
 {"id":"8691977512","timestamp":"2024-11-18T16:16:24.356660448Z","domain":"*.oxy.science.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-11-18T15:42:36Z","to":"2025-12-18T05:00:00Z"}
 {"id":"8691977512","timestamp":"2024-11-18T16:16:24.356660709Z","domain":"oxy.science.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-11-18T15:42:36Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8692148238","timestamp":"2024-11-18T17:15:31.400079436Z","domain":"api.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-18T15:12:25Z","to":"2025-02-16T15:12:24Z"}
+{"id":"8692148238","timestamp":"2024-11-18T17:15:31.400080047Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-18T15:12:25Z","to":"2025-02-16T15:12:24Z"}
+{"id":"8692148238","timestamp":"2024-11-18T17:15:31.400080248Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-18T15:12:25Z","to":"2025-02-16T15:12:24Z"}
+{"id":"8692148238","timestamp":"2024-11-18T17:15:31.400080498Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-18T15:12:25Z","to":"2025-02-16T15:12:24Z"}
+{"id":"8692300919","timestamp":"2024-11-18T17:15:31.400080618Z","domain":"api.ihsmeccc.com","issuer":"SSL.com","from":"2024-11-18T16:30:45Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8692300919","timestamp":"2024-11-18T17:15:31.400081279Z","domain":"auth.api.ihsmeccc.com","issuer":"SSL.com","from":"2024-11-18T16:30:45Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8692300919","timestamp":"2024-11-18T17:15:31.40008137Z","domain":"cats-eccc.fjgc-gccf.gc.ca","issuer":"SSL.com","from":"2024-11-18T16:30:45Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8692300919","timestamp":"2024-11-18T17:15:31.40008145Z","domain":"identity.api.ihsmeccc.com","issuer":"SSL.com","from":"2024-11-18T16:30:45Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8692300919","timestamp":"2024-11-18T17:15:31.40008153Z","domain":"marchescarbone-carbonmarkets.canada.ca","issuer":"SSL.com","from":"2024-11-18T16:30:45Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8692300919","timestamp":"2024-11-18T17:15:31.400082261Z","domain":"www.ihsmeccc.com","issuer":"SSL.com","from":"2024-11-18T16:30:45Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8692300919","timestamp":"2024-11-18T17:15:31.400082341Z","domain":"www.marchescarbone-carbonmarkets.canada.ca","issuer":"SSL.com","from":"2024-11-18T16:30:45Z","to":"2025-12-18T05:00:00Z"}
