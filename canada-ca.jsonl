@@ -5512,3 +5512,7 @@
 {"id":"8687410180","timestamp":"2024-11-18T04:16:20.418697287Z","domain":"iscwp.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-18T02:18:29Z","to":"2025-02-16T02:18:28Z"}
 {"id":"8688409838","timestamp":"2024-11-18T07:15:38.874264657Z","domain":"communaute-politiques.canada.ca","issuer":"Let's Encrypt","from":"2024-11-18T05:20:53Z","to":"2025-02-16T05:20:52Z"}
 {"id":"8691147420","timestamp":"2024-11-18T14:15:32.187978107Z","domain":"www.cto-dev-mmahdavian.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-11-18T00:00:00Z","to":"2025-05-18T23:59:59Z"}
+{"id":"8691358459","timestamp":"2024-11-18T15:15:57.123326577Z","domain":"*.agp.aafc-aac.azure.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-11-18T14:01:42Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8691358459","timestamp":"2024-11-18T15:15:57.123326887Z","domain":"agp.aafc-aac.azure.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-11-18T14:01:42Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8691625763","timestamp":"2024-11-18T15:15:57.123327108Z","domain":"api.aro-eng.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-18T13:52:52Z","to":"2025-02-16T13:52:51Z"}
+{"id":"8691625763","timestamp":"2024-11-18T15:15:57.123327308Z","domain":"*.apps.aro-eng.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-18T13:52:52Z","to":"2025-02-16T13:52:51Z"}
