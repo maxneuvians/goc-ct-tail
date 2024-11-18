@@ -516,3 +516,13 @@
 {"id":"8649253364","timestamp":"2024-11-13T13:17:11.230393741Z","domain":"scm.qc.apim-gipa.rcmp-grc.gc.ca","issuer":"SSL.com","from":"2024-11-13T12:08:45Z","to":"2025-12-13T05:00:00Z"}
 {"id":"8649253364","timestamp":"2024-11-13T13:17:11.230393842Z","domain":"scm.sandbox.apim-gipa.rcmp-grc.gc.ca","issuer":"SSL.com","from":"2024-11-13T12:08:45Z","to":"2025-12-13T05:00:00Z"}
 {"id":"8649253364","timestamp":"2024-11-13T13:17:11.230393942Z","domain":"scm.uat.apim-gipa.rcmp-grc.gc.ca","issuer":"SSL.com","from":"2024-11-13T12:08:45Z","to":"2025-12-13T05:00:00Z"}
+{"id":"8690852383","timestamp":"2024-11-18T13:18:02.491638392Z","domain":"devportal.apim-gipa.rcmp-grc.gc.ca","issuer":"SSL.com","from":"2024-11-18T12:42:32Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8690852383","timestamp":"2024-11-18T13:18:02.491638632Z","domain":"devportal.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"SSL.com","from":"2024-11-18T12:42:32Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8690852383","timestamp":"2024-11-18T13:18:02.491638783Z","domain":"gateway.apim-gipa.rcmp-grc.gc.ca","issuer":"SSL.com","from":"2024-11-18T12:42:32Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8690852383","timestamp":"2024-11-18T13:18:02.491638953Z","domain":"gateway.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"SSL.com","from":"2024-11-18T12:42:32Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8690852383","timestamp":"2024-11-18T13:18:02.491639033Z","domain":"legacy.apim-gipa.rcmp-grc.gc.ca","issuer":"SSL.com","from":"2024-11-18T12:42:32Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8690852383","timestamp":"2024-11-18T13:18:02.491639444Z","domain":"legacy.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"SSL.com","from":"2024-11-18T12:42:32Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8690852383","timestamp":"2024-11-18T13:18:02.491639504Z","domain":"management.apim-gipa.rcmp-grc.gc.ca","issuer":"SSL.com","from":"2024-11-18T12:42:32Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8690852383","timestamp":"2024-11-18T13:18:02.491639574Z","domain":"management.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"SSL.com","from":"2024-11-18T12:42:32Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8690852383","timestamp":"2024-11-18T13:18:02.491639634Z","domain":"scm.apim-gipa.rcmp-grc.gc.ca","issuer":"SSL.com","from":"2024-11-18T12:42:32Z","to":"2025-12-18T05:00:00Z"}
+{"id":"8690852383","timestamp":"2024-11-18T13:18:02.491639985Z","domain":"scm.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"SSL.com","from":"2024-11-18T12:42:32Z","to":"2025-12-18T05:00:00Z"}
