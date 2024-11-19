@@ -5533,3 +5533,8 @@
 {"id":"8697876553","timestamp":"2024-11-19T08:16:29.907361153Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-19T06:25:59Z","to":"2025-02-17T06:25:58Z"}
 {"id":"8697876553","timestamp":"2024-11-19T08:16:29.907361383Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-19T06:25:59Z","to":"2025-02-17T06:25:58Z"}
 {"id":"8700301479","timestamp":"2024-11-19T15:16:07.424962996Z","domain":"www.cto-dev-mmahdavian.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-11-19T00:00:00Z","to":"2025-05-19T23:59:59Z"}
+{"id":"8700697560","timestamp":"2024-11-19T16:16:27.826632574Z","domain":"fee-payments.health.canada.ca","issuer":"SSL.com","from":"2024-11-19T15:06:54Z","to":"2025-12-10T08:45:17Z"}
+{"id":"8700697560","timestamp":"2024-11-19T16:16:27.826632945Z","domain":"fee-payments.phac.canada.ca","issuer":"SSL.com","from":"2024-11-19T15:06:54Z","to":"2025-12-10T08:45:17Z"}
+{"id":"8700697560","timestamp":"2024-11-19T16:16:27.826633225Z","domain":"paiements-frais.aspc.canada.ca","issuer":"SSL.com","from":"2024-11-19T15:06:54Z","to":"2025-12-10T08:45:17Z"}
+{"id":"8700697560","timestamp":"2024-11-19T16:16:27.826633446Z","domain":"paiements-frais.sante.canada.ca","issuer":"SSL.com","from":"2024-11-19T15:06:54Z","to":"2025-12-10T08:45:17Z"}
+{"id":"8700697560","timestamp":"2024-11-19T16:16:27.826633536Z","domain":"www.fee-payments.health.canada.ca","issuer":"SSL.com","from":"2024-11-19T15:06:54Z","to":"2025-12-10T08:45:17Z"}
