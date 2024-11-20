@@ -5546,3 +5546,5 @@
 {"id":"8703955054","timestamp":"2024-11-20T00:32:54.760623757Z","domain":"sgb-lms-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-20T00:00:00Z","to":"2025-12-20T23:59:59Z"}
 {"id":"8703957799","timestamp":"2024-11-20T00:32:54.760624008Z","domain":"siesf-fseis-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-20T00:00:00Z","to":"2025-12-20T23:59:59Z"}
 {"id":"8709130188","timestamp":"2024-11-20T14:15:47.00184522Z","domain":"ircc-services-devprod2.canada.ca","issuer":"SSL.com","from":"2024-11-20T13:25:41Z","to":"2025-12-20T05:00:00Z"}
+{"id":"8710331647","timestamp":"2024-11-20T17:15:17.226312078Z","domain":"lyris.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-20T15:34:56Z","to":"2025-02-18T15:34:55Z"}
+{"id":"8710564938","timestamp":"2024-11-20T17:15:17.226312579Z","domain":"ircc-services-devprod1.canada.ca","issuer":"SSL.com","from":"2024-11-20T16:57:27Z","to":"2025-12-20T05:00:00Z"}
