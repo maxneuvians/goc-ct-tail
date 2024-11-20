@@ -5541,3 +5541,7 @@
 {"id":"8701694009","timestamp":"2024-11-19T18:16:29.115198423Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-19T06:26:00Z","to":"2025-02-17T06:25:59Z"}
 {"id":"8701694009","timestamp":"2024-11-19T18:16:29.115198914Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-19T06:26:00Z","to":"2025-02-17T06:25:59Z"}
 {"id":"8702134472","timestamp":"2024-11-19T20:16:02.831385155Z","domain":"*.oas-sv.data.service.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-11-19T19:01:38Z","to":"2025-12-19T05:00:00Z"}
+{"id":"8703953652","timestamp":"2024-11-20T00:32:54.760623226Z","domain":"ocir-riso-ontario-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-20T00:00:00Z","to":"2025-12-20T23:59:59Z"}
+{"id":"8703953887","timestamp":"2024-11-20T00:32:54.760623547Z","domain":"sac-pac-ontario-cal-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-20T00:00:00Z","to":"2025-12-20T23:59:59Z"}
+{"id":"8703955054","timestamp":"2024-11-20T00:32:54.760623757Z","domain":"sgb-lms-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-20T00:00:00Z","to":"2025-12-20T23:59:59Z"}
+{"id":"8703957799","timestamp":"2024-11-20T00:32:54.760624008Z","domain":"siesf-fseis-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-20T00:00:00Z","to":"2025-12-20T23:59:59Z"}
