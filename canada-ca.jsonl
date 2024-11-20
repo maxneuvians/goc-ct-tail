@@ -5549,3 +5549,13 @@
 {"id":"8710331647","timestamp":"2024-11-20T17:15:17.226312078Z","domain":"lyris.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-20T15:34:56Z","to":"2025-02-18T15:34:55Z"}
 {"id":"8710564938","timestamp":"2024-11-20T17:15:17.226312579Z","domain":"ircc-services-devprod1.canada.ca","issuer":"SSL.com","from":"2024-11-20T16:57:27Z","to":"2025-12-20T05:00:00Z"}
 {"id":"8710942866","timestamp":"2024-11-20T18:16:34.519747724Z","domain":"cde-contactcentre-coe-uat.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-20T17:03:48Z","to":"2025-02-18T17:03:47Z"}
+{"id":"8711179798","timestamp":"2024-11-20T19:14:52.476850395Z","domain":"cde-contactcentre-coe.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-11-20T17:39:13Z","to":"2025-02-18T17:39:12Z"}
+{"id":"8711363008","timestamp":"2024-11-20T19:14:52.476850766Z","domain":"canafe-fintrac.gc.ca","issuer":"SSL.com","from":"2024-11-20T18:57:51Z","to":"2025-12-20T05:00:00Z"}
+{"id":"8711363008","timestamp":"2024-11-20T19:14:52.476850926Z","domain":"canafe.gc.ca","issuer":"SSL.com","from":"2024-11-20T18:57:51Z","to":"2025-12-20T05:00:00Z"}
+{"id":"8711363008","timestamp":"2024-11-20T19:14:52.476851156Z","domain":"fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2024-11-20T18:57:51Z","to":"2025-12-20T05:00:00Z"}
+{"id":"8711363008","timestamp":"2024-11-20T19:14:52.476851227Z","domain":"fintrac-canafe.gc.ca","issuer":"SSL.com","from":"2024-11-20T18:57:51Z","to":"2025-12-20T05:00:00Z"}
+{"id":"8711363008","timestamp":"2024-11-20T19:14:52.476852249Z","domain":"fintrac.gc.ca","issuer":"SSL.com","from":"2024-11-20T18:57:51Z","to":"2025-12-20T05:00:00Z"}
+{"id":"8711363008","timestamp":"2024-11-20T19:14:52.476852309Z","domain":"www.canafe-fintrac.gc.ca","issuer":"SSL.com","from":"2024-11-20T18:57:51Z","to":"2025-12-20T05:00:00Z"}
+{"id":"8711363008","timestamp":"2024-11-20T19:14:52.476852379Z","domain":"www.canafe.gc.ca","issuer":"SSL.com","from":"2024-11-20T18:57:51Z","to":"2025-12-20T05:00:00Z"}
+{"id":"8711363008","timestamp":"2024-11-20T19:14:52.476852449Z","domain":"www.fintrac-canafe.gc.ca","issuer":"SSL.com","from":"2024-11-20T18:57:51Z","to":"2025-12-20T05:00:00Z"}
+{"id":"8711363008","timestamp":"2024-11-20T19:14:52.47685334Z","domain":"www.fintrac.gc.ca","issuer":"SSL.com","from":"2024-11-20T18:57:51Z","to":"2025-12-20T05:00:00Z"}
