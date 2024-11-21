@@ -5564,3 +5564,9 @@
 {"id":"8712202543","timestamp":"2024-11-20T22:15:31.612867472Z","domain":"gccatalogue.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-11-20T20:20:15Z","to":"2025-02-18T20:20:14Z"}
 {"id":"8714603676","timestamp":"2024-11-21T04:16:27.924116285Z","domain":"canchat-v2.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-20T14:02:22Z","to":"2025-02-18T14:02:21Z"}
 {"id":"8714948421","timestamp":"2024-11-21T05:15:30.437989621Z","domain":"feedback-viewer.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-11-21T03:29:39Z","to":"2025-02-19T03:29:38Z"}
+{"id":"8715353187","timestamp":"2024-11-21T08:16:35.232834816Z","domain":"food-guide.canada.ca","issuer":"Google Trust Services","from":"2024-11-21T04:26:21Z","to":"2025-02-19T04:26:20Z"}
+{"id":"8715358417","timestamp":"2024-11-21T08:16:35.232835387Z","domain":"food-guide.canada.ca","issuer":"Google Trust Services","from":"2024-11-21T04:26:30Z","to":"2025-02-19T04:26:29Z"}
+{"id":"8716122120","timestamp":"2024-11-21T08:16:35.232835657Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-21T06:26:11Z","to":"2025-02-19T06:26:10Z"}
+{"id":"8716122120","timestamp":"2024-11-21T08:16:35.232835928Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-21T06:26:11Z","to":"2025-02-19T06:26:10Z"}
+{"id":"8716132958","timestamp":"2024-11-21T08:16:35.232836038Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-21T06:26:15Z","to":"2025-02-19T06:26:14Z"}
+{"id":"8716132958","timestamp":"2024-11-21T08:16:35.23283698Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-21T06:26:15Z","to":"2025-02-19T06:26:14Z"}
