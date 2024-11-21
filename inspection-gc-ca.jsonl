@@ -134,3 +134,6 @@
 {"id":"8411967420","timestamp":"2024-10-15T13:29:00.153058407Z","domain":"www.services.inspection.gc.ca","issuer":"Entrust","from":"2024-10-15T13:06:30Z","to":"2025-11-15T13:06:29Z"}
 {"id":"8630670019","timestamp":"2024-11-11T07:25:30.567960586Z","domain":"catalogue.inspection.gc.ca","issuer":"Let's Encrypt","from":"2024-11-11T06:21:54Z","to":"2025-02-09T06:21:53Z"}
 {"id":"8700125203","timestamp":"2024-11-19T14:27:24.343599063Z","domain":"sso-iu.inspection.gc.ca","issuer":"SSL.com","from":"2024-11-19T13:38:59Z","to":"2025-12-19T05:00:00Z"}
+{"id":"8721147623","timestamp":"2024-11-21T20:28:05.738651371Z","domain":"autodiscover.inspection.gc.ca","issuer":"SSL.com","from":"2024-11-21T19:46:03Z","to":"2025-12-21T05:00:00Z"}
+{"id":"8721147623","timestamp":"2024-11-21T20:28:05.738651702Z","domain":"mail.inspection.gc.ca","issuer":"SSL.com","from":"2024-11-21T19:46:03Z","to":"2025-12-21T05:00:00Z"}
+{"id":"8721147623","timestamp":"2024-11-21T20:28:05.738651942Z","domain":"mrs.inspection.gc.ca","issuer":"SSL.com","from":"2024-11-21T19:46:03Z","to":"2025-12-21T05:00:00Z"}
