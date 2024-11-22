@@ -5892,3 +5892,15 @@
 {"id":"8725073291","timestamp":"2024-11-22T07:15:29.463405377Z","domain":"www.cipec.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-11-22T05:17:35Z","to":"2025-02-20T05:17:34Z"}
 {"id":"8725073291","timestamp":"2024-11-22T07:15:29.463405457Z","domain":"www.enjeu-peeic.gc.ca","issuer":"Let's Encrypt","from":"2024-11-22T05:17:35Z","to":"2025-02-20T05:17:34Z"}
 {"id":"8725073291","timestamp":"2024-11-22T07:15:29.463405548Z","domain":"www.headsup-cipec.gc.ca","issuer":"Let's Encrypt","from":"2024-11-22T05:17:35Z","to":"2025-02-20T05:17:34Z"}
+{"id":"8730638865","timestamp":"2024-11-22T21:16:08.678592023Z","domain":"geomag.nrcan.gc.ca","issuer":"SSL.com","from":"2024-11-22T20:16:51Z","to":"2025-12-22T05:00:00Z"}
+{"id":"8730638865","timestamp":"2024-11-22T21:16:08.678592374Z","domain":"geomag.rncan.gc.ca","issuer":"SSL.com","from":"2024-11-22T20:16:51Z","to":"2025-12-22T05:00:00Z"}
+{"id":"8730638865","timestamp":"2024-11-22T21:16:08.678592575Z","domain":"origin1.geomag.nrcan.gc.ca","issuer":"SSL.com","from":"2024-11-22T20:16:51Z","to":"2025-12-22T05:00:00Z"}
+{"id":"8730638865","timestamp":"2024-11-22T21:16:08.678592775Z","domain":"origin2.geomag.nrcan.gc.ca","issuer":"SSL.com","from":"2024-11-22T20:16:51Z","to":"2025-12-22T05:00:00Z"}
+{"id":"8730638865","timestamp":"2024-11-22T21:16:08.678592865Z","domain":"www.geomag.nrcan.gc.ca","issuer":"SSL.com","from":"2024-11-22T20:16:51Z","to":"2025-12-22T05:00:00Z"}
+{"id":"8730638865","timestamp":"2024-11-22T21:16:08.678593867Z","domain":"www.geomag.rncan.gc.ca","issuer":"SSL.com","from":"2024-11-22T20:16:51Z","to":"2025-12-22T05:00:00Z"}
+{"id":"8730678006","timestamp":"2024-11-22T21:16:08.678593967Z","domain":"can-ndc.nrcan.gc.ca","issuer":"SSL.com","from":"2024-11-22T20:22:30Z","to":"2025-12-22T05:00:00Z"}
+{"id":"8730678006","timestamp":"2024-11-22T21:16:08.678594057Z","domain":"can-ndc.rncan.gc.ca","issuer":"SSL.com","from":"2024-11-22T20:22:30Z","to":"2025-12-22T05:00:00Z"}
+{"id":"8730678006","timestamp":"2024-11-22T21:16:08.678594137Z","domain":"origin1.can-ndc.nrcan.gc.ca","issuer":"SSL.com","from":"2024-11-22T20:22:30Z","to":"2025-12-22T05:00:00Z"}
+{"id":"8730678006","timestamp":"2024-11-22T21:16:08.6785953Z","domain":"origin2.can-ndc.nrcan.gc.ca","issuer":"SSL.com","from":"2024-11-22T20:22:30Z","to":"2025-12-22T05:00:00Z"}
+{"id":"8730678006","timestamp":"2024-11-22T21:16:08.67859538Z","domain":"www.can-ndc.nrcan.gc.ca","issuer":"SSL.com","from":"2024-11-22T20:22:30Z","to":"2025-12-22T05:00:00Z"}
+{"id":"8730678006","timestamp":"2024-11-22T21:16:08.67859546Z","domain":"www.can-ndc.rncan.gc.ca","issuer":"SSL.com","from":"2024-11-22T20:22:30Z","to":"2025-12-22T05:00:00Z"}
