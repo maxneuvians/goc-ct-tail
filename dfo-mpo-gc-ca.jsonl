@@ -489,3 +489,7 @@
 {"id":"8720720948","timestamp":"2024-11-21T19:23:19.25524593Z","domain":"notices.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2024-11-21T18:46:10Z","to":"2025-12-21T05:00:00Z"}
 {"id":"8720720948","timestamp":"2024-11-21T19:23:19.25524628Z","domain":"www-ops2.pac.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2024-11-21T18:46:10Z","to":"2025-12-21T05:00:00Z"}
 {"id":"8720805961","timestamp":"2024-11-21T19:23:19.255246501Z","domain":"rpims.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2024-11-21T18:58:34Z","to":"2025-12-14T05:00:00Z"}
+{"id":"8732811677","timestamp":"2024-11-23T01:55:14.033636138Z","domain":"api.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-11-23T00:53:38Z","to":"2025-02-21T00:53:37Z"}
+{"id":"8732811677","timestamp":"2024-11-23T01:55:14.033636629Z","domain":"api-iwls.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-11-23T00:53:38Z","to":"2025-02-21T00:53:37Z"}
+{"id":"8732811677","timestamp":"2024-11-23T01:55:14.033636929Z","domain":"api.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-11-23T00:53:38Z","to":"2025-02-21T00:53:37Z"}
+{"id":"8732811677","timestamp":"2024-11-23T01:55:14.03363737Z","domain":"api-sine.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-11-23T00:53:38Z","to":"2025-02-21T00:53:37Z"}
