@@ -1481,11 +1481,16 @@
       "Let's Encrypt": 5
     },
     "2024-11-21": {
-      "Let's Encrypt": 35,
+      "Let's Encrypt": 37,
       "Google Trust Services": 5,
       "SSL.com": 39,
       "DigiCert": 2,
       "Amazon Trust Services": 2
+    },
+    "2024-11-22": {
+      "Sectigo": 1,
+      "Let's Encrypt": 2,
+      "SSL.com": 1
     }
   },
   "errors": []
