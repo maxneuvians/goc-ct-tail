@@ -679,3 +679,5 @@
 {"id":"8678257447","timestamp":"2024-11-17T00:35:39.893628406Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-11-16T23:03:07Z","to":"2025-02-14T23:03:06Z"}
 {"id":"8719980066","timestamp":"2024-11-21T18:16:25.349459179Z","domain":"oscar-en.cloud.forces.gc.ca","issuer":"SSL.com","from":"2024-11-21T17:00:17Z","to":"2025-12-21T05:00:00Z"}
 {"id":"8719980066","timestamp":"2024-11-21T18:16:25.34945956Z","domain":"oscar-fr.cloud.forces.gc.ca","issuer":"SSL.com","from":"2024-11-21T17:00:17Z","to":"2025-12-21T05:00:00Z"}
+{"id":"8756799104","timestamp":"2024-11-25T20:15:59.91267022Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-11-25T00:00:00Z","to":"2025-12-24T23:59:59Z"}
+{"id":"8756799104","timestamp":"2024-11-25T20:15:59.912670521Z","domain":"tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-11-25T00:00:00Z","to":"2025-12-24T23:59:59Z"}
