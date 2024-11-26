@@ -5702,3 +5702,7 @@
 {"id":"8761022522","timestamp":"2024-11-26T08:16:34.050784513Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-26T06:25:09Z","to":"2025-02-24T06:25:08Z"}
 {"id":"8763070994","timestamp":"2024-11-26T13:18:17.296717798Z","domain":"www.cto-dev-mmahdavian.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-11-26T00:00:00Z","to":"2025-05-26T23:59:59Z"}
 {"id":"8763851185","timestamp":"2024-11-26T14:15:32.910500667Z","domain":"grafana.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-26T13:09:30Z","to":"2025-02-24T13:09:29Z"}
+{"id":"8763877752","timestamp":"2024-11-26T15:15:58.595476216Z","domain":"prometheus.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-26T13:12:41Z","to":"2025-02-24T13:12:40Z"}
+{"id":"8763891005","timestamp":"2024-11-26T15:15:58.595476767Z","domain":"loki.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-26T13:11:55Z","to":"2025-02-24T13:11:54Z"}
+{"id":"8764225863","timestamp":"2024-11-26T15:15:58.595477058Z","domain":"blueprism.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-11-26T13:55:14Z","to":"2025-02-24T13:55:13Z"}
+{"id":"8764272500","timestamp":"2024-11-26T15:15:58.595477338Z","domain":"aaact.canada.ca","issuer":"Let's Encrypt","from":"2024-11-26T14:03:23Z","to":"2025-02-24T14:03:22Z"}
