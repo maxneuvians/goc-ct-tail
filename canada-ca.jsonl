@@ -5696,3 +5696,7 @@
 {"id":"8758176169","timestamp":"2024-11-26T00:33:29.092739995Z","domain":"www.arrivecan-verification.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-11-26T00:00:00Z","to":"2025-12-26T23:59:59Z"}
 {"id":"8758286351","timestamp":"2024-11-26T01:44:23.502299677Z","domain":"canchat.dev.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-11-26T00:00:00Z","to":"2025-05-26T23:59:59Z"}
 {"id":"8759675980","timestamp":"2024-11-26T04:16:20.048217995Z","domain":"performance-dev.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-11-26T02:55:35Z","to":"2025-02-24T02:55:34Z"}
+{"id":"8761015602","timestamp":"2024-11-26T08:16:34.050783772Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-26T06:25:48Z","to":"2025-02-24T06:25:47Z"}
+{"id":"8761015602","timestamp":"2024-11-26T08:16:34.050784092Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-26T06:25:48Z","to":"2025-02-24T06:25:47Z"}
+{"id":"8761022522","timestamp":"2024-11-26T08:16:34.050784333Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-26T06:25:09Z","to":"2025-02-24T06:25:08Z"}
+{"id":"8761022522","timestamp":"2024-11-26T08:16:34.050784513Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-11-26T06:25:09Z","to":"2025-02-24T06:25:08Z"}
