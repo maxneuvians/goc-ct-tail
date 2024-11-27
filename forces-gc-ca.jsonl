@@ -756,3 +756,6 @@
 {"id":"8758713657","timestamp":"2024-11-26T01:44:21.176428673Z","domain":"tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-11-26T00:00:00Z","to":"2025-12-26T23:59:59Z"}
 {"id":"8758945358","timestamp":"2024-11-26T02:38:06.268240823Z","domain":"*.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-11-26T01:08:00Z","to":"2025-02-24T01:07:59Z"}
 {"id":"8758945358","timestamp":"2024-11-26T02:38:06.268241294Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-11-26T01:08:00Z","to":"2025-02-24T01:07:59Z"}
+{"id":"8774346521","timestamp":"2024-11-27T16:16:22.08492777Z","domain":"*.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-11-27T15:07:05Z","to":"2025-02-25T15:07:04Z"}
+{"id":"8774346521","timestamp":"2024-11-27T16:16:22.084928221Z","domain":"*.rcaf.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-11-27T15:07:05Z","to":"2025-02-25T15:07:04Z"}
+{"id":"8774346521","timestamp":"2024-11-27T16:16:22.084928501Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-11-27T15:07:05Z","to":"2025-02-25T15:07:04Z"}
