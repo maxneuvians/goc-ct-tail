@@ -760,3 +760,6 @@
 {"id":"8774346521","timestamp":"2024-11-27T16:16:22.084928221Z","domain":"*.rcaf.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-11-27T15:07:05Z","to":"2025-02-25T15:07:04Z"}
 {"id":"8774346521","timestamp":"2024-11-27T16:16:22.084928501Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-11-27T15:07:05Z","to":"2025-02-25T15:07:04Z"}
 {"id":"8774829995","timestamp":"2024-11-27T18:16:33.479757749Z","domain":"portal-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2024-11-27T16:18:47Z","to":"2025-02-25T17:12:10Z"}
+{"id":"8775583454","timestamp":"2024-11-27T19:14:55.137706979Z","domain":"eis-dcb-iv08578.gpnet-respol.forces.gc.ca","issuer":"SSL.com","from":"2024-11-27T18:53:59Z","to":"2025-12-27T05:00:00Z"}
+{"id":"8775583454","timestamp":"2024-11-27T19:14:55.13770733Z","domain":"staging-dhh-dhp.forces.gc.ca","issuer":"SSL.com","from":"2024-11-27T18:53:59Z","to":"2025-12-27T05:00:00Z"}
+{"id":"8775583454","timestamp":"2024-11-27T19:14:55.13770757Z","domain":"www.staging-dhh-dhp.forces.gc.ca","issuer":"SSL.com","from":"2024-11-27T18:53:59Z","to":"2025-12-27T05:00:00Z"}
