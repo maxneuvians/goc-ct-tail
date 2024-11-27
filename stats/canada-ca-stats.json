@@ -1505,8 +1505,11 @@
     },
     "2024-11-26": {
       "Amazon Trust Services": 4,
-      "DigiCert": 1,
-      "Let's Encrypt": 1
+      "DigiCert": 6,
+      "Let's Encrypt": 26
+    },
+    "2024-11-27": {
+      "Let's Encrypt": 50
     }
   },
   "errors": []
