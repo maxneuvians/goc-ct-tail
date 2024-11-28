@@ -1509,7 +1509,13 @@
       "Let's Encrypt": 26
     },
     "2024-11-27": {
-      "Let's Encrypt": 50
+      "Let's Encrypt": 55,
+      "SSL.com": 2,
+      "DigiCert": 5,
+      "Amazon Trust Services": 4
+    },
+    "2024-11-28": {
+      "DigiCert": 1
     }
   },
   "errors": []
