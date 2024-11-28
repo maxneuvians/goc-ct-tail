@@ -521,3 +521,8 @@
 {"id":"8718079832","timestamp":"2024-11-21T13:17:47.910337222Z","domain":"www.registry-registre.gc.ca","issuer":"Let's Encrypt","from":"2024-11-21T11:43:48Z","to":"2025-02-19T11:43:47Z"}
 {"id":"8731827402","timestamp":"2024-11-23T00:33:16.220917706Z","domain":"maintenance1.ssc-spc.gc.ca","issuer":"SSL.com","from":"2024-11-22T23:10:18Z","to":"2025-12-22T05:00:00Z"}
 {"id":"8759998693","timestamp":"2024-11-26T05:15:31.353299018Z","domain":"catalogue-campus.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2024-11-26T03:46:17Z","to":"2025-02-24T03:46:16Z"}
+{"id":"8779999545","timestamp":"2024-11-28T08:16:34.79290757Z","domain":"rpsim1-sscecmlab.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2024-11-28T06:25:21Z","to":"2025-02-26T06:25:20Z"}
+{"id":"8779999545","timestamp":"2024-11-28T08:16:34.792907931Z","domain":"rpsim1.sscecmlab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2024-11-28T06:25:21Z","to":"2025-02-26T06:25:20Z"}
+{"id":"8780000240","timestamp":"2024-11-28T08:16:34.792908202Z","domain":"rpsim2.sscecmlab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2024-11-28T06:25:37Z","to":"2025-02-26T06:25:36Z"}
+{"id":"8780001403","timestamp":"2024-11-28T08:16:34.792908663Z","domain":"rpsim3.sscecmlab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2024-11-28T06:26:00Z","to":"2025-02-26T06:25:59Z"}
+{"id":"8780024178","timestamp":"2024-11-28T08:16:34.792908753Z","domain":"rpsim4.sscecmlab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2024-11-28T06:26:25Z","to":"2025-02-26T06:26:24Z"}
