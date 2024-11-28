@@ -616,3 +616,18 @@
 {"id":"8719574876","timestamp":"2024-11-21T17:04:46.617836371Z","domain":"hc-sc.gc.ca","issuer":"SSL.com","from":"2024-11-21T16:07:10Z","to":"2025-12-19T05:00:00Z"}
 {"id":"8719574876","timestamp":"2024-11-21T17:04:46.617836461Z","domain":"*.phac-aspc.gc.ca","issuer":"SSL.com","from":"2024-11-21T16:07:10Z","to":"2025-12-19T05:00:00Z"}
 {"id":"8771264185","timestamp":"2024-11-27T09:05:42.590394181Z","domain":"catalogue.hc-sc.gc.ca","issuer":"Let's Encrypt","from":"2024-11-27T07:19:53Z","to":"2025-02-25T07:19:52Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705647757Z","domain":"biocides.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705648338Z","domain":"gateway-passerelle-2.hc-sc.canada.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705648629Z","domain":"gateway-passerelle-2.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705648869Z","domain":"gateway-passerelle-2.preprod.hc-sc.canada.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705648969Z","domain":"gateway-passerelle-2.preprod.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705649621Z","domain":"gateway-passerelle.hc-sc.canada.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705649711Z","domain":"hcscb2cdev.gateway-passerelle.hc-sc.canada.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705649821Z","domain":"hcscb2cpreprod.gateway-passerelle.hc-sc.canada.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705649911Z","domain":"lz.gateway-passerelle-2.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705650632Z","domain":"lz.gateway-passerelle-2.preprod.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705650712Z","domain":"lzinfra.gateway-passerelle-2.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705650803Z","domain":"lzinfra.gateway-passerelle-2.preprod.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705650903Z","domain":"nvc-cnv.canada.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705650993Z","domain":"sgpp.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
+{"id":"8782674591","timestamp":"2024-11-28T15:05:10.705651103Z","domain":"uvupdater.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-11-28T13:59:37Z","to":"2025-12-28T05:00:00Z"}
