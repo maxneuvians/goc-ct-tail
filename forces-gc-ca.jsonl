@@ -765,3 +765,10 @@
 {"id":"8775583454","timestamp":"2024-11-27T19:14:55.13770757Z","domain":"www.staging-dhh-dhp.forces.gc.ca","issuer":"SSL.com","from":"2024-11-27T18:53:59Z","to":"2025-12-27T05:00:00Z"}
 {"id":"8775732772","timestamp":"2024-11-27T20:15:58.508819705Z","domain":"dhh-dhp.forces.gc.ca","issuer":"SSL.com","from":"2024-11-27T19:21:11Z","to":"2025-12-27T05:00:00Z"}
 {"id":"8775732772","timestamp":"2024-11-27T20:15:58.508820046Z","domain":"www.dhh-dhp.forces.gc.ca","issuer":"SSL.com","from":"2024-11-27T19:21:11Z","to":"2025-12-27T05:00:00Z"}
+{"id":"8783174094","timestamp":"2024-11-28T16:16:14.070946719Z","domain":"*.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-11-28T00:00:00Z","to":"2025-12-27T23:59:59Z"}
+{"id":"8783174094","timestamp":"2024-11-28T16:16:14.07094712Z","domain":"tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-11-28T00:00:00Z","to":"2025-12-27T23:59:59Z"}
+{"id":"8783281189","timestamp":"2024-11-28T16:16:14.07094737Z","domain":"*.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-11-28T00:00:00Z","to":"2025-12-27T23:59:59Z"}
+{"id":"8783281189","timestamp":"2024-11-28T16:16:14.0709476Z","domain":"tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-11-28T00:00:00Z","to":"2025-12-27T23:59:59Z"}
+{"id":"8783316461","timestamp":"2024-11-28T16:16:14.070947701Z","domain":"opensearch.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-11-28T00:00:00Z","to":"2025-12-27T23:59:59Z"}
+{"id":"8783612502","timestamp":"2024-11-28T16:16:14.070949123Z","domain":"*.chat.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-11-28T00:00:00Z","to":"2025-12-27T23:59:59Z"}
+{"id":"8783612502","timestamp":"2024-11-28T16:16:14.070949454Z","domain":"chat.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-11-28T00:00:00Z","to":"2025-12-27T23:59:59Z"}
