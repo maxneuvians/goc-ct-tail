@@ -204,3 +204,9 @@
 {"id":"8718219810","timestamp":"2024-11-21T13:17:47.818752332Z","domain":"rsso.tc.gc.ca","issuer":"SSL.com","from":"2024-11-21T12:56:08Z","to":"2025-11-21T13:05:04Z"}
 {"id":"8751396234","timestamp":"2024-11-25T06:16:52.520237827Z","domain":"outils-collab-tools.tc.gc.ca","issuer":"DigiCert","from":"2024-11-25T00:00:00Z","to":"2025-05-25T23:59:59Z"}
 {"id":"8782945566","timestamp":"2024-11-28T15:15:50.304213984Z","domain":"outils-collab-tools.tc.gc.ca","issuer":"DigiCert","from":"2024-11-28T00:00:00Z","to":"2025-05-28T23:59:59Z"}
+{"id":"8806817502","timestamp":"2024-12-01T09:15:31.489707256Z","domain":"*.acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2024-12-01T08:02:45Z","to":"2025-03-01T08:02:44Z"}
+{"id":"8806817502","timestamp":"2024-12-01T09:15:31.489708017Z","domain":"acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2024-12-01T08:02:45Z","to":"2025-03-01T08:02:44Z"}
+{"id":"8806821241","timestamp":"2024-12-01T09:15:31.489708378Z","domain":"*.dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2024-12-01T08:03:40Z","to":"2025-03-01T08:03:39Z"}
+{"id":"8806821241","timestamp":"2024-12-01T09:15:31.489708648Z","domain":"dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2024-12-01T08:03:40Z","to":"2025-03-01T08:03:39Z"}
+{"id":"8806838662","timestamp":"2024-12-01T09:15:31.489708769Z","domain":"*.tc.gc.ca","issuer":"Let's Encrypt","from":"2024-12-01T08:04:40Z","to":"2025-03-01T08:04:39Z"}
+{"id":"8806838662","timestamp":"2024-12-01T09:15:31.48970946Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2024-12-01T08:04:40Z","to":"2025-03-01T08:04:39Z"}
