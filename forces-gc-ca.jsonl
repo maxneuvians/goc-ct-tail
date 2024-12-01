@@ -778,3 +778,6 @@
 {"id":"8784401394","timestamp":"2024-11-28T18:16:29.803701666Z","domain":"chat.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-11-28T00:00:00Z","to":"2025-12-27T23:59:59Z"}
 {"id":"8784779383","timestamp":"2024-11-28T19:14:55.863967639Z","domain":"*.chat.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-11-28T00:00:00Z","to":"2025-12-27T23:59:59Z"}
 {"id":"8784779383","timestamp":"2024-11-28T19:14:55.86396796Z","domain":"chat.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2024-11-28T00:00:00Z","to":"2025-12-27T23:59:59Z"}
+{"id":"8807512915","timestamp":"2024-12-01T11:14:46.963219445Z","domain":"mars.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-12-01T10:01:45Z","to":"2025-03-01T10:01:44Z"}
+{"id":"8807513101","timestamp":"2024-12-01T11:14:46.963219895Z","domain":"www.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-12-01T10:01:46Z","to":"2025-03-01T10:01:45Z"}
+{"id":"8807513601","timestamp":"2024-12-01T11:14:46.963220266Z","domain":"bib.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2024-12-01T10:01:47Z","to":"2025-03-01T10:01:46Z"}
