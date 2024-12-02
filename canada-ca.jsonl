@@ -5870,3 +5870,11 @@
 {"id":"8815974076","timestamp":"2024-12-02T14:15:38.030286159Z","domain":"www.cto-dev-mmahdavian.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-12-02T00:00:00Z","to":"2025-06-02T23:59:59Z"}
 {"id":"8817335835","timestamp":"2024-12-02T18:16:34.490514113Z","domain":"a360.canadacentral.cloudapp.azure.com","issuer":"Let's Encrypt","from":"2024-12-02T15:32:44Z","to":"2025-03-02T15:32:43Z"}
 {"id":"8817335835","timestamp":"2024-12-02T18:16:34.490514443Z","domain":"a360.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-12-02T15:32:44Z","to":"2025-03-02T15:32:43Z"}
+{"id":"8818069327","timestamp":"2024-12-02T19:14:57.530935635Z","domain":"*.cto-fsdh-core.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-12-02T18:28:49Z","to":"2026-01-02T05:00:00Z"}
+{"id":"8818069327","timestamp":"2024-12-02T19:14:57.530935885Z","domain":"*.cto-qa-fsdh-core.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-12-02T18:28:49Z","to":"2026-01-02T05:00:00Z"}
+{"id":"8818069327","timestamp":"2024-12-02T19:14:57.530936146Z","domain":"*.datahub-scientifique-federal.canada.ca","issuer":"SSL.com","from":"2024-12-02T18:28:49Z","to":"2026-01-02T05:00:00Z"}
+{"id":"8818069327","timestamp":"2024-12-02T19:14:57.530936346Z","domain":"datahub-scientifique-federal.canada.ca","issuer":"SSL.com","from":"2024-12-02T18:28:49Z","to":"2026-01-02T05:00:00Z"}
+{"id":"8818069327","timestamp":"2024-12-02T19:14:57.530936436Z","domain":"*.federal-science-datahub.canada.ca","issuer":"SSL.com","from":"2024-12-02T18:28:49Z","to":"2026-01-02T05:00:00Z"}
+{"id":"8818069327","timestamp":"2024-12-02T19:14:57.530937067Z","domain":"federal-science-datahub.canada.ca","issuer":"SSL.com","from":"2024-12-02T18:28:49Z","to":"2026-01-02T05:00:00Z"}
+{"id":"8818069327","timestamp":"2024-12-02T19:14:57.530937147Z","domain":"*.fsdh-dhsf.science.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-12-02T18:28:49Z","to":"2026-01-02T05:00:00Z"}
+{"id":"8818069327","timestamp":"2024-12-02T19:14:57.530937228Z","domain":"fsdh-dhsf.science.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-12-02T18:28:49Z","to":"2026-01-02T05:00:00Z"}
