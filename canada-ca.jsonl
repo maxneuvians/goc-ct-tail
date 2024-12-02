@@ -5865,3 +5865,5 @@
 {"id":"8808362662","timestamp":"2024-12-01T14:15:05.825265741Z","domain":"alertmanager.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-01T12:31:38Z","to":"2025-03-01T12:31:37Z"}
 {"id":"8808665742","timestamp":"2024-12-01T15:15:47.547557859Z","domain":"argocd.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-01T13:30:23Z","to":"2025-03-01T13:30:22Z"}
 {"id":"8811572587","timestamp":"2024-12-02T00:35:57.342326644Z","domain":"gw1.ssc-spc.dl-consol.com-dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2024-12-01T22:49:13Z","to":"2025-03-01T23:43:07Z"}
+{"id":"8813127545","timestamp":"2024-12-02T04:16:18.509846982Z","domain":"suivi.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-02T03:11:18Z","to":"2025-03-02T03:11:17Z"}
+{"id":"8813127545","timestamp":"2024-12-02T04:16:18.509847453Z","domain":"tracker.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-02T03:11:18Z","to":"2025-03-02T03:11:17Z"}
