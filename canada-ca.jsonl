@@ -5884,3 +5884,7 @@
 {"id":"8823234586","timestamp":"2024-12-03T08:16:35.170844234Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-03T06:25:23Z","to":"2025-03-03T06:25:22Z"}
 {"id":"8823234586","timestamp":"2024-12-03T08:16:35.170844645Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-03T06:25:23Z","to":"2025-03-03T06:25:22Z"}
 {"id":"8825242934","timestamp":"2024-12-03T13:18:18.629617614Z","domain":"www.cto-dev-mmahdavian.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-12-03T00:00:00Z","to":"2025-06-03T23:59:59Z"}
+{"id":"8825902681","timestamp":"2024-12-03T14:15:23.641010947Z","domain":"test-studio-gc-lingua.canada.ca","issuer":"SSL.com","from":"2024-12-03T13:47:26Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8825999194","timestamp":"2024-12-03T14:15:23.641011317Z","domain":"git.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-12-03T13:11:38Z","to":"2025-03-03T13:11:37Z"}
+{"id":"8826011030","timestamp":"2024-12-03T14:15:23.641011538Z","domain":"*.pages.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-12-03T13:12:43Z","to":"2025-03-03T13:12:42Z"}
+{"id":"8826011030","timestamp":"2024-12-03T14:15:23.641011748Z","domain":"private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-12-03T13:12:43Z","to":"2025-03-03T13:12:42Z"}
