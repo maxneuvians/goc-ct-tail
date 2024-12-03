@@ -320,3 +320,5 @@
 {"id":"8799917362","timestamp":"2024-11-30T12:45:10.719819357Z","domain":"tih.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-11-30T00:00:00Z","to":"2025-05-30T23:59:59Z"}
 {"id":"8819488535","timestamp":"2024-12-02T23:34:33.898158616Z","domain":"rpss-appmgmt-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-12-02T00:00:00Z","to":"2025-06-02T23:59:59Z"}
 {"id":"8826060874","timestamp":"2024-12-03T14:36:24.033536774Z","domain":"v3-eepr-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-12-03T00:00:00Z","to":"2025-06-03T23:59:59Z"}
+{"id":"8826634605","timestamp":"2024-12-03T16:39:27.489515738Z","domain":"v3-devtest-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-12-03T00:00:00Z","to":"2025-06-03T23:59:59Z"}
+{"id":"8826635948","timestamp":"2024-12-03T16:39:27.489516299Z","domain":"v3-devtestapi-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2024-12-03T00:00:00Z","to":"2025-06-03T23:59:59Z"}
