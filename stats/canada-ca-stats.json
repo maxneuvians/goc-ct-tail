@@ -1540,6 +1540,11 @@
       "DigiCert": 1,
       "SSL.com": 5,
       "Google Trust Services": 2
+    },
+    "2024-12-04": {
+      "Let's Encrypt": 2,
+      "DigiCert": 2,
+      "SSL.com": 12
     }
   },
   "errors": []
