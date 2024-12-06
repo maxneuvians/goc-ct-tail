@@ -5919,3 +5919,7 @@
 {"id":"8845651222","timestamp":"2024-12-05T17:15:24.176064426Z","domain":"www.ssc-test-swsdemo.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-12-05T00:00:00Z","to":"2025-06-05T23:59:59Z"}
 {"id":"8846294649","timestamp":"2024-12-05T19:15:08.720488247Z","domain":"*.gateway-passerelle.hc-sc.canada.ca","issuer":"SSL.com","from":"2024-12-05T18:18:14Z","to":"2026-01-05T05:00:00Z"}
 {"id":"8846803332","timestamp":"2024-12-05T20:16:05.119597075Z","domain":"www.cto-dev-mmahdavian.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-12-05T00:00:00Z","to":"2025-06-05T23:59:59Z"}
+{"id":"8852727592","timestamp":"2024-12-06T10:16:05.122890495Z","domain":"navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2024-12-06T08:41:15Z","to":"2025-03-06T08:41:14Z"}
+{"id":"8852727592","timestamp":"2024-12-06T10:16:05.122890856Z","domain":"ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2024-12-06T08:41:15Z","to":"2025-03-06T08:41:14Z"}
+{"id":"8852727592","timestamp":"2024-12-06T10:16:05.122891077Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2024-12-06T08:41:15Z","to":"2025-03-06T08:41:14Z"}
+{"id":"8852727592","timestamp":"2024-12-06T10:16:05.122891668Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2024-12-06T08:41:15Z","to":"2025-03-06T08:41:14Z"}
