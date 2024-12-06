@@ -508,3 +508,5 @@
 {"id":"8844791757","timestamp":"2024-12-05T15:27:54.131469291Z","domain":"krest.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2024-12-05T14:29:21Z","to":"2026-01-05T05:00:00Z"}
 {"id":"8844840855","timestamp":"2024-12-05T15:27:54.131469772Z","domain":"krest-test.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2024-12-05T14:34:00Z","to":"2026-01-05T05:00:00Z"}
 {"id":"8846786226","timestamp":"2024-12-05T20:27:56.722786055Z","domain":"system-informer.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-12-05T18:50:17Z","to":"2025-03-05T18:50:16Z"}
+{"id":"8852623021","timestamp":"2024-12-06T10:28:12.193977361Z","domain":"api-spine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-12-06T08:27:17Z","to":"2025-03-06T08:27:16Z"}
+{"id":"8852623021","timestamp":"2024-12-06T10:28:12.193977772Z","domain":"api-spine.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-12-06T08:27:17Z","to":"2025-03-06T08:27:16Z"}
