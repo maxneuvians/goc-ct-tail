@@ -5977,3 +5977,4 @@
 {"id":"8877728081","timestamp":"2024-12-09T06:16:55.516365928Z","domain":"apim-dev.tbs-sct.canada.ca","issuer":"DigiCert","from":"2024-12-09T00:00:00Z","to":"2025-06-09T23:59:59Z"}
 {"id":"8877730839","timestamp":"2024-12-09T06:16:55.516366278Z","domain":"*.test.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-09T04:31:21Z","to":"2025-03-09T04:31:20Z"}
 {"id":"8877730839","timestamp":"2024-12-09T06:16:55.516366529Z","domain":"test.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-09T04:31:21Z","to":"2025-03-09T04:31:20Z"}
+{"id":"8879115634","timestamp":"2024-12-09T09:16:14.081883756Z","domain":"canary.ssc-spc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2024-12-09T08:00:25Z","to":"2025-03-09T08:53:59Z"}
