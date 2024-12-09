@@ -5978,3 +5978,13 @@
 {"id":"8877730839","timestamp":"2024-12-09T06:16:55.516366278Z","domain":"*.test.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-09T04:31:21Z","to":"2025-03-09T04:31:20Z"}
 {"id":"8877730839","timestamp":"2024-12-09T06:16:55.516366529Z","domain":"test.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-09T04:31:21Z","to":"2025-03-09T04:31:20Z"}
 {"id":"8879115634","timestamp":"2024-12-09T09:16:14.081883756Z","domain":"canary.ssc-spc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2024-12-09T08:00:25Z","to":"2025-03-09T08:53:59Z"}
+{"id":"8882636948","timestamp":"2024-12-09T19:15:01.820650112Z","domain":"canchat.dev.ibm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-12-09T17:22:24Z","to":"2025-03-09T17:22:23Z"}
+{"id":"8882666693","timestamp":"2024-12-09T19:15:01.820650532Z","domain":"api.osdp-cumulative-effects.canada.ca","issuer":"SSL.com","from":"2024-12-09T18:17:17Z","to":"2025-12-09T18:25:38Z"}
+{"id":"8882666693","timestamp":"2024-12-09T19:15:01.820650773Z","domain":"api.osdp-psdo.canada.ca","issuer":"SSL.com","from":"2024-12-09T18:17:17Z","to":"2025-12-09T18:25:38Z"}
+{"id":"8882666693","timestamp":"2024-12-09T19:15:01.820650993Z","domain":"api.psdo-effets-cumulatifs.canada.ca","issuer":"SSL.com","from":"2024-12-09T18:17:17Z","to":"2025-12-09T18:25:38Z"}
+{"id":"8882666693","timestamp":"2024-12-09T19:15:01.820651163Z","domain":"osdp-cumulative-effects.canada.ca","issuer":"SSL.com","from":"2024-12-09T18:17:17Z","to":"2025-12-09T18:25:38Z"}
+{"id":"8882666693","timestamp":"2024-12-09T19:15:01.820652316Z","domain":"osdp-psdo.canada.ca","issuer":"SSL.com","from":"2024-12-09T18:17:17Z","to":"2025-12-09T18:25:38Z"}
+{"id":"8882666693","timestamp":"2024-12-09T19:15:01.820652396Z","domain":"psdo-effets-cumulatifs.canada.ca","issuer":"SSL.com","from":"2024-12-09T18:17:17Z","to":"2025-12-09T18:25:38Z"}
+{"id":"8882666693","timestamp":"2024-12-09T19:15:01.820652476Z","domain":"www.osdp-psdo.canada.ca","issuer":"SSL.com","from":"2024-12-09T18:17:17Z","to":"2025-12-09T18:25:38Z"}
+{"id":"8882816851","timestamp":"2024-12-09T19:15:01.820652576Z","domain":"*.superset.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2024-12-09T00:00:00Z","to":"2026-01-07T23:59:59Z"}
+{"id":"8882816851","timestamp":"2024-12-09T19:15:01.820654159Z","domain":"superset.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2024-12-09T00:00:00Z","to":"2026-01-07T23:59:59Z"}
