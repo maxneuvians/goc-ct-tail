@@ -5990,3 +5990,13 @@
 {"id":"8882816851","timestamp":"2024-12-09T19:15:01.820654159Z","domain":"superset.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2024-12-09T00:00:00Z","to":"2026-01-07T23:59:59Z"}
 {"id":"8884965836","timestamp":"2024-12-10T00:35:11.301615407Z","domain":"auth.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-12-09T00:00:00Z","to":"2025-06-09T23:59:59Z"}
 {"id":"8884981948","timestamp":"2024-12-10T00:35:11.301615788Z","domain":"budget.canada.ca","issuer":"DigiCert","from":"2024-12-09T00:00:00Z","to":"2025-06-09T23:59:59Z"}
+{"id":"8887859976","timestamp":"2024-12-10T06:16:45.014423064Z","domain":"sso-demo.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-10T04:32:23Z","to":"2025-03-10T04:32:22Z"}
+{"id":"8887859976","timestamp":"2024-12-10T06:16:45.014423444Z","domain":"sso-demo-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2024-12-10T04:32:23Z","to":"2025-03-10T04:32:22Z"}
+{"id":"8887859976","timestamp":"2024-12-10T06:16:45.014423665Z","domain":"sso-dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-10T04:32:23Z","to":"2025-03-10T04:32:22Z"}
+{"id":"8887859976","timestamp":"2024-12-10T06:16:45.014423845Z","domain":"sso-dev-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2024-12-10T04:32:23Z","to":"2025-03-10T04:32:22Z"}
+{"id":"8887859976","timestamp":"2024-12-10T06:16:45.014423945Z","domain":"sso.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-10T04:32:23Z","to":"2025-03-10T04:32:22Z"}
+{"id":"8887859976","timestamp":"2024-12-10T06:16:45.014424797Z","domain":"sso-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2024-12-10T04:32:23Z","to":"2025-03-10T04:32:22Z"}
+{"id":"8887859976","timestamp":"2024-12-10T06:16:45.014424877Z","domain":"sso-qa.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-10T04:32:23Z","to":"2025-03-10T04:32:22Z"}
+{"id":"8887859976","timestamp":"2024-12-10T06:16:45.014424957Z","domain":"sso-qa-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2024-12-10T04:32:23Z","to":"2025-03-10T04:32:22Z"}
+{"id":"8887859976","timestamp":"2024-12-10T06:16:45.014425037Z","domain":"sso-uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-10T04:32:23Z","to":"2025-03-10T04:32:22Z"}
+{"id":"8887859976","timestamp":"2024-12-10T06:16:45.014425789Z","domain":"sso-uat-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2024-12-10T04:32:23Z","to":"2025-03-10T04:32:22Z"}
