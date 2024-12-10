@@ -6000,3 +6000,7 @@
 {"id":"8887859976","timestamp":"2024-12-10T06:16:45.014424957Z","domain":"sso-qa-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2024-12-10T04:32:23Z","to":"2025-03-10T04:32:22Z"}
 {"id":"8887859976","timestamp":"2024-12-10T06:16:45.014425037Z","domain":"sso-uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-10T04:32:23Z","to":"2025-03-10T04:32:22Z"}
 {"id":"8887859976","timestamp":"2024-12-10T06:16:45.014425789Z","domain":"sso-uat-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2024-12-10T04:32:23Z","to":"2025-03-10T04:32:22Z"}
+{"id":"8888840322","timestamp":"2024-12-10T08:16:40.210917584Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-10T06:25:52Z","to":"2025-03-10T06:25:51Z"}
+{"id":"8888840322","timestamp":"2024-12-10T08:16:40.210918255Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-10T06:25:52Z","to":"2025-03-10T06:25:51Z"}
+{"id":"8888920686","timestamp":"2024-12-10T08:16:40.210918545Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-10T06:34:13Z","to":"2025-03-10T06:34:12Z"}
+{"id":"8888920686","timestamp":"2024-12-10T08:16:40.210918796Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-10T06:34:13Z","to":"2025-03-10T06:34:12Z"}
