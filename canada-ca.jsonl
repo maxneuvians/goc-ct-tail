@@ -6006,3 +6006,5 @@
 {"id":"8888920686","timestamp":"2024-12-10T08:16:40.210918796Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-10T06:34:13Z","to":"2025-03-10T06:34:12Z"}
 {"id":"8892617187","timestamp":"2024-12-10T16:16:29.416349398Z","domain":"ceres-seres-api-dev.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-12-10T15:44:41Z","to":"2026-01-07T07:48:32Z"}
 {"id":"8892617187","timestamp":"2024-12-10T16:16:29.416349749Z","domain":"ceres-seres-api-test.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-12-10T15:44:41Z","to":"2026-01-07T07:48:32Z"}
+{"id":"8893280616","timestamp":"2024-12-10T18:16:39.647091107Z","domain":"*.poc.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-12-10T16:34:50Z","to":"2025-03-10T16:34:49Z"}
+{"id":"8893280616","timestamp":"2024-12-10T18:16:39.647091467Z","domain":"poc.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-12-10T16:34:50Z","to":"2025-03-10T16:34:49Z"}
