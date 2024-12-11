@@ -432,3 +432,23 @@
 {"id":"8902930879","timestamp":"2024-12-11T14:37:30.808402599Z","domain":"statcan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-11T12:59:21Z","to":"2025-03-11T12:59:20Z"}
 {"id":"8902930879","timestamp":"2024-12-11T14:37:30.808402779Z","domain":"www.statcan.ca","issuer":"Let's Encrypt","from":"2024-12-11T12:59:21Z","to":"2025-03-11T12:59:20Z"}
 {"id":"8902930879","timestamp":"2024-12-11T14:37:30.808402959Z","domain":"www.statcan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-11T12:59:21Z","to":"2025-03-11T12:59:20Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579571405Z","domain":"census.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579571696Z","domain":"census-new-prod.statcan.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579571846Z","domain":"census-prod.statcan.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579572007Z","domain":"recensement.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579572076Z","domain":"recensement-new-prod.statcan.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579572988Z","domain":"recensement-prod.statcan.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579573048Z","domain":"www12-2021.statcan.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579573118Z","domain":"www12.statcan.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579573189Z","domain":"www.2006census.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.57957398Z","domain":"www.2006recensement.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.57957405Z","domain":"www.census2006.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.57957412Z","domain":"www.census2006-recensement2006.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.57957418Z","domain":"www.census2011.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579574251Z","domain":"www.census.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579574321Z","domain":"www.enm-nhs.statcan.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579574381Z","domain":"www.enm.statcan.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579574451Z","domain":"www.nhs-enm.statcan.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579574511Z","domain":"www.nhs.statcan.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579575343Z","domain":"www.recensement2011.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
+{"id":"8905122909","timestamp":"2024-12-11T19:33:33.579575403Z","domain":"www.recensement.gc.ca","issuer":"SSL.com","from":"2024-12-11T19:06:07Z","to":"2026-01-11T05:00:00Z"}
