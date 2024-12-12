@@ -6017,3 +6017,5 @@
 {"id":"8910239459","timestamp":"2024-12-12T09:15:57.744785732Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-12T06:25:55Z","to":"2025-03-12T06:25:54Z"}
 {"id":"8910239459","timestamp":"2024-12-12T09:15:57.744785952Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-12T06:25:55Z","to":"2025-03-12T06:25:54Z"}
 {"id":"8912994164","timestamp":"2024-12-12T14:15:38.511324625Z","domain":"csfi.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-12-12T13:04:23Z","to":"2025-03-12T13:04:22Z"}
+{"id":"8913098574","timestamp":"2024-12-12T15:15:54.041965799Z","domain":"dol-dev.nonprod-ce.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2024-12-12T13:14:23Z","to":"2025-03-12T13:14:22Z"}
+{"id":"8913460967","timestamp":"2024-12-12T15:15:54.041966199Z","domain":"csfi.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-12-12T00:00:00Z","to":"2025-06-12T23:59:59Z"}
