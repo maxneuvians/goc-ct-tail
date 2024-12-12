@@ -553,3 +553,18 @@
 {"id":"8904246336","timestamp":"2024-12-11T17:15:21.232063238Z","domain":"labvpn001.ssc-spc.gc.ca","issuer":"SSL.com","from":"2024-12-11T16:52:37Z","to":"2025-12-22T14:21:19Z"}
 {"id":"8906287610","timestamp":"2024-12-11T22:15:42.778932035Z","domain":"ztpocfw.ztpoc.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2024-12-11T21:11:21Z","to":"2025-03-11T21:11:20Z"}
 {"id":"8906299241","timestamp":"2024-12-11T22:15:42.778932336Z","domain":"ztpocfw.ztpoc.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2024-12-11T21:12:42Z","to":"2025-03-11T21:12:41Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.842538964Z","domain":"mgin1.ssc-spc.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.842539305Z","domain":"mgin2.ssc-spc.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.842539485Z","domain":"mgin.ssctest.itsso.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.842539665Z","domain":"mgrt1.ssc-spc.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.842539755Z","domain":"mgrt2.ssc-spc.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.842540717Z","domain":"mgrt.ssctest.itsso.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.842540797Z","domain":"ssc-esa-01.itsso.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.842540888Z","domain":"ssc-esa-01-mgt.itsso.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.842540968Z","domain":"ssc-esa-02.itsso.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.842541909Z","domain":"ssc-esa-02-mgt.itsso.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.842541999Z","domain":"ssc-esa-dev.itsso.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.84254208Z","domain":"ssc-esa-dev-mgt.itsso.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.84254216Z","domain":"ssc-sma-01.itsso.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.84254224Z","domain":"ssc-sma-01-mgt.itsso.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
+{"id":"8912838067","timestamp":"2024-12-12T14:15:40.84254233Z","domain":"www.mgin1.ssc-spc.gc.ca","issuer":"SSL.com","from":"2024-12-12T13:30:47Z","to":"2026-01-03T05:00:00Z"}
