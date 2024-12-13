@@ -6033,3 +6033,7 @@
 {"id":"8924334055","timestamp":"2024-12-13T17:15:21.831527104Z","domain":"ceres-seres-api-test1.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-12-13T16:37:28Z","to":"2026-01-13T05:00:00Z"}
 {"id":"8925146311","timestamp":"2024-12-13T19:15:00.150326579Z","domain":"mlflow.ws-sandbox.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-13T17:43:30Z","to":"2025-03-13T17:43:29Z"}
 {"id":"8925154199","timestamp":"2024-12-13T19:15:00.15032713Z","domain":"resource-catalogue.ws-sandbox.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-13T17:43:26Z","to":"2025-03-13T17:43:25Z"}
+{"id":"8926015575","timestamp":"2024-12-13T23:15:30.198606033Z","domain":"*.alpha.service.canada.ca","issuer":"SSL.com","from":"2024-12-13T20:56:59Z","to":"2026-01-13T05:00:00Z"}
+{"id":"8926015575","timestamp":"2024-12-13T23:15:30.198607005Z","domain":"alpha.service.canada.ca","issuer":"SSL.com","from":"2024-12-13T20:56:59Z","to":"2026-01-13T05:00:00Z"}
+{"id":"8926069282","timestamp":"2024-12-13T23:15:30.198607306Z","domain":"cprs-sipc-uat.hc-sc.canada.ca","issuer":"SSL.com","from":"2024-12-13T21:08:18Z","to":"2026-01-13T05:00:00Z"}
+{"id":"8926211000","timestamp":"2024-12-13T23:15:30.198607586Z","domain":"estma-lmtse.canada.ca","issuer":"SSL.com","from":"2024-12-13T21:33:50Z","to":"2026-01-13T05:00:00Z"}
