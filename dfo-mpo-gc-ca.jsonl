@@ -518,3 +518,6 @@
 {"id":"8914968323","timestamp":"2024-12-12T19:23:43.019684173Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2024-12-12T18:14:06Z","to":"2026-01-12T05:00:00Z"}
 {"id":"8914968323","timestamp":"2024-12-12T19:23:43.019684423Z","domain":"*.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2024-12-12T18:14:06Z","to":"2026-01-12T05:00:00Z"}
 {"id":"8922167177","timestamp":"2024-12-13T12:30:48.330026277Z","domain":"policy-reporter.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-12-13T10:42:32Z","to":"2025-03-13T10:42:31Z"}
+{"id":"8923474544","timestamp":"2024-12-13T15:27:27.884140162Z","domain":"*.azure.cloud.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2024-12-13T14:38:18Z","to":"2026-01-12T05:00:00Z"}
+{"id":"8923474544","timestamp":"2024-12-13T15:27:27.884141074Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2024-12-13T14:38:18Z","to":"2026-01-12T05:00:00Z"}
+{"id":"8923474544","timestamp":"2024-12-13T15:27:27.884141395Z","domain":"*.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2024-12-13T14:38:18Z","to":"2026-01-12T05:00:00Z"}
