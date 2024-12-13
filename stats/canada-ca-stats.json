@@ -1578,6 +1578,14 @@
     "2024-12-11": {
       "DigiCert": 3,
       "Let's Encrypt": 1
+    },
+    "2024-12-12": {
+      "Let's Encrypt": 6,
+      "DigiCert": 1,
+      "SSL.com": 1
+    },
+    "2024-12-13": {
+      "DigiCert": 1
     }
   },
   "errors": []
