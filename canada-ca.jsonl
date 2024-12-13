@@ -6025,3 +6025,9 @@
 {"id":"8921247885","timestamp":"2024-12-13T10:15:58.931616257Z","domain":"accessibilite.canada.ca","issuer":"Let's Encrypt","from":"2024-12-13T08:30:49Z","to":"2025-03-13T08:30:48Z"}
 {"id":"8921247885","timestamp":"2024-12-13T10:15:58.931616728Z","domain":"accessibility.canada.ca","issuer":"Let's Encrypt","from":"2024-12-13T08:30:49Z","to":"2025-03-13T08:30:48Z"}
 {"id":"8921247885","timestamp":"2024-12-13T10:15:58.931616948Z","domain":"accessible.canada.ca","issuer":"Let's Encrypt","from":"2024-12-13T08:30:49Z","to":"2025-03-13T08:30:48Z"}
+{"id":"8924139114","timestamp":"2024-12-13T17:15:21.831525491Z","domain":"preprod.neics-nscei.canada.ca","issuer":"SSL.com","from":"2024-12-13T16:12:23Z","to":"2026-01-13T05:00:00Z"}
+{"id":"8924139114","timestamp":"2024-12-13T17:15:21.831525801Z","domain":"www.preprod.neics-nscei.canada.ca","issuer":"SSL.com","from":"2024-12-13T16:12:23Z","to":"2026-01-13T05:00:00Z"}
+{"id":"8924178885","timestamp":"2024-12-13T17:15:21.831525982Z","domain":"preprod-app.neics-nscei.canada.ca","issuer":"SSL.com","from":"2024-12-13T16:16:13Z","to":"2026-01-13T05:00:00Z"}
+{"id":"8924178885","timestamp":"2024-12-13T17:15:21.831526142Z","domain":"www.preprod-app.neics-nscei.canada.ca","issuer":"SSL.com","from":"2024-12-13T16:16:13Z","to":"2026-01-13T05:00:00Z"}
+{"id":"8924334055","timestamp":"2024-12-13T17:15:21.831526222Z","domain":"ceres-seres-api-dev1.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-12-13T16:37:28Z","to":"2026-01-13T05:00:00Z"}
+{"id":"8924334055","timestamp":"2024-12-13T17:15:21.831527104Z","domain":"ceres-seres-api-test1.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-12-13T16:37:28Z","to":"2026-01-13T05:00:00Z"}
