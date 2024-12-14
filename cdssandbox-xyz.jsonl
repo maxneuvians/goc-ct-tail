@@ -666,3 +666,5 @@
 {"id":"8926403699","timestamp":"2024-12-13T22:36:37.09479832Z","domain":"app.dev.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2024-12-13T21:16:07Z","to":"2025-03-13T21:16:06Z"}
 {"id":"8926403703","timestamp":"2024-12-13T22:36:37.09479843Z","domain":"api.dev.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2024-12-13T21:16:07Z","to":"2025-03-13T21:16:06Z"}
 {"id":"8926411059","timestamp":"2024-12-13T22:36:37.094799451Z","domain":"*.dids.dev.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2024-12-13T21:17:09Z","to":"2025-03-13T21:17:08Z"}
+{"id":"8933318162","timestamp":"2024-12-14T15:33:57.568656353Z","domain":"*.penpot.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-12-14T00:00:00Z","to":"2026-01-12T23:59:59Z"}
+{"id":"8933318162","timestamp":"2024-12-14T15:33:57.568656663Z","domain":"penpot.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-12-14T00:00:00Z","to":"2026-01-12T23:59:59Z"}
