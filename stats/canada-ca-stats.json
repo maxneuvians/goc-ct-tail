@@ -1585,7 +1585,10 @@
       "SSL.com": 1
     },
     "2024-12-13": {
-      "DigiCert": 1
+      "DigiCert": 1,
+      "Google Trust Services": 1,
+      "Let's Encrypt": 5,
+      "SSL.com": 10
     }
   },
   "errors": []
