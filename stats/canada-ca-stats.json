@@ -1589,6 +1589,13 @@
       "Google Trust Services": 1,
       "Let's Encrypt": 5,
       "SSL.com": 10
+    },
+    "2024-12-14": {
+      "Let's Encrypt": 3,
+      "DigiCert": 1
+    },
+    "2024-12-15": {
+      "Amazon Trust Services": 2
     }
   },
   "errors": []

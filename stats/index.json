@@ -34,13 +34,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 6039,
+      "totalCertificates": 6045,
       "totalsByIssuer": {
         "Entrust": 2525,
-        "Amazon Trust Services": 563,
-        "DigiCert": 306,
+        "Amazon Trust Services": 565,
+        "DigiCert": 307,
         "GoDaddy": 6,
-        "Let's Encrypt": 2162,
+        "Let's Encrypt": 2165,
         "Google Trust Services": 77,
         "Sectigo": 165,
         "SSL.com": 235
@@ -99,9 +99,9 @@
     {
       "inputFile": "cdssandbox-xyz.jsonl",
       "outputFile": "stats/cdssandbox-xyz-stats.json",
-      "totalCertificates": 668,
+      "totalCertificates": 670,
       "totalsByIssuer": {
-        "Amazon Trust Services": 662,
+        "Amazon Trust Services": 664,
         "Let's Encrypt": 6
       },
       "errorCount": 0
@@ -188,10 +188,10 @@
     {
       "inputFile": "cyber-gc-ca.jsonl",
       "outputFile": "stats/cyber-gc-ca-stats.json",
-      "totalCertificates": 226,
+      "totalCertificates": 228,
       "totalsByIssuer": {
         "Entrust": 200,
-        "Let's Encrypt": 24,
+        "Let's Encrypt": 26,
         "SSL.com": 2
       },
       "errorCount": 0
@@ -381,12 +381,12 @@
     {
       "inputFile": "nrcan-gc-ca.jsonl",
       "outputFile": "stats/nrcan-gc-ca-stats.json",
-      "totalCertificates": 6203,
+      "totalCertificates": 6205,
       "totalsByIssuer": {
         "Amazon Trust Services": 28,
         "Entrust": 460,
         "DigiCert": 20,
-        "Let's Encrypt": 2233,
+        "Let's Encrypt": 2235,
         "Sectigo": 3441,
         "SSL.com": 21
       },
@@ -636,10 +636,10 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 1691,
-    "Let's Encrypt": 5958,
+    "Amazon Trust Services": 1695,
+    "Let's Encrypt": 5965,
     "SSL.com": 864,
-    "DigiCert": 1003,
+    "DigiCert": 1004,
     "GoDaddy": 46,
     "Google Trust Services": 158,
     "Sectigo": 3646,
