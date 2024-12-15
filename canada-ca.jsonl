@@ -6046,3 +6046,5 @@
 {"id":"8938461699","timestamp":"2024-12-15T05:15:28.433109467Z","domain":"gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-15T03:27:28Z","to":"2025-03-15T03:27:27Z"}
 {"id":"8938483008","timestamp":"2024-12-15T05:15:28.433109928Z","domain":"traefik.gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-15T03:27:33Z","to":"2025-03-15T03:27:32Z"}
 {"id":"8938901107","timestamp":"2024-12-15T06:16:29.715751964Z","domain":"canary-gateway.ssc-spc.com-dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2024-12-15T04:24:33Z","to":"2025-03-15T05:18:47Z"}
+{"id":"8940555074","timestamp":"2024-12-15T10:15:37.776612091Z","domain":"blog.canada.ca","issuer":"Let's Encrypt","from":"2024-12-15T08:33:44Z","to":"2025-03-15T08:33:43Z"}
+{"id":"8940555074","timestamp":"2024-12-15T10:15:37.776612431Z","domain":"blog.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-15T08:33:44Z","to":"2025-03-15T08:33:43Z"}
