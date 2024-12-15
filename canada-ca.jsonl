@@ -6041,3 +6041,5 @@
 {"id":"8931298278","timestamp":"2024-12-14T10:15:36.718516756Z","domain":"blogue.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-14T08:43:42Z","to":"2025-03-14T08:43:41Z"}
 {"id":"8933240479","timestamp":"2024-12-14T15:15:26.915669082Z","domain":"status.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-14T13:37:34Z","to":"2025-03-14T13:37:33Z"}
 {"id":"8935043065","timestamp":"2024-12-14T20:15:46.368779113Z","domain":"ces-docs.nrcan-rncan.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-12-14T00:00:00Z","to":"2025-06-14T23:59:59Z"}
+{"id":"8938146477","timestamp":"2024-12-15T04:16:14.37313063Z","domain":"*.github-secret-scanning.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2024-12-15T00:00:00Z","to":"2026-01-14T23:59:59Z"}
+{"id":"8938146477","timestamp":"2024-12-15T04:16:14.373131051Z","domain":"github-secret-scanning.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2024-12-15T00:00:00Z","to":"2026-01-14T23:59:59Z"}
