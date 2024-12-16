@@ -1595,7 +1595,9 @@
       "DigiCert": 1
     },
     "2024-12-15": {
-      "Amazon Trust Services": 2
+      "Amazon Trust Services": 2,
+      "Let's Encrypt": 7,
+      "Google Trust Services": 1
     }
   },
   "errors": []
