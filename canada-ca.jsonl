@@ -6115,3 +6115,7 @@
 {"id":"8958382216","timestamp":"2024-12-17T08:16:36.243677844Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-17T06:24:47Z","to":"2025-03-17T06:24:46Z"}
 {"id":"8962183153","timestamp":"2024-12-17T17:15:23.617718824Z","domain":"flood-risk-portal.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2024-12-17T15:42:48Z","to":"2025-03-17T15:42:47Z"}
 {"id":"8962183153","timestamp":"2024-12-17T17:15:23.617719155Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-17T15:42:48Z","to":"2025-03-17T15:42:47Z"}
+{"id":"8962753897","timestamp":"2024-12-17T19:15:08.765848847Z","domain":"www.nexcol-nceel.canada.ca","issuer":"SSL.com","from":"2024-12-17T18:14:52Z","to":"2026-01-17T05:00:00Z"}
+{"id":"8962775970","timestamp":"2024-12-17T19:15:08.765849267Z","domain":"nrcan-funding-financement-rncan.canada.ca","issuer":"SSL.com","from":"2024-12-17T18:18:35Z","to":"2026-01-17T05:00:00Z"}
+{"id":"8962775970","timestamp":"2024-12-17T19:15:08.765849498Z","domain":"nrcan-funding-financement-rncan.fjgc-gccf.gc.ca","issuer":"SSL.com","from":"2024-12-17T18:18:35Z","to":"2026-01-17T05:00:00Z"}
+{"id":"8962956361","timestamp":"2024-12-17T19:15:08.765849748Z","domain":"api.issue-verify.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2024-12-17T00:00:00Z","to":"2026-01-15T23:59:59Z"}
