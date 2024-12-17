@@ -6113,3 +6113,5 @@
 {"id":"8958377330","timestamp":"2024-12-17T08:16:36.243677373Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-17T06:25:23Z","to":"2025-03-17T06:25:22Z"}
 {"id":"8958382216","timestamp":"2024-12-17T08:16:36.243677623Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-17T06:24:47Z","to":"2025-03-17T06:24:46Z"}
 {"id":"8958382216","timestamp":"2024-12-17T08:16:36.243677844Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-17T06:24:47Z","to":"2025-03-17T06:24:46Z"}
+{"id":"8962183153","timestamp":"2024-12-17T17:15:23.617718824Z","domain":"flood-risk-portal.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2024-12-17T15:42:48Z","to":"2025-03-17T15:42:47Z"}
+{"id":"8962183153","timestamp":"2024-12-17T17:15:23.617719155Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-17T15:42:48Z","to":"2025-03-17T15:42:47Z"}
