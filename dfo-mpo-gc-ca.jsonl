@@ -522,3 +522,4 @@
 {"id":"8923474544","timestamp":"2024-12-13T15:27:27.884141074Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2024-12-13T14:38:18Z","to":"2026-01-12T05:00:00Z"}
 {"id":"8923474544","timestamp":"2024-12-13T15:27:27.884141395Z","domain":"*.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2024-12-13T14:38:18Z","to":"2026-01-12T05:00:00Z"}
 {"id":"8966608823","timestamp":"2024-12-18T05:26:46.976282949Z","domain":"falco-ui.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-12-18T04:20:03Z","to":"2025-03-18T04:20:02Z"}
+{"id":"8966668673","timestamp":"2024-12-18T06:29:26.929832868Z","domain":"prometheus.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-12-18T04:26:39Z","to":"2025-03-18T04:26:38Z"}
