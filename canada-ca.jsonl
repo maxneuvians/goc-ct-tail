@@ -6137,3 +6137,4 @@
 {"id":"8972939688","timestamp":"2024-12-18T21:15:26.810872063Z","domain":"*.poc.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-12-18T00:00:00Z","to":"2026-01-16T23:59:59Z"}
 {"id":"8972939688","timestamp":"2024-12-18T21:15:26.810872484Z","domain":"rancher.poc.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-12-18T00:00:00Z","to":"2026-01-16T23:59:59Z"}
 {"id":"8973734552","timestamp":"2024-12-19T00:33:40.78599018Z","domain":"cms-repo.experimentation.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2024-12-18T22:19:43Z","to":"2025-03-18T23:13:57Z"}
+{"id":"8975705849","timestamp":"2024-12-19T05:15:37.469285834Z","domain":"esdc-consultations.canada.ca","issuer":"Let's Encrypt","from":"2024-12-19T03:41:03Z","to":"2025-03-19T03:41:02Z"}
