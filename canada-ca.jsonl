@@ -6142,3 +6142,5 @@
 {"id":"8976845476","timestamp":"2024-12-19T08:16:32.099851322Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-19T06:25:09Z","to":"2025-03-19T06:25:08Z"}
 {"id":"8979263826","timestamp":"2024-12-19T14:15:23.922937158Z","domain":"suggestion.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-19T12:20:09Z","to":"2025-03-19T12:20:08Z"}
 {"id":"8987167940","timestamp":"2024-12-20T09:15:37.495971288Z","domain":"*.md.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2024-12-20T00:00:00Z","to":"2025-03-20T23:59:59Z"}
+{"id":"8989560331","timestamp":"2024-12-20T15:15:30.112231542Z","domain":"elvis-celine-next-qa.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-12-20T00:00:00Z","to":"2026-01-18T23:59:59Z"}
+{"id":"8989679280","timestamp":"2024-12-20T15:15:30.112232113Z","domain":"*.hydro.science.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-12-20T14:16:28Z","to":"2026-01-20T05:00:00Z"}
