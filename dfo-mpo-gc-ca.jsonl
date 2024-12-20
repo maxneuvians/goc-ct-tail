@@ -528,3 +528,4 @@
 {"id":"8979336489","timestamp":"2024-12-19T14:26:52.751365184Z","domain":"epro-test.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2024-12-19T00:00:00Z","to":"2025-06-19T23:59:59Z"}
 {"id":"8991847495","timestamp":"2024-12-20T20:26:05.378352509Z","domain":"*.edh.unclass.azure.cloud.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2024-12-20T19:49:58Z","to":"2026-01-20T05:00:00Z"}
 {"id":"8991847495","timestamp":"2024-12-20T20:26:05.37835286Z","domain":"edh.unclass.azure.cloud.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2024-12-20T19:49:58Z","to":"2026-01-20T05:00:00Z"}
+{"id":"8992637037","timestamp":"2024-12-20T22:26:19.635939842Z","domain":"neptune.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2024-12-20T21:05:22Z","to":"2025-03-20T21:05:21Z"}
