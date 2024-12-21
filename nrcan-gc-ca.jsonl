@@ -6225,3 +6225,5 @@
 {"id":"8985866364","timestamp":"2024-12-20T06:16:29.587629629Z","domain":"www.buildings.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-20T00:00:00Z","to":"2025-03-20T23:59:59Z"}
 {"id":"8985866364","timestamp":"2024-12-20T06:16:29.58762973Z","domain":"www.buildings.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-20T00:00:00Z","to":"2025-03-20T23:59:59Z"}
 {"id":"8985866364","timestamp":"2024-12-20T06:16:29.58762984Z","domain":"www.buildings.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-20T00:00:00Z","to":"2025-03-20T23:59:59Z"}
+{"id":"8993409626","timestamp":"2024-12-21T00:31:31.543830237Z","domain":"*.cfs.cloud.nrcan.gc.ca","issuer":"Amazon Trust Services","from":"2024-12-21T00:00:00Z","to":"2026-01-19T23:59:59Z"}
+{"id":"8993409626","timestamp":"2024-12-21T00:31:31.543831008Z","domain":"cfs.cloud.nrcan.gc.ca","issuer":"Amazon Trust Services","from":"2024-12-21T00:00:00Z","to":"2026-01-19T23:59:59Z"}
