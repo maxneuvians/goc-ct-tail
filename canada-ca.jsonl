@@ -6148,3 +6148,6 @@
 {"id":"8990822135","timestamp":"2024-12-20T18:16:21.305759529Z","domain":"fertiscan.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-20T16:15:32Z","to":"2025-03-20T16:15:31Z"}
 {"id":"9000446594","timestamp":"2024-12-21T17:14:52.082745913Z","domain":"louis.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-21T15:44:32Z","to":"2025-03-21T15:44:31Z"}
 {"id":"9005446463","timestamp":"2024-12-22T06:16:17.161532922Z","domain":"ncco-app.fsdh-dhsf.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-12-22T00:00:00Z","to":"2025-06-22T23:59:59Z"}
+{"id":"9007379671","timestamp":"2024-12-22T11:14:19.491230935Z","domain":"census.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-22T09:54:51Z","to":"2025-03-22T09:54:50Z"}
+{"id":"9007379671","timestamp":"2024-12-22T11:14:19.491231205Z","domain":"census-cws.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2024-12-22T09:54:51Z","to":"2025-03-22T09:54:50Z"}
+{"id":"9007379671","timestamp":"2024-12-22T11:14:19.491231446Z","domain":"recensement.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-22T09:54:51Z","to":"2025-03-22T09:54:50Z"}
