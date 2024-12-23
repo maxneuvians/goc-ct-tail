@@ -64,3 +64,7 @@
 {"id":"7266939910","timestamp":"2024-10-08T15:54:20.963769176Z","domain":"www.data2.archives.ca","issuer":"Entrust","from":"2024-05-06T17:22:58Z","to":"2025-06-06T17:22:56Z"}
 {"id":"7266939910","timestamp":"2024-10-08T15:54:20.963769256Z","domain":"www.marc21.ca","issuer":"Entrust","from":"2024-05-06T17:22:58Z","to":"2025-06-06T17:22:56Z"}
 {"id":"7266939910","timestamp":"2024-10-08T15:54:20.963769326Z","domain":"www.nlc-bnc.ca","issuer":"Entrust","from":"2024-05-06T17:22:58Z","to":"2025-06-06T17:22:56Z"}
+{"id":"9016984403","timestamp":"2024-12-23T13:00:51.945934238Z","domain":"autodiscover.bac-lac.gc.ca","issuer":"SSL.com","from":"2024-12-23T12:37:11Z","to":"2025-12-23T12:46:23Z"}
+{"id":"9016984403","timestamp":"2024-12-23T13:00:51.94593493Z","domain":"autodiscover.lac-bac.gc.ca","issuer":"SSL.com","from":"2024-12-23T12:37:11Z","to":"2025-12-23T12:46:23Z"}
+{"id":"9016984403","timestamp":"2024-12-23T13:00:51.94593516Z","domain":"mail.bac-lac.gc.ca","issuer":"SSL.com","from":"2024-12-23T12:37:11Z","to":"2025-12-23T12:46:23Z"}
+{"id":"9016984403","timestamp":"2024-12-23T13:00:51.945935431Z","domain":"mrs.bac-lac.gc.ca","issuer":"SSL.com","from":"2024-12-23T12:37:11Z","to":"2025-12-23T12:46:23Z"}
