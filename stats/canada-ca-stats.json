@@ -1630,6 +1630,11 @@
     "2024-12-22": {
       "DigiCert": 1,
       "Let's Encrypt": 5
+    },
+    "2024-12-23": {
+      "Let's Encrypt": 3,
+      "SSL.com": 2,
+      "Amazon Trust Services": 1
     }
   },
   "errors": []
