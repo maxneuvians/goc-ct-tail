@@ -6159,3 +6159,8 @@
 {"id":"9017214966","timestamp":"2024-12-23T14:15:18.997782274Z","domain":"canchat.uat.ibm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2024-12-23T12:25:02Z","to":"2025-03-23T12:25:01Z"}
 {"id":"9018015965","timestamp":"2024-12-23T16:15:58.814451669Z","domain":"mras-samr.ised-isde.canada.ca","issuer":"SSL.com","from":"2024-12-23T15:30:49Z","to":"2025-12-23T15:39:59Z"}
 {"id":"9018073392","timestamp":"2024-12-23T16:15:58.81445241Z","domain":"cnas-nscc-dev.tpsgc-pwgsc.aws.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2024-12-23T00:00:00Z","to":"2026-01-21T23:59:59Z"}
+{"id":"9023999633","timestamp":"2024-12-24T08:16:20.843809656Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-24T06:26:00Z","to":"2025-03-24T06:25:59Z"}
+{"id":"9023999633","timestamp":"2024-12-24T08:16:20.843810117Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-24T06:26:00Z","to":"2025-03-24T06:25:59Z"}
+{"id":"9024017915","timestamp":"2024-12-24T08:16:20.843810418Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-24T06:29:08Z","to":"2025-03-24T06:29:07Z"}
+{"id":"9024017915","timestamp":"2024-12-24T08:16:20.843810688Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-24T06:29:08Z","to":"2025-03-24T06:29:07Z"}
+{"id":"9024201788","timestamp":"2024-12-24T08:16:20.843810818Z","domain":"micro-acquisition.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-24T06:56:10Z","to":"2025-03-24T06:56:09Z"}
