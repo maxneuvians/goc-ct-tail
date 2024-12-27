@@ -710,3 +710,10 @@
 {"id":"9009932228","timestamp":"2024-12-22T18:36:01.238580944Z","domain":"status.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-12-22T00:00:00Z","to":"2026-01-20T23:59:59Z"}
 {"id":"9038573556","timestamp":"2024-12-26T00:48:33.632771506Z","domain":"*.sre-bot.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-12-26T00:00:00Z","to":"2026-01-25T23:59:59Z"}
 {"id":"9038573556","timestamp":"2024-12-26T00:48:33.632771917Z","domain":"sre-bot.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-12-26T00:00:00Z","to":"2026-01-25T23:59:59Z"}
+{"id":"9055046093","timestamp":"2024-12-27T16:36:24.911301431Z","domain":"*.scratch-mm.gciv-dvgc.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-12-27T00:00:00Z","to":"2026-01-25T23:59:59Z"}
+{"id":"9055046093","timestamp":"2024-12-27T16:36:24.911301822Z","domain":"scratch-mm.gciv-dvgc.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-12-27T00:00:00Z","to":"2026-01-25T23:59:59Z"}
+{"id":"9055046432","timestamp":"2024-12-27T16:36:24.911302063Z","domain":"scratch-mm.delivrance-verification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-12-27T00:00:00Z","to":"2026-01-25T23:59:59Z"}
+{"id":"9055047179","timestamp":"2024-12-27T16:36:24.911302263Z","domain":"*.docs.api.scratch-mm.issue-verify.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-12-27T00:00:00Z","to":"2026-01-25T23:59:59Z"}
+{"id":"9055047179","timestamp":"2024-12-27T16:36:24.911302363Z","domain":"docs.api.scratch-mm.issue-verify.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-12-27T00:00:00Z","to":"2026-01-25T23:59:59Z"}
+{"id":"9055058473","timestamp":"2024-12-27T16:36:24.911303135Z","domain":"scratch-mm.issue-verify.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-12-27T00:00:00Z","to":"2026-01-25T23:59:59Z"}
+{"id":"9055059323","timestamp":"2024-12-27T16:36:24.911303235Z","domain":"api.scratch-mm.issue-verify.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2024-12-27T00:00:00Z","to":"2026-01-25T23:59:59Z"}
