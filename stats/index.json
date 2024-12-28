@@ -35,16 +35,16 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 6197,
+      "totalCertificates": 6201,
       "totalsByIssuer": {
         "Entrust": 2525,
         "Amazon Trust Services": 574,
-        "DigiCert": 312,
+        "DigiCert": 313,
         "GoDaddy": 6,
-        "Let's Encrypt": 2282,
+        "Let's Encrypt": 2283,
         "Google Trust Services": 81,
         "Sectigo": 166,
-        "SSL.com": 251
+        "SSL.com": 253
       },
       "errorCount": 0
     },
@@ -90,10 +90,10 @@
     {
       "inputFile": "cds-snc-ca.jsonl",
       "outputFile": "stats/cds-snc-ca-stats.json",
-      "totalCertificates": 30,
+      "totalCertificates": 31,
       "totalsByIssuer": {
         "Amazon Trust Services": 6,
-        "Let's Encrypt": 20,
+        "Let's Encrypt": 21,
         "Google Trust Services": 4
       },
       "errorCount": 0
@@ -101,9 +101,9 @@
     {
       "inputFile": "cdssandbox-xyz.jsonl",
       "outputFile": "stats/cdssandbox-xyz-stats.json",
-      "totalCertificates": 712,
+      "totalCertificates": 719,
       "totalsByIssuer": {
-        "Amazon Trust Services": 706,
+        "Amazon Trust Services": 713,
         "Let's Encrypt": 6
       },
       "errorCount": 0
@@ -201,11 +201,11 @@
     {
       "inputFile": "dfo-mpo-gc-ca.jsonl",
       "outputFile": "stats/dfo-mpo-gc-ca-stats.json",
-      "totalCertificates": 534,
+      "totalCertificates": 537,
       "totalsByIssuer": {
         "Entrust": 332,
         "DigiCert": 25,
-        "Let's Encrypt": 146,
+        "Let's Encrypt": 149,
         "SSL.com": 31
       },
       "errorCount": 0
@@ -640,10 +640,10 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 1762,
-    "Let's Encrypt": 6124,
-    "SSL.com": 948,
-    "DigiCert": 1026,
+    "Amazon Trust Services": 1769,
+    "Let's Encrypt": 6129,
+    "SSL.com": 950,
+    "DigiCert": 1027,
     "GoDaddy": 46,
     "Google Trust Services": 163,
     "Sectigo": 3667,
