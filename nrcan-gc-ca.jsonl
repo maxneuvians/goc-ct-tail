@@ -6227,3 +6227,7 @@
 {"id":"8985866364","timestamp":"2024-12-20T06:16:29.58762984Z","domain":"www.buildings.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-20T00:00:00Z","to":"2025-03-20T23:59:59Z"}
 {"id":"8993409626","timestamp":"2024-12-21T00:31:31.543830237Z","domain":"*.cfs.cloud.nrcan.gc.ca","issuer":"Amazon Trust Services","from":"2024-12-21T00:00:00Z","to":"2026-01-19T23:59:59Z"}
 {"id":"8993409626","timestamp":"2024-12-21T00:31:31.543831008Z","domain":"cfs.cloud.nrcan.gc.ca","issuer":"Amazon Trust Services","from":"2024-12-21T00:00:00Z","to":"2026-01-19T23:59:59Z"}
+{"id":"9060384206","timestamp":"2024-12-28T06:16:13.401188701Z","domain":"bootcamp.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-28T04:38:42Z","to":"2025-03-28T04:38:41Z"}
+{"id":"9060384206","timestamp":"2024-12-28T06:16:13.401189062Z","domain":"bootcamp.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-28T04:38:42Z","to":"2025-03-28T04:38:41Z"}
+{"id":"9060384206","timestamp":"2024-12-28T06:16:13.401189272Z","domain":"bootcamp.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-28T04:38:42Z","to":"2025-03-28T04:38:41Z"}
+{"id":"9060384206","timestamp":"2024-12-28T06:16:13.401189482Z","domain":"bootcamp.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-28T04:38:42Z","to":"2025-03-28T04:38:41Z"}
