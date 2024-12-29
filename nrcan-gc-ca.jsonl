@@ -6327,3 +6327,191 @@
 {"id":"9069747504","timestamp":"2024-12-29T06:16:15.681587786Z","domain":"portesouvertes.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
 {"id":"9069747504","timestamp":"2024-12-29T06:16:15.681587866Z","domain":"portesouvertes.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
 {"id":"9069747504","timestamp":"2024-12-29T06:16:15.681587956Z","domain":"portesouvertes.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069761222","timestamp":"2024-12-29T07:14:58.052293296Z","domain":"psst.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069761222","timestamp":"2024-12-29T07:14:58.052294147Z","domain":"psst.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069761222","timestamp":"2024-12-29T07:14:58.052294588Z","domain":"psst.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069761222","timestamp":"2024-12-29T07:14:58.05229579Z","domain":"psst.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069769973","timestamp":"2024-12-29T07:14:58.052296021Z","domain":"psst-stip.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069769973","timestamp":"2024-12-29T07:14:58.052297133Z","domain":"psst-stip.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069769973","timestamp":"2024-12-29T07:14:58.052297243Z","domain":"psst-stip.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069769973","timestamp":"2024-12-29T07:14:58.052297333Z","domain":"psst-stip.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069769973","timestamp":"2024-12-29T07:14:58.052297423Z","domain":"stip.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069769973","timestamp":"2024-12-29T07:14:58.052298846Z","domain":"stip.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069769973","timestamp":"2024-12-29T07:14:58.052298936Z","domain":"stip-psst.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069769973","timestamp":"2024-12-29T07:14:58.052299026Z","domain":"stip-psst.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069769973","timestamp":"2024-12-29T07:14:58.052299127Z","domain":"stip-psst.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069769973","timestamp":"2024-12-29T07:14:58.052299207Z","domain":"stip-psst.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069769973","timestamp":"2024-12-29T07:14:58.052299307Z","domain":"stip.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069769973","timestamp":"2024-12-29T07:14:58.052299387Z","domain":"stip.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069777048","timestamp":"2024-12-29T07:14:58.052299507Z","domain":"pwdan.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069777048","timestamp":"2024-12-29T07:14:58.052299587Z","domain":"pwdan.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069777048","timestamp":"2024-12-29T07:14:58.05230101Z","domain":"pwdan.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069777048","timestamp":"2024-12-29T07:14:58.05230111Z","domain":"pwdan.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069791461","timestamp":"2024-12-29T07:14:58.052301231Z","domain":"qtool-e.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069791461","timestamp":"2024-12-29T07:14:58.052301321Z","domain":"qtool-e.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069791461","timestamp":"2024-12-29T07:14:58.052301411Z","domain":"qtool-e.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069791461","timestamp":"2024-12-29T07:14:58.052301501Z","domain":"qtool-e.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069791461","timestamp":"2024-12-29T07:14:58.052301611Z","domain":"www.qtool-e.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069791461","timestamp":"2024-12-29T07:14:58.052301701Z","domain":"www.qtool-e.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069791461","timestamp":"2024-12-29T07:14:58.052301801Z","domain":"www.qtool-e.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069791461","timestamp":"2024-12-29T07:14:58.052301892Z","domain":"www.qtool-e.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069798581","timestamp":"2024-12-29T07:14:58.052302002Z","domain":"qtool-f.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069798581","timestamp":"2024-12-29T07:14:58.052302092Z","domain":"qtool-f.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069798581","timestamp":"2024-12-29T07:14:58.052302182Z","domain":"qtool-f.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069798581","timestamp":"2024-12-29T07:14:58.052302262Z","domain":"qtool-f.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069798581","timestamp":"2024-12-29T07:14:58.052302353Z","domain":"www.qtool-f.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069798581","timestamp":"2024-12-29T07:14:58.052302443Z","domain":"www.qtool-f.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069798581","timestamp":"2024-12-29T07:14:58.052302533Z","domain":"www.qtool-f.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069798581","timestamp":"2024-12-29T07:14:58.052302623Z","domain":"www.qtool-f.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069802801","timestamp":"2024-12-29T07:14:58.052302733Z","domain":"quitter.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069802801","timestamp":"2024-12-29T07:14:58.052302823Z","domain":"quitter.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069802801","timestamp":"2024-12-29T07:14:58.052302914Z","domain":"quitter.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069802801","timestamp":"2024-12-29T07:14:58.052303004Z","domain":"quitter.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069806603","timestamp":"2024-12-29T07:14:58.052304557Z","domain":"rapport-rcx.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069806603","timestamp":"2024-12-29T07:14:58.052304657Z","domain":"rapport-rcx.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069806603","timestamp":"2024-12-29T07:14:58.052304747Z","domain":"rapport-rcx.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069806603","timestamp":"2024-12-29T07:14:58.052304837Z","domain":"rapport-rcx.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069806603","timestamp":"2024-12-29T07:14:58.052304927Z","domain":"www.rapport-rcx.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069806603","timestamp":"2024-12-29T07:14:58.052305027Z","domain":"www.rapport-rcx.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069806603","timestamp":"2024-12-29T07:14:58.052305118Z","domain":"www.rapport-rcx.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069806603","timestamp":"2024-12-29T07:14:58.052305198Z","domain":"www.rapport-rcx.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069809060","timestamp":"2024-12-29T07:14:58.052305298Z","domain":"rcx-report.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069809060","timestamp":"2024-12-29T07:14:58.052305388Z","domain":"rcx-report.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069809060","timestamp":"2024-12-29T07:14:58.052305479Z","domain":"rcx-report.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069809060","timestamp":"2024-12-29T07:14:58.052305568Z","domain":"rcx-report.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069809060","timestamp":"2024-12-29T07:14:58.052305659Z","domain":"www.rcx-report.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069809060","timestamp":"2024-12-29T07:14:58.052305749Z","domain":"www.rcx-report.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069809060","timestamp":"2024-12-29T07:14:58.052305839Z","domain":"www.rcx-report.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069809060","timestamp":"2024-12-29T07:14:58.052305929Z","domain":"www.rcx-report.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069810469","timestamp":"2024-12-29T07:14:58.052306029Z","domain":"recherche-search.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069810469","timestamp":"2024-12-29T07:14:58.05230613Z","domain":"recherche-search.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069810469","timestamp":"2024-12-29T07:14:58.05230622Z","domain":"recherche-search.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069810469","timestamp":"2024-12-29T07:14:58.05230631Z","domain":"recherche-search.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069836006","timestamp":"2024-12-29T07:14:58.05230641Z","domain":"reed.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069836006","timestamp":"2024-12-29T07:14:58.05230651Z","domain":"reed.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069836006","timestamp":"2024-12-29T07:14:58.05230661Z","domain":"reed.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069836006","timestamp":"2024-12-29T07:14:58.052306701Z","domain":"reed.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069836006","timestamp":"2024-12-29T07:14:58.052306791Z","domain":"www.reed.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069836006","timestamp":"2024-12-29T07:14:58.052306881Z","domain":"www.reed.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069836006","timestamp":"2024-12-29T07:14:58.052306971Z","domain":"www.reed.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069836006","timestamp":"2024-12-29T07:14:58.052307061Z","domain":"www.reed.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069839507","timestamp":"2024-12-29T07:14:58.052307162Z","domain":"reglement.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069839507","timestamp":"2024-12-29T07:14:58.052307242Z","domain":"reglement.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069839507","timestamp":"2024-12-29T07:14:58.052307332Z","domain":"reglement.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069839507","timestamp":"2024-12-29T07:14:58.052307432Z","domain":"reglement.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069839507","timestamp":"2024-12-29T07:14:58.052307532Z","domain":"regulations.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069839507","timestamp":"2024-12-29T07:14:58.052307643Z","domain":"regulations.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069839507","timestamp":"2024-12-29T07:14:58.052307743Z","domain":"regulations.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069839507","timestamp":"2024-12-29T07:14:58.052307843Z","domain":"regulations.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069841589","timestamp":"2024-12-29T07:14:58.052307973Z","domain":"rph.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069841589","timestamp":"2024-12-29T07:14:58.052308073Z","domain":"rph.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069841589","timestamp":"2024-12-29T07:14:58.052308164Z","domain":"rph.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069841589","timestamp":"2024-12-29T07:14:58.052313904Z","domain":"rph.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069842175","timestamp":"2024-12-29T07:14:58.052314015Z","domain":"salishsea.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069864121","timestamp":"2024-12-29T07:14:58.052314135Z","domain":"screen.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069864121","timestamp":"2024-12-29T07:14:58.052314225Z","domain":"screen.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069864121","timestamp":"2024-12-29T07:14:58.052314315Z","domain":"screen.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069864121","timestamp":"2024-12-29T07:14:58.052314415Z","domain":"screen.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069888072","timestamp":"2024-12-29T07:14:58.052314525Z","domain":"statsdeminiere.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069888072","timestamp":"2024-12-29T07:14:58.052314616Z","domain":"statsdeminiere.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069888072","timestamp":"2024-12-29T07:14:58.052314706Z","domain":"statsdeminiere.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069888072","timestamp":"2024-12-29T07:14:58.052314796Z","domain":"statsdeminiere.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069889902","timestamp":"2024-12-29T07:14:58.052314906Z","domain":"statsminieres.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069889902","timestamp":"2024-12-29T07:14:58.052314996Z","domain":"statsminieres.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069889902","timestamp":"2024-12-29T07:14:58.052315086Z","domain":"statsminieres.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069889902","timestamp":"2024-12-29T07:14:58.052315177Z","domain":"statsminieres.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069907240","timestamp":"2024-12-29T07:14:58.052315287Z","domain":"tac.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069907240","timestamp":"2024-12-29T07:14:58.052315377Z","domain":"tac.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069907240","timestamp":"2024-12-29T07:14:58.052315467Z","domain":"tac.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069907240","timestamp":"2024-12-29T07:14:58.052315557Z","domain":"tac.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069909917","timestamp":"2024-12-29T07:14:58.052315667Z","domain":"tactile.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069909917","timestamp":"2024-12-29T07:14:58.052315758Z","domain":"tactile.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069909917","timestamp":"2024-12-29T07:14:58.052315848Z","domain":"tactile.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069909917","timestamp":"2024-12-29T07:14:58.052315948Z","domain":"tactile.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069915694","timestamp":"2024-12-29T07:14:58.052316038Z","domain":"transformation-foresterie.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069915694","timestamp":"2024-12-29T07:14:58.052316148Z","domain":"transformation-foresterie.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069915694","timestamp":"2024-12-29T07:14:58.052316239Z","domain":"transformation-foresterie.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069915694","timestamp":"2024-12-29T07:14:58.052316329Z","domain":"transformation-foresterie.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069915694","timestamp":"2024-12-29T07:14:58.052316429Z","domain":"www.transformation-foresterie.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069915694","timestamp":"2024-12-29T07:14:58.052316519Z","domain":"www.transformation-foresterie.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069915694","timestamp":"2024-12-29T07:14:58.052316609Z","domain":"www.transformation-foresterie.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069915694","timestamp":"2024-12-29T07:14:58.0523167Z","domain":"www.transformation-foresterie.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069920498","timestamp":"2024-12-29T07:14:58.0523168Z","domain":"transportation.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069920498","timestamp":"2024-12-29T07:14:58.05231689Z","domain":"transportation.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069920498","timestamp":"2024-12-29T07:14:58.05231699Z","domain":"transportation.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069920498","timestamp":"2024-12-29T07:14:58.05231708Z","domain":"transportation.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069925403","timestamp":"2024-12-29T07:14:58.052317181Z","domain":"transports.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069925403","timestamp":"2024-12-29T07:14:58.05231727Z","domain":"transports.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069925403","timestamp":"2024-12-29T07:14:58.052317371Z","domain":"transports.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069925403","timestamp":"2024-12-29T07:14:58.052317461Z","domain":"transports.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069941315","timestamp":"2024-12-29T07:14:58.052317561Z","domain":"urbangeology.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069941315","timestamp":"2024-12-29T07:14:58.052317651Z","domain":"urbangeology.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069941315","timestamp":"2024-12-29T07:14:58.052317742Z","domain":"urbangeology.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069941315","timestamp":"2024-12-29T07:14:58.052317832Z","domain":"urbangeology.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069941315","timestamp":"2024-12-29T07:14:58.052317922Z","domain":"www.urbangeology.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069941315","timestamp":"2024-12-29T07:14:58.052318012Z","domain":"www.urbangeology.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069941315","timestamp":"2024-12-29T07:14:58.052318102Z","domain":"www.urbangeology.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069941315","timestamp":"2024-12-29T07:14:58.052318202Z","domain":"www.urbangeology.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069946528","timestamp":"2024-12-29T07:14:58.052318292Z","domain":"urwd.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069946528","timestamp":"2024-12-29T07:14:58.052318393Z","domain":"urwd.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069946528","timestamp":"2024-12-29T07:14:58.052318493Z","domain":"urwd.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069946528","timestamp":"2024-12-29T07:14:58.052318583Z","domain":"urwd.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069946528","timestamp":"2024-12-29T07:14:58.052318683Z","domain":"www.urwd.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069946528","timestamp":"2024-12-29T07:14:58.052318773Z","domain":"www.urwd.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069946528","timestamp":"2024-12-29T07:14:58.052318873Z","domain":"www.urwd.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069946528","timestamp":"2024-12-29T07:14:58.052318964Z","domain":"www.urwd.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069951622","timestamp":"2024-12-29T07:14:58.052319064Z","domain":"reseaudesfemmes.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069951622","timestamp":"2024-12-29T07:14:58.052319154Z","domain":"reseaudesfemmes.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069951622","timestamp":"2024-12-29T07:14:58.052319254Z","domain":"reseaudesfemmes.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069951622","timestamp":"2024-12-29T07:14:58.052319345Z","domain":"reseaudesfemmes.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069951622","timestamp":"2024-12-29T07:14:58.052319435Z","domain":"womensnetwork.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069951622","timestamp":"2024-12-29T07:14:58.052319525Z","domain":"womensnetwork.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069951622","timestamp":"2024-12-29T07:14:58.052319615Z","domain":"womensnetwork.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069951622","timestamp":"2024-12-29T07:14:58.052319705Z","domain":"womensnetwork.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069959733","timestamp":"2024-12-29T07:14:58.052319815Z","domain":"www2cm.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069959733","timestamp":"2024-12-29T07:14:58.052319906Z","domain":"www2cm.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069959733","timestamp":"2024-12-29T07:14:58.052319996Z","domain":"www2cm.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069959733","timestamp":"2024-12-29T07:14:58.052320086Z","domain":"www2cm.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069966461","timestamp":"2024-12-29T07:14:58.052320196Z","domain":"aboriginalforestry.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069966461","timestamp":"2024-12-29T07:14:58.052320286Z","domain":"aboriginalforestry.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069966461","timestamp":"2024-12-29T07:14:58.052320376Z","domain":"aboriginalforestry.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069966461","timestamp":"2024-12-29T07:14:58.052320467Z","domain":"aboriginalforestry.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069966461","timestamp":"2024-12-29T07:14:58.052320557Z","domain":"www.aboriginalforestry.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069966461","timestamp":"2024-12-29T07:14:58.052320657Z","domain":"www.aboriginalforestry.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069966461","timestamp":"2024-12-29T07:14:58.052320747Z","domain":"www.aboriginalforestry.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069966461","timestamp":"2024-12-29T07:14:58.052320837Z","domain":"www.aboriginalforestry.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9069996998","timestamp":"2024-12-29T07:14:58.052320937Z","domain":"evtrm.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:24Z","to":"2025-03-29T05:51:23Z"}
+{"id":"9069996998","timestamp":"2024-12-29T07:14:58.052321028Z","domain":"evtrm.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:24Z","to":"2025-03-29T05:51:23Z"}
+{"id":"9069996998","timestamp":"2024-12-29T07:14:58.052321128Z","domain":"evtrm.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:24Z","to":"2025-03-29T05:51:23Z"}
+{"id":"9069996998","timestamp":"2024-12-29T07:14:58.052321228Z","domain":"evtrm.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:24Z","to":"2025-03-29T05:51:23Z"}
+{"id":"9069996998","timestamp":"2024-12-29T07:14:58.052321318Z","domain":"www.evtrm.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:24Z","to":"2025-03-29T05:51:23Z"}
+{"id":"9069996998","timestamp":"2024-12-29T07:14:58.052324434Z","domain":"www.evtrm.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:24Z","to":"2025-03-29T05:51:23Z"}
+{"id":"9069996998","timestamp":"2024-12-29T07:14:58.052324534Z","domain":"www.evtrm.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:24Z","to":"2025-03-29T05:51:23Z"}
+{"id":"9069996998","timestamp":"2024-12-29T07:14:58.052324635Z","domain":"www.evtrm.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:24Z","to":"2025-03-29T05:51:23Z"}
+{"id":"9069996998","timestamp":"2024-12-29T07:14:58.052324735Z","domain":"www.evtrm.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:24Z","to":"2025-03-29T05:51:23Z"}
+{"id":"9070012719","timestamp":"2024-12-29T07:14:58.052324845Z","domain":"faq.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:52Z","to":"2025-03-29T05:51:51Z"}
+{"id":"9070012719","timestamp":"2024-12-29T07:14:58.052324935Z","domain":"faq.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:52Z","to":"2025-03-29T05:51:51Z"}
+{"id":"9070012719","timestamp":"2024-12-29T07:14:58.052325025Z","domain":"faq.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:52Z","to":"2025-03-29T05:51:51Z"}
+{"id":"9070012719","timestamp":"2024-12-29T07:14:58.052325125Z","domain":"faq.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:52Z","to":"2025-03-29T05:51:51Z"}
+{"id":"9070012719","timestamp":"2024-12-29T07:14:58.052325216Z","domain":"www.faq.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:52Z","to":"2025-03-29T05:51:51Z"}
+{"id":"9070012719","timestamp":"2024-12-29T07:14:58.052325306Z","domain":"www.faq.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:52Z","to":"2025-03-29T05:51:51Z"}
+{"id":"9070012719","timestamp":"2024-12-29T07:14:58.052325406Z","domain":"www.faq.rncan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:52Z","to":"2025-03-29T05:51:51Z"}
+{"id":"9070012719","timestamp":"2024-12-29T07:14:58.052325496Z","domain":"www.faq.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:51:52Z","to":"2025-03-29T05:51:51Z"}
+{"id":"9070048931","timestamp":"2024-12-29T07:14:58.052325606Z","domain":"pcsp.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:59:51Z","to":"2025-03-29T05:59:50Z"}
+{"id":"9070048931","timestamp":"2024-12-29T07:14:58.052325706Z","domain":"www.pcsp.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2024-12-29T05:59:51Z","to":"2025-03-29T05:59:50Z"}
+{"id":"9070066494","timestamp":"2024-12-29T07:14:58.052325827Z","domain":"pipeline.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070066494","timestamp":"2024-12-29T07:14:58.052325927Z","domain":"pipeline.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070066494","timestamp":"2024-12-29T07:14:58.052326027Z","domain":"www.pipeline.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070066494","timestamp":"2024-12-29T07:14:58.052326117Z","domain":"www.pipeline.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070077714","timestamp":"2024-12-29T07:14:58.052326238Z","domain":"polaire.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070077714","timestamp":"2024-12-29T07:14:58.052326327Z","domain":"polar.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070077714","timestamp":"2024-12-29T07:14:58.052326418Z","domain":"www.polaire.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070077714","timestamp":"2024-12-29T07:14:58.052326508Z","domain":"www.polar.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070090849","timestamp":"2024-12-29T07:14:58.052326628Z","domain":"pres.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070090849","timestamp":"2024-12-29T07:14:58.052326718Z","domain":"pres.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070090849","timestamp":"2024-12-29T07:14:58.052326808Z","domain":"pres.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070090849","timestamp":"2024-12-29T07:14:58.052326899Z","domain":"pres.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070090849","timestamp":"2024-12-29T07:14:58.052326989Z","domain":"www.pres.nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070090849","timestamp":"2024-12-29T07:14:58.052327079Z","domain":"www.pres.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070090849","timestamp":"2024-12-29T07:14:58.052327169Z","domain":"www.pres.rncan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
+{"id":"9070090849","timestamp":"2024-12-29T07:14:58.052327259Z","domain":"www.pres.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2024-12-29T00:00:00Z","to":"2025-03-29T23:59:59Z"}
