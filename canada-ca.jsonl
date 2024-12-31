@@ -6213,3 +6213,7 @@
 {"id":"9087015464","timestamp":"2024-12-31T08:16:13.743872484Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-31T06:31:39Z","to":"2025-03-31T06:31:38Z"}
 {"id":"9087015464","timestamp":"2024-12-31T08:16:13.743872764Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2024-12-31T06:31:39Z","to":"2025-03-31T06:31:38Z"}
 {"id":"9088622178","timestamp":"2024-12-31T12:17:06.973092905Z","domain":"grafana.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-31T11:10:20Z","to":"2025-03-31T11:10:19Z"}
+{"id":"9089760799","timestamp":"2024-12-31T16:16:02.506975942Z","domain":"e-navigation.canada.ca","issuer":"SSL.com","from":"2024-12-31T15:37:09Z","to":"2026-01-31T05:00:00Z"}
+{"id":"9089760799","timestamp":"2024-12-31T16:16:02.506976263Z","domain":"navigation-electronique.canada.ca","issuer":"SSL.com","from":"2024-12-31T15:37:09Z","to":"2026-01-31T05:00:00Z"}
+{"id":"9089760799","timestamp":"2024-12-31T16:16:02.506976463Z","domain":"www.e-navigation.canada.ca","issuer":"SSL.com","from":"2024-12-31T15:37:09Z","to":"2026-01-31T05:00:00Z"}
+{"id":"9089760799","timestamp":"2024-12-31T16:16:02.506976634Z","domain":"www.navigation-electronique.canada.ca","issuer":"SSL.com","from":"2024-12-31T15:37:09Z","to":"2026-01-31T05:00:00Z"}
