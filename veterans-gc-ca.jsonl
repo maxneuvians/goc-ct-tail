@@ -288,3 +288,5 @@
 {"id":"9077191898","timestamp":"2024-12-30T05:26:43.221425976Z","domain":"benefits-avantages.veterans.gc.ca","issuer":"Let's Encrypt","from":"2024-12-30T03:24:57Z","to":"2025-03-30T03:24:56Z"}
 {"id":"9081631977","timestamp":"2024-12-30T16:28:28.731059759Z","domain":"vac-update-core-10-drupalwxt-5.unclass.aks.cloud.veterans.gc.ca","issuer":"Let's Encrypt","from":"2024-12-30T14:59:22Z","to":"2025-03-30T14:59:21Z"}
 {"id":"9088693285","timestamp":"2024-12-31T12:30:34.224851907Z","domain":"update-gitlab-import-process.unclass.aks.cloud.veterans.gc.ca","issuer":"Let's Encrypt","from":"2024-12-31T11:22:46Z","to":"2025-03-31T11:22:45Z"}
+{"id":"9088898468","timestamp":"2024-12-31T13:27:03.262225311Z","domain":"gitlab-prod-db-sync-hotfix.unclass.aks.cloud.veterans.gc.ca","issuer":"Let's Encrypt","from":"2024-12-31T12:00:38Z","to":"2025-03-31T12:00:37Z"}
+{"id":"9088907224","timestamp":"2024-12-31T13:27:03.262225772Z","domain":"behat-webform-hotfix.unclass.aks.cloud.veterans.gc.ca","issuer":"Let's Encrypt","from":"2024-12-31T12:00:26Z","to":"2025-03-31T12:00:25Z"}
