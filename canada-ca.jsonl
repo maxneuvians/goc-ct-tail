@@ -6205,3 +6205,6 @@
 {"id":"9082778096","timestamp":"2024-12-30T20:15:51.20564349Z","domain":"connect.canada.ca","issuer":"Let's Encrypt","from":"2024-12-30T18:17:01Z","to":"2025-03-30T18:17:00Z"}
 {"id":"9082778096","timestamp":"2024-12-30T20:15:51.205643771Z","domain":"www.connect.canada.ca","issuer":"Let's Encrypt","from":"2024-12-30T18:17:01Z","to":"2025-03-30T18:17:00Z"}
 {"id":"9084147369","timestamp":"2024-12-31T00:31:43.277613239Z","domain":"test.canada.ca","issuer":"Let's Encrypt","from":"2024-12-30T22:40:00Z","to":"2025-03-30T22:39:59Z"}
+{"id":"9085831381","timestamp":"2024-12-31T05:15:23.662450545Z","domain":"lab.gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2024-12-31T03:27:28Z","to":"2025-03-31T03:27:27Z"}
+{"id":"9085907903","timestamp":"2024-12-31T05:15:23.662451516Z","domain":"objectdetection.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2024-12-31T00:00:00Z","to":"2025-06-30T23:59:59Z"}
+{"id":"9085993179","timestamp":"2024-12-31T05:15:23.662451807Z","domain":"conception.canada.ca","issuer":"Let's Encrypt","from":"2024-12-31T03:55:29Z","to":"2025-03-31T03:55:28Z"}
