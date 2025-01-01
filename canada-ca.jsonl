@@ -6218,3 +6218,5 @@
 {"id":"9089760799","timestamp":"2024-12-31T16:16:02.506976463Z","domain":"www.e-navigation.canada.ca","issuer":"SSL.com","from":"2024-12-31T15:37:09Z","to":"2026-01-31T05:00:00Z"}
 {"id":"9089760799","timestamp":"2024-12-31T16:16:02.506976634Z","domain":"www.navigation-electronique.canada.ca","issuer":"SSL.com","from":"2024-12-31T15:37:09Z","to":"2026-01-31T05:00:00Z"}
 {"id":"9090003843","timestamp":"2024-12-31T17:14:53.418492426Z","domain":"ceres-seres-api.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2024-12-31T16:23:23Z","to":"2025-12-31T16:32:27Z"}
+{"id":"9094999748","timestamp":"2025-01-01T07:15:14.851604602Z","domain":"meteo-spatiale.canada.ca","issuer":"Sectigo","from":"2025-01-01T00:00:00Z","to":"2025-04-01T23:59:59Z"}
+{"id":"9094999748","timestamp":"2025-01-01T07:15:14.851605003Z","domain":"space-weather.canada.ca","issuer":"Sectigo","from":"2025-01-01T00:00:00Z","to":"2025-04-01T23:59:59Z"}
