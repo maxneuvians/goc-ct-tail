@@ -6270,3 +6270,5 @@
 {"id":"9106464488","timestamp":"2025-01-02T15:15:27.788681546Z","domain":"dev-e-navigation.canada.ca","issuer":"SSL.com","from":"2025-01-02T14:08:56Z","to":"2026-02-02T05:00:00Z"}
 {"id":"9106464488","timestamp":"2025-01-02T15:15:27.788681897Z","domain":"dev-navigation-electronique.canada.ca","issuer":"SSL.com","from":"2025-01-02T14:08:56Z","to":"2026-02-02T05:00:00Z"}
 {"id":"9106638916","timestamp":"2025-01-02T15:15:27.788682127Z","domain":"ipam.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-01-02T13:44:27Z","to":"2025-04-02T13:44:26Z"}
+{"id":"9107052960","timestamp":"2025-01-02T16:16:12.997370617Z","domain":"*.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-01-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
+{"id":"9107059831","timestamp":"2025-01-02T16:16:12.997371659Z","domain":"*.nxrm.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-01-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
