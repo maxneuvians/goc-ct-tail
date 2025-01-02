@@ -6267,3 +6267,6 @@
 {"id":"9103093922","timestamp":"2025-01-02T06:16:32.486875224Z","domain":"outreach-nrc.canada.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:26:09Z","to":"2025-04-02T04:26:08Z"}
 {"id":"9103860941","timestamp":"2025-01-02T08:16:14.940749954Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-02T06:25:20Z","to":"2025-04-02T06:25:19Z"}
 {"id":"9103860941","timestamp":"2025-01-02T08:16:14.940750395Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-02T06:25:20Z","to":"2025-04-02T06:25:19Z"}
+{"id":"9106464488","timestamp":"2025-01-02T15:15:27.788681546Z","domain":"dev-e-navigation.canada.ca","issuer":"SSL.com","from":"2025-01-02T14:08:56Z","to":"2026-02-02T05:00:00Z"}
+{"id":"9106464488","timestamp":"2025-01-02T15:15:27.788681897Z","domain":"dev-navigation-electronique.canada.ca","issuer":"SSL.com","from":"2025-01-02T14:08:56Z","to":"2026-02-02T05:00:00Z"}
+{"id":"9106638916","timestamp":"2025-01-02T15:15:27.788682127Z","domain":"ipam.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-01-02T13:44:27Z","to":"2025-04-02T13:44:26Z"}
