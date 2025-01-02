@@ -1665,6 +1665,12 @@
       "Let's Encrypt": 7,
       "DigiCert": 1,
       "SSL.com": 5
+    },
+    "2025-01-01": {
+      "Sectigo": 2
+    },
+    "2025-01-02": {
+      "Amazon Trust Services": 43
     }
   },
   "errors": []
