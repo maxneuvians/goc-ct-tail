@@ -6263,3 +6263,5 @@
 {"id":"9101128875","timestamp":"2025-01-02T00:31:47.149644346Z","domain":"uat-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-02T00:00:00Z","to":"2026-02-01T23:59:59Z"}
 {"id":"9101128875","timestamp":"2025-01-02T00:31:47.149644417Z","domain":"uat-wp.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-02T00:00:00Z","to":"2026-02-01T23:59:59Z"}
 {"id":"9101128875","timestamp":"2025-01-02T00:31:47.149644497Z","domain":"www.marchescarbone-carbonmarkets-uat.canada.ca","issuer":"Amazon Trust Services","from":"2025-01-02T00:00:00Z","to":"2026-02-01T23:59:59Z"}
+{"id":"9103073043","timestamp":"2025-01-02T06:16:32.486874703Z","domain":"diffusion-cnrc.canada.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:26:07Z","to":"2025-04-02T04:26:06Z"}
+{"id":"9103093922","timestamp":"2025-01-02T06:16:32.486875224Z","domain":"outreach-nrc.canada.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:26:09Z","to":"2025-04-02T04:26:08Z"}
