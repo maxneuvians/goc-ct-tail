@@ -7289,3 +7289,34 @@
 {"id":"9095422148","timestamp":"2025-01-01T08:16:30.097898541Z","domain":"www.peeic.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-01T06:37:46Z","to":"2025-04-01T06:37:45Z"}
 {"id":"9095422148","timestamp":"2025-01-01T08:16:30.097898651Z","domain":"www.peeic.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-01T06:37:46Z","to":"2025-04-01T06:37:45Z"}
 {"id":"9095422148","timestamp":"2025-01-01T08:16:30.097898741Z","domain":"www.peeic.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-01T06:37:46Z","to":"2025-04-01T06:37:45Z"}
+{"id":"9103186302","timestamp":"2025-01-02T06:16:34.413445557Z","domain":"dpie.nrcan.gc.ca","issuer":"Sectigo","from":"2025-01-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
+{"id":"9103186302","timestamp":"2025-01-02T06:16:34.413446008Z","domain":"dpie.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-01-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
+{"id":"9103186302","timestamp":"2025-01-02T06:16:34.413446339Z","domain":"dpie.rncan.gc.ca","issuer":"Sectigo","from":"2025-01-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
+{"id":"9103186302","timestamp":"2025-01-02T06:16:34.41344681Z","domain":"dpie.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-01-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
+{"id":"9103186302","timestamp":"2025-01-02T06:16:34.41344691Z","domain":"www.dpie.nrcan.gc.ca","issuer":"Sectigo","from":"2025-01-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
+{"id":"9103186302","timestamp":"2025-01-02T06:16:34.413448022Z","domain":"www.dpie.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-01-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
+{"id":"9103186302","timestamp":"2025-01-02T06:16:34.413448122Z","domain":"www.dpie.rncan.gc.ca","issuer":"Sectigo","from":"2025-01-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
+{"id":"9103186302","timestamp":"2025-01-02T06:16:34.413448222Z","domain":"www.dpie.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-01-02T00:00:00Z","to":"2025-04-02T23:59:59Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413448333Z","domain":"clubdesjeunes.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413449555Z","domain":"clubdesjeunes.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413449645Z","domain":"clubdesjeunes.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413449745Z","domain":"clubdesjeunes.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413449835Z","domain":"clubducalendrier.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413449936Z","domain":"end.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413450026Z","domain":"kidsclub.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413450116Z","domain":"kidsclub.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413450206Z","domain":"kidsclub.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413450296Z","domain":"kidsclub.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413451478Z","domain":"www.calendarclub-clubducalendrier.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413451579Z","domain":"www.calendarclub.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413451879Z","domain":"www.clubdesjeunes.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413451969Z","domain":"www.clubdesjeunes.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.41345208Z","domain":"www.clubdesjeunes.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.41345219Z","domain":"www.clubdesjeunes.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.41345229Z","domain":"www.clubducalendrier-calendarclub.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.41345239Z","domain":"www.clubducalendrier.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.41345248Z","domain":"www.kidsclub.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413452581Z","domain":"www.kidsclub.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.41345267Z","domain":"www.kidsclub.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103189154","timestamp":"2025-01-02T06:16:34.413452771Z","domain":"www.kidsclub.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:41:34Z","to":"2025-04-02T04:41:33Z"}
+{"id":"9103204351","timestamp":"2025-01-02T06:16:34.413452901Z","domain":"gdr.agg.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-02T04:44:27Z","to":"2025-04-02T04:44:26Z"}
