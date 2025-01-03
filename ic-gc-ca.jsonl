@@ -62,3 +62,7 @@
 {"id":"8538051755","timestamp":"2024-10-30T20:26:35.569640308Z","domain":"dev-connexion.ic.gc.ca","issuer":"Entrust","from":"2024-10-30T19:38:38Z","to":"2025-11-30T19:38:37Z"}
 {"id":"8538051755","timestamp":"2024-10-30T20:26:35.56964128Z","domain":"ppr-connexion.ic.gc.ca","issuer":"Entrust","from":"2024-10-30T19:38:38Z","to":"2025-11-30T19:38:37Z"}
 {"id":"8538051755","timestamp":"2024-10-30T20:26:35.569641591Z","domain":"ra-ad-ppr.ic.gc.ca","issuer":"Entrust","from":"2024-10-30T19:38:38Z","to":"2025-11-30T19:38:37Z"}
+{"id":"9116972665","timestamp":"2025-01-03T19:22:29.893583068Z","domain":"mvsd01.ic.gc.ca","issuer":"SSL.com","from":"2025-01-03T18:41:43Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9116972665","timestamp":"2025-01-03T19:22:29.893583469Z","domain":"mvsd02.ic.gc.ca","issuer":"SSL.com","from":"2025-01-03T18:41:43Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9116972665","timestamp":"2025-01-03T19:22:29.89358372Z","domain":"mvsd03.ic.gc.ca","issuer":"SSL.com","from":"2025-01-03T18:41:43Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9116972665","timestamp":"2025-01-03T19:22:29.89358397Z","domain":"mvsd04.ic.gc.ca","issuer":"SSL.com","from":"2025-01-03T18:41:43Z","to":"2026-02-03T05:00:00Z"}
