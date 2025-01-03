@@ -566,6 +566,11 @@
     "2025-01-01": {
       "Sectigo": 536,
       "Let's Encrypt": 74
+    },
+    "2025-01-02": {
+      "Sectigo": 8,
+      "Let's Encrypt": 23,
+      "SSL.com": 36
     }
   },
   "errors": []
