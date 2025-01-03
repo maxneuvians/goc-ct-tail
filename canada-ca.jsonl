@@ -6277,3 +6277,6 @@
 {"id":"9112985740","timestamp":"2025-01-03T08:16:14.50158535Z","domain":"resources.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-03T06:53:30Z","to":"2025-04-03T06:53:29Z"}
 {"id":"9113767168","timestamp":"2025-01-03T10:15:34.403638319Z","domain":"military-transition-militaire.canada.ca","issuer":"Let's Encrypt","from":"2025-01-03T08:58:58Z","to":"2025-04-03T08:58:57Z"}
 {"id":"9114968195","timestamp":"2025-01-03T13:16:51.986087666Z","domain":"fin.canada.ca","issuer":"SSL.com","from":"2025-01-03T12:58:58Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9115368171","timestamp":"2025-01-03T15:15:39.146362406Z","domain":"civilian-careers-defence.canada.ca","issuer":"DigiCert","from":"2025-01-03T00:00:00Z","to":"2025-07-03T23:59:59Z"}
+{"id":"9115368894","timestamp":"2025-01-03T15:15:39.146362897Z","domain":"carrieres-civiles-defense.canada.ca","issuer":"DigiCert","from":"2025-01-03T00:00:00Z","to":"2025-07-03T23:59:59Z"}
+{"id":"9115615380","timestamp":"2025-01-03T15:15:39.146363177Z","domain":"workload1.c1-acdbwt.acdbwt.com-dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-01-03T13:59:17Z","to":"2025-04-03T14:52:30Z"}
