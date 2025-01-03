@@ -7396,3 +7396,16 @@
 {"id":"9112380955","timestamp":"2025-01-03T06:16:36.707136967Z","domain":"www.cerl.rncan.gc.ca","issuer":"Sectigo","from":"2025-01-03T00:00:00Z","to":"2025-04-03T23:59:59Z"}
 {"id":"9112380955","timestamp":"2025-01-03T06:16:36.707137057Z","domain":"www.cerl.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-01-03T00:00:00Z","to":"2025-04-03T23:59:59Z"}
 {"id":"9114922642","timestamp":"2025-01-03T13:16:51.553474213Z","domain":"geoscan.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T12:50:26Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9115706365","timestamp":"2025-01-03T16:16:05.433709744Z","domain":"eew-qw-alert1.eew1.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9115706365","timestamp":"2025-01-03T16:16:05.433710024Z","domain":"eew-qw-alert1.seismo.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9115706365","timestamp":"2025-01-03T16:16:05.433710225Z","domain":"eew-qw-dev1.seismo.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9115706365","timestamp":"2025-01-03T16:16:05.433710415Z","domain":"eew-qw-dev2.seismo.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9115706365","timestamp":"2025-01-03T16:16:05.433710505Z","domain":"eew-qw-int1.eew1.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9115706365","timestamp":"2025-01-03T16:16:05.433711176Z","domain":"eew-qw-int1.seismo.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9115706365","timestamp":"2025-01-03T16:16:05.433711256Z","domain":"eew-qw-int-alert1.seismo.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9115706365","timestamp":"2025-01-03T16:16:05.433711337Z","domain":"eew-qw-prod1.eew1.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9115706365","timestamp":"2025-01-03T16:16:05.433711427Z","domain":"eew-qw-prod1.seismo.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9115706365","timestamp":"2025-01-03T16:16:05.433712078Z","domain":"eew-qw-prod-alert1.seismo.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9115706365","timestamp":"2025-01-03T16:16:05.433712168Z","domain":"eew-qw-test1.eew1.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9115706365","timestamp":"2025-01-03T16:16:05.433712248Z","domain":"eew-qw-test1.seismo.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9115706365","timestamp":"2025-01-03T16:16:05.433712329Z","domain":"eew-qw-test-alert1.seismo.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
