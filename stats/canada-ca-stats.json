@@ -1674,6 +1674,15 @@
       "Let's Encrypt": 5,
       "SSL.com": 2,
       "Sectigo": 2
+    },
+    "2025-01-03": {
+      "Let's Encrypt": 2,
+      "SSL.com": 1,
+      "DigiCert": 2,
+      "Google Trust Services": 1
+    },
+    "2025-01-04": {
+      "DigiCert": 1
     }
   },
   "errors": []
