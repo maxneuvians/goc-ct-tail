@@ -6283,3 +6283,50 @@
 {"id":"9119371597","timestamp":"2025-01-04T02:31:04.169786614Z","domain":"bisjsr-app.fsdh-dhsf.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-01-04T00:00:00Z","to":"2025-07-04T23:59:59Z"}
 {"id":"9121588711","timestamp":"2025-01-04T07:14:57.095672566Z","domain":"ressources.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-04T06:04:59Z","to":"2025-04-04T06:04:58Z"}
 {"id":"9121927300","timestamp":"2025-01-04T08:16:04.826035987Z","domain":"a11y.canada.ca","issuer":"Let's Encrypt","from":"2025-01-04T06:51:29Z","to":"2025-04-04T06:51:28Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291485419Z","domain":"auth.dev-cfr.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.29148597Z","domain":"auth.dev-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291486431Z","domain":"auth.dev-wp.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291486702Z","domain":"auth.qa-cfr.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291486812Z","domain":"auth.qa-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291487884Z","domain":"auth.qa-wp.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291487974Z","domain":"auth.uat-cfr.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291488064Z","domain":"auth.uat-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291488154Z","domain":"auth.uat-wp.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291489156Z","domain":"catsqa-eccc.fjgc-gccf.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291489256Z","domain":"catsuat-eccc.fjgc-gccf.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291489346Z","domain":"d1-cfr.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291489436Z","domain":"d1-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291489527Z","domain":"d1-wp.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291489617Z","domain":"dev-api-cfr.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291489707Z","domain":"dev-api-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291489807Z","domain":"dev-api-wp.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291489897Z","domain":"dev-cfr.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.29149115Z","domain":"dev-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.29149125Z","domain":"dev-wp.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.29149134Z","domain":"identity.dev-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.29149143Z","domain":"identity.qa-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291491531Z","domain":"identity.uat-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.29149162Z","domain":"marchescarbone-carbonmarkets-uat.canada.ca","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291491721Z","domain":"q1-cfr.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291491931Z","domain":"q1-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291492011Z","domain":"q1-wp.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291492101Z","domain":"qa-api-cfr.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291492182Z","domain":"qa-api-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291492262Z","domain":"qa-api-wp.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291492352Z","domain":"qa-cfr.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291492432Z","domain":"qa-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291492512Z","domain":"qa-wp.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291492592Z","domain":"u1-cfr.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291492682Z","domain":"u1-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291492763Z","domain":"u1-wp.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291492843Z","domain":"uat-api-cfr.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291492933Z","domain":"uat-api-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291493013Z","domain":"uat-api-wp.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291493093Z","domain":"uat-cfr.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291494015Z","domain":"uat-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291494095Z","domain":"uat-wp.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122205154","timestamp":"2025-01-04T09:15:16.291494175Z","domain":"www.marchescarbone-carbonmarkets-uat.canada.ca","issuer":"Amazon Trust Services","from":"2025-01-04T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9122351734","timestamp":"2025-01-04T09:15:16.291494376Z","domain":"bggp.gc.ca","issuer":"Let's Encrypt","from":"2025-01-04T07:51:48Z","to":"2025-04-04T07:51:47Z"}
+{"id":"9122351734","timestamp":"2025-01-04T09:15:16.291494456Z","domain":"grands-projets.canada.ca","issuer":"Let's Encrypt","from":"2025-01-04T07:51:48Z","to":"2025-04-04T07:51:47Z"}
+{"id":"9122351734","timestamp":"2025-01-04T09:15:16.291494546Z","domain":"major-projects.canada.ca","issuer":"Let's Encrypt","from":"2025-01-04T07:51:48Z","to":"2025-04-04T07:51:47Z"}
+{"id":"9122351734","timestamp":"2025-01-04T09:15:16.291494626Z","domain":"mpmo.gc.ca","issuer":"Let's Encrypt","from":"2025-01-04T07:51:48Z","to":"2025-04-04T07:51:47Z"}
