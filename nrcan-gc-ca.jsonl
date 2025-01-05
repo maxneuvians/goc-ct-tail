@@ -7409,3 +7409,11 @@
 {"id":"9115706365","timestamp":"2025-01-03T16:16:05.433712168Z","domain":"eew-qw-test1.eew1.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
 {"id":"9115706365","timestamp":"2025-01-03T16:16:05.433712248Z","domain":"eew-qw-test1.seismo.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
 {"id":"9115706365","timestamp":"2025-01-03T16:16:05.433712329Z","domain":"eew-qw-test-alert1.seismo.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-03T15:09:46Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9129767580","timestamp":"2025-01-05T06:16:18.570823822Z","domain":"autosmart.gc.ca","issuer":"Sectigo","from":"2025-01-05T00:00:00Z","to":"2025-04-05T23:59:59Z"}
+{"id":"9129767580","timestamp":"2025-01-05T06:16:18.570824123Z","domain":"autosmart.nrcan.gc.ca","issuer":"Sectigo","from":"2025-01-05T00:00:00Z","to":"2025-04-05T23:59:59Z"}
+{"id":"9129767580","timestamp":"2025-01-05T06:16:18.570824313Z","domain":"autosmart.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-01-05T00:00:00Z","to":"2025-04-05T23:59:59Z"}
+{"id":"9129767580","timestamp":"2025-01-05T06:16:18.570824504Z","domain":"autosmart.rncan.gc.ca","issuer":"Sectigo","from":"2025-01-05T00:00:00Z","to":"2025-04-05T23:59:59Z"}
+{"id":"9129767580","timestamp":"2025-01-05T06:16:18.570824594Z","domain":"autosmart.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-01-05T00:00:00Z","to":"2025-04-05T23:59:59Z"}
+{"id":"9129767580","timestamp":"2025-01-05T06:16:18.570825896Z","domain":"www.autosmart.gc.ca","issuer":"Sectigo","from":"2025-01-05T00:00:00Z","to":"2025-04-05T23:59:59Z"}
+{"id":"9129768625","timestamp":"2025-01-05T06:16:18.570825996Z","domain":"basin.gdr.nrcan.gc.ca","issuer":"Sectigo","from":"2025-01-05T00:00:00Z","to":"2025-04-05T23:59:59Z"}
+{"id":"9129768625","timestamp":"2025-01-05T06:16:18.570826087Z","domain":"ed.gdr.nrcan.gc.ca","issuer":"Sectigo","from":"2025-01-05T00:00:00Z","to":"2025-04-05T23:59:59Z"}
