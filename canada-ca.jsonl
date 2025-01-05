@@ -6363,3 +6363,7 @@
 {"id":"9132520938","timestamp":"2025-01-05T14:14:55.442893268Z","domain":"fertiscan-preview.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-05T12:45:33Z","to":"2025-04-05T12:45:32Z"}
 {"id":"9132525098","timestamp":"2025-01-05T14:14:55.442893579Z","domain":"fertiscan-preview.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-05T12:45:24Z","to":"2025-04-05T12:45:23Z"}
 {"id":"9132555164","timestamp":"2025-01-05T14:14:55.442893779Z","domain":"filebrowser-preview.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-05T12:51:12Z","to":"2025-04-05T12:51:11Z"}
+{"id":"9135276481","timestamp":"2025-01-05T22:14:58.415910665Z","domain":"identity-api.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-05T20:46:56Z","to":"2025-04-05T20:46:55Z"}
+{"id":"9135279197","timestamp":"2025-01-05T22:14:58.415911006Z","domain":"keycloak.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-05T20:47:44Z","to":"2025-04-05T20:47:43Z"}
+{"id":"9135312680","timestamp":"2025-01-05T22:14:58.415911236Z","domain":"minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-05T20:52:44Z","to":"2025-04-05T20:52:43Z"}
+{"id":"9135331312","timestamp":"2025-01-05T22:14:58.415911447Z","domain":"console.minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-05T20:57:27Z","to":"2025-04-05T20:57:26Z"}
