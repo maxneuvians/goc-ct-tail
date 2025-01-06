@@ -746,3 +746,10 @@
 {"id":"9133761755","timestamp":"2025-01-05T17:33:37.464461419Z","domain":"*.api.alpha.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-05T00:00:00Z","to":"2026-02-03T23:59:59Z"}
 {"id":"9133761755","timestamp":"2025-01-05T17:33:37.46446226Z","domain":"api.alpha.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-05T00:00:00Z","to":"2026-02-03T23:59:59Z"}
 {"id":"9133761755","timestamp":"2025-01-05T17:33:37.46446235Z","domain":"*.document.alpha.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-05T00:00:00Z","to":"2026-02-03T23:59:59Z"}
+{"id":"9141207510","timestamp":"2025-01-06T14:35:43.416433487Z","domain":"*.scratch-mm.gciv-dvgc.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-06T00:00:00Z","to":"2026-02-04T23:59:59Z"}
+{"id":"9141207510","timestamp":"2025-01-06T14:35:43.416433817Z","domain":"scratch-mm.gciv-dvgc.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-06T00:00:00Z","to":"2026-02-04T23:59:59Z"}
+{"id":"9141207948","timestamp":"2025-01-06T14:35:43.416433998Z","domain":"*.docs.api.scratch-mm.issue-verify.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-06T00:00:00Z","to":"2026-02-04T23:59:59Z"}
+{"id":"9141207948","timestamp":"2025-01-06T14:35:43.416434158Z","domain":"docs.api.scratch-mm.issue-verify.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-06T00:00:00Z","to":"2026-02-04T23:59:59Z"}
+{"id":"9141208180","timestamp":"2025-01-06T14:35:43.416434238Z","domain":"scratch-mm.delivrance-verification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-06T00:00:00Z","to":"2026-02-04T23:59:59Z"}
+{"id":"9141208229","timestamp":"2025-01-06T14:35:43.416434769Z","domain":"scratch-mm.issue-verify.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-06T00:00:00Z","to":"2026-02-04T23:59:59Z"}
+{"id":"9141208454","timestamp":"2025-01-06T14:35:43.416434849Z","domain":"api.scratch-mm.issue-verify.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-06T00:00:00Z","to":"2026-02-04T23:59:59Z"}
