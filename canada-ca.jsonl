@@ -6577,3 +6577,5 @@
 {"id":"9150306523","timestamp":"2025-01-07T13:17:10.992168431Z","domain":"landing.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-07T11:17:52Z","to":"2025-04-07T11:17:51Z"}
 {"id":"9151500240","timestamp":"2025-01-07T15:41:34.553954633Z","domain":"*.md.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-01-07T00:00:00Z","to":"2025-04-07T23:59:59Z"}
 {"id":"9151611240","timestamp":"2025-01-07T15:41:34.553955234Z","domain":"*.md.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-01-07T00:00:00Z","to":"2025-04-07T23:59:59Z"}
+{"id":"9152592491","timestamp":"2025-01-07T18:16:26.863600641Z","domain":"*.docs.api.issue-verify.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-01-07T00:00:00Z","to":"2026-02-05T23:59:59Z"}
+{"id":"9152592491","timestamp":"2025-01-07T18:16:26.863601081Z","domain":"docs.api.issue-verify.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-01-07T00:00:00Z","to":"2026-02-05T23:59:59Z"}
