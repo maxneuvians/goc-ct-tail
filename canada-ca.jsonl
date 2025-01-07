@@ -6582,3 +6582,8 @@
 {"id":"9152842560","timestamp":"2025-01-07T19:15:01.113570572Z","domain":"datacube-api.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-07T17:47:53Z","to":"2025-04-07T17:47:52Z"}
 {"id":"9152948501","timestamp":"2025-01-07T19:15:01.113571213Z","domain":"notifications.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-07T18:04:12Z","to":"2025-04-07T18:04:11Z"}
 {"id":"9153346275","timestamp":"2025-01-07T21:15:16.785426679Z","domain":"grafana.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-07T19:14:20Z","to":"2025-04-07T19:14:19Z"}
+{"id":"9153812211","timestamp":"2025-01-07T22:15:15.641869056Z","domain":"mlflow.ws-bob.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-07T20:34:54Z","to":"2025-04-07T20:34:53Z"}
+{"id":"9153812959","timestamp":"2025-01-07T22:15:15.641869386Z","domain":"resource-catalogue.ws-bob.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-07T20:35:02Z","to":"2025-04-07T20:35:01Z"}
+{"id":"9153877497","timestamp":"2025-01-07T22:15:15.641869597Z","domain":"examens-aviation-exams.tc.canada.ca","issuer":"DigiCert","from":"2025-01-07T00:00:00Z","to":"2025-07-07T23:59:59Z"}
+{"id":"9153982589","timestamp":"2025-01-07T22:15:15.641869837Z","domain":"*.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-01-07T00:00:00Z","to":"2025-04-07T23:59:59Z"}
+{"id":"9153999340","timestamp":"2025-01-07T22:15:15.641869937Z","domain":"*.nxrm.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-01-07T00:00:00Z","to":"2025-04-07T23:59:59Z"}
