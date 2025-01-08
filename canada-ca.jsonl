@@ -6587,3 +6587,9 @@
 {"id":"9153877497","timestamp":"2025-01-07T22:15:15.641869597Z","domain":"examens-aviation-exams.tc.canada.ca","issuer":"DigiCert","from":"2025-01-07T00:00:00Z","to":"2025-07-07T23:59:59Z"}
 {"id":"9153982589","timestamp":"2025-01-07T22:15:15.641869837Z","domain":"*.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-01-07T00:00:00Z","to":"2025-04-07T23:59:59Z"}
 {"id":"9153999340","timestamp":"2025-01-07T22:15:15.641869937Z","domain":"*.nxrm.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-01-07T00:00:00Z","to":"2025-04-07T23:59:59Z"}
+{"id":"9156816761","timestamp":"2025-01-08T06:16:30.695892991Z","domain":"*.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-08T04:30:54Z","to":"2025-04-08T04:30:53Z"}
+{"id":"9156816761","timestamp":"2025-01-08T06:16:30.695893222Z","domain":"ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-08T04:30:54Z","to":"2025-04-08T04:30:53Z"}
+{"id":"9156822770","timestamp":"2025-01-08T06:16:30.695893472Z","domain":"*.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-08T04:31:57Z","to":"2025-04-08T04:31:56Z"}
+{"id":"9156822770","timestamp":"2025-01-08T06:16:30.695893663Z","domain":"dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-08T04:31:57Z","to":"2025-04-08T04:31:56Z"}
+{"id":"9156863094","timestamp":"2025-01-08T06:16:30.695893763Z","domain":"earthquakes.canada.ca","issuer":"Let's Encrypt","from":"2025-01-08T04:40:23Z","to":"2025-04-08T04:40:22Z"}
+{"id":"9156863094","timestamp":"2025-01-08T06:16:30.695894434Z","domain":"seismes.canada.ca","issuer":"Let's Encrypt","from":"2025-01-08T04:40:23Z","to":"2025-04-08T04:40:22Z"}
