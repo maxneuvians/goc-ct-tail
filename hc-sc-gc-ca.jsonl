@@ -661,3 +661,8 @@
 {"id":"8880443338","timestamp":"2024-12-09T13:12:43.721722383Z","domain":"rap-par.preprod.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-12-09T12:22:41Z","to":"2025-12-09T12:31:11Z"}
 {"id":"8902341163","timestamp":"2024-12-11T13:11:53.767456936Z","domain":"documents-dev.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-12-11T12:39:54Z","to":"2025-12-22T14:15:33Z"}
 {"id":"9081854898","timestamp":"2024-12-30T17:04:42.842260164Z","domain":"int-services2.preprod.hc-sc.gc.ca","issuer":"SSL.com","from":"2024-12-30T16:29:47Z","to":"2026-01-30T05:00:00Z"}
+{"id":"9171231831","timestamp":"2025-01-09T19:04:44.857869652Z","domain":"sad-wlsapp-dev01.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-01-09T17:55:42Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9171231831","timestamp":"2025-01-09T19:04:44.857869963Z","domain":"sad-wlsapp-dev02.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-01-09T17:55:42Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9171231831","timestamp":"2025-01-09T19:04:44.857870173Z","domain":"sad-wlsweb-dev01.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-01-09T17:55:42Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9171231831","timestamp":"2025-01-09T19:04:44.857870434Z","domain":"sad-wlsweb-dev02.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-01-09T17:55:42Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9171231831","timestamp":"2025-01-09T19:04:44.857870524Z","domain":"wlsapps-dev.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-01-09T17:55:42Z","to":"2026-02-09T05:00:00Z"}
