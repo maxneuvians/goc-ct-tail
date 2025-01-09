@@ -6607,3 +6607,11 @@
 {"id":"9169936588","timestamp":"2025-01-09T15:15:40.546730385Z","domain":"gamc-cate-test.canada.ca","issuer":"DigiCert","from":"2025-01-09T00:00:00Z","to":"2025-07-08T23:59:59Z"}
 {"id":"9170138243","timestamp":"2025-01-09T16:16:09.792023302Z","domain":"login-rd.services-autochtones.canada.ca","issuer":"DigiCert","from":"2025-01-09T00:00:00Z","to":"2025-06-17T23:59:59Z"}
 {"id":"9170543271","timestamp":"2025-01-09T17:14:59.675458652Z","domain":"*.md.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-01-09T00:00:00Z","to":"2025-04-09T23:59:59Z"}
+{"id":"9171485739","timestamp":"2025-01-09T19:14:48.051946799Z","domain":"gateway-passerelle.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-01-09T18:37:36Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9171485739","timestamp":"2025-01-09T19:14:48.051947311Z","domain":"hcscb2cdev.gateway-passerelle.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-01-09T18:37:36Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9171485739","timestamp":"2025-01-09T19:14:48.051947601Z","domain":"hcscb2cpreprod.gateway-passerelle.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-01-09T18:37:36Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9171485739","timestamp":"2025-01-09T19:14:48.051947852Z","domain":"hcscb2cuat.gateway-passerelle.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-01-09T18:37:36Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9171514435","timestamp":"2025-01-09T19:14:48.051947992Z","domain":"gateway-passerelle-2.dev.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-01-09T18:41:07Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9171514435","timestamp":"2025-01-09T19:14:48.051949535Z","domain":"gateway-passerelle-2.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-01-09T18:41:07Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9171514435","timestamp":"2025-01-09T19:14:48.051949635Z","domain":"gateway-passerelle-2.preprod.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-01-09T18:41:07Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9171514435","timestamp":"2025-01-09T19:14:48.051949725Z","domain":"gateway-passerelle-2.uat.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-01-09T18:41:07Z","to":"2026-02-09T05:00:00Z"}
