@@ -6601,3 +6601,5 @@
 {"id":"9161569297","timestamp":"2025-01-08T18:16:18.81013864Z","domain":"login-dev.indigenous-services.canada.ca","issuer":"DigiCert","from":"2025-01-08T00:00:00Z","to":"2025-06-17T23:59:59Z"}
 {"id":"9161763495","timestamp":"2025-01-08T18:16:18.810138971Z","domain":"ircc-services-ste1.canada.ca","issuer":"SSL.com","from":"2025-01-08T17:32:49Z","to":"2026-02-08T05:00:00Z"}
 {"id":"9166438535","timestamp":"2025-01-09T07:15:42.989498238Z","domain":"*.id.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-09T05:25:02Z","to":"2025-04-09T05:25:01Z"}
+{"id":"9166883606","timestamp":"2025-01-09T08:16:15.16590227Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-09T06:29:49Z","to":"2025-04-09T06:29:48Z"}
+{"id":"9166883606","timestamp":"2025-01-09T08:16:15.165902751Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-09T06:29:49Z","to":"2025-04-09T06:29:48Z"}
