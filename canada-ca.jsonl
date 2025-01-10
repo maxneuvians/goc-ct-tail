@@ -6618,3 +6618,7 @@
 {"id":"9173848768","timestamp":"2025-01-10T01:44:10.456797375Z","domain":"auth.dev.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-01-10T00:00:00Z","to":"2025-07-10T23:59:59Z"}
 {"id":"9174123136","timestamp":"2025-01-10T01:44:10.456797675Z","domain":"config-sync.dl-consol.com-dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-01-10T00:17:58Z","to":"2025-04-10T00:46:57Z"}
 {"id":"9177070667","timestamp":"2025-01-10T09:15:52.592860746Z","domain":"tccampus-catalogue.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-01-10T07:50:08Z","to":"2025-04-10T07:50:07Z"}
+{"id":"9178878503","timestamp":"2025-01-10T14:15:17.284234056Z","domain":"ircc-services-dev2.canada.ca","issuer":"SSL.com","from":"2025-01-10T13:15:58Z","to":"2026-01-10T13:24:02Z"}
+{"id":"9178905675","timestamp":"2025-01-10T14:15:17.284234467Z","domain":"ircc-services-ste2.canada.ca","issuer":"SSL.com","from":"2025-01-10T13:22:23Z","to":"2026-01-10T13:31:35Z"}
+{"id":"9178992285","timestamp":"2025-01-10T14:15:17.284234677Z","domain":"anakwad.canada.ca","issuer":"Let's Encrypt","from":"2025-01-10T12:46:18Z","to":"2025-04-10T12:46:17Z"}
+{"id":"9178992285","timestamp":"2025-01-10T14:15:17.284234877Z","domain":"anakwad.canadaeast.cloudapp.azure.com","issuer":"Let's Encrypt","from":"2025-01-10T12:46:18Z","to":"2025-04-10T12:46:17Z"}
