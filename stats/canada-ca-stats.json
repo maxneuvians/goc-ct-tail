@@ -1715,7 +1715,9 @@
     },
     "2025-01-10": {
       "DigiCert": 1,
-      "Google Trust Services": 1
+      "Google Trust Services": 1,
+      "Let's Encrypt": 3,
+      "SSL.com": 5
     }
   },
   "errors": []
