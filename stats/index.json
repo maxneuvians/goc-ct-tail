@@ -362,12 +362,12 @@
     {
       "inputFile": "mint-ca.jsonl",
       "outputFile": "stats/mint-ca-stats.json",
-      "totalCertificates": 241,
+      "totalCertificates": 245,
       "totalsByIssuer": {
         "Entrust": 137,
         "DigiCert": 16,
         "Let's Encrypt": 16,
-        "Google Trust Services": 72
+        "Google Trust Services": 76
       },
       "errorCount": 0
     },
@@ -384,13 +384,13 @@
     {
       "inputFile": "nrcan-gc-ca.jsonl",
       "outputFile": "stats/nrcan-gc-ca-stats.json",
-      "totalCertificates": 7673,
+      "totalCertificates": 7764,
       "totalsByIssuer": {
         "Amazon Trust Services": 30,
         "Entrust": 460,
         "DigiCert": 20,
         "Let's Encrypt": 2743,
-        "Sectigo": 4342,
+        "Sectigo": 4433,
         "SSL.com": 78
       },
       "errorCount": 0
@@ -620,12 +620,12 @@
     {
       "inputFile": "veterans-gc-ca.jsonl",
       "outputFile": "stats/veterans-gc-ca-stats.json",
-      "totalCertificates": 306,
+      "totalCertificates": 307,
       "totalsByIssuer": {
         "Amazon Trust Services": 17,
         "Entrust": 22,
         "GoDaddy": 1,
-        "Let's Encrypt": 266
+        "Let's Encrypt": 267
       },
       "errorCount": 0
     },
@@ -642,12 +642,12 @@
   "grandTotalByIssuer": {
     "Entrust": 11243,
     "Amazon Trust Services": 1901,
-    "Let's Encrypt": 6981,
+    "Let's Encrypt": 6982,
     "SSL.com": 1124,
     "DigiCert": 1047,
     "GoDaddy": 46,
-    "Google Trust Services": 180,
-    "Sectigo": 4557,
+    "Google Trust Services": 184,
+    "Sectigo": 4648,
     "GlobalSign": 2
   }
 }
