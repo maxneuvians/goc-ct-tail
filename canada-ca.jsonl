@@ -6628,3 +6628,9 @@
 {"id":"9194383251","timestamp":"2025-01-12T09:15:09.660485015Z","domain":"alpha.service.canada.ca","issuer":"GoDaddy","from":"2025-01-12T09:00:39Z","to":"2026-02-12T20:06:17Z"}
 {"id":"9205758757","timestamp":"2025-01-13T15:15:56.503109108Z","domain":"gac-amc-front-avant.canada.ca","issuer":"SSL.com","from":"2025-01-13T14:26:09Z","to":"2026-02-13T05:00:00Z"}
 {"id":"9205758757","timestamp":"2025-01-13T15:15:56.503109468Z","domain":"gac-front.canada.ca","issuer":"SSL.com","from":"2025-01-13T14:26:09Z","to":"2026-02-13T05:00:00Z"}
+{"id":"9207367420","timestamp":"2025-01-13T19:15:00.002674629Z","domain":"checkmk.thinkon.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-01-13T17:25:23Z","to":"2025-04-13T17:25:22Z"}
+{"id":"9207372972","timestamp":"2025-01-13T19:15:00.002674999Z","domain":"nagios.privatecloud.experimentation.m.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-01-13T17:25:33Z","to":"2025-04-13T17:25:32Z"}
+{"id":"9207578857","timestamp":"2025-01-13T19:15:00.00267523Z","domain":"defence-complaints.canada.ca","issuer":"SSL.com","from":"2025-01-13T18:49:02Z","to":"2026-01-18T05:00:00Z"}
+{"id":"9207578857","timestamp":"2025-01-13T19:15:00.00267542Z","domain":"plaintes-defense.canada.ca","issuer":"SSL.com","from":"2025-01-13T18:49:02Z","to":"2026-01-18T05:00:00Z"}
+{"id":"9207578857","timestamp":"2025-01-13T19:15:00.00267551Z","domain":"www.defence-complaints.canada.ca","issuer":"SSL.com","from":"2025-01-13T18:49:02Z","to":"2026-01-18T05:00:00Z"}
+{"id":"9207578857","timestamp":"2025-01-13T19:15:00.002676292Z","domain":"www.plaintes-defense.canada.ca","issuer":"SSL.com","from":"2025-01-13T18:49:02Z","to":"2026-01-18T05:00:00Z"}
