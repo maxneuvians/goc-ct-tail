@@ -6646,3 +6646,7 @@
 {"id":"9212359593","timestamp":"2025-01-14T08:16:12.87911531Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-14T06:29:52Z","to":"2025-04-14T06:29:51Z"}
 {"id":"9212359593","timestamp":"2025-01-14T08:16:12.879115591Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-14T06:29:52Z","to":"2025-04-14T06:29:51Z"}
 {"id":"9213873249","timestamp":"2025-01-14T12:17:02.365456932Z","domain":"dol-sys-test.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-01-14T10:25:19Z","to":"2025-04-14T10:25:18Z"}
+{"id":"9214361694","timestamp":"2025-01-14T13:16:33.248982064Z","domain":"cra-arc.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-14T11:38:12Z","to":"2025-04-14T11:38:11Z"}
+{"id":"9214518442","timestamp":"2025-01-14T13:16:33.248982565Z","domain":"fertiscan.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-14T12:00:42Z","to":"2025-04-14T12:00:41Z"}
+{"id":"9214551354","timestamp":"2025-01-14T13:16:33.248982805Z","domain":"energy-information.canada.ca","issuer":"Let's Encrypt","from":"2025-01-14T12:04:46Z","to":"2025-04-14T12:04:45Z"}
+{"id":"9214551354","timestamp":"2025-01-14T13:16:33.248983095Z","domain":"information-energie.canada.ca","issuer":"Let's Encrypt","from":"2025-01-14T12:04:46Z","to":"2025-04-14T12:04:45Z"}
