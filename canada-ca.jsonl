@@ -6650,3 +6650,9 @@
 {"id":"9214518442","timestamp":"2025-01-14T13:16:33.248982565Z","domain":"fertiscan.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-14T12:00:42Z","to":"2025-04-14T12:00:41Z"}
 {"id":"9214551354","timestamp":"2025-01-14T13:16:33.248982805Z","domain":"energy-information.canada.ca","issuer":"Let's Encrypt","from":"2025-01-14T12:04:46Z","to":"2025-04-14T12:04:45Z"}
 {"id":"9214551354","timestamp":"2025-01-14T13:16:33.248983095Z","domain":"information-energie.canada.ca","issuer":"Let's Encrypt","from":"2025-01-14T12:04:46Z","to":"2025-04-14T12:04:45Z"}
+{"id":"9214661691","timestamp":"2025-01-14T14:15:18.001382119Z","domain":"gateway-passerelle-2.dev.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-01-14T13:13:33Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9214661691","timestamp":"2025-01-14T14:15:18.0013825Z","domain":"gateway-passerelle-2.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-01-14T13:13:33Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9214661691","timestamp":"2025-01-14T14:15:18.001382771Z","domain":"gateway-passerelle-2.preprod.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-01-14T13:13:33Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9214661691","timestamp":"2025-01-14T14:15:18.001383021Z","domain":"gateway-passerelle-2.uat.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-01-14T13:13:33Z","to":"2026-02-09T05:00:00Z"}
+{"id":"9214924202","timestamp":"2025-01-14T14:15:18.001383121Z","domain":"energy-information.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-14T13:06:06Z","to":"2025-04-14T13:06:05Z"}
+{"id":"9214924202","timestamp":"2025-01-14T14:15:18.001384153Z","domain":"information-energie.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-14T13:06:06Z","to":"2025-04-14T13:06:05Z"}
