@@ -6672,3 +6672,7 @@
 {"id":"9225567957","timestamp":"2025-01-15T17:15:01.589161431Z","domain":"dashboard.bc16.exp.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T15:26:29Z","to":"2025-04-15T15:26:28Z"}
 {"id":"9225909844","timestamp":"2025-01-15T18:16:12.763563565Z","domain":"cnphi.canada.ca","issuer":"SSL.com","from":"2025-01-15T16:58:56Z","to":"2026-02-15T05:00:00Z"}
 {"id":"9225909844","timestamp":"2025-01-15T18:16:12.763564085Z","domain":"rcrsp.canada.ca","issuer":"SSL.com","from":"2025-01-15T16:58:56Z","to":"2026-02-15T05:00:00Z"}
+{"id":"9227474668","timestamp":"2025-01-15T22:15:06.199238245Z","domain":"minio.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T20:25:26Z","to":"2025-04-15T20:25:25Z"}
+{"id":"9227474769","timestamp":"2025-01-15T22:15:06.199238736Z","domain":"console.minio.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T20:25:26Z","to":"2025-04-15T20:25:25Z"}
+{"id":"9227481969","timestamp":"2025-01-15T22:15:06.199238947Z","domain":"identity-api.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T20:27:02Z","to":"2025-04-15T20:27:01Z"}
+{"id":"9227491140","timestamp":"2025-01-15T22:15:06.199239137Z","domain":"keycloak.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T20:27:03Z","to":"2025-04-15T20:27:02Z"}
