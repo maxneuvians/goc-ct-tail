@@ -6668,3 +6668,5 @@
 {"id":"9223967827","timestamp":"2025-01-15T13:16:45.58857528Z","domain":"test-languageweaver.canada.ca","issuer":"SSL.com","from":"2025-01-15T12:36:01Z","to":"2026-02-15T05:00:00Z"}
 {"id":"9224837718","timestamp":"2025-01-15T15:15:38.268527687Z","domain":"rp1-oidc.id.alpha.canada.ca","issuer":"DigiCert","from":"2025-01-15T00:00:00Z","to":"2025-07-15T23:59:59Z"}
 {"id":"9224885479","timestamp":"2025-01-15T15:15:38.268528228Z","domain":"oidc-provider.id.alpha.canada.ca","issuer":"DigiCert","from":"2025-01-15T00:00:00Z","to":"2025-07-15T23:59:59Z"}
+{"id":"9225567938","timestamp":"2025-01-15T17:15:01.58916098Z","domain":"database.bc16.exp.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T15:26:28Z","to":"2025-04-15T15:26:27Z"}
+{"id":"9225567957","timestamp":"2025-01-15T17:15:01.589161431Z","domain":"dashboard.bc16.exp.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T15:26:29Z","to":"2025-04-15T15:26:28Z"}
