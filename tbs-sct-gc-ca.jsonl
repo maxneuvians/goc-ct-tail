@@ -349,3 +349,5 @@
 {"id":"9214911887","timestamp":"2025-01-14T14:34:40.714661794Z","domain":"tih.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-01-14T00:00:00Z","to":"2025-07-14T23:59:59Z"}
 {"id":"9217453187","timestamp":"2025-01-14T20:33:31.938057182Z","domain":"v3-pbi-hrap-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-01-14T00:00:00Z","to":"2025-07-14T23:59:59Z"}
 {"id":"9219276628","timestamp":"2025-01-15T01:59:58.632795598Z","domain":"tapx-rolemanagerapp-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-01-15T00:00:00Z","to":"2025-07-15T23:59:59Z"}
+{"id":"9219754220","timestamp":"2025-01-15T02:46:02.795218174Z","domain":"tapx-tiv-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-01-15T00:00:00Z","to":"2025-07-15T23:59:59Z"}
+{"id":"9219875308","timestamp":"2025-01-15T02:46:02.795218515Z","domain":"tapx-claimsigner-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-01-15T00:00:00Z","to":"2025-07-15T23:59:59Z"}
