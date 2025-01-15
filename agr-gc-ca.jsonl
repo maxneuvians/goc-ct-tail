@@ -302,3 +302,35 @@
 {"id":"9160130919","timestamp":"2025-01-08T14:35:31.729732442Z","domain":"*.agr.gc.ca","issuer":"SSL.com","from":"2025-01-08T13:24:48Z","to":"2026-02-08T05:00:00Z"}
 {"id":"9160130919","timestamp":"2025-01-08T14:35:31.729733133Z","domain":"agr.gc.ca","issuer":"SSL.com","from":"2025-01-08T13:24:48Z","to":"2026-02-08T05:00:00Z"}
 {"id":"9207320036","timestamp":"2025-01-13T18:38:48.468183064Z","domain":"multimedia.agr.gc.ca","issuer":"Let's Encrypt","from":"2025-01-13T17:20:39Z","to":"2025-04-13T17:20:38Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.073810483Z","domain":"*.agrigeo-dev-a.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.073810944Z","domain":"agrigeo-dev-a.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.073811866Z","domain":"*.agrigeo-dev.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.073812147Z","domain":"agrigeo-dev.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.073812277Z","domain":"*.agrigeo-dev-b.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.073813178Z","domain":"agrigeo-dev-b.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.073813269Z","domain":"*.agrigeo-dev-c.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.073813359Z","domain":"agrigeo-dev-c.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.073813469Z","domain":"*.agrigeo-sbx.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.07381416Z","domain":"agrigeo-sbx.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.07381426Z","domain":"*.agrigeo-stg.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.07381436Z","domain":"agrigeo-stg.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.073814471Z","domain":"*.agrigeo-tst.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.073814571Z","domain":"agrigeo-tst.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.073814671Z","domain":"*.agrigeo-uat.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226278699","timestamp":"2025-01-15T18:36:46.073814771Z","domain":"agrigeo-uat.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073814892Z","domain":"*.agrigeo-dev-a.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073815002Z","domain":"agrigeo-dev-a.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073816114Z","domain":"*.agrigeo-dev.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073816224Z","domain":"agrigeo-dev.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073816324Z","domain":"*.agrigeo-dev-b.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073816414Z","domain":"agrigeo-dev-b.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073816515Z","domain":"*.agrigeo-dev-c.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073816615Z","domain":"agrigeo-dev-c.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073816715Z","domain":"*.agrigeo-sbx.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073816815Z","domain":"agrigeo-sbx.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073816915Z","domain":"*.agrigeo-stg.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073817005Z","domain":"agrigeo-stg.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073817106Z","domain":"*.agrigeo-tst.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073817206Z","domain":"agrigeo-tst.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073817306Z","domain":"*.agrigeo-uat.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"9226339031","timestamp":"2025-01-15T18:36:46.073817416Z","domain":"agrigeo-uat.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
