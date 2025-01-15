@@ -1725,6 +1725,15 @@
     "2025-01-13": {
       "SSL.com": 12,
       "Let's Encrypt": 2
+    },
+    "2025-01-14": {
+      "Let's Encrypt": 13,
+      "SSL.com": 4,
+      "DigiCert": 5
+    },
+    "2025-01-15": {
+      "DigiCert": 1,
+      "Let's Encrypt": 1
     }
   },
   "errors": []
