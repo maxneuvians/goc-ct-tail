@@ -1732,8 +1732,12 @@
       "DigiCert": 5
     },
     "2025-01-15": {
-      "DigiCert": 1,
-      "Let's Encrypt": 1
+      "DigiCert": 3,
+      "Let's Encrypt": 29,
+      "SSL.com": 3
+    },
+    "2025-01-16": {
+      "DigiCert": 8
     }
   },
   "errors": []
