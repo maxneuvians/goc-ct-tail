@@ -6709,3 +6709,4 @@
 {"id":"9231255931","timestamp":"2025-01-16T08:16:12.47057911Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-16T06:25:17Z","to":"2025-04-16T06:25:16Z"}
 {"id":"9231266049","timestamp":"2025-01-16T08:16:12.470579441Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-16T06:25:25Z","to":"2025-04-16T06:25:24Z"}
 {"id":"9231266049","timestamp":"2025-01-16T08:16:12.470579731Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-16T06:25:25Z","to":"2025-04-16T06:25:24Z"}
+{"id":"9232704838","timestamp":"2025-01-16T11:14:47.649369388Z","domain":"rp2-oidc.id.alpha.canada.ca","issuer":"DigiCert","from":"2025-01-16T00:00:00Z","to":"2025-07-16T23:59:59Z"}
