@@ -6697,3 +6697,11 @@
 {"id":"9228246282","timestamp":"2025-01-16T00:31:14.383485335Z","domain":"applicationhub.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T22:44:53Z","to":"2025-04-15T22:44:52Z"}
 {"id":"9228252786","timestamp":"2025-01-16T00:31:14.383485576Z","domain":"mlflow.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T22:48:03Z","to":"2025-04-15T22:48:02Z"}
 {"id":"9228261364","timestamp":"2025-01-16T00:31:14.383485756Z","domain":"resource-catalogue.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T22:48:02Z","to":"2025-04-15T22:48:01Z"}
+{"id":"9229723221","timestamp":"2025-01-16T04:15:50.391980783Z","domain":"deputypm.canada.ca","issuer":"DigiCert","from":"2025-01-16T00:00:00Z","to":"2026-01-18T23:59:59Z"}
+{"id":"9229723221","timestamp":"2025-01-16T04:15:50.391981315Z","domain":"pm.canada.ca","issuer":"DigiCert","from":"2025-01-16T00:00:00Z","to":"2026-01-18T23:59:59Z"}
+{"id":"9229723221","timestamp":"2025-01-16T04:15:50.391981675Z","domain":"vicepm.canada.ca","issuer":"DigiCert","from":"2025-01-16T00:00:00Z","to":"2026-01-18T23:59:59Z"}
+{"id":"9229723221","timestamp":"2025-01-16T04:15:50.391981946Z","domain":"www.pm.gc.ca","issuer":"DigiCert","from":"2025-01-16T00:00:00Z","to":"2026-01-18T23:59:59Z"}
+{"id":"9229723985","timestamp":"2025-01-16T04:15:50.391982096Z","domain":"deputypm.canada.ca","issuer":"DigiCert","from":"2025-01-16T00:00:00Z","to":"2026-01-18T23:59:59Z"}
+{"id":"9229723985","timestamp":"2025-01-16T04:15:50.391983058Z","domain":"pm.canada.ca","issuer":"DigiCert","from":"2025-01-16T00:00:00Z","to":"2026-01-18T23:59:59Z"}
+{"id":"9229723985","timestamp":"2025-01-16T04:15:50.391983168Z","domain":"vicepm.canada.ca","issuer":"DigiCert","from":"2025-01-16T00:00:00Z","to":"2026-01-18T23:59:59Z"}
+{"id":"9229723985","timestamp":"2025-01-16T04:15:50.391983268Z","domain":"www.pm.gc.ca","issuer":"DigiCert","from":"2025-01-16T00:00:00Z","to":"2026-01-18T23:59:59Z"}
