@@ -6705,3 +6705,7 @@
 {"id":"9229723985","timestamp":"2025-01-16T04:15:50.391983058Z","domain":"pm.canada.ca","issuer":"DigiCert","from":"2025-01-16T00:00:00Z","to":"2026-01-18T23:59:59Z"}
 {"id":"9229723985","timestamp":"2025-01-16T04:15:50.391983168Z","domain":"vicepm.canada.ca","issuer":"DigiCert","from":"2025-01-16T00:00:00Z","to":"2026-01-18T23:59:59Z"}
 {"id":"9229723985","timestamp":"2025-01-16T04:15:50.391983268Z","domain":"www.pm.gc.ca","issuer":"DigiCert","from":"2025-01-16T00:00:00Z","to":"2026-01-18T23:59:59Z"}
+{"id":"9231255931","timestamp":"2025-01-16T08:16:12.470578589Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-16T06:25:17Z","to":"2025-04-16T06:25:16Z"}
+{"id":"9231255931","timestamp":"2025-01-16T08:16:12.47057911Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-16T06:25:17Z","to":"2025-04-16T06:25:16Z"}
+{"id":"9231266049","timestamp":"2025-01-16T08:16:12.470579441Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-16T06:25:25Z","to":"2025-04-16T06:25:24Z"}
+{"id":"9231266049","timestamp":"2025-01-16T08:16:12.470579731Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-16T06:25:25Z","to":"2025-04-16T06:25:24Z"}
