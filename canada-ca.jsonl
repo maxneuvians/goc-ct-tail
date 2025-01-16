@@ -6693,3 +6693,7 @@
 {"id":"9227795134","timestamp":"2025-01-15T23:15:19.881103579Z","domain":"grafana.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T21:23:15Z","to":"2025-04-15T21:23:14Z"}
 {"id":"9227796401","timestamp":"2025-01-15T23:15:19.88110367Z","domain":"titilerx.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T21:22:34Z","to":"2025-04-15T21:22:33Z"}
 {"id":"9228013700","timestamp":"2025-01-15T23:15:19.88110377Z","domain":"argo-workflow.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T22:02:39Z","to":"2025-04-15T22:02:38Z"}
+{"id":"9228190944","timestamp":"2025-01-16T00:31:14.383485024Z","domain":"harbor.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T22:33:41Z","to":"2025-04-15T22:33:40Z"}
+{"id":"9228246282","timestamp":"2025-01-16T00:31:14.383485335Z","domain":"applicationhub.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T22:44:53Z","to":"2025-04-15T22:44:52Z"}
+{"id":"9228252786","timestamp":"2025-01-16T00:31:14.383485576Z","domain":"mlflow.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T22:48:03Z","to":"2025-04-15T22:48:02Z"}
+{"id":"9228261364","timestamp":"2025-01-16T00:31:14.383485756Z","domain":"resource-catalogue.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-15T22:48:02Z","to":"2025-04-15T22:48:01Z"}
