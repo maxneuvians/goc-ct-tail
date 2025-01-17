@@ -468,3 +468,12 @@
 {"id":"9196234265","timestamp":"2025-01-12T14:33:40.496285889Z","domain":"de-stcdemo-ext.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-12T13:03:00Z","to":"2025-04-12T13:02:59Z"}
 {"id":"9232239990","timestamp":"2025-01-16T10:35:56.611209893Z","domain":"de-ircc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-16T08:51:13Z","to":"2025-04-16T08:51:12Z"}
 {"id":"9236678103","timestamp":"2025-01-16T20:33:33.271762621Z","domain":"sdmx-sfs.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-16T19:23:28Z","to":"2025-04-16T19:23:27Z"}
+{"id":"9245485826","timestamp":"2025-01-17T19:33:26.481256679Z","domain":"eq3-aqm-ogqa.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-01-17T18:47:36Z","to":"2026-01-06T13:59:15Z"}
+{"id":"9245485826","timestamp":"2025-01-17T19:33:26.48125723Z","domain":"eq3-ecp-pce.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-01-17T18:47:36Z","to":"2026-01-06T13:59:15Z"}
+{"id":"9245485826","timestamp":"2025-01-17T19:33:26.48125752Z","domain":"eq3-etm-oggc.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-01-17T18:47:36Z","to":"2026-01-06T13:59:15Z"}
+{"id":"9245485826","timestamp":"2025-01-17T19:33:26.481257771Z","domain":"eq3-rsp-psr.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-01-17T18:47:36Z","to":"2026-01-06T13:59:15Z"}
+{"id":"9245485826","timestamp":"2025-01-17T19:33:26.481257851Z","domain":"eq3-sms.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-01-17T18:47:36Z","to":"2026-01-06T13:59:15Z"}
+{"id":"9245485826","timestamp":"2025-01-17T19:33:26.481259203Z","domain":"iiszpwebnlbeq3.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-01-17T18:47:36Z","to":"2026-01-06T13:59:15Z"}
+{"id":"9245485826","timestamp":"2025-01-17T19:33:26.481259294Z","domain":"iszpwebnlbeq3.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-01-17T18:47:36Z","to":"2026-01-06T13:59:15Z"}
+{"id":"9245485826","timestamp":"2025-01-17T19:33:26.481259374Z","domain":"www68.statcan.gc.ca","issuer":"SSL.com","from":"2025-01-17T18:47:36Z","to":"2026-01-06T13:59:15Z"}
+{"id":"9245485826","timestamp":"2025-01-17T19:33:26.481259454Z","domain":"www.iiszpwebnlbeq3.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-01-17T18:47:36Z","to":"2026-01-06T13:59:15Z"}
