@@ -1737,7 +1737,11 @@
       "SSL.com": 3
     },
     "2025-01-16": {
-      "DigiCert": 8
+      "DigiCert": 9,
+      "Let's Encrypt": 7,
+      "Google Trust Services": 2,
+      "SSL.com": 7,
+      "Amazon Trust Services": 1
     }
   },
   "errors": []
