@@ -6736,3 +6736,6 @@
 {"id":"9255959064","timestamp":"2025-01-18T23:15:28.449577892Z","domain":"auth.aafciot.exp.science.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-01-18T00:00:00Z","to":"2026-02-16T23:59:59Z"}
 {"id":"9258938897","timestamp":"2025-01-19T06:16:08.526570947Z","domain":"food-guide.canada.ca","issuer":"Google Trust Services","from":"2025-01-19T04:50:30Z","to":"2025-04-19T05:50:26Z"}
 {"id":"9258939500","timestamp":"2025-01-19T06:16:08.526571308Z","domain":"food-guide.canada.ca","issuer":"Google Trust Services","from":"2025-01-19T04:50:20Z","to":"2025-04-19T05:49:13Z"}
+{"id":"9262099178","timestamp":"2025-01-19T14:15:31.764551845Z","domain":"covid-vaccine.canada.ca","issuer":"Google Trust Services","from":"2025-01-19T12:22:41Z","to":"2025-04-19T13:21:37Z"}
+{"id":"9262102729","timestamp":"2025-01-19T14:15:31.764552777Z","domain":"covid-vaccine.canada.ca","issuer":"Google Trust Services","from":"2025-01-19T12:22:49Z","to":"2025-04-19T13:22:47Z"}
+{"id":"9262339004","timestamp":"2025-01-19T14:15:31.764553058Z","domain":"canchat-v2.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-01-19T13:04:59Z","to":"2025-04-19T13:04:58Z"}
