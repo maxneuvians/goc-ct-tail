@@ -797,3 +797,10 @@
 {"id":"9272619271","timestamp":"2025-01-20T14:34:56.985060913Z","domain":"*.document.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-20T00:00:00Z","to":"2026-02-18T23:59:59Z"}
 {"id":"9273025895","timestamp":"2025-01-20T15:33:50.778996756Z","domain":"*.status.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-20T00:00:00Z","to":"2026-02-18T23:59:59Z"}
 {"id":"9273025895","timestamp":"2025-01-20T15:33:50.778997037Z","domain":"status.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-20T00:00:00Z","to":"2026-02-18T23:59:59Z"}
+{"id":"9273309362","timestamp":"2025-01-20T16:36:52.61586795Z","domain":"scratch-mm.delivrance-verification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-20T00:00:00Z","to":"2026-02-18T23:59:59Z"}
+{"id":"9273309982","timestamp":"2025-01-20T16:36:52.615868251Z","domain":"*.scratch-mm.gciv-dvgc.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-20T00:00:00Z","to":"2026-02-18T23:59:59Z"}
+{"id":"9273309982","timestamp":"2025-01-20T16:36:52.615868441Z","domain":"scratch-mm.gciv-dvgc.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-20T00:00:00Z","to":"2026-02-18T23:59:59Z"}
+{"id":"9273310157","timestamp":"2025-01-20T16:36:52.615868622Z","domain":"*.docs.api.scratch-mm.issue-verify.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-20T00:00:00Z","to":"2026-02-18T23:59:59Z"}
+{"id":"9273310157","timestamp":"2025-01-20T16:36:52.615868702Z","domain":"docs.api.scratch-mm.issue-verify.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-20T00:00:00Z","to":"2026-02-18T23:59:59Z"}
+{"id":"9273314838","timestamp":"2025-01-20T16:36:52.615869042Z","domain":"api.scratch-mm.issue-verify.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-20T00:00:00Z","to":"2026-02-18T23:59:59Z"}
+{"id":"9273332459","timestamp":"2025-01-20T16:36:52.615869123Z","domain":"scratch-mm.issue-verify.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-01-20T00:00:00Z","to":"2026-02-18T23:59:59Z"}
