@@ -6756,3 +6756,5 @@
 {"id":"9273853294","timestamp":"2025-01-20T18:16:14.547664907Z","domain":"auth-dev.climate-change.canada.ca","issuer":"DigiCert","from":"2025-01-20T00:00:00Z","to":"2025-07-20T23:59:59Z"}
 {"id":"9273957397","timestamp":"2025-01-20T18:16:14.547665568Z","domain":"blueprism.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-01-20T16:27:22Z","to":"2025-04-20T16:27:21Z"}
 {"id":"9274558706","timestamp":"2025-01-20T19:14:29.455567933Z","domain":"dol-prod.prod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-01-20T17:57:32Z","to":"2025-04-20T17:57:31Z"}
+{"id":"9274905879","timestamp":"2025-01-20T20:15:27.142387699Z","domain":"clientsontario.tpsgc-pwgsc.aws.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-01-20T00:00:00Z","to":"2026-02-18T23:59:59Z"}
+{"id":"9274983968","timestamp":"2025-01-20T20:15:27.14238837Z","domain":"cnas-nscc.tpsgc-pwgsc.aws.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-01-20T00:00:00Z","to":"2026-02-18T23:59:59Z"}
