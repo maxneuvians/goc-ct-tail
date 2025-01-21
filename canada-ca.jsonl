@@ -6767,3 +6767,10 @@
 {"id":"9279568561","timestamp":"2025-01-21T08:16:19.708473936Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-21T06:30:01Z","to":"2025-04-21T06:30:00Z"}
 {"id":"9279568561","timestamp":"2025-01-21T08:16:19.708474146Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-21T06:30:01Z","to":"2025-04-21T06:30:00Z"}
 {"id":"9281778422","timestamp":"2025-01-21T13:17:00.726212249Z","domain":"recourse-recours.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-01-21T12:33:34Z","to":"2026-02-21T05:00:00Z"}
+{"id":"9282318140","timestamp":"2025-01-21T14:15:10.424462428Z","domain":"greenbuildingsfunding-financementbatimentsverts.canada.ca","issuer":"SSL.com","from":"2025-01-21T13:46:54Z","to":"2026-02-21T05:00:00Z"}
+{"id":"9282318140","timestamp":"2025-01-21T14:15:10.424462849Z","domain":"www.greenbuildingsfunding-financementbatimentsverts.canada.ca","issuer":"SSL.com","from":"2025-01-21T13:46:54Z","to":"2026-02-21T05:00:00Z"}
+{"id":"9282352750","timestamp":"2025-01-21T14:15:10.424463239Z","domain":"dev.donnees-geophysiques.canada.ca","issuer":"SSL.com","from":"2025-01-21T13:51:06Z","to":"2026-02-21T05:00:00Z"}
+{"id":"9282352750","timestamp":"2025-01-21T14:15:10.42446346Z","domain":"dev.geophysical-data.canada.ca","issuer":"SSL.com","from":"2025-01-21T13:51:06Z","to":"2026-02-21T05:00:00Z"}
+{"id":"9282352750","timestamp":"2025-01-21T14:15:10.42446355Z","domain":"donnees-geophysiques.canada.ca","issuer":"SSL.com","from":"2025-01-21T13:51:06Z","to":"2026-02-21T05:00:00Z"}
+{"id":"9282352750","timestamp":"2025-01-21T14:15:10.424464973Z","domain":"geophysical-data.canada.ca","issuer":"SSL.com","from":"2025-01-21T13:51:06Z","to":"2026-02-21T05:00:00Z"}
+{"id":"9282362677","timestamp":"2025-01-21T14:15:10.424465083Z","domain":"forces-assets.canada.ca","issuer":"Let's Encrypt","from":"2025-01-21T13:03:52Z","to":"2025-04-21T13:03:51Z"}
