@@ -6760,3 +6760,5 @@
 {"id":"9274983968","timestamp":"2025-01-20T20:15:27.14238837Z","domain":"cnas-nscc.tpsgc-pwgsc.aws.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-01-20T00:00:00Z","to":"2026-02-18T23:59:59Z"}
 {"id":"9277041339","timestamp":"2025-01-21T02:30:51.93763967Z","domain":"mlflow.ws-tolowonyo.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-21T00:42:21Z","to":"2025-04-21T00:42:20Z"}
 {"id":"9277052155","timestamp":"2025-01-21T02:30:51.937640191Z","domain":"resource-catalogue.ws-tolowonyo.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-21T00:42:22Z","to":"2025-04-21T00:42:21Z"}
+{"id":"9278786173","timestamp":"2025-01-21T06:16:28.181435524Z","domain":"gac-amc-sso-au-cate.canada.ca","issuer":"DigiCert","from":"2025-01-21T00:00:00Z","to":"2025-07-21T23:59:59Z"}
+{"id":"9278933709","timestamp":"2025-01-21T06:16:28.181435975Z","domain":"marine-geo.canada.ca","issuer":"Sectigo","from":"2025-01-21T00:00:00Z","to":"2025-04-21T23:59:59Z"}
