@@ -1759,7 +1759,13 @@
       "GoDaddy": 2
     },
     "2025-01-20": {
-      "Let's Encrypt": 1
+      "Let's Encrypt": 5,
+      "DigiCert": 2,
+      "SSL.com": 5,
+      "Amazon Trust Services": 2
+    },
+    "2025-01-21": {
+      "Let's Encrypt": 2
     }
   },
   "errors": []
