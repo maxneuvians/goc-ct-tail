@@ -1765,7 +1765,10 @@
       "Amazon Trust Services": 2
     },
     "2025-01-21": {
-      "Let's Encrypt": 2
+      "Let's Encrypt": 11,
+      "DigiCert": 1,
+      "Sectigo": 1,
+      "SSL.com": 7
     }
   },
   "errors": []
