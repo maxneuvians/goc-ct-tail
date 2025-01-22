@@ -562,3 +562,9 @@
 {"id":"9256451700","timestamp":"2025-01-19T00:35:49.133241057Z","domain":"*.dfo-dev-ase01.ase.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-01-18T23:13:11Z","to":"2025-04-18T23:13:10Z"}
 {"id":"9258650314","timestamp":"2025-01-19T05:25:37.606379782Z","domain":"argocd.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-01-19T04:15:51Z","to":"2025-04-19T04:15:50Z"}
 {"id":"9272712532","timestamp":"2025-01-20T14:26:15.955201734Z","domain":"recfish-pechesportive.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-01-20T14:01:02Z","to":"2026-02-20T05:00:00Z"}
+{"id":"9286512565","timestamp":"2025-01-22T01:53:14.699483597Z","domain":"neptune.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-01-21T23:44:17Z","to":"2025-04-21T23:44:16Z"}
+{"id":"9286591521","timestamp":"2025-01-22T01:53:14.699484148Z","domain":"api.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-01-21T23:55:30Z","to":"2025-04-21T23:55:29Z"}
+{"id":"9286591521","timestamp":"2025-01-22T01:53:14.699484519Z","domain":"api-iwls.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-01-21T23:55:30Z","to":"2025-04-21T23:55:29Z"}
+{"id":"9286591521","timestamp":"2025-01-22T01:53:14.699484749Z","domain":"api.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-01-21T23:55:30Z","to":"2025-04-21T23:55:29Z"}
+{"id":"9286591521","timestamp":"2025-01-22T01:53:14.699484869Z","domain":"api-sine.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-01-21T23:55:30Z","to":"2025-04-21T23:55:29Z"}
+{"id":"9286920298","timestamp":"2025-01-22T01:53:14.699487655Z","domain":"intra-api.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-01-22T00:43:53Z","to":"2025-04-22T00:43:52Z"}
