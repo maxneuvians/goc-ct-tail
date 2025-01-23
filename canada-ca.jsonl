@@ -6796,3 +6796,23 @@
 {"id":"9297908070","timestamp":"2025-01-23T08:16:16.575333042Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-01-23T06:25:21Z","to":"2025-04-23T06:25:20Z"}
 {"id":"9299878393","timestamp":"2025-01-23T13:16:55.384981857Z","domain":"test-app.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-23T11:41:01Z","to":"2025-04-23T11:41:00Z"}
 {"id":"9300237956","timestamp":"2025-01-23T14:15:33.711254879Z","domain":"forces-mobile-dev.canada.ca","issuer":"Let's Encrypt","from":"2025-01-23T12:41:16Z","to":"2025-04-23T12:41:15Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455911325Z","domain":"app.cfc-swc.gc.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455911675Z","domain":"app.fegc-wage.gc.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455911856Z","domain":"app.swc-cfc.gc.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455912096Z","domain":"app.wage-fegc.gc.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455912186Z","domain":"cfc-swc.gc.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455913198Z","domain":"fegc-wage.gc.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455913278Z","domain":"femmes.canada.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455913368Z","domain":"femmes-egalite-genres.canada.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455913449Z","domain":"swc-cfc.gc.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.45591422Z","domain":"wage-fegc.gc.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.4559143Z","domain":"women.canada.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.45591439Z","domain":"women-gender-equality.canada.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.45591447Z","domain":"www.cfc-swc.gc.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455914551Z","domain":"www.fegc-wage.gc.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455914641Z","domain":"www.femmes.canada.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455914721Z","domain":"www.femmes-egalite-genres.canada.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455914801Z","domain":"www.swc-cfc.gc.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455914891Z","domain":"www.wage-fegc.gc.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455915903Z","domain":"www.women.canada.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
+{"id":"9301245570","timestamp":"2025-01-23T17:15:14.455915993Z","domain":"www.women-gender-equality.canada.ca","issuer":"SSL.com","from":"2025-01-23T16:04:08Z","to":"2026-01-23T16:09:34Z"}
