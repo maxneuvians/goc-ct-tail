@@ -1769,6 +1769,10 @@
       "DigiCert": 1,
       "Sectigo": 1,
       "SSL.com": 7
+    },
+    "2025-01-22": {
+      "Let's Encrypt": 10,
+      "SSL.com": 1
     }
   },
   "errors": []
