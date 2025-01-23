@@ -7852,3 +7852,12 @@
 {"id":"9297363446","timestamp":"2025-01-23T06:16:20.917874754Z","domain":"www.sap-recrutement.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-23T04:59:38Z","to":"2025-04-23T04:59:37Z"}
 {"id":"9297363446","timestamp":"2025-01-23T06:16:20.917874844Z","domain":"www.sap.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-23T04:59:38Z","to":"2025-04-23T04:59:37Z"}
 {"id":"9297363446","timestamp":"2025-01-23T06:16:20.917874924Z","domain":"www.sap.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-23T04:59:38Z","to":"2025-04-23T04:59:37Z"}
+{"id":"9302127084","timestamp":"2025-01-23T19:14:53.98420641Z","domain":"*.fjgc-gccf.gc.ca","issuer":"SSL.com","from":"2025-01-23T18:29:04Z","to":"2026-02-23T05:00:00Z"}
+{"id":"9302127084","timestamp":"2025-01-23T19:14:53.98420683Z","domain":"*.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-23T18:29:04Z","to":"2026-02-23T05:00:00Z"}
+{"id":"9302127084","timestamp":"2025-01-23T19:14:53.984207061Z","domain":"nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-23T18:29:04Z","to":"2026-02-23T05:00:00Z"}
+{"id":"9302127084","timestamp":"2025-01-23T19:14:53.984207301Z","domain":"*.nrcan-rncan.gc.ca","issuer":"SSL.com","from":"2025-01-23T18:29:04Z","to":"2026-02-23T05:00:00Z"}
+{"id":"9302127084","timestamp":"2025-01-23T19:14:53.984207392Z","domain":"nrcan-rncan.gc.ca","issuer":"SSL.com","from":"2025-01-23T18:29:04Z","to":"2026-02-23T05:00:00Z"}
+{"id":"9302127084","timestamp":"2025-01-23T19:14:53.984208543Z","domain":"*.rncan.gc.ca","issuer":"SSL.com","from":"2025-01-23T18:29:04Z","to":"2026-02-23T05:00:00Z"}
+{"id":"9302127084","timestamp":"2025-01-23T19:14:53.984208614Z","domain":"rncan.gc.ca","issuer":"SSL.com","from":"2025-01-23T18:29:04Z","to":"2026-02-23T05:00:00Z"}
+{"id":"9302127084","timestamp":"2025-01-23T19:14:53.984208694Z","domain":"*.rncan-nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-23T18:29:04Z","to":"2026-02-23T05:00:00Z"}
+{"id":"9302127084","timestamp":"2025-01-23T19:14:53.984208764Z","domain":"rncan-nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-23T18:29:04Z","to":"2026-02-23T05:00:00Z"}
