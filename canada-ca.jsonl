@@ -6849,3 +6849,5 @@
 {"id":"9310642555","timestamp":"2025-01-24T18:16:19.5217956Z","domain":"cprs-sipc-qa.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-01-24T17:14:39Z","to":"2026-02-24T05:00:00Z"}
 {"id":"9310863508","timestamp":"2025-01-24T18:16:19.521796322Z","domain":"ircc-services.canada.ca","issuer":"SSL.com","from":"2025-01-24T17:50:14Z","to":"2026-02-24T05:00:00Z"}
 {"id":"9310881929","timestamp":"2025-01-24T18:16:19.521796632Z","domain":"ircc-services-pef.canada.ca","issuer":"SSL.com","from":"2025-01-24T17:53:49Z","to":"2026-02-24T05:00:00Z"}
+{"id":"9311985200","timestamp":"2025-01-24T22:15:03.691927346Z","domain":"minio.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-24T20:26:03Z","to":"2025-04-24T20:26:02Z"}
+{"id":"9312098251","timestamp":"2025-01-24T22:15:03.691928057Z","domain":"a3.accessibility-office-int.service.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-01-24T00:00:00Z","to":"2025-07-24T23:59:59Z"}
