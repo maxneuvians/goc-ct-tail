@@ -1779,6 +1779,14 @@
       "SSL.com": 45,
       "GoDaddy": 1,
       "DigiCert": 2
+    },
+    "2025-01-24": {
+      "Let's Encrypt": 2,
+      "SSL.com": 3,
+      "DigiCert": 1
+    },
+    "2025-01-25": {
+      "Let's Encrypt": 1
     }
   },
   "errors": []
