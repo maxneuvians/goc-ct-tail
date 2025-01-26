@@ -395,7 +395,8 @@
       "DigiCert": 1
     },
     "2025-01-25": {
-      "DigiCert": 6
+      "DigiCert": 6,
+      "Let's Encrypt": 1
     }
   },
   "errors": []
