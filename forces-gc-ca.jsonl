@@ -911,3 +911,6 @@
 {"id":"9316171898","timestamp":"2025-01-25T09:15:20.08184872Z","domain":"portal-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2025-01-25T07:31:26Z","to":"2025-04-25T08:26:21Z"}
 {"id":"9335472843","timestamp":"2025-01-27T13:16:54.599423081Z","domain":"oscar-en-stg.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-01-27T12:35:31Z","to":"2026-01-27T12:44:42Z"}
 {"id":"9335472843","timestamp":"2025-01-27T13:16:54.599423632Z","domain":"oscar-fr-stg.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-01-27T12:35:31Z","to":"2026-01-27T12:44:42Z"}
+{"id":"9345845395","timestamp":"2025-01-28T17:14:53.590258442Z","domain":"*.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-01-28T15:14:25Z","to":"2025-04-28T15:14:24Z"}
+{"id":"9345845395","timestamp":"2025-01-28T17:14:53.590258812Z","domain":"*.rcaf.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-01-28T15:14:25Z","to":"2025-04-28T15:14:24Z"}
+{"id":"9345845395","timestamp":"2025-01-28T17:14:53.590259012Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-01-28T15:14:25Z","to":"2025-04-28T15:14:24Z"}
