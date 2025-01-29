@@ -7993,3 +7993,13 @@
 {"id":"9341775179","timestamp":"2025-01-28T07:15:07.376366336Z","domain":"www.oil.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-28T05:22:24Z","to":"2025-04-28T05:22:23Z"}
 {"id":"9341775179","timestamp":"2025-01-28T07:15:07.376366446Z","domain":"www.oil.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-28T05:22:24Z","to":"2025-04-28T05:22:23Z"}
 {"id":"9341775179","timestamp":"2025-01-28T07:15:07.376366527Z","domain":"www.oil.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-01-28T05:22:24Z","to":"2025-04-28T05:22:23Z"}
+{"id":"9356000810","timestamp":"2025-01-29T20:15:34.707608107Z","domain":"gnss-ftp-prod1.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-29T19:20:51Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9356000810","timestamp":"2025-01-29T20:15:34.707608578Z","domain":"gnss-ftp-prod2.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-29T19:20:51Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9356000810","timestamp":"2025-01-29T20:15:34.707608818Z","domain":"gnss-ntrip-prod1.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-29T19:20:51Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9356000810","timestamp":"2025-01-29T20:15:34.707609058Z","domain":"gnss-ntrip-prod2.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-29T19:20:51Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9356000810","timestamp":"2025-01-29T20:15:34.707609139Z","domain":"ntrip1.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-29T19:20:51Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9356000810","timestamp":"2025-01-29T20:15:34.707610271Z","domain":"ntrip2.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-29T19:20:51Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9356000810","timestamp":"2025-01-29T20:15:34.707610361Z","domain":"ntrip.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-29T19:20:51Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9356000810","timestamp":"2025-01-29T20:15:34.707610441Z","domain":"wcda1.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-29T19:20:51Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9356000810","timestamp":"2025-01-29T20:15:34.707610531Z","domain":"wcda2.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-29T19:20:51Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9356000810","timestamp":"2025-01-29T20:15:34.707611463Z","domain":"wcda.nrcan.gc.ca","issuer":"SSL.com","from":"2025-01-29T19:20:51Z","to":"2026-02-28T05:00:00Z"}
