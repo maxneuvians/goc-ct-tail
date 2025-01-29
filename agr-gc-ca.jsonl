@@ -335,3 +335,7 @@
 {"id":"9226339031","timestamp":"2025-01-15T18:36:46.073817306Z","domain":"*.agrigeo-uat.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
 {"id":"9226339031","timestamp":"2025-01-15T18:36:46.073817416Z","domain":"agrigeo-uat.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-01-15T00:00:00Z","to":"2026-02-13T23:59:59Z"}
 {"id":"9284048569","timestamp":"2025-01-21T18:37:45.894890376Z","domain":"catalogue-campus.agr.gc.ca","issuer":"Let's Encrypt","from":"2025-01-21T17:01:16Z","to":"2025-04-21T17:01:15Z"}
+{"id":"9354533624","timestamp":"2025-01-29T16:36:59.273617522Z","domain":"vpn-bcp.agr.gc.ca","issuer":"SSL.com","from":"2025-01-29T15:54:33Z","to":"2026-02-02T10:01:31Z"}
+{"id":"9354649619","timestamp":"2025-01-29T16:36:59.273617983Z","domain":"vpn-a.agr.gc.ca","issuer":"SSL.com","from":"2025-01-29T16:08:13Z","to":"2026-02-17T10:08:04Z"}
+{"id":"9354649619","timestamp":"2025-01-29T16:36:59.273618243Z","domain":"vpn.agr.gc.ca","issuer":"SSL.com","from":"2025-01-29T16:08:13Z","to":"2026-02-17T10:08:04Z"}
+{"id":"9354649619","timestamp":"2025-01-29T16:36:59.273618514Z","domain":"vpn-b.agr.gc.ca","issuer":"SSL.com","from":"2025-01-29T16:08:13Z","to":"2026-02-17T10:08:04Z"}
