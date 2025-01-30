@@ -6901,3 +6901,5 @@
 {"id":"9362843681","timestamp":"2025-01-30T13:16:40.896518184Z","domain":"alertmanager.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-30T11:33:30Z","to":"2025-04-30T11:33:29Z"}
 {"id":"9362994376","timestamp":"2025-01-30T13:16:40.896518535Z","domain":"sb-mn-api.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-01-30T12:50:01Z","to":"2026-02-28T05:00:00Z"}
 {"id":"9363202253","timestamp":"2025-01-30T14:15:13.272399502Z","domain":"argocd.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-30T12:32:16Z","to":"2025-04-30T12:32:15Z"}
+{"id":"9363948027","timestamp":"2025-01-30T16:16:06.814255037Z","domain":"military-transition.canada.ca","issuer":"SSL.com","from":"2025-01-30T15:25:00Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9363948027","timestamp":"2025-01-30T16:16:06.814255438Z","domain":"transition-militaire.canada.ca","issuer":"SSL.com","from":"2025-01-30T15:25:00Z","to":"2026-02-28T05:00:00Z"}
