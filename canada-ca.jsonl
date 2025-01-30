@@ -6900,3 +6900,4 @@
 {"id":"9362071522","timestamp":"2025-01-30T11:15:05.476239996Z","domain":"dol-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-01-30T09:37:10Z","to":"2025-04-30T09:37:09Z"}
 {"id":"9362843681","timestamp":"2025-01-30T13:16:40.896518184Z","domain":"alertmanager.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-30T11:33:30Z","to":"2025-04-30T11:33:29Z"}
 {"id":"9362994376","timestamp":"2025-01-30T13:16:40.896518535Z","domain":"sb-mn-api.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-01-30T12:50:01Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9363202253","timestamp":"2025-01-30T14:15:13.272399502Z","domain":"argocd.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-30T12:32:16Z","to":"2025-04-30T12:32:15Z"}
