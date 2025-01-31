@@ -6911,3 +6911,13 @@
 {"id":"9365541213","timestamp":"2025-01-30T20:15:36.46170563Z","domain":"gcmatarchive-api-dev.tpsgc-pwgsc.aws.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-01-30T00:00:00Z","to":"2026-02-28T23:59:59Z"}
 {"id":"9368225653","timestamp":"2025-01-31T04:16:15.965647613Z","domain":"suivi.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-31T02:13:53Z","to":"2025-05-01T02:13:52Z"}
 {"id":"9368225653","timestamp":"2025-01-31T04:16:15.965647914Z","domain":"tracker.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-31T02:13:53Z","to":"2025-05-01T02:13:52Z"}
+{"id":"9371764643","timestamp":"2025-01-31T13:16:29.322824928Z","domain":"clinical-information.canada.ca","issuer":"SSL.com","from":"2025-01-31T12:13:05Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9371764643","timestamp":"2025-01-31T13:16:29.322825449Z","domain":"renseignements-cliniques.canada.ca","issuer":"SSL.com","from":"2025-01-31T12:13:05Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9371764643","timestamp":"2025-01-31T13:16:29.32282575Z","domain":"www.clinical-information.canada.ca","issuer":"SSL.com","from":"2025-01-31T12:13:05Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9371764643","timestamp":"2025-01-31T13:16:29.32282597Z","domain":"www.renseignements-cliniques.canada.ca","issuer":"SSL.com","from":"2025-01-31T12:13:05Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9372084859","timestamp":"2025-01-31T13:16:29.322826121Z","domain":"capc-pace.phac-aspc.gc.ca","issuer":"SSL.com","from":"2025-01-31T12:58:44Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9372084859","timestamp":"2025-01-31T13:16:29.322827443Z","domain":"cpnp-pcnp.phac-aspc.gc.ca","issuer":"SSL.com","from":"2025-01-31T12:58:44Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9372084859","timestamp":"2025-01-31T13:16:29.322827573Z","domain":"enfant-sain.canada.ca","issuer":"SSL.com","from":"2025-01-31T12:58:44Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9372084859","timestamp":"2025-01-31T13:16:29.322827664Z","domain":"healthy-child.canada.ca","issuer":"SSL.com","from":"2025-01-31T12:58:44Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9372084859","timestamp":"2025-01-31T13:16:29.322827754Z","domain":"nutrition-prenatale.canada.ca","issuer":"SSL.com","from":"2025-01-31T12:58:44Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9372084859","timestamp":"2025-01-31T13:16:29.322828746Z","domain":"prenatal-nutrition.canada.ca","issuer":"SSL.com","from":"2025-01-31T12:58:44Z","to":"2026-02-28T05:00:00Z"}
