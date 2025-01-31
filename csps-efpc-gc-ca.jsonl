@@ -203,3 +203,6 @@
 {"id":"9272612026","timestamp":"2025-01-20T14:43:26.220465644Z","domain":"fts-stf.csps-efpc.gc.ca","issuer":"Let's Encrypt","from":"2025-01-20T12:54:53Z","to":"2025-04-20T12:54:52Z"}
 {"id":"9365338130","timestamp":"2025-01-30T19:43:30.947678151Z","domain":"idm.csps-efpc.gc.ca","issuer":"SSL.com","from":"2025-01-30T19:06:39Z","to":"2026-02-28T05:00:00Z"}
 {"id":"9365365368","timestamp":"2025-01-30T19:43:30.947678902Z","domain":"esb.csps-efpc.gc.ca","issuer":"SSL.com","from":"2025-01-30T19:11:42Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9371837851","timestamp":"2025-01-31T12:51:52.36977113Z","domain":"auth.csps-efpc.gc.ca","issuer":"SSL.com","from":"2025-01-31T12:21:11Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9371911633","timestamp":"2025-01-31T12:51:52.369771621Z","domain":"idm-dev.csps-efpc.gc.ca","issuer":"SSL.com","from":"2025-01-31T12:32:01Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9371911829","timestamp":"2025-01-31T12:51:52.369771881Z","domain":"esb-staging.csps-efpc.gc.ca","issuer":"SSL.com","from":"2025-01-31T12:33:19Z","to":"2026-02-26T09:09:55Z"}
