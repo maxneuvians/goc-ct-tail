@@ -6909,3 +6909,5 @@
 {"id":"9365454234","timestamp":"2025-01-30T20:15:36.461705289Z","domain":"ircc-services-staging.canada.ca","issuer":"SSL.com","from":"2025-01-30T19:25:21Z","to":"2026-02-28T05:00:00Z"}
 {"id":"9365454234","timestamp":"2025-01-30T20:15:36.46170552Z","domain":"ircc-services-test.canada.ca","issuer":"SSL.com","from":"2025-01-30T19:25:21Z","to":"2026-02-28T05:00:00Z"}
 {"id":"9365541213","timestamp":"2025-01-30T20:15:36.46170563Z","domain":"gcmatarchive-api-dev.tpsgc-pwgsc.aws.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-01-30T00:00:00Z","to":"2026-02-28T23:59:59Z"}
+{"id":"9368225653","timestamp":"2025-01-31T04:16:15.965647613Z","domain":"suivi.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-31T02:13:53Z","to":"2025-05-01T02:13:52Z"}
+{"id":"9368225653","timestamp":"2025-01-31T04:16:15.965647914Z","domain":"tracker.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-01-31T02:13:53Z","to":"2025-05-01T02:13:52Z"}
