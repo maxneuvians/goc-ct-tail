@@ -680,3 +680,6 @@
 {"id":"9274458076","timestamp":"2025-01-20T19:04:25.319625511Z","domain":"api-ipa-dt.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-01-20T18:34:23Z","to":"2026-02-20T05:00:00Z"}
 {"id":"9274505710","timestamp":"2025-01-20T19:04:25.319625792Z","domain":"api-ipa.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-01-20T18:38:59Z","to":"2026-02-20T05:00:00Z"}
 {"id":"9326536828","timestamp":"2025-01-26T13:05:57.614566224Z","domain":"catalogue.hc-sc.gc.ca","issuer":"Let's Encrypt","from":"2025-01-26T11:56:32Z","to":"2025-04-26T11:56:31Z"}
+{"id":"9401365448","timestamp":"2025-02-03T19:04:42.163843203Z","domain":"engagements-internationaux-sante.canada.ca","issuer":"SSL.com","from":"2025-02-03T18:18:15Z","to":"2026-03-03T05:00:00Z"}
+{"id":"9401365448","timestamp":"2025-02-03T19:04:42.163843504Z","domain":"international-health-commitments.canada.ca","issuer":"SSL.com","from":"2025-02-03T18:18:15Z","to":"2026-03-03T05:00:00Z"}
+{"id":"9401365448","timestamp":"2025-02-03T19:04:42.163843724Z","domain":"lap-dmz-01.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-02-03T18:18:15Z","to":"2026-03-03T05:00:00Z"}
