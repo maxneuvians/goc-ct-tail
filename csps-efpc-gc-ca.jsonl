@@ -206,3 +206,5 @@
 {"id":"9371837851","timestamp":"2025-01-31T12:51:52.36977113Z","domain":"auth.csps-efpc.gc.ca","issuer":"SSL.com","from":"2025-01-31T12:21:11Z","to":"2026-02-28T05:00:00Z"}
 {"id":"9371911633","timestamp":"2025-01-31T12:51:52.369771621Z","domain":"idm-dev.csps-efpc.gc.ca","issuer":"SSL.com","from":"2025-01-31T12:32:01Z","to":"2026-02-28T05:00:00Z"}
 {"id":"9371911829","timestamp":"2025-01-31T12:51:52.369771881Z","domain":"esb-staging.csps-efpc.gc.ca","issuer":"SSL.com","from":"2025-01-31T12:33:19Z","to":"2026-02-26T09:09:55Z"}
+{"id":"9399230502","timestamp":"2025-02-03T13:43:38.996987033Z","domain":"auth-dev.csps-efpc.gc.ca","issuer":"SSL.com","from":"2025-02-03T13:12:55Z","to":"2026-02-26T14:11:58Z"}
+{"id":"9399255232","timestamp":"2025-02-03T13:43:38.996987453Z","domain":"esb-dev.csps-efpc.gc.ca","issuer":"SSL.com","from":"2025-02-03T13:16:31Z","to":"2026-02-26T13:56:01Z"}
