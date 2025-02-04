@@ -1820,6 +1820,11 @@
     "2025-02-02": {
       "DigiCert": 1,
       "Let's Encrypt": 3
+    },
+    "2025-02-03": {
+      "SSL.com": 15,
+      "Google Trust Services": 1,
+      "Let's Encrypt": 2
     }
   },
   "errors": []
