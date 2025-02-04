@@ -6978,3 +6978,11 @@
 {"id":"9408985522","timestamp":"2025-02-04T16:16:08.485543885Z","domain":"ssc-cmsedge-30.video.canada.ca","issuer":"SSL.com","from":"2025-02-04T15:00:31Z","to":"2026-02-28T05:00:00Z"}
 {"id":"9408985522","timestamp":"2025-02-04T16:16:08.485544175Z","domain":"video.canada.ca","issuer":"SSL.com","from":"2025-02-04T15:00:31Z","to":"2026-02-28T05:00:00Z"}
 {"id":"9409003312","timestamp":"2025-02-04T16:16:08.485544486Z","domain":"canary-gateway.ssc-spc.com-test.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-02-04T14:09:36Z","to":"2025-05-05T15:03:30Z"}
+{"id":"9409979020","timestamp":"2025-02-04T18:16:20.224758111Z","domain":"beta.canada.ca","issuer":"SSL.com","from":"2025-02-04T17:44:23Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9409979020","timestamp":"2025-02-04T18:16:20.224758622Z","domain":"canada.ca","issuer":"SSL.com","from":"2025-02-04T17:44:23Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9409979020","timestamp":"2025-02-04T18:16:20.224758902Z","domain":"canada.gc.ca","issuer":"SSL.com","from":"2025-02-04T17:44:23Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9409979020","timestamp":"2025-02-04T18:16:20.224759654Z","domain":"www1.canada.ca","issuer":"SSL.com","from":"2025-02-04T17:44:23Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9409979020","timestamp":"2025-02-04T18:16:20.224759764Z","domain":"www.beta.canada.ca","issuer":"SSL.com","from":"2025-02-04T17:44:23Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9409979020","timestamp":"2025-02-04T18:16:20.224761117Z","domain":"www.canada.gc.ca","issuer":"SSL.com","from":"2025-02-04T17:44:23Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9409979020","timestamp":"2025-02-04T18:16:20.224761207Z","domain":"www.gc.ca","issuer":"SSL.com","from":"2025-02-04T17:44:23Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9409979020","timestamp":"2025-02-04T18:16:20.224761297Z","domain":"www.www1.canada.ca","issuer":"SSL.com","from":"2025-02-04T17:44:23Z","to":"2026-01-31T17:09:10Z"}
