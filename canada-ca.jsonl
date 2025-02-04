@@ -6974,3 +6974,7 @@
 {"id":"9406949635","timestamp":"2025-02-04T10:15:38.221038215Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-02-04T08:40:57Z","to":"2025-05-05T08:40:56Z"}
 {"id":"9406949635","timestamp":"2025-02-04T10:15:38.221038516Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-02-04T08:40:57Z","to":"2025-05-05T08:40:56Z"}
 {"id":"9408972842","timestamp":"2025-02-04T15:15:36.945621638Z","domain":"language-weaver.canada.ca","issuer":"SSL.com","from":"2025-02-04T14:59:41Z","to":"2026-03-04T05:00:00Z"}
+{"id":"9408985522","timestamp":"2025-02-04T16:16:08.485543364Z","domain":"csc-scc.webrtc.video.canada.ca","issuer":"SSL.com","from":"2025-02-04T15:00:31Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9408985522","timestamp":"2025-02-04T16:16:08.485543885Z","domain":"ssc-cmsedge-30.video.canada.ca","issuer":"SSL.com","from":"2025-02-04T15:00:31Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9408985522","timestamp":"2025-02-04T16:16:08.485544175Z","domain":"video.canada.ca","issuer":"SSL.com","from":"2025-02-04T15:00:31Z","to":"2026-02-28T05:00:00Z"}
+{"id":"9409003312","timestamp":"2025-02-04T16:16:08.485544486Z","domain":"canary-gateway.ssc-spc.com-test.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-02-04T14:09:36Z","to":"2025-05-05T15:03:30Z"}
