@@ -6964,3 +6964,8 @@
 {"id":"9402545200","timestamp":"2025-02-03T22:15:04.101242122Z","domain":"canary.ssc-spc.preprod.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-02-03T20:36:04Z","to":"2025-05-04T21:30:18Z"}
 {"id":"9403046623","timestamp":"2025-02-04T00:31:26.957281243Z","domain":"resource-catalogue.ws-nitrogen.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-03T22:14:35Z","to":"2025-05-04T22:14:34Z"}
 {"id":"9403046845","timestamp":"2025-02-04T00:31:26.957281683Z","domain":"mlflow.ws-nitrogen.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-03T22:14:36Z","to":"2025-05-04T22:14:35Z"}
+{"id":"9406053965","timestamp":"2025-02-04T08:16:29.527657345Z","domain":"communaute-politiques.canada.ca","issuer":"Let's Encrypt","from":"2025-02-04T06:24:16Z","to":"2025-05-05T06:24:15Z"}
+{"id":"9406056196","timestamp":"2025-02-04T08:16:29.527657786Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-04T06:25:59Z","to":"2025-05-05T06:25:58Z"}
+{"id":"9406056196","timestamp":"2025-02-04T08:16:29.527658017Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-04T06:25:59Z","to":"2025-05-05T06:25:58Z"}
+{"id":"9406149949","timestamp":"2025-02-04T08:16:29.527658277Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-04T06:37:36Z","to":"2025-05-05T06:37:35Z"}
+{"id":"9406149949","timestamp":"2025-02-04T08:16:29.527658357Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-04T06:37:36Z","to":"2025-05-05T06:37:35Z"}
