@@ -396,3 +396,6 @@
 {"id":"9347811351","timestamp":"2025-01-28T22:43:33.342349137Z","domain":"atr.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-01-28T00:00:00Z","to":"2026-01-27T23:59:59Z"}
 {"id":"9347811351","timestamp":"2025-01-28T22:43:33.342349518Z","domain":"eppd1atrapp01.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-01-28T00:00:00Z","to":"2026-01-27T23:59:59Z"}
 {"id":"9402883619","timestamp":"2025-02-03T23:43:26.377406455Z","domain":"eddv1vmtosapp01.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-02-03T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"9409111905","timestamp":"2025-02-04T15:43:41.203158859Z","domain":"eddv1vmgisapp01.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-02-04T00:00:00Z","to":"2026-02-03T23:59:59Z"}
+{"id":"9409111905","timestamp":"2025-02-04T15:43:41.20315917Z","domain":"eddv1vmgissrv01.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-02-04T00:00:00Z","to":"2026-02-03T23:59:59Z"}
+{"id":"9409111905","timestamp":"2025-02-04T15:43:41.2031594Z","domain":"geospatial.dev.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-02-04T00:00:00Z","to":"2026-02-03T23:59:59Z"}
