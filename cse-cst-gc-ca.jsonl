@@ -120,3 +120,12 @@
 {"id":"9179029832","timestamp":"2025-01-10T14:54:11.648087129Z","domain":"transport.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-01-10T13:43:47Z","to":"2026-02-09T05:00:00Z"}
 {"id":"9266881700","timestamp":"2025-01-20T01:18:36.353577238Z","domain":"osaa2b-docs.oss.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-01-19T23:28:50Z","to":"2025-04-19T23:28:49Z"}
 {"id":"9355899106","timestamp":"2025-01-29T19:54:12.001010025Z","domain":"transport-stg.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-01-29T19:07:48Z","to":"2026-01-29T19:16:41Z"}
+{"id":"9418882099","timestamp":"2025-02-05T16:54:15.966697249Z","domain":"asc1opotds01.corp.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-02-05T16:15:34Z","to":"2026-03-05T05:00:00Z"}
+{"id":"9418882099","timestamp":"2025-02-05T16:54:15.966697559Z","domain":"asc1oqgcdocs01.corp.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-02-05T16:15:34Z","to":"2026-03-05T05:00:00Z"}
+{"id":"9418882099","timestamp":"2025-02-05T16:54:15.96669777Z","domain":"asc1oqgcdocs02.corp.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-02-05T16:15:34Z","to":"2026-03-05T05:00:00Z"}
+{"id":"9418882099","timestamp":"2025-02-05T16:54:15.96669797Z","domain":"asc1oqgcdocs03.corp.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-02-05T16:15:34Z","to":"2026-03-05T05:00:00Z"}
+{"id":"9418882099","timestamp":"2025-02-05T16:54:15.96669806Z","domain":"asc1oqgcdocs04.corp.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-02-05T16:15:34Z","to":"2026-03-05T05:00:00Z"}
+{"id":"9418882099","timestamp":"2025-02-05T16:54:15.966699393Z","domain":"asc1oqotds01.corp.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-02-05T16:15:34Z","to":"2026-03-05T05:00:00Z"}
+{"id":"9418882099","timestamp":"2025-02-05T16:54:15.966699473Z","domain":"gcdocs.corp.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-02-05T16:15:34Z","to":"2026-03-05T05:00:00Z"}
+{"id":"9418882099","timestamp":"2025-02-05T16:54:15.966699553Z","domain":"gcdocs-ppd.corp.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-02-05T16:15:34Z","to":"2026-03-05T05:00:00Z"}
+{"id":"9418882099","timestamp":"2025-02-05T16:54:15.966699643Z","domain":"otdslow.corp.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-02-05T16:15:34Z","to":"2026-03-05T05:00:00Z"}
