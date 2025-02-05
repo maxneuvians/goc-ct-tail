@@ -8097,3 +8097,7 @@
 {"id":"9414410076","timestamp":"2025-02-05T06:16:23.776731296Z","domain":"glfc72.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-02-05T00:00:00Z","to":"2025-05-06T23:59:59Z"}
 {"id":"9414410076","timestamp":"2025-02-05T06:16:23.776731526Z","domain":"glfc72.rncan.gc.ca","issuer":"Sectigo","from":"2025-02-05T00:00:00Z","to":"2025-05-06T23:59:59Z"}
 {"id":"9414410076","timestamp":"2025-02-05T06:16:23.776731767Z","domain":"glfc72.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-02-05T00:00:00Z","to":"2025-05-06T23:59:59Z"}
+{"id":"9414582212","timestamp":"2025-02-05T07:15:13.911599076Z","domain":"web16-ext-prd.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-05T05:13:02Z","to":"2025-05-06T05:13:01Z"}
+{"id":"9414582212","timestamp":"2025-02-05T07:15:13.911599537Z","domain":"web16-ext-prd.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-05T05:13:02Z","to":"2025-05-06T05:13:01Z"}
+{"id":"9414612274","timestamp":"2025-02-05T07:15:13.911599888Z","domain":"www.clss.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-05T05:16:57Z","to":"2025-05-06T05:16:56Z"}
+{"id":"9414717203","timestamp":"2025-02-05T07:15:13.911600168Z","domain":"www.satc.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-05T05:30:42Z","to":"2025-05-06T05:30:41Z"}
