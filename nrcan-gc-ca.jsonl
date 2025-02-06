@@ -8101,3 +8101,7 @@
 {"id":"9414582212","timestamp":"2025-02-05T07:15:13.911599537Z","domain":"web16-ext-prd.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-05T05:13:02Z","to":"2025-05-06T05:13:01Z"}
 {"id":"9414612274","timestamp":"2025-02-05T07:15:13.911599888Z","domain":"www.clss.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-05T05:16:57Z","to":"2025-05-06T05:16:56Z"}
 {"id":"9414717203","timestamp":"2025-02-05T07:15:13.911600168Z","domain":"www.satc.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-05T05:30:42Z","to":"2025-05-06T05:30:41Z"}
+{"id":"9430011450","timestamp":"2025-02-06T19:14:59.300709938Z","domain":"oee.nrcan.gc.ca","issuer":"SSL.com","from":"2025-02-06T18:06:36Z","to":"2026-03-06T05:00:00Z"}
+{"id":"9430011450","timestamp":"2025-02-06T19:14:59.300710279Z","domain":"oee.nrcan-rncan.gc.ca","issuer":"SSL.com","from":"2025-02-06T18:06:36Z","to":"2026-03-06T05:00:00Z"}
+{"id":"9430011450","timestamp":"2025-02-06T19:14:59.300710499Z","domain":"oee.rncan.gc.ca","issuer":"SSL.com","from":"2025-02-06T18:06:36Z","to":"2026-03-06T05:00:00Z"}
+{"id":"9430011450","timestamp":"2025-02-06T19:14:59.30071076Z","domain":"oee.rncan-nrcan.gc.ca","issuer":"SSL.com","from":"2025-02-06T18:06:36Z","to":"2026-03-06T05:00:00Z"}
