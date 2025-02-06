@@ -35,3 +35,8 @@
 {"id":"9400327558","timestamp":"2025-02-03T16:37:12.287143402Z","domain":"*.valentine.cds-snc.ca","issuer":"Amazon Trust Services","from":"2025-02-03T00:00:00Z","to":"2026-03-04T23:59:59Z"}
 {"id":"9400327558","timestamp":"2025-02-03T16:37:12.287143722Z","domain":"valentine.cds-snc.ca","issuer":"Amazon Trust Services","from":"2025-02-03T00:00:00Z","to":"2026-03-04T23:59:59Z"}
 {"id":"9425152233","timestamp":"2025-02-06T07:33:28.740081707Z","domain":"assistance.cds-snc.ca","issuer":"Google Trust Services","from":"2025-02-06T06:02:32Z","to":"2025-05-07T07:01:22Z"}
+{"id":"9425537042","timestamp":"2025-02-06T08:36:09.654897955Z","domain":"assistance.cds-snc.ca","issuer":"Google Trust Services","from":"2025-02-06T06:02:42Z","to":"2025-05-07T07:02:37Z"}
+{"id":"9425601560","timestamp":"2025-02-06T08:36:09.654898306Z","domain":"support.cds-snc.ca","issuer":"Let's Encrypt","from":"2025-02-06T07:03:36Z","to":"2025-05-07T07:03:35Z"}
+{"id":"9425602023","timestamp":"2025-02-06T08:36:09.654898586Z","domain":"support.cds-snc.ca","issuer":"Let's Encrypt","from":"2025-02-06T07:03:38Z","to":"2025-05-07T07:03:37Z"}
+{"id":"9425635875","timestamp":"2025-02-06T08:36:09.654898827Z","domain":"covid.assistance.cds-snc.ca","issuer":"Google Trust Services","from":"2025-02-06T07:06:49Z","to":"2025-05-07T08:05:35Z"}
+{"id":"9425637133","timestamp":"2025-02-06T08:36:09.654898917Z","domain":"covid.assistance.cds-snc.ca","issuer":"Google Trust Services","from":"2025-02-06T07:07:03Z","to":"2025-05-07T08:06:55Z"}
