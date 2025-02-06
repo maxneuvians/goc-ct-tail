@@ -7022,3 +7022,13 @@
 {"id":"9428222735","timestamp":"2025-02-06T14:15:08.293726645Z","domain":"*.irb-cisr.canada.ca","issuer":"SSL.com","from":"2025-02-06T13:51:54Z","to":"2026-02-06T14:01:10Z"}
 {"id":"9428491821","timestamp":"2025-02-06T15:15:50.556639897Z","domain":"*.cio-prod-dims.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-02-06T14:31:02Z","to":"2026-03-06T05:00:00Z"}
 {"id":"9429060829","timestamp":"2025-02-06T16:15:55.811070413Z","domain":"nginx.bsim-sagi.service.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-02-06T00:00:00Z","to":"2025-08-06T23:59:59Z"}
+{"id":"9429235945","timestamp":"2025-02-06T17:15:01.210353327Z","domain":"www141.canafe-fintrac.canada.ca","issuer":"SSL.com","from":"2025-02-06T16:18:13Z","to":"2026-03-06T05:00:00Z"}
+{"id":"9429235945","timestamp":"2025-02-06T17:15:01.210353658Z","domain":"www141.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-02-06T16:18:13Z","to":"2026-03-06T05:00:00Z"}
+{"id":"9429303061","timestamp":"2025-02-06T17:15:01.210353858Z","domain":"nginx.bsim-sagi.service.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-02-06T00:00:00Z","to":"2025-08-06T23:59:59Z"}
+{"id":"9429308467","timestamp":"2025-02-06T17:15:01.210354048Z","domain":"ei-regions.canada.ca","issuer":"SSL.com","from":"2025-02-06T16:27:52Z","to":"2026-03-06T05:00:00Z"}
+{"id":"9429308467","timestamp":"2025-02-06T17:15:01.210354148Z","domain":"regions-ae.canada.ca","issuer":"SSL.com","from":"2025-02-06T16:27:52Z","to":"2026-03-06T05:00:00Z"}
+{"id":"9429308467","timestamp":"2025-02-06T17:15:01.210355351Z","domain":"srv129.services.gc.ca","issuer":"SSL.com","from":"2025-02-06T16:27:52Z","to":"2026-03-06T05:00:00Z"}
+{"id":"9429308467","timestamp":"2025-02-06T17:15:01.210355451Z","domain":"www.srv129.services.gc.ca","issuer":"SSL.com","from":"2025-02-06T16:27:52Z","to":"2026-03-06T05:00:00Z"}
+{"id":"9429370005","timestamp":"2025-02-06T17:15:01.210355541Z","domain":"index-de-jurisprudence.canada.ca","issuer":"SSL.com","from":"2025-02-06T16:36:28Z","to":"2026-03-06T05:00:00Z"}
+{"id":"9429370005","timestamp":"2025-02-06T17:15:01.210355631Z","domain":"index-of-jurisprudence.canada.ca","issuer":"SSL.com","from":"2025-02-06T16:36:28Z","to":"2026-03-06T05:00:00Z"}
+{"id":"9429370005","timestamp":"2025-02-06T17:15:01.210356393Z","domain":"srv130.services.gc.ca","issuer":"SSL.com","from":"2025-02-06T16:36:28Z","to":"2026-03-06T05:00:00Z"}
