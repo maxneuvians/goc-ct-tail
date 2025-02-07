@@ -7041,3 +7041,14 @@
 {"id":"9432270324","timestamp":"2025-02-07T00:31:53.41832545Z","domain":"diseases.canada.ca","issuer":"Let's Encrypt","from":"2025-02-06T23:27:47Z","to":"2025-05-07T23:27:46Z"}
 {"id":"9434051774","timestamp":"2025-02-07T05:15:23.684032933Z","domain":"www.ssc-dev-edms.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-02-07T00:00:00Z","to":"2025-08-07T23:59:59Z"}
 {"id":"9434169927","timestamp":"2025-02-07T06:16:38.599402064Z","domain":"www.ssc-dev-edms.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-02-07T00:00:00Z","to":"2025-08-07T23:59:59Z"}
+{"id":"9438727170","timestamp":"2025-02-07T18:16:28.016734222Z","domain":"canchat.dev.ibm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-07T16:25:04Z","to":"2025-05-08T16:25:03Z"}
+{"id":"9438851681","timestamp":"2025-02-07T18:16:28.016735324Z","domain":"beta.canada.ca","issuer":"SSL.com","from":"2025-02-07T17:39:20Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9438851681","timestamp":"2025-02-07T18:16:28.016735595Z","domain":"canada.ca","issuer":"SSL.com","from":"2025-02-07T17:39:20Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9438851681","timestamp":"2025-02-07T18:16:28.016735876Z","domain":"canada.gc.ca","issuer":"SSL.com","from":"2025-02-07T17:39:20Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9438851681","timestamp":"2025-02-07T18:16:28.016735996Z","domain":"wap.gc.ca","issuer":"SSL.com","from":"2025-02-07T17:39:20Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9438851681","timestamp":"2025-02-07T18:16:28.016737078Z","domain":"www1.canada.ca","issuer":"SSL.com","from":"2025-02-07T17:39:20Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9438851681","timestamp":"2025-02-07T18:16:28.016737168Z","domain":"www.beta.canada.ca","issuer":"SSL.com","from":"2025-02-07T17:39:20Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9438851681","timestamp":"2025-02-07T18:16:28.016737268Z","domain":"www.canada.gc.ca","issuer":"SSL.com","from":"2025-02-07T17:39:20Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9438851681","timestamp":"2025-02-07T18:16:28.016737358Z","domain":"www.gc.ca","issuer":"SSL.com","from":"2025-02-07T17:39:20Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9438851681","timestamp":"2025-02-07T18:16:28.016738691Z","domain":"www.wap.gc.ca","issuer":"SSL.com","from":"2025-02-07T17:39:20Z","to":"2026-01-31T17:09:10Z"}
+{"id":"9438851681","timestamp":"2025-02-07T18:16:28.016738781Z","domain":"www.www1.canada.ca","issuer":"SSL.com","from":"2025-02-07T17:39:20Z","to":"2026-01-31T17:09:10Z"}
