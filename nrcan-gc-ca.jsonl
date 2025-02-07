@@ -8105,3 +8105,12 @@
 {"id":"9430011450","timestamp":"2025-02-06T19:14:59.300710279Z","domain":"oee.nrcan-rncan.gc.ca","issuer":"SSL.com","from":"2025-02-06T18:06:36Z","to":"2026-03-06T05:00:00Z"}
 {"id":"9430011450","timestamp":"2025-02-06T19:14:59.300710499Z","domain":"oee.rncan.gc.ca","issuer":"SSL.com","from":"2025-02-06T18:06:36Z","to":"2026-03-06T05:00:00Z"}
 {"id":"9430011450","timestamp":"2025-02-06T19:14:59.30071076Z","domain":"oee.rncan-nrcan.gc.ca","issuer":"SSL.com","from":"2025-02-06T18:06:36Z","to":"2026-03-06T05:00:00Z"}
+{"id":"9434312661","timestamp":"2025-02-07T06:16:39.00477794Z","domain":"basin.gdr.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-07T04:44:05Z","to":"2025-05-08T04:44:04Z"}
+{"id":"9434312661","timestamp":"2025-02-07T06:16:39.00477841Z","domain":"ed.gdr.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-07T04:44:05Z","to":"2025-05-08T04:44:04Z"}
+{"id":"9434312661","timestamp":"2025-02-07T06:16:39.004778721Z","domain":"gdr.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-07T04:44:05Z","to":"2025-05-08T04:44:04Z"}
+{"id":"9434314145","timestamp":"2025-02-07T06:16:39.004778991Z","domain":"geoconnections.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-07T04:44:13Z","to":"2025-05-08T04:44:12Z"}
+{"id":"9434324395","timestamp":"2025-02-07T06:16:39.004779111Z","domain":"basin-dev.gsca.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-07T04:46:11Z","to":"2025-05-08T04:46:10Z"}
+{"id":"9434324395","timestamp":"2025-02-07T06:16:39.004780304Z","domain":"ed-dev.gsca.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-07T04:46:11Z","to":"2025-05-08T04:46:10Z"}
+{"id":"9434324395","timestamp":"2025-02-07T06:16:39.004780414Z","domain":"gsc.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-07T04:46:11Z","to":"2025-05-08T04:46:10Z"}
+{"id":"9434324395","timestamp":"2025-02-07T06:16:39.004780514Z","domain":"pad-dev.gsca.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-07T04:46:11Z","to":"2025-05-08T04:46:10Z"}
+{"id":"9434324395","timestamp":"2025-02-07T06:16:39.004780604Z","domain":"pad.gsca.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-07T04:46:11Z","to":"2025-05-08T04:46:10Z"}
