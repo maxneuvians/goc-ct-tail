@@ -493,3 +493,7 @@
 {"id":"9420715997","timestamp":"2025-02-05T21:34:21.358736481Z","domain":"mis-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-05T19:27:14Z","to":"2025-05-06T19:27:13Z"}
 {"id":"9420716278","timestamp":"2025-02-05T21:34:21.358736631Z","domain":"cmp-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-05T19:27:15Z","to":"2025-05-06T19:27:14Z"}
 {"id":"9454256777","timestamp":"2025-02-09T12:42:34.803275075Z","domain":"api.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-09T10:44:17Z","to":"2025-05-10T10:44:16Z"}
+{"id":"9454782053","timestamp":"2025-02-09T13:33:08.855838975Z","domain":"statcan.ca","issuer":"Let's Encrypt","from":"2025-02-09T12:02:06Z","to":"2025-05-10T12:02:05Z"}
+{"id":"9454782053","timestamp":"2025-02-09T13:33:08.855839326Z","domain":"statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-09T12:02:06Z","to":"2025-05-10T12:02:05Z"}
+{"id":"9454782053","timestamp":"2025-02-09T13:33:08.855839556Z","domain":"www.statcan.ca","issuer":"Let's Encrypt","from":"2025-02-09T12:02:06Z","to":"2025-05-10T12:02:05Z"}
+{"id":"9454782053","timestamp":"2025-02-09T13:33:08.855839767Z","domain":"www.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-09T12:02:06Z","to":"2025-05-10T12:02:05Z"}
