@@ -7070,3 +7070,7 @@
 {"id":"9461854615","timestamp":"2025-02-10T07:15:26.134348225Z","domain":"myaw-monlta-uat-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-02-10T00:00:00Z","to":"2025-08-10T23:59:59Z"}
 {"id":"9465392699","timestamp":"2025-02-10T15:15:50.774720735Z","domain":"forces-mobile.canada.ca","issuer":"Let's Encrypt","from":"2025-02-10T13:17:38Z","to":"2025-05-11T13:17:37Z"}
 {"id":"9465639588","timestamp":"2025-02-10T15:15:50.774721076Z","domain":"vac-personnel-acc.canada.ca","issuer":"SSL.com","from":"2025-02-10T14:39:58Z","to":"2026-03-10T04:00:00Z"}
+{"id":"9467558626","timestamp":"2025-02-10T19:14:55.549825843Z","domain":"xte-dev.gcfm.canada.ca","issuer":"SSL.com","from":"2025-02-10T18:57:30Z","to":"2026-03-10T04:00:00Z"}
+{"id":"9467558626","timestamp":"2025-02-10T19:14:55.549826394Z","domain":"xtf-dev.gcfm.canada.ca","issuer":"SSL.com","from":"2025-02-10T18:57:30Z","to":"2026-03-10T04:00:00Z"}
+{"id":"9467558626","timestamp":"2025-02-10T19:14:55.549827115Z","domain":"xtw-dev.gcfm.canada.ca","issuer":"SSL.com","from":"2025-02-10T18:57:30Z","to":"2026-03-10T04:00:00Z"}
+{"id":"9467558626","timestamp":"2025-02-10T19:14:55.549827406Z","domain":"xwd-dev.gcfm.canada.ca","issuer":"SSL.com","from":"2025-02-10T18:57:30Z","to":"2026-03-10T04:00:00Z"}
