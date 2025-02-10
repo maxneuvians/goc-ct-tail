@@ -7074,3 +7074,5 @@
 {"id":"9467558626","timestamp":"2025-02-10T19:14:55.549826394Z","domain":"xtf-dev.gcfm.canada.ca","issuer":"SSL.com","from":"2025-02-10T18:57:30Z","to":"2026-03-10T04:00:00Z"}
 {"id":"9467558626","timestamp":"2025-02-10T19:14:55.549827115Z","domain":"xtw-dev.gcfm.canada.ca","issuer":"SSL.com","from":"2025-02-10T18:57:30Z","to":"2026-03-10T04:00:00Z"}
 {"id":"9467558626","timestamp":"2025-02-10T19:14:55.549827406Z","domain":"xwd-dev.gcfm.canada.ca","issuer":"SSL.com","from":"2025-02-10T18:57:30Z","to":"2026-03-10T04:00:00Z"}
+{"id":"9468129457","timestamp":"2025-02-10T21:15:15.635388542Z","domain":"gcmatarchive-api-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-02-10T00:00:00Z","to":"2026-03-11T23:59:59Z"}
+{"id":"9468314773","timestamp":"2025-02-10T21:15:15.635388973Z","domain":"canary.ssc-spc.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-02-10T19:57:08Z","to":"2025-05-11T20:51:22Z"}
