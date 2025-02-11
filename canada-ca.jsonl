@@ -7101,3 +7101,10 @@
 {"id":"9478243299","timestamp":"2025-02-11T19:14:38.923954974Z","domain":"resource-catalogue.ws-ekag.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T17:12:17Z","to":"2025-05-12T17:12:16Z"}
 {"id":"9478248961","timestamp":"2025-02-11T19:14:38.923955325Z","domain":"mlflow.ws-ekag.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T17:12:17Z","to":"2025-05-12T17:12:16Z"}
 {"id":"9478601364","timestamp":"2025-02-11T19:14:38.923955525Z","domain":"status.thinkon.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T18:03:27Z","to":"2025-05-12T18:03:26Z"}
+{"id":"9478801685","timestamp":"2025-02-11T20:15:44.039660053Z","domain":"api.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T18:30:43Z","to":"2025-05-12T18:30:42Z"}
+{"id":"9478801685","timestamp":"2025-02-11T20:15:44.039660384Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T18:30:43Z","to":"2025-05-12T18:30:42Z"}
+{"id":"9478801685","timestamp":"2025-02-11T20:15:44.039660614Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T18:30:43Z","to":"2025-05-12T18:30:42Z"}
+{"id":"9478801685","timestamp":"2025-02-11T20:15:44.039660855Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T18:30:43Z","to":"2025-05-12T18:30:42Z"}
+{"id":"9478904022","timestamp":"2025-02-11T20:15:44.039660965Z","domain":"bcd-api-dca-ipa.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-02-11T19:38:46Z","to":"2026-03-11T04:00:00Z"}
+{"id":"9478915429","timestamp":"2025-02-11T20:15:44.039662077Z","domain":"mlflow.ws-toluwadare.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T18:48:55Z","to":"2025-05-12T18:48:54Z"}
+{"id":"9478923032","timestamp":"2025-02-11T20:15:44.039662168Z","domain":"resource-catalogue.ws-toluwadare.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T18:49:24Z","to":"2025-05-12T18:49:23Z"}
