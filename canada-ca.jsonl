@@ -7078,3 +7078,7 @@
 {"id":"9468314773","timestamp":"2025-02-10T21:15:15.635388973Z","domain":"canary.ssc-spc.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-02-10T19:57:08Z","to":"2025-05-11T20:51:22Z"}
 {"id":"9468418715","timestamp":"2025-02-10T22:15:22.568784102Z","domain":"guidebook.sdlc.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2025-02-10T00:00:00Z","to":"2025-08-10T23:59:59Z"}
 {"id":"9468774523","timestamp":"2025-02-10T22:15:22.568784443Z","domain":"vault.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-10T21:08:25Z","to":"2025-05-11T21:08:24Z"}
+{"id":"9473038513","timestamp":"2025-02-11T08:16:18.936636818Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T06:25:23Z","to":"2025-05-12T06:25:22Z"}
+{"id":"9473038513","timestamp":"2025-02-11T08:16:18.936637329Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T06:25:23Z","to":"2025-05-12T06:25:22Z"}
+{"id":"9473042272","timestamp":"2025-02-11T08:16:18.936637649Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T06:25:58Z","to":"2025-05-12T06:25:57Z"}
+{"id":"9473042272","timestamp":"2025-02-11T08:16:18.93663788Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T06:25:58Z","to":"2025-05-12T06:25:57Z"}
