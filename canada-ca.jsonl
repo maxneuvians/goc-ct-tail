@@ -7092,3 +7092,6 @@
 {"id":"9476084144","timestamp":"2025-02-11T14:15:26.783818908Z","domain":"www.icare-iedec-train.cic.gc.ca","issuer":"SSL.com","from":"2025-02-11T13:39:52Z","to":"2026-03-11T04:00:00Z"}
 {"id":"9476084144","timestamp":"2025-02-11T14:15:26.783820431Z","domain":"www.icare-oauth-trn-proxy.ci.gc.ca","issuer":"SSL.com","from":"2025-02-11T13:39:52Z","to":"2026-03-11T04:00:00Z"}
 {"id":"9477156212","timestamp":"2025-02-11T16:16:28.337344369Z","domain":"ontario-reservations-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-02-11T00:00:00Z","to":"2026-03-12T23:59:59Z"}
+{"id":"9477548584","timestamp":"2025-02-11T17:15:22.939885103Z","domain":"git.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T15:36:53Z","to":"2025-05-12T15:36:52Z"}
+{"id":"9477549557","timestamp":"2025-02-11T17:15:22.939885444Z","domain":"*.pages.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T15:37:15Z","to":"2025-05-12T15:37:14Z"}
+{"id":"9477549557","timestamp":"2025-02-11T17:15:22.939885645Z","domain":"private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-11T15:37:15Z","to":"2025-05-12T15:37:14Z"}
