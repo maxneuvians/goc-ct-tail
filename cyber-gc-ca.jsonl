@@ -284,3 +284,5 @@
 {"id":"9439576773","timestamp":"2025-02-07T20:33:44.068468425Z","domain":"cyberpostureassessments.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-02-07T18:56:49Z","to":"2025-05-08T18:56:48Z"}
 {"id":"9478870083","timestamp":"2025-02-11T20:33:55.517788918Z","domain":"*.chimera.cyber.gc.ca","issuer":"SSL.com","from":"2025-02-11T19:33:14Z","to":"2026-03-11T04:00:00Z"}
 {"id":"9478870083","timestamp":"2025-02-11T20:33:55.517789659Z","domain":"gateway.chimera.cyber.gc.ca","issuer":"SSL.com","from":"2025-02-11T19:33:14Z","to":"2026-03-11T04:00:00Z"}
+{"id":"9487805442","timestamp":"2025-02-12T15:34:45.846625955Z","domain":"jwtiotest.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-02-12T14:20:49Z","to":"2025-05-13T14:20:48Z"}
+{"id":"9487857804","timestamp":"2025-02-12T15:34:45.846626356Z","domain":"test.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-02-12T14:27:14Z","to":"2025-05-13T14:27:13Z"}
