@@ -1860,6 +1860,15 @@
       "SSL.com": 5,
       "Amazon Trust Services": 1,
       "Google Trust Services": 1
+    },
+    "2025-02-11": {
+      "Let's Encrypt": 21,
+      "SSL.com": 7,
+      "Amazon Trust Services": 1,
+      "DigiCert": 1
+    },
+    "2025-02-12": {
+      "Google Trust Services": 1
     }
   },
   "errors": []
