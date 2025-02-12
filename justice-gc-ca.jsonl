@@ -221,3 +221,5 @@
 {"id":"9428466548","timestamp":"2025-02-06T15:26:30.415188976Z","domain":"tplogin.justice.gc.ca","issuer":"SSL.com","from":"2025-02-06T14:25:51Z","to":"2026-03-06T05:00:00Z"}
 {"id":"9439732833","timestamp":"2025-02-07T21:24:12.039467031Z","domain":"otto-preprod.cloud.justice.gc.ca","issuer":"Let's Encrypt","from":"2025-02-07T19:25:59Z","to":"2025-05-08T19:25:58Z"}
 {"id":"9439803428","timestamp":"2025-02-07T21:24:12.039467482Z","domain":"otto-preprod.cloud.justice.gc.ca","issuer":"Let's Encrypt","from":"2025-02-07T19:38:08Z","to":"2025-05-08T19:38:07Z"}
+{"id":"9489290580","timestamp":"2025-02-12T19:23:07.485706737Z","domain":"nonexistent.otto-dev.cloud.justice.gc.ca","issuer":"Let's Encrypt","from":"2025-02-12T17:39:58Z","to":"2025-05-13T17:39:57Z"}
+{"id":"9489290580","timestamp":"2025-02-12T19:23:07.485707238Z","domain":"otto-dev.cloud.justice.gc.ca","issuer":"Let's Encrypt","from":"2025-02-12T17:39:58Z","to":"2025-05-13T17:39:57Z"}
