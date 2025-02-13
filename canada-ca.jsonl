@@ -7130,3 +7130,5 @@
 {"id":"9497539578","timestamp":"2025-02-13T14:15:19.396865963Z","domain":"icare-oauth-trn-proxy.ci.gc.ca","issuer":"SSL.com","from":"2025-02-13T13:06:07Z","to":"2026-03-11T04:00:00Z"}
 {"id":"9497603735","timestamp":"2025-02-13T14:15:19.396866053Z","domain":"*.prod-finance.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-02-13T13:14:03Z","to":"2026-03-13T04:00:00Z"}
 {"id":"9497603735","timestamp":"2025-02-13T14:15:19.396866144Z","domain":"prod-finance.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-02-13T13:14:03Z","to":"2026-03-13T04:00:00Z"}
+{"id":"9498049473","timestamp":"2025-02-13T15:15:47.889661575Z","domain":"spc-approagile-avatar.canada.ca","issuer":"Let's Encrypt","from":"2025-02-13T13:20:24Z","to":"2025-05-14T13:20:23Z"}
+{"id":"9498049473","timestamp":"2025-02-13T15:15:47.889662006Z","domain":"ssc-agileprocurement-avatar.canada.ca","issuer":"Let's Encrypt","from":"2025-02-13T13:20:24Z","to":"2025-05-14T13:20:23Z"}
