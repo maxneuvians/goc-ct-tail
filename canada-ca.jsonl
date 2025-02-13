@@ -7122,3 +7122,11 @@
 {"id":"9494702781","timestamp":"2025-02-13T08:16:19.763803229Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-13T06:29:33Z","to":"2025-05-14T06:29:32Z"}
 {"id":"9495286553","timestamp":"2025-02-13T09:15:39.762352228Z","domain":"blog.canada.ca","issuer":"Let's Encrypt","from":"2025-02-13T07:43:44Z","to":"2025-05-14T07:43:43Z"}
 {"id":"9495286553","timestamp":"2025-02-13T09:15:39.762352849Z","domain":"blog.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-13T07:43:44Z","to":"2025-05-14T07:43:43Z"}
+{"id":"9497539578","timestamp":"2025-02-13T14:15:19.39686403Z","domain":"icare-iedec-train.canada.ca","issuer":"SSL.com","from":"2025-02-13T13:06:07Z","to":"2026-03-11T04:00:00Z"}
+{"id":"9497539578","timestamp":"2025-02-13T14:15:19.39686436Z","domain":"icare-iedec-train.cic.gc.ca","issuer":"SSL.com","from":"2025-02-13T13:06:07Z","to":"2026-03-11T04:00:00Z"}
+{"id":"9497539578","timestamp":"2025-02-13T14:15:19.396864551Z","domain":"icare-iedec-trn-proxy.cic.gc.ca","issuer":"SSL.com","from":"2025-02-13T13:06:07Z","to":"2026-03-11T04:00:00Z"}
+{"id":"9497539578","timestamp":"2025-02-13T14:15:19.396864741Z","domain":"icare-iedec-trn-proxy.ci.gc.ca","issuer":"SSL.com","from":"2025-02-13T13:06:07Z","to":"2026-03-11T04:00:00Z"}
+{"id":"9497539578","timestamp":"2025-02-13T14:15:19.396864841Z","domain":"icare-oauth-trn-proxy.cic.gc.ca","issuer":"SSL.com","from":"2025-02-13T13:06:07Z","to":"2026-03-11T04:00:00Z"}
+{"id":"9497539578","timestamp":"2025-02-13T14:15:19.396865963Z","domain":"icare-oauth-trn-proxy.ci.gc.ca","issuer":"SSL.com","from":"2025-02-13T13:06:07Z","to":"2026-03-11T04:00:00Z"}
+{"id":"9497603735","timestamp":"2025-02-13T14:15:19.396866053Z","domain":"*.prod-finance.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-02-13T13:14:03Z","to":"2026-03-13T04:00:00Z"}
+{"id":"9497603735","timestamp":"2025-02-13T14:15:19.396866144Z","domain":"prod-finance.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-02-13T13:14:03Z","to":"2026-03-13T04:00:00Z"}
