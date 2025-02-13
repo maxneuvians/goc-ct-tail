@@ -8130,3 +8130,11 @@
 {"id":"9477022001","timestamp":"2025-02-11T16:16:26.43405045Z","domain":"webappd.scrs.rncan.gc.ca","issuer":"SSL.com","from":"2025-02-11T15:30:19Z","to":"2026-03-11T04:00:00Z"}
 {"id":"9483355089","timestamp":"2025-02-12T06:16:32.008766612Z","domain":"nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-12T04:42:42Z","to":"2025-05-13T04:42:41Z"}
 {"id":"9483355089","timestamp":"2025-02-12T06:16:32.008767023Z","domain":"rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-12T04:42:42Z","to":"2025-05-13T04:42:41Z"}
+{"id":"9499890345","timestamp":"2025-02-13T18:16:25.087119783Z","domain":"webappt.csrs.nrcan.gc.ca","issuer":"SSL.com","from":"2025-02-13T17:53:42Z","to":"2026-03-13T04:00:00Z"}
+{"id":"9499890345","timestamp":"2025-02-13T18:16:25.087120244Z","domain":"webappt.csrs-scrs.nrcan-rncan.gc.ca","issuer":"SSL.com","from":"2025-02-13T17:53:42Z","to":"2026-03-13T04:00:00Z"}
+{"id":"9499890345","timestamp":"2025-02-13T18:16:25.087120555Z","domain":"webappt.geod.nrcan.gc.ca","issuer":"SSL.com","from":"2025-02-13T17:53:42Z","to":"2026-03-13T04:00:00Z"}
+{"id":"9499890345","timestamp":"2025-02-13T18:16:25.087120765Z","domain":"webappt.geod.nrcan-rncan.gc.ca","issuer":"SSL.com","from":"2025-02-13T17:53:42Z","to":"2026-03-13T04:00:00Z"}
+{"id":"9499890345","timestamp":"2025-02-13T18:16:25.087120855Z","domain":"webappt.geod.rncan.gc.ca","issuer":"SSL.com","from":"2025-02-13T17:53:42Z","to":"2026-03-13T04:00:00Z"}
+{"id":"9499890345","timestamp":"2025-02-13T18:16:25.087121857Z","domain":"webappt.geod.rncan-nrcan.gc.ca","issuer":"SSL.com","from":"2025-02-13T17:53:42Z","to":"2026-03-13T04:00:00Z"}
+{"id":"9499890345","timestamp":"2025-02-13T18:16:25.087121937Z","domain":"webappt.scrs-csrs.rncan-nrcan.gc.ca","issuer":"SSL.com","from":"2025-02-13T17:53:42Z","to":"2026-03-13T04:00:00Z"}
+{"id":"9499890345","timestamp":"2025-02-13T18:16:25.087122027Z","domain":"webappt.scrs.rncan.gc.ca","issuer":"SSL.com","from":"2025-02-13T17:53:42Z","to":"2026-03-13T04:00:00Z"}
