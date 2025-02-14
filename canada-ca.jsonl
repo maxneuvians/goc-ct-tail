@@ -7154,3 +7154,5 @@
 {"id":"9504993513","timestamp":"2025-02-14T06:16:22.960577505Z","domain":"www.npa.gc.ca","issuer":"Let's Encrypt","from":"2025-02-14T04:43:15Z","to":"2025-05-15T04:43:14Z"}
 {"id":"9505042320","timestamp":"2025-02-14T06:16:22.960577615Z","domain":"dam.explorer-marche-travail.service.canada.ca","issuer":"DigiCert","from":"2025-02-14T00:00:00Z","to":"2025-08-14T23:59:59Z"}
 {"id":"9505239550","timestamp":"2025-02-14T07:15:10.316157642Z","domain":"rpss-uat-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-02-14T00:00:00Z","to":"2025-08-14T23:59:59Z"}
+{"id":"9506336103","timestamp":"2025-02-14T09:15:33.377033698Z","domain":"rpss-qa-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-02-14T00:00:00Z","to":"2025-08-14T23:59:59Z"}
+{"id":"9506386120","timestamp":"2025-02-14T09:15:33.37703421Z","domain":"rpss-dev-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-02-14T00:00:00Z","to":"2025-08-14T23:59:59Z"}
