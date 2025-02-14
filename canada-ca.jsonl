@@ -7140,3 +7140,5 @@
 {"id":"9501509211","timestamp":"2025-02-13T22:15:09.515566127Z","domain":"dask.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-13T21:11:21Z","to":"2025-05-14T21:11:20Z"}
 {"id":"9502931170","timestamp":"2025-02-14T01:43:56.526764919Z","domain":"gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-14T00:27:30Z","to":"2025-05-15T00:27:29Z"}
 {"id":"9502931331","timestamp":"2025-02-14T01:43:56.526765771Z","domain":"traefik.gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-14T00:27:38Z","to":"2025-05-15T00:27:37Z"}
+{"id":"9504486032","timestamp":"2025-02-14T05:15:17.933300606Z","domain":"dev.api.explore-labor-market.service.canada.ca","issuer":"DigiCert","from":"2025-02-14T00:00:00Z","to":"2025-08-14T23:59:59Z"}
+{"id":"9504792369","timestamp":"2025-02-14T05:15:17.933300936Z","domain":"repos.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-14T04:12:39Z","to":"2025-05-15T04:12:38Z"}
