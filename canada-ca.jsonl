@@ -7172,3 +7172,6 @@
 {"id":"9509329662","timestamp":"2025-02-14T16:15:58.410574456Z","domain":"dev.dam.explorer-marche-travail.service.canada.ca","issuer":"DigiCert","from":"2025-02-14T00:00:00Z","to":"2025-08-14T23:59:59Z"}
 {"id":"9509545439","timestamp":"2025-02-14T17:14:58.904890211Z","domain":"resource-catalogue.ws-wmackinnon.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-14T15:32:09Z","to":"2025-05-15T15:32:08Z"}
 {"id":"9509554561","timestamp":"2025-02-14T17:14:58.904890862Z","domain":"mlflow.ws-wmackinnon.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-14T15:32:06Z","to":"2025-05-15T15:32:05Z"}
+{"id":"9509771923","timestamp":"2025-02-14T18:16:20.827272665Z","domain":"dam.explore-labour-market.service.canada.ca","issuer":"DigiCert","from":"2025-02-14T00:00:00Z","to":"2025-08-14T23:59:59Z"}
+{"id":"9509988601","timestamp":"2025-02-14T18:16:20.827273026Z","domain":"cms-git.experimentation.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-02-14T16:39:57Z","to":"2025-05-15T17:24:25Z"}
+{"id":"9510086426","timestamp":"2025-02-14T18:16:20.827273276Z","domain":"dev.api.explorer-marche-travail.service.canada.ca","issuer":"DigiCert","from":"2025-02-14T00:00:00Z","to":"2025-08-14T23:59:59Z"}
