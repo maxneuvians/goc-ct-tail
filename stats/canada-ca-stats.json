@@ -1871,6 +1871,14 @@
       "Google Trust Services": 1,
       "Let's Encrypt": 4,
       "SSL.com": 2
+    },
+    "2025-02-13": {
+      "Let's Encrypt": 12,
+      "SSL.com": 9,
+      "Amazon Trust Services": 2
+    },
+    "2025-02-14": {
+      "Let's Encrypt": 2
     }
   },
   "errors": []
