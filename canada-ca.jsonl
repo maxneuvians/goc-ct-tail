@@ -7156,3 +7156,11 @@
 {"id":"9505239550","timestamp":"2025-02-14T07:15:10.316157642Z","domain":"rpss-uat-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-02-14T00:00:00Z","to":"2025-08-14T23:59:59Z"}
 {"id":"9506336103","timestamp":"2025-02-14T09:15:33.377033698Z","domain":"rpss-qa-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-02-14T00:00:00Z","to":"2025-08-14T23:59:59Z"}
 {"id":"9506386120","timestamp":"2025-02-14T09:15:33.37703421Z","domain":"rpss-dev-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-02-14T00:00:00Z","to":"2025-08-14T23:59:59Z"}
+{"id":"9506672070","timestamp":"2025-02-14T10:15:35.537062548Z","domain":"navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-02-14T08:41:09Z","to":"2025-05-15T08:41:08Z"}
+{"id":"9506672070","timestamp":"2025-02-14T10:15:35.537062989Z","domain":"navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-02-14T08:41:09Z","to":"2025-05-15T08:41:08Z"}
+{"id":"9506672070","timestamp":"2025-02-14T10:15:35.537063219Z","domain":"ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-02-14T08:41:09Z","to":"2025-05-15T08:41:08Z"}
+{"id":"9506672070","timestamp":"2025-02-14T10:15:35.53706343Z","domain":"ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-02-14T08:41:09Z","to":"2025-05-15T08:41:08Z"}
+{"id":"9506672070","timestamp":"2025-02-14T10:15:35.53706351Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-02-14T08:41:09Z","to":"2025-05-15T08:41:08Z"}
+{"id":"9506672070","timestamp":"2025-02-14T10:15:35.537064642Z","domain":"www.navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-02-14T08:41:09Z","to":"2025-05-15T08:41:08Z"}
+{"id":"9506672070","timestamp":"2025-02-14T10:15:35.537064722Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-02-14T08:41:09Z","to":"2025-05-15T08:41:08Z"}
+{"id":"9506672070","timestamp":"2025-02-14T10:15:35.537064802Z","domain":"www.ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-02-14T08:41:09Z","to":"2025-05-15T08:41:08Z"}
