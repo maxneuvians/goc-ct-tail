@@ -7138,3 +7138,5 @@
 {"id":"9501421878","timestamp":"2025-02-13T22:15:09.515565777Z","domain":"sdi-fds-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-02-13T00:00:00Z","to":"2026-03-14T23:59:59Z"}
 {"id":"9501456771","timestamp":"2025-02-13T22:15:09.515566027Z","domain":"dask.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-13T21:04:27Z","to":"2025-05-14T21:04:26Z"}
 {"id":"9501509211","timestamp":"2025-02-13T22:15:09.515566127Z","domain":"dask.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-13T21:11:21Z","to":"2025-05-14T21:11:20Z"}
+{"id":"9502931170","timestamp":"2025-02-14T01:43:56.526764919Z","domain":"gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-14T00:27:30Z","to":"2025-05-15T00:27:29Z"}
+{"id":"9502931331","timestamp":"2025-02-14T01:43:56.526765771Z","domain":"traefik.gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-14T00:27:38Z","to":"2025-05-15T00:27:37Z"}
