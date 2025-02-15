@@ -7179,3 +7179,5 @@
 {"id":"9511455954","timestamp":"2025-02-14T22:15:11.099177435Z","domain":"dev.dam.explore-labor-market.service.canada.ca","issuer":"DigiCert","from":"2025-02-14T00:00:00Z","to":"2025-08-14T23:59:59Z"}
 {"id":"9511876838","timestamp":"2025-02-14T23:15:15.583563899Z","domain":"dev.api.explore-labour-market.service.canada.ca","issuer":"DigiCert","from":"2025-02-14T00:00:00Z","to":"2025-08-14T23:59:59Z"}
 {"id":"9514069249","timestamp":"2025-02-15T06:16:19.404107173Z","domain":"repos.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-15T04:12:41Z","to":"2025-05-16T04:12:40Z"}
+{"id":"9518151303","timestamp":"2025-02-15T16:15:39.112066509Z","domain":"flood-risk-portal.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-02-15T14:45:34Z","to":"2025-05-16T14:45:33Z"}
+{"id":"9518151303","timestamp":"2025-02-15T16:15:39.11206702Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-15T14:45:34Z","to":"2025-05-16T14:45:33Z"}
