@@ -35,13 +35,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 7180,
+      "totalCertificates": 7184,
       "totalsByIssuer": {
         "Entrust": 2525,
         "Amazon Trust Services": 678,
         "DigiCert": 381,
         "GoDaddy": 10,
-        "Let's Encrypt": 2815,
+        "Let's Encrypt": 2819,
         "Google Trust Services": 107,
         "Sectigo": 177,
         "SSL.com": 487
@@ -386,13 +386,13 @@
     {
       "inputFile": "nrcan-gc-ca.jsonl",
       "outputFile": "stats/nrcan-gc-ca-stats.json",
-      "totalCertificates": 8143,
+      "totalCertificates": 8155,
       "totalsByIssuer": {
         "Amazon Trust Services": 30,
         "Entrust": 460,
         "DigiCert": 20,
         "Let's Encrypt": 3003,
-        "Sectigo": 4491,
+        "Sectigo": 4503,
         "SSL.com": 139
       },
       "errorCount": 0
@@ -546,10 +546,10 @@
     {
       "inputFile": "ssc-spc-gc-ca.jsonl",
       "outputFile": "stats/ssc-spc-gc-ca-stats.json",
-      "totalCertificates": 695,
+      "totalCertificates": 696,
       "totalsByIssuer": {
         "Entrust": 467,
-        "Let's Encrypt": 93,
+        "Let's Encrypt": 94,
         "Amazon Trust Services": 1,
         "SSL.com": 133,
         "DigiCert": 1
@@ -624,12 +624,12 @@
     {
       "inputFile": "veterans-gc-ca.jsonl",
       "outputFile": "stats/veterans-gc-ca-stats.json",
-      "totalCertificates": 368,
+      "totalCertificates": 371,
       "totalsByIssuer": {
         "Amazon Trust Services": 17,
         "Entrust": 22,
         "GoDaddy": 1,
-        "Let's Encrypt": 328
+        "Let's Encrypt": 331
       },
       "errorCount": 0
     },
@@ -646,12 +646,12 @@
   "grandTotalByIssuer": {
     "Entrust": 11243,
     "Amazon Trust Services": 2153,
-    "Let's Encrypt": 7972,
+    "Let's Encrypt": 7980,
     "SSL.com": 2147,
     "DigiCert": 1188,
     "GoDaddy": 56,
     "Google Trust Services": 219,
-    "Sectigo": 4712,
+    "Sectigo": 4724,
     "GlobalSign": 2
   }
 }
