@@ -587,3 +587,8 @@
 {"id":"9522687457","timestamp":"2025-02-16T05:26:00.376805406Z","domain":"prometheus.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-02-16T03:29:23Z","to":"2025-05-17T03:29:22Z"}
 {"id":"9523445708","timestamp":"2025-02-16T07:24:20.552256041Z","domain":"argocd.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-02-16T05:33:28Z","to":"2025-05-17T05:33:27Z"}
 {"id":"9549815617","timestamp":"2025-02-18T21:24:30.349905115Z","domain":"neptune.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-02-18T20:08:06Z","to":"2025-05-19T20:08:05Z"}
+{"id":"9557252451","timestamp":"2025-02-19T15:27:04.92490457Z","domain":"avadepth.ccg.gc.ca","issuer":"SSL.com","from":"2025-02-19T14:43:11Z","to":"2026-03-19T04:00:00Z"}
+{"id":"9557252451","timestamp":"2025-02-19T15:27:04.924904861Z","domain":"avadepth.ccg-gcc.gc.ca","issuer":"SSL.com","from":"2025-02-19T14:43:11Z","to":"2026-03-19T04:00:00Z"}
+{"id":"9557252451","timestamp":"2025-02-19T15:27:04.924905031Z","domain":"avadepth.gcc-ccg.gc.ca","issuer":"SSL.com","from":"2025-02-19T14:43:11Z","to":"2026-03-19T04:00:00Z"}
+{"id":"9557252451","timestamp":"2025-02-19T15:27:04.924905261Z","domain":"avadepth.gcc.gc.ca","issuer":"SSL.com","from":"2025-02-19T14:43:11Z","to":"2026-03-19T04:00:00Z"}
+{"id":"9557252451","timestamp":"2025-02-19T15:27:04.924905352Z","domain":"www2.pac.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-02-19T14:43:11Z","to":"2026-03-19T04:00:00Z"}
