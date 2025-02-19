@@ -8181,3 +8181,26 @@
 {"id":"9542586122","timestamp":"2025-02-18T06:16:27.126747829Z","domain":"www.buildings.nrcan.gc.ca","issuer":"Sectigo","from":"2025-02-18T00:00:00Z","to":"2025-05-19T23:59:59Z"}
 {"id":"9542586122","timestamp":"2025-02-18T06:16:27.126747909Z","domain":"www.buildings.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-02-18T00:00:00Z","to":"2025-05-19T23:59:59Z"}
 {"id":"9542586122","timestamp":"2025-02-18T06:16:27.126747989Z","domain":"www.buildings.rncan.gc.ca","issuer":"Sectigo","from":"2025-02-18T00:00:00Z","to":"2025-05-19T23:59:59Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166845632Z","domain":"vehiclelabel.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166846163Z","domain":"vehiclelabel.com","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166846423Z","domain":"vehicles.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166846714Z","domain":"vehicles.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166846824Z","domain":"vehicles.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166847986Z","domain":"vehicles.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166848077Z","domain":"vehicles.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166848167Z","domain":"vehicules.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166848267Z","domain":"vehicules.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166849179Z","domain":"vehicules.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166849279Z","domain":"vehicules.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166849369Z","domain":"vehicules.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166849469Z","domain":"www.vehiclelabel.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166849559Z","domain":"www.vehiclelabel.com","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166849649Z","domain":"www.vehicles.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.16684975Z","domain":"www.vehicles.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.16684984Z","domain":"www.vehicles.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.16684994Z","domain":"www.vehicles.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166851122Z","domain":"www.vehicules.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166851223Z","domain":"www.vehicules.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166851323Z","domain":"www.vehicules.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166851413Z","domain":"www.vehicules.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
+{"id":"9558850339","timestamp":"2025-02-19T19:14:43.166851503Z","domain":"www.vehicules.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-02-19T17:39:54Z","to":"2025-05-20T17:39:53Z"}
