@@ -383,3 +383,12 @@
 {"id":"9534838451","timestamp":"2025-02-17T11:33:32.735172947Z","domain":"selfid-autoid-api-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-02-17T00:00:00Z","to":"2025-08-17T23:59:59Z"}
 {"id":"9539529906","timestamp":"2025-02-17T22:34:07.677835481Z","domain":"selfid-autoid-api-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-02-17T00:00:00Z","to":"2025-08-17T23:59:59Z"}
 {"id":"9539703174","timestamp":"2025-02-17T23:33:23.482889083Z","domain":"selfid-autoid-api-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-02-17T00:00:00Z","to":"2025-08-17T23:59:59Z"}
+{"id":"9556706799","timestamp":"2025-02-19T14:35:41.867191796Z","domain":"et1.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-02-19T13:20:42Z","to":"2026-03-19T04:00:00Z"}
+{"id":"9556706799","timestamp":"2025-02-19T14:35:41.867192107Z","domain":"et2.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-02-19T13:20:42Z","to":"2026-03-19T04:00:00Z"}
+{"id":"9556706799","timestamp":"2025-02-19T14:35:41.867192297Z","domain":"ext1.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-02-19T13:20:42Z","to":"2026-03-19T04:00:00Z"}
+{"id":"9556706799","timestamp":"2025-02-19T14:35:41.867192557Z","domain":"ext2.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-02-19T13:20:42Z","to":"2026-03-19T04:00:00Z"}
+{"id":"9556706799","timestamp":"2025-02-19T14:35:41.867192648Z","domain":"ext3.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-02-19T13:20:42Z","to":"2026-03-19T04:00:00Z"}
+{"id":"9556706799","timestamp":"2025-02-19T14:35:41.86719363Z","domain":"mail.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-02-19T13:20:42Z","to":"2026-03-19T04:00:00Z"}
+{"id":"9556706799","timestamp":"2025-02-19T14:35:41.86719371Z","domain":"smtp.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-02-19T13:20:42Z","to":"2026-03-19T04:00:00Z"}
+{"id":"9556706799","timestamp":"2025-02-19T14:35:41.8671938Z","domain":"tbs-et-01.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-02-19T13:20:42Z","to":"2026-03-19T04:00:00Z"}
+{"id":"9556706799","timestamp":"2025-02-19T14:35:41.86719388Z","domain":"tbs-et-02.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-02-19T13:20:42Z","to":"2026-03-19T04:00:00Z"}
