@@ -1897,6 +1897,12 @@
       "Let's Encrypt": 9,
       "DigiCert": 1,
       "Google Trust Services": 1
+    },
+    "2025-02-19": {
+      "Let's Encrypt": 4,
+      "GoDaddy": 1,
+      "SSL.com": 1,
+      "Amazon Trust Services": 2
     }
   },
   "errors": []
