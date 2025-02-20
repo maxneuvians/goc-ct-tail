@@ -7225,3 +7225,6 @@
 {"id":"9563878040","timestamp":"2025-02-20T08:16:23.037703146Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-20T06:25:59Z","to":"2025-05-21T06:25:58Z"}
 {"id":"9563901030","timestamp":"2025-02-20T08:16:23.037703416Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-20T06:27:26Z","to":"2025-05-21T06:27:25Z"}
 {"id":"9563901030","timestamp":"2025-02-20T08:16:23.037703707Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-20T06:27:26Z","to":"2025-05-21T06:27:25Z"}
+{"id":"9564977725","timestamp":"2025-02-20T10:15:44.843576917Z","domain":"census.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-20T08:57:39Z","to":"2025-05-21T08:57:38Z"}
+{"id":"9564977725","timestamp":"2025-02-20T10:15:44.843577358Z","domain":"census-cws.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-02-20T08:57:39Z","to":"2025-05-21T08:57:38Z"}
+{"id":"9564977725","timestamp":"2025-02-20T10:15:44.843577629Z","domain":"recensement.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-20T08:57:39Z","to":"2025-05-21T08:57:38Z"}
