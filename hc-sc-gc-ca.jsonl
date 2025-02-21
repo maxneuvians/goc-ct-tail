@@ -687,3 +687,8 @@
 {"id":"9420538752","timestamp":"2025-02-05T21:04:48.594733609Z","domain":"int-services1.preprod.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-02-05T20:07:19Z","to":"2026-03-05T05:00:00Z"}
 {"id":"9429056197","timestamp":"2025-02-06T17:04:38.161540463Z","domain":"int-services3.dev.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-02-06T15:53:13Z","to":"2026-03-06T05:00:00Z"}
 {"id":"9564484793","timestamp":"2025-02-20T09:05:21.733544696Z","domain":"gcsnbanting.hc-sc.gc.ca","issuer":"Let's Encrypt","from":"2025-02-20T07:48:36Z","to":"2025-05-21T07:48:35Z"}
+{"id":"9578425168","timestamp":"2025-02-21T18:06:26.777925365Z","domain":"prod-wlsapp-01.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-02-21T17:46:46Z","to":"2026-03-21T04:00:00Z"}
+{"id":"9578425168","timestamp":"2025-02-21T18:06:26.777925966Z","domain":"prod-wlsapp-02.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-02-21T17:46:46Z","to":"2026-03-21T04:00:00Z"}
+{"id":"9578425168","timestamp":"2025-02-21T18:06:26.777926167Z","domain":"prod-wlsweb-01.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-02-21T17:46:46Z","to":"2026-03-21T04:00:00Z"}
+{"id":"9578425168","timestamp":"2025-02-21T18:06:26.777926427Z","domain":"prod-wlsweb-02.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-02-21T17:46:46Z","to":"2026-03-21T04:00:00Z"}
+{"id":"9578425168","timestamp":"2025-02-21T18:06:26.777926527Z","domain":"wlsapps.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-02-21T17:46:46Z","to":"2026-03-21T04:00:00Z"}
