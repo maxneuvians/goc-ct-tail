@@ -7315,3 +7315,7 @@
 {"id":"9580213789","timestamp":"2025-02-21T22:15:20.054389455Z","domain":"placement.tko-ott2.prod.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-21T21:05:02Z","to":"2025-05-22T21:05:01Z"}
 {"id":"9580213789","timestamp":"2025-02-21T22:15:20.054389545Z","domain":"tko-ott2.prod.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-21T21:05:02Z","to":"2025-05-22T21:05:01Z"}
 {"id":"9580213789","timestamp":"2025-02-21T22:15:20.054389635Z","domain":"volume.tko-ott2.prod.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-02-21T21:05:02Z","to":"2025-05-22T21:05:01Z"}
+{"id":"9582681879","timestamp":"2025-02-22T04:16:00.276628875Z","domain":"*.simplification-avis-confidentialite.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-02-22T00:00:00Z","to":"2026-03-24T23:59:59Z"}
+{"id":"9582681879","timestamp":"2025-02-22T04:16:00.276629326Z","domain":"simplification-avis-confidentialite.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-02-22T00:00:00Z","to":"2026-03-24T23:59:59Z"}
+{"id":"9582682722","timestamp":"2025-02-22T04:16:00.276629637Z","domain":"*.simplify-privacy-statements.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-02-22T00:00:00Z","to":"2026-03-24T23:59:59Z"}
+{"id":"9582682722","timestamp":"2025-02-22T04:16:00.276629907Z","domain":"simplify-privacy-statements.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-02-22T00:00:00Z","to":"2026-03-24T23:59:59Z"}
