@@ -7422,3 +7422,6 @@
 {"id":"9630293951","timestamp":"2025-02-26T13:17:16.037651426Z","domain":"sso-qa-ised-isde.fjgc-gccf.gc.ca","issuer":"SSL.com","from":"2025-02-26T13:00:00Z","to":"2026-03-26T04:00:00Z"}
 {"id":"9630293951","timestamp":"2025-02-26T13:17:16.037651516Z","domain":"sso-uat.ised-isde.canada.ca","issuer":"SSL.com","from":"2025-02-26T13:00:00Z","to":"2026-03-26T04:00:00Z"}
 {"id":"9630293951","timestamp":"2025-02-26T13:17:16.037651606Z","domain":"sso-uat-ised-isde.fjgc-gccf.gc.ca","issuer":"SSL.com","from":"2025-02-26T13:00:00Z","to":"2026-03-26T04:00:00Z"}
+{"id":"9630729716","timestamp":"2025-02-26T14:15:31.639719704Z","domain":"*.ised-isde.canada.ca","issuer":"SSL.com","from":"2025-02-26T13:56:03Z","to":"2026-03-26T04:00:00Z"}
+{"id":"9630729716","timestamp":"2025-02-26T14:15:31.639720014Z","domain":"*.uat.ised-isde.canada.ca","issuer":"SSL.com","from":"2025-02-26T13:56:03Z","to":"2026-03-26T04:00:00Z"}
+{"id":"9630729716","timestamp":"2025-02-26T14:15:31.639720254Z","domain":"uat.ised-isde.canada.ca","issuer":"SSL.com","from":"2025-02-26T13:56:03Z","to":"2026-03-26T04:00:00Z"}
