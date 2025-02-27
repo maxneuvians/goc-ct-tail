@@ -7428,3 +7428,7 @@
 {"id":"9631430027","timestamp":"2025-02-26T16:16:23.194861791Z","domain":"siesf-fseis-dev.tpsgc-pwgsc.aws.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-02-26T00:00:00Z","to":"2026-03-27T23:59:59Z"}
 {"id":"9633942750","timestamp":"2025-02-26T22:15:23.706062301Z","domain":"design.canada.ca","issuer":"Let's Encrypt","from":"2025-02-26T20:54:09Z","to":"2025-05-27T20:54:08Z"}
 {"id":"9637217639","timestamp":"2025-02-27T07:15:25.038256424Z","domain":"dev.ewp-pmee.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2025-02-27T00:00:00Z","to":"2025-08-27T23:59:59Z"}
+{"id":"9637722045","timestamp":"2025-02-27T08:16:21.793818694Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-27T06:25:25Z","to":"2025-05-28T06:25:24Z"}
+{"id":"9637722045","timestamp":"2025-02-27T08:16:21.793819045Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-27T06:25:25Z","to":"2025-05-28T06:25:24Z"}
+{"id":"9637723333","timestamp":"2025-02-27T08:16:21.793819255Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-27T06:24:48Z","to":"2025-05-28T06:24:47Z"}
+{"id":"9637723333","timestamp":"2025-02-27T08:16:21.793819445Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-27T06:24:48Z","to":"2025-05-28T06:24:47Z"}
