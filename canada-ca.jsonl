@@ -7432,3 +7432,7 @@
 {"id":"9637722045","timestamp":"2025-02-27T08:16:21.793819045Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-27T06:25:25Z","to":"2025-05-28T06:25:24Z"}
 {"id":"9637723333","timestamp":"2025-02-27T08:16:21.793819255Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-27T06:24:48Z","to":"2025-05-28T06:24:47Z"}
 {"id":"9637723333","timestamp":"2025-02-27T08:16:21.793819445Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-02-27T06:24:48Z","to":"2025-05-28T06:24:47Z"}
+{"id":"9640615245","timestamp":"2025-02-27T14:15:32.471617081Z","domain":"*.np.p.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-02-27T12:58:58Z","to":"2025-05-28T13:56:00Z"}
+{"id":"9640615245","timestamp":"2025-02-27T14:15:32.471617402Z","domain":"np.p.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-02-27T12:58:58Z","to":"2025-05-28T13:56:00Z"}
+{"id":"9640618950","timestamp":"2025-02-27T14:15:32.471617612Z","domain":"*.np.p.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-02-27T12:59:15Z","to":"2025-05-28T13:59:04Z"}
+{"id":"9640618950","timestamp":"2025-02-27T14:15:32.471617863Z","domain":"np.p.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-02-27T12:59:15Z","to":"2025-05-28T13:59:04Z"}
