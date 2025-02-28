@@ -7483,3 +7483,8 @@
 {"id":"9643036088","timestamp":"2025-02-27T21:15:16.435484452Z","domain":"prod.p.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-02-27T20:05:51Z","to":"2025-05-28T19:26:10Z"}
 {"id":"9643267852","timestamp":"2025-02-27T21:15:16.435484783Z","domain":"*.prod.p.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-02-27T20:40:55Z","to":"2025-05-28T19:26:11Z"}
 {"id":"9643267852","timestamp":"2025-02-27T21:15:16.435485054Z","domain":"prod.p.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-02-27T20:40:55Z","to":"2025-05-28T19:26:11Z"}
+{"id":"9649545523","timestamp":"2025-02-28T13:17:22.31430618Z","domain":"canada-service-corps.canada.ca","issuer":"SSL.com","from":"2025-02-28T12:06:00Z","to":"2026-03-28T04:00:00Z"}
+{"id":"9649545523","timestamp":"2025-02-28T13:17:22.31430651Z","domain":"service-jeunesse.canada.ca","issuer":"SSL.com","from":"2025-02-28T12:06:00Z","to":"2026-03-28T04:00:00Z"}
+{"id":"9649545523","timestamp":"2025-02-28T13:17:22.314306741Z","domain":"srv145.services.gc.ca","issuer":"SSL.com","from":"2025-02-28T12:06:00Z","to":"2026-03-28T04:00:00Z"}
+{"id":"9649545523","timestamp":"2025-02-28T13:17:22.314306921Z","domain":"www.srv145.services.gc.ca","issuer":"SSL.com","from":"2025-02-28T12:06:00Z","to":"2026-03-28T04:00:00Z"}
+{"id":"9649573674","timestamp":"2025-02-28T13:17:22.314307021Z","domain":"nachet.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-02-28T11:19:09Z","to":"2025-05-29T11:19:08Z"}
