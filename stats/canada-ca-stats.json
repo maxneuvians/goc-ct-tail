@@ -1932,6 +1932,12 @@
       "SSL.com": 26,
       "Amazon Trust Services": 1,
       "Let's Encrypt": 1
+    },
+    "2025-02-27": {
+      "DigiCert": 1,
+      "Let's Encrypt": 4,
+      "Google Trust Services": 8,
+      "SSL.com": 43
     }
   },
   "errors": []
