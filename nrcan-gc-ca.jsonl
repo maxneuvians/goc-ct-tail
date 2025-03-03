@@ -9295,3 +9295,7 @@
 {"id":"9667573685","timestamp":"2025-03-02T08:16:09.741136Z","domain":"www.energypublications.ca","issuer":"Let's Encrypt","from":"2025-03-02T07:08:19Z","to":"2025-05-31T07:08:18Z"}
 {"id":"9667573685","timestamp":"2025-03-02T08:16:09.741136111Z","domain":"www.energypublications.gc.ca","issuer":"Let's Encrypt","from":"2025-03-02T07:08:19Z","to":"2025-05-31T07:08:18Z"}
 {"id":"9667573685","timestamp":"2025-03-02T08:16:09.741136211Z","domain":"www.publicationseconergie.gc.ca","issuer":"Let's Encrypt","from":"2025-03-02T07:08:19Z","to":"2025-05-31T07:08:18Z"}
+{"id":"9676223385","timestamp":"2025-03-03T06:16:46.96118848Z","domain":"contact.nrcan.gc.ca","issuer":"Sectigo","from":"2025-03-03T00:00:00Z","to":"2025-06-01T23:59:59Z"}
+{"id":"9676223385","timestamp":"2025-03-03T06:16:46.961189572Z","domain":"contact.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-03-03T00:00:00Z","to":"2025-06-01T23:59:59Z"}
+{"id":"9676223385","timestamp":"2025-03-03T06:16:46.961189802Z","domain":"contact.rncan.gc.ca","issuer":"Sectigo","from":"2025-03-03T00:00:00Z","to":"2025-06-01T23:59:59Z"}
+{"id":"9676223385","timestamp":"2025-03-03T06:16:46.961190012Z","domain":"contact.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-03-03T00:00:00Z","to":"2025-06-01T23:59:59Z"}
