@@ -7547,3 +7547,6 @@
 {"id":"9680974382","timestamp":"2025-03-03T16:16:10.152957638Z","domain":"grafana.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-03-03T15:10:12Z","to":"2025-06-01T15:10:11Z"}
 {"id":"9681023964","timestamp":"2025-03-03T17:15:37.983107989Z","domain":"prometheus.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-03-03T15:18:49Z","to":"2025-06-01T15:18:48Z"}
 {"id":"9681043967","timestamp":"2025-03-03T17:15:37.983108389Z","domain":"loki.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-03-03T15:20:00Z","to":"2025-06-01T15:19:59Z"}
+{"id":"9682291469","timestamp":"2025-03-03T20:15:50.728692753Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"SSL.com","from":"2025-03-03T19:24:00Z","to":"2026-03-25T04:00:00Z"}
+{"id":"9682291469","timestamp":"2025-03-03T20:15:50.728693203Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"SSL.com","from":"2025-03-03T19:24:00Z","to":"2026-03-25T04:00:00Z"}
+{"id":"9682291469","timestamp":"2025-03-03T20:15:50.728693474Z","domain":"*.ocp.prod.ised-isde.canada.ca","issuer":"SSL.com","from":"2025-03-03T19:24:00Z","to":"2026-03-25T04:00:00Z"}
