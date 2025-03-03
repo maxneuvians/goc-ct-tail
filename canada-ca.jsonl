@@ -7509,3 +7509,6 @@
 {"id":"9667025066","timestamp":"2025-03-02T07:14:58.379016151Z","domain":"meteo-spatiale.canada.ca","issuer":"Sectigo","from":"2025-03-02T00:00:00Z","to":"2025-05-31T23:59:59Z"}
 {"id":"9667025066","timestamp":"2025-03-02T07:14:58.379016482Z","domain":"space-weather.canada.ca","issuer":"Sectigo","from":"2025-03-02T00:00:00Z","to":"2025-05-31T23:59:59Z"}
 {"id":"9670649917","timestamp":"2025-03-02T16:16:04.252663276Z","domain":"open-webui.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-03-02T14:41:38Z","to":"2025-05-31T15:32:50Z"}
+{"id":"9676080290","timestamp":"2025-03-03T06:16:45.066022436Z","domain":"ipam.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-03-03T04:19:46Z","to":"2025-06-01T04:19:45Z"}
+{"id":"9676105650","timestamp":"2025-03-03T06:16:45.066022786Z","domain":"diffusion-cnrc.canada.ca","issuer":"Let's Encrypt","from":"2025-03-03T04:24:18Z","to":"2025-06-01T04:24:17Z"}
+{"id":"9676108131","timestamp":"2025-03-03T06:16:45.066023007Z","domain":"outreach-nrc.canada.ca","issuer":"Let's Encrypt","from":"2025-03-03T04:24:23Z","to":"2025-06-01T04:24:22Z"}
