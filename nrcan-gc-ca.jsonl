@@ -9327,3 +9327,34 @@
 {"id":"9680388879","timestamp":"2025-03-03T15:15:55.071471874Z","domain":"eew-qw-test2.eew2.nrcan-rncan.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-03-03T14:32:32Z","to":"2026-02-03T05:00:00Z"}
 {"id":"9680388879","timestamp":"2025-03-03T15:15:55.071472815Z","domain":"eew-qw-test-alert1.seismo.nrcan.gc.ca","issuer":"SSL.com","from":"2025-03-03T14:32:32Z","to":"2026-02-03T05:00:00Z"}
 {"id":"9680388879","timestamp":"2025-03-03T15:15:55.071472896Z","domain":"eew-qw-test-alert2.eew2.nrcan-rncan.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-03-03T14:32:32Z","to":"2026-02-03T05:00:00Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942595376Z","domain":"batiments-buildings.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942595707Z","domain":"batiments-buildings.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942595947Z","domain":"batiments-buildings.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942596187Z","domain":"batiments-buildings.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942596278Z","domain":"batiments.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942597089Z","domain":"batiments.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.94259718Z","domain":"buildings-batiments.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.94259726Z","domain":"buildings-batiments.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.94259735Z","domain":"buildings-batiments.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942598141Z","domain":"buildings-batiments.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942598222Z","domain":"buildingsgroup.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942598302Z","domain":"buildingsgroup.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942598392Z","domain":"buildingsgroup.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942598472Z","domain":"buildingsgroup.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942598552Z","domain":"buildings.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942598642Z","domain":"buildings.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942598722Z","domain":"buildings.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942598812Z","domain":"buildings.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942599674Z","domain":"www.batiments-buildings.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942599764Z","domain":"www.batiments-buildings.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942599845Z","domain":"www.batiments-buildings.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942599935Z","domain":"www.batiments-buildings.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942600015Z","domain":"www.batiments.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942600095Z","domain":"www.buildings-batiments.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942600185Z","domain":"www.buildings-batiments.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942600265Z","domain":"www.buildings-batiments.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942600355Z","domain":"www.buildings-batiments.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942600436Z","domain":"www.buildings.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942600516Z","domain":"www.buildings.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942600606Z","domain":"www.buildings.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9686456497","timestamp":"2025-03-04T06:16:30.942600686Z","domain":"www.buildings.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
