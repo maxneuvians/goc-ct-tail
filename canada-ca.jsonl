@@ -7557,3 +7557,18 @@
 {"id":"9687468569","timestamp":"2025-03-04T08:16:28.484707165Z","domain":"resources.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-04T06:58:08Z","to":"2025-06-02T06:58:07Z"}
 {"id":"9688961465","timestamp":"2025-03-04T11:15:06.355101077Z","domain":"military-transition-militaire.canada.ca","issuer":"Let's Encrypt","from":"2025-03-04T10:08:11Z","to":"2025-06-02T10:08:10Z"}
 {"id":"9689599310","timestamp":"2025-03-04T13:17:25.172031213Z","domain":"ostrnrcan-dostrncan.canada.ca","issuer":"SSL.com","from":"2025-03-04T12:24:07Z","to":"2026-04-04T04:00:00Z"}
+{"id":"9690486744","timestamp":"2025-03-04T15:15:52.119888112Z","domain":"www.budget.canada.ca","issuer":"DigiCert","from":"2025-03-04T00:00:00Z","to":"2025-08-24T23:59:59Z"}
+{"id":"9690540774","timestamp":"2025-03-04T15:15:52.119888513Z","domain":"nachet.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-04T13:38:45Z","to":"2025-06-02T13:38:44Z"}
+{"id":"9690557921","timestamp":"2025-03-04T15:15:52.119888734Z","domain":"nachet.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-04T13:40:41Z","to":"2025-06-02T13:40:40Z"}
+{"id":"9690630777","timestamp":"2025-03-04T15:15:52.119889014Z","domain":"*.cto-fsdh-core.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
+{"id":"9690630777","timestamp":"2025-03-04T15:15:52.119889104Z","domain":"*.cto-qa-fsdh-core.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
+{"id":"9690630777","timestamp":"2025-03-04T15:15:52.119890096Z","domain":"*.datahub-scientifique-federal.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
+{"id":"9690630777","timestamp":"2025-03-04T15:15:52.119890176Z","domain":"datahub-scientifique-federal.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
+{"id":"9690630777","timestamp":"2025-03-04T15:15:52.119890256Z","domain":"*.federal-science-datahub.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
+{"id":"9690630777","timestamp":"2025-03-04T15:15:52.119890326Z","domain":"federal-science-datahub.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
+{"id":"9690630777","timestamp":"2025-03-04T15:15:52.119891228Z","domain":"*.fsdh-dhsf.science.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
+{"id":"9690630777","timestamp":"2025-03-04T15:15:52.119891298Z","domain":"fsdh-dhsf.science.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
+{"id":"9690630777","timestamp":"2025-03-04T15:15:52.119891379Z","domain":"*.plateforme-federale-donnees-scientifiques.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
+{"id":"9690630777","timestamp":"2025-03-04T15:15:52.119891459Z","domain":"plateforme-federale-donnees-scientifiques.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
+{"id":"9690630777","timestamp":"2025-03-04T15:15:52.119891529Z","domain":"*.sds.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
+{"id":"9690630777","timestamp":"2025-03-04T15:15:52.119891599Z","domain":"sds.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
