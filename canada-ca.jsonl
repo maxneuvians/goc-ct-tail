@@ -7572,3 +7572,5 @@
 {"id":"9690630777","timestamp":"2025-03-04T15:15:52.119891459Z","domain":"plateforme-federale-donnees-scientifiques.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
 {"id":"9690630777","timestamp":"2025-03-04T15:15:52.119891529Z","domain":"*.sds.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
 {"id":"9690630777","timestamp":"2025-03-04T15:15:52.119891599Z","domain":"sds.canada.ca","issuer":"SSL.com","from":"2025-03-04T14:39:38Z","to":"2026-04-04T04:00:00Z"}
+{"id":"9691974484","timestamp":"2025-03-04T18:16:26.666006298Z","domain":"www.budget.canada.ca","issuer":"DigiCert","from":"2025-03-04T00:00:00Z","to":"2025-09-04T23:59:59Z"}
+{"id":"9692145640","timestamp":"2025-03-04T18:16:26.666006599Z","domain":"argocd.isiem-dev-cc-00.ssc-dev-isiem.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-03-04T17:09:16Z","to":"2025-06-02T17:09:15Z"}
