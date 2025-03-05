@@ -1953,6 +1953,15 @@
     "2025-03-03": {
       "Let's Encrypt": 6,
       "SSL.com": 35
+    },
+    "2025-03-04": {
+      "Let's Encrypt": 9,
+      "SSL.com": 13,
+      "DigiCert": 2
+    },
+    "2025-03-05": {
+      "DigiCert": 1,
+      "Let's Encrypt": 1
     }
   },
   "errors": []
