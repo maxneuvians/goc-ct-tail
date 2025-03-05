@@ -7579,3 +7579,8 @@
 {"id":"9697169154","timestamp":"2025-03-05T07:15:24.938780465Z","domain":"ressources.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-05T05:15:15Z","to":"2025-06-03T05:15:14Z"}
 {"id":"9698045138","timestamp":"2025-03-05T09:15:52.81807113Z","domain":"a11y.canada.ca","issuer":"Let's Encrypt","from":"2025-03-05T07:15:19Z","to":"2025-06-03T07:15:18Z"}
 {"id":"9698517111","timestamp":"2025-03-05T10:15:46.677160758Z","domain":"code.open.canada.ca","issuer":"Let's Encrypt","from":"2025-03-05T08:18:45Z","to":"2025-06-03T08:18:44Z"}
+{"id":"9700163050","timestamp":"2025-03-05T14:15:28.063370175Z","domain":"biosecurity-portal-portail-biosurete.preprod.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-03-05T13:12:49Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9700201896","timestamp":"2025-03-05T14:15:28.063370866Z","domain":"biosecurity-portal-portail-biosurete.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-03-05T13:16:50Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9700347518","timestamp":"2025-03-05T14:15:28.063371177Z","domain":"finesse-internal.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-05T12:48:29Z","to":"2025-06-03T12:48:28Z"}
+{"id":"9700357382","timestamp":"2025-03-05T14:15:28.063371718Z","domain":"arrivecan-dev1de.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-03-05T00:00:00Z","to":"2026-04-03T23:59:59Z"}
+{"id":"9700422618","timestamp":"2025-03-05T14:15:28.063371908Z","domain":"finesse.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-05T12:58:04Z","to":"2025-06-03T12:58:03Z"}
