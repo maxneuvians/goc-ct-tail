@@ -410,3 +410,6 @@
 {"id":"9684210799","timestamp":"2025-03-04T00:48:40.588401322Z","domain":"v3-pbi-mental-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-03-04T00:00:00Z","to":"2025-09-04T23:59:59Z"}
 {"id":"9690169322","timestamp":"2025-03-04T14:36:13.014686317Z","domain":"v3-pbi-pses-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-03-04T00:00:00Z","to":"2025-09-04T23:59:59Z"}
 {"id":"9690991018","timestamp":"2025-03-04T15:35:39.77947896Z","domain":"v3-pbi-pcis-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-03-04T00:00:00Z","to":"2025-09-04T23:59:59Z"}
+{"id":"9700305619","timestamp":"2025-03-05T14:36:02.948311662Z","domain":"uat-gcdocs-otds.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-03-05T13:34:30Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9700305619","timestamp":"2025-03-05T14:36:02.948311963Z","domain":"uat-gcdocs-spmig.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-03-05T13:34:30Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9700305619","timestamp":"2025-03-05T14:36:02.948312133Z","domain":"www.uat-gcdocs-otds.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-03-05T13:34:30Z","to":"2026-04-05T04:00:00Z"}
