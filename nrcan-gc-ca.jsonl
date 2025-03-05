@@ -9358,3 +9358,22 @@
 {"id":"9686456497","timestamp":"2025-03-04T06:16:30.942600516Z","domain":"www.buildings.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
 {"id":"9686456497","timestamp":"2025-03-04T06:16:30.942600606Z","domain":"www.buildings.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
 {"id":"9686456497","timestamp":"2025-03-04T06:16:30.942600686Z","domain":"www.buildings.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T04:39:21Z","to":"2025-06-02T04:39:20Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277590252Z","domain":"chis-vpn-east.nrcan.gc.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277590783Z","domain":"chis-vpn-west.nrcan.gc.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277590984Z","domain":"earthquakescanada.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277591184Z","domain":"earthquakescanada.nrcan.gc.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277591274Z","domain":"eew1.nrcan.gc.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277592116Z","domain":"ftp.seismo.nrcan.gc.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277592206Z","domain":"origin1.earthquakescanada.nrcan.gc.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277592286Z","domain":"origin1.seismescanada.rncan.gc.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277592376Z","domain":"origin2.earthquakescanada.nrcan.gc.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277593208Z","domain":"origin2.seismescanada.rncan.gc.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277593288Z","domain":"seismescanada.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277593368Z","domain":"seismescanada.rncan.gc.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277593458Z","domain":"seismo.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277593538Z","domain":"seismo.nrcan.gc.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277593618Z","domain":"seis.pgc.nrcan.gc.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277593709Z","domain":"www.earthquakescanada.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277593789Z","domain":"www.earthquakescanada.nrcan.gc.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.277593869Z","domain":"www.seismescanada.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
+{"id":"9702621936","timestamp":"2025-03-05T19:14:54.27759453Z","domain":"www.seismescanada.rncan.gc.ca","issuer":"SSL.com","from":"2025-03-05T18:42:52Z","to":"2026-04-05T04:00:00Z"}
