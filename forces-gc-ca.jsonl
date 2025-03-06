@@ -943,3 +943,5 @@
 {"id":"9673844677","timestamp":"2025-03-03T00:34:39.153708192Z","domain":"gs.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-03-03T00:00:00Z","to":"2026-04-02T23:59:59Z"}
 {"id":"9679415791","timestamp":"2025-03-03T13:17:28.703665088Z","domain":"cmadev.forces.gc.ca","issuer":"SSL.com","from":"2025-03-03T12:23:05Z","to":"2026-03-09T10:01:05Z"}
 {"id":"9679415791","timestamp":"2025-03-03T13:17:28.703665399Z","domain":"www.cmadev.forces.gc.ca","issuer":"SSL.com","from":"2025-03-03T12:23:05Z","to":"2026-03-09T10:01:05Z"}
+{"id":"9710252017","timestamp":"2025-03-06T14:15:41.459767486Z","domain":"oscar-stg-en.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-03-06T13:06:59Z","to":"2026-04-06T04:00:00Z"}
+{"id":"9710252017","timestamp":"2025-03-06T14:15:41.459767807Z","domain":"oscar-stg-fr.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-03-06T13:06:59Z","to":"2026-04-06T04:00:00Z"}
