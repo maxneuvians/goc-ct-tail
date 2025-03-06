@@ -606,3 +606,4 @@
 {"id":"9654000122","timestamp":"2025-03-01T00:37:43.120883309Z","domain":"grafana.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-02-28T22:53:54Z","to":"2025-05-29T22:53:53Z"}
 {"id":"9654112572","timestamp":"2025-03-01T00:37:43.12088406Z","domain":"argocd.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-02-28T23:07:38Z","to":"2025-05-29T23:07:37Z"}
 {"id":"9685678588","timestamp":"2025-03-04T04:28:45.779195394Z","domain":"falco-ui.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-03-04T02:51:32Z","to":"2025-06-02T02:51:31Z"}
+{"id":"9706863310","timestamp":"2025-03-06T06:29:15.01920901Z","domain":"falco-ui.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-03-06T04:42:14Z","to":"2025-06-04T04:42:13Z"}
