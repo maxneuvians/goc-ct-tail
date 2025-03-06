@@ -7613,3 +7613,7 @@
 {"id":"9711403671","timestamp":"2025-03-06T16:16:14.803393471Z","domain":"do-rb.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-03-06T00:00:00Z","to":"2026-04-04T23:59:59Z"}
 {"id":"9713253292","timestamp":"2025-03-06T20:15:48.165764025Z","domain":"gec-cig-dev1.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-03-06T19:38:24Z","to":"2026-04-06T04:00:00Z"}
 {"id":"9713253292","timestamp":"2025-03-06T20:15:48.165764486Z","domain":"gec-cig.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-03-06T19:38:24Z","to":"2026-04-06T04:00:00Z"}
+{"id":"9713667617","timestamp":"2025-03-06T21:15:25.212411042Z","domain":"identity-api.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-06T19:48:47Z","to":"2025-06-04T19:48:46Z"}
+{"id":"9713673750","timestamp":"2025-03-06T21:15:25.212411513Z","domain":"keycloak.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-06T19:49:35Z","to":"2025-06-04T19:49:34Z"}
+{"id":"9713700580","timestamp":"2025-03-06T21:15:25.212411804Z","domain":"minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-06T19:54:35Z","to":"2025-06-04T19:54:34Z"}
+{"id":"9713746462","timestamp":"2025-03-06T21:15:25.212412124Z","domain":"console.minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-06T19:59:18Z","to":"2025-06-04T19:59:17Z"}
