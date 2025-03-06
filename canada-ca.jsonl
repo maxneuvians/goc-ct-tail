@@ -7594,3 +7594,15 @@
 {"id":"9707684478","timestamp":"2025-03-06T08:16:23.45078232Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-06T06:28:14Z","to":"2025-06-04T06:28:13Z"}
 {"id":"9707684478","timestamp":"2025-03-06T08:16:23.45078254Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-06T06:28:14Z","to":"2025-06-04T06:28:13Z"}
 {"id":"9709292940","timestamp":"2025-03-06T11:15:06.031426801Z","domain":"librechat.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-06T10:10:10Z","to":"2025-06-04T10:10:09Z"}
+{"id":"9710038599","timestamp":"2025-03-06T13:17:25.25639677Z","domain":"icare-iedec.canada.ca","issuer":"SSL.com","from":"2025-03-06T12:39:38Z","to":"2026-04-06T04:00:00Z"}
+{"id":"9710038599","timestamp":"2025-03-06T13:17:25.256397301Z","domain":"icare-iedec.cic.gc.ca","issuer":"SSL.com","from":"2025-03-06T12:39:38Z","to":"2026-04-06T04:00:00Z"}
+{"id":"9710038599","timestamp":"2025-03-06T13:17:25.256397562Z","domain":"www.icare-iedec.canada.ca","issuer":"SSL.com","from":"2025-03-06T12:39:38Z","to":"2026-04-06T04:00:00Z"}
+{"id":"9710038599","timestamp":"2025-03-06T13:17:25.256397822Z","domain":"www.icare-iedec.cic.gc.ca","issuer":"SSL.com","from":"2025-03-06T12:39:38Z","to":"2026-04-06T04:00:00Z"}
+{"id":"9710046166","timestamp":"2025-03-06T13:17:25.256397942Z","domain":"fertiscan-preview.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-06T11:47:17Z","to":"2025-06-04T11:47:16Z"}
+{"id":"9710047264","timestamp":"2025-03-06T13:17:25.256398924Z","domain":"fertiscan-preview.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-06T11:47:23Z","to":"2025-06-04T11:47:22Z"}
+{"id":"9710078881","timestamp":"2025-03-06T13:17:25.256399014Z","domain":"*.bureaux.service.canada.ca","issuer":"SSL.com","from":"2025-03-06T12:41:23Z","to":"2026-04-06T04:00:00Z"}
+{"id":"9710078881","timestamp":"2025-03-06T13:17:25.256399104Z","domain":"bureaux.service.canada.ca","issuer":"SSL.com","from":"2025-03-06T12:41:23Z","to":"2026-04-06T04:00:00Z"}
+{"id":"9710078881","timestamp":"2025-03-06T13:17:25.256399174Z","domain":"dev.offices.service.canada.ca","issuer":"SSL.com","from":"2025-03-06T12:41:23Z","to":"2026-04-06T04:00:00Z"}
+{"id":"9710078881","timestamp":"2025-03-06T13:17:25.256400166Z","domain":"*.offices.service.canada.ca","issuer":"SSL.com","from":"2025-03-06T12:41:23Z","to":"2026-04-06T04:00:00Z"}
+{"id":"9710078881","timestamp":"2025-03-06T13:17:25.256400236Z","domain":"offices.service.canada.ca","issuer":"SSL.com","from":"2025-03-06T12:41:23Z","to":"2026-04-06T04:00:00Z"}
+{"id":"9710078881","timestamp":"2025-03-06T13:17:25.256400316Z","domain":"www.offices.service.canada.ca","issuer":"SSL.com","from":"2025-03-06T12:41:23Z","to":"2026-04-06T04:00:00Z"}
