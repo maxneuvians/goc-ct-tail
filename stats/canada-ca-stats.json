@@ -1961,7 +1961,10 @@
     },
     "2025-03-05": {
       "DigiCert": 1,
-      "Let's Encrypt": 1
+      "Let's Encrypt": 10,
+      "SSL.com": 2,
+      "Amazon Trust Services": 1,
+      "Google Trust Services": 1
     }
   },
   "errors": []
