@@ -7695,3 +7695,11 @@
 {"id":"9734988023","timestamp":"2025-03-08T21:14:50.395431901Z","domain":"resource-catalogue.ws-bob.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-08T19:36:51Z","to":"2025-06-06T19:36:50Z"}
 {"id":"9734993243","timestamp":"2025-03-08T21:14:50.395432532Z","domain":"mlflow.ws-bob.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-08T19:36:46Z","to":"2025-06-06T19:36:45Z"}
 {"id":"9736244289","timestamp":"2025-03-09T00:29:57.833150675Z","domain":"image-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-03-09T00:00:00Z","to":"2026-04-08T23:59:59Z"}
+{"id":"9738566431","timestamp":"2025-03-09T06:15:49.619816272Z","domain":"*.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-09T04:31:19Z","to":"2025-06-07T04:31:18Z"}
+{"id":"9738566431","timestamp":"2025-03-09T06:15:49.619817063Z","domain":"ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-09T04:31:19Z","to":"2025-06-07T04:31:18Z"}
+{"id":"9738570733","timestamp":"2025-03-09T06:15:49.619817414Z","domain":"*.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-09T04:32:22Z","to":"2025-06-07T04:32:21Z"}
+{"id":"9738570733","timestamp":"2025-03-09T06:15:49.619817685Z","domain":"dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-09T04:32:22Z","to":"2025-06-07T04:32:21Z"}
+{"id":"9738628105","timestamp":"2025-03-09T06:15:49.619817805Z","domain":"earthquakes.canada.ca","issuer":"Let's Encrypt","from":"2025-03-09T04:40:00Z","to":"2025-06-07T04:39:59Z"}
+{"id":"9738628105","timestamp":"2025-03-09T06:15:49.619818837Z","domain":"seismes.canada.ca","issuer":"Let's Encrypt","from":"2025-03-09T04:40:00Z","to":"2025-06-07T04:39:59Z"}
+{"id":"9738809687","timestamp":"2025-03-09T06:15:49.619818957Z","domain":"chis.canada.ca","issuer":"Let's Encrypt","from":"2025-03-09T05:04:31Z","to":"2025-06-07T05:04:30Z"}
+{"id":"9738809687","timestamp":"2025-03-09T06:15:49.619819047Z","domain":"scir.canada.ca","issuer":"Let's Encrypt","from":"2025-03-09T05:04:31Z","to":"2025-06-07T05:04:30Z"}
