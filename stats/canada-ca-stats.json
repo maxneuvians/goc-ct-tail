@@ -1981,7 +1981,9 @@
       "DigiCert": 1
     },
     "2025-03-09": {
-      "Amazon Trust Services": 1
+      "Amazon Trust Services": 1,
+      "Let's Encrypt": 8,
+      "DigiCert": 1
     }
   },
   "errors": []
