@@ -7865,3 +7865,7 @@
 {"id":"9754133297","timestamp":"2025-03-10T17:15:21.299951472Z","domain":"registre-antiparasitaire.canada.ca","issuer":"SSL.com","from":"2025-03-10T16:45:26Z","to":"2026-03-28T15:25:03Z"}
 {"id":"9754719015","timestamp":"2025-03-10T19:15:18.556541151Z","domain":"gacamc-catemfa.canada.ca","issuer":"DigiCert","from":"2025-03-10T00:00:00Z","to":"2025-09-10T23:59:59Z"}
 {"id":"9757566050","timestamp":"2025-03-11T02:36:13.530416569Z","domain":"api.vmo.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-03-11T00:00:00Z","to":"2025-09-11T23:59:59Z"}
+{"id":"9760084080","timestamp":"2025-03-11T08:16:43.876816527Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-11T06:25:18Z","to":"2025-06-09T06:25:17Z"}
+{"id":"9760084080","timestamp":"2025-03-11T08:16:43.876816907Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-11T06:25:18Z","to":"2025-06-09T06:25:17Z"}
+{"id":"9760114320","timestamp":"2025-03-11T08:16:43.876817157Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-11T06:29:08Z","to":"2025-06-09T06:29:07Z"}
+{"id":"9760114320","timestamp":"2025-03-11T08:16:43.876817408Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-11T06:29:08Z","to":"2025-06-09T06:29:07Z"}
