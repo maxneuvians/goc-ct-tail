@@ -1984,6 +1984,14 @@
       "Amazon Trust Services": 1,
       "Let's Encrypt": 8,
       "DigiCert": 1
+    },
+    "2025-03-10": {
+      "Let's Encrypt": 152,
+      "DigiCert": 2,
+      "SSL.com": 6
+    },
+    "2025-03-11": {
+      "DigiCert": 1
     }
   },
   "errors": []
