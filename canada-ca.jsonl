@@ -7869,3 +7869,11 @@
 {"id":"9760084080","timestamp":"2025-03-11T08:16:43.876816907Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-11T06:25:18Z","to":"2025-06-09T06:25:17Z"}
 {"id":"9760114320","timestamp":"2025-03-11T08:16:43.876817157Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-11T06:29:08Z","to":"2025-06-09T06:29:07Z"}
 {"id":"9760114320","timestamp":"2025-03-11T08:16:43.876817408Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-11T06:29:08Z","to":"2025-06-09T06:29:07Z"}
+{"id":"9761890045","timestamp":"2025-03-11T12:17:15.70738758Z","domain":"apn.gc.ca","issuer":"SSL.com","from":"2025-03-11T11:16:37Z","to":"2026-04-11T04:00:00Z"}
+{"id":"9761890045","timestamp":"2025-03-11T12:17:15.70738789Z","domain":"apn-npa.gc.ca","issuer":"SSL.com","from":"2025-03-11T11:16:37Z","to":"2026-04-11T04:00:00Z"}
+{"id":"9761890045","timestamp":"2025-03-11T12:17:15.707388101Z","domain":"northern-pipeline.canada.ca","issuer":"SSL.com","from":"2025-03-11T11:16:37Z","to":"2026-04-11T04:00:00Z"}
+{"id":"9761890045","timestamp":"2025-03-11T12:17:15.707388251Z","domain":"npa-apn.gc.ca","issuer":"SSL.com","from":"2025-03-11T11:16:37Z","to":"2026-04-11T04:00:00Z"}
+{"id":"9761890045","timestamp":"2025-03-11T12:17:15.707388321Z","domain":"npa.gc.ca","issuer":"SSL.com","from":"2025-03-11T11:16:37Z","to":"2026-04-11T04:00:00Z"}
+{"id":"9761890045","timestamp":"2025-03-11T12:17:15.707389213Z","domain":"pipe-line-nord.canada.ca","issuer":"SSL.com","from":"2025-03-11T11:16:37Z","to":"2026-04-11T04:00:00Z"}
+{"id":"9761890045","timestamp":"2025-03-11T12:17:15.707389283Z","domain":"www.apn.gc.ca","issuer":"SSL.com","from":"2025-03-11T11:16:37Z","to":"2026-04-11T04:00:00Z"}
+{"id":"9761890045","timestamp":"2025-03-11T12:17:15.707389353Z","domain":"www.npa.gc.ca","issuer":"SSL.com","from":"2025-03-11T11:16:37Z","to":"2026-04-11T04:00:00Z"}
