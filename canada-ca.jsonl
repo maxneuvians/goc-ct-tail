@@ -7892,3 +7892,12 @@
 {"id":"9767170261","timestamp":"2025-03-12T00:33:09.328917646Z","domain":"anakwad.canadaeast.cloudapp.azure.com","issuer":"Let's Encrypt","from":"2025-03-11T23:03:34Z","to":"2025-06-09T23:03:33Z"}
 {"id":"9767224769","timestamp":"2025-03-12T00:33:09.328918007Z","domain":"publications-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-03-12T00:00:00Z","to":"2026-04-11T23:59:59Z"}
 {"id":"9770236628","timestamp":"2025-03-12T07:15:22.655559636Z","domain":"vmo.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-03-12T00:00:00Z","to":"2025-09-12T23:59:59Z"}
+{"id":"9773929433","timestamp":"2025-03-12T16:16:21.26899333Z","domain":"ac-aut-cb.canada.ca","issuer":"SSL.com","from":"2025-03-12T15:11:52Z","to":"2026-04-12T04:00:00Z"}
+{"id":"9773929433","timestamp":"2025-03-12T16:16:21.268993811Z","domain":"achat.canada.ca","issuer":"SSL.com","from":"2025-03-12T15:11:52Z","to":"2026-04-12T04:00:00Z"}
+{"id":"9773929433","timestamp":"2025-03-12T16:16:21.268994051Z","domain":"achats-canada.canada.ca","issuer":"SSL.com","from":"2025-03-12T15:11:52Z","to":"2026-04-12T04:00:00Z"}
+{"id":"9773929433","timestamp":"2025-03-12T16:16:21.268994252Z","domain":"achatscanada.canada.ca","issuer":"SSL.com","from":"2025-03-12T15:11:52Z","to":"2026-04-12T04:00:00Z"}
+{"id":"9773929433","timestamp":"2025-03-12T16:16:21.268994332Z","domain":"admin-buy-achats.canada.ca","issuer":"SSL.com","from":"2025-03-12T15:11:52Z","to":"2026-04-12T04:00:00Z"}
+{"id":"9773929433","timestamp":"2025-03-12T16:16:21.268995494Z","domain":"buy.canada.ca","issuer":"SSL.com","from":"2025-03-12T15:11:52Z","to":"2026-04-12T04:00:00Z"}
+{"id":"9773929433","timestamp":"2025-03-12T16:16:21.268995574Z","domain":"canada-buys.canada.ca","issuer":"SSL.com","from":"2025-03-12T15:11:52Z","to":"2026-04-12T04:00:00Z"}
+{"id":"9773929433","timestamp":"2025-03-12T16:16:21.268995654Z","domain":"canadabuys.canada.ca","issuer":"SSL.com","from":"2025-03-12T15:11:52Z","to":"2026-04-12T04:00:00Z"}
+{"id":"9774115582","timestamp":"2025-03-12T16:16:21.268995754Z","domain":"sds.canada.ca","issuer":"Let's Encrypt","from":"2025-03-12T14:44:44Z","to":"2025-06-10T14:44:43Z"}
