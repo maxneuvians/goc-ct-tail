@@ -1991,7 +1991,13 @@
       "SSL.com": 6
     },
     "2025-03-11": {
-      "DigiCert": 1
+      "DigiCert": 1,
+      "Let's Encrypt": 12,
+      "SSL.com": 9,
+      "Google Trust Services": 4
+    },
+    "2025-03-12": {
+      "Amazon Trust Services": 1
     }
   },
   "errors": []
