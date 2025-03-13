@@ -728,3 +728,7 @@
 {"id":"9642245188","timestamp":"2025-02-27T19:04:36.338047327Z","domain":"www.sante.gc.ca","issuer":"SSL.com","from":"2025-02-27T17:59:33Z","to":"2026-01-04T05:00:00Z"}
 {"id":"9642245188","timestamp":"2025-02-27T19:04:36.338047417Z","domain":"www.sc-hc.gc.ca","issuer":"SSL.com","from":"2025-02-27T17:59:33Z","to":"2026-01-04T05:00:00Z"}
 {"id":"9763701964","timestamp":"2025-03-11T16:06:07.121390789Z","domain":"ocs-bsc.dev.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-03-11T15:11:32Z","to":"2026-03-11T15:20:38Z"}
+{"id":"9785224747","timestamp":"2025-03-13T18:06:36.793362417Z","domain":"mcdc1-vpn.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-03-13T17:22:16Z","to":"2026-03-17T12:53:20Z"}
+{"id":"9785224747","timestamp":"2025-03-13T18:06:36.793362818Z","domain":"mcdc2-vpn.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-03-13T17:22:16Z","to":"2026-03-17T12:53:20Z"}
+{"id":"9785224747","timestamp":"2025-03-13T18:06:36.793363409Z","domain":"mcdc-vpn.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-03-13T17:22:16Z","to":"2026-03-17T12:53:20Z"}
+{"id":"9785224747","timestamp":"2025-03-13T18:06:36.79336365Z","domain":"pdp-vpn.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-03-13T17:22:16Z","to":"2026-03-17T12:53:20Z"}
