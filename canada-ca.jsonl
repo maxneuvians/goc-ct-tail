@@ -7903,3 +7903,5 @@
 {"id":"9774115582","timestamp":"2025-03-12T16:16:21.268995754Z","domain":"sds.canada.ca","issuer":"Let's Encrypt","from":"2025-03-12T14:44:44Z","to":"2025-06-10T14:44:43Z"}
 {"id":"9779084029","timestamp":"2025-03-13T03:19:15.026800965Z","domain":"*.cdn.design-system.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-03-13T00:00:00Z","to":"2026-04-12T23:59:59Z"}
 {"id":"9779084029","timestamp":"2025-03-13T03:19:15.026801316Z","domain":"cdn.design-system.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-03-13T00:00:00Z","to":"2026-04-12T23:59:59Z"}
+{"id":"9780869925","timestamp":"2025-03-13T08:16:46.224696136Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-13T06:29:10Z","to":"2025-06-11T06:29:09Z"}
+{"id":"9780869925","timestamp":"2025-03-13T08:16:46.224696647Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-13T06:29:10Z","to":"2025-06-11T06:29:09Z"}
