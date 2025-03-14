@@ -7924,3 +7924,7 @@
 {"id":"9792632220","timestamp":"2025-03-14T10:15:51.800000604Z","domain":"canchat.pilot-pilote.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-03-14T08:13:10Z","to":"2025-06-12T08:13:09Z"}
 {"id":"9794190365","timestamp":"2025-03-14T13:17:10.488605813Z","domain":"*.bess-sseo.service.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-03-14T12:53:18Z","to":"2026-04-14T04:00:00Z"}
 {"id":"9794190365","timestamp":"2025-03-14T13:17:10.488606524Z","domain":"bess-sseo.service.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-03-14T12:53:18Z","to":"2026-04-14T04:00:00Z"}
+{"id":"9794801627","timestamp":"2025-03-14T15:15:50.412873712Z","domain":"api.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-03-14T13:33:29Z","to":"2025-06-12T13:33:28Z"}
+{"id":"9794801627","timestamp":"2025-03-14T15:15:50.412874264Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-03-14T13:33:29Z","to":"2025-06-12T13:33:28Z"}
+{"id":"9794801627","timestamp":"2025-03-14T15:15:50.412874504Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-03-14T13:33:29Z","to":"2025-06-12T13:33:28Z"}
+{"id":"9794801627","timestamp":"2025-03-14T15:15:50.412874805Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-03-14T13:33:29Z","to":"2025-06-12T13:33:28Z"}
