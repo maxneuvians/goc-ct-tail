@@ -8010,3 +8010,7 @@
 {"id":"9846188092","timestamp":"2025-03-19T18:16:36.474953964Z","domain":"aaact.canada.ca","issuer":"Let's Encrypt","from":"2025-03-19T16:03:45Z","to":"2025-06-17T16:03:44Z"}
 {"id":"9846188092","timestamp":"2025-03-19T18:16:36.474954044Z","domain":"aatia.canada.ca","issuer":"Let's Encrypt","from":"2025-03-19T16:03:45Z","to":"2025-06-17T16:03:44Z"}
 {"id":"9849046218","timestamp":"2025-03-20T00:33:16.500058308Z","domain":"*.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-03-19T23:07:10Z","to":"2025-06-17T23:07:09Z"}
+{"id":"9852156446","timestamp":"2025-03-20T08:16:23.935942949Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-20T06:25:54Z","to":"2025-06-18T06:25:53Z"}
+{"id":"9852156446","timestamp":"2025-03-20T08:16:23.93594325Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-20T06:25:54Z","to":"2025-06-18T06:25:53Z"}
+{"id":"9852157343","timestamp":"2025-03-20T08:16:23.93594342Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-20T06:24:38Z","to":"2025-06-18T06:24:37Z"}
+{"id":"9852157343","timestamp":"2025-03-20T08:16:23.93594358Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-03-20T06:24:38Z","to":"2025-06-18T06:24:37Z"}
