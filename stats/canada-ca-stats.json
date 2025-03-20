@@ -2013,8 +2013,26 @@
       "DigiCert": 1
     },
     "2025-03-15": {
-      "Let's Encrypt": 5,
+      "Let's Encrypt": 6,
       "DigiCert": 3
+    },
+    "2025-03-16": {
+      "Let's Encrypt": 27
+    },
+    "2025-03-17": {
+      "SSL.com": 21,
+      "Let's Encrypt": 3,
+      "Amazon Trust Services": 1
+    },
+    "2025-03-18": {
+      "Let's Encrypt": 6,
+      "Google Trust Services": 3,
+      "Amazon Trust Services": 1
+    },
+    "2025-03-19": {
+      "Google Trust Services": 4,
+      "SSL.com": 2,
+      "Let's Encrypt": 3
     }
   },
   "errors": []
