@@ -2042,7 +2042,9 @@
       "Let's Encrypt": 6
     },
     "2025-03-22": {
-      "DigiCert": 1
+      "DigiCert": 1,
+      "Sectigo": 1,
+      "Let's Encrypt": 4
     }
   },
   "errors": []
