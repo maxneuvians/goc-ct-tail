@@ -371,3 +371,65 @@
 {"id":"9844268492","timestamp":"2025-03-19T17:35:40.811736476Z","domain":"test99.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-19T11:50:07Z","to":"2025-06-17T11:50:06Z"}
 {"id":"9846258726","timestamp":"2025-03-19T17:35:40.811739352Z","domain":"test88.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-19T16:13:27Z","to":"2025-06-17T16:13:26Z"}
 {"id":"9846258726","timestamp":"2025-03-19T17:35:40.811739422Z","domain":"test99.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-19T16:13:27Z","to":"2025-06-17T16:13:26Z"}
+{"id":"9893551456","timestamp":"2025-03-26T13:38:16.38189379Z","domain":"test88.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T13:26:27Z","to":"2025-06-22T13:26:26Z"}
+{"id":"9893551456","timestamp":"2025-03-26T13:38:16.381894511Z","domain":"test99.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T13:26:27Z","to":"2025-06-22T13:26:26Z"}
+{"id":"9893573714","timestamp":"2025-03-26T13:38:16.381895202Z","domain":"test88.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T13:29:13Z","to":"2025-06-22T13:29:12Z"}
+{"id":"9893573714","timestamp":"2025-03-26T13:38:16.381897096Z","domain":"test99.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T13:29:13Z","to":"2025-06-22T13:29:12Z"}
+{"id":"9893595646","timestamp":"2025-03-26T13:38:16.381897226Z","domain":"test881.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T13:30:29Z","to":"2025-06-22T13:30:28Z"}
+{"id":"9893595646","timestamp":"2025-03-26T13:38:16.381898248Z","domain":"test991.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T13:30:29Z","to":"2025-06-22T13:30:28Z"}
+{"id":"9893762289","timestamp":"2025-03-26T13:38:16.381898368Z","domain":"test5.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T13:58:21Z","to":"2025-06-22T13:58:20Z"}
+{"id":"9893762289","timestamp":"2025-03-26T13:38:16.381898468Z","domain":"test6.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T13:58:21Z","to":"2025-06-22T13:58:20Z"}
+{"id":"9893777630","timestamp":"2025-03-26T13:38:16.381898569Z","domain":"test5.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T14:01:12Z","to":"2025-06-22T14:01:11Z"}
+{"id":"9893777630","timestamp":"2025-03-26T13:38:16.381899711Z","domain":"test6.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T14:01:12Z","to":"2025-06-22T14:01:11Z"}
+{"id":"9893831665","timestamp":"2025-03-26T13:38:16.381899801Z","domain":"test5.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T14:07:21Z","to":"2025-06-22T14:07:20Z"}
+{"id":"9893831665","timestamp":"2025-03-26T13:38:16.381899901Z","domain":"test6.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T14:07:21Z","to":"2025-06-22T14:07:20Z"}
+{"id":"9893864346","timestamp":"2025-03-26T13:38:16.381899991Z","domain":"test88.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T13:21:13Z","to":"2025-06-22T13:21:12Z"}
+{"id":"9893864346","timestamp":"2025-03-26T13:38:16.381900082Z","domain":"test99.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T13:21:13Z","to":"2025-06-22T13:21:12Z"}
+{"id":"9893882984","timestamp":"2025-03-26T13:38:16.381900182Z","domain":"test88.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T13:23:30Z","to":"2025-06-22T13:23:29Z"}
+{"id":"9893882984","timestamp":"2025-03-26T13:38:16.381900282Z","domain":"test99.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T13:23:30Z","to":"2025-06-22T13:23:29Z"}
+{"id":"9893929387","timestamp":"2025-03-26T13:38:16.381900382Z","domain":"test88.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T13:21:32Z","to":"2025-06-22T13:21:31Z"}
+{"id":"9893929387","timestamp":"2025-03-26T13:38:16.381900472Z","domain":"test99.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T13:21:32Z","to":"2025-06-22T13:21:31Z"}
+{"id":"9894115630","timestamp":"2025-03-26T13:38:16.381901795Z","domain":"test5.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T14:01:59Z","to":"2025-06-22T14:01:58Z"}
+{"id":"9894115630","timestamp":"2025-03-26T13:38:16.381901915Z","domain":"test6.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T14:01:59Z","to":"2025-06-22T14:01:58Z"}
+{"id":"9894125367","timestamp":"2025-03-26T13:38:16.381902015Z","domain":"test5.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T14:03:03Z","to":"2025-06-22T14:03:02Z"}
+{"id":"9894125367","timestamp":"2025-03-26T13:38:16.381902105Z","domain":"test6.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T14:03:03Z","to":"2025-06-22T14:03:02Z"}
+{"id":"9894155895","timestamp":"2025-03-26T13:38:16.381902206Z","domain":"test7.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T14:09:23Z","to":"2025-06-22T14:09:22Z"}
+{"id":"9894155895","timestamp":"2025-03-26T13:38:16.381902306Z","domain":"test8.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T14:09:23Z","to":"2025-06-22T14:09:22Z"}
+{"id":"9895362719","timestamp":"2025-03-26T13:38:16.381902406Z","domain":"test7.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T18:00:04Z","to":"2025-06-22T18:00:03Z"}
+{"id":"9895362719","timestamp":"2025-03-26T13:38:16.381902496Z","domain":"test8.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T18:00:04Z","to":"2025-06-22T18:00:03Z"}
+{"id":"9902249868","timestamp":"2025-03-26T13:38:16.381902606Z","domain":"nctns-dev.trial.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T11:49:06Z","to":"2025-06-23T11:49:05Z"}
+{"id":"9902249868","timestamp":"2025-03-26T13:38:16.381902696Z","domain":"*.nctnstest.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T11:49:06Z","to":"2025-06-23T11:49:05Z"}
+{"id":"9902249868","timestamp":"2025-03-26T13:38:16.381902796Z","domain":"test66.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T11:49:06Z","to":"2025-06-23T11:49:05Z"}
+{"id":"9902278807","timestamp":"2025-03-26T13:38:16.381902907Z","domain":"test55.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T11:53:16Z","to":"2025-06-23T11:53:15Z"}
+{"id":"9902278807","timestamp":"2025-03-26T13:38:16.381902997Z","domain":"*.test.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T11:53:16Z","to":"2025-06-23T11:53:15Z"}
+{"id":"9902278807","timestamp":"2025-03-26T13:38:16.381903097Z","domain":"*.test.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T11:53:16Z","to":"2025-06-23T11:53:15Z"}
+{"id":"9902421310","timestamp":"2025-03-26T13:38:16.381903207Z","domain":"*.1.nctnstest.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T12:16:34Z","to":"2025-06-23T12:16:33Z"}
+{"id":"9902421310","timestamp":"2025-03-26T13:38:16.381903297Z","domain":"nctns-dev1.trial.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T12:16:34Z","to":"2025-06-23T12:16:33Z"}
+{"id":"9902421310","timestamp":"2025-03-26T13:38:16.381903388Z","domain":"test661.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T12:16:34Z","to":"2025-06-23T12:16:33Z"}
+{"id":"9902432275","timestamp":"2025-03-26T13:38:16.381903488Z","domain":"test553.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T12:16:52Z","to":"2025-06-23T12:16:51Z"}
+{"id":"9902432275","timestamp":"2025-03-26T13:38:16.381903578Z","domain":"*.test.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T12:16:52Z","to":"2025-06-23T12:16:51Z"}
+{"id":"9902432275","timestamp":"2025-03-26T13:38:16.381903678Z","domain":"*.test.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T12:16:52Z","to":"2025-06-23T12:16:51Z"}
+{"id":"9902436647","timestamp":"2025-03-26T13:38:16.381903768Z","domain":"test75.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T12:16:09Z","to":"2025-06-23T12:16:08Z"}
+{"id":"9902436647","timestamp":"2025-03-26T13:38:16.381903858Z","domain":"test85.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T12:16:09Z","to":"2025-06-23T12:16:08Z"}
+{"id":"9902897892","timestamp":"2025-03-26T13:38:16.381905782Z","domain":"test881.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T13:27:43Z","to":"2025-06-23T13:27:42Z"}
+{"id":"9902897892","timestamp":"2025-03-26T13:38:16.381905882Z","domain":"test991.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T13:27:43Z","to":"2025-06-23T13:27:42Z"}
+{"id":"9902941093","timestamp":"2025-03-26T13:38:16.381905993Z","domain":"test881.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T13:33:46Z","to":"2025-06-23T13:33:45Z"}
+{"id":"9902941093","timestamp":"2025-03-26T13:38:16.381906083Z","domain":"test991.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T13:33:46Z","to":"2025-06-23T13:33:45Z"}
+{"id":"9903086910","timestamp":"2025-03-26T13:38:16.381906203Z","domain":"*.1.nctnstest.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T13:56:27Z","to":"2025-06-23T13:56:26Z"}
+{"id":"9903086910","timestamp":"2025-03-26T13:38:16.381906293Z","domain":"nctns-dev1.trial.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T13:56:27Z","to":"2025-06-23T13:56:26Z"}
+{"id":"9903086910","timestamp":"2025-03-26T13:38:16.381906393Z","domain":"test661.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T13:56:27Z","to":"2025-06-23T13:56:26Z"}
+{"id":"9903087063","timestamp":"2025-03-26T13:38:16.381906503Z","domain":"test553.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T13:56:31Z","to":"2025-06-23T13:56:30Z"}
+{"id":"9903087063","timestamp":"2025-03-26T13:38:16.381906614Z","domain":"*.test.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T13:56:31Z","to":"2025-06-23T13:56:30Z"}
+{"id":"9903087063","timestamp":"2025-03-26T13:38:16.381906724Z","domain":"*.test.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T13:56:31Z","to":"2025-06-23T13:56:30Z"}
+{"id":"9903100148","timestamp":"2025-03-26T13:38:16.381906834Z","domain":"test75.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T13:56:21Z","to":"2025-06-23T13:56:20Z"}
+{"id":"9903100148","timestamp":"2025-03-26T13:38:16.381906924Z","domain":"test85.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-03-25T13:56:21Z","to":"2025-06-23T13:56:20Z"}
+{"id":"9903891578","timestamp":"2025-03-26T13:38:16.381907035Z","domain":"*.aventail.cyber.gc.ca","issuer":"SSL.com","from":"2025-03-25T16:36:09Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9903891578","timestamp":"2025-03-26T13:38:16.381907135Z","domain":"aventail.cyber.gc.ca","issuer":"SSL.com","from":"2025-03-25T16:36:09Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9903891578","timestamp":"2025-03-26T13:38:16.381907225Z","domain":"catapult.ops.cyber.gc.ca","issuer":"SSL.com","from":"2025-03-25T16:36:09Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9903891578","timestamp":"2025-03-26T13:38:16.381907325Z","domain":"misp.cyber.gc.ca","issuer":"SSL.com","from":"2025-03-25T16:36:09Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9903891578","timestamp":"2025-03-26T13:38:16.381907415Z","domain":"services.cyber.gc.ca","issuer":"SSL.com","from":"2025-03-25T16:36:09Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9903891578","timestamp":"2025-03-26T13:38:16.381907505Z","domain":"taxii.cyber.gc.ca","issuer":"SSL.com","from":"2025-03-25T16:36:09Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9903891578","timestamp":"2025-03-26T13:38:16.381907596Z","domain":"*.u.aventail.cyber.gc.ca","issuer":"SSL.com","from":"2025-03-25T16:36:09Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9903891660","timestamp":"2025-03-26T13:38:16.381907716Z","domain":"*.aventail-gov.cyber.gc.ca","issuer":"SSL.com","from":"2025-03-25T16:38:15Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9903891660","timestamp":"2025-03-26T13:38:16.381907986Z","domain":"aventail-gov.cyber.gc.ca","issuer":"SSL.com","from":"2025-03-25T16:38:15Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9903891660","timestamp":"2025-03-26T13:38:16.381908076Z","domain":"taxii-pb.cyber.gc.ca","issuer":"SSL.com","from":"2025-03-25T16:38:15Z","to":"2026-04-25T04:00:00Z"}
