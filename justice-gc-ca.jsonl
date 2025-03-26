@@ -227,3 +227,16 @@
 {"id":"9546658785","timestamp":"2025-02-18T14:26:37.797184782Z","domain":"otto-dev.cloud.justice.gc.ca","issuer":"Let's Encrypt","from":"2025-02-18T13:18:21Z","to":"2025-05-19T13:18:20Z"}
 {"id":"9866080093","timestamp":"2025-03-21T17:26:04.992483684Z","domain":"sipjtus.justice.gc.ca","issuer":"SSL.com","from":"2025-03-21T16:58:18Z","to":"2026-04-21T04:00:00Z"}
 {"id":"9866080093","timestamp":"2025-03-21T17:26:04.992484134Z","domain":"sutcis.justice.gc.ca","issuer":"SSL.com","from":"2025-03-21T16:58:18Z","to":"2026-04-21T04:00:00Z"}
+{"id":"9896936947","timestamp":"2025-03-26T13:29:30.958468554Z","domain":"juscampus-catalogue.justice.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T22:09:23Z","to":"2025-06-22T22:09:22Z"}
+{"id":"9901999301","timestamp":"2025-03-26T13:29:30.958468955Z","domain":"autodiscover.ccrc-ceap.gc.ca","issuer":"SSL.com","from":"2025-03-25T12:02:12Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9901999301","timestamp":"2025-03-26T13:29:30.958469195Z","domain":"autodiscover.justice.gc.ca","issuer":"SSL.com","from":"2025-03-25T12:02:12Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9901999301","timestamp":"2025-03-26T13:29:30.958469436Z","domain":"autodiscover.lcc-cdc.gc.ca","issuer":"SSL.com","from":"2025-03-25T12:02:12Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9901999301","timestamp":"2025-03-26T13:29:30.958469526Z","domain":"autodiscover.ombud.gc.ca","issuer":"SSL.com","from":"2025-03-25T12:02:12Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9901999301","timestamp":"2025-03-26T13:29:30.958470568Z","domain":"autodiscover.ombudsman.gc.ca","issuer":"SSL.com","from":"2025-03-25T12:02:12Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9901999301","timestamp":"2025-03-26T13:29:30.958470648Z","domain":"autodiscover.osi-bis.ca","issuer":"SSL.com","from":"2025-03-25T12:02:12Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9901999301","timestamp":"2025-03-26T13:29:30.958470728Z","domain":"cas.justice.gc.ca","issuer":"SSL.com","from":"2025-03-25T12:02:12Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9901999301","timestamp":"2025-03-26T13:29:30.958470808Z","domain":"justicewebmail.prv.global.gc.ca","issuer":"SSL.com","from":"2025-03-25T12:02:12Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9901999301","timestamp":"2025-03-26T13:29:30.95847157Z","domain":"mail.justice.gc.ca","issuer":"SSL.com","from":"2025-03-25T12:02:12Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9901999301","timestamp":"2025-03-26T13:29:30.95847164Z","domain":"mrs.justice.gc.ca","issuer":"SSL.com","from":"2025-03-25T12:02:12Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9901999301","timestamp":"2025-03-26T13:29:30.95847172Z","domain":"smtp.justice.gc.ca","issuer":"SSL.com","from":"2025-03-25T12:02:12Z","to":"2026-04-25T04:00:00Z"}
+{"id":"9901999301","timestamp":"2025-03-26T13:29:30.9584718Z","domain":"webmail.justice.gc.ca","issuer":"SSL.com","from":"2025-03-25T12:02:12Z","to":"2026-04-25T04:00:00Z"}
