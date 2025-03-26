@@ -648,3 +648,7 @@
 {"id":"9794945386","timestamp":"2025-03-14T15:26:42.311769454Z","domain":"paycase-caspaye-preprod-2.tpsgc-pwgsc.gc.ca","issuer":"SSL.com","from":"2025-03-14T14:46:56Z","to":"2026-04-14T04:00:00Z"}
 {"id":"9794945386","timestamp":"2025-03-14T15:26:42.311769544Z","domain":"paycase-caspaye-test-2.tpsgc-pwgsc.gc.ca","issuer":"SSL.com","from":"2025-03-14T14:46:56Z","to":"2026-04-14T04:00:00Z"}
 {"id":"9794945386","timestamp":"2025-03-14T15:26:42.311770035Z","domain":"www.paycase-caspaye-dev-3.tpsgc-pwgsc.gc.ca","issuer":"SSL.com","from":"2025-03-14T14:46:56Z","to":"2026-04-14T04:00:00Z"}
+{"id":"9893043975","timestamp":"2025-03-26T13:29:31.011058329Z","domain":"citrix.pwgsc-tpsgc.gc.ca","issuer":"SSL.com","from":"2025-03-24T13:03:31Z","to":"2026-04-24T04:00:00Z"}
+{"id":"9893043975","timestamp":"2025-03-26T13:29:31.01105876Z","domain":"citrix.tpsgc-pwgsc.gc.ca","issuer":"SSL.com","from":"2025-03-24T13:03:31Z","to":"2026-04-24T04:00:00Z"}
+{"id":"9893066321","timestamp":"2025-03-26T13:29:31.01105909Z","domain":"citrixtest.pwgsc-tpsgc.gc.ca","issuer":"SSL.com","from":"2025-03-24T13:06:51Z","to":"2026-04-24T04:00:00Z"}
+{"id":"9893066321","timestamp":"2025-03-26T13:29:31.011059351Z","domain":"citrixtest.tpsgc-pwgsc.gc.ca","issuer":"SSL.com","from":"2025-03-24T13:06:51Z","to":"2026-04-24T04:00:00Z"}
