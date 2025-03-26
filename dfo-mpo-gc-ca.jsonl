@@ -891,3 +891,8 @@
 {"id":"9877656568","timestamp":"2025-03-23T00:38:51.480881278Z","domain":"api.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-03-22T22:57:22Z","to":"2025-06-20T22:57:21Z"}
 {"id":"9877656568","timestamp":"2025-03-23T00:38:51.480881368Z","domain":"api-sine.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-03-22T22:57:22Z","to":"2025-06-20T22:57:21Z"}
 {"id":"9877980300","timestamp":"2025-03-23T01:58:48.38812218Z","domain":"intra-api.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-03-22T23:46:38Z","to":"2025-06-20T23:46:37Z"}
+{"id":"9880293866","timestamp":"2025-03-26T13:29:32.271587027Z","domain":"publications-chatgpt.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2025-03-23T00:00:00Z","to":"2025-09-23T23:59:59Z"}
+{"id":"9890462707","timestamp":"2025-03-26T13:29:32.271587398Z","domain":"policy-reporter.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-03-24T06:38:46Z","to":"2025-06-22T06:38:45Z"}
+{"id":"9892286484","timestamp":"2025-03-26T13:29:32.271587638Z","domain":"test.recfish-pechesportive.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-03-24T11:18:29Z","to":"2026-04-24T04:00:00Z"}
+{"id":"9910860255","timestamp":"2025-03-26T13:29:32.271587889Z","domain":"api.dev.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-03-26T10:21:19Z","to":"2025-06-24T10:21:18Z"}
+{"id":"9910860255","timestamp":"2025-03-26T13:29:32.271587979Z","domain":"api.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-03-26T10:21:19Z","to":"2025-06-24T10:21:18Z"}
