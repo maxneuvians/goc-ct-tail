@@ -8086,3 +8086,4 @@
 {"id":"9922386840","timestamp":"2025-03-27T17:15:20.060849855Z","domain":"traces-ccmeo-ci-dev.priv.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-03-27T00:00:00Z","to":"2026-04-25T23:59:59Z"}
 {"id":"9922386840","timestamp":"2025-03-27T17:15:20.060849955Z","domain":"viewer-ccmeo-ci-dev.priv.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-03-27T00:00:00Z","to":"2026-04-25T23:59:59Z"}
 {"id":"9923492311","timestamp":"2025-03-27T20:15:53.618426618Z","domain":"inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-27T18:45:24Z","to":"2025-06-25T18:45:23Z"}
+{"id":"9924483223","timestamp":"2025-03-27T23:15:34.460371554Z","domain":"auth.acc.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-03-27T00:00:00Z","to":"2025-09-27T23:59:59Z"}
