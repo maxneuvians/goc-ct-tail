@@ -2045,6 +2045,23 @@
       "DigiCert": 1,
       "Sectigo": 1,
       "Let's Encrypt": 4
+    },
+    "2025-03-23": {
+      "Let's Encrypt": 9,
+      "DigiCert": 1
+    },
+    "2025-03-24": {
+      "Let's Encrypt": 4,
+      "SSL.com": 5
+    },
+    "2025-03-25": {
+      "Amazon Trust Services": 1,
+      "Let's Encrypt": 6
+    },
+    "2025-03-26": {
+      "Let's Encrypt": 3,
+      "SSL.com": 8,
+      "Amazon Trust Services": 1
     }
   },
   "errors": []
