@@ -8088,3 +8088,15 @@
 {"id":"9923492311","timestamp":"2025-03-27T20:15:53.618426618Z","domain":"inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-27T18:45:24Z","to":"2025-06-25T18:45:23Z"}
 {"id":"9924483223","timestamp":"2025-03-27T23:15:34.460371554Z","domain":"auth.acc.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-03-27T00:00:00Z","to":"2025-09-27T23:59:59Z"}
 {"id":"9930202600","timestamp":"2025-03-28T12:17:09.716607585Z","domain":"bytebase.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-28T10:12:47Z","to":"2025-06-26T10:12:46Z"}
+{"id":"9930805834","timestamp":"2025-03-28T13:17:31.833475297Z","domain":"beta-comptesgc.canada.ca","issuer":"SSL.com","from":"2025-03-28T12:33:05Z","to":"2026-04-28T04:00:00Z"}
+{"id":"9930805834","timestamp":"2025-03-28T13:17:31.833475638Z","domain":"beta-gcaccounts.canada.ca","issuer":"SSL.com","from":"2025-03-28T12:33:05Z","to":"2026-04-28T04:00:00Z"}
+{"id":"9930805834","timestamp":"2025-03-28T13:17:31.833475828Z","domain":"beta-gcaccounts-service.canada.ca","issuer":"SSL.com","from":"2025-03-28T12:33:05Z","to":"2026-04-28T04:00:00Z"}
+{"id":"9930805834","timestamp":"2025-03-28T13:17:31.833476019Z","domain":"dev-comptesgc.canada.ca","issuer":"SSL.com","from":"2025-03-28T12:33:05Z","to":"2026-04-28T04:00:00Z"}
+{"id":"9930805834","timestamp":"2025-03-28T13:17:31.833476109Z","domain":"dev-gcaccounts.canada.ca","issuer":"SSL.com","from":"2025-03-28T12:33:05Z","to":"2026-04-28T04:00:00Z"}
+{"id":"9930805834","timestamp":"2025-03-28T13:17:31.833477031Z","domain":"dev-gcaccounts-service.canada.ca","issuer":"SSL.com","from":"2025-03-28T12:33:05Z","to":"2026-04-28T04:00:00Z"}
+{"id":"9930805834","timestamp":"2025-03-28T13:17:31.833477111Z","domain":"gcaccounts-comptesgc.gc.ca","issuer":"SSL.com","from":"2025-03-28T12:33:05Z","to":"2026-04-28T04:00:00Z"}
+{"id":"9930805834","timestamp":"2025-03-28T13:17:31.833477191Z","domain":"gcaccounts-service-beta.fjgc-gccf.gc.ca","issuer":"SSL.com","from":"2025-03-28T12:33:05Z","to":"2026-04-28T04:00:00Z"}
+{"id":"9930805834","timestamp":"2025-03-28T13:17:31.833477281Z","domain":"gcaccounts-service-dev.fjgc-gccf.gc.ca","issuer":"SSL.com","from":"2025-03-28T12:33:05Z","to":"2026-04-28T04:00:00Z"}
+{"id":"9930805834","timestamp":"2025-03-28T13:17:31.833478153Z","domain":"scm.gcaccounts-comptesgc.gc.ca","issuer":"SSL.com","from":"2025-03-28T12:33:05Z","to":"2026-04-28T04:00:00Z"}
+{"id":"9930805834","timestamp":"2025-03-28T13:17:31.833478243Z","domain":"*.support.gcaccounts-comptesgc.gc.ca","issuer":"SSL.com","from":"2025-03-28T12:33:05Z","to":"2026-04-28T04:00:00Z"}
+{"id":"9930868157","timestamp":"2025-03-28T13:17:31.833478333Z","domain":"vouch.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-28T11:51:45Z","to":"2025-06-26T11:51:44Z"}
