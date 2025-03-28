@@ -8103,3 +8103,6 @@
 {"id":"9931533533","timestamp":"2025-03-28T15:15:46.501411526Z","domain":"myaw-monlta-prd-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-03-28T00:00:00Z","to":"2025-09-28T23:59:59Z"}
 {"id":"9932632105","timestamp":"2025-03-28T17:15:22.924896064Z","domain":"mlflow.ws-sleipe.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-28T16:12:46Z","to":"2025-06-26T16:12:45Z"}
 {"id":"9932633465","timestamp":"2025-03-28T18:16:33.048155546Z","domain":"resource-catalogue.ws-sleipe.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-28T16:12:57Z","to":"2025-06-26T16:12:56Z"}
+{"id":"9934769748","timestamp":"2025-03-28T23:15:31.051333741Z","domain":"performance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-28T21:33:03Z","to":"2025-06-26T21:33:02Z"}
+{"id":"9934930506","timestamp":"2025-03-28T23:15:31.051334091Z","domain":"resource-catalogue.ws-lakewatch.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-28T21:57:25Z","to":"2025-06-26T21:57:24Z"}
+{"id":"9934930883","timestamp":"2025-03-28T23:15:31.051334352Z","domain":"mlflow.ws-lakewatch.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-03-28T21:57:25Z","to":"2025-06-26T21:57:24Z"}
