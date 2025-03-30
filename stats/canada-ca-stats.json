@@ -2076,7 +2076,9 @@
       "DigiCert": 1
     },
     "2025-03-29": {
-      "GoDaddy": 1
+      "GoDaddy": 1,
+      "DigiCert": 3,
+      "Let's Encrypt": 3
     }
   },
   "errors": []
