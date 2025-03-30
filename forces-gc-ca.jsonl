@@ -1025,3 +1025,6 @@
 {"id":"9914744214","timestamp":"2025-03-26T22:15:26.43491601Z","domain":"www.trackenergyregs.ca","issuer":"Let's Encrypt","from":"2025-03-26T20:51:23Z","to":"2025-06-24T20:51:22Z"}
 {"id":"9914744214","timestamp":"2025-03-26T22:15:26.43491609Z","domain":"www.trackenergyregs.com","issuer":"Let's Encrypt","from":"2025-03-26T20:51:23Z","to":"2025-06-24T20:51:22Z"}
 {"id":"9920872681","timestamp":"2025-03-27T13:17:37.626903653Z","domain":"feams.dig.forces.gc.ca","issuer":"SSL.com","from":"2025-03-27T12:55:44Z","to":"2026-04-27T04:00:00Z"}
+{"id":"9944118310","timestamp":"2025-03-30T00:37:41.691537754Z","domain":"*.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-03-29T23:02:50Z","to":"2025-06-27T23:02:49Z"}
+{"id":"9944118310","timestamp":"2025-03-30T00:37:41.691538044Z","domain":"*.rcaf.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-03-29T23:02:50Z","to":"2025-06-27T23:02:49Z"}
+{"id":"9944118310","timestamp":"2025-03-30T00:37:41.691538285Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-03-29T23:02:50Z","to":"2025-06-27T23:02:49Z"}
