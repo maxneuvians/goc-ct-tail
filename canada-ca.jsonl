@@ -8113,3 +8113,6 @@
 {"id":"9941786916","timestamp":"2025-03-29T17:15:00.509106409Z","domain":"strategie-justice-autochtone.canada.ca","issuer":"Let's Encrypt","from":"2025-03-29T15:53:54Z","to":"2025-06-27T15:53:53Z"}
 {"id":"9942008934","timestamp":"2025-03-29T18:16:10.92561111Z","domain":"cv-parser.dev.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-03-29T00:00:00Z","to":"2025-09-29T23:59:59Z"}
 {"id":"9943931079","timestamp":"2025-03-30T00:37:42.295650557Z","domain":"auth-prod.climate-change.canada.ca","issuer":"DigiCert","from":"2025-03-29T00:00:00Z","to":"2025-09-29T23:59:59Z"}
+{"id":"9945858320","timestamp":"2025-03-30T05:15:27.374484272Z","domain":"*.scan-files.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-03-30T00:00:00Z","to":"2026-04-29T23:59:59Z"}
+{"id":"9945858320","timestamp":"2025-03-30T05:15:27.374484652Z","domain":"scan-files.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-03-30T00:00:00Z","to":"2026-04-29T23:59:59Z"}
+{"id":"9945950466","timestamp":"2025-03-30T05:15:27.374484903Z","domain":"yourbudget.canada.ca","issuer":"Let's Encrypt","from":"2025-03-30T03:53:43Z","to":"2025-06-28T03:53:42Z"}
