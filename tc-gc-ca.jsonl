@@ -244,3 +244,9 @@
 {"id":"9833694319","timestamp":"2025-03-19T18:16:37.640394642Z","domain":"gcsra-01.tc.gc.ca","issuer":"SSL.com","from":"2025-03-18T13:27:16Z","to":"2026-04-05T13:08:55Z"}
 {"id":"9833694319","timestamp":"2025-03-19T18:16:37.640394942Z","domain":"gcsra-02.tc.gc.ca","issuer":"SSL.com","from":"2025-03-18T13:27:16Z","to":"2026-04-05T13:08:55Z"}
 {"id":"9833694319","timestamp":"2025-03-19T18:16:37.640395223Z","domain":"gcsra.tc.gc.ca","issuer":"SSL.com","from":"2025-03-18T13:27:16Z","to":"2026-04-05T13:08:55Z"}
+{"id":"9966571865","timestamp":"2025-04-01T14:15:39.506603027Z","domain":"*.dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-04-01T08:03:20Z","to":"2025-06-30T08:03:19Z"}
+{"id":"9966571865","timestamp":"2025-04-01T14:15:39.506603308Z","domain":"dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-04-01T08:03:20Z","to":"2025-06-30T08:03:19Z"}
+{"id":"9966577952","timestamp":"2025-04-01T14:15:39.506603488Z","domain":"*.acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-04-01T08:02:27Z","to":"2025-06-30T08:02:26Z"}
+{"id":"9966577952","timestamp":"2025-04-01T14:15:39.506603698Z","domain":"acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-04-01T08:02:27Z","to":"2025-06-30T08:02:26Z"}
+{"id":"9966585934","timestamp":"2025-04-01T14:15:39.506603779Z","domain":"*.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-04-01T08:04:16Z","to":"2025-06-30T08:04:15Z"}
+{"id":"9966585934","timestamp":"2025-04-01T14:15:39.5066044Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2025-04-01T08:04:16Z","to":"2025-06-30T08:04:15Z"}
