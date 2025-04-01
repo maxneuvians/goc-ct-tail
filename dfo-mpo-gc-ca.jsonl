@@ -898,3 +898,4 @@
 {"id":"9910860255","timestamp":"2025-03-26T13:29:32.271587979Z","domain":"api.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-03-26T10:21:19Z","to":"2025-06-24T10:21:18Z"}
 {"id":"9912863191","timestamp":"2025-03-26T17:26:25.098181932Z","domain":"grafana.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-03-26T15:21:37Z","to":"2025-06-24T15:21:36Z"}
 {"id":"9941267550","timestamp":"2025-03-29T16:28:49.552950566Z","domain":"epro-loader-stage.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2025-03-29T00:00:00Z","to":"2025-09-29T23:59:59Z"}
+{"id":"9962703963","timestamp":"2025-04-01T14:27:47.507716475Z","domain":"*.aps.dev.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-03-31T23:04:01Z","to":"2025-06-29T23:04:00Z"}
