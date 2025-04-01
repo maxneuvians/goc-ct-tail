@@ -8145,3 +8145,5 @@
 {"id":"9968106725","timestamp":"2025-04-01T14:15:39.873559747Z","domain":"validation-service-canada.canada.ca","issuer":"SSL.com","from":"2025-04-01T12:31:25Z","to":"2026-05-01T04:00:00Z"}
 {"id":"9968106725","timestamp":"2025-04-01T14:15:39.873559827Z","domain":"www.validation-service-canada.canada.ca","issuer":"SSL.com","from":"2025-04-01T12:31:25Z","to":"2026-05-01T04:00:00Z"}
 {"id":"9968465117","timestamp":"2025-04-01T14:15:39.873559907Z","domain":"bcd-api.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-01T00:00:00Z","to":"2026-04-30T23:59:59Z"}
+{"id":"9968909079","timestamp":"2025-04-01T15:15:56.700442697Z","domain":"*.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-04-01T00:00:00Z","to":"2025-06-30T23:59:59Z"}
+{"id":"9968914813","timestamp":"2025-04-01T15:15:56.700443107Z","domain":"*.nxrm.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-04-01T00:00:00Z","to":"2025-06-30T23:59:59Z"}
