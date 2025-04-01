@@ -433,3 +433,9 @@
 {"id":"9933004091","timestamp":"2025-03-28T18:40:04.276468433Z","domain":"tbs-dcorsboa01.dev.t1.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-03-28T18:02:07Z","to":"2026-04-28T04:00:00Z"}
 {"id":"9933080062","timestamp":"2025-03-28T18:40:04.276468704Z","domain":"v3-quessvc-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-03-28T00:00:00Z","to":"2025-09-28T23:59:59Z"}
 {"id":"9939746964","timestamp":"2025-03-29T12:45:08.646104044Z","domain":"v3-calipersapi-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-03-29T00:00:00Z","to":"2025-09-29T23:59:59Z"}
+{"id":"9957412297","timestamp":"2025-04-01T14:37:23.98653962Z","domain":"v3-pbi-pcis-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-03-31T00:00:00Z","to":"2025-09-30T23:59:59Z"}
+{"id":"9959280418","timestamp":"2025-04-01T14:37:23.986539871Z","domain":"uat.wcf.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-03-31T15:27:47Z","to":"2026-04-30T04:00:00Z"}
+{"id":"9959280683","timestamp":"2025-04-01T14:37:23.986540041Z","domain":"v3-pbi-mental-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-03-31T00:00:00Z","to":"2025-09-30T23:59:59Z"}
+{"id":"9960102913","timestamp":"2025-04-01T14:37:23.986540202Z","domain":"v3-pbi-pses-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-03-31T00:00:00Z","to":"2025-09-30T23:59:59Z"}
+{"id":"9960902545","timestamp":"2025-04-01T14:37:23.986540282Z","domain":"mockups-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-03-31T00:00:00Z","to":"2025-09-30T23:59:59Z"}
+{"id":"9967730489","timestamp":"2025-04-01T14:37:23.986540763Z","domain":"tapx-claimsigner.uat.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-04-01T11:36:23Z","to":"2026-05-01T04:00:00Z"}
