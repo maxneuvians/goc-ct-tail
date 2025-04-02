@@ -2082,7 +2082,21 @@
     },
     "2025-03-30": {
       "Amazon Trust Services": 2,
-      "Let's Encrypt": 3
+      "Let's Encrypt": 4
+    },
+    "2025-03-31": {
+      "DigiCert": 2,
+      "Let's Encrypt": 2
+    },
+    "2025-04-01": {
+      "Let's Encrypt": 16,
+      "Google Trust Services": 2,
+      "SSL.com": 7,
+      "Amazon Trust Services": 1,
+      "Sectigo": 2
+    },
+    "2025-04-02": {
+      "Amazon Trust Services": 2
     }
   },
   "errors": []
