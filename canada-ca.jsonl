@@ -8162,3 +8162,37 @@
 {"id":"9980032774","timestamp":"2025-04-02T16:16:30.547444747Z","domain":"*.md.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-04-02T00:00:00Z","to":"2025-07-01T23:59:59Z"}
 {"id":"9980473196","timestamp":"2025-04-02T17:15:09.062791184Z","domain":"a360.canadacentral.cloudapp.azure.com","issuer":"Let's Encrypt","from":"2025-04-02T15:56:10Z","to":"2025-07-01T15:56:09Z"}
 {"id":"9980473196","timestamp":"2025-04-02T17:15:09.062791504Z","domain":"a360.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-02T15:56:10Z","to":"2025-07-01T15:56:09Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162101635Z","domain":"canada.justice.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162101935Z","domain":"famille.justice.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162102096Z","domain":"family.justice.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162102256Z","domain":"familyviolencehurts.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162102336Z","domain":"justice.canada.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162103368Z","domain":"justice.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162103438Z","domain":"laviolencefamilialefaitmal.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162103509Z","domain":"lesvictimescomptent.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162103569Z","domain":"ombudsman.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.16210446Z","domain":"semainedesvictimes.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.16210453Z","domain":"servicesauxvictimes.justice.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.1621046Z","domain":"victimesdabord.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162104661Z","domain":"victimservices.justice.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162104731Z","domain":"victimsfirst.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162104801Z","domain":"victimsmatter.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162104861Z","domain":"victimsweek.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162104931Z","domain":"web1.justice.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162105001Z","domain":"web2.justice.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162105713Z","domain":"www.cdc-lcc.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162105773Z","domain":"www.famille.justice.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162105843Z","domain":"www.family.justice.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162105913Z","domain":"www.familyviolencehurts.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162105983Z","domain":"www.justice.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162106053Z","domain":"www.laviolencefamilialefaitmal.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162106113Z","domain":"www.lcc-cdc.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162106183Z","domain":"www.lesvictimescomptent.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162106254Z","domain":"www.ombudsman.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162106314Z","domain":"www.semainedesvictimes.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162106384Z","domain":"www.servicesauxvictimes.justice.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162106454Z","domain":"www.victimesdabord.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162106514Z","domain":"www.victimservices.justice.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162106584Z","domain":"www.victimsfirst.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162106654Z","domain":"www.victimsmatter.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9980667607","timestamp":"2025-04-02T18:16:29.162106715Z","domain":"www.victimsweek.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:20:31Z","to":"2026-05-02T04:00:00Z"}
