@@ -8212,3 +8212,5 @@
 {"id":"9988342750","timestamp":"2025-04-03T11:15:15.861112079Z","domain":"canary.ssc-spc.preprod.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-04-03T10:05:20Z","to":"2025-07-02T10:59:12Z"}
 {"id":"9989071111","timestamp":"2025-04-03T13:18:13.201433712Z","domain":"checkmk.thinkon.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-03T11:33:36Z","to":"2025-07-02T11:33:35Z"}
 {"id":"9989081988","timestamp":"2025-04-03T13:18:13.201434313Z","domain":"nagios.privatecloud.experimentation.m.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-03T11:33:48Z","to":"2025-07-02T11:33:47Z"}
+{"id":"9989617992","timestamp":"2025-04-03T14:15:45.390217115Z","domain":"*.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-04-03T12:42:36Z","to":"2025-07-02T12:42:35Z"}
+{"id":"9989750069","timestamp":"2025-04-03T14:15:45.390217586Z","domain":"*.prod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-04-03T12:59:20Z","to":"2025-07-02T12:59:19Z"}
