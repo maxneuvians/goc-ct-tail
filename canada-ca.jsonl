@@ -8201,3 +8201,6 @@
 {"id":"9982066981","timestamp":"2025-04-02T21:15:36.533027878Z","domain":"artifacts-artefacts.devops.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-02T19:59:08Z","to":"2025-07-01T19:59:07Z"}
 {"id":"9983089921","timestamp":"2025-04-03T00:34:12.598278157Z","domain":"*.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-04-02T00:00:00Z","to":"2025-07-01T23:59:59Z"}
 {"id":"9983094671","timestamp":"2025-04-03T00:34:12.598278378Z","domain":"*.nxrm.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-04-02T00:00:00Z","to":"2025-07-01T23:59:59Z"}
+{"id":"9983731148","timestamp":"2025-04-03T01:44:20.350476564Z","domain":"*.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-04-03T00:00:00Z","to":"2025-07-02T23:59:59Z"}
+{"id":"9983740239","timestamp":"2025-04-03T01:44:20.350476945Z","domain":"*.nxrm.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-04-03T00:00:00Z","to":"2025-07-02T23:59:59Z"}
+{"id":"9983766741","timestamp":"2025-04-03T01:44:20.350477195Z","domain":"*.md.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-04-03T00:00:00Z","to":"2025-07-02T23:59:59Z"}
