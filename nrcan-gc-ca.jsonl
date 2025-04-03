@@ -9982,3 +9982,24 @@
 {"id":"9974620053","timestamp":"2025-04-02T05:15:54.063688538Z","domain":"pad.gsca.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-02T03:37:58Z","to":"2025-07-01T03:37:57Z"}
 {"id":"9980594326","timestamp":"2025-04-02T18:16:30.360241078Z","domain":"nrottvlp006.nrcan.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:10:09Z","to":"2026-05-02T04:00:00Z"}
 {"id":"9980594372","timestamp":"2025-04-02T18:16:30.360241689Z","domain":"nrottvlp006.nrcan.gc.ca","issuer":"SSL.com","from":"2025-04-02T17:10:10Z","to":"2026-05-02T04:00:00Z"}
+{"id":"9985306446","timestamp":"2025-04-03T05:15:36.75868757Z","domain":"geonames.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T03:43:35Z","to":"2025-07-02T03:43:34Z"}
+{"id":"9985306446","timestamp":"2025-04-03T05:15:36.758688051Z","domain":"geonames.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T03:43:35Z","to":"2025-07-02T03:43:34Z"}
+{"id":"9985306446","timestamp":"2025-04-03T05:15:36.758688342Z","domain":"toponymes.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T03:43:35Z","to":"2025-07-02T03:43:34Z"}
+{"id":"9985306446","timestamp":"2025-04-03T05:15:36.758688623Z","domain":"toponymes.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T03:43:35Z","to":"2025-07-02T03:43:34Z"}
+{"id":"9985306446","timestamp":"2025-04-03T05:15:36.758688723Z","domain":"www4.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T03:43:35Z","to":"2025-07-02T03:43:34Z"}
+{"id":"9985306446","timestamp":"2025-04-03T05:15:36.758689745Z","domain":"www4.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T03:43:35Z","to":"2025-07-02T03:43:34Z"}
+{"id":"9985306446","timestamp":"2025-04-03T05:15:36.758689835Z","domain":"www4.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T03:43:35Z","to":"2025-07-02T03:43:34Z"}
+{"id":"9985306446","timestamp":"2025-04-03T05:15:36.758689915Z","domain":"www4.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T03:43:35Z","to":"2025-07-02T03:43:34Z"}
+{"id":"9985428895","timestamp":"2025-04-03T05:15:36.758690035Z","domain":"pointdevue.cfs.nrcan.gc.ca","issuer":"Sectigo","from":"2025-04-03T00:00:00Z","to":"2025-07-02T23:59:59Z"}
+{"id":"9985428895","timestamp":"2025-04-03T05:15:36.758690927Z","domain":"pointdevue.cfs-scf.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-04-03T00:00:00Z","to":"2025-07-02T23:59:59Z"}
+{"id":"9985428895","timestamp":"2025-04-03T05:15:36.758691017Z","domain":"pointdevue.scf-cfs.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-04-03T00:00:00Z","to":"2025-07-02T23:59:59Z"}
+{"id":"9985428895","timestamp":"2025-04-03T05:15:36.758691107Z","domain":"pointdevue.scf.rncan.gc.ca","issuer":"Sectigo","from":"2025-04-03T00:00:00Z","to":"2025-07-02T23:59:59Z"}
+{"id":"9985428895","timestamp":"2025-04-03T05:15:36.758691197Z","domain":"viewpoint.cfs.nrcan.gc.ca","issuer":"Sectigo","from":"2025-04-03T00:00:00Z","to":"2025-07-02T23:59:59Z"}
+{"id":"9985428895","timestamp":"2025-04-03T05:15:36.758691297Z","domain":"viewpoint.cfs-scf.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-04-03T00:00:00Z","to":"2025-07-02T23:59:59Z"}
+{"id":"9985428895","timestamp":"2025-04-03T05:15:36.758691388Z","domain":"viewpoint.scf-cfs.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-04-03T00:00:00Z","to":"2025-07-02T23:59:59Z"}
+{"id":"9985428895","timestamp":"2025-04-03T05:15:36.758691478Z","domain":"viewpoint.scf.rncan.gc.ca","issuer":"Sectigo","from":"2025-04-03T00:00:00Z","to":"2025-07-02T23:59:59Z"}
+{"id":"9985434813","timestamp":"2025-04-03T05:15:36.758691588Z","domain":"oee.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T03:59:43Z","to":"2025-07-02T03:59:42Z"}
+{"id":"9985434813","timestamp":"2025-04-03T05:15:36.758691688Z","domain":"oee.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T03:59:43Z","to":"2025-07-02T03:59:42Z"}
+{"id":"9985434813","timestamp":"2025-04-03T05:15:36.758693051Z","domain":"oee.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T03:59:43Z","to":"2025-07-02T03:59:42Z"}
+{"id":"9985434813","timestamp":"2025-04-03T05:15:36.758693141Z","domain":"oee.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T03:59:43Z","to":"2025-07-02T03:59:42Z"}
+{"id":"9985434813","timestamp":"2025-04-03T05:15:36.758693241Z","domain":"www.oee.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T03:59:43Z","to":"2025-07-02T03:59:42Z"}
