@@ -2103,7 +2103,10 @@
       "Google Trust Services": 1
     },
     "2025-04-03": {
-      "Sectigo": 3
+      "Sectigo": 3,
+      "Google Trust Services": 2,
+      "Let's Encrypt": 8,
+      "SSL.com": 1
     }
   },
   "errors": []
