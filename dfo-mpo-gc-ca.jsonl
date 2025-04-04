@@ -899,3 +899,6 @@
 {"id":"9912863191","timestamp":"2025-03-26T17:26:25.098181932Z","domain":"grafana.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-03-26T15:21:37Z","to":"2025-06-24T15:21:36Z"}
 {"id":"9941267550","timestamp":"2025-03-29T16:28:49.552950566Z","domain":"epro-loader-stage.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2025-03-29T00:00:00Z","to":"2025-09-29T23:59:59Z"}
 {"id":"9962703963","timestamp":"2025-04-01T14:27:47.507716475Z","domain":"*.aps.dev.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-03-31T23:04:01Z","to":"2025-06-29T23:04:00Z"}
+{"id":"10000934719","timestamp":"2025-04-04T15:28:21.016909124Z","domain":"cnodc-cndoc.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-04-04T14:26:13Z","to":"2026-05-04T04:00:00Z"}
+{"id":"10000934719","timestamp":"2025-04-04T15:28:21.016909515Z","domain":"cnodc-cndoc.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-04-04T14:26:13Z","to":"2026-05-04T04:00:00Z"}
+{"id":"10000934719","timestamp":"2025-04-04T15:28:21.016909726Z","domain":"www.cnodc-cndoc.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-04-04T14:26:13Z","to":"2026-05-04T04:00:00Z"}
