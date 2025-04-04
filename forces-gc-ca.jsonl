@@ -1038,3 +1038,6 @@
 {"id":"9994741998","timestamp":"2025-04-04T01:44:19.306356431Z","domain":"*.rcaf.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-04-04T00:03:57Z","to":"2025-07-03T00:03:56Z"}
 {"id":"9994741998","timestamp":"2025-04-04T01:44:19.306356502Z","domain":"*.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-04-04T00:03:57Z","to":"2025-07-03T00:03:56Z"}
 {"id":"9994741998","timestamp":"2025-04-04T01:44:19.306356582Z","domain":"*.vcds.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-04-04T00:03:57Z","to":"2025-07-03T00:03:56Z"}
+{"id":"10000785947","timestamp":"2025-04-04T15:16:06.230494146Z","domain":"forces.gc.ca","issuer":"SSL.com","from":"2025-04-04T14:07:02Z","to":"2026-05-04T04:00:00Z"}
+{"id":"10000785947","timestamp":"2025-04-04T15:16:06.230494537Z","domain":"www.forces.gc.ca","issuer":"SSL.com","from":"2025-04-04T14:07:02Z","to":"2026-05-04T04:00:00Z"}
+{"id":"10000854833","timestamp":"2025-04-04T15:16:06.230494798Z","domain":"defense365.forces.gc.ca","issuer":"DigiCert","from":"2025-04-04T00:00:00Z","to":"2026-04-04T23:59:59Z"}
