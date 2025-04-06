@@ -537,3 +537,6 @@
 {"id":"9858121289","timestamp":"2025-03-20T22:35:27.158564261Z","domain":"hub-carrefour-alpha.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-03-20T20:34:34Z","to":"2025-06-18T20:34:33Z"}
 {"id":"9970362679","timestamp":"2025-04-01T18:39:36.956136669Z","domain":"www136.cmp-pgc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-01T17:19:07Z","to":"2025-06-30T17:19:06Z"}
 {"id":"9970373655","timestamp":"2025-04-01T18:39:36.956137019Z","domain":"www111.cmp-pgc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-01T17:18:59Z","to":"2025-06-30T17:18:58Z"}
+{"id":"10023452326","timestamp":"2025-04-06T19:33:20.553126848Z","domain":"icoskb.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-06T18:29:59Z","to":"2025-07-05T18:29:58Z"}
+{"id":"10023453496","timestamp":"2025-04-06T19:33:20.553127379Z","domain":"cmp-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-06T18:29:57Z","to":"2025-07-05T18:29:56Z"}
+{"id":"10023454719","timestamp":"2025-04-06T19:33:20.55312774Z","domain":"interviewer-intervieweur-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-06T18:29:57Z","to":"2025-07-05T18:29:56Z"}
