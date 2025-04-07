@@ -8238,3 +8238,7 @@
 {"id":"10017494944","timestamp":"2025-04-06T06:16:40.486793979Z","domain":"www2.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-04-06T04:20:08Z","to":"2025-07-05T04:20:07Z"}
 {"id":"10023366814","timestamp":"2025-04-06T20:15:47.820552592Z","domain":"aurora.gccloudone.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-06T18:16:08Z","to":"2025-07-05T18:16:07Z"}
 {"id":"10024427637","timestamp":"2025-04-06T23:15:16.018369907Z","domain":"gccloudone.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-06T21:13:38Z","to":"2025-07-05T21:13:37Z"}
+{"id":"10025140367","timestamp":"2025-04-07T00:36:06.399938907Z","domain":"sgb-lms.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-07T00:00:00Z","to":"2026-05-07T23:59:59Z"}
+{"id":"10025140800","timestamp":"2025-04-07T00:36:06.399939298Z","domain":"*.dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-07T00:00:00Z","to":"2026-05-07T23:59:59Z"}
+{"id":"10025140800","timestamp":"2025-04-07T00:36:06.399939539Z","domain":"dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-07T00:00:00Z","to":"2026-05-07T23:59:59Z"}
+{"id":"10025159897","timestamp":"2025-04-07T00:36:06.399939789Z","domain":"ocir-riso-ontario.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-07T00:00:00Z","to":"2026-05-07T23:59:59Z"}
