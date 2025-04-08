@@ -8300,3 +8300,11 @@
 {"id":"10043608687","timestamp":"2025-04-08T19:15:11.666312171Z","domain":"www133.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-04-08T18:48:46Z","to":"2026-05-08T04:00:00Z"}
 {"id":"10043671712","timestamp":"2025-04-08T19:15:11.666313343Z","domain":"minio-console.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T18:06:44Z","to":"2025-07-07T18:06:43Z"}
 {"id":"10043681481","timestamp":"2025-04-08T19:15:11.666313433Z","domain":"rook-h.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T18:08:53Z","to":"2025-07-07T18:08:52Z"}
+{"id":"10043702412","timestamp":"2025-04-08T20:16:13.532624715Z","domain":"rook-c.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T18:13:18Z","to":"2025-07-07T18:13:17Z"}
+{"id":"10043706623","timestamp":"2025-04-08T20:16:13.532625317Z","domain":"*.infra.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T18:13:43Z","to":"2025-07-07T18:13:42Z"}
+{"id":"10043706623","timestamp":"2025-04-08T20:16:13.532625537Z","domain":"infra.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T18:13:43Z","to":"2025-07-07T18:13:42Z"}
+{"id":"10043750085","timestamp":"2025-04-08T20:16:13.532625757Z","domain":"finesse-backend.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T18:21:35Z","to":"2025-07-07T18:21:34Z"}
+{"id":"10043772193","timestamp":"2025-04-08T20:16:13.532625867Z","domain":"finesse.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T18:21:34Z","to":"2025-07-07T18:21:33Z"}
+{"id":"10043780917","timestamp":"2025-04-08T20:16:13.53262694Z","domain":"fertiscan.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T18:23:27Z","to":"2025-07-07T18:23:26Z"}
+{"id":"10043817150","timestamp":"2025-04-08T20:16:13.53262703Z","domain":"ailab.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T18:29:25Z","to":"2025-07-07T18:29:24Z"}
+{"id":"10043861918","timestamp":"2025-04-08T20:16:13.53262711Z","domain":"gptr-mcp.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T18:33:49Z","to":"2025-07-07T18:33:48Z"}
