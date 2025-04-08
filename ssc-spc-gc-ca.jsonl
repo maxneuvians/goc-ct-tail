@@ -715,3 +715,7 @@
 {"id":"9986155992","timestamp":"2025-04-03T07:15:34.583777268Z","domain":"rpsim4.sscecmlab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T05:36:57Z","to":"2025-07-02T05:36:56Z"}
 {"id":"9986156753","timestamp":"2025-04-03T07:15:34.583777478Z","domain":"rpsim1-sscecmlab.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T05:36:19Z","to":"2025-07-02T05:36:18Z"}
 {"id":"9986156753","timestamp":"2025-04-03T07:15:34.583777568Z","domain":"rpsim1.sscecmlab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-04-03T05:36:19Z","to":"2025-07-02T05:36:18Z"}
+{"id":"10043519078","timestamp":"2025-04-08T19:15:10.883212816Z","domain":"bpc-pac.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-04-08T18:35:20Z","to":"2026-05-08T04:00:00Z"}
+{"id":"10043567858","timestamp":"2025-04-08T19:15:10.883213197Z","domain":"bpc-pac-dev.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-04-08T18:41:40Z","to":"2026-05-08T04:00:00Z"}
+{"id":"10043608674","timestamp":"2025-04-08T19:15:10.883213427Z","domain":"bpc-pac-qa.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-04-08T18:48:45Z","to":"2026-05-08T04:00:00Z"}
+{"id":"10043644821","timestamp":"2025-04-08T19:15:10.883213688Z","domain":"bpc-pac-trn.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-04-08T18:52:52Z","to":"2026-05-08T04:00:00Z"}
