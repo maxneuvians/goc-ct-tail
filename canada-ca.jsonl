@@ -8280,3 +8280,23 @@
 {"id":"10043065137","timestamp":"2025-04-08T18:16:25.6142556Z","domain":"www140.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-04-08T17:26:03Z","to":"2026-05-08T04:00:00Z"}
 {"id":"10043179340","timestamp":"2025-04-08T18:16:25.614256491Z","domain":"gptr-b.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T16:56:26Z","to":"2025-07-07T16:56:25Z"}
 {"id":"10043179340","timestamp":"2025-04-08T18:16:25.614256822Z","domain":"gptr.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T16:56:26Z","to":"2025-07-07T16:56:25Z"}
+{"id":"10043332620","timestamp":"2025-04-08T19:15:11.666305128Z","domain":"litellm.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T17:19:58Z","to":"2025-07-07T17:19:57Z"}
+{"id":"10043359120","timestamp":"2025-04-08T19:15:11.666305919Z","domain":"minio.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T17:25:46Z","to":"2025-07-07T17:25:45Z"}
+{"id":"10043370637","timestamp":"2025-04-08T19:15:11.66630645Z","domain":"louis.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T17:24:50Z","to":"2025-07-07T17:24:49Z"}
+{"id":"10043375708","timestamp":"2025-04-08T19:15:11.666308604Z","domain":"librechat.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T17:26:49Z","to":"2025-07-07T17:26:48Z"}
+{"id":"10043381665","timestamp":"2025-04-08T19:15:11.666308715Z","domain":"ollama.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T17:24:50Z","to":"2025-07-07T17:24:49Z"}
+{"id":"10043385192","timestamp":"2025-04-08T19:15:11.666309957Z","domain":"argocd.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T17:25:59Z","to":"2025-07-07T17:25:58Z"}
+{"id":"10043391314","timestamp":"2025-04-08T19:15:11.666310057Z","domain":"hubble.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T17:27:52Z","to":"2025-07-07T17:27:51Z"}
+{"id":"10043395199","timestamp":"2025-04-08T19:15:11.666310157Z","domain":"nachet.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T17:28:54Z","to":"2025-07-07T17:28:53Z"}
+{"id":"10043396862","timestamp":"2025-04-08T19:15:11.666310237Z","domain":"ailab-on-prem.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T17:28:14Z","to":"2025-07-07T17:28:13Z"}
+{"id":"10043415488","timestamp":"2025-04-08T19:15:11.66631149Z","domain":"keycloak.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T17:28:45Z","to":"2025-07-07T17:28:44Z"}
+{"id":"10043416000","timestamp":"2025-04-08T19:15:11.66631157Z","domain":"nachet-backend.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T17:28:43Z","to":"2025-07-07T17:28:42Z"}
+{"id":"10043447943","timestamp":"2025-04-08T19:15:11.66631167Z","domain":"dpsbtst.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T17:33:19Z","to":"2025-07-07T17:33:18Z"}
+{"id":"10043466373","timestamp":"2025-04-08T19:15:11.66631175Z","domain":"keycloak.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T17:38:38Z","to":"2025-07-07T17:38:37Z"}
+{"id":"10043529853","timestamp":"2025-04-08T19:15:11.66631184Z","domain":"keycloak.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T17:46:09Z","to":"2025-07-07T17:46:08Z"}
+{"id":"10043608687","timestamp":"2025-04-08T19:15:11.666311941Z","domain":"www132.canafe-fintrac.canada.ca","issuer":"SSL.com","from":"2025-04-08T18:48:46Z","to":"2026-05-08T04:00:00Z"}
+{"id":"10043608687","timestamp":"2025-04-08T19:15:11.666312021Z","domain":"www132.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-04-08T18:48:46Z","to":"2026-05-08T04:00:00Z"}
+{"id":"10043608687","timestamp":"2025-04-08T19:15:11.666312091Z","domain":"www133.canafe-fintrac.canada.ca","issuer":"SSL.com","from":"2025-04-08T18:48:46Z","to":"2026-05-08T04:00:00Z"}
+{"id":"10043608687","timestamp":"2025-04-08T19:15:11.666312171Z","domain":"www133.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-04-08T18:48:46Z","to":"2026-05-08T04:00:00Z"}
+{"id":"10043671712","timestamp":"2025-04-08T19:15:11.666313343Z","domain":"minio-console.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T18:06:44Z","to":"2025-07-07T18:06:43Z"}
+{"id":"10043681481","timestamp":"2025-04-08T19:15:11.666313433Z","domain":"rook-h.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T18:08:53Z","to":"2025-07-07T18:08:52Z"}
