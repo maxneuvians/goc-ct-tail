@@ -8254,3 +8254,7 @@
 {"id":"10033345205","timestamp":"2025-04-07T20:16:01.140762985Z","domain":"formation-approvisionnement.canada.ca","issuer":"SSL.com","from":"2025-04-07T18:59:12Z","to":"2026-05-07T04:00:00Z"}
 {"id":"10033345205","timestamp":"2025-04-07T20:16:01.140763486Z","domain":"procurement-training.canada.ca","issuer":"SSL.com","from":"2025-04-07T18:59:12Z","to":"2026-05-07T04:00:00Z"}
 {"id":"10035991686","timestamp":"2025-04-08T02:39:24.192519912Z","domain":"diseases.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T00:45:48Z","to":"2025-07-07T00:45:47Z"}
+{"id":"10038300640","timestamp":"2025-04-08T08:16:34.264959928Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T06:25:22Z","to":"2025-07-07T06:25:21Z"}
+{"id":"10038300640","timestamp":"2025-04-08T08:16:34.264960238Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T06:25:22Z","to":"2025-07-07T06:25:21Z"}
+{"id":"10038342268","timestamp":"2025-04-08T08:16:34.264960489Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T06:29:10Z","to":"2025-07-07T06:29:09Z"}
+{"id":"10038342268","timestamp":"2025-04-08T08:16:34.264960709Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-08T06:29:10Z","to":"2025-07-07T06:29:09Z"}
