@@ -8326,3 +8326,8 @@
 {"id":"10051672091","timestamp":"2025-04-09T15:16:16.765471753Z","domain":"vault.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-09T13:25:10Z","to":"2025-07-08T13:25:09Z"}
 {"id":"10052095547","timestamp":"2025-04-09T16:16:26.849228285Z","domain":"docling.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-09T14:21:55Z","to":"2025-07-08T14:21:54Z"}
 {"id":"10052172526","timestamp":"2025-04-09T16:16:26.849228636Z","domain":"vault.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-09T14:27:40Z","to":"2025-07-08T14:27:39Z"}
+{"id":"10053246295","timestamp":"2025-04-09T18:16:35.111377849Z","domain":"applicant-portal-infrastructure.canada.ca","issuer":"SSL.com","from":"2025-04-09T17:49:53Z","to":"2026-05-09T04:00:00Z"}
+{"id":"10053246295","timestamp":"2025-04-09T18:16:35.1113783Z","domain":"candidat-infrastructure.canada.ca","issuer":"SSL.com","from":"2025-04-09T17:49:53Z","to":"2026-05-09T04:00:00Z"}
+{"id":"10053246295","timestamp":"2025-04-09T18:16:35.111378591Z","domain":"infrastructure-applicant.canada.ca","issuer":"SSL.com","from":"2025-04-09T17:49:53Z","to":"2026-05-09T04:00:00Z"}
+{"id":"10053246295","timestamp":"2025-04-09T18:16:35.111378841Z","domain":"portail-des-candidats-infrastructure.canada.ca","issuer":"SSL.com","from":"2025-04-09T17:49:53Z","to":"2026-05-09T04:00:00Z"}
+{"id":"10053246295","timestamp":"2025-04-09T18:16:35.111378951Z","domain":"www.infrastructure-applicant.canada.ca","issuer":"SSL.com","from":"2025-04-09T17:49:53Z","to":"2026-05-09T04:00:00Z"}
