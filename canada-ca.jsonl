@@ -8320,3 +8320,5 @@
 {"id":"10047395865","timestamp":"2025-04-09T05:15:48.354704614Z","domain":"sso-qa-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2025-04-09T03:33:57Z","to":"2025-07-08T03:33:56Z"}
 {"id":"10047395865","timestamp":"2025-04-09T05:15:48.354704705Z","domain":"sso-uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-09T03:33:57Z","to":"2025-07-08T03:33:56Z"}
 {"id":"10047395865","timestamp":"2025-04-09T05:15:48.354704805Z","domain":"sso-uat-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2025-04-09T03:33:57Z","to":"2025-07-08T03:33:56Z"}
+{"id":"10050285464","timestamp":"2025-04-09T12:17:16.935503709Z","domain":"open-science.canada.ca","issuer":"SSL.com","from":"2025-04-09T11:06:05Z","to":"2026-05-09T04:00:00Z"}
+{"id":"10050285464","timestamp":"2025-04-09T12:17:16.935504039Z","domain":"science-ouverte.canada.ca","issuer":"SSL.com","from":"2025-04-09T11:06:05Z","to":"2026-05-09T04:00:00Z"}
