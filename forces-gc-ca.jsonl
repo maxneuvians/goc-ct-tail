@@ -1041,3 +1041,6 @@
 {"id":"10000785947","timestamp":"2025-04-04T15:16:06.230494146Z","domain":"forces.gc.ca","issuer":"SSL.com","from":"2025-04-04T14:07:02Z","to":"2026-05-04T04:00:00Z"}
 {"id":"10000785947","timestamp":"2025-04-04T15:16:06.230494537Z","domain":"www.forces.gc.ca","issuer":"SSL.com","from":"2025-04-04T14:07:02Z","to":"2026-05-04T04:00:00Z"}
 {"id":"10000854833","timestamp":"2025-04-04T15:16:06.230494798Z","domain":"defense365.forces.gc.ca","issuer":"DigiCert","from":"2025-04-04T00:00:00Z","to":"2026-04-04T23:59:59Z"}
+{"id":"10073777568","timestamp":"2025-04-11T13:17:57.086930354Z","domain":"*.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-04-11T12:32:26Z","to":"2026-05-11T04:00:00Z"}
+{"id":"10073777568","timestamp":"2025-04-11T13:17:57.086930865Z","domain":"cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-04-11T12:32:26Z","to":"2026-05-11T04:00:00Z"}
+{"id":"10073894380","timestamp":"2025-04-11T13:17:57.086931105Z","domain":"efb-content-gateway.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-04-11T12:47:58Z","to":"2026-05-11T04:00:00Z"}
