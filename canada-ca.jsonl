@@ -8351,3 +8351,5 @@
 {"id":"10076058821","timestamp":"2025-04-11T17:15:13.997664806Z","domain":"*.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-04-11T17:02:25Z","to":"2026-05-11T04:00:00Z"}
 {"id":"10076058821","timestamp":"2025-04-11T17:15:13.997665117Z","domain":"test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-04-11T17:02:25Z","to":"2026-05-11T04:00:00Z"}
 {"id":"10077402811","timestamp":"2025-04-11T20:15:54.142371696Z","domain":"vault.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-11T18:33:59Z","to":"2025-07-10T18:33:58Z"}
+{"id":"10078113902","timestamp":"2025-04-11T21:15:26.751176108Z","domain":"finesse.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-11T19:47:38Z","to":"2025-07-10T19:47:37Z"}
+{"id":"10078120525","timestamp":"2025-04-11T21:15:26.75117674Z","domain":"finesse-backend.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-11T19:47:39Z","to":"2025-07-10T19:47:38Z"}
