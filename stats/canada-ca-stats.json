@@ -2146,7 +2146,9 @@
       "Amazon Trust Services": 2
     },
     "2025-04-12": {
-      "Google Trust Services": 1
+      "Google Trust Services": 1,
+      "DigiCert": 3,
+      "Let's Encrypt": 10
     }
   },
   "errors": []
