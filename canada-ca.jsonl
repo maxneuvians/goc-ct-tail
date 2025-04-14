@@ -8376,3 +8376,7 @@
 {"id":"10101522741","timestamp":"2025-04-14T04:16:08.15904461Z","domain":"canchat.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-04-14T00:00:00Z","to":"2025-10-14T23:59:59Z"}
 {"id":"10103482099","timestamp":"2025-04-14T08:16:36.058319275Z","domain":"blog.canada.ca","issuer":"Let's Encrypt","from":"2025-04-14T06:53:44Z","to":"2025-07-13T06:53:43Z"}
 {"id":"10103482099","timestamp":"2025-04-14T08:16:36.058319576Z","domain":"blog.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-14T06:53:44Z","to":"2025-07-13T06:53:43Z"}
+{"id":"10104258606","timestamp":"2025-04-14T10:16:05.486546642Z","domain":"api.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-14T08:36:14Z","to":"2025-07-13T08:36:13Z"}
+{"id":"10104258606","timestamp":"2025-04-14T10:16:05.486547323Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-14T08:36:14Z","to":"2025-07-13T08:36:13Z"}
+{"id":"10104258606","timestamp":"2025-04-14T10:16:05.486547624Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-14T08:36:14Z","to":"2025-07-13T08:36:13Z"}
+{"id":"10104258606","timestamp":"2025-04-14T10:16:05.486547884Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-14T08:36:14Z","to":"2025-07-13T08:36:13Z"}
