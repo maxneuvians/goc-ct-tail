@@ -8381,3 +8381,5 @@
 {"id":"10104258606","timestamp":"2025-04-14T10:16:05.486547624Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-14T08:36:14Z","to":"2025-07-13T08:36:13Z"}
 {"id":"10104258606","timestamp":"2025-04-14T10:16:05.486547884Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-14T08:36:14Z","to":"2025-07-13T08:36:13Z"}
 {"id":"10106084382","timestamp":"2025-04-14T14:15:45.699634921Z","domain":"preprod-cbp-usa.neics-nscei.canada.ca","issuer":"SSL.com","from":"2025-04-14T13:36:47Z","to":"2026-04-14T04:00:00Z"}
+{"id":"10106293698","timestamp":"2025-04-14T15:15:58.688275652Z","domain":"spc-approagile-avatar.canada.ca","issuer":"Let's Encrypt","from":"2025-04-14T13:20:24Z","to":"2025-07-13T13:20:23Z"}
+{"id":"10106293698","timestamp":"2025-04-14T15:15:58.688275953Z","domain":"ssc-agileprocurement-avatar.canada.ca","issuer":"Let's Encrypt","from":"2025-04-14T13:20:24Z","to":"2025-07-13T13:20:23Z"}
