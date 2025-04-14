@@ -8392,3 +8392,7 @@
 {"id":"10107628853","timestamp":"2025-04-14T18:16:38.344588283Z","domain":"service2.chat.canada.ca","issuer":"SSL.com","from":"2025-04-14T17:20:32Z","to":"2026-05-14T04:00:00Z"}
 {"id":"10107628853","timestamp":"2025-04-14T18:16:38.344588383Z","domain":"service3.chat.canada.ca","issuer":"SSL.com","from":"2025-04-14T17:20:32Z","to":"2026-05-14T04:00:00Z"}
 {"id":"10107628853","timestamp":"2025-04-14T18:16:38.344588473Z","domain":"service4.chat.canada.ca","issuer":"SSL.com","from":"2025-04-14T17:20:32Z","to":"2026-05-14T04:00:00Z"}
+{"id":"10108680497","timestamp":"2025-04-14T21:15:29.297680666Z","domain":"datalab.de-an.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-14T19:12:47Z","to":"2025-07-13T19:12:46Z"}
+{"id":"10108801457","timestamp":"2025-04-14T21:15:29.297681037Z","domain":"doc-to-html.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-14T19:33:27Z","to":"2025-07-13T19:33:26Z"}
+{"id":"10108874110","timestamp":"2025-04-14T21:15:29.297681237Z","domain":"ami.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-14T19:45:56Z","to":"2025-07-13T19:45:55Z"}
+{"id":"10108999225","timestamp":"2025-04-14T21:15:29.297681438Z","domain":"dask.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-14T20:06:19Z","to":"2025-07-13T20:06:18Z"}
