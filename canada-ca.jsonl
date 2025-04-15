@@ -8413,3 +8413,9 @@
 {"id":"10113987830","timestamp":"2025-04-15T10:15:59.62588185Z","domain":"www.ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-04-15T08:41:14Z","to":"2025-07-14T08:41:13Z"}
 {"id":"10115581274","timestamp":"2025-04-15T14:15:43.606617583Z","domain":"elvis-celine.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-15T00:00:00Z","to":"2026-05-14T23:59:59Z"}
 {"id":"10115608409","timestamp":"2025-04-15T14:15:43.606618464Z","domain":"elvis-celine.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-15T00:00:00Z","to":"2026-05-14T23:59:59Z"}
+{"id":"10116433276","timestamp":"2025-04-15T16:16:07.897160424Z","domain":"resource-catalogue.ws-wmackinnon.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-15T14:33:59Z","to":"2025-07-14T14:33:58Z"}
+{"id":"10116444839","timestamp":"2025-04-15T16:16:07.897160755Z","domain":"mlflow.ws-wmackinnon.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-15T14:33:59Z","to":"2025-07-14T14:33:58Z"}
+{"id":"10116481159","timestamp":"2025-04-15T16:16:07.897161025Z","domain":"uat.appels-rsdp.canada.ca","issuer":"SSL.com","from":"2025-04-15T15:31:25Z","to":"2026-05-15T04:00:00Z"}
+{"id":"10116481159","timestamp":"2025-04-15T16:16:07.897161256Z","domain":"uat.pdsp-appeals.canada.ca","issuer":"SSL.com","from":"2025-04-15T15:31:25Z","to":"2026-05-15T04:00:00Z"}
+{"id":"10116518939","timestamp":"2025-04-15T16:16:07.897161356Z","domain":"sct-tbs.canada.ca","issuer":"SSL.com","from":"2025-04-15T15:35:54Z","to":"2026-05-15T04:00:00Z"}
+{"id":"10116518939","timestamp":"2025-04-15T16:16:07.897162398Z","domain":"www.sct-tbs.canada.ca","issuer":"SSL.com","from":"2025-04-15T15:35:54Z","to":"2026-05-15T04:00:00Z"}
