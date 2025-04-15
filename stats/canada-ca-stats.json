@@ -2155,7 +2155,9 @@
       "Let's Encrypt": 2
     },
     "2025-04-14": {
-      "DigiCert": 1
+      "DigiCert": 1,
+      "Let's Encrypt": 13,
+      "SSL.com": 10
     }
   },
   "errors": []
