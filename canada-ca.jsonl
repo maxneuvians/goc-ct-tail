@@ -8419,3 +8419,5 @@
 {"id":"10116481159","timestamp":"2025-04-15T16:16:07.897161256Z","domain":"uat.pdsp-appeals.canada.ca","issuer":"SSL.com","from":"2025-04-15T15:31:25Z","to":"2026-05-15T04:00:00Z"}
 {"id":"10116518939","timestamp":"2025-04-15T16:16:07.897161356Z","domain":"sct-tbs.canada.ca","issuer":"SSL.com","from":"2025-04-15T15:35:54Z","to":"2026-05-15T04:00:00Z"}
 {"id":"10116518939","timestamp":"2025-04-15T16:16:07.897162398Z","domain":"www.sct-tbs.canada.ca","issuer":"SSL.com","from":"2025-04-15T15:35:54Z","to":"2026-05-15T04:00:00Z"}
+{"id":"10118068474","timestamp":"2025-04-15T20:15:56.115162408Z","domain":"gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-15T18:23:07Z","to":"2025-07-14T18:23:06Z"}
+{"id":"10118081403","timestamp":"2025-04-15T20:15:56.115162849Z","domain":"traefik.gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-15T18:23:12Z","to":"2025-07-14T18:23:11Z"}
