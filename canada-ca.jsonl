@@ -8402,3 +8402,12 @@
 {"id":"10113107553","timestamp":"2025-04-15T08:16:39.176100783Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-15T06:29:05Z","to":"2025-07-14T06:29:04Z"}
 {"id":"10113107553","timestamp":"2025-04-15T08:16:39.176100943Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-15T06:29:05Z","to":"2025-07-14T06:29:04Z"}
 {"id":"10113760142","timestamp":"2025-04-15T09:16:18.425512825Z","domain":"cms-git.experimentation.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-04-15T08:02:40Z","to":"2025-07-14T08:56:34Z"}
+{"id":"10113983132","timestamp":"2025-04-15T10:15:59.625879386Z","domain":"dol-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-04-15T08:39:55Z","to":"2025-07-14T08:39:54Z"}
+{"id":"10113987830","timestamp":"2025-04-15T10:15:59.625879847Z","domain":"navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-04-15T08:41:14Z","to":"2025-07-14T08:41:13Z"}
+{"id":"10113987830","timestamp":"2025-04-15T10:15:59.625880117Z","domain":"navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-04-15T08:41:14Z","to":"2025-07-14T08:41:13Z"}
+{"id":"10113987830","timestamp":"2025-04-15T10:15:59.625880388Z","domain":"ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-04-15T08:41:14Z","to":"2025-07-14T08:41:13Z"}
+{"id":"10113987830","timestamp":"2025-04-15T10:15:59.625880468Z","domain":"ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-04-15T08:41:14Z","to":"2025-07-14T08:41:13Z"}
+{"id":"10113987830","timestamp":"2025-04-15T10:15:59.62588162Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-04-15T08:41:14Z","to":"2025-07-14T08:41:13Z"}
+{"id":"10113987830","timestamp":"2025-04-15T10:15:59.6258817Z","domain":"www.navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-04-15T08:41:14Z","to":"2025-07-14T08:41:13Z"}
+{"id":"10113987830","timestamp":"2025-04-15T10:15:59.62588178Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-04-15T08:41:14Z","to":"2025-07-14T08:41:13Z"}
+{"id":"10113987830","timestamp":"2025-04-15T10:15:59.62588185Z","domain":"www.ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-04-15T08:41:14Z","to":"2025-07-14T08:41:13Z"}
