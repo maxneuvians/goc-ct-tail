@@ -8427,3 +8427,5 @@
 {"id":"10126112101","timestamp":"2025-04-16T15:16:01.651646662Z","domain":"flood-risk-portal.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-04-16T13:48:20Z","to":"2025-07-15T13:48:19Z"}
 {"id":"10126112101","timestamp":"2025-04-16T15:16:01.651646963Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-16T13:48:20Z","to":"2025-07-15T13:48:19Z"}
 {"id":"10126198869","timestamp":"2025-04-16T15:16:01.651647193Z","domain":"translator.stats.exp.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-04-16T00:00:00Z","to":"2025-10-16T23:59:59Z"}
+{"id":"10126811895","timestamp":"2025-04-16T17:15:13.774371309Z","domain":"api.io.canada.ca","issuer":"Let's Encrypt","from":"2025-04-16T15:23:27Z","to":"2025-07-15T15:23:26Z"}
+{"id":"10126811895","timestamp":"2025-04-16T17:15:13.77437171Z","domain":"api-test.io.canada.ca","issuer":"Let's Encrypt","from":"2025-04-16T15:23:27Z","to":"2025-07-15T15:23:26Z"}
