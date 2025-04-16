@@ -2158,6 +2158,12 @@
       "DigiCert": 1,
       "Let's Encrypt": 13,
       "SSL.com": 10
+    },
+    "2025-04-15": {
+      "Let's Encrypt": 17,
+      "Google Trust Services": 1,
+      "Amazon Trust Services": 2,
+      "SSL.com": 4
     }
   },
   "errors": []
