@@ -8424,3 +8424,6 @@
 {"id":"10124333217","timestamp":"2025-04-16T11:15:06.593613585Z","domain":"staticwebsite.blueprint.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-04-16T09:32:39Z","to":"2025-07-15T10:27:14Z"}
 {"id":"10125302424","timestamp":"2025-04-16T13:18:56.900920755Z","domain":"appels-rsdp.canada.ca","issuer":"SSL.com","from":"2025-04-16T12:42:48Z","to":"2026-05-16T04:00:00Z"}
 {"id":"10125302424","timestamp":"2025-04-16T13:18:56.900921236Z","domain":"pdsp-appeals.canada.ca","issuer":"SSL.com","from":"2025-04-16T12:42:48Z","to":"2026-05-16T04:00:00Z"}
+{"id":"10126112101","timestamp":"2025-04-16T15:16:01.651646662Z","domain":"flood-risk-portal.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-04-16T13:48:20Z","to":"2025-07-15T13:48:19Z"}
+{"id":"10126112101","timestamp":"2025-04-16T15:16:01.651646963Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-16T13:48:20Z","to":"2025-07-15T13:48:19Z"}
+{"id":"10126198869","timestamp":"2025-04-16T15:16:01.651647193Z","domain":"translator.stats.exp.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-04-16T00:00:00Z","to":"2025-10-16T23:59:59Z"}
