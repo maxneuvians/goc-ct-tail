@@ -511,3 +511,13 @@
 {"id":"10117726114","timestamp":"2025-04-15T18:38:50.92473937Z","domain":"georgie.test.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-04-15T17:31:32Z","to":"2025-07-14T17:31:31Z"}
 {"id":"10125655795","timestamp":"2025-04-16T14:36:33.418561294Z","domain":"nctns.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-04-16T12:45:55Z","to":"2025-07-15T12:45:54Z"}
 {"id":"10125655795","timestamp":"2025-04-16T14:36:33.418561784Z","domain":"test.notifications.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-04-16T12:45:55Z","to":"2025-07-15T12:45:54Z"}
+{"id":"10126472418","timestamp":"2025-04-16T16:40:16.136290226Z","domain":"georgie.test2.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-04-16T14:41:50Z","to":"2025-07-15T14:41:49Z"}
+{"id":"10126475605","timestamp":"2025-04-16T16:40:16.136290696Z","domain":"test.nctns.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-04-16T14:42:11Z","to":"2025-07-15T14:42:10Z"}
+{"id":"10126475605","timestamp":"2025-04-16T16:40:16.136290927Z","domain":"test.notifications.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-04-16T14:42:11Z","to":"2025-07-15T14:42:10Z"}
+{"id":"10126485740","timestamp":"2025-04-16T16:40:16.136291188Z","domain":"*.3mydomain.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-04-16T14:41:28Z","to":"2025-07-15T14:41:27Z"}
+{"id":"10126485740","timestamp":"2025-04-16T16:40:16.136291268Z","domain":"mydomain3.mycert.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-04-16T14:41:28Z","to":"2025-07-15T14:41:27Z"}
+{"id":"10126523132","timestamp":"2025-04-16T16:40:16.136292279Z","domain":"test.nctns.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-04-16T14:48:10Z","to":"2025-07-15T14:48:09Z"}
+{"id":"10126523132","timestamp":"2025-04-16T16:40:16.13629236Z","domain":"test.notifications.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-04-16T14:48:10Z","to":"2025-07-15T14:48:09Z"}
+{"id":"10126525557","timestamp":"2025-04-16T16:40:16.13629244Z","domain":"georgie.test2.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-04-16T14:47:56Z","to":"2025-07-15T14:47:55Z"}
+{"id":"10126540066","timestamp":"2025-04-16T16:40:16.13629253Z","domain":"*.3mydomain.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-04-16T14:47:46Z","to":"2025-07-15T14:47:45Z"}
+{"id":"10126540066","timestamp":"2025-04-16T16:40:16.136293482Z","domain":"mydomain3.mycert.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-04-16T14:47:46Z","to":"2025-07-15T14:47:45Z"}
