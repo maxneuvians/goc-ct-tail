@@ -8513,3 +8513,8 @@
 {"id":"10138389740","timestamp":"2025-04-18T16:16:14.060569939Z","domain":"uvupdatertest.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
 {"id":"10142863665","timestamp":"2025-04-18T16:16:14.060570069Z","domain":"kubernetes-dashboard-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-04-18T02:44:50Z","to":"2025-07-17T02:44:49Z"}
 {"id":"10146023504","timestamp":"2025-04-18T16:16:14.06057018Z","domain":"suggestion.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-18T10:24:19Z","to":"2025-07-17T10:24:18Z"}
+{"id":"10148513015","timestamp":"2025-04-18T17:15:12.878052177Z","domain":"*.d2.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-18T16:02:59Z","to":"2025-07-17T16:02:58Z"}
+{"id":"10148513015","timestamp":"2025-04-18T17:15:12.878052638Z","domain":"*.dev.d2.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-18T16:02:59Z","to":"2025-07-17T16:02:58Z"}
+{"id":"10148513015","timestamp":"2025-04-18T17:15:12.878052869Z","domain":"*.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-18T16:02:59Z","to":"2025-07-17T16:02:58Z"}
+{"id":"10148513015","timestamp":"2025-04-18T17:15:12.878053129Z","domain":"gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-18T16:02:59Z","to":"2025-07-17T16:02:58Z"}
+{"id":"10148513015","timestamp":"2025-04-18T17:15:12.87805323Z","domain":"*.test.d2.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-18T16:02:59Z","to":"2025-07-17T16:02:58Z"}
