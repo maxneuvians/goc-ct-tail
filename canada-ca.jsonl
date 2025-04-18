@@ -8443,3 +8443,73 @@
 {"id":"10133932238","timestamp":"2025-04-17T09:15:58.638060299Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-17T06:31:40Z","to":"2025-07-16T06:31:39Z"}
 {"id":"10135134080","timestamp":"2025-04-17T11:15:09.6852093Z","domain":"compte-collaboration-account.international.canada.ca","issuer":"DigiCert","from":"2025-04-17T00:00:00Z","to":"2025-10-11T23:59:59Z"}
 {"id":"10135982837","timestamp":"2025-04-17T13:18:11.790954154Z","domain":"cms-repo.experimentation.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-04-17T11:45:42Z","to":"2025-07-16T12:39:38Z"}
+{"id":"10136518902","timestamp":"2025-04-18T16:16:14.060553388Z","domain":"helloweb.mgmt.dlxryc.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-04-17T11:20:08Z","to":"2025-07-16T12:13:22Z"}
+{"id":"10136536118","timestamp":"2025-04-18T16:16:14.060553899Z","domain":"resource-catalogue.ws-hfawzy.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-17T13:02:38Z","to":"2025-07-16T13:02:37Z"}
+{"id":"10136538286","timestamp":"2025-04-18T16:16:14.06055423Z","domain":"mlflow.ws-hfawzy.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-17T13:02:37Z","to":"2025-07-16T13:02:36Z"}
+{"id":"10136663790","timestamp":"2025-04-18T16:16:14.06055452Z","domain":"mlflow.ws-lstonge.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-17T13:22:57Z","to":"2025-07-16T13:22:56Z"}
+{"id":"10136664035","timestamp":"2025-04-18T16:16:14.06055463Z","domain":"resource-catalogue.ws-lstonge.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-17T13:22:58Z","to":"2025-07-16T13:22:57Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060555933Z","domain":"cic.gc.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060556043Z","domain":"cic.gslb.global.gc.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060556143Z","domain":"ci.gc.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060556233Z","domain":"citizenship.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060557275Z","domain":"citoyennete.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060557365Z","domain":"etablissement.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060557476Z","domain":"goingtocanada.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060557566Z","domain":"immigration.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060557666Z","domain":"ircc.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060557756Z","domain":"passeport.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060557846Z","domain":"passport.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060557937Z","domain":"refugees.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060558027Z","domain":"refugies.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060559399Z","domain":"serendreaucanada.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.06055952Z","domain":"servicesfornewcomers.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.06055961Z","domain":"servicesfornewcomers.cic.gc.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.06055971Z","domain":"servicespourlesnouveauxarrivants.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.0605598Z","domain":"servicespourlesnouveauxarrivants.cic.gc.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.0605599Z","domain":"settlement.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.06056Z","domain":"www.cic.gc.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060560081Z","domain":"www.cic.gslb.global.gc.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060560171Z","domain":"www.ci.gc.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060560271Z","domain":"www.citizenship.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060560371Z","domain":"www.citoyennete.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060560471Z","domain":"www.etablissement.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060560571Z","domain":"www.goingtocanada.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060560662Z","domain":"www.immigration.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060560752Z","domain":"www.ircc.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060560852Z","domain":"www.passeport.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060561123Z","domain":"www.passport.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060561213Z","domain":"www.refugees.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060561303Z","domain":"www.refugies.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060561393Z","domain":"www.serendreaucanada.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060561483Z","domain":"www.servicesfornewcomers.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060561583Z","domain":"www.servicesfornewcomers.cic.gc.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060567404Z","domain":"www.servicespourlesnouveauxarrivants.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060567504Z","domain":"www.servicespourlesnouveauxarrivants.cic.gc.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10137459434","timestamp":"2025-04-18T16:16:14.060567595Z","domain":"www.settlement.canada.ca","issuer":"SSL.com","from":"2025-04-17T15:57:05Z","to":"2026-05-17T04:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060567715Z","domain":"aks.gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060567805Z","domain":"app.gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060567925Z","domain":"biocides-uat.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060568016Z","domain":"cvn-test.canada.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060568116Z","domain":"*.dt.avs-sav.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060568206Z","domain":"*.dt.gateway-passerelle-2.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060568296Z","domain":"*.dt.gateway-passerelle.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060568386Z","domain":"gateway-passerelle-2.dev.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060568476Z","domain":"gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060568566Z","domain":"gateway-passerelle-2.uat.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060568657Z","domain":"gateway-passerelle-2.uat.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060568747Z","domain":"*.gateway-passerelle.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060568837Z","domain":"hcscb2cdev.gateway-passerelle.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060568927Z","domain":"hcscb2cuat.gateway-passerelle.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060569017Z","domain":"infra.gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060569107Z","domain":"lzaks.gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060569198Z","domain":"lzapp.gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060569288Z","domain":"lz.gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060569378Z","domain":"lz.gateway-passerelle-2.uat.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060569468Z","domain":"lzinfra.gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060569568Z","domain":"lzinfra.gateway-passerelle-2.uat.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060569659Z","domain":"nvc-cnv-test.canada.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060569749Z","domain":"nvc-drt.dev.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060569839Z","domain":"sgpp-dt.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10138389740","timestamp":"2025-04-18T16:16:14.060569939Z","domain":"uvupdatertest.hc-sc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:39:39Z","to":"2026-01-06T05:00:00Z"}
+{"id":"10142863665","timestamp":"2025-04-18T16:16:14.060570069Z","domain":"kubernetes-dashboard-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-04-18T02:44:50Z","to":"2025-07-17T02:44:49Z"}
+{"id":"10146023504","timestamp":"2025-04-18T16:16:14.06057018Z","domain":"suggestion.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-18T10:24:19Z","to":"2025-07-17T10:24:18Z"}
