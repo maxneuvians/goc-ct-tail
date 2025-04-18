@@ -2170,6 +2170,11 @@
       "SSL.com": 4,
       "Let's Encrypt": 5,
       "DigiCert": 1
+    },
+    "2025-04-17": {
+      "Let's Encrypt": 9,
+      "DigiCert": 1,
+      "Google Trust Services": 1
     }
   },
   "errors": []
