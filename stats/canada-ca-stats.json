@@ -2172,9 +2172,13 @@
       "DigiCert": 1
     },
     "2025-04-17": {
-      "Let's Encrypt": 9,
+      "Let's Encrypt": 13,
       "DigiCert": 1,
-      "Google Trust Services": 1
+      "Google Trust Services": 2,
+      "SSL.com": 63
+    },
+    "2025-04-18": {
+      "Let's Encrypt": 7
     }
   },
   "errors": []
