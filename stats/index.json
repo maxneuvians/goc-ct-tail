@@ -35,13 +35,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 8520,
+      "totalCertificates": 8522,
       "totalsByIssuer": {
         "Entrust": 2525,
         "Amazon Trust Services": 725,
         "DigiCert": 420,
         "GoDaddy": 12,
-        "Let's Encrypt": 3585,
+        "Let's Encrypt": 3587,
         "Google Trust Services": 151,
         "Sectigo": 192,
         "SSL.com": 910
@@ -205,11 +205,11 @@
     {
       "inputFile": "dfo-mpo-gc-ca.jsonl",
       "outputFile": "stats/dfo-mpo-gc-ca-stats.json",
-      "totalCertificates": 915,
+      "totalCertificates": 916,
       "totalsByIssuer": {
         "Entrust": 332,
         "DigiCert": 30,
-        "Let's Encrypt": 242,
+        "Let's Encrypt": 243,
         "SSL.com": 311
       },
       "errorCount": 0
@@ -390,13 +390,13 @@
     {
       "inputFile": "nrcan-gc-ca.jsonl",
       "outputFile": "stats/nrcan-gc-ca-stats.json",
-      "totalCertificates": 10080,
+      "totalCertificates": 10088,
       "totalsByIssuer": {
-        "Amazon Trust Services": 30,
+        "Amazon Trust Services": 32,
         "Entrust": 460,
         "DigiCert": 20,
         "Let's Encrypt": 3794,
-        "Sectigo": 5553,
+        "Sectigo": 5559,
         "SSL.com": 223
       },
       "errorCount": 0
@@ -585,10 +585,10 @@
     {
       "inputFile": "tbs-sct-gc-ca.jsonl",
       "outputFile": "stats/tbs-sct-gc-ca-stats.json",
-      "totalCertificates": 456,
+      "totalCertificates": 457,
       "totalsByIssuer": {
         "Entrust": 166,
-        "DigiCert": 242,
+        "DigiCert": 243,
         "SSL.com": 48
       },
       "errorCount": 0
@@ -650,13 +650,13 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 2395,
-    "Let's Encrypt": 10245,
+    "Amazon Trust Services": 2397,
+    "Let's Encrypt": 10248,
     "SSL.com": 3442,
-    "DigiCert": 1354,
+    "DigiCert": 1355,
     "GoDaddy": 64,
     "Google Trust Services": 293,
-    "Sectigo": 5795,
+    "Sectigo": 5801,
     "Entrust Limited": 12,
     "GlobalSign": 2
   }
