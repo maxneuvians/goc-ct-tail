@@ -8539,3 +8539,11 @@
 {"id":"10189082684","timestamp":"2025-04-22T14:15:46.093615527Z","domain":"cicp-pcid.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-22T00:00:00Z","to":"2026-05-21T23:59:59Z"}
 {"id":"10189144833","timestamp":"2025-04-22T14:15:46.093615777Z","domain":"cicp-pcip-calc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-22T00:00:00Z","to":"2026-05-21T23:59:59Z"}
 {"id":"10189146000","timestamp":"2025-04-22T14:15:46.093616028Z","domain":"cicp-pcid.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-22T00:00:00Z","to":"2026-05-21T23:59:59Z"}
+{"id":"10190953801","timestamp":"2025-04-22T18:16:36.924240478Z","domain":"grafana.aafciot.exp.science.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-22T00:00:00Z","to":"2026-05-21T23:59:59Z"}
+{"id":"10190955816","timestamp":"2025-04-22T18:16:36.924240798Z","domain":"chirpstack.aafciot.exp.science.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-22T00:00:00Z","to":"2026-05-21T23:59:59Z"}
+{"id":"10191081728","timestamp":"2025-04-22T18:16:36.924240959Z","domain":"grafana.aafciot.exp.science.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-22T00:00:00Z","to":"2026-05-21T23:59:59Z"}
+{"id":"10191088663","timestamp":"2025-04-22T18:16:36.924241109Z","domain":"chirpstack.aafciot.exp.science.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-22T00:00:00Z","to":"2026-05-21T23:59:59Z"}
+{"id":"10191132198","timestamp":"2025-04-22T18:16:36.924241189Z","domain":"bureau-concurrence.canada.ca","issuer":"SSL.com","from":"2025-04-22T17:34:57Z","to":"2026-05-22T04:00:00Z"}
+{"id":"10191132198","timestamp":"2025-04-22T18:16:36.92424189Z","domain":"competition-bureau.canada.ca","issuer":"SSL.com","from":"2025-04-22T17:34:57Z","to":"2026-05-22T04:00:00Z"}
+{"id":"10191132198","timestamp":"2025-04-22T18:16:36.924241961Z","domain":"www.bureau-concurrence.canada.ca","issuer":"SSL.com","from":"2025-04-22T17:34:57Z","to":"2026-05-22T04:00:00Z"}
+{"id":"10191132198","timestamp":"2025-04-22T18:16:36.924242031Z","domain":"www.competition-bureau.canada.ca","issuer":"SSL.com","from":"2025-04-22T17:34:57Z","to":"2026-05-22T04:00:00Z"}
