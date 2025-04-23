@@ -8553,3 +8553,5 @@
 {"id":"10191591875","timestamp":"2025-04-22T19:15:14.72079312Z","domain":"grafana.aafciot.exp.science.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-22T00:00:00Z","to":"2026-05-21T23:59:59Z"}
 {"id":"10191693885","timestamp":"2025-04-22T19:15:14.72079327Z","domain":"talent.canada.ca","issuer":"SSL.com","from":"2025-04-22T18:40:49Z","to":"2026-05-22T04:00:00Z"}
 {"id":"10191693885","timestamp":"2025-04-22T19:15:14.720794322Z","domain":"www.talent.canada.ca","issuer":"SSL.com","from":"2025-04-22T18:40:49Z","to":"2026-05-22T04:00:00Z"}
+{"id":"10196473679","timestamp":"2025-04-23T05:15:46.443085034Z","domain":"*.uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-23T03:31:14Z","to":"2025-07-22T03:31:13Z"}
+{"id":"10196473679","timestamp":"2025-04-23T05:15:46.443085355Z","domain":"uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-23T03:31:14Z","to":"2025-07-22T03:31:13Z"}
