@@ -8573,3 +8573,5 @@
 {"id":"10210193514","timestamp":"2025-04-24T08:16:35.966679005Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-24T06:31:43Z","to":"2025-07-23T06:31:42Z"}
 {"id":"10210193514","timestamp":"2025-04-24T08:16:35.966679506Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-24T06:31:43Z","to":"2025-07-23T06:31:42Z"}
 {"id":"10211075305","timestamp":"2025-04-24T10:16:05.397719173Z","domain":"auth-cate-cer.canada.ca","issuer":"DigiCert","from":"2025-04-24T00:00:00Z","to":"2025-10-15T23:59:59Z"}
+{"id":"10215343201","timestamp":"2025-04-24T18:16:30.235843602Z","domain":"inspections-medicaments.canada.ca","issuer":"SSL.com","from":"2025-04-24T17:46:35Z","to":"2026-05-24T04:00:00Z"}
+{"id":"10215343201","timestamp":"2025-04-24T18:16:30.235843923Z","domain":"www.inspections-medicaments.canada.ca","issuer":"SSL.com","from":"2025-04-24T17:46:35Z","to":"2026-05-24T04:00:00Z"}
