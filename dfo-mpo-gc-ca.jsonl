@@ -916,3 +916,9 @@
 {"id":"10159443462","timestamp":"2025-04-19T20:26:23.921374943Z","domain":"neptune.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-04-19T19:10:51Z","to":"2025-07-18T19:10:50Z"}
 {"id":"10169278270","timestamp":"2025-04-20T19:23:43.110229342Z","domain":"prediction.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-04-20T17:50:25Z","to":"2025-07-19T17:50:24Z"}
 {"id":"10169304908","timestamp":"2025-04-20T19:23:43.110229822Z","domain":"neptune.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-04-20T17:55:20Z","to":"2025-07-19T17:55:19Z"}
+{"id":"10215426423","timestamp":"2025-04-24T18:29:24.524405288Z","domain":"app-gg-ef.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-04-24T17:58:03Z","to":"2026-05-24T04:00:00Z"}
+{"id":"10215426423","timestamp":"2025-04-24T18:29:24.524405809Z","domain":"gg-ef.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-04-24T17:58:03Z","to":"2026-05-24T04:00:00Z"}
+{"id":"10215426423","timestamp":"2025-04-24T18:29:24.524406079Z","domain":"gg-ef-uat.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-04-24T17:58:03Z","to":"2026-05-24T04:00:00Z"}
+{"id":"10215426423","timestamp":"2025-04-24T18:29:24.52440638Z","domain":"pwaapp.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-04-24T17:58:03Z","to":"2026-05-24T04:00:00Z"}
+{"id":"10215426423","timestamp":"2025-04-24T18:29:24.52440649Z","domain":"pwaapp-uat.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-04-24T17:58:03Z","to":"2026-05-24T04:00:00Z"}
+{"id":"10215426423","timestamp":"2025-04-24T18:29:24.524407772Z","domain":"www.gg-ef.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-04-24T17:58:03Z","to":"2026-05-24T04:00:00Z"}
