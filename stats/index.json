@@ -35,14 +35,14 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 8555,
+      "totalCertificates": 8572,
       "totalsByIssuer": {
         "Entrust": 2525,
         "Amazon Trust Services": 737,
         "DigiCert": 421,
         "GoDaddy": 12,
-        "Let's Encrypt": 3601,
-        "Google Trust Services": 151,
+        "Let's Encrypt": 3617,
+        "Google Trust Services": 152,
         "Sectigo": 192,
         "SSL.com": 916
       },
@@ -81,10 +81,10 @@
     {
       "inputFile": "cbsa-asfc-gc-ca.jsonl",
       "outputFile": "stats/cbsa-asfc-gc-ca-stats.json",
-      "totalCertificates": 125,
+      "totalCertificates": 136,
       "totalsByIssuer": {
         "Entrust": 113,
-        "SSL.com": 12
+        "SSL.com": 23
       },
       "errorCount": 0
     },
@@ -133,9 +133,9 @@
     {
       "inputFile": "cmhc-schl-gc-ca.jsonl",
       "outputFile": "stats/cmhc-schl-gc-ca-stats.json",
-      "totalCertificates": 504,
+      "totalCertificates": 507,
       "totalsByIssuer": {
-        "DigiCert": 463,
+        "DigiCert": 466,
         "Entrust": 4,
         "Sectigo": 12,
         "Let's Encrypt": 5,
@@ -147,10 +147,10 @@
     {
       "inputFile": "cra-arc-gc-ca.jsonl",
       "outputFile": "stats/cra-arc-gc-ca-stats.json",
-      "totalCertificates": 181,
+      "totalCertificates": 193,
       "totalsByIssuer": {
         "Entrust": 144,
-        "SSL.com": 37
+        "SSL.com": 49
       },
       "errorCount": 0
     },
@@ -227,12 +227,12 @@
     {
       "inputFile": "forces-gc-ca.jsonl",
       "outputFile": "stats/forces-gc-ca-stats.json",
-      "totalCertificates": 1052,
+      "totalCertificates": 1053,
       "totalsByIssuer": {
         "Amazon Trust Services": 240,
         "Entrust": 249,
         "DigiCert": 22,
-        "SSL.com": 40,
+        "SSL.com": 41,
         "Let's Encrypt": 489,
         "Google Trust Services": 12
       },
@@ -353,13 +353,13 @@
     {
       "inputFile": "justice-gc-ca.jsonl",
       "outputFile": "stats/justice-gc-ca-stats.json",
-      "totalCertificates": 289,
+      "totalCertificates": 297,
       "totalsByIssuer": {
         "Entrust": 155,
         "DigiCert": 10,
         "Amazon Trust Services": 2,
         "Let's Encrypt": 42,
-        "SSL.com": 80
+        "SSL.com": 88
       },
       "errorCount": 0
     },
@@ -425,10 +425,10 @@
     {
       "inputFile": "otc-cta-gc-ca.jsonl",
       "outputFile": "stats/otc-cta-gc-ca-stats.json",
-      "totalCertificates": 70,
+      "totalCertificates": 75,
       "totalsByIssuer": {
         "Entrust": 49,
-        "SSL.com": 21
+        "SSL.com": 26
       },
       "errorCount": 0
     },
@@ -574,10 +574,10 @@
     {
       "inputFile": "statcan-gc-ca.jsonl",
       "outputFile": "stats/statcan-gc-ca-stats.json",
-      "totalCertificates": 549,
+      "totalCertificates": 550,
       "totalsByIssuer": {
         "Entrust": 344,
-        "Let's Encrypt": 116,
+        "Let's Encrypt": 117,
         "SSL.com": 89
       },
       "errorCount": 0
@@ -596,12 +596,12 @@
     {
       "inputFile": "tc-gc-ca.jsonl",
       "outputFile": "stats/tc-gc-ca-stats.json",
-      "totalCertificates": 255,
+      "totalCertificates": 256,
       "totalsByIssuer": {
         "Entrust": 154,
         "DigiCert": 11,
         "Let's Encrypt": 69,
-        "SSL.com": 21
+        "SSL.com": 22
       },
       "errorCount": 0
     },
@@ -651,11 +651,11 @@
   "grandTotalByIssuer": {
     "Entrust": 11243,
     "Amazon Trust Services": 2422,
-    "Let's Encrypt": 10362,
-    "SSL.com": 3454,
-    "DigiCert": 1360,
+    "Let's Encrypt": 10379,
+    "SSL.com": 3492,
+    "DigiCert": 1363,
     "GoDaddy": 64,
-    "Google Trust Services": 293,
+    "Google Trust Services": 294,
     "Sectigo": 5803,
     "Entrust Limited": 12,
     "GlobalSign": 2
