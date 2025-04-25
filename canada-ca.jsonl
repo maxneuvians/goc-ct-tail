@@ -8579,3 +8579,8 @@
 {"id":"10215835180","timestamp":"2025-04-24T19:15:25.213755453Z","domain":"radon.innovation.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-24T00:00:00Z","to":"2026-05-23T23:59:59Z"}
 {"id":"10222454392","timestamp":"2025-04-25T10:15:50.197386932Z","domain":"policy-community.canada.ca","issuer":"Google Trust Services","from":"2025-04-25T08:19:43Z","to":"2025-07-24T09:19:40Z"}
 {"id":"10222454684","timestamp":"2025-04-25T10:15:50.197387413Z","domain":"policy-community.canada.ca","issuer":"Google Trust Services","from":"2025-04-25T08:19:35Z","to":"2025-07-24T09:18:22Z"}
+{"id":"10223439386","timestamp":"2025-04-25T12:17:12.740527257Z","domain":"*.swac-wsca.service.canada.ca","issuer":"SSL.com","from":"2025-04-25T11:26:31Z","to":"2026-04-25T11:35:00Z"}
+{"id":"10223467854","timestamp":"2025-04-25T12:17:12.740527657Z","domain":"beneficiaire-infrastructure.canada.ca","issuer":"SSL.com","from":"2025-04-25T11:31:28Z","to":"2026-05-12T16:54:26Z"}
+{"id":"10223467854","timestamp":"2025-04-25T12:17:12.740527888Z","domain":"beneficiaire-infrastructure-preprod.canada.ca","issuer":"SSL.com","from":"2025-04-25T11:31:28Z","to":"2026-05-12T16:54:26Z"}
+{"id":"10223467854","timestamp":"2025-04-25T12:17:12.740528068Z","domain":"infrastructure-recipient.canada.ca","issuer":"SSL.com","from":"2025-04-25T11:31:28Z","to":"2026-05-12T16:54:26Z"}
+{"id":"10223467854","timestamp":"2025-04-25T12:17:12.740528148Z","domain":"infrastructure-recipient-preprod.canada.ca","issuer":"SSL.com","from":"2025-04-25T11:31:28Z","to":"2026-05-12T16:54:26Z"}
