@@ -8597,3 +8597,8 @@
 {"id":"10224087108","timestamp":"2025-04-25T13:18:28.294049011Z","domain":"www.immigration.gc.ca","issuer":"SSL.com","from":"2025-04-25T12:57:41Z","to":"2026-05-17T04:00:00Z"}
 {"id":"10224087108","timestamp":"2025-04-25T13:18:28.294049091Z","domain":"www.ircc.canada.ca","issuer":"SSL.com","from":"2025-04-25T12:57:41Z","to":"2026-05-17T04:00:00Z"}
 {"id":"10225417744","timestamp":"2025-04-25T17:15:08.772251079Z","domain":"*.dev.cbsa-asfc-az.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-04-25T16:11:17Z","to":"2026-05-25T04:00:00Z"}
+{"id":"10226006325","timestamp":"2025-04-25T18:16:37.293702505Z","domain":"*.aurora.ssc-dev-iso-isiem-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-25T16:38:26Z","to":"2025-07-24T16:38:25Z"}
+{"id":"10226006325","timestamp":"2025-04-25T18:16:37.293702966Z","domain":"*.ssc-dev-iso-isiem-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-25T16:38:26Z","to":"2025-07-24T16:38:25Z"}
+{"id":"10226250990","timestamp":"2025-04-25T18:16:37.293703307Z","domain":"ca-central-1.secure.g7-dev.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-25T00:00:00Z","to":"2026-05-24T23:59:59Z"}
+{"id":"10226251024","timestamp":"2025-04-25T18:16:37.293703567Z","domain":"g7-dev.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-25T00:00:00Z","to":"2026-05-24T23:59:59Z"}
+{"id":"10226251055","timestamp":"2025-04-25T18:16:37.293703688Z","domain":"ca-west-1.secure.g7-dev.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-25T00:00:00Z","to":"2026-05-24T23:59:59Z"}
