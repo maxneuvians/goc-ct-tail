@@ -8602,3 +8602,8 @@
 {"id":"10226250990","timestamp":"2025-04-25T18:16:37.293703307Z","domain":"ca-central-1.secure.g7-dev.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-25T00:00:00Z","to":"2026-05-24T23:59:59Z"}
 {"id":"10226251024","timestamp":"2025-04-25T18:16:37.293703567Z","domain":"g7-dev.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-25T00:00:00Z","to":"2026-05-24T23:59:59Z"}
 {"id":"10226251055","timestamp":"2025-04-25T18:16:37.293703688Z","domain":"ca-west-1.secure.g7-dev.canada.ca","issuer":"Amazon Trust Services","from":"2025-04-25T00:00:00Z","to":"2026-05-24T23:59:59Z"}
+{"id":"10226872551","timestamp":"2025-04-25T20:15:53.883006389Z","domain":"www134.canafe-fintrac.canada.ca","issuer":"SSL.com","from":"2025-04-25T19:16:18Z","to":"2025-07-10T15:55:15Z"}
+{"id":"10226872551","timestamp":"2025-04-25T20:15:53.88300669Z","domain":"www134.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-04-25T19:16:18Z","to":"2025-07-10T15:55:15Z"}
+{"id":"10226872551","timestamp":"2025-04-25T20:15:53.88300689Z","domain":"www137.canafe-fintrac.canada.ca","issuer":"SSL.com","from":"2025-04-25T19:16:18Z","to":"2025-07-10T15:55:15Z"}
+{"id":"10226872551","timestamp":"2025-04-25T20:15:53.883007071Z","domain":"www137.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-04-25T19:16:18Z","to":"2025-07-10T15:55:15Z"}
+{"id":"10226932398","timestamp":"2025-04-25T20:15:53.883007191Z","domain":"aur.aurora.ssc-dev-iso-isiem-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-04-25T18:36:05Z","to":"2025-07-24T18:36:04Z"}
