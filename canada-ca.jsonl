@@ -8610,3 +8610,5 @@
 {"id":"10227650978","timestamp":"2025-04-25T22:15:36.574139181Z","domain":"mlflow.ws-arctic.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-25T20:25:05Z","to":"2025-07-24T20:25:04Z"}
 {"id":"10227651225","timestamp":"2025-04-25T22:15:36.574139491Z","domain":"resource-catalogue.ws-arctic.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-25T20:25:05Z","to":"2025-07-24T20:25:04Z"}
 {"id":"10233886227","timestamp":"2025-04-26T11:14:49.873896838Z","domain":"auth.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-04-26T00:00:00Z","to":"2025-10-26T23:59:59Z"}
+{"id":"10236469347","timestamp":"2025-04-26T18:16:18.729702758Z","domain":"budget.canada.ca","issuer":"DigiCert","from":"2025-04-26T00:00:00Z","to":"2025-10-26T23:59:59Z"}
+{"id":"10236578864","timestamp":"2025-04-26T18:16:18.729703108Z","domain":"apim-dev.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-04-26T00:00:00Z","to":"2025-10-26T23:59:59Z"}
