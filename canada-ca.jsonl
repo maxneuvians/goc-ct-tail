@@ -8612,3 +8612,7 @@
 {"id":"10233886227","timestamp":"2025-04-26T11:14:49.873896838Z","domain":"auth.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-04-26T00:00:00Z","to":"2025-10-26T23:59:59Z"}
 {"id":"10236469347","timestamp":"2025-04-26T18:16:18.729702758Z","domain":"budget.canada.ca","issuer":"DigiCert","from":"2025-04-26T00:00:00Z","to":"2025-10-26T23:59:59Z"}
 {"id":"10236578864","timestamp":"2025-04-26T18:16:18.729703108Z","domain":"apim-dev.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-04-26T00:00:00Z","to":"2025-10-26T23:59:59Z"}
+{"id":"10245597317","timestamp":"2025-04-27T19:15:05.286166854Z","domain":"*.np.p.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-04-27T17:21:11Z","to":"2025-07-26T18:20:51Z"}
+{"id":"10245597317","timestamp":"2025-04-27T19:15:05.286167224Z","domain":"np.p.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-04-27T17:21:11Z","to":"2025-07-26T18:20:51Z"}
+{"id":"10245604976","timestamp":"2025-04-27T19:15:05.286167565Z","domain":"*.np.p.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-04-27T17:20:46Z","to":"2025-07-26T18:19:26Z"}
+{"id":"10245604976","timestamp":"2025-04-27T19:15:05.286167805Z","domain":"np.p.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-04-27T17:20:46Z","to":"2025-07-26T18:19:26Z"}
