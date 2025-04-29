@@ -8651,3 +8651,5 @@
 {"id":"10258387039","timestamp":"2025-04-29T03:26:25.554061581Z","domain":"prod.p.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-04-29T03:04:12Z","to":"2025-07-26T20:42:13Z"}
 {"id":"10258635934","timestamp":"2025-04-29T04:16:07.336756667Z","domain":"*.np.p.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-04-29T03:37:50Z","to":"2025-07-26T14:32:04Z"}
 {"id":"10258635934","timestamp":"2025-04-29T04:16:07.336757338Z","domain":"np.p.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-04-29T03:37:50Z","to":"2025-07-26T14:32:04Z"}
+{"id":"10260052423","timestamp":"2025-04-29T08:16:44.842826505Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-29T06:25:18Z","to":"2025-07-28T06:25:17Z"}
+{"id":"10260052423","timestamp":"2025-04-29T08:16:44.842826966Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-29T06:25:18Z","to":"2025-07-28T06:25:17Z"}
