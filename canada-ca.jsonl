@@ -8653,3 +8653,7 @@
 {"id":"10258635934","timestamp":"2025-04-29T04:16:07.336757338Z","domain":"np.p.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-04-29T03:37:50Z","to":"2025-07-26T14:32:04Z"}
 {"id":"10260052423","timestamp":"2025-04-29T08:16:44.842826505Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-29T06:25:18Z","to":"2025-07-28T06:25:17Z"}
 {"id":"10260052423","timestamp":"2025-04-29T08:16:44.842826966Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-04-29T06:25:18Z","to":"2025-07-28T06:25:17Z"}
+{"id":"10261852602","timestamp":"2025-04-29T12:17:25.411837074Z","domain":"health-infobase.canada.ca","issuer":"SSL.com","from":"2025-04-29T11:48:13Z","to":"2026-05-29T04:00:00Z"}
+{"id":"10261852602","timestamp":"2025-04-29T12:17:25.411837435Z","domain":"infobase.phac-aspc.gc.ca","issuer":"SSL.com","from":"2025-04-29T11:48:13Z","to":"2026-05-29T04:00:00Z"}
+{"id":"10261852602","timestamp":"2025-04-29T12:17:25.411837635Z","domain":"sante-infobase.canada.ca","issuer":"SSL.com","from":"2025-04-29T11:48:13Z","to":"2026-05-29T04:00:00Z"}
+{"id":"10261852602","timestamp":"2025-04-29T12:17:25.411837816Z","domain":"www.infobase.phac-aspc.gc.ca","issuer":"SSL.com","from":"2025-04-29T11:48:13Z","to":"2026-05-29T04:00:00Z"}
