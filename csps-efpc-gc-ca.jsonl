@@ -225,3 +225,5 @@
 {"id":"9902605793","timestamp":"2025-03-26T13:45:34.946151348Z","domain":"esb2-dev.csps-efpc.gc.ca","issuer":"SSL.com","from":"2025-03-25T13:33:43Z","to":"2026-04-25T04:00:00Z"}
 {"id":"10119937564","timestamp":"2025-04-16T01:03:51.001438074Z","domain":"app-dev.csps-efpc.gc.ca","issuer":"Amazon Trust Services","from":"2025-04-16T00:00:00Z","to":"2026-05-16T23:59:59Z"}
 {"id":"10189353675","timestamp":"2025-04-22T14:45:49.844265859Z","domain":"fts-stf.csps-efpc.gc.ca","issuer":"Let's Encrypt","from":"2025-04-22T13:12:38Z","to":"2025-07-21T13:12:37Z"}
+{"id":"10262615837","timestamp":"2025-04-29T14:46:18.430724976Z","domain":"intranet.csps-efpc.gc.ca","issuer":"SSL.com","from":"2025-04-29T13:37:38Z","to":"2026-05-29T04:00:00Z"}
+{"id":"10262615837","timestamp":"2025-04-29T14:46:18.430725487Z","domain":"www.intranet.csps-efpc.gc.ca","issuer":"SSL.com","from":"2025-04-29T13:37:38Z","to":"2026-05-29T04:00:00Z"}
