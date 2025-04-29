@@ -460,3 +460,4 @@
 {"id":"10189108817","timestamp":"2025-04-22T14:37:42.527624964Z","domain":"uat.cors-screl.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-04-22T13:35:09Z","to":"2026-05-22T04:00:00Z"}
 {"id":"10252501296","timestamp":"2025-04-28T12:46:35.358216807Z","domain":"tapx-rolemanager-dev-backend.apim-dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-04-28T00:00:00Z","to":"2025-10-28T23:59:59Z"}
 {"id":"10256697512","timestamp":"2025-04-28T23:33:55.062025734Z","domain":"gw.apim-dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-04-28T00:00:00Z","to":"2025-10-28T23:59:59Z"}
+{"id":"10257547851","timestamp":"2025-04-29T02:10:24.099654652Z","domain":"tapx-claimsigner-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-04-29T00:00:00Z","to":"2025-10-29T23:59:59Z"}
