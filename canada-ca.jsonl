@@ -8661,3 +8661,5 @@
 {"id":"10262580058","timestamp":"2025-04-29T14:15:48.855854787Z","domain":"www.api.io.canada.ca","issuer":"SSL.com","from":"2025-04-29T13:31:22Z","to":"2026-05-29T04:00:00Z"}
 {"id":"10262811833","timestamp":"2025-04-29T15:15:53.950516709Z","domain":"minio.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-29T13:20:42Z","to":"2025-07-28T13:20:41Z"}
 {"id":"10263501217","timestamp":"2025-04-29T16:16:16.066124964Z","domain":"mq.neics-nscei.canada.ca","issuer":"SSL.com","from":"2025-04-29T15:54:48Z","to":"2026-05-29T04:00:00Z"}
+{"id":"10263755559","timestamp":"2025-04-29T17:15:23.842006673Z","domain":"preprod-pws.neics-nscei.canada.ca","issuer":"SSL.com","from":"2025-04-29T16:27:04Z","to":"2026-05-29T04:00:00Z"}
+{"id":"10263755559","timestamp":"2025-04-29T17:15:23.842007174Z","domain":"www.preprod-pws.neics-nscei.canada.ca","issuer":"SSL.com","from":"2025-04-29T16:27:04Z","to":"2026-05-29T04:00:00Z"}
