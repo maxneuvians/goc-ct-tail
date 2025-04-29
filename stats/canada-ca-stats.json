@@ -2218,7 +2218,13 @@
       "Google Trust Services": 8
     },
     "2025-04-28": {
-      "DigiCert": 2
+      "DigiCert": 2,
+      "Let's Encrypt": 4,
+      "SSL.com": 20
+    },
+    "2025-04-29": {
+      "Amazon Trust Services": 1,
+      "SSL.com": 4
     }
   },
   "errors": []
