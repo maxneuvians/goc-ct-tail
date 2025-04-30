@@ -466,3 +466,7 @@
 {"id":"10264838571","timestamp":"2025-04-29T19:33:35.840790953Z","domain":"tapx-rolemanagerapp-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-04-29T00:00:00Z","to":"2025-10-29T23:59:59Z"}
 {"id":"10265810106","timestamp":"2025-04-29T22:36:31.765459508Z","domain":"tapx-claimsigner-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-04-29T00:00:00Z","to":"2025-10-29T23:59:59Z"}
 {"id":"10269650371","timestamp":"2025-04-30T06:41:00.186521314Z","domain":"tapx-rolemanager-qa-backend.apim-dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-04-30T00:00:00Z","to":"2025-10-30T23:59:59Z"}
+{"id":"10274038789","timestamp":"2025-04-30T15:35:57.558483324Z","domain":"tbs-sct.canada.ca","issuer":"SSL.com","from":"2025-04-30T15:15:47Z","to":"2026-05-30T04:00:00Z"}
+{"id":"10274038789","timestamp":"2025-04-30T15:35:57.558484065Z","domain":"tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-04-30T15:15:47Z","to":"2026-05-30T04:00:00Z"}
+{"id":"10274038789","timestamp":"2025-04-30T15:35:57.558484296Z","domain":"www.tbs-sct.canada.ca","issuer":"SSL.com","from":"2025-04-30T15:15:47Z","to":"2026-05-30T04:00:00Z"}
+{"id":"10274038789","timestamp":"2025-04-30T15:35:57.558484566Z","domain":"www.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-04-30T15:15:47Z","to":"2026-05-30T04:00:00Z"}
