@@ -366,3 +366,11 @@
 {"id":"9863824550","timestamp":"2025-03-21T12:45:39.449917688Z","domain":"sso-iu-agr.fjgc-gccf.gc.ca","issuer":"SSL.com","from":"2025-03-21T11:24:13Z","to":"2026-04-21T04:00:00Z"}
 {"id":"9863824550","timestamp":"2025-03-21T12:45:39.449918179Z","domain":"sso-iu.agr.gc.ca","issuer":"SSL.com","from":"2025-03-21T11:24:13Z","to":"2026-04-21T04:00:00Z"}
 {"id":"9877501822","timestamp":"2025-03-22T23:33:25.723942159Z","domain":"catalogue-campus.agr.gc.ca","issuer":"Let's Encrypt","from":"2025-03-22T22:27:04Z","to":"2025-06-20T22:27:03Z"}
+{"id":"10273547850","timestamp":"2025-04-30T14:37:17.327723295Z","domain":"cnc.agr.gc.ca","issuer":"SSL.com","from":"2025-04-30T14:02:12Z","to":"2026-04-07T04:00:00Z"}
+{"id":"10273547850","timestamp":"2025-04-30T14:37:17.327723856Z","domain":"cnc-dev.agr.gc.ca","issuer":"SSL.com","from":"2025-04-30T14:02:12Z","to":"2026-04-07T04:00:00Z"}
+{"id":"10273547850","timestamp":"2025-04-30T14:37:17.327724116Z","domain":"cnc-ottawa.ca","issuer":"SSL.com","from":"2025-04-30T14:02:12Z","to":"2026-04-07T04:00:00Z"}
+{"id":"10273547850","timestamp":"2025-04-30T14:37:17.327724397Z","domain":"cnc-test.agr.gc.ca","issuer":"SSL.com","from":"2025-04-30T14:02:12Z","to":"2026-04-07T04:00:00Z"}
+{"id":"10273547850","timestamp":"2025-04-30T14:37:17.327724477Z","domain":"www.cnc.agr.gc.ca","issuer":"SSL.com","from":"2025-04-30T14:02:12Z","to":"2026-04-07T04:00:00Z"}
+{"id":"10273547850","timestamp":"2025-04-30T14:37:17.32772567Z","domain":"www.cnc-dev.agr.gc.ca","issuer":"SSL.com","from":"2025-04-30T14:02:12Z","to":"2026-04-07T04:00:00Z"}
+{"id":"10273547850","timestamp":"2025-04-30T14:37:17.32772575Z","domain":"www.cnc-ottawa.ca","issuer":"SSL.com","from":"2025-04-30T14:02:12Z","to":"2026-04-07T04:00:00Z"}
+{"id":"10273547850","timestamp":"2025-04-30T14:37:17.32772582Z","domain":"www.cnc-test.agr.gc.ca","issuer":"SSL.com","from":"2025-04-30T14:02:12Z","to":"2026-04-07T04:00:00Z"}
