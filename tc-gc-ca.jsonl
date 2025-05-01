@@ -254,3 +254,5 @@
 {"id":"10100755906","timestamp":"2025-04-14T02:42:30.718693365Z","domain":"outils-collab-tools.tc.gc.ca","issuer":"DigiCert","from":"2025-04-14T00:00:00Z","to":"2025-10-14T23:59:59Z"}
 {"id":"10191730084","timestamp":"2025-04-22T19:15:14.693457309Z","domain":"dev-tcsupport.tc.gc.ca","issuer":"SSL.com","from":"2025-04-22T18:46:25Z","to":"2026-05-22T04:00:00Z"}
 {"id":"10202451020","timestamp":"2025-04-23T16:16:33.000452865Z","domain":"tcsupport.tc.gc.ca","issuer":"SSL.com","from":"2025-04-23T15:49:39Z","to":"2026-05-23T04:00:00Z"}
+{"id":"10281934589","timestamp":"2025-05-01T09:15:55.164868035Z","domain":"*.acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-05-01T08:02:27Z","to":"2025-07-30T08:02:26Z"}
+{"id":"10281934589","timestamp":"2025-05-01T09:15:55.164868546Z","domain":"acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-05-01T08:02:27Z","to":"2025-07-30T08:02:26Z"}
