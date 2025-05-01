@@ -398,3 +398,7 @@
 {"id":"10010474956","timestamp":"2025-04-05T14:04:23.508487209Z","domain":"vpn2.scc-csc.ca","issuer":"GoDaddy","from":"2025-04-05T13:42:40Z","to":"2026-05-07T13:42:40Z"}
 {"id":"10010474956","timestamp":"2025-04-05T14:04:23.50848744Z","domain":"vpn.scc-csc.gc.ca","issuer":"GoDaddy","from":"2025-04-05T13:42:40Z","to":"2026-05-07T13:42:40Z"}
 {"id":"10010474956","timestamp":"2025-04-05T14:04:23.50848765Z","domain":"www.vpn.scc-csc.gc.ca","issuer":"GoDaddy","from":"2025-04-05T13:42:40Z","to":"2026-05-07T13:42:40Z"}
+{"id":"10286194538","timestamp":"2025-05-01T20:05:40.973662796Z","domain":"certauth.sts.scc-csc.ca","issuer":"GoDaddy","from":"2025-05-01T19:37:24Z","to":"2026-06-02T19:37:24Z"}
+{"id":"10286194538","timestamp":"2025-05-01T20:05:40.973663106Z","domain":"enterpriseregistration.scc-csc.ca","issuer":"GoDaddy","from":"2025-05-01T19:37:24Z","to":"2026-06-02T19:37:24Z"}
+{"id":"10286194538","timestamp":"2025-05-01T20:05:40.973663266Z","domain":"sts.scc-csc.ca","issuer":"GoDaddy","from":"2025-05-01T19:37:24Z","to":"2026-06-02T19:37:24Z"}
+{"id":"10286194538","timestamp":"2025-05-01T20:05:40.973663407Z","domain":"www.sts.scc-csc.ca","issuer":"GoDaddy","from":"2025-05-01T19:37:24Z","to":"2026-06-02T19:37:24Z"}
