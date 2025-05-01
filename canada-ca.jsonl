@@ -8722,3 +8722,5 @@
 {"id":"10275683305","timestamp":"2025-04-30T20:15:59.887774494Z","domain":"lab.gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-04-30T18:23:09Z","to":"2025-07-29T18:23:08Z"}
 {"id":"10280535358","timestamp":"2025-05-01T06:16:50.144121713Z","domain":"meteo-spatiale.canada.ca","issuer":"Sectigo","from":"2025-05-01T00:00:00Z","to":"2025-07-30T23:59:59Z"}
 {"id":"10280535358","timestamp":"2025-05-01T06:16:50.144122144Z","domain":"space-weather.canada.ca","issuer":"Sectigo","from":"2025-05-01T00:00:00Z","to":"2025-07-30T23:59:59Z"}
+{"id":"10281119384","timestamp":"2025-05-01T08:16:35.395532951Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-01T06:25:10Z","to":"2025-07-30T06:25:09Z"}
+{"id":"10281119384","timestamp":"2025-05-01T08:16:35.395533281Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-01T06:25:10Z","to":"2025-07-30T06:25:09Z"}
