@@ -2233,6 +2233,14 @@
       "Let's Encrypt": 4,
       "DigiCert": 1,
       "SSL.com": 6
+    },
+    "2025-05-01": {
+      "Sectigo": 2,
+      "Let's Encrypt": 59,
+      "DigiCert": 1
+    },
+    "2025-05-02": {
+      "Google Trust Services": 1
     }
   },
   "errors": []
