@@ -1061,3 +1061,9 @@
 {"id":"10292704110","timestamp":"2025-05-02T13:18:23.095563781Z","domain":"pshcp-rssfp-stg.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-05-02T12:10:30Z","to":"2026-06-02T04:00:00Z"}
 {"id":"10292769888","timestamp":"2025-05-02T13:18:23.095564262Z","domain":"armyapp.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-05-02T12:21:55Z","to":"2026-06-02T04:00:00Z"}
 {"id":"10292769888","timestamp":"2025-05-02T13:18:23.095564493Z","domain":"tideppd-hub.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-05-02T12:21:55Z","to":"2026-06-02T04:00:00Z"}
+{"id":"10293178792","timestamp":"2025-05-02T14:15:37.075347401Z","domain":"*.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-05-02T13:30:37Z","to":"2026-05-11T04:00:00Z"}
+{"id":"10293178792","timestamp":"2025-05-02T14:15:37.075347893Z","domain":"cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-05-02T13:30:37Z","to":"2026-05-11T04:00:00Z"}
+{"id":"10293215285","timestamp":"2025-05-02T14:15:37.075348173Z","domain":"cafpay-soldefac-uat.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-05-02T13:39:06Z","to":"2026-06-02T04:00:00Z"}
+{"id":"10293215285","timestamp":"2025-05-02T14:15:37.075348494Z","domain":"ccpsmart-uat.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-05-02T13:39:06Z","to":"2026-06-02T04:00:00Z"}
+{"id":"10293215285","timestamp":"2025-05-02T14:15:37.075348574Z","domain":"rpsrintel-uat.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-05-02T13:39:06Z","to":"2026-06-02T04:00:00Z"}
+{"id":"10293215285","timestamp":"2025-05-02T14:15:37.075350127Z","domain":"uat-rtm-gtr-web.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-05-02T13:39:06Z","to":"2026-06-02T04:00:00Z"}
