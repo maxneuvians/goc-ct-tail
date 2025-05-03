@@ -2240,7 +2240,9 @@
       "DigiCert": 1
     },
     "2025-05-02": {
-      "Google Trust Services": 1
+      "Google Trust Services": 1,
+      "Let's Encrypt": 3,
+      "SSL.com": 2
     }
   },
   "errors": []
