@@ -8857,3 +8857,7 @@
 {"id":"10322639313","timestamp":"2025-05-05T16:16:28.270155169Z","domain":"pdsp-appeals.canada.ca","issuer":"SSL.com","from":"2025-05-05T15:02:40Z","to":"2026-05-16T04:00:00Z"}
 {"id":"10323292816","timestamp":"2025-05-05T17:15:20.113294243Z","domain":"*.lwhpred-phclrouge.service.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-05-05T16:39:47Z","to":"2026-06-05T04:00:00Z"}
 {"id":"10323292816","timestamp":"2025-05-05T17:15:20.113294583Z","domain":"lwhpred-phclrouge.service.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-05-05T16:39:47Z","to":"2026-06-05T04:00:00Z"}
+{"id":"10324400368","timestamp":"2025-05-05T20:16:03.93860872Z","domain":"keycloak.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-05T18:51:26Z","to":"2025-08-03T18:51:25Z"}
+{"id":"10324403736","timestamp":"2025-05-05T20:16:03.93860907Z","domain":"identity-api.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-05T18:50:39Z","to":"2025-08-03T18:50:38Z"}
+{"id":"10324420752","timestamp":"2025-05-05T20:16:03.938609281Z","domain":"minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-05T18:56:26Z","to":"2025-08-03T18:56:25Z"}
+{"id":"10324446451","timestamp":"2025-05-05T20:16:03.938609481Z","domain":"console.minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-05T19:01:09Z","to":"2025-08-03T19:01:08Z"}
