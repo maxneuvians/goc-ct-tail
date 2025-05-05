@@ -931,3 +931,6 @@
 {"id":"10266255572","timestamp":"2025-04-29T23:25:35.3139095Z","domain":"prometheus.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-04-29T21:57:10Z","to":"2025-07-28T21:57:09Z"}
 {"id":"10266325339","timestamp":"2025-04-29T23:25:35.313910031Z","domain":"grafana.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-04-29T21:56:39Z","to":"2025-07-28T21:56:38Z"}
 {"id":"10266393714","timestamp":"2025-04-29T23:25:35.313910381Z","domain":"argocd.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-04-29T22:10:22Z","to":"2025-07-28T22:10:21Z"}
+{"id":"10297459285","timestamp":"2025-05-05T14:28:16.957312901Z","domain":"waves-vagues.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2025-05-03T00:00:00Z","to":"2025-11-03T23:59:59Z"}
+{"id":"10298845581","timestamp":"2025-05-05T14:28:16.957313522Z","domain":"falco-ui.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-05-03T01:54:16Z","to":"2025-08-01T01:54:15Z"}
+{"id":"10318287687","timestamp":"2025-05-05T14:28:16.957313923Z","domain":"falco-ui.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-05-05T03:44:59Z","to":"2025-08-03T03:44:58Z"}
