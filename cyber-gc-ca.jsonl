@@ -543,3 +543,5 @@
 {"id":"10285968206","timestamp":"2025-05-01T19:33:25.594564722Z","domain":"u.analysis.cyber.gc.ca","issuer":"SSL.com","from":"2025-05-01T18:49:40Z","to":"2026-06-01T04:00:00Z"}
 {"id":"10285968206","timestamp":"2025-05-01T19:33:25.594564902Z","domain":"*.u.azure.chimera.cyber.gc.ca","issuer":"SSL.com","from":"2025-05-01T18:49:40Z","to":"2026-06-01T04:00:00Z"}
 {"id":"10285968206","timestamp":"2025-05-01T19:33:25.594565873Z","domain":"u.azure.chimera.cyber.gc.ca","issuer":"SSL.com","from":"2025-05-01T18:49:40Z","to":"2026-06-01T04:00:00Z"}
+{"id":"10321809565","timestamp":"2025-05-05T14:38:03.495717759Z","domain":"*.hogwarts.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-05-05T12:10:53Z","to":"2025-08-03T12:10:52Z"}
+{"id":"10321809565","timestamp":"2025-05-05T14:38:03.49571817Z","domain":"hogwarts.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-05-05T12:10:53Z","to":"2025-08-03T12:10:52Z"}
