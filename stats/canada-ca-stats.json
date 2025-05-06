@@ -2241,8 +2241,23 @@
     },
     "2025-05-02": {
       "Google Trust Services": 1,
-      "Let's Encrypt": 3,
+      "Let's Encrypt": 49,
       "SSL.com": 2
+    },
+    "2025-05-03": {
+      "Amazon Trust Services": 2,
+      "Let's Encrypt": 2
+    },
+    "2025-05-04": {
+      "Let's Encrypt": 3
+    },
+    "2025-05-05": {
+      "Let's Encrypt": 26,
+      "Amazon Trust Services": 2,
+      "SSL.com": 4
+    },
+    "2025-05-06": {
+      "Amazon Trust Services": 10
     }
   },
   "errors": []
