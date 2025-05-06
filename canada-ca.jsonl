@@ -8883,3 +8883,29 @@
 {"id":"10325964154","timestamp":"2025-05-06T00:36:05.310634921Z","domain":"*.document.notification.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-05T23:59:59Z"}
 {"id":"10325964154","timestamp":"2025-05-06T00:36:05.310635011Z","domain":"*.notification.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-05T23:59:59Z"}
 {"id":"10325964154","timestamp":"2025-05-06T00:36:05.310636013Z","domain":"notification.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582245842Z","domain":"geoapps.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582246293Z","domain":"geoapps.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582246513Z","domain":"geoapps.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582246773Z","domain":"geoapps.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582246854Z","domain":"geologieurbaine.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582248246Z","domain":"geologieurbaine.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582248336Z","domain":"geologieurbaine.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582248417Z","domain":"geologieurbaine.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582248497Z","domain":"geomagnetism.canada.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582249619Z","domain":"geomagnetisme.canada.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582249699Z","domain":"geopub.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582249769Z","domain":"geopub.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582249849Z","domain":"geotourcb.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582249919Z","domain":"geotourcb.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.58224999Z","domain":"geotourcb.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.58225007Z","domain":"geotourcb.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.58225014Z","domain":"www.geologieurbaine.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.58225022Z","domain":"www.geologieurbaine.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582251432Z","domain":"www.geologieurbaine.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582251502Z","domain":"www.geologieurbaine.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582251573Z","domain":"www.geopub.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582251643Z","domain":"www.geopub.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582251723Z","domain":"www.geotourcb.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582251793Z","domain":"www.geotourcb.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582251873Z","domain":"www.geotourcb.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10328017627","timestamp":"2025-05-06T06:16:41.582251943Z","domain":"www.geotourcb.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
