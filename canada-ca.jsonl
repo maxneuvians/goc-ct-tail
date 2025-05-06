@@ -8873,3 +8873,13 @@
 {"id":"10324561375","timestamp":"2025-05-05T21:15:28.461857036Z","domain":"eoepca-portal.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-05T19:17:42Z","to":"2025-08-03T19:17:41Z"}
 {"id":"10324589467","timestamp":"2025-05-05T21:15:28.461857116Z","domain":"applicationhub.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-05T19:25:42Z","to":"2025-08-03T19:25:41Z"}
 {"id":"10324950641","timestamp":"2025-05-05T22:15:37.614144232Z","domain":"harbor.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-05T20:26:00Z","to":"2025-08-03T20:25:59Z"}
+{"id":"10325963658","timestamp":"2025-05-06T00:36:05.310632195Z","domain":"*.api.notification.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10325963658","timestamp":"2025-05-06T00:36:05.310632616Z","domain":"api.notification.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10325963658","timestamp":"2025-05-06T00:36:05.310632877Z","domain":"*.document.notification.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10325963658","timestamp":"2025-05-06T00:36:05.310633107Z","domain":"*.notification.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10325963658","timestamp":"2025-05-06T00:36:05.310633208Z","domain":"notification.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10325964154","timestamp":"2025-05-06T00:36:05.31063472Z","domain":"*.api.notification.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10325964154","timestamp":"2025-05-06T00:36:05.31063482Z","domain":"api.notification.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10325964154","timestamp":"2025-05-06T00:36:05.310634921Z","domain":"*.document.notification.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10325964154","timestamp":"2025-05-06T00:36:05.310635011Z","domain":"*.notification.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10325964154","timestamp":"2025-05-06T00:36:05.310636013Z","domain":"notification.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-05T23:59:59Z"}
