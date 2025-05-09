@@ -11339,3 +11339,216 @@
 {"id":"10328017627","timestamp":"2025-05-06T06:16:41.77628579Z","domain":"www.geotourcb.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
 {"id":"10328017627","timestamp":"2025-05-06T06:16:41.77628586Z","domain":"www.geotourcb.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
 {"id":"10328017627","timestamp":"2025-05-06T06:16:41.77628593Z","domain":"www.geotourcb.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T04:16:09Z","to":"2025-08-04T04:16:08Z"}
+{"id":"10337820368","timestamp":"2025-05-09T22:15:34.339724647Z","domain":"adaptation2007.nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10337820368","timestamp":"2025-05-09T22:15:34.339725259Z","domain":"adaptation2007.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10337820368","timestamp":"2025-05-09T22:15:34.339725669Z","domain":"adaptation2007.rncan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10337820368","timestamp":"2025-05-09T22:15:34.339727713Z","domain":"adaptation2007.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10337820368","timestamp":"2025-05-09T22:15:34.339727823Z","domain":"adaptation.nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10337820368","timestamp":"2025-05-09T22:15:34.339728915Z","domain":"adaptation.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10337820368","timestamp":"2025-05-09T22:15:34.339729006Z","domain":"adaptation.rncan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10337820368","timestamp":"2025-05-09T22:15:34.339729096Z","domain":"adaptation.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10337820368","timestamp":"2025-05-09T22:15:34.339729186Z","domain":"www.adaptation.nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10337820368","timestamp":"2025-05-09T22:15:34.339730077Z","domain":"www.adaptation.rncan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339730288Z","domain":"canmetenergie.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339730378Z","domain":"canmetenergy.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339730468Z","domain":"canmetmaterials.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339730558Z","domain":"canmetmaterials.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339730649Z","domain":"canmetmaterials.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339730739Z","domain":"canmetmaterials.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339730819Z","domain":"canmetmateriaux.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339730929Z","domain":"canmetmateriaux.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339732442Z","domain":"canmetmateriaux.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339732532Z","domain":"canmetmateriaux.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339732702Z","domain":"canmetmines.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339732793Z","domain":"canmetmining.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339732883Z","domain":"www.canmetenergie.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339732973Z","domain":"www.canmetenergy.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339733063Z","domain":"www.canmetmaterials.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339733163Z","domain":"www.canmetmaterials.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339733254Z","domain":"www.canmetmaterials.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339733334Z","domain":"www.canmetmaterials.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339733424Z","domain":"www.canmetmateriaux.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339733514Z","domain":"www.canmetmateriaux.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339733594Z","domain":"www.canmetmateriaux.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338228100","timestamp":"2025-05-09T22:15:34.339733684Z","domain":"www.canmetmateriaux.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:35:29Z","to":"2025-08-05T04:35:28Z"}
+{"id":"10338235823","timestamp":"2025-05-09T22:15:34.339733804Z","domain":"ecoflotte.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10338235823","timestamp":"2025-05-09T22:15:34.339733895Z","domain":"ecoflotte.nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10338235823","timestamp":"2025-05-09T22:15:34.339733995Z","domain":"ecoflotte.rncan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10338235823","timestamp":"2025-05-09T22:15:34.339734095Z","domain":"www2.ecoflotte.nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10338235823","timestamp":"2025-05-09T22:15:34.339734185Z","domain":"www2.ecoflotte.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10338235823","timestamp":"2025-05-09T22:15:34.339734296Z","domain":"www2.ecoflotte.rncan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10338235823","timestamp":"2025-05-09T22:15:34.339734386Z","domain":"www2.ecoflotte.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10338235823","timestamp":"2025-05-09T22:15:34.339734466Z","domain":"www.ecoflotte.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10338235823","timestamp":"2025-05-09T22:15:34.339735578Z","domain":"www.ecoflotte.nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10338235823","timestamp":"2025-05-09T22:15:34.339735668Z","domain":"www.ecoflotte.rncan.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10338324737","timestamp":"2025-05-09T22:15:34.339735798Z","domain":"lcre.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:46:59Z","to":"2025-08-05T04:46:58Z"}
+{"id":"10338324737","timestamp":"2025-05-09T22:15:34.339735888Z","domain":"lcre.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:46:59Z","to":"2025-08-05T04:46:58Z"}
+{"id":"10338324737","timestamp":"2025-05-09T22:15:34.339735979Z","domain":"lcre.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:46:59Z","to":"2025-08-05T04:46:58Z"}
+{"id":"10338324737","timestamp":"2025-05-09T22:15:34.339736069Z","domain":"lcre.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:46:59Z","to":"2025-08-05T04:46:58Z"}
+{"id":"10338324737","timestamp":"2025-05-09T22:15:34.339736159Z","domain":"www.lcre.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:46:59Z","to":"2025-08-05T04:46:58Z"}
+{"id":"10338324737","timestamp":"2025-05-09T22:15:34.339736249Z","domain":"www.lcre.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:46:59Z","to":"2025-08-05T04:46:58Z"}
+{"id":"10338324737","timestamp":"2025-05-09T22:15:34.339736339Z","domain":"www.lcre.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:46:59Z","to":"2025-08-05T04:46:58Z"}
+{"id":"10338324737","timestamp":"2025-05-09T22:15:34.339736429Z","domain":"www.lcre.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-07T04:46:59Z","to":"2025-08-05T04:46:58Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.33973654Z","domain":"energuide-batiments.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.33973664Z","domain":"energuide-buildings.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.33973672Z","domain":"energuidefornewhouses.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.33973682Z","domain":"energuidefornewhouses.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.33973691Z","domain":"energuidefornewhouses.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339737001Z","domain":"energuidefornewhouses.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339737091Z","domain":"energuideforvehicles.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339737181Z","domain":"energuideforvehicles.com","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339737271Z","domain":"energuide.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339737371Z","domain":"energuide.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339737462Z","domain":"energuide.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339737552Z","domain":"energuidepourlesbatiments.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339737652Z","domain":"energuidepourlesmaisonsneuves.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339737752Z","domain":"energuidepourlesmaisonsneuves.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339737842Z","domain":"energuidepourlesmaisonsneuves.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339737932Z","domain":"energuidepourlesmaisonsneuves.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339738012Z","domain":"energuidepourvehicule.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339738103Z","domain":"energuidepourvehicule.com","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339738193Z","domain":"energuide.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339738273Z","domain":"energuide.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339738363Z","domain":"energuidevehicles.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339738453Z","domain":"www.energuide-batiments.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339738553Z","domain":"www.energuide-buildings.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339738644Z","domain":"www.energuideforhouses.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339738744Z","domain":"www.energuideforhouses.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339738854Z","domain":"www.energuideforhouses.org","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339738944Z","domain":"www.energuidefornewhouses.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339739034Z","domain":"www.energuidefornewhouses.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339739125Z","domain":"www.energuidefornewhouses.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339740908Z","domain":"www.energuidefornewhouses.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339741008Z","domain":"www.energuidefornewhouses.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339741098Z","domain":"www.energuideforvehicles.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339741198Z","domain":"www.energuideforvehicles.com","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339741289Z","domain":"www.energuide.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339741389Z","domain":"www.energuide.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339741479Z","domain":"www.energuide.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339741569Z","domain":"www.energuidepourlesbatiments.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339741669Z","domain":"www.energuidepourlesmaisons.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339741759Z","domain":"www.energuidepourlesmaisons.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.33974185Z","domain":"www.energuidepourlesmaisonsneuves.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.33974194Z","domain":"www.energuidepourlesmaisonsneuves.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.33974204Z","domain":"www.energuidepourlesmaisonsneuves.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.33974214Z","domain":"www.energuidepourlesmaisonsneuves.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339742231Z","domain":"www.energuidepourlesmaisonsneuves.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339742331Z","domain":"www.energuidepourvehicule.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339742421Z","domain":"www.energuidepourvehicule.com","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339742521Z","domain":"www.energuide.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339742611Z","domain":"www.energuide.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348860525","timestamp":"2025-05-09T22:15:34.339742701Z","domain":"www.energuidevehicles.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:30:04Z","to":"2025-08-06T04:30:03Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339742832Z","domain":"energystar-batiments.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339742922Z","domain":"energystar-buildings.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339743012Z","domain":"energystarcanada.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339743102Z","domain":"energystarforbuildings.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339743202Z","domain":"energystarfornewhomes.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339743302Z","domain":"energystarfornewhomes.com","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339743393Z","domain":"energystarfornewhomes.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339743483Z","domain":"energystar.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339743583Z","domain":"energystarhomes.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339743683Z","domain":"energystar.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339743783Z","domain":"energystar.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339743863Z","domain":"energystarpourlesbatiments.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339743964Z","domain":"energystarpourlesmaisonsneuves.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339744044Z","domain":"energystarpourlesmaisonsneuves.com","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339744144Z","domain":"energystarpourlesmaisonsneuves.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339744224Z","domain":"energystarqualifiedhomes.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339744314Z","domain":"energystarqualifiedhomes.com","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339744404Z","domain":"energystar.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339744505Z","domain":"energystar.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339744595Z","domain":"maisonsenergystar.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339744695Z","domain":"www.energystar-batiments.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339744795Z","domain":"www.energystar-buildings.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339744896Z","domain":"www.energystarcanada.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339744985Z","domain":"www.energystarforbuildings.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339745086Z","domain":"www.energystarfornewhomes.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339745176Z","domain":"www.energystarfornewhomes.com","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339745266Z","domain":"www.energystarfornewhomes.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339745356Z","domain":"www.energystarfornewhomesstandard.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339745446Z","domain":"www.energystarfornewhomesstandard.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339745537Z","domain":"www.energystarfornewhomesstandard.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339745637Z","domain":"www.energystarfornewhomesstandard.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339745727Z","domain":"www.energystarfornewhomes-trades.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339745817Z","domain":"www.energystar.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339745907Z","domain":"www.energystarhomes.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339745998Z","domain":"www.energystar.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339746088Z","domain":"www.energystar.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339746168Z","domain":"www.energystarpourlesbatiments.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339746258Z","domain":"www.energystarpourlesmaisonsneuves.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339746358Z","domain":"www.energystarpourlesmaisonsneuves.com","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339746438Z","domain":"www.energystarpourlesmaisonsneuves.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339746528Z","domain":"www.energystarpourlesnouvellesmaisons.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339746619Z","domain":"www.energystarpourmaisonsneuves-fournisseurs.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339746709Z","domain":"www.energystarqualifiedhomes.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339746799Z","domain":"www.energystarqualifiedhomes.com","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339746889Z","domain":"www.energystarqualifiedhomes.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339746979Z","domain":"www.energystar.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.339747069Z","domain":"www.energystar.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.33974716Z","domain":"www.maisonsenergystar.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.33974725Z","domain":"www.maisonshomologueesenergystar.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.33974733Z","domain":"www.normeenergystarpourlesmaisonsneuves.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.33974742Z","domain":"www.normeenergystarpourlesmaisonsneuves.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.33974751Z","domain":"www.normeenergystarpourlesmaisonsneuves.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348889526","timestamp":"2025-05-09T22:15:34.33974759Z","domain":"www.normeenergystarpourlesmaisonsneuves.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:33:19Z","to":"2025-08-06T04:33:18Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339747701Z","domain":"ccrmp.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339747791Z","domain":"ccrmp.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339747881Z","domain":"ccrmp.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339747971Z","domain":"ccrmp-pcmrc.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339748061Z","domain":"ccrmp-pcmrc.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339748142Z","domain":"ccrmp-pcmrc.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339760324Z","domain":"ccrmp-pcmrc.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339760425Z","domain":"ccrmp.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339760515Z","domain":"ccrmp.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339760605Z","domain":"pcmrc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339760695Z","domain":"pcmrc-ccrmp.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339760795Z","domain":"pcmrc-ccrmp.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339760886Z","domain":"pcmrc-ccrmp.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339760975Z","domain":"pcmrc-ccrmp.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339761066Z","domain":"pcmrc.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339761156Z","domain":"pcmrc.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339761256Z","domain":"pcmrc.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339761356Z","domain":"pcmrc.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339761447Z","domain":"www.ccrmp.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339761547Z","domain":"www.ccrmp.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339761637Z","domain":"www.ccrmp.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339761727Z","domain":"www.ccrmp-pcmrc.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339761817Z","domain":"www.ccrmp-pcmrc.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339761917Z","domain":"www.ccrmp-pcmrc.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339762008Z","domain":"www.ccrmp-pcmrc.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339762098Z","domain":"www.ccrmp.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339762198Z","domain":"www.ccrmp.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339762288Z","domain":"www.pcmrc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339762378Z","domain":"www.pcmrc-ccrmp.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339762478Z","domain":"www.pcmrc-ccrmp.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339762569Z","domain":"www.pcmrc-ccrmp.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339762669Z","domain":"www.pcmrc-ccrmp.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339762759Z","domain":"www.pcmrc.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339762859Z","domain":"www.pcmrc.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339762949Z","domain":"www.pcmrc.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10348970099","timestamp":"2025-05-09T22:15:34.339763039Z","domain":"www.pcmrc.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:44:57Z","to":"2025-08-06T04:44:56Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.33976318Z","domain":"ecoenergieplus-ecoenergyplus.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.33976328Z","domain":"ecoenergieplus-ecoenergyplus.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.33976338Z","domain":"ecoenergieplus-ecoenergyplus.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.33976347Z","domain":"ecoenergieplus-ecoenergyplus.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339763571Z","domain":"ecoenergieplus-ecoenergyplus.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339763661Z","domain":"ecoenergieplus.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339763761Z","domain":"ecoenergieplus.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339763851Z","domain":"ecoenergieplus.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339763941Z","domain":"ecoenergieplus.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339764031Z","domain":"ecoenergyplus-ecoenergieplus.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339764121Z","domain":"ecoenergyplus-ecoenergieplus.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339764212Z","domain":"ecoenergyplus-ecoenergieplus.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339764312Z","domain":"ecoenergyplus-ecoenergieplus.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339764402Z","domain":"ecoenergyplus.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339764492Z","domain":"ecoenergyplus.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339764582Z","domain":"ecoenergyplus.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339764673Z","domain":"ecoenergyplus.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339764763Z","domain":"www2.ecoenergieplus-ecoenergyplus.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339764853Z","domain":"www2.ecoenergieplus.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339764943Z","domain":"www2.ecoenergyplus-ecoenergieplus.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339765033Z","domain":"www2.ecoenergyplus.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339765123Z","domain":"www.ecoenergieplus-ecoenergyplus.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339765214Z","domain":"www.ecoenergieplus.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339765304Z","domain":"www.ecoenergyplus-ecoenergieplus.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
+{"id":"10358617545","timestamp":"2025-05-09T22:15:34.339765394Z","domain":"www.ecoenergyplus.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T03:41:02Z","to":"2025-08-07T03:41:01Z"}
