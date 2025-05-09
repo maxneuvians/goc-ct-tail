@@ -733,3 +733,7 @@
 {"id":"10075853934","timestamp":"2025-04-11T17:15:13.500672851Z","domain":"coids-sdci.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-04-11T16:35:18Z","to":"2026-05-09T13:44:43Z"}
 {"id":"10131673925","timestamp":"2025-04-17T03:24:38.291950458Z","domain":"ztpocfw.ztpoc.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-04-17T02:06:48Z","to":"2025-07-16T02:06:47Z"}
 {"id":"10138546034","timestamp":"2025-04-18T16:16:12.921187185Z","domain":"labvpn002.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-04-17T17:55:28Z","to":"2026-04-17T18:05:24Z"}
+{"id":"10336011543","timestamp":"2025-05-09T22:15:36.392575294Z","domain":"ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10336011543","timestamp":"2025-05-09T22:15:36.392575625Z","domain":"www.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10348434692","timestamp":"2025-05-09T22:15:36.392575795Z","domain":"icelab-nextcloud.ctoblab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-05-08T03:35:38Z","to":"2025-08-06T03:35:37Z"}
+{"id":"10362781994","timestamp":"2025-05-09T22:15:36.392575935Z","domain":"dc04vpn0002.ssc-spc.gc.ca","issuer":"Entrust Limited","from":"2025-05-09T00:00:00Z","to":"2026-05-09T23:59:59Z"}
