@@ -8936,3 +8936,110 @@
 {"id":"10329785958","timestamp":"2025-05-06T10:15:55.253912175Z","domain":"www.sopf-cidphn.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T08:41:32Z","to":"2025-08-04T08:41:31Z"}
 {"id":"10329785958","timestamp":"2025-05-06T10:15:55.253912235Z","domain":"www.sopf.gc.ca","issuer":"Let's Encrypt","from":"2025-05-06T08:41:32Z","to":"2025-08-04T08:41:31Z"}
 {"id":"10329975080","timestamp":"2025-05-06T11:15:10.703118358Z","domain":"code.ouvert.canada.ca","issuer":"Let's Encrypt","from":"2025-05-06T09:12:39Z","to":"2025-08-04T09:12:38Z"}
+{"id":"10332245888","timestamp":"2025-05-09T22:15:37.867258555Z","domain":"memos.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-06T14:25:14Z","to":"2025-08-04T14:25:13Z"}
+{"id":"10332303794","timestamp":"2025-05-09T22:15:37.867259126Z","domain":"www.cto-sand-jdegouffe.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-06T00:00:00Z","to":"2025-11-06T23:59:59Z"}
+{"id":"10333342383","timestamp":"2025-05-09T22:15:37.867259646Z","domain":"hazardous-materials.canada.ca","issuer":"SSL.com","from":"2025-05-06T17:58:13Z","to":"2026-06-06T04:00:00Z"}
+{"id":"10333342383","timestamp":"2025-05-09T22:15:37.867261049Z","domain":"matieres-dangereuses.canada.ca","issuer":"SSL.com","from":"2025-05-06T17:58:13Z","to":"2026-06-06T04:00:00Z"}
+{"id":"10333342383","timestamp":"2025-05-09T22:15:37.867261119Z","domain":"www.hazardous-materials.canada.ca","issuer":"SSL.com","from":"2025-05-06T17:58:13Z","to":"2026-06-06T04:00:00Z"}
+{"id":"10333342383","timestamp":"2025-05-09T22:15:37.867262452Z","domain":"www.matieres-dangereuses.canada.ca","issuer":"SSL.com","from":"2025-05-06T17:58:13Z","to":"2026-06-06T04:00:00Z"}
+{"id":"10333544660","timestamp":"2025-05-09T22:15:37.867262572Z","domain":"www.cto-sand-jdegouffe.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-06T00:00:00Z","to":"2025-11-06T23:59:59Z"}
+{"id":"10334058201","timestamp":"2025-05-09T22:15:37.867262652Z","domain":"titilerx.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-06T19:01:08Z","to":"2025-08-04T19:01:07Z"}
+{"id":"10334309861","timestamp":"2025-05-09T22:15:37.867262722Z","domain":"www.cto-sand-jdegouffe.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-06T00:00:00Z","to":"2025-11-06T23:59:59Z"}
+{"id":"10334401055","timestamp":"2025-05-09T22:15:37.867263804Z","domain":"publications.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-04T23:59:59Z"}
+{"id":"10334401055","timestamp":"2025-05-09T22:15:37.867263894Z","domain":"publications-be.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-06T00:00:00Z","to":"2026-06-04T23:59:59Z"}
+{"id":"10334571574","timestamp":"2025-05-09T22:15:37.867263985Z","domain":"test2.cto-sand-jdegouffe.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-06T00:00:00Z","to":"2025-11-06T23:59:59Z"}
+{"id":"10334667208","timestamp":"2025-05-09T22:15:37.867264075Z","domain":"test3.cto-sand-jdegouffe.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-06T00:00:00Z","to":"2025-11-06T23:59:59Z"}
+{"id":"10336432106","timestamp":"2025-05-09T22:15:37.867264155Z","domain":"workload1.c1-dl22or.dl22or.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-05-07T00:42:50Z","to":"2025-08-05T01:37:43Z"}
+{"id":"10339181912","timestamp":"2025-05-09T22:15:37.867264235Z","domain":"dol-uat.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-05-07T06:40:20Z","to":"2025-08-05T06:40:19Z"}
+{"id":"10340861722","timestamp":"2025-05-09T22:15:37.867264325Z","domain":"publications.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-07T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10340970484","timestamp":"2025-05-09T22:15:37.867264406Z","domain":"azure-oauth.irb-cisr.canada.ca","issuer":"SSL.com","from":"2025-05-07T11:49:00Z","to":"2026-06-07T04:00:00Z"}
+{"id":"10341159171","timestamp":"2025-05-09T22:15:37.867264486Z","domain":"helloweb.mgmt.dl22or.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-05-07T11:24:51Z","to":"2025-08-05T12:19:45Z"}
+{"id":"10341989940","timestamp":"2025-05-09T22:15:37.867265488Z","domain":"beneficiaire-infrastructure-formation.canada.ca","issuer":"SSL.com","from":"2025-05-07T14:11:53Z","to":"2026-06-06T14:00:06Z"}
+{"id":"10341989940","timestamp":"2025-05-09T22:15:37.867265568Z","domain":"infrastructure-recipient-training.canada.ca","issuer":"SSL.com","from":"2025-05-07T14:11:53Z","to":"2026-06-06T14:00:06Z"}
+{"id":"10341989940","timestamp":"2025-05-09T22:15:37.867265638Z","domain":"www.beneficiaire-infrastructure-formation.canada.ca","issuer":"SSL.com","from":"2025-05-07T14:11:53Z","to":"2026-06-06T14:00:06Z"}
+{"id":"10341989940","timestamp":"2025-05-09T22:15:37.867265718Z","domain":"www.infrastructure-recipient-training.canada.ca","issuer":"SSL.com","from":"2025-05-07T14:11:53Z","to":"2026-06-06T14:00:06Z"}
+{"id":"10342070412","timestamp":"2025-05-09T22:15:37.867265808Z","domain":"ca-west-1.secure.g7-dev.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-07T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10342070412","timestamp":"2025-05-09T22:15:37.867265888Z","domain":"secure.g7-dev.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-07T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10342083396","timestamp":"2025-05-09T22:15:37.867265988Z","domain":"ca-central-1.secure.g7-dev.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-07T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10342083396","timestamp":"2025-05-09T22:15:37.867266069Z","domain":"secure.g7-dev.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-07T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10342180748","timestamp":"2025-05-09T22:15:37.867266159Z","domain":"beneficiaire-infrastructure.canada.ca","issuer":"SSL.com","from":"2025-05-07T14:38:09Z","to":"2026-05-07T14:46:29Z"}
+{"id":"10342180748","timestamp":"2025-05-09T22:15:37.867266229Z","domain":"beneficiaire-infrastructure-preprod.canada.ca","issuer":"SSL.com","from":"2025-05-07T14:38:09Z","to":"2026-05-07T14:46:29Z"}
+{"id":"10342180748","timestamp":"2025-05-09T22:15:37.867266309Z","domain":"infrastructure-recipient.canada.ca","issuer":"SSL.com","from":"2025-05-07T14:38:09Z","to":"2026-05-07T14:46:29Z"}
+{"id":"10342180748","timestamp":"2025-05-09T22:15:37.867266389Z","domain":"infrastructure-recipient-preprod.canada.ca","issuer":"SSL.com","from":"2025-05-07T14:38:09Z","to":"2026-05-07T14:46:29Z"}
+{"id":"10343106706","timestamp":"2025-05-09T22:15:37.867266469Z","domain":"datacube-api.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-07T15:51:37Z","to":"2025-08-05T15:51:36Z"}
+{"id":"10343210563","timestamp":"2025-05-09T22:15:37.86726655Z","domain":"notifications.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-07T16:07:53Z","to":"2025-08-05T16:07:52Z"}
+{"id":"10343387188","timestamp":"2025-05-09T22:15:37.86726663Z","domain":"test.cto-sand-jdegouffe.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-07T00:00:00Z","to":"2025-11-07T23:59:59Z"}
+{"id":"10343461721","timestamp":"2025-05-09T22:15:37.86726671Z","domain":"auth.g7-dev.canada.ca","issuer":"Let's Encrypt","from":"2025-05-07T16:47:07Z","to":"2025-08-05T16:47:06Z"}
+{"id":"10343462074","timestamp":"2025-05-09T22:15:37.86726679Z","domain":"auth.g7-dev.canada.ca","issuer":"Let's Encrypt","from":"2025-05-07T16:47:10Z","to":"2025-08-05T16:47:09Z"}
+{"id":"10343536720","timestamp":"2025-05-09T22:15:37.86726687Z","domain":"gcmatarchives-uat.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-07T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10343641707","timestamp":"2025-05-09T22:15:37.86726695Z","domain":"sfts-poc-test.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-07T00:00:00Z","to":"2026-06-05T23:59:59Z"}
+{"id":"10343668283","timestamp":"2025-05-09T22:15:37.86726704Z","domain":"grafana.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-07T17:18:06Z","to":"2025-08-05T17:18:05Z"}
+{"id":"10344221540","timestamp":"2025-05-09T22:15:37.86726712Z","domain":"resource-catalogue.ws-bob.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-07T18:38:42Z","to":"2025-08-05T18:38:41Z"}
+{"id":"10344356757","timestamp":"2025-05-09T22:15:37.867267201Z","domain":"portal.cto-dev-mmahdavian.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-07T00:00:00Z","to":"2025-11-07T23:59:59Z"}
+{"id":"10344481484","timestamp":"2025-05-09T22:15:37.867268453Z","domain":"staticwebsite.cto-sand-jdegouffe.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-07T00:00:00Z","to":"2025-11-07T23:59:59Z"}
+{"id":"10344503886","timestamp":"2025-05-09T22:15:37.867268533Z","domain":"*.list-manager.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-07T00:00:00Z","to":"2026-06-01T23:59:59Z"}
+{"id":"10344503886","timestamp":"2025-05-09T22:15:37.867268613Z","domain":"list-manager.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-07T00:00:00Z","to":"2026-06-01T23:59:59Z"}
+{"id":"10344617447","timestamp":"2025-05-09T22:15:37.867268694Z","domain":"mlflow.ws-bob.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-07T19:38:40Z","to":"2025-08-05T19:38:39Z"}
+{"id":"10346561421","timestamp":"2025-05-09T22:15:37.867268774Z","domain":"helloweb.mgmt.dl47qt.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-05-07T23:47:46Z","to":"2025-08-06T00:31:32Z"}
+{"id":"10348407213","timestamp":"2025-05-09T22:15:37.867268854Z","domain":"*.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-08T03:31:22Z","to":"2025-08-06T03:31:21Z"}
+{"id":"10348407213","timestamp":"2025-05-09T22:15:37.867268934Z","domain":"dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-08T03:31:22Z","to":"2025-08-06T03:31:21Z"}
+{"id":"10348407933","timestamp":"2025-05-09T22:15:37.867269014Z","domain":"*.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-08T03:30:25Z","to":"2025-08-06T03:30:24Z"}
+{"id":"10348407933","timestamp":"2025-05-09T22:15:37.867269094Z","domain":"ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-08T03:30:25Z","to":"2025-08-06T03:30:24Z"}
+{"id":"10348484249","timestamp":"2025-05-09T22:15:37.867269184Z","domain":"earthquakes.canada.ca","issuer":"Let's Encrypt","from":"2025-05-08T03:40:01Z","to":"2025-08-06T03:40:00Z"}
+{"id":"10348484249","timestamp":"2025-05-09T22:15:37.867269255Z","domain":"seismes.canada.ca","issuer":"Let's Encrypt","from":"2025-05-08T03:40:01Z","to":"2025-08-06T03:40:00Z"}
+{"id":"10348743928","timestamp":"2025-05-09T22:15:37.867269335Z","domain":"chis.canada.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:14:41Z","to":"2025-08-06T04:14:40Z"}
+{"id":"10348743928","timestamp":"2025-05-09T22:15:37.867269405Z","domain":"scir.canada.ca","issuer":"Let's Encrypt","from":"2025-05-08T04:14:41Z","to":"2025-08-06T04:14:40Z"}
+{"id":"10349776322","timestamp":"2025-05-09T22:15:37.867269495Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-08T06:24:45Z","to":"2025-08-06T06:24:44Z"}
+{"id":"10349776322","timestamp":"2025-05-09T22:15:37.867269565Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-08T06:24:45Z","to":"2025-08-06T06:24:44Z"}
+{"id":"10349783846","timestamp":"2025-05-09T22:15:37.867269645Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-08T06:25:51Z","to":"2025-08-06T06:25:50Z"}
+{"id":"10349783846","timestamp":"2025-05-09T22:15:37.867269705Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-08T06:25:51Z","to":"2025-08-06T06:25:50Z"}
+{"id":"10351654920","timestamp":"2025-05-09T22:15:37.867269785Z","domain":"eservices.canada.ca","issuer":"SSL.com","from":"2025-05-08T11:42:43Z","to":"2026-05-25T11:24:39Z"}
+{"id":"10351654920","timestamp":"2025-05-09T22:15:37.867269856Z","domain":"www.eservices.canada.ca","issuer":"SSL.com","from":"2025-05-08T11:42:43Z","to":"2026-05-25T11:24:39Z"}
+{"id":"10352748442","timestamp":"2025-05-09T22:15:37.867269936Z","domain":"dec-espace-client-space-ced.canada.ca","issuer":"DigiCert","from":"2025-05-08T00:00:00Z","to":"2025-11-08T23:59:59Z"}
+{"id":"10352919826","timestamp":"2025-05-09T22:15:37.867270016Z","domain":"www.cto-dev-mmahdavian.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-08T00:00:00Z","to":"2025-11-08T23:59:59Z"}
+{"id":"10353072616","timestamp":"2025-05-09T22:15:37.867270096Z","domain":"www.cto-dev-mmahdavian.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-08T00:00:00Z","to":"2025-11-08T23:59:59Z"}
+{"id":"10353117085","timestamp":"2025-05-09T22:15:37.867270176Z","domain":"www.cto-dev-mmahdavian.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-08T00:00:00Z","to":"2025-11-08T23:59:59Z"}
+{"id":"10353329155","timestamp":"2025-05-09T22:15:37.867270256Z","domain":"pm.canada.ca","issuer":"SSL.com","from":"2025-05-08T15:31:44Z","to":"2026-06-08T04:00:00Z"}
+{"id":"10353329155","timestamp":"2025-05-09T22:15:37.867270326Z","domain":"www.pm.canada.ca","issuer":"SSL.com","from":"2025-05-08T15:31:44Z","to":"2026-06-08T04:00:00Z"}
+{"id":"10353456770","timestamp":"2025-05-09T22:15:37.867270406Z","domain":"*.lwhpblack-phclnoire.service.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-05-08T15:47:11Z","to":"2026-06-08T04:00:00Z"}
+{"id":"10353456770","timestamp":"2025-05-09T22:15:37.867270477Z","domain":"lwhpblack-phclnoire.service.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-05-08T15:47:11Z","to":"2026-06-08T04:00:00Z"}
+{"id":"10354267432","timestamp":"2025-05-09T22:15:37.867270547Z","domain":"portal.cto-sand-jdegouffe.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-08T00:00:00Z","to":"2025-11-08T23:59:59Z"}
+{"id":"10354956676","timestamp":"2025-05-09T22:15:37.867270627Z","domain":"git.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-05-08T18:27:50Z","to":"2025-08-06T18:27:49Z"}
+{"id":"10355119170","timestamp":"2025-05-09T22:15:37.867270697Z","domain":"ibm-turbonomic.dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-08T00:00:00Z","to":"2026-06-06T23:59:59Z"}
+{"id":"10355154813","timestamp":"2025-05-09T22:15:37.867270777Z","domain":"portal.cto-sand-jdegouffe.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-08T00:00:00Z","to":"2025-11-08T23:59:59Z"}
+{"id":"10360324221","timestamp":"2025-05-09T22:15:37.867270858Z","domain":"ncco-app.fsdh-dhsf.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-09T00:00:00Z","to":"2025-11-09T23:59:59Z"}
+{"id":"10360583626","timestamp":"2025-05-09T22:15:37.867270927Z","domain":"incident-forwarder.cat.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-05-09T07:39:47Z","to":"2025-08-07T08:35:42Z"}
+{"id":"10361586685","timestamp":"2025-05-09T22:15:37.867271008Z","domain":"mfa-gcaccounts.canada.ca","issuer":"SSL.com","from":"2025-05-09T12:03:08Z","to":"2026-05-09T12:11:52Z"}
+{"id":"10361586685","timestamp":"2025-05-09T22:15:37.867271078Z","domain":"mfa-gcaccounts-service.canada.ca","issuer":"SSL.com","from":"2025-05-09T12:03:08Z","to":"2026-05-09T12:11:52Z"}
+{"id":"10361618883","timestamp":"2025-05-09T22:15:37.867271158Z","domain":"mfa-api-beta-gcaccounts.canada.ca","issuer":"SSL.com","from":"2025-05-09T12:07:00Z","to":"2026-05-09T12:15:05Z"}
+{"id":"10361618883","timestamp":"2025-05-09T22:15:37.867271228Z","domain":"mfa-api-dev-gcaccounts.canada.ca","issuer":"SSL.com","from":"2025-05-09T12:07:00Z","to":"2026-05-09T12:15:05Z"}
+{"id":"10361618883","timestamp":"2025-05-09T22:15:37.867271308Z","domain":"mfa-api-integration-gcaccounts.canada.ca","issuer":"SSL.com","from":"2025-05-09T12:07:00Z","to":"2026-05-09T12:15:05Z"}
+{"id":"10361618883","timestamp":"2025-05-09T22:15:37.867271378Z","domain":"mfa-test-gcaccounts-service.canada.ca","issuer":"SSL.com","from":"2025-05-09T12:07:00Z","to":"2026-05-09T12:15:05Z"}
+{"id":"10361694756","timestamp":"2025-05-09T22:15:37.867283411Z","domain":"g7.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-09T00:00:00Z","to":"2026-06-07T23:59:59Z"}
+{"id":"10362671945","timestamp":"2025-05-09T22:15:37.867283491Z","domain":"portal2.cto-sand-jdegouffe.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-05-09T00:00:00Z","to":"2025-11-09T23:59:59Z"}
+{"id":"10363394488","timestamp":"2025-05-09T22:15:37.867283581Z","domain":"mlflow.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-09T15:28:54Z","to":"2025-08-07T15:28:53Z"}
+{"id":"10363831247","timestamp":"2025-05-09T22:15:37.867283661Z","domain":"gcmatarchive-api-uat.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-09T00:00:00Z","to":"2026-06-07T23:59:59Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867283751Z","domain":"appointments.gc.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867283831Z","domain":"bcp.gc.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867283902Z","domain":"decrets.canada.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867283982Z","domain":"donneesouvertes.bcp.gc.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867284062Z","domain":"federal-organizations.canada.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867284142Z","domain":"guide-ministries.canada.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867284212Z","domain":"nominations.gc.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867284282Z","domain":"nominations-senat.canada.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867284363Z","domain":"od-admin.pco.gc.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867284433Z","domain":"opendata.pco.gc.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867284503Z","domain":"orders-in-council.canada.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867284583Z","domain":"organisations-federales.canada.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867284663Z","domain":"pco-bcp.gc.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867284733Z","domain":"pco.gc.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867284803Z","domain":"repertoire-ministeres.canada.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867284873Z","domain":"senate-appointments.canada.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867284944Z","domain":"www.appointments.gc.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867285014Z","domain":"www.bcp.gc.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867285084Z","domain":"www.guide-ministries.canada.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867285144Z","domain":"www.nominations.gc.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867285224Z","domain":"www.pco-bcp.gc.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867285284Z","domain":"www.pco.gc.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364094756","timestamp":"2025-05-09T22:15:37.867285354Z","domain":"www.repertoire-ministeres.canada.ca","issuer":"SSL.com","from":"2025-05-09T17:56:32Z","to":"2026-06-09T04:00:00Z"}
+{"id":"10364155589","timestamp":"2025-05-09T22:15:37.867285434Z","domain":"ace-dedac.cbsa-asfc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-05-09T18:08:35Z","to":"2026-06-09T04:00:00Z"}
