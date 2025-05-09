@@ -475,3 +475,11 @@
 {"id":"10331168701","timestamp":"2025-05-06T13:13:56.773770275Z","domain":"www.ordersdecisions.bcuc.com","issuer":"Let's Encrypt","from":"2025-05-06T11:52:14Z","to":"2025-08-04T11:52:13Z"}
 {"id":"10331168701","timestamp":"2025-05-06T13:13:56.773770375Z","domain":"www.trackenergyregs.ca","issuer":"Let's Encrypt","from":"2025-05-06T11:52:14Z","to":"2025-08-04T11:52:13Z"}
 {"id":"10331168701","timestamp":"2025-05-06T13:13:56.773770455Z","domain":"www.trackenergyregs.com","issuer":"Let's Encrypt","from":"2025-05-06T11:52:14Z","to":"2025-08-04T11:52:13Z"}
+{"id":"10332539930","timestamp":"2025-05-09T22:04:48.266083358Z","domain":"vpn1.scc-csc.ca","issuer":"GoDaddy","from":"2025-05-06T16:05:39Z","to":"2026-06-07T16:05:39Z"}
+{"id":"10332539930","timestamp":"2025-05-09T22:04:48.266083909Z","domain":"vpn2.scc-csc.ca","issuer":"GoDaddy","from":"2025-05-06T16:05:39Z","to":"2026-06-07T16:05:39Z"}
+{"id":"10332539930","timestamp":"2025-05-09T22:04:48.26608423Z","domain":"vpn.scc-csc.gc.ca","issuer":"GoDaddy","from":"2025-05-06T16:05:39Z","to":"2026-06-07T16:05:39Z"}
+{"id":"10332539930","timestamp":"2025-05-09T22:04:48.26608452Z","domain":"www.vpn.scc-csc.gc.ca","issuer":"GoDaddy","from":"2025-05-06T16:05:39Z","to":"2026-06-07T16:05:39Z"}
+{"id":"10364330325","timestamp":"2025-05-09T22:04:48.266084661Z","domain":"certauth.sts.scc-csc.ca","issuer":"GoDaddy","from":"2025-05-09T18:44:17Z","to":"2026-06-10T18:44:17Z"}
+{"id":"10364330325","timestamp":"2025-05-09T22:04:48.266086053Z","domain":"enterpriseregistration.scc-csc.ca","issuer":"GoDaddy","from":"2025-05-09T18:44:17Z","to":"2026-06-10T18:44:17Z"}
+{"id":"10364330325","timestamp":"2025-05-09T22:04:48.266086153Z","domain":"sts.scc-csc.ca","issuer":"GoDaddy","from":"2025-05-09T18:44:17Z","to":"2026-06-10T18:44:17Z"}
+{"id":"10364330325","timestamp":"2025-05-09T22:04:48.266086253Z","domain":"www.sts.scc-csc.ca","issuer":"GoDaddy","from":"2025-05-09T18:44:17Z","to":"2026-06-10T18:44:17Z"}
