@@ -35,13 +35,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 9046,
+      "totalCertificates": 9049,
       "totalsByIssuer": {
         "Entrust": 2525,
         "Amazon Trust Services": 771,
         "DigiCert": 447,
         "GoDaddy": 12,
-        "Let's Encrypt": 3897,
+        "Let's Encrypt": 3900,
         "Google Trust Services": 168,
         "Sectigo": 194,
         "SSL.com": 1032
@@ -206,10 +206,10 @@
     {
       "inputFile": "dfo-mpo-gc-ca.jsonl",
       "outputFile": "stats/dfo-mpo-gc-ca-stats.json",
-      "totalCertificates": 941,
+      "totalCertificates": 942,
       "totalsByIssuer": {
         "Entrust": 332,
-        "DigiCert": 32,
+        "DigiCert": 33,
         "Let's Encrypt": 260,
         "SSL.com": 317
       },
@@ -303,11 +303,11 @@
     {
       "inputFile": "inspection-gc-ca.jsonl",
       "outputFile": "stats/inspection-gc-ca-stats.json",
-      "totalCertificates": 174,
+      "totalCertificates": 175,
       "totalsByIssuer": {
         "Entrust": 131,
         "DigiCert": 1,
-        "Let's Encrypt": 5,
+        "Let's Encrypt": 6,
         "SSL.com": 37
       },
       "errorCount": 0
@@ -369,12 +369,12 @@
     {
       "inputFile": "mint-ca.jsonl",
       "outputFile": "stats/mint-ca-stats.json",
-      "totalCertificates": 308,
+      "totalCertificates": 310,
       "totalsByIssuer": {
         "Entrust": 137,
         "DigiCert": 16,
         "Let's Encrypt": 24,
-        "Google Trust Services": 116,
+        "Google Trust Services": 118,
         "Sectigo": 2,
         "Entrust Limited": 13
       },
@@ -658,11 +658,11 @@
   "grandTotalByIssuer": {
     "Entrust": 11243,
     "Amazon Trust Services": 2505,
-    "Let's Encrypt": 11501,
+    "Let's Encrypt": 11505,
     "SSL.com": 3769,
-    "DigiCert": 1414,
+    "DigiCert": 1415,
     "GoDaddy": 76,
-    "Google Trust Services": 328,
+    "Google Trust Services": 330,
     "Sectigo": 6698,
     "Entrust Limited": 14,
     "GlobalSign": 2
