@@ -256,3 +256,5 @@
 {"id":"10202451020","timestamp":"2025-04-23T16:16:33.000452865Z","domain":"tcsupport.tc.gc.ca","issuer":"SSL.com","from":"2025-04-23T15:49:39Z","to":"2026-05-23T04:00:00Z"}
 {"id":"10281934589","timestamp":"2025-05-01T09:15:55.164868035Z","domain":"*.acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-05-01T08:02:27Z","to":"2025-07-30T08:02:26Z"}
 {"id":"10281934589","timestamp":"2025-05-01T09:15:55.164868546Z","domain":"acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-05-01T08:02:27Z","to":"2025-07-30T08:02:26Z"}
+{"id":"10391420612","timestamp":"2025-05-12T13:21:16.639009915Z","domain":"tc.gc.ca","issuer":"Sectigo","from":"2025-05-12T00:00:00Z","to":"2025-08-10T23:59:59Z"}
+{"id":"10391420612","timestamp":"2025-05-12T13:21:16.639010736Z","domain":"www.tc.gc.ca","issuer":"Sectigo","from":"2025-05-12T00:00:00Z","to":"2025-08-10T23:59:59Z"}
