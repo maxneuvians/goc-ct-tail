@@ -35,13 +35,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 9049,
+      "totalCertificates": 9050,
       "totalsByIssuer": {
         "Entrust": 2525,
         "Amazon Trust Services": 771,
         "DigiCert": 447,
         "GoDaddy": 12,
-        "Let's Encrypt": 3900,
+        "Let's Encrypt": 3901,
         "Google Trust Services": 168,
         "Sectigo": 194,
         "SSL.com": 1032
@@ -252,9 +252,9 @@
     {
       "inputFile": "grainscanada-gc-ca.jsonl",
       "outputFile": "stats/grainscanada-gc-ca-stats.json",
-      "totalCertificates": 4,
+      "totalCertificates": 5,
       "totalsByIssuer": {
-        "DigiCert": 2,
+        "DigiCert": 3,
         "Entrust": 2
       },
       "errorCount": 0
@@ -369,12 +369,12 @@
     {
       "inputFile": "mint-ca.jsonl",
       "outputFile": "stats/mint-ca-stats.json",
-      "totalCertificates": 310,
+      "totalCertificates": 312,
       "totalsByIssuer": {
         "Entrust": 137,
         "DigiCert": 16,
         "Let's Encrypt": 24,
-        "Google Trust Services": 118,
+        "Google Trust Services": 120,
         "Sectigo": 2,
         "Entrust Limited": 13
       },
@@ -393,13 +393,13 @@
     {
       "inputFile": "nrcan-gc-ca.jsonl",
       "outputFile": "stats/nrcan-gc-ca-stats.json",
-      "totalCertificates": 11554,
+      "totalCertificates": 11651,
       "totalsByIssuer": {
         "Amazon Trust Services": 32,
         "Entrust": 460,
         "DigiCert": 20,
         "Let's Encrypt": 4372,
-        "Sectigo": 6446,
+        "Sectigo": 6543,
         "SSL.com": 224
       },
       "errorCount": 0
@@ -658,12 +658,12 @@
   "grandTotalByIssuer": {
     "Entrust": 11243,
     "Amazon Trust Services": 2505,
-    "Let's Encrypt": 11505,
+    "Let's Encrypt": 11506,
     "SSL.com": 3769,
-    "DigiCert": 1415,
+    "DigiCert": 1416,
     "GoDaddy": 76,
-    "Google Trust Services": 330,
-    "Sectigo": 6698,
+    "Google Trust Services": 332,
+    "Sectigo": 6795,
     "Entrust Limited": 14,
     "GlobalSign": 2
   }
