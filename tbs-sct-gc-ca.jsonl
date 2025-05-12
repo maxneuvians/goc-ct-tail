@@ -475,3 +475,6 @@
 {"id":"10284298568","timestamp":"2025-05-01T15:35:58.737395344Z","domain":"v3-calipersplusapi-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-05-01T00:00:00Z","to":"2025-11-01T23:59:59Z"}
 {"id":"10326232947","timestamp":"2025-05-06T02:11:07.333692407Z","domain":"sitefinityrenderer-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-05-06T00:00:00Z","to":"2025-11-06T23:59:59Z"}
 {"id":"10331175250","timestamp":"2025-05-06T13:40:55.771872904Z","domain":"sitefinity-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-05-06T00:00:00Z","to":"2025-11-06T23:59:59Z"}
+{"id":"10391278509","timestamp":"2025-05-12T13:41:20.46281322Z","domain":"tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-05-12T00:00:00Z","to":"2025-08-10T23:59:59Z"}
+{"id":"10391278509","timestamp":"2025-05-12T13:41:20.462813761Z","domain":"www.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-05-12T00:00:00Z","to":"2025-08-10T23:59:59Z"}
+{"id":"10391390323","timestamp":"2025-05-12T13:41:20.462813982Z","domain":"sitefinityrenderer-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-05-12T00:00:00Z","to":"2025-11-12T23:59:59Z"}
