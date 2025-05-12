@@ -601,3 +601,5 @@
 {"id":"10360050816","timestamp":"2025-05-09T21:33:52.872171259Z","domain":"de-cith.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T07:18:49Z","to":"2025-08-07T07:18:48Z"}
 {"id":"10361403450","timestamp":"2025-05-09T21:33:52.87217136Z","domain":"de-ccei.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-09T10:44:50Z","to":"2025-08-07T10:44:49Z"}
 {"id":"10390951250","timestamp":"2025-05-12T12:46:12.917074953Z","domain":"de-stcdemo-ext.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-12T11:08:34Z","to":"2025-08-10T11:08:33Z"}
+{"id":"10391448597","timestamp":"2025-05-12T13:41:22.574782503Z","domain":"statcan.gc.ca","issuer":"Sectigo","from":"2025-05-12T00:00:00Z","to":"2025-08-10T23:59:59Z"}
+{"id":"10391448597","timestamp":"2025-05-12T13:41:22.574783114Z","domain":"www.statcan.gc.ca","issuer":"Sectigo","from":"2025-05-12T00:00:00Z","to":"2025-08-10T23:59:59Z"}
