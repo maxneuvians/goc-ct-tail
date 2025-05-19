@@ -479,3 +479,8 @@
 {"id":"10391278509","timestamp":"2025-05-12T13:41:20.462813761Z","domain":"www.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-05-12T00:00:00Z","to":"2025-08-10T23:59:59Z"}
 {"id":"10391390323","timestamp":"2025-05-12T13:41:20.462813982Z","domain":"sitefinityrenderer-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-05-12T00:00:00Z","to":"2025-11-12T23:59:59Z"}
 {"id":"10391758311","timestamp":"2025-05-12T14:38:22.80312299Z","domain":"sitefinity-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-05-12T00:00:00Z","to":"2025-11-12T23:59:59Z"}
+{"id":"10403396307","timestamp":"2025-05-19T16:39:37.723014935Z","domain":"verification.dev.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-05-13T15:29:46Z","to":"2026-06-13T04:00:00Z"}
+{"id":"10403396307","timestamp":"2025-05-19T16:39:37.723015376Z","domain":"verification.qa.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-05-13T15:29:46Z","to":"2026-06-13T04:00:00Z"}
+{"id":"10403432015","timestamp":"2025-05-19T16:39:37.723015777Z","domain":"hrdatahub-centrededonneesrh.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-05-13T15:34:41Z","to":"2026-06-13T04:00:00Z"}
+{"id":"10403466596","timestamp":"2025-05-19T16:39:37.723016007Z","domain":"verification.uat.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-05-13T15:38:28Z","to":"2026-06-13T04:00:00Z"}
+{"id":"10405780333","timestamp":"2025-05-19T16:39:37.723016107Z","domain":"verification.prd.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-05-13T21:13:58Z","to":"2026-06-13T04:00:00Z"}
