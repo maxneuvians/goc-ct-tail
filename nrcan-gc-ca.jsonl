@@ -11665,3 +11665,17 @@
 {"id":"10388178659","timestamp":"2025-05-12T07:15:46.433235548Z","domain":"www.r-2000.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-12T05:14:51Z","to":"2025-08-10T05:14:50Z"}
 {"id":"10388178659","timestamp":"2025-05-12T07:15:46.433235619Z","domain":"www.r-2000.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-12T05:14:51Z","to":"2025-08-10T05:14:50Z"}
 {"id":"10388178659","timestamp":"2025-05-12T07:15:46.433235688Z","domain":"www.r-2000.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-12T05:14:51Z","to":"2025-08-10T05:14:50Z"}
+{"id":"10413821956","timestamp":"2025-05-19T17:15:25.670588762Z","domain":"nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-14T00:00:00Z","to":"2025-08-12T23:59:59Z"}
+{"id":"10413821956","timestamp":"2025-05-19T17:15:25.670589483Z","domain":"www.nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-14T00:00:00Z","to":"2025-08-12T23:59:59Z"}
+{"id":"10420796897","timestamp":"2025-05-19T17:15:25.670589854Z","domain":"redirect.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-15T04:50:35Z","to":"2025-08-13T04:50:34Z"}
+{"id":"10420796897","timestamp":"2025-05-19T17:15:25.670590054Z","domain":"redirect.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-15T04:50:35Z","to":"2025-08-13T04:50:34Z"}
+{"id":"10420796897","timestamp":"2025-05-19T17:15:25.670590135Z","domain":"redirect.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-15T04:50:35Z","to":"2025-08-13T04:50:34Z"}
+{"id":"10420796897","timestamp":"2025-05-19T17:15:25.670591086Z","domain":"redirect.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-15T04:50:35Z","to":"2025-08-13T04:50:34Z"}
+{"id":"10463352346","timestamp":"2025-05-19T17:15:25.670591186Z","domain":"pas-recruitment.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-19T04:26:42Z","to":"2025-08-17T04:26:41Z"}
+{"id":"10463352346","timestamp":"2025-05-19T17:15:25.670591266Z","domain":"pas-recruitment.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-19T04:26:42Z","to":"2025-08-17T04:26:41Z"}
+{"id":"10463352346","timestamp":"2025-05-19T17:15:25.670591347Z","domain":"pas-recruitment.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-19T04:26:42Z","to":"2025-08-17T04:26:41Z"}
+{"id":"10463352346","timestamp":"2025-05-19T17:15:25.670592198Z","domain":"pas-recruitment.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-19T04:26:42Z","to":"2025-08-17T04:26:41Z"}
+{"id":"10463352346","timestamp":"2025-05-19T17:15:25.670592279Z","domain":"www.pas-recruitment.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-19T04:26:42Z","to":"2025-08-17T04:26:41Z"}
+{"id":"10463352346","timestamp":"2025-05-19T17:15:25.670592359Z","domain":"www.pas-recruitment.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-19T04:26:42Z","to":"2025-08-17T04:26:41Z"}
+{"id":"10463352346","timestamp":"2025-05-19T17:15:25.670592439Z","domain":"www.pas-recruitment.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-19T04:26:42Z","to":"2025-08-17T04:26:41Z"}
+{"id":"10463352346","timestamp":"2025-05-19T17:15:25.670592519Z","domain":"www.pas-recruitment.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-19T04:26:42Z","to":"2025-08-17T04:26:41Z"}
