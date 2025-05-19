@@ -173,3 +173,5 @@
 {"id":"10041216746","timestamp":"2025-04-08T14:27:58.330849074Z","domain":"www.inspection.gc.ca","issuer":"SSL.com","from":"2025-04-08T13:16:08Z","to":"2026-05-08T04:00:00Z"}
 {"id":"10041216746","timestamp":"2025-04-08T14:27:58.330849785Z","domain":"www.prod.inspection.canada.ca","issuer":"SSL.com","from":"2025-04-08T13:16:08Z","to":"2026-05-08T04:00:00Z"}
 {"id":"10375544512","timestamp":"2025-05-10T23:24:52.651229215Z","domain":"catalogue.inspection.gc.ca","issuer":"Let's Encrypt","from":"2025-05-10T22:15:26Z","to":"2025-08-08T22:15:25Z"}
+{"id":"10412985433","timestamp":"2025-05-19T17:26:45.29666881Z","domain":"agr.gc.ca","issuer":"Sectigo","from":"2025-05-14T00:00:00Z","to":"2026-05-14T23:59:59Z"}
+{"id":"10412985433","timestamp":"2025-05-19T17:26:45.296669131Z","domain":"inspection.gc.ca","issuer":"Sectigo","from":"2025-05-14T00:00:00Z","to":"2026-05-14T23:59:59Z"}
