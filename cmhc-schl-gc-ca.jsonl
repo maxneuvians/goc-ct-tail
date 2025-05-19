@@ -521,3 +521,11 @@
 {"id":"10365122761","timestamp":"2025-05-09T21:43:35.508693806Z","domain":"qasc102-assets.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-05-09T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"10365643681","timestamp":"2025-05-09T22:44:40.687213506Z","domain":"uatsc10-assets.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-05-09T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"10392704614","timestamp":"2025-05-12T16:48:04.015615285Z","domain":"multi-connect-connexion-uat.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-05-12T00:00:00Z","to":"2026-05-11T23:59:59Z"}
+{"id":"10404261879","timestamp":"2025-05-19T16:47:45.836912241Z","domain":"qmed.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-05-13T00:00:00Z","to":"2026-05-12T23:59:59Z"}
+{"id":"10412970577","timestamp":"2025-05-19T16:47:45.836912662Z","domain":"multi-connect-connexion-uat.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-05-14T00:00:00Z","to":"2026-05-13T23:59:59Z"}
+{"id":"10413982044","timestamp":"2025-05-19T16:47:45.836912872Z","domain":"eppd1kwmft02.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-05-14T00:00:00Z","to":"2026-05-13T23:59:59Z"}
+{"id":"10431462649","timestamp":"2025-05-19T16:47:45.836913093Z","domain":"guestportal1.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-05-16T00:00:00Z","to":"2026-05-15T23:59:59Z"}
+{"id":"10431462649","timestamp":"2025-05-19T16:47:45.836913193Z","domain":"tise1.rtr.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-05-16T00:00:00Z","to":"2026-05-15T23:59:59Z"}
+{"id":"10447213615","timestamp":"2025-05-19T16:47:45.836913724Z","domain":"guestportal1.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-05-17T00:00:00Z","to":"2026-05-19T23:59:59Z"}
+{"id":"10447213615","timestamp":"2025-05-19T16:47:45.836913814Z","domain":"sponsor.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-05-17T00:00:00Z","to":"2026-05-19T23:59:59Z"}
+{"id":"10447213615","timestamp":"2025-05-19T16:47:45.836913904Z","domain":"tise1.rtr.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-05-17T00:00:00Z","to":"2026-05-19T23:59:59Z"}
