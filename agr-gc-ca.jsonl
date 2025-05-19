@@ -374,3 +374,6 @@
 {"id":"10273547850","timestamp":"2025-04-30T14:37:17.32772567Z","domain":"www.cnc-dev.agr.gc.ca","issuer":"SSL.com","from":"2025-04-30T14:02:12Z","to":"2026-04-07T04:00:00Z"}
 {"id":"10273547850","timestamp":"2025-04-30T14:37:17.32772575Z","domain":"www.cnc-ottawa.ca","issuer":"SSL.com","from":"2025-04-30T14:02:12Z","to":"2026-04-07T04:00:00Z"}
 {"id":"10273547850","timestamp":"2025-04-30T14:37:17.32772582Z","domain":"www.cnc-test.agr.gc.ca","issuer":"SSL.com","from":"2025-04-30T14:02:12Z","to":"2026-04-07T04:00:00Z"}
+{"id":"10404854371","timestamp":"2025-05-19T16:39:41.626239582Z","domain":"multimedia.agr.gc.ca","issuer":"Let's Encrypt","from":"2025-05-13T17:20:48Z","to":"2025-08-11T17:20:47Z"}
+{"id":"10412985433","timestamp":"2025-05-19T16:39:41.626239893Z","domain":"agr.gc.ca","issuer":"Sectigo","from":"2025-05-14T00:00:00Z","to":"2026-05-14T23:59:59Z"}
+{"id":"10412985433","timestamp":"2025-05-19T16:39:41.626240123Z","domain":"inspection.gc.ca","issuer":"Sectigo","from":"2025-05-14T00:00:00Z","to":"2026-05-14T23:59:59Z"}
