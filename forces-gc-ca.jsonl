@@ -1150,3 +1150,5 @@
 {"id":"10353105464","timestamp":"2025-05-09T22:15:36.345045973Z","domain":"tidedev-flowtime.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-05-08T15:03:41Z","to":"2026-05-08T04:00:00Z"}
 {"id":"10353105464","timestamp":"2025-05-09T22:15:36.345046153Z","domain":"tidedev-hub.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-05-08T15:03:41Z","to":"2026-05-08T04:00:00Z"}
 {"id":"10353105464","timestamp":"2025-05-09T22:15:36.345046244Z","domain":"tidedev-sasweb.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-05-08T15:03:41Z","to":"2026-05-08T04:00:00Z"}
+{"id":"10424032067","timestamp":"2025-05-19T17:15:25.196786295Z","domain":"allies.cloud.forces.gc.ca","issuer":"DigiCert","from":"2025-05-15T00:00:00Z","to":"2025-11-15T23:59:59Z"}
+{"id":"10424055708","timestamp":"2025-05-19T17:15:25.196786826Z","domain":"allies-staging.cloud.forces.gc.ca","issuer":"DigiCert","from":"2025-05-15T00:00:00Z","to":"2025-11-15T23:59:59Z"}
