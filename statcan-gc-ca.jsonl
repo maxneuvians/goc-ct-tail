@@ -603,3 +603,44 @@
 {"id":"10390951250","timestamp":"2025-05-12T12:46:12.917074953Z","domain":"de-stcdemo-ext.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-12T11:08:34Z","to":"2025-08-10T11:08:33Z"}
 {"id":"10391448597","timestamp":"2025-05-12T13:41:22.574782503Z","domain":"statcan.gc.ca","issuer":"Sectigo","from":"2025-05-12T00:00:00Z","to":"2025-08-10T23:59:59Z"}
 {"id":"10391448597","timestamp":"2025-05-12T13:41:22.574783114Z","domain":"www.statcan.gc.ca","issuer":"Sectigo","from":"2025-05-12T00:00:00Z","to":"2025-08-10T23:59:59Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657340717Z","domain":"cancer-data.canada.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657341488Z","domain":"donnees-cancer.canada.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657341739Z","domain":"ecn-rce.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.65734198Z","domain":"ecn-rce.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.65734209Z","domain":"energy-information.canada.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657343452Z","domain":"icn-rci.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657343552Z","domain":"icn-rci.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657343643Z","domain":"information-energie.canada.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657343733Z","domain":"statcan.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657344714Z","domain":"www144.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657344805Z","domain":"www158.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657344895Z","domain":"www158.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657344985Z","domain":"www159.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657345075Z","domain":"www159.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657345166Z","domain":"www160.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657345255Z","domain":"www160.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657345346Z","domain":"www44.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657345436Z","domain":"www44.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657346618Z","domain":"www45.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657346718Z","domain":"www45.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657346809Z","domain":"www46.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657346899Z","domain":"www46.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657346989Z","domain":"www47.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657347089Z","domain":"www47.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657347179Z","domain":"www65.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657347269Z","domain":"www65.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657347359Z","domain":"www66.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.65734744Z","domain":"www66.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.65734753Z","domain":"www69.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.65734762Z","domain":"www69.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.65734771Z","domain":"www70.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.65734781Z","domain":"www70.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.6573479Z","domain":"www80.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657347991Z","domain":"www80.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657348081Z","domain":"www90.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657348171Z","domain":"www90.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657348261Z","domain":"www96.statcan.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657348351Z","domain":"www96.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10425618234","timestamp":"2025-05-19T16:39:36.657348441Z","domain":"www.ecn-rce.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-15T15:21:03Z","to":"2026-06-15T04:00:00Z"}
+{"id":"10433337492","timestamp":"2025-05-19T16:39:36.657348562Z","domain":"de-ircc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-16T06:56:46Z","to":"2025-08-14T06:56:45Z"}
+{"id":"10437799046","timestamp":"2025-05-19T16:39:36.657350105Z","domain":"sdmx-sfs.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-16T17:28:59Z","to":"2025-08-14T17:28:58Z"}
