@@ -9267,3 +9267,7 @@
 {"id":"10471362880","timestamp":"2025-05-20T00:37:28.635044393Z","domain":"gccatalogue.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-19T22:46:09Z","to":"2025-08-17T22:46:08Z"}
 {"id":"10472245944","timestamp":"2025-05-20T01:44:42.760194728Z","domain":"feedback-viewer.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-20T00:35:53Z","to":"2025-08-18T00:35:52Z"}
 {"id":"10474201769","timestamp":"2025-05-20T06:16:51.815241986Z","domain":"marine-geo.canada.ca","issuer":"Sectigo","from":"2025-05-20T00:00:00Z","to":"2025-08-18T23:59:59Z"}
+{"id":"10474977608","timestamp":"2025-05-20T08:16:44.075845923Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-20T06:25:56Z","to":"2025-08-18T06:25:55Z"}
+{"id":"10474977608","timestamp":"2025-05-20T08:16:44.075846434Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-20T06:25:56Z","to":"2025-08-18T06:25:55Z"}
+{"id":"10475016709","timestamp":"2025-05-20T08:16:44.075846785Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-20T06:29:10Z","to":"2025-08-18T06:29:09Z"}
+{"id":"10475016709","timestamp":"2025-05-20T08:16:44.075847065Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-20T06:29:10Z","to":"2025-08-18T06:29:09Z"}
