@@ -1265,3 +1265,5 @@
 {"id":"10409178016","timestamp":"2025-05-19T16:39:35.331177768Z","domain":"realtime.dev2.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-05-13T22:58:26Z","to":"2025-08-11T22:58:25Z"}
 {"id":"10447894664","timestamp":"2025-05-19T16:39:35.331177838Z","domain":"portal.dev.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-05-17T16:59:32Z","to":"2025-08-15T16:59:31Z"}
 {"id":"10457638487","timestamp":"2025-05-19T16:39:35.33117872Z","domain":"assets.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-05-18T00:00:00Z","to":"2026-06-16T23:59:59Z"}
+{"id":"10473743650","timestamp":"2025-05-20T05:36:50.934439599Z","domain":"*.status.staging.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-05-20T00:00:00Z","to":"2026-06-18T23:59:59Z"}
+{"id":"10473743650","timestamp":"2025-05-20T05:36:50.93443978Z","domain":"status.staging.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-05-20T00:00:00Z","to":"2026-06-18T23:59:59Z"}
