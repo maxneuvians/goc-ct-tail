@@ -2290,6 +2290,42 @@
     },
     "2025-05-12": {
       "DigiCert": 2
+    },
+    "2025-05-13": {
+      "DigiCert": 3,
+      "Let's Encrypt": 12,
+      "Amazon Trust Services": 4
+    },
+    "2025-05-14": {
+      "Let's Encrypt": 9,
+      "DigiCert": 2,
+      "SSL.com": 2
+    },
+    "2025-05-15": {
+      "Let's Encrypt": 37,
+      "SSL.com": 76,
+      "DigiCert": 1,
+      "Google Trust Services": 2
+    },
+    "2025-05-16": {
+      "Let's Encrypt": 3,
+      "SSL.com": 48,
+      "Google Trust Services": 2
+    },
+    "2025-05-17": {
+      "DigiCert": 2,
+      "Let's Encrypt": 2,
+      "Google Trust Services": 4
+    },
+    "2025-05-18": {
+      "Let's Encrypt": 2
+    },
+    "2025-05-19": {
+      "Amazon Trust Services": 2,
+      "Let's Encrypt": 2
+    },
+    "2025-05-20": {
+      "Let's Encrypt": 1
     }
   },
   "errors": []
