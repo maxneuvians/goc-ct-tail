@@ -2325,7 +2325,10 @@
       "Let's Encrypt": 2
     },
     "2025-05-20": {
-      "Let's Encrypt": 1
+      "Let's Encrypt": 111,
+      "Sectigo": 1,
+      "DigiCert": 2,
+      "SSL.com": 3
     }
   },
   "errors": []
