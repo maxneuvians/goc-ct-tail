@@ -9407,3 +9407,14 @@
 {"id":"10510584987","timestamp":"2025-05-23T14:15:35.671230336Z","domain":"forces-assets.canada.ca","issuer":"Let's Encrypt","from":"2025-05-23T12:17:41Z","to":"2025-08-21T12:17:40Z"}
 {"id":"10511157599","timestamp":"2025-05-23T15:15:51.829077618Z","domain":"support-infc.canada.ca","issuer":"SSL.com","from":"2025-05-23T14:23:03Z","to":"2026-06-23T04:00:00Z"}
 {"id":"10511638502","timestamp":"2025-05-23T16:16:14.519364531Z","domain":"canchat-pco.uat.ibm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-05-23T14:33:41Z","to":"2025-08-21T14:33:40Z"}
+{"id":"10512017150","timestamp":"2025-05-23T17:15:21.977476265Z","domain":"te.clegc.gc.ca","issuer":"SSL.com","from":"2025-05-23T16:12:16Z","to":"2026-06-23T04:00:00Z"}
+{"id":"10512017150","timestamp":"2025-05-23T17:15:21.977476605Z","domain":"te-clegc-gckey.fjgc-gccf.gc.ca","issuer":"SSL.com","from":"2025-05-23T16:12:16Z","to":"2026-06-23T04:00:00Z"}
+{"id":"10512017150","timestamp":"2025-05-23T17:15:21.977476815Z","domain":"te.clegc-gckey.gc.ca","issuer":"SSL.com","from":"2025-05-23T16:12:16Z","to":"2026-06-23T04:00:00Z"}
+{"id":"10512017150","timestamp":"2025-05-23T17:15:21.977477066Z","domain":"te-gc.auth.canada.ca","issuer":"SSL.com","from":"2025-05-23T16:12:16Z","to":"2026-06-23T04:00:00Z"}
+{"id":"10512017150","timestamp":"2025-05-23T17:15:21.977477146Z","domain":"te.gckey-clegc.gc.ca","issuer":"SSL.com","from":"2025-05-23T16:12:16Z","to":"2026-06-23T04:00:00Z"}
+{"id":"10512017150","timestamp":"2025-05-23T17:15:21.977478298Z","domain":"te.gckey.gc.ca","issuer":"SSL.com","from":"2025-05-23T16:12:16Z","to":"2026-06-23T04:00:00Z"}
+{"id":"10512017150","timestamp":"2025-05-23T17:15:21.977478369Z","domain":"www.te.clegc.gc.ca","issuer":"SSL.com","from":"2025-05-23T16:12:16Z","to":"2026-06-23T04:00:00Z"}
+{"id":"10512017150","timestamp":"2025-05-23T17:15:21.977478449Z","domain":"www.te.clegc-gckey.gc.ca","issuer":"SSL.com","from":"2025-05-23T16:12:16Z","to":"2026-06-23T04:00:00Z"}
+{"id":"10512017150","timestamp":"2025-05-23T17:15:21.977478519Z","domain":"www.te.gckey-clegc.gc.ca","issuer":"SSL.com","from":"2025-05-23T16:12:16Z","to":"2026-06-23T04:00:00Z"}
+{"id":"10512017150","timestamp":"2025-05-23T17:15:21.97747941Z","domain":"www.te.gckey.gc.ca","issuer":"SSL.com","from":"2025-05-23T16:12:16Z","to":"2026-06-23T04:00:00Z"}
+{"id":"10512067014","timestamp":"2025-05-23T17:15:21.97747952Z","domain":"portal-dev.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-05-23T15:30:00Z","to":"2025-08-21T15:29:59Z"}
