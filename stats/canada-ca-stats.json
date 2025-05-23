@@ -2335,7 +2335,10 @@
       "Let's Encrypt": 5
     },
     "2025-05-22": {
-      "Amazon Trust Services": 2
+      "Amazon Trust Services": 2,
+      "DigiCert": 2,
+      "Let's Encrypt": 7,
+      "SSL.com": 5
     }
   },
   "errors": []
