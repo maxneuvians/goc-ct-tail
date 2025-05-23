@@ -9418,3 +9418,6 @@
 {"id":"10512017150","timestamp":"2025-05-23T17:15:21.977478519Z","domain":"www.te.gckey-clegc.gc.ca","issuer":"SSL.com","from":"2025-05-23T16:12:16Z","to":"2026-06-23T04:00:00Z"}
 {"id":"10512017150","timestamp":"2025-05-23T17:15:21.97747941Z","domain":"www.te.gckey.gc.ca","issuer":"SSL.com","from":"2025-05-23T16:12:16Z","to":"2026-06-23T04:00:00Z"}
 {"id":"10512067014","timestamp":"2025-05-23T17:15:21.97747952Z","domain":"portal-dev.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-05-23T15:30:00Z","to":"2025-08-21T15:29:59Z"}
+{"id":"10513261236","timestamp":"2025-05-23T20:16:02.625287383Z","domain":"resource-catalogue.ws-bigweather.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-23T18:21:46Z","to":"2025-08-21T18:21:45Z"}
+{"id":"10513364998","timestamp":"2025-05-23T20:16:02.625287733Z","domain":"mlflow.ws-bsmith.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-23T18:36:42Z","to":"2025-08-21T18:36:41Z"}
+{"id":"10513365170","timestamp":"2025-05-23T20:16:02.625287933Z","domain":"resource-catalogue.ws-bsmith.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-23T18:36:42Z","to":"2025-08-21T18:36:41Z"}
