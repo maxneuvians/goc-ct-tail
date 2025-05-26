@@ -955,3 +955,12 @@
 {"id":"10529949368","timestamp":"2025-05-25T10:27:28.99834688Z","domain":"api.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-05-25T09:23:12Z","to":"2025-08-23T09:23:11Z"}
 {"id":"10532217617","timestamp":"2025-05-25T16:29:01.150066277Z","domain":"grafana.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-05-25T14:24:21Z","to":"2025-08-23T14:24:20Z"}
 {"id":"10540197853","timestamp":"2025-05-26T10:29:02.608955492Z","domain":"focpoc-telework-logins.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2025-05-26T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"10542433302","timestamp":"2025-05-26T14:27:46.173766349Z","domain":"autodiscover.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-05-26T13:39:19Z","to":"2026-06-26T04:00:00Z"}
+{"id":"10542433302","timestamp":"2025-05-26T14:27:46.17376676Z","domain":"autodiscover.mar.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-05-26T13:39:19Z","to":"2026-06-26T04:00:00Z"}
+{"id":"10542433302","timestamp":"2025-05-26T14:27:46.173767051Z","domain":"centralmrs.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-05-26T13:39:19Z","to":"2026-06-26T04:00:00Z"}
+{"id":"10542433302","timestamp":"2025-05-26T14:27:46.173767301Z","domain":"dfosmtp.ent.dfo-mpo.ca","issuer":"SSL.com","from":"2025-05-26T13:39:19Z","to":"2026-06-26T04:00:00Z"}
+{"id":"10542433302","timestamp":"2025-05-26T14:27:46.173767411Z","domain":"easternmrs.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-05-26T13:39:19Z","to":"2026-06-26T04:00:00Z"}
+{"id":"10542433302","timestamp":"2025-05-26T14:27:46.173768553Z","domain":"webmail.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-05-26T13:39:19Z","to":"2026-06-26T04:00:00Z"}
+{"id":"10542433302","timestamp":"2025-05-26T14:27:46.173768664Z","domain":"webmail.iqa.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-05-26T13:39:19Z","to":"2026-06-26T04:00:00Z"}
+{"id":"10542433302","timestamp":"2025-05-26T14:27:46.173768764Z","domain":"webmail.mar.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-05-26T13:39:19Z","to":"2026-06-26T04:00:00Z"}
+{"id":"10542433302","timestamp":"2025-05-26T14:27:46.173768854Z","domain":"webmail.nfl.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-05-26T13:39:19Z","to":"2026-06-26T04:00:00Z"}
