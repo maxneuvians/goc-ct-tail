@@ -9430,3 +9430,6 @@
 {"id":"10530211002","timestamp":"2025-05-25T11:14:45.844766883Z","domain":"mlflow.ws-bigweather.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-25T09:59:01Z","to":"2025-08-23T09:59:00Z"}
 {"id":"10531262604","timestamp":"2025-05-25T14:15:09.067159127Z","domain":"forces-mobile-dev.canada.ca","issuer":"Let's Encrypt","from":"2025-05-25T12:17:36Z","to":"2025-08-23T12:17:35Z"}
 {"id":"10533512996","timestamp":"2025-05-25T19:14:44.335232903Z","domain":"mras-samr.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-25T17:32:36Z","to":"2025-08-23T17:32:35Z"}
+{"id":"10538252676","timestamp":"2025-05-26T06:16:50.808346268Z","domain":"login-dev.services-autochtones.canada.ca","issuer":"DigiCert","from":"2025-05-26T00:00:00Z","to":"2025-11-26T23:59:59Z"}
+{"id":"10538287786","timestamp":"2025-05-26T06:16:50.808346989Z","domain":"login-dev.indigenous-services.canada.ca","issuer":"DigiCert","from":"2025-05-26T00:00:00Z","to":"2025-11-26T23:59:59Z"}
+{"id":"10538321796","timestamp":"2025-05-26T06:16:50.80834731Z","domain":"login-rd.services-autochtones.canada.ca","issuer":"DigiCert","from":"2025-05-26T00:00:00Z","to":"2025-11-26T23:59:59Z"}
