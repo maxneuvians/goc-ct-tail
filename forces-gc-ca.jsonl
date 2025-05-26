@@ -1153,3 +1153,4 @@
 {"id":"10424032067","timestamp":"2025-05-19T17:15:25.196786295Z","domain":"allies.cloud.forces.gc.ca","issuer":"DigiCert","from":"2025-05-15T00:00:00Z","to":"2025-11-15T23:59:59Z"}
 {"id":"10424055708","timestamp":"2025-05-19T17:15:25.196786826Z","domain":"allies-staging.cloud.forces.gc.ca","issuer":"DigiCert","from":"2025-05-15T00:00:00Z","to":"2025-11-15T23:59:59Z"}
 {"id":"10500377642","timestamp":"2025-05-22T15:16:02.597021217Z","domain":"portal-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2025-05-22T13:59:35Z","to":"2025-08-20T14:53:48Z"}
+{"id":"10537370987","timestamp":"2025-05-26T04:16:59.236781583Z","domain":"genai-admin.cmsg-datalake-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-05-26T00:00:00Z","to":"2026-06-24T23:59:59Z"}
