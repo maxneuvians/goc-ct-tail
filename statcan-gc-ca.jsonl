@@ -645,3 +645,22 @@
 {"id":"10433337492","timestamp":"2025-05-19T16:39:36.657348562Z","domain":"de-ircc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-16T06:56:46Z","to":"2025-08-14T06:56:45Z"}
 {"id":"10437799046","timestamp":"2025-05-19T16:39:36.657350105Z","domain":"sdmx-sfs.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-16T17:28:59Z","to":"2025-08-14T17:28:58Z"}
 {"id":"10470040245","timestamp":"2025-05-19T21:34:15.691689511Z","domain":"hub-carrefour-alpha.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-19T19:37:20Z","to":"2025-08-17T19:37:19Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280832775Z","domain":"eq3-admin-service.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280833276Z","domain":"eq3-bounceback-service.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280833537Z","domain":"eq3-email-services.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280833837Z","domain":"eq3-email-services-v2.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280833947Z","domain":"eq3-eq4gcodesearch-service.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.28083542Z","domain":"eq3-eq-eft-services.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.28083552Z","domain":"eq3-form-services.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.28083561Z","domain":"eq3-gcode3dnaics-service.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.28083571Z","domain":"eq3-jobscheduler-service.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280836973Z","domain":"eq3-loadsamplefile-service.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280837073Z","domain":"eq3-maintenance-service.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280837163Z","domain":"eq3-mis-services.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280837253Z","domain":"eq3-portal-service.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280837344Z","domain":"eq3-questionnairedeploy-service.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280837434Z","domain":"eq3-randomselector-service.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280837534Z","domain":"eq3-surveysearch-service.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280837805Z","domain":"eq3-survey-services.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280837895Z","domain":"eq3-upload-service.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
+{"id":"10542095757","timestamp":"2025-05-26T13:40:13.280839408Z","domain":"iiszpsvcnlbeq3.stcpaz.statcan.gc.ca","issuer":"SSL.com","from":"2025-05-26T12:54:57Z","to":"2026-06-10T04:00:00Z"}
