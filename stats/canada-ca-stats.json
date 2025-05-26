@@ -2349,8 +2349,9 @@
       "DigiCert": 1
     },
     "2025-05-25": {
-      "Let's Encrypt": 1,
-      "DigiCert": 1
+      "Let's Encrypt": 4,
+      "DigiCert": 1,
+      "Google Trust Services": 2
     }
   },
   "errors": []
