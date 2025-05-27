@@ -9451,3 +9451,5 @@
 {"id":"10552536252","timestamp":"2025-05-27T13:21:37.224969793Z","domain":"*.services-autochtones.canada.ca","issuer":"SSL.com","from":"2025-05-27T12:00:36Z","to":"2026-06-27T04:00:00Z"}
 {"id":"10552536252","timestamp":"2025-05-27T13:21:37.224970024Z","domain":"services-autochtones.canada.ca","issuer":"SSL.com","from":"2025-05-27T12:00:36Z","to":"2026-06-27T04:00:00Z"}
 {"id":"10553146367","timestamp":"2025-05-27T14:15:46.721948125Z","domain":"*.prod-ce.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-05-27T12:29:36Z","to":"2025-08-25T12:29:35Z"}
+{"id":"10554569331","timestamp":"2025-05-27T17:15:30.492394526Z","domain":"resource-catalogue.ws-sleipe.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-27T15:14:49Z","to":"2025-08-25T15:14:48Z"}
+{"id":"10554571787","timestamp":"2025-05-27T17:15:30.492394906Z","domain":"mlflow.ws-sleipe.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-27T15:14:44Z","to":"2025-08-25T15:14:43Z"}
