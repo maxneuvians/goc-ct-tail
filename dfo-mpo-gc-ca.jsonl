@@ -964,3 +964,11 @@
 {"id":"10542433302","timestamp":"2025-05-26T14:27:46.173768664Z","domain":"webmail.iqa.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-05-26T13:39:19Z","to":"2026-06-26T04:00:00Z"}
 {"id":"10542433302","timestamp":"2025-05-26T14:27:46.173768764Z","domain":"webmail.mar.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-05-26T13:39:19Z","to":"2026-06-26T04:00:00Z"}
 {"id":"10542433302","timestamp":"2025-05-26T14:27:46.173768854Z","domain":"webmail.nfl.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-05-26T13:39:19Z","to":"2026-06-26T04:00:00Z"}
+{"id":"10555189640","timestamp":"2025-05-27T18:29:36.822424776Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-05-27T16:24:29Z","to":"2025-08-25T16:24:28Z"}
+{"id":"10555197107","timestamp":"2025-05-27T18:29:36.822425137Z","domain":"*.dfo-dev-ase01.ase.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-05-27T16:25:23Z","to":"2025-08-25T16:25:22Z"}
+{"id":"10555200022","timestamp":"2025-05-27T18:29:36.822425377Z","domain":"*.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-05-27T16:26:02Z","to":"2025-08-25T16:26:01Z"}
+{"id":"10555200022","timestamp":"2025-05-27T18:29:36.822425627Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-05-27T16:26:02Z","to":"2025-08-25T16:26:01Z"}
+{"id":"10555232541","timestamp":"2025-05-27T18:29:36.822425738Z","domain":"*.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-05-27T16:29:49Z","to":"2025-08-25T16:29:48Z"}
+{"id":"10555232541","timestamp":"2025-05-27T18:29:36.822426619Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-05-27T16:29:49Z","to":"2025-08-25T16:29:48Z"}
+{"id":"10555235069","timestamp":"2025-05-27T18:29:36.822426709Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-05-27T16:29:54Z","to":"2025-08-25T16:29:53Z"}
+{"id":"10555235672","timestamp":"2025-05-27T18:29:36.82242679Z","domain":"*.dfo-dev-ase01.ase.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-05-27T16:29:58Z","to":"2025-08-25T16:29:57Z"}
