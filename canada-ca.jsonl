@@ -9453,3 +9453,15 @@
 {"id":"10553146367","timestamp":"2025-05-27T14:15:46.721948125Z","domain":"*.prod-ce.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-05-27T12:29:36Z","to":"2025-08-25T12:29:35Z"}
 {"id":"10554569331","timestamp":"2025-05-27T17:15:30.492394526Z","domain":"resource-catalogue.ws-sleipe.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-27T15:14:49Z","to":"2025-08-25T15:14:48Z"}
 {"id":"10554571787","timestamp":"2025-05-27T17:15:30.492394906Z","domain":"mlflow.ws-sleipe.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-05-27T15:14:44Z","to":"2025-08-25T15:14:43Z"}
+{"id":"10555122703","timestamp":"2025-05-27T18:16:29.565071506Z","domain":"clegc.gc.ca","issuer":"SSL.com","from":"2025-05-27T17:05:38Z","to":"2026-06-27T04:00:00Z"}
+{"id":"10555122703","timestamp":"2025-05-27T18:16:29.565071947Z","domain":"clegc-gckey.fjgc-gccf.gc.ca","issuer":"SSL.com","from":"2025-05-27T17:05:38Z","to":"2026-06-27T04:00:00Z"}
+{"id":"10555122703","timestamp":"2025-05-27T18:16:29.565072147Z","domain":"clegc-gckey.gc.ca","issuer":"SSL.com","from":"2025-05-27T17:05:38Z","to":"2026-06-27T04:00:00Z"}
+{"id":"10555122703","timestamp":"2025-05-27T18:16:29.565072388Z","domain":"gc.auth.canada.ca","issuer":"SSL.com","from":"2025-05-27T17:05:38Z","to":"2026-06-27T04:00:00Z"}
+{"id":"10555122703","timestamp":"2025-05-27T18:16:29.565072468Z","domain":"gckey-clegc.gc.ca","issuer":"SSL.com","from":"2025-05-27T17:05:38Z","to":"2026-06-27T04:00:00Z"}
+{"id":"10555122703","timestamp":"2025-05-27T18:16:29.565073329Z","domain":"gckey.gc.ca","issuer":"SSL.com","from":"2025-05-27T17:05:38Z","to":"2026-06-27T04:00:00Z"}
+{"id":"10555122703","timestamp":"2025-05-27T18:16:29.565073409Z","domain":"www.clegc.gc.ca","issuer":"SSL.com","from":"2025-05-27T17:05:38Z","to":"2026-06-27T04:00:00Z"}
+{"id":"10555122703","timestamp":"2025-05-27T18:16:29.56507348Z","domain":"www.clegc-gckey.gc.ca","issuer":"SSL.com","from":"2025-05-27T17:05:38Z","to":"2026-06-27T04:00:00Z"}
+{"id":"10555122703","timestamp":"2025-05-27T18:16:29.56507355Z","domain":"www.gckey-clegc.gc.ca","issuer":"SSL.com","from":"2025-05-27T17:05:38Z","to":"2026-06-27T04:00:00Z"}
+{"id":"10555122703","timestamp":"2025-05-27T18:16:29.565074271Z","domain":"www.gckey.gc.ca","issuer":"SSL.com","from":"2025-05-27T17:05:38Z","to":"2026-06-27T04:00:00Z"}
+{"id":"10555166623","timestamp":"2025-05-27T18:16:29.565074462Z","domain":"neics-nscei.canada.ca","issuer":"SSL.com","from":"2025-05-27T17:13:58Z","to":"2026-06-27T04:00:00Z"}
+{"id":"10555166623","timestamp":"2025-05-27T18:16:29.565074532Z","domain":"www.neics-nscei.canada.ca","issuer":"SSL.com","from":"2025-05-27T17:13:58Z","to":"2026-06-27T04:00:00Z"}
