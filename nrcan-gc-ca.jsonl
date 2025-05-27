@@ -11827,3 +11827,19 @@
 {"id":"10527549813","timestamp":"2025-05-25T05:15:29.382289467Z","domain":"www.fleetsmart.gc.ca","issuer":"Let's Encrypt","from":"2025-05-25T03:49:15Z","to":"2025-08-23T03:49:14Z"}
 {"id":"10527549813","timestamp":"2025-05-25T05:15:29.382289527Z","domain":"www.fleetsmart.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-25T03:49:15Z","to":"2025-08-23T03:49:14Z"}
 {"id":"10527549813","timestamp":"2025-05-25T05:15:29.38229091Z","domain":"www.fleetsmart.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-05-25T03:49:15Z","to":"2025-08-23T03:49:14Z"}
+{"id":"10550560370","timestamp":"2025-05-27T08:16:37.84972533Z","domain":"seatosky.nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550560370","timestamp":"2025-05-27T08:16:37.84972568Z","domain":"seatosky.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550560370","timestamp":"2025-05-27T08:16:37.849725961Z","domain":"seatosky.rncan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550560370","timestamp":"2025-05-27T08:16:37.849726252Z","domain":"seatosky.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550560370","timestamp":"2025-05-27T08:16:37.849726362Z","domain":"www.seatosky.nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550560370","timestamp":"2025-05-27T08:16:37.849727113Z","domain":"www.seatosky.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550560370","timestamp":"2025-05-27T08:16:37.849727193Z","domain":"www.seatosky.rncan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550560370","timestamp":"2025-05-27T08:16:37.849727283Z","domain":"www.seatosky.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550640864","timestamp":"2025-05-27T08:16:37.849727374Z","domain":"softaccess.nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550640864","timestamp":"2025-05-27T08:16:37.849728035Z","domain":"softaccess.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550640864","timestamp":"2025-05-27T08:16:37.849728115Z","domain":"softaccess.rncan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550640864","timestamp":"2025-05-27T08:16:37.849728195Z","domain":"softaccess.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550640864","timestamp":"2025-05-27T08:16:37.849728275Z","domain":"www.softaccess.nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550640864","timestamp":"2025-05-27T08:16:37.849728365Z","domain":"www.softaccess.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550640864","timestamp":"2025-05-27T08:16:37.849728445Z","domain":"www.softaccess.rncan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
+{"id":"10550640864","timestamp":"2025-05-27T08:16:37.849728526Z","domain":"www.softaccess.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-05-27T00:00:00Z","to":"2025-08-25T23:59:59Z"}
