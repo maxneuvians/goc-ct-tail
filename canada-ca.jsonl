@@ -9506,3 +9506,5 @@
 {"id":"10572385489","timestamp":"2025-05-29T08:16:44.656069224Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-29T06:25:22Z","to":"2025-08-27T06:25:21Z"}
 {"id":"10572443098","timestamp":"2025-05-29T08:16:44.656069584Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-29T06:31:50Z","to":"2025-08-27T06:31:49Z"}
 {"id":"10572443098","timestamp":"2025-05-29T08:16:44.656069825Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-05-29T06:31:50Z","to":"2025-08-27T06:31:49Z"}
+{"id":"10574160591","timestamp":"2025-05-29T11:15:22.833044683Z","domain":"*.ict-cio.ssc-spc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-05-29T10:58:13Z","to":"2026-06-29T04:00:00Z"}
+{"id":"10574160591","timestamp":"2025-05-29T11:15:22.833045104Z","domain":"ict-cio.ssc-spc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-05-29T10:58:13Z","to":"2026-06-29T04:00:00Z"}
