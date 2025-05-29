@@ -9509,3 +9509,11 @@
 {"id":"10574160591","timestamp":"2025-05-29T11:15:22.833044683Z","domain":"*.ict-cio.ssc-spc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-05-29T10:58:13Z","to":"2026-06-29T04:00:00Z"}
 {"id":"10574160591","timestamp":"2025-05-29T11:15:22.833045104Z","domain":"ict-cio.ssc-spc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-05-29T10:58:13Z","to":"2026-06-29T04:00:00Z"}
 {"id":"10574998049","timestamp":"2025-05-29T13:20:27.712642952Z","domain":"*.meta.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-05-29T00:00:00Z","to":"2025-08-27T23:59:59Z"}
+{"id":"10575611072","timestamp":"2025-05-29T15:15:52.854897488Z","domain":"*.meta.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-05-29T00:00:00Z","to":"2025-08-27T23:59:59Z"}
+{"id":"10575768980","timestamp":"2025-05-29T15:15:52.854899272Z","domain":"*.meta.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-05-29T00:00:00Z","to":"2025-08-27T23:59:59Z"}
+{"id":"10575791174","timestamp":"2025-05-29T15:15:52.854899643Z","domain":"inspection.canada.ca","issuer":"SSL.com","from":"2025-05-29T14:30:00Z","to":"2026-06-29T04:00:00Z"}
+{"id":"10575791174","timestamp":"2025-05-29T15:15:52.854899863Z","domain":"inspection.gc.ca","issuer":"SSL.com","from":"2025-05-29T14:30:00Z","to":"2026-06-29T04:00:00Z"}
+{"id":"10575791174","timestamp":"2025-05-29T15:15:52.854899973Z","domain":"prod.inspection.canada.ca","issuer":"SSL.com","from":"2025-05-29T14:30:00Z","to":"2026-06-29T04:00:00Z"}
+{"id":"10575791174","timestamp":"2025-05-29T15:15:52.854901005Z","domain":"www.inspection.canada.ca","issuer":"SSL.com","from":"2025-05-29T14:30:00Z","to":"2026-06-29T04:00:00Z"}
+{"id":"10575791174","timestamp":"2025-05-29T15:15:52.854901095Z","domain":"www.inspection.gc.ca","issuer":"SSL.com","from":"2025-05-29T14:30:00Z","to":"2026-06-29T04:00:00Z"}
+{"id":"10575791174","timestamp":"2025-05-29T15:15:52.854901205Z","domain":"www.prod.inspection.canada.ca","issuer":"SSL.com","from":"2025-05-29T14:30:00Z","to":"2026-06-29T04:00:00Z"}
