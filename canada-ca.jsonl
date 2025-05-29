@@ -9500,3 +9500,5 @@
 {"id":"10566232509","timestamp":"2025-05-28T18:16:30.129146175Z","domain":"bondroom-salleregistre-qa.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-28T00:00:00Z","to":"2026-06-26T23:59:59Z"}
 {"id":"10566233311","timestamp":"2025-05-28T18:16:30.129147368Z","domain":"bondroom-salleregistre-rc.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-05-28T00:00:00Z","to":"2026-06-26T23:59:59Z"}
 {"id":"10566365893","timestamp":"2025-05-28T18:16:30.129147488Z","domain":"*.meta.itsec.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-05-28T16:34:20Z","to":"2025-08-26T16:34:19Z"}
+{"id":"10571199387","timestamp":"2025-05-29T05:15:51.702149274Z","domain":"votrebudget.canada.ca","issuer":"Let's Encrypt","from":"2025-05-29T03:46:43Z","to":"2025-08-27T03:46:42Z"}
+{"id":"10571350108","timestamp":"2025-05-29T05:15:51.702149684Z","domain":"yourbudget.canada.ca","issuer":"Let's Encrypt","from":"2025-05-29T04:06:53Z","to":"2025-08-27T04:06:52Z"}
