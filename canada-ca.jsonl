@@ -9517,3 +9517,11 @@
 {"id":"10575791174","timestamp":"2025-05-29T15:15:52.854901005Z","domain":"www.inspection.canada.ca","issuer":"SSL.com","from":"2025-05-29T14:30:00Z","to":"2026-06-29T04:00:00Z"}
 {"id":"10575791174","timestamp":"2025-05-29T15:15:52.854901095Z","domain":"www.inspection.gc.ca","issuer":"SSL.com","from":"2025-05-29T14:30:00Z","to":"2026-06-29T04:00:00Z"}
 {"id":"10575791174","timestamp":"2025-05-29T15:15:52.854901205Z","domain":"www.prod.inspection.canada.ca","issuer":"SSL.com","from":"2025-05-29T14:30:00Z","to":"2026-06-29T04:00:00Z"}
+{"id":"10577156393","timestamp":"2025-05-29T18:16:37.163454236Z","domain":"supabase.starterai.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-05-29T16:31:58Z","to":"2025-08-27T16:31:57Z"}
+{"id":"10577206929","timestamp":"2025-05-29T18:16:37.163454867Z","domain":"n8n.starterai.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-05-29T16:39:50Z","to":"2025-08-27T16:39:49Z"}
+{"id":"10577206946","timestamp":"2025-05-29T18:16:37.163455188Z","domain":"ollama.starterai.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-05-29T16:39:50Z","to":"2025-08-27T16:39:49Z"}
+{"id":"10577207082","timestamp":"2025-05-29T18:16:37.163455508Z","domain":"openwebui.starterai.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-05-29T16:39:50Z","to":"2025-08-27T16:39:49Z"}
+{"id":"10577207129","timestamp":"2025-05-29T18:16:37.163455628Z","domain":"langfuse.starterai.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-05-29T16:39:50Z","to":"2025-08-27T16:39:49Z"}
+{"id":"10577207238","timestamp":"2025-05-29T18:16:37.163456761Z","domain":"flowise.starterai.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-05-29T16:39:50Z","to":"2025-08-27T16:39:49Z"}
+{"id":"10577207307","timestamp":"2025-05-29T18:16:37.163456881Z","domain":"neo4j.starterai.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-05-29T16:39:50Z","to":"2025-08-27T16:39:49Z"}
+{"id":"10577216191","timestamp":"2025-05-29T18:16:37.163456991Z","domain":"searxng.starterai.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-05-29T16:39:53Z","to":"2025-08-27T16:39:52Z"}
