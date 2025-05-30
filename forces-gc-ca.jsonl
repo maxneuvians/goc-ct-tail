@@ -1156,3 +1156,5 @@
 {"id":"10537370987","timestamp":"2025-05-26T04:16:59.236781583Z","domain":"genai-admin.cmsg-datalake-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-05-26T00:00:00Z","to":"2026-06-24T23:59:59Z"}
 {"id":"10569115627","timestamp":"2025-05-29T00:36:50.529951642Z","domain":"dj.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-05-29T00:00:00Z","to":"2026-06-27T23:59:59Z"}
 {"id":"10569115970","timestamp":"2025-05-29T00:36:50.529952243Z","domain":"dj.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-05-29T00:00:00Z","to":"2026-06-27T23:59:59Z"}
+{"id":"10586138418","timestamp":"2025-05-30T12:17:14.833476419Z","domain":"apps.forces.gc.ca","issuer":"SSL.com","from":"2025-05-30T11:40:24Z","to":"2026-06-30T04:00:00Z"}
+{"id":"10586138418","timestamp":"2025-05-30T12:17:14.833476839Z","domain":"www.apps.forces.gc.ca","issuer":"SSL.com","from":"2025-05-30T11:40:24Z","to":"2026-06-30T04:00:00Z"}
