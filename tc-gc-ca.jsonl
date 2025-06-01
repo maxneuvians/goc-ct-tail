@@ -258,3 +258,9 @@
 {"id":"10281934589","timestamp":"2025-05-01T09:15:55.164868546Z","domain":"acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-05-01T08:02:27Z","to":"2025-07-30T08:02:26Z"}
 {"id":"10391420612","timestamp":"2025-05-12T13:21:16.639009915Z","domain":"tc.gc.ca","issuer":"Sectigo","from":"2025-05-12T00:00:00Z","to":"2025-08-10T23:59:59Z"}
 {"id":"10391420612","timestamp":"2025-05-12T13:21:16.639010736Z","domain":"www.tc.gc.ca","issuer":"Sectigo","from":"2025-05-12T00:00:00Z","to":"2025-08-10T23:59:59Z"}
+{"id":"10608022851","timestamp":"2025-06-01T09:15:37.933497194Z","domain":"*.acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-06-01T08:02:30Z","to":"2025-08-30T08:02:29Z"}
+{"id":"10608022851","timestamp":"2025-06-01T09:15:37.933497474Z","domain":"acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-06-01T08:02:30Z","to":"2025-08-30T08:02:29Z"}
+{"id":"10608038031","timestamp":"2025-06-01T09:15:37.933497654Z","domain":"*.dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-06-01T08:03:29Z","to":"2025-08-30T08:03:28Z"}
+{"id":"10608038031","timestamp":"2025-06-01T09:15:37.933497855Z","domain":"dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-06-01T08:03:29Z","to":"2025-08-30T08:03:28Z"}
+{"id":"10608043058","timestamp":"2025-06-01T09:15:37.933497955Z","domain":"*.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-06-01T08:04:23Z","to":"2025-08-30T08:04:22Z"}
+{"id":"10608043058","timestamp":"2025-06-01T09:15:37.933498846Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2025-06-01T08:04:23Z","to":"2025-08-30T08:04:22Z"}
