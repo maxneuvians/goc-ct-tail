@@ -9556,3 +9556,9 @@
 {"id":"10606273488","timestamp":"2025-06-01T06:16:38.348017037Z","domain":"rp1-oidc.id.alpha.canada.ca","issuer":"DigiCert","from":"2025-06-01T00:00:00Z","to":"2025-12-01T23:59:59Z"}
 {"id":"10606433048","timestamp":"2025-06-01T06:16:38.348017408Z","domain":"yourbudget.canada.ca","issuer":"Let's Encrypt","from":"2025-06-01T04:35:48Z","to":"2025-08-30T04:35:47Z"}
 {"id":"10607516470","timestamp":"2025-06-01T08:16:21.710580983Z","domain":"rappels.canada.ca","issuer":"DigiCert","from":"2025-06-01T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"10608025712","timestamp":"2025-06-01T09:15:40.279827979Z","domain":"*.acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-06-01T08:02:03Z","to":"2025-08-30T08:02:02Z"}
+{"id":"10608025712","timestamp":"2025-06-01T09:15:40.2798285Z","domain":"acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-06-01T08:02:03Z","to":"2025-08-30T08:02:02Z"}
+{"id":"10608034448","timestamp":"2025-06-01T09:15:40.279828751Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-06-01T08:02:59Z","to":"2025-08-30T08:02:58Z"}
+{"id":"10608034448","timestamp":"2025-06-01T09:15:40.279828961Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-06-01T08:02:59Z","to":"2025-08-30T08:02:58Z"}
+{"id":"10608039523","timestamp":"2025-06-01T09:15:40.279829061Z","domain":"*.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-06-01T08:03:57Z","to":"2025-08-30T08:03:56Z"}
+{"id":"10608039523","timestamp":"2025-06-01T09:15:40.279830023Z","domain":"tc.canada.ca","issuer":"Let's Encrypt","from":"2025-06-01T08:03:57Z","to":"2025-08-30T08:03:56Z"}
