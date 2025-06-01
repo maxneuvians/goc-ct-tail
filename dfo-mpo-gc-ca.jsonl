@@ -975,3 +975,4 @@
 {"id":"10603722848","timestamp":"2025-06-01T00:48:06.105847287Z","domain":"*.aps.dev.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-05-31T23:03:52Z","to":"2025-08-29T23:03:51Z"}
 {"id":"10609598917","timestamp":"2025-06-01T12:30:40.927147831Z","domain":"ccg-moodle.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2025-06-01T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"10610695303","timestamp":"2025-06-01T15:26:36.26651148Z","domain":"epro-stage.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2025-06-01T00:00:00Z","to":"2025-12-01T23:59:59Z"}
+{"id":"10611049405","timestamp":"2025-06-01T16:28:54.312196609Z","domain":"msteams.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2025-06-01T00:00:00Z","to":"2026-04-14T23:59:59Z"}
