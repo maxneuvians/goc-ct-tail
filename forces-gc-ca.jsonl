@@ -1167,3 +1167,5 @@
 {"id":"10612757544","timestamp":"2025-06-01T19:14:53.93410628Z","domain":"365.forces.gc.ca","issuer":"DigiCert","from":"2025-06-01T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"10617680432","timestamp":"2025-06-02T06:16:55.599652064Z","domain":"pvc-qa.cloud.forces.gc.ca","issuer":"DigiCert","from":"2025-06-02T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"10623174528","timestamp":"2025-06-02T20:16:07.470814023Z","domain":"pvc.cloud.forces.gc.ca","issuer":"DigiCert","from":"2025-06-02T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"10630968041","timestamp":"2025-06-03T14:15:53.842022875Z","domain":"dls.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-03T00:00:00Z","to":"2026-07-02T23:59:59Z"}
+{"id":"10631289053","timestamp":"2025-06-03T14:15:53.842023236Z","domain":"*.dls.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-03T00:00:00Z","to":"2026-07-02T23:59:59Z"}
