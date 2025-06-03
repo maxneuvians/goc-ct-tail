@@ -977,3 +977,4 @@
 {"id":"10610695303","timestamp":"2025-06-01T15:26:36.26651148Z","domain":"epro-stage.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2025-06-01T00:00:00Z","to":"2025-12-01T23:59:59Z"}
 {"id":"10611049405","timestamp":"2025-06-01T16:28:54.312196609Z","domain":"msteams.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2025-06-01T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"10614269445","timestamp":"2025-06-01T22:27:12.109870795Z","domain":"ccg-moodle.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2025-06-01T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"10632920838","timestamp":"2025-06-03T18:29:53.483516846Z","domain":"policy-reporter.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-06-03T17:11:50Z","to":"2025-09-01T17:11:49Z"}
