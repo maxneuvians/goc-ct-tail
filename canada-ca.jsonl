@@ -9572,3 +9572,7 @@
 {"id":"10621054866","timestamp":"2025-06-02T14:15:52.415534289Z","domain":"environmental-maps.canada.ca","issuer":"SSL.com","from":"2025-06-02T13:48:47Z","to":"2026-07-02T04:00:00Z"}
 {"id":"10621062386","timestamp":"2025-06-02T14:15:52.415534609Z","domain":"rp2-oidc.id.alpha.canada.ca","issuer":"DigiCert","from":"2025-06-02T00:00:00Z","to":"2025-12-02T23:59:59Z"}
 {"id":"10621381185","timestamp":"2025-06-02T15:16:03.98094485Z","domain":"keycloak.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-02T13:48:31Z","to":"2025-08-31T13:48:30Z"}
+{"id":"10628362054","timestamp":"2025-06-03T08:16:47.985250493Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-03T06:24:39Z","to":"2025-09-01T06:24:38Z"}
+{"id":"10628362054","timestamp":"2025-06-03T08:16:47.985250754Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-03T06:24:39Z","to":"2025-09-01T06:24:38Z"}
+{"id":"10628370106","timestamp":"2025-06-03T08:16:47.985250974Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-03T06:25:18Z","to":"2025-09-01T06:25:17Z"}
+{"id":"10628370106","timestamp":"2025-06-03T08:16:47.985251145Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-03T06:25:18Z","to":"2025-09-01T06:25:17Z"}
