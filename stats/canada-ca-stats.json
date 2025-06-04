@@ -2390,6 +2390,15 @@
       "SSL.com": 2,
       "DigiCert": 1,
       "Let's Encrypt": 1
+    },
+    "2025-06-03": {
+      "Let's Encrypt": 9,
+      "Google Trust Services": 5,
+      "SSL.com": 4
+    },
+    "2025-06-04": {
+      "DigiCert": 1,
+      "Google Trust Services": 2
     }
   },
   "errors": []
