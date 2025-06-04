@@ -497,3 +497,5 @@
 {"id":"10606576715","timestamp":"2025-06-01T06:40:29.522215192Z","domain":"tapx-tiv-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-06-01T00:00:00Z","to":"2025-12-01T23:59:59Z"}
 {"id":"10606702669","timestamp":"2025-06-01T06:40:29.522215713Z","domain":"tapx-tiv-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-06-01T00:00:00Z","to":"2025-12-01T23:59:59Z"}
 {"id":"10614571223","timestamp":"2025-06-01T23:34:04.52067634Z","domain":"tapx-rolemanagerapp-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-06-01T00:00:00Z","to":"2025-12-01T23:59:59Z"}
+{"id":"10641342407","timestamp":"2025-06-04T14:42:18.315092213Z","domain":"v3-calipersplusapi-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-06-04T00:00:00Z","to":"2025-12-04T23:59:59Z"}
+{"id":"10641342429","timestamp":"2025-06-04T14:42:18.315092433Z","domain":"v3-calipersplus-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-06-04T00:00:00Z","to":"2025-12-04T23:59:59Z"}
