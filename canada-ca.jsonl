@@ -9629,3 +9629,7 @@
 {"id":"10640842379","timestamp":"2025-06-04T13:22:29.968612205Z","domain":"sap.api.main2.portfolio1.p.g.phac.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-06-04T12:52:30Z","to":"2026-07-04T04:00:00Z"}
 {"id":"10640842379","timestamp":"2025-06-04T13:22:29.968612315Z","domain":"www.sap.api.main2.portfolio1.p.g.phac.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-06-04T12:52:30Z","to":"2026-07-04T04:00:00Z"}
 {"id":"10641291901","timestamp":"2025-06-04T14:15:16.425083393Z","domain":"canary-workload.ssc-spc.com-dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-06-04T13:05:02Z","to":"2025-09-02T13:52:51Z"}
+{"id":"10641410328","timestamp":"2025-06-04T15:26:56.36891582Z","domain":"labelstudio.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-04T13:25:26Z","to":"2025-09-02T13:25:25Z"}
+{"id":"10641520352","timestamp":"2025-06-04T15:26:56.368916702Z","domain":"canary-workload.ssc-spc.com-test.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-06-04T13:36:54Z","to":"2025-09-02T14:24:23Z"}
+{"id":"10641662887","timestamp":"2025-06-04T15:26:56.368916972Z","domain":"*.ssc-spc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-06-04T14:51:49Z","to":"2026-07-04T04:00:00Z"}
+{"id":"10641662887","timestamp":"2025-06-04T15:26:56.368917243Z","domain":"ssc-spc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-06-04T14:51:49Z","to":"2026-07-04T04:00:00Z"}
