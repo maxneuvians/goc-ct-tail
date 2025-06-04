@@ -9603,3 +9603,8 @@
 {"id":"10639880915","timestamp":"2025-06-04T11:15:28.280077794Z","domain":"msca-ng-web-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-06-04T09:48:00Z","to":"2025-09-02T09:47:59Z"}
 {"id":"10640003338","timestamp":"2025-06-04T11:15:28.280078726Z","domain":"*.fegc.canada.ca","issuer":"SSL.com","from":"2025-06-04T10:54:03Z","to":"2026-06-04T11:02:53Z"}
 {"id":"10640013849","timestamp":"2025-06-04T11:15:28.280078946Z","domain":"*.wage.canada.ca","issuer":"SSL.com","from":"2025-06-04T10:56:52Z","to":"2026-06-04T11:05:55Z"}
+{"id":"10640083999","timestamp":"2025-06-04T12:17:22.769478798Z","domain":"te-auth.canada.ca","issuer":"SSL.com","from":"2025-06-04T11:08:50Z","to":"2026-07-04T04:00:00Z"}
+{"id":"10640083999","timestamp":"2025-06-04T12:17:22.76947948Z","domain":"te-mfa.auth.canada.ca","issuer":"SSL.com","from":"2025-06-04T11:08:50Z","to":"2026-07-04T04:00:00Z"}
+{"id":"10640083999","timestamp":"2025-06-04T12:17:22.76947973Z","domain":"www.te-mfa.auth.canada.ca","issuer":"SSL.com","from":"2025-06-04T11:08:50Z","to":"2026-07-04T04:00:00Z"}
+{"id":"10640206697","timestamp":"2025-06-04T12:17:22.769480021Z","domain":"auth.canada.ca","issuer":"SSL.com","from":"2025-06-04T11:23:15Z","to":"2026-07-04T04:00:00Z"}
+{"id":"10640206697","timestamp":"2025-06-04T12:17:22.769480141Z","domain":"mfa.auth.canada.ca","issuer":"SSL.com","from":"2025-06-04T11:23:15Z","to":"2026-07-04T04:00:00Z"}
