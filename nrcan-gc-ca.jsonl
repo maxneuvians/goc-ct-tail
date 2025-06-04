@@ -11931,3 +11931,23 @@
 {"id":"10628768470","timestamp":"2025-06-03T09:16:09.558542774Z","domain":"www1.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-06-03T07:17:25Z","to":"2025-09-01T07:17:24Z"}
 {"id":"10628768470","timestamp":"2025-06-03T09:16:09.558542864Z","domain":"www1.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-06-03T07:17:25Z","to":"2025-09-01T07:17:24Z"}
 {"id":"10635343940","timestamp":"2025-06-04T00:37:37.62256702Z","domain":"cfs-test.cloud.nrcan.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-04T00:00:00Z","to":"2026-07-01T23:59:59Z"}
+{"id":"10637269279","timestamp":"2025-06-04T05:15:56.734868912Z","domain":"dsgnet.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637269279","timestamp":"2025-06-04T05:15:56.734869473Z","domain":"dsgnet.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637269279","timestamp":"2025-06-04T05:15:56.734869683Z","domain":"dsgnet.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637269279","timestamp":"2025-06-04T05:15:56.734869884Z","domain":"dsgnet.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637269279","timestamp":"2025-06-04T05:15:56.734869974Z","domain":"www.dsgnet.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637269279","timestamp":"2025-06-04T05:15:56.734871587Z","domain":"www.dsgnet.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637269279","timestamp":"2025-06-04T05:15:56.734871697Z","domain":"www.dsgnet.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637269279","timestamp":"2025-06-04T05:15:56.734871787Z","domain":"www.dsgnet.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637281151","timestamp":"2025-06-04T05:15:56.734871877Z","domain":"dudr.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637281151","timestamp":"2025-06-04T05:15:56.734872869Z","domain":"dudr.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637281151","timestamp":"2025-06-04T05:15:56.734872959Z","domain":"dudr.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637281151","timestamp":"2025-06-04T05:15:56.734873039Z","domain":"dudr.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637281151","timestamp":"2025-06-04T05:15:56.73487312Z","domain":"www.dudr.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637281151","timestamp":"2025-06-04T05:15:56.7348732Z","domain":"www.dudr.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637281151","timestamp":"2025-06-04T05:15:56.73487328Z","domain":"www.dudr.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637281151","timestamp":"2025-06-04T05:15:56.73487336Z","domain":"www.dudr.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637321774","timestamp":"2025-06-04T05:15:56.73487347Z","domain":"glfc72.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637321774","timestamp":"2025-06-04T05:15:56.734873551Z","domain":"glfc72.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637321774","timestamp":"2025-06-04T05:15:56.734874703Z","domain":"glfc72.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10637321774","timestamp":"2025-06-04T05:15:56.734874813Z","domain":"glfc72.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
