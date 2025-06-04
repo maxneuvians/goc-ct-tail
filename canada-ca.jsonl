@@ -9593,3 +9593,6 @@
 {"id":"10635650428","timestamp":"2025-06-04T01:44:46.926347229Z","domain":"educanada-test.canada.ca","issuer":"DigiCert","from":"2025-06-04T00:00:00Z","to":"2025-12-04T23:59:59Z"}
 {"id":"10636539182","timestamp":"2025-06-04T03:32:06.788263764Z","domain":"clinical-trials-search.canada.ca","issuer":"Google Trust Services","from":"2025-06-04T01:59:33Z","to":"2025-09-02T02:58:31Z"}
 {"id":"10636540604","timestamp":"2025-06-04T03:32:06.788264215Z","domain":"clinical-trials-search.canada.ca","issuer":"Google Trust Services","from":"2025-06-04T01:59:42Z","to":"2025-09-02T02:59:39Z"}
+{"id":"10637721505","timestamp":"2025-06-04T06:16:47.736897241Z","domain":"nrcan-rncan.canada.ca","issuer":"Let's Encrypt","from":"2025-06-04T04:51:41Z","to":"2025-09-02T04:51:40Z"}
+{"id":"10637721505","timestamp":"2025-06-04T06:16:47.736897591Z","domain":"rncan-nrcan.canada.ca","issuer":"Let's Encrypt","from":"2025-06-04T04:51:41Z","to":"2025-09-02T04:51:40Z"}
+{"id":"10637721505","timestamp":"2025-06-04T06:16:47.736897791Z","domain":"www2.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-06-04T04:51:41Z","to":"2025-09-02T04:51:40Z"}
