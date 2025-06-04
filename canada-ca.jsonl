@@ -9636,3 +9636,10 @@
 {"id":"10641922910","timestamp":"2025-06-04T16:16:13.175087913Z","domain":"preprod-pwsclient.neics-nscei.canada.ca","issuer":"SSL.com","from":"2025-06-04T15:29:07Z","to":"2026-07-04T04:00:00Z"}
 {"id":"10642326874","timestamp":"2025-06-04T17:15:36.276559271Z","domain":"labelstudio.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-04T15:25:38Z","to":"2025-09-02T15:25:37Z"}
 {"id":"10642510959","timestamp":"2025-06-04T17:15:36.276559872Z","domain":"labelstudio.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-04T15:49:57Z","to":"2025-09-02T15:49:56Z"}
+{"id":"10643633772","timestamp":"2025-06-04T20:15:25.397542376Z","domain":"mlflow.ws-composite.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-04T18:22:01Z","to":"2025-09-02T18:22:00Z"}
+{"id":"10643638871","timestamp":"2025-06-04T20:15:25.397542736Z","domain":"resource-catalogue.ws-composite.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-04T18:22:01Z","to":"2025-09-02T18:22:00Z"}
+{"id":"10643894630","timestamp":"2025-06-04T20:15:25.397542977Z","domain":"ragflow-api.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-04T19:00:23Z","to":"2025-09-02T19:00:22Z"}
+{"id":"10643906879","timestamp":"2025-06-04T20:15:25.397543227Z","domain":"ragflow.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-04T19:00:16Z","to":"2025-09-02T19:00:15Z"}
+{"id":"10643906934","timestamp":"2025-06-04T20:15:25.397543327Z","domain":"ragflow-mcp.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-04T19:00:14Z","to":"2025-09-02T19:00:13Z"}
+{"id":"10643910742","timestamp":"2025-06-04T20:15:25.397544319Z","domain":"*.meta.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-06-04T00:00:00Z","to":"2025-09-02T23:59:59Z"}
+{"id":"10643967151","timestamp":"2025-06-04T20:15:25.397544429Z","domain":"librechat.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-04T19:09:44Z","to":"2025-09-02T19:09:43Z"}
