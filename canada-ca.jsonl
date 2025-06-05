@@ -9652,3 +9652,4 @@
 {"id":"10648456842","timestamp":"2025-06-05T08:16:41.261582302Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-05T06:25:40Z","to":"2025-09-03T06:25:39Z"}
 {"id":"10648461923","timestamp":"2025-06-05T08:16:41.261582633Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-05T06:24:39Z","to":"2025-09-03T06:24:38Z"}
 {"id":"10648461923","timestamp":"2025-06-05T08:16:41.261582893Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-05T06:24:39Z","to":"2025-09-03T06:24:38Z"}
+{"id":"10651985796","timestamp":"2025-06-05T15:16:00.543551388Z","domain":"canary-workload.ssc-spc.preprod.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-06-05T13:43:35Z","to":"2025-09-03T14:37:28Z"}
