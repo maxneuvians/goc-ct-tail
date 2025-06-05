@@ -9648,3 +9648,7 @@
 {"id":"10645789856","timestamp":"2025-06-05T01:44:47.281561977Z","domain":"*.cto-dev-portal.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-04T23:42:49Z","to":"2025-09-02T23:42:48Z"}
 {"id":"10645817426","timestamp":"2025-06-05T01:44:47.281562388Z","domain":"*.cto-dev-portal.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-04T23:46:27Z","to":"2025-09-02T23:46:26Z"}
 {"id":"10647397915","timestamp":"2025-06-05T05:15:51.014515253Z","domain":"consultations-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-06-05T03:43:00Z","to":"2025-09-03T03:42:59Z"}
+{"id":"10648456842","timestamp":"2025-06-05T08:16:41.261581811Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-05T06:25:40Z","to":"2025-09-03T06:25:39Z"}
+{"id":"10648456842","timestamp":"2025-06-05T08:16:41.261582302Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-05T06:25:40Z","to":"2025-09-03T06:25:39Z"}
+{"id":"10648461923","timestamp":"2025-06-05T08:16:41.261582633Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-05T06:24:39Z","to":"2025-09-03T06:24:38Z"}
+{"id":"10648461923","timestamp":"2025-06-05T08:16:41.261582893Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-05T06:24:39Z","to":"2025-09-03T06:24:38Z"}
