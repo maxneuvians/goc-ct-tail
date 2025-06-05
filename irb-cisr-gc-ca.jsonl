@@ -41,3 +41,11 @@
 {"id":"8422428745","timestamp":"2024-10-16T17:54:31.399662887Z","domain":"irbnet.gc.ca","issuer":"Entrust","from":"2024-10-16T17:39:42Z","to":"2025-11-16T17:39:41Z"}
 {"id":"10344203942","timestamp":"2025-05-09T21:54:02.382243308Z","domain":"irb-cisr.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
 {"id":"10344203942","timestamp":"2025-05-09T21:54:02.382243759Z","domain":"www.irb-cisr.gc.ca","issuer":"Sectigo","from":"2025-05-07T00:00:00Z","to":"2025-08-05T23:59:59Z"}
+{"id":"10650324703","timestamp":"2025-06-05T11:54:17.766919475Z","domain":"*.cisr.gc.ca","issuer":"SSL.com","from":"2025-06-05T11:36:44Z","to":"2026-07-05T04:00:00Z"}
+{"id":"10650324703","timestamp":"2025-06-05T11:54:17.766919756Z","domain":"cisr.gc.ca","issuer":"SSL.com","from":"2025-06-05T11:36:44Z","to":"2026-07-05T04:00:00Z"}
+{"id":"10650324703","timestamp":"2025-06-05T11:54:17.766919936Z","domain":"*.cisr-irb.gc.ca","issuer":"SSL.com","from":"2025-06-05T11:36:44Z","to":"2026-07-05T04:00:00Z"}
+{"id":"10650324703","timestamp":"2025-06-05T11:54:17.766920076Z","domain":"cisr-irb.gc.ca","issuer":"SSL.com","from":"2025-06-05T11:36:44Z","to":"2026-07-05T04:00:00Z"}
+{"id":"10650324703","timestamp":"2025-06-05T11:54:17.766920147Z","domain":"*.irb-cisr.gc.ca","issuer":"SSL.com","from":"2025-06-05T11:36:44Z","to":"2026-07-05T04:00:00Z"}
+{"id":"10650324703","timestamp":"2025-06-05T11:54:17.766920868Z","domain":"irb-cisr.gc.ca","issuer":"SSL.com","from":"2025-06-05T11:36:44Z","to":"2026-07-05T04:00:00Z"}
+{"id":"10650324703","timestamp":"2025-06-05T11:54:17.766920938Z","domain":"*.irb.gc.ca","issuer":"SSL.com","from":"2025-06-05T11:36:44Z","to":"2026-07-05T04:00:00Z"}
+{"id":"10650324703","timestamp":"2025-06-05T11:54:17.766920998Z","domain":"irb.gc.ca","issuer":"SSL.com","from":"2025-06-05T11:36:44Z","to":"2026-07-05T04:00:00Z"}
