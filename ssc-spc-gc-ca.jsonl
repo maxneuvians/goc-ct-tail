@@ -742,3 +742,8 @@
 {"id":"10552610441","timestamp":"2025-05-27T13:21:37.683509478Z","domain":"cloud.sscquery.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-05-27T11:19:03Z","to":"2025-08-25T11:19:02Z"}
 {"id":"10569116175","timestamp":"2025-05-29T00:36:48.833401431Z","domain":"campus.ssc-spc.gc.ca","issuer":"Amazon Trust Services","from":"2025-05-29T00:00:00Z","to":"2026-06-27T23:59:59Z"}
 {"id":"10591279341","timestamp":"2025-05-30T22:15:31.495137136Z","domain":"ssp-pfs.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-05-30T20:31:12Z","to":"2025-08-28T20:31:11Z"}
+{"id":"10647736830","timestamp":"2025-06-05T06:16:52.05597993Z","domain":"rpsim2.sscecmlab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-06-05T04:35:59Z","to":"2025-09-03T04:35:58Z"}
+{"id":"10647737350","timestamp":"2025-06-05T06:16:52.055980631Z","domain":"rpsim3.sscecmlab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-06-05T04:36:12Z","to":"2025-09-03T04:36:11Z"}
+{"id":"10647742500","timestamp":"2025-06-05T06:16:52.055980872Z","domain":"rpsim1-sscecmlab.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2025-06-05T04:35:43Z","to":"2025-09-03T04:35:42Z"}
+{"id":"10647742500","timestamp":"2025-06-05T06:16:52.055981082Z","domain":"rpsim1.sscecmlab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-06-05T04:35:43Z","to":"2025-09-03T04:35:42Z"}
+{"id":"10647743471","timestamp":"2025-06-05T06:16:52.055981192Z","domain":"rpsim4.sscecmlab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-06-05T04:36:28Z","to":"2025-09-03T04:36:27Z"}
