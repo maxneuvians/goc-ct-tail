@@ -2398,7 +2398,11 @@
     },
     "2025-06-04": {
       "DigiCert": 1,
-      "Google Trust Services": 2
+      "Google Trust Services": 5,
+      "Let's Encrypt": 20,
+      "SSL.com": 26,
+      "Amazon Trust Services": 4,
+      "Sectigo": 1
     }
   },
   "errors": []
