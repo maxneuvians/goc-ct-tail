@@ -9668,3 +9668,9 @@
 {"id":"10664476732","timestamp":"2025-06-06T13:20:24.453420354Z","domain":"www.finance-dev-budget.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-06-06T00:00:00Z","to":"2025-12-06T23:59:59Z"}
 {"id":"10665053178","timestamp":"2025-06-06T14:15:46.353721433Z","domain":"bcd-api-test1.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-06-06T00:00:00Z","to":"2026-07-05T23:59:59Z"}
 {"id":"10665053178","timestamp":"2025-06-06T14:15:46.353722444Z","domain":"bcd-api.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-06-06T00:00:00Z","to":"2026-07-05T23:59:59Z"}
+{"id":"10665311729","timestamp":"2025-06-06T15:15:28.283080819Z","domain":"*.api.esdc-edsc.canada.ca","issuer":"SSL.com","from":"2025-06-06T14:10:27Z","to":"2026-07-06T04:00:00Z"}
+{"id":"10665311729","timestamp":"2025-06-06T15:15:28.283081169Z","domain":"*.dev.service.gc.ca","issuer":"SSL.com","from":"2025-06-06T14:10:27Z","to":"2026-07-06T04:00:00Z"}
+{"id":"10665311729","timestamp":"2025-06-06T15:15:28.28308136Z","domain":"*.global.services.gc.ca","issuer":"SSL.com","from":"2025-06-06T14:10:27Z","to":"2026-07-06T04:00:00Z"}
+{"id":"10665311729","timestamp":"2025-06-06T15:15:28.28308153Z","domain":"*.interop.service.canada.ca","issuer":"SSL.com","from":"2025-06-06T14:10:27Z","to":"2026-07-06T04:00:00Z"}
+{"id":"10665311729","timestamp":"2025-06-06T15:15:28.28308163Z","domain":"*.interop.service.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-06-06T14:10:27Z","to":"2026-07-06T04:00:00Z"}
+{"id":"10665311729","timestamp":"2025-06-06T15:15:28.283082532Z","domain":"*.service.gc.ca","issuer":"SSL.com","from":"2025-06-06T14:10:27Z","to":"2026-07-06T04:00:00Z"}
