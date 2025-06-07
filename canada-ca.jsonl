@@ -9677,3 +9677,15 @@
 {"id":"10666401690","timestamp":"2025-06-06T17:15:34.101579198Z","domain":"*.cto-prod-portal.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-06T15:26:51Z","to":"2025-09-04T15:26:50Z"}
 {"id":"10666497726","timestamp":"2025-06-06T17:15:34.101579648Z","domain":"maladies.canada.ca","issuer":"Let's Encrypt","from":"2025-06-06T15:38:26Z","to":"2025-09-04T15:38:25Z"}
 {"id":"10670988041","timestamp":"2025-06-07T03:30:30.059267068Z","domain":"gac-amc-sso-au-cate.canada.ca","issuer":"DigiCert","from":"2025-06-07T00:00:00Z","to":"2025-12-07T23:59:59Z"}
+{"id":"10672191237","timestamp":"2025-06-07T05:15:37.357709142Z","domain":"*.test.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-07T03:42:16Z","to":"2025-09-05T03:42:15Z"}
+{"id":"10672191237","timestamp":"2025-06-07T05:15:37.357709523Z","domain":"test.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-07T03:42:16Z","to":"2025-09-05T03:42:15Z"}
+{"id":"10672200675","timestamp":"2025-06-07T05:15:37.357709773Z","domain":"sso-demo.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-07T03:44:19Z","to":"2025-09-05T03:44:18Z"}
+{"id":"10672200675","timestamp":"2025-06-07T05:15:37.357710044Z","domain":"sso-demo-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2025-06-07T03:44:19Z","to":"2025-09-05T03:44:18Z"}
+{"id":"10672200675","timestamp":"2025-06-07T05:15:37.357710134Z","domain":"sso-dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-07T03:44:19Z","to":"2025-09-05T03:44:18Z"}
+{"id":"10672200675","timestamp":"2025-06-07T05:15:37.357711347Z","domain":"sso-dev-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2025-06-07T03:44:19Z","to":"2025-09-05T03:44:18Z"}
+{"id":"10672200675","timestamp":"2025-06-07T05:15:37.357711416Z","domain":"sso.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-07T03:44:19Z","to":"2025-09-05T03:44:18Z"}
+{"id":"10672200675","timestamp":"2025-06-07T05:15:37.357711487Z","domain":"sso-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2025-06-07T03:44:19Z","to":"2025-09-05T03:44:18Z"}
+{"id":"10672200675","timestamp":"2025-06-07T05:15:37.357711567Z","domain":"sso-qa.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-07T03:44:19Z","to":"2025-09-05T03:44:18Z"}
+{"id":"10672200675","timestamp":"2025-06-07T05:15:37.357712378Z","domain":"sso-qa-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2025-06-07T03:44:19Z","to":"2025-09-05T03:44:18Z"}
+{"id":"10672200675","timestamp":"2025-06-07T05:15:37.357712458Z","domain":"sso-uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-07T03:44:19Z","to":"2025-09-05T03:44:18Z"}
+{"id":"10672200675","timestamp":"2025-06-07T05:15:37.357712539Z","domain":"sso-uat-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2025-06-07T03:44:19Z","to":"2025-09-05T03:44:18Z"}
