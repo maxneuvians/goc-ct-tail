@@ -313,3 +313,6 @@
 {"id":"10511201101","timestamp":"2025-05-23T15:35:44.680751836Z","domain":"ott-ct4000.mint.ca","issuer":"Entrust Limited","from":"2025-05-23T00:00:00Z","to":"2026-05-28T23:59:59Z"}
 {"id":"10511201101","timestamp":"2025-05-23T15:35:44.680752157Z","domain":"ottnac.mint.ca","issuer":"Entrust Limited","from":"2025-05-23T00:00:00Z","to":"2026-05-28T23:59:59Z"}
 {"id":"10626215973","timestamp":"2025-06-03T03:02:14.638605106Z","domain":"clicks.mint.ca","issuer":"Let's Encrypt","from":"2025-06-03T01:10:17Z","to":"2025-09-01T01:10:16Z"}
+{"id":"10670706743","timestamp":"2025-06-07T03:01:06.561326372Z","domain":"content.mint.ca","issuer":"Let's Encrypt","from":"2025-06-07T01:10:48Z","to":"2025-09-05T01:10:47Z"}
+{"id":"10670722735","timestamp":"2025-06-07T03:01:06.561326792Z","domain":"forms.mint.ca","issuer":"Let's Encrypt","from":"2025-06-07T01:12:01Z","to":"2025-09-05T01:12:00Z"}
+{"id":"10670730038","timestamp":"2025-06-07T03:01:06.561327023Z","domain":"pages.mint.ca","issuer":"Let's Encrypt","from":"2025-06-07T01:13:42Z","to":"2025-09-05T01:13:41Z"}
