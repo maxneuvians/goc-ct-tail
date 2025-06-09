@@ -984,3 +984,5 @@
 {"id":"10675999651","timestamp":"2025-06-07T13:29:07.358298968Z","domain":"api.test.spine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-06-07T11:45:23Z","to":"2025-09-05T11:45:22Z"}
 {"id":"10685979060","timestamp":"2025-06-08T10:27:46.483738594Z","domain":"wla.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-06-08T09:14:24Z","to":"2025-09-06T09:14:23Z"}
 {"id":"10685979060","timestamp":"2025-06-08T10:27:46.483738845Z","domain":"wla.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-06-08T09:14:24Z","to":"2025-09-06T09:14:23Z"}
+{"id":"10701863796","timestamp":"2025-06-09T18:29:44.389718386Z","domain":"egisp.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-06-09T17:18:18Z","to":"2026-07-09T04:00:00Z"}
+{"id":"10701863796","timestamp":"2025-06-09T18:29:44.389718847Z","domain":"egist.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-06-09T17:18:18Z","to":"2026-07-09T04:00:00Z"}
