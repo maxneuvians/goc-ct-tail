@@ -676,3 +676,7 @@
 {"id":"10479749921","timestamp":"2025-05-20T18:29:42.927245942Z","domain":"trng-sug.tpsgc.gc.ca","issuer":"SSL.com","from":"2025-05-20T17:22:36Z","to":"2026-06-20T04:00:00Z"}
 {"id":"10653881711","timestamp":"2025-06-05T18:59:42.484375203Z","domain":"sifg-lgis.pwgsc-tpsgc.gc.ca","issuer":"SSL.com","from":"2025-06-05T17:21:09Z","to":"2026-07-05T04:00:00Z"}
 {"id":"10653881711","timestamp":"2025-06-05T18:59:42.484375704Z","domain":"sifg-lgis.tpsgc-pwgsc.gc.ca","issuer":"SSL.com","from":"2025-06-05T17:21:09Z","to":"2026-07-05T04:00:00Z"}
+{"id":"10699246799","timestamp":"2025-06-09T14:28:23.77763399Z","domain":"pac-ontario-cal.pwgsc.gc.ca","issuer":"SSL.com","from":"2025-06-09T13:23:52Z","to":"2026-07-09T04:00:00Z"}
+{"id":"10699246799","timestamp":"2025-06-09T14:28:23.777634341Z","domain":"pac-sac-ontario-cal.pwgsc-tpsgc.gc.ca","issuer":"SSL.com","from":"2025-06-09T13:23:52Z","to":"2026-07-09T04:00:00Z"}
+{"id":"10699246799","timestamp":"2025-06-09T14:28:23.777634551Z","domain":"sac-ontario-cal.tpsgc.gc.ca","issuer":"SSL.com","from":"2025-06-09T13:23:52Z","to":"2026-07-09T04:00:00Z"}
+{"id":"10699246799","timestamp":"2025-06-09T14:28:23.777634792Z","domain":"sac-pac-ontario-cal.tpsgc-pwgsc.gc.ca","issuer":"SSL.com","from":"2025-06-09T13:23:52Z","to":"2026-07-09T04:00:00Z"}
