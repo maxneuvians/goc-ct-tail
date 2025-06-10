@@ -9702,3 +9702,7 @@
 {"id":"10701631003","timestamp":"2025-06-09T17:15:22.645553968Z","domain":"do-rb.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-06-09T00:00:00Z","to":"2026-07-08T23:59:59Z"}
 {"id":"10701868216","timestamp":"2025-06-09T18:16:41.291530657Z","domain":"gcpcfwl-fgicas01.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-06-09T17:20:20Z","to":"2026-07-09T04:00:00Z"}
 {"id":"10701868216","timestamp":"2025-06-09T18:16:41.291531308Z","domain":"www.gcpcfwl-fgicas01.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-06-09T17:20:20Z","to":"2026-07-09T04:00:00Z"}
+{"id":"10708837392","timestamp":"2025-06-10T08:16:45.638533021Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-10T06:25:57Z","to":"2025-09-08T06:25:56Z"}
+{"id":"10708837392","timestamp":"2025-06-10T08:16:45.638533442Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-10T06:25:57Z","to":"2025-09-08T06:25:56Z"}
+{"id":"10708874963","timestamp":"2025-06-10T08:16:45.638533752Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-10T06:29:09Z","to":"2025-09-08T06:29:08Z"}
+{"id":"10708874963","timestamp":"2025-06-10T08:16:45.638533993Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-10T06:29:09Z","to":"2025-09-08T06:29:08Z"}
