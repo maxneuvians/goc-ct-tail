@@ -38,13 +38,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 9704,
+      "totalCertificates": 9712,
       "totalsByIssuer": {
         "Entrust": 2525,
-        "Amazon Trust Services": 794,
-        "DigiCert": 485,
+        "Amazon Trust Services": 795,
+        "DigiCert": 486,
         "GoDaddy": 12,
-        "Let's Encrypt": 4237,
+        "Let's Encrypt": 4243,
         "Google Trust Services": 193,
         "Sectigo": 203,
         "SSL.com": 1255
@@ -233,9 +233,9 @@
     {
       "inputFile": "forces-gc-ca.jsonl",
       "outputFile": "stats/forces-gc-ca-stats.json",
-      "totalCertificates": 1267,
+      "totalCertificates": 1269,
       "totalsByIssuer": {
-        "Amazon Trust Services": 260,
+        "Amazon Trust Services": 262,
         "Entrust": 249,
         "DigiCert": 30,
         "SSL.com": 68,
@@ -447,10 +447,10 @@
     {
       "inputFile": "pc-gc-ca.jsonl",
       "outputFile": "stats/pc-gc-ca-stats.json",
-      "totalCertificates": 207,
+      "totalCertificates": 208,
       "totalsByIssuer": {
         "Entrust": 160,
-        "Let's Encrypt": 23,
+        "Let's Encrypt": 24,
         "Amazon Trust Services": 1,
         "SSL.com": 21,
         "Sectigo": 2
@@ -511,11 +511,11 @@
     {
       "inputFile": "rcmp-grc-gc-ca.jsonl",
       "outputFile": "stats/rcmp-grc-gc-ca-stats.json",
-      "totalCertificates": 1002,
+      "totalCertificates": 1004,
       "totalsByIssuer": {
         "Entrust": 275,
         "Let's Encrypt": 573,
-        "SSL.com": 154
+        "SSL.com": 156
       },
       "errorCount": 0
     },
@@ -672,11 +672,11 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 2644,
-    "Let's Encrypt": 12625,
-    "SSL.com": 4443,
+    "Amazon Trust Services": 2647,
+    "Let's Encrypt": 12632,
+    "SSL.com": 4445,
     "Sectigo": 6893,
-    "DigiCert": 1592,
+    "DigiCert": 1593,
     "GoDaddy": 76,
     "Google Trust Services": 364,
     "Entrust Limited": 20,
