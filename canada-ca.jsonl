@@ -9717,3 +9717,11 @@
 {"id":"10724585260","timestamp":"2025-06-11T16:16:33.12241044Z","domain":"resource-catalogue.ws-sandbox.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-11T14:49:03Z","to":"2025-09-09T14:49:02Z"}
 {"id":"10724836197","timestamp":"2025-06-11T17:15:40.960467918Z","domain":"resource-catalogue.ws-ekag.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-11T15:16:02Z","to":"2025-09-09T15:16:01Z"}
 {"id":"10724836347","timestamp":"2025-06-11T17:15:40.960468308Z","domain":"mlflow.ws-ekag.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-11T15:16:03Z","to":"2025-09-09T15:16:02Z"}
+{"id":"10725319568","timestamp":"2025-06-11T18:16:41.101745607Z","domain":"mx26.canada.ca","issuer":"SSL.com","from":"2025-06-11T17:01:30Z","to":"2026-07-11T04:00:00Z"}
+{"id":"10725319568","timestamp":"2025-06-11T18:16:41.101746018Z","domain":"mx52.canada.ca","issuer":"SSL.com","from":"2025-06-11T17:01:30Z","to":"2026-07-11T04:00:00Z"}
+{"id":"10725319568","timestamp":"2025-06-11T18:16:41.101746258Z","domain":"www.mx26.canada.ca","issuer":"SSL.com","from":"2025-06-11T17:01:30Z","to":"2026-07-11T04:00:00Z"}
+{"id":"10725640838","timestamp":"2025-06-11T18:16:41.101746448Z","domain":"resource-catalogue.ws-toluwadare.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-11T16:53:04Z","to":"2025-09-09T16:53:03Z"}
+{"id":"10725652376","timestamp":"2025-06-11T18:16:41.101746548Z","domain":"mlflow.ws-toluwadare.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-11T16:52:39Z","to":"2025-09-09T16:52:38Z"}
+{"id":"10725653589","timestamp":"2025-06-11T18:16:41.10174743Z","domain":"*.dt.avs-sav.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-06-11T17:44:13Z","to":"2026-07-11T04:00:00Z"}
+{"id":"10725669931","timestamp":"2025-06-11T18:16:41.10174751Z","domain":"*.avs-sav.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-06-11T17:47:27Z","to":"2026-07-11T04:00:00Z"}
+{"id":"10725669931","timestamp":"2025-06-11T18:16:41.10174763Z","domain":"avs-sav.hc-sc.canada.ca","issuer":"SSL.com","from":"2025-06-11T17:47:27Z","to":"2026-07-11T04:00:00Z"}
