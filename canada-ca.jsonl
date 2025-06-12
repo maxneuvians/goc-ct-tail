@@ -9739,3 +9739,7 @@
 {"id":"10731829323","timestamp":"2025-06-12T08:16:36.618098935Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-12T06:31:44Z","to":"2025-09-10T06:31:43Z"}
 {"id":"10734041967","timestamp":"2025-06-12T12:17:17.844536544Z","domain":"blogue.canada.ca","issuer":"Let's Encrypt","from":"2025-06-12T11:13:46Z","to":"2025-09-10T11:13:45Z"}
 {"id":"10734041967","timestamp":"2025-06-12T12:17:17.844537045Z","domain":"blogue.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-12T11:13:46Z","to":"2025-09-10T11:13:45Z"}
+{"id":"10734104861","timestamp":"2025-06-12T13:21:40.035982939Z","domain":"*.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-06-12T00:00:00Z","to":"2025-09-10T23:59:59Z"}
+{"id":"10734109427","timestamp":"2025-06-12T13:21:40.03598342Z","domain":"*.nxrm.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-06-12T00:00:00Z","to":"2025-09-10T23:59:59Z"}
+{"id":"10734357235","timestamp":"2025-06-12T13:21:40.03598366Z","domain":"*.md.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-06-12T00:00:00Z","to":"2025-09-10T23:59:59Z"}
+{"id":"10734521457","timestamp":"2025-06-12T13:21:40.03598393Z","domain":"*.md.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-06-12T00:00:00Z","to":"2025-09-10T23:59:59Z"}
