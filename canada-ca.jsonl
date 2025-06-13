@@ -9784,3 +9784,11 @@
 {"id":"10746889356","timestamp":"2025-06-13T15:15:57.015958811Z","domain":"ssc-agileprocurement-avatar.canada.ca","issuer":"Let's Encrypt","from":"2025-06-13T13:20:25Z","to":"2025-09-11T13:20:24Z"}
 {"id":"10747718992","timestamp":"2025-06-13T17:15:31.951723029Z","domain":"incident-forwarder.mgmt.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-06-13T15:14:31Z","to":"2025-09-11T16:09:45Z"}
 {"id":"10747820565","timestamp":"2025-06-13T17:15:31.951723731Z","domain":"incident-forwarder.mgmt.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-06-13T15:27:32Z","to":"2025-09-11T16:17:23Z"}
+{"id":"10749165458","timestamp":"2025-06-13T20:15:59.707701307Z","domain":"doc-to-html.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-13T18:35:32Z","to":"2025-09-11T18:35:31Z"}
+{"id":"10749167444","timestamp":"2025-06-13T20:15:59.707701718Z","domain":"*.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-06-13T19:25:12Z","to":"2026-07-13T04:00:00Z"}
+{"id":"10749167444","timestamp":"2025-06-13T20:15:59.707701918Z","domain":"aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-06-13T19:25:12Z","to":"2026-07-13T04:00:00Z"}
+{"id":"10749167444","timestamp":"2025-06-13T20:15:59.707702089Z","domain":"*.pwgsc.gc.ca","issuer":"SSL.com","from":"2025-06-13T19:25:12Z","to":"2026-07-13T04:00:00Z"}
+{"id":"10749167444","timestamp":"2025-06-13T20:15:59.707702179Z","domain":"*.pwgsc-tpsgc.gc.ca","issuer":"SSL.com","from":"2025-06-13T19:25:12Z","to":"2026-07-13T04:00:00Z"}
+{"id":"10749167444","timestamp":"2025-06-13T20:15:59.707703111Z","domain":"*.tpsgc.gc.ca","issuer":"SSL.com","from":"2025-06-13T19:25:12Z","to":"2026-07-13T04:00:00Z"}
+{"id":"10749167444","timestamp":"2025-06-13T20:15:59.707703221Z","domain":"*.tpsgc-pwgsc.gc.ca","issuer":"SSL.com","from":"2025-06-13T19:25:12Z","to":"2026-07-13T04:00:00Z"}
+{"id":"10749387618","timestamp":"2025-06-13T20:15:59.707703321Z","domain":"dask.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-13T19:08:12Z","to":"2025-09-11T19:08:11Z"}
