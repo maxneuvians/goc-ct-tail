@@ -562,3 +562,6 @@
 {"id":"10734596130","timestamp":"2025-06-12T13:41:47.148701388Z","domain":"jwtiotest.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-06-12T12:26:29Z","to":"2025-09-10T12:26:28Z"}
 {"id":"10734665663","timestamp":"2025-06-12T13:41:47.148701889Z","domain":"test.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-06-12T12:32:51Z","to":"2025-09-10T12:32:50Z"}
 {"id":"10736212190","timestamp":"2025-06-12T17:36:28.008067574Z","domain":"malware-stg.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-06-12T15:50:37Z","to":"2025-09-10T15:50:36Z"}
+{"id":"10746241366","timestamp":"2025-06-13T13:41:01.204438762Z","domain":"*.misp.collaboration.cyber.gc.ca","issuer":"SSL.com","from":"2025-06-13T12:39:25Z","to":"2026-07-13T04:00:00Z"}
+{"id":"10746241366","timestamp":"2025-06-13T13:41:01.204439172Z","domain":"misp.collaboration.cyber.gc.ca","issuer":"SSL.com","from":"2025-06-13T12:39:25Z","to":"2026-07-13T04:00:00Z"}
+{"id":"10746302059","timestamp":"2025-06-13T13:41:01.204439493Z","domain":"beaver.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-06-13T11:56:10Z","to":"2025-09-11T11:56:09Z"}
