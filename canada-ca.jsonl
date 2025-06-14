@@ -9793,3 +9793,11 @@
 {"id":"10749167444","timestamp":"2025-06-13T20:15:59.707703221Z","domain":"*.tpsgc-pwgsc.gc.ca","issuer":"SSL.com","from":"2025-06-13T19:25:12Z","to":"2026-07-13T04:00:00Z"}
 {"id":"10749387618","timestamp":"2025-06-13T20:15:59.707703321Z","domain":"dask.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-13T19:08:12Z","to":"2025-09-11T19:08:11Z"}
 {"id":"10749432716","timestamp":"2025-06-13T21:15:40.150773306Z","domain":"dask.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-13T19:15:07Z","to":"2025-09-11T19:15:06Z"}
+{"id":"10754624117","timestamp":"2025-06-14T10:15:44.263200862Z","domain":"navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-06-14T08:40:57Z","to":"2025-09-12T08:40:56Z"}
+{"id":"10754624117","timestamp":"2025-06-14T10:15:44.263201253Z","domain":"navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-06-14T08:40:57Z","to":"2025-09-12T08:40:56Z"}
+{"id":"10754624117","timestamp":"2025-06-14T10:15:44.263201504Z","domain":"ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-06-14T08:40:57Z","to":"2025-09-12T08:40:56Z"}
+{"id":"10754624117","timestamp":"2025-06-14T10:15:44.263201704Z","domain":"ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-06-14T08:40:57Z","to":"2025-09-12T08:40:56Z"}
+{"id":"10754624117","timestamp":"2025-06-14T10:15:44.263201794Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-06-14T08:40:57Z","to":"2025-09-12T08:40:56Z"}
+{"id":"10754624117","timestamp":"2025-06-14T10:15:44.263203116Z","domain":"www.navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-06-14T08:40:57Z","to":"2025-09-12T08:40:56Z"}
+{"id":"10754624117","timestamp":"2025-06-14T10:15:44.263203197Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-06-14T08:40:57Z","to":"2025-09-12T08:40:56Z"}
+{"id":"10754624117","timestamp":"2025-06-14T10:15:44.263203277Z","domain":"www.ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-06-14T08:40:57Z","to":"2025-09-12T08:40:56Z"}
