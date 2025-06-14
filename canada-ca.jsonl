@@ -9806,3 +9806,5 @@
 {"id":"10757866783","timestamp":"2025-06-14T17:15:20.425302623Z","domain":"*.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-06-14T00:00:00Z","to":"2025-09-12T23:59:59Z"}
 {"id":"10757886096","timestamp":"2025-06-14T18:16:23.505400623Z","domain":"*.nxrm.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-06-14T00:00:00Z","to":"2025-09-12T23:59:59Z"}
 {"id":"10758092767","timestamp":"2025-06-14T18:16:23.505401044Z","domain":"*.md.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-06-14T00:00:00Z","to":"2025-09-12T23:59:59Z"}
+{"id":"10758689963","timestamp":"2025-06-14T20:15:45.574686808Z","domain":"gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-14T18:23:07Z","to":"2025-09-12T18:23:06Z"}
+{"id":"10758697368","timestamp":"2025-06-14T20:15:45.574687039Z","domain":"traefik.gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-14T18:23:16Z","to":"2025-09-12T18:23:15Z"}
