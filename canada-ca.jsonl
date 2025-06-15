@@ -9808,3 +9808,8 @@
 {"id":"10758092767","timestamp":"2025-06-14T18:16:23.505401044Z","domain":"*.md.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-06-14T00:00:00Z","to":"2025-09-12T23:59:59Z"}
 {"id":"10758689963","timestamp":"2025-06-14T20:15:45.574686808Z","domain":"gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-14T18:23:07Z","to":"2025-09-12T18:23:06Z"}
 {"id":"10758697368","timestamp":"2025-06-14T20:15:45.574687039Z","domain":"traefik.gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-14T18:23:16Z","to":"2025-09-12T18:23:15Z"}
+{"id":"10760185139","timestamp":"2025-06-15T00:41:57.672138186Z","domain":"api.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-14T22:41:48Z","to":"2025-09-12T22:41:47Z"}
+{"id":"10760185139","timestamp":"2025-06-15T00:41:57.672138697Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-14T22:41:48Z","to":"2025-09-12T22:41:47Z"}
+{"id":"10760185139","timestamp":"2025-06-15T00:41:57.672139378Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-14T22:41:48Z","to":"2025-09-12T22:41:47Z"}
+{"id":"10760185139","timestamp":"2025-06-15T00:41:57.672139658Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-14T22:41:48Z","to":"2025-09-12T22:41:47Z"}
+{"id":"10760363494","timestamp":"2025-06-15T00:41:57.672139809Z","domain":"termium-opensearch-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-06-15T00:00:00Z","to":"2026-07-14T23:59:59Z"}
