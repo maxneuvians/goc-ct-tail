@@ -9813,3 +9813,5 @@
 {"id":"10760185139","timestamp":"2025-06-15T00:41:57.672139378Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-14T22:41:48Z","to":"2025-09-12T22:41:47Z"}
 {"id":"10760185139","timestamp":"2025-06-15T00:41:57.672139658Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-14T22:41:48Z","to":"2025-09-12T22:41:47Z"}
 {"id":"10760363494","timestamp":"2025-06-15T00:41:57.672139809Z","domain":"termium-opensearch-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-06-15T00:00:00Z","to":"2026-07-14T23:59:59Z"}
+{"id":"10766839906","timestamp":"2025-06-15T14:15:14.042042479Z","domain":"flood-risk-portal.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-06-15T12:51:10Z","to":"2025-09-13T12:51:09Z"}
+{"id":"10766839906","timestamp":"2025-06-15T14:15:14.04204289Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-15T12:51:10Z","to":"2025-09-13T12:51:09Z"}
