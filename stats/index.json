@@ -38,13 +38,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 9815,
+      "totalCertificates": 9825,
       "totalsByIssuer": {
         "Entrust": 2525,
-        "Amazon Trust Services": 797,
+        "Amazon Trust Services": 804,
         "DigiCert": 486,
         "GoDaddy": 12,
-        "Let's Encrypt": 4283,
+        "Let's Encrypt": 4286,
         "Google Trust Services": 197,
         "Sectigo": 215,
         "SSL.com": 1300
@@ -211,11 +211,11 @@
     {
       "inputFile": "dfo-mpo-gc-ca.jsonl",
       "outputFile": "stats/dfo-mpo-gc-ca-stats.json",
-      "totalCertificates": 990,
+      "totalCertificates": 992,
       "totalsByIssuer": {
         "Entrust": 332,
         "DigiCert": 40,
-        "Let's Encrypt": 290,
+        "Let's Encrypt": 292,
         "SSL.com": 328
       },
       "errorCount": 0
@@ -403,13 +403,13 @@
     {
       "inputFile": "nrcan-gc-ca.jsonl",
       "outputFile": "stats/nrcan-gc-ca-stats.json",
-      "totalCertificates": 11976,
+      "totalCertificates": 11988,
       "totalsByIssuer": {
         "Amazon Trust Services": 33,
         "Entrust": 460,
         "DigiCert": 20,
         "Let's Encrypt": 4634,
-        "Sectigo": 6605,
+        "Sectigo": 6617,
         "SSL.com": 224
       },
       "errorCount": 0
@@ -568,10 +568,10 @@
     {
       "inputFile": "ssc-spc-gc-ca.jsonl",
       "outputFile": "stats/ssc-spc-gc-ca-stats.json",
-      "totalCertificates": 750,
+      "totalCertificates": 751,
       "totalsByIssuer": {
         "Entrust": 467,
-        "Let's Encrypt": 126,
+        "Let's Encrypt": 127,
         "Amazon Trust Services": 2,
         "SSL.com": 149,
         "DigiCert": 2,
@@ -674,10 +674,10 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 2659,
-    "Let's Encrypt": 12714,
+    "Amazon Trust Services": 2666,
+    "Let's Encrypt": 12720,
     "SSL.com": 4521,
-    "Sectigo": 6907,
+    "Sectigo": 6919,
     "DigiCert": 1597,
     "GoDaddy": 76,
     "Google Trust Services": 369,
