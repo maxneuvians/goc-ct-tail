@@ -151,3 +151,6 @@
 {"id":"10504569456","timestamp":"2025-05-23T01:19:12.211126224Z","domain":"argocd.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-05-22T23:42:39Z","to":"2025-08-20T23:42:38Z"}
 {"id":"10542257025","timestamp":"2025-05-26T13:54:15.531726361Z","domain":"sais-ssrc.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-05-26T13:12:31Z","to":"2026-06-26T04:00:00Z"}
 {"id":"10542257025","timestamp":"2025-05-26T13:54:15.531726671Z","domain":"www.sais-ssrc.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-05-26T13:12:31Z","to":"2026-06-26T04:00:00Z"}
+{"id":"10779084623","timestamp":"2025-06-16T19:54:15.387732825Z","domain":"azvmcupdmzprd01.corp.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-06-16T19:29:09Z","to":"2026-07-16T04:00:00Z"}
+{"id":"10779084623","timestamp":"2025-06-16T19:54:15.387733136Z","domain":"comsecportal.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-06-16T19:29:09Z","to":"2026-07-16T04:00:00Z"}
+{"id":"10779084623","timestamp":"2025-06-16T19:54:15.387733336Z","domain":"portailcomsec.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-06-16T19:29:09Z","to":"2026-07-16T04:00:00Z"}
