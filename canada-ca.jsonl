@@ -9838,3 +9838,7 @@
 {"id":"10778802788","timestamp":"2025-06-16T19:15:02.506187873Z","domain":"sso.ised-isde.canada.ca","issuer":"SSL.com","from":"2025-06-16T18:47:19Z","to":"2026-07-16T04:00:00Z"}
 {"id":"10778802788","timestamp":"2025-06-16T19:15:02.506188444Z","domain":"sso-ised-isde.fjgc-gccf.gc.ca","issuer":"SSL.com","from":"2025-06-16T18:47:19Z","to":"2026-07-16T04:00:00Z"}
 {"id":"10783007939","timestamp":"2025-06-17T04:17:35.235786181Z","domain":"assets.notification.canada.ca","issuer":"Amazon Trust Services","from":"2025-06-17T00:00:00Z","to":"2026-07-14T23:59:59Z"}
+{"id":"10784713355","timestamp":"2025-06-17T08:16:42.20657182Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-17T06:25:55Z","to":"2025-09-15T06:25:54Z"}
+{"id":"10784713355","timestamp":"2025-06-17T08:16:42.20657212Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-17T06:25:55Z","to":"2025-09-15T06:25:54Z"}
+{"id":"10784744574","timestamp":"2025-06-17T08:16:42.206572351Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-17T06:29:15Z","to":"2025-09-15T06:29:14Z"}
+{"id":"10784744574","timestamp":"2025-06-17T08:16:42.206572561Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-17T06:29:15Z","to":"2025-09-15T06:29:14Z"}
