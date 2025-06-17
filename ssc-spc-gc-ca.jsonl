@@ -749,3 +749,5 @@
 {"id":"10647743471","timestamp":"2025-06-05T06:16:52.055981192Z","domain":"rpsim4.sscecmlab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-06-05T04:36:28Z","to":"2025-09-03T04:36:27Z"}
 {"id":"10698507246","timestamp":"2025-06-09T13:21:21.120741557Z","domain":"dc01vpn0004.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-06-09T00:00:00Z","to":"2026-06-09T23:59:59Z"}
 {"id":"10771852125","timestamp":"2025-06-16T02:46:33.08290227Z","domain":"ztpocfw.ztpoc.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-06-16T01:26:46Z","to":"2025-09-14T01:26:45Z"}
+{"id":"10789787865","timestamp":"2025-06-17T18:16:49.727653203Z","domain":"sd-bs.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-06-17T17:15:53Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10789787865","timestamp":"2025-06-17T18:16:49.727653664Z","domain":"www.sd-bs.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-06-17T17:15:53Z","to":"2026-07-17T04:00:00Z"}
