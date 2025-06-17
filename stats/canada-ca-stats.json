@@ -2457,7 +2457,14 @@
       "Let's Encrypt": 3
     },
     "2025-06-16": {
-      "Amazon Trust Services": 7
+      "Amazon Trust Services": 7,
+      "Let's Encrypt": 9,
+      "Google Trust Services": 1,
+      "Sectigo": 2,
+      "SSL.com": 2
+    },
+    "2025-06-17": {
+      "Amazon Trust Services": 1
     }
   },
   "errors": []
