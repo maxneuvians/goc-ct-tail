@@ -356,3 +356,19 @@
 {"id":"10501850267","timestamp":"2025-05-22T18:29:38.29374414Z","domain":"services-sso-au.justice.gc.ca","issuer":"SSL.com","from":"2025-05-22T18:10:48Z","to":"2026-06-22T04:00:00Z"}
 {"id":"10518823371","timestamp":"2025-05-24T09:26:04.902685541Z","domain":"juscampus-catalogue.justice.gc.ca","issuer":"Let's Encrypt","from":"2025-05-24T07:28:56Z","to":"2025-08-22T07:28:55Z"}
 {"id":"10542556071","timestamp":"2025-05-26T14:27:46.157714622Z","domain":"foaea-ivr-api.justice.gc.ca","issuer":"SSL.com","from":"2025-05-26T13:50:30Z","to":"2026-06-26T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.545628754Z","domain":"businessnumber-dev.justice.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.545629104Z","domain":"businessnumber-preprod.justice.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.545629305Z","domain":"fund-fina-dev.justice.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.545629485Z","domain":"fund-fina-preprod.justice.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.545629575Z","domain":"internal-portal-dev.justice.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.545630517Z","domain":"internal-portal-preprod.justice.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.545630627Z","domain":"portal-api-dev.justice.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.545630717Z","domain":"portal-api-preprod.justice.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.545630797Z","domain":"portal-aspcore.justice.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.545631619Z","domain":"portal-dev.justice.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.545631709Z","domain":"portal-portail-preprod-justice.fjgc-gccf.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.545631789Z","domain":"portal-portail-test-justice.fjgc-gccf.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.54563187Z","domain":"portal-preprod.justice.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.54563196Z","domain":"portal-staging.justice.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.54563206Z","domain":"portal-webform.justice.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
+{"id":"10790244645","timestamp":"2025-06-17T19:24:40.54563214Z","domain":"services-test-sso.justice.gc.ca","issuer":"SSL.com","from":"2025-06-17T18:14:11Z","to":"2026-07-17T04:00:00Z"}
