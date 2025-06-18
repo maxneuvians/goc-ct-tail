@@ -9855,3 +9855,5 @@
 {"id":"10802463514","timestamp":"2025-06-18T18:16:42.170195268Z","domain":"irbdevftp.canada.ca","issuer":"SSL.com","from":"2025-06-18T17:20:07Z","to":"2026-07-18T04:00:00Z"}
 {"id":"10802717291","timestamp":"2025-06-18T18:16:42.170195578Z","domain":"resource-catalogue.ws-eodms.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-18T16:59:01Z","to":"2025-09-16T16:59:00Z"}
 {"id":"10802717488","timestamp":"2025-06-18T18:16:42.170195839Z","domain":"mlflow.ws-eodms.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-18T16:59:02Z","to":"2025-09-16T16:59:01Z"}
+{"id":"10802861539","timestamp":"2025-06-18T19:15:03.433040767Z","domain":"test.dfo.exp.innovation.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-06-18T00:00:00Z","to":"2025-12-18T23:59:59Z"}
+{"id":"10802968574","timestamp":"2025-06-18T19:15:03.433041769Z","domain":"test2.dfo.exp.innovation.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-06-18T00:00:00Z","to":"2025-12-18T23:59:59Z"}
