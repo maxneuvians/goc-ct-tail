@@ -9869,3 +9869,7 @@
 {"id":"10806692680","timestamp":"2025-06-19T03:32:36.62609321Z","domain":"www.rncan.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-19T00:00:00Z","to":"2026-07-18T23:59:59Z"}
 {"id":"10807575530","timestamp":"2025-06-19T05:15:45.056001814Z","domain":"*.itsm.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-19T03:48:49Z","to":"2025-09-17T03:48:48Z"}
 {"id":"10807575530","timestamp":"2025-06-19T05:15:45.056002155Z","domain":"itsm.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-19T03:48:49Z","to":"2025-09-17T03:48:48Z"}
+{"id":"10808710789","timestamp":"2025-06-19T08:16:50.079960603Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-19T06:25:55Z","to":"2025-09-17T06:25:54Z"}
+{"id":"10808710789","timestamp":"2025-06-19T08:16:50.079961294Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-19T06:25:55Z","to":"2025-09-17T06:25:54Z"}
+{"id":"10808742666","timestamp":"2025-06-19T08:16:50.079961625Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-19T06:29:06Z","to":"2025-09-17T06:29:05Z"}
+{"id":"10808742666","timestamp":"2025-06-19T08:16:50.079961895Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-19T06:29:06Z","to":"2025-09-17T06:29:05Z"}
