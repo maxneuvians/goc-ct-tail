@@ -1550,3 +1550,14 @@
 {"id":"10826086913","timestamp":"2025-06-20T20:36:20.106585266Z","domain":"aqvc.dev0758.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-06-20T18:40:19Z","to":"2025-09-18T18:40:18Z"}
 {"id":"10826087713","timestamp":"2025-06-20T20:36:20.106585336Z","domain":"*.dids.dev0758.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-06-20T18:40:19Z","to":"2025-09-18T18:40:18Z"}
 {"id":"10826090093","timestamp":"2025-06-20T20:36:20.106586108Z","domain":"realtime.dev0758.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-06-20T18:41:20Z","to":"2025-09-18T18:41:19Z"}
+{"id":"10849224126","timestamp":"2025-06-22T17:36:23.75913009Z","domain":"assets.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-06-22T00:00:00Z","to":"2026-07-21T23:59:59Z"}
+{"id":"10849282481","timestamp":"2025-06-22T17:36:23.759130571Z","domain":"*.api.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-06-22T00:00:00Z","to":"2026-07-21T23:59:59Z"}
+{"id":"10849282481","timestamp":"2025-06-22T17:36:23.759131333Z","domain":"api.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-06-22T00:00:00Z","to":"2026-07-21T23:59:59Z"}
+{"id":"10849282481","timestamp":"2025-06-22T17:36:23.759131664Z","domain":"*.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-06-22T00:00:00Z","to":"2026-07-21T23:59:59Z"}
+{"id":"10849282481","timestamp":"2025-06-22T17:36:23.759131764Z","domain":"dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-06-22T00:00:00Z","to":"2026-07-21T23:59:59Z"}
+{"id":"10849282481","timestamp":"2025-06-22T17:36:23.759133046Z","domain":"*.document.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-06-22T00:00:00Z","to":"2026-07-21T23:59:59Z"}
+{"id":"10849282497","timestamp":"2025-06-22T17:36:23.759133176Z","domain":"*.alpha.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-06-22T00:00:00Z","to":"2026-07-21T23:59:59Z"}
+{"id":"10849282497","timestamp":"2025-06-22T17:36:23.759133276Z","domain":"alpha.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-06-22T00:00:00Z","to":"2026-07-21T23:59:59Z"}
+{"id":"10849282497","timestamp":"2025-06-22T17:36:23.759133367Z","domain":"*.api.alpha.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-06-22T00:00:00Z","to":"2026-07-21T23:59:59Z"}
+{"id":"10849282497","timestamp":"2025-06-22T17:36:23.759134589Z","domain":"api.alpha.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-06-22T00:00:00Z","to":"2026-07-21T23:59:59Z"}
+{"id":"10849282497","timestamp":"2025-06-22T17:36:23.759134689Z","domain":"*.document.alpha.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-06-22T00:00:00Z","to":"2026-07-21T23:59:59Z"}
