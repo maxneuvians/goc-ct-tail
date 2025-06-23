@@ -9904,3 +9904,18 @@
 {"id":"10853196751","timestamp":"2025-06-23T00:40:47.300718464Z","domain":"sap.api.dev.portfolio1.n.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-06-23T00:00:00Z","to":"2026-07-22T23:59:59Z"}
 {"id":"10858649297","timestamp":"2025-06-23T10:16:25.772183884Z","domain":"policy-community.canada.ca","issuer":"Google Trust Services","from":"2025-06-23T08:43:17Z","to":"2025-09-21T09:41:59Z"}
 {"id":"10858652027","timestamp":"2025-06-23T10:16:25.772184355Z","domain":"policy-community.canada.ca","issuer":"Google Trust Services","from":"2025-06-23T08:43:28Z","to":"2025-09-21T09:43:23Z"}
+{"id":"10861040865","timestamp":"2025-06-23T14:15:55.342839009Z","domain":"services.canafe-fintrac.canada.ca","issuer":"SSL.com","from":"2025-06-23T13:32:53Z","to":"2026-07-23T04:00:00Z"}
+{"id":"10861040865","timestamp":"2025-06-23T14:15:55.34283935Z","domain":"services.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-06-23T13:32:53Z","to":"2026-07-23T04:00:00Z"}
+{"id":"10861043648","timestamp":"2025-06-23T14:15:55.34283956Z","domain":"ontario-reservations.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-06-23T00:00:00Z","to":"2026-07-22T23:59:59Z"}
+{"id":"10861082879","timestamp":"2025-06-23T14:15:55.34283977Z","domain":"www150.canafe-fintrac.canada.ca","issuer":"SSL.com","from":"2025-06-23T13:38:26Z","to":"2026-07-23T04:00:00Z"}
+{"id":"10861082879","timestamp":"2025-06-23T14:15:55.342839871Z","domain":"www150.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-06-23T13:38:26Z","to":"2026-07-23T04:00:00Z"}
+{"id":"10861139576","timestamp":"2025-06-23T14:15:55.342841143Z","domain":"www148.canafe-fintrac.canada.ca","issuer":"SSL.com","from":"2025-06-23T13:43:43Z","to":"2026-07-23T04:00:00Z"}
+{"id":"10861139576","timestamp":"2025-06-23T14:15:55.342841263Z","domain":"www148.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-06-23T13:43:43Z","to":"2026-07-23T04:00:00Z"}
+{"id":"10861139576","timestamp":"2025-06-23T14:15:55.342841343Z","domain":"www149.canafe-fintrac.canada.ca","issuer":"SSL.com","from":"2025-06-23T13:43:43Z","to":"2026-07-23T04:00:00Z"}
+{"id":"10861139576","timestamp":"2025-06-23T14:15:55.342841433Z","domain":"www149.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-06-23T13:43:43Z","to":"2026-07-23T04:00:00Z"}
+{"id":"10861182190","timestamp":"2025-06-23T14:15:55.342842185Z","domain":"www134.canafe-fintrac.canada.ca","issuer":"SSL.com","from":"2025-06-23T13:48:20Z","to":"2026-07-23T04:00:00Z"}
+{"id":"10861182190","timestamp":"2025-06-23T14:15:55.342842285Z","domain":"www134.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-06-23T13:48:20Z","to":"2026-07-23T04:00:00Z"}
+{"id":"10861182190","timestamp":"2025-06-23T14:15:55.342842365Z","domain":"www137.canafe-fintrac.canada.ca","issuer":"SSL.com","from":"2025-06-23T13:48:20Z","to":"2026-07-23T04:00:00Z"}
+{"id":"10861182190","timestamp":"2025-06-23T14:15:55.342842445Z","domain":"www137.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-06-23T13:48:20Z","to":"2026-07-23T04:00:00Z"}
+{"id":"10861206190","timestamp":"2025-06-23T14:15:55.342842536Z","domain":"www143.canafe-fintrac.canada.ca","issuer":"SSL.com","from":"2025-06-23T13:51:30Z","to":"2026-07-23T04:00:00Z"}
+{"id":"10861206190","timestamp":"2025-06-23T14:15:55.342842625Z","domain":"www143.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-06-23T13:51:30Z","to":"2026-07-23T04:00:00Z"}
