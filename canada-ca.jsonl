@@ -9932,3 +9932,6 @@
 {"id":"10875734115","timestamp":"2025-06-24T19:15:08.337105129Z","domain":"aur.aurora.ssc-dev-iso-isiem-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-24T17:40:30Z","to":"2025-09-22T17:40:29Z"}
 {"id":"10875979676","timestamp":"2025-06-24T20:16:07.794047357Z","domain":"cartes-dev.canada.ca","issuer":"Let's Encrypt","from":"2025-06-24T18:11:59Z","to":"2025-09-22T18:11:58Z"}
 {"id":"10875979676","timestamp":"2025-06-24T20:16:07.794047888Z","domain":"maps-dev.canada.ca","issuer":"Let's Encrypt","from":"2025-06-24T18:11:59Z","to":"2025-09-22T18:11:58Z"}
+{"id":"10876555397","timestamp":"2025-06-24T21:15:39.891852817Z","domain":"resource-catalogue.ws-arctic.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-24T19:26:56Z","to":"2025-09-22T19:26:55Z"}
+{"id":"10876555686","timestamp":"2025-06-24T21:15:39.891853338Z","domain":"mlflow.ws-arctic.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-24T19:26:57Z","to":"2025-09-22T19:26:56Z"}
+{"id":"10876907805","timestamp":"2025-06-24T21:15:39.891853619Z","domain":"orion-ontario-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-06-24T00:00:00Z","to":"2026-07-23T23:59:59Z"}
