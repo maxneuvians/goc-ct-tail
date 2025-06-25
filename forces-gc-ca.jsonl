@@ -1275,3 +1275,5 @@
 {"id":"10855129709","timestamp":"2025-06-23T03:38:29.48160781Z","domain":"dfs-dsv.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-23T00:00:00Z","to":"2026-07-22T23:59:59Z"}
 {"id":"10856540988","timestamp":"2025-06-23T06:17:00.032579813Z","domain":"dfs-dsv-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-23T00:00:00Z","to":"2026-07-22T23:59:59Z"}
 {"id":"10866173460","timestamp":"2025-06-24T00:38:02.21511967Z","domain":"api.dfs-dsv.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-24T00:00:00Z","to":"2026-07-23T23:59:59Z"}
+{"id":"10887229154","timestamp":"2025-06-25T20:16:05.31817679Z","domain":"forces.gc.ca","issuer":"Sectigo","from":"2025-06-25T00:00:00Z","to":"2025-09-23T23:59:59Z"}
+{"id":"10887229154","timestamp":"2025-06-25T20:16:05.318177402Z","domain":"www.forces.gc.ca","issuer":"Sectigo","from":"2025-06-25T00:00:00Z","to":"2025-09-23T23:59:59Z"}
