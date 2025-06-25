@@ -546,3 +546,7 @@
 {"id":"10823374954","timestamp":"2025-06-20T14:46:08.765086098Z","domain":"sponsor.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-06-20T00:00:00Z","to":"2026-06-19T23:59:59Z"}
 {"id":"10861169221","timestamp":"2025-06-23T14:47:15.112696381Z","domain":"remote.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-06-23T00:00:00Z","to":"2026-06-22T23:59:59Z"}
 {"id":"10873625401","timestamp":"2025-06-24T14:46:29.619826971Z","domain":"multi-connect-connexion-uat.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-06-24T00:00:00Z","to":"2025-12-23T23:59:59Z"}
+{"id":"10886628584","timestamp":"2025-06-25T18:49:03.800698829Z","domain":"*.cmhc-schl.gc.ca","issuer":"Google Trust Services","from":"2025-06-25T16:48:40Z","to":"2025-09-23T17:48:37Z"}
+{"id":"10886628584","timestamp":"2025-06-25T18:49:03.80069936Z","domain":"cmhc-schl.gc.ca","issuer":"Google Trust Services","from":"2025-06-25T16:48:40Z","to":"2025-09-23T17:48:37Z"}
+{"id":"10886629339","timestamp":"2025-06-25T18:49:03.80069965Z","domain":"*.cmhc-schl.gc.ca","issuer":"Google Trust Services","from":"2025-06-25T16:48:31Z","to":"2025-09-23T17:44:37Z"}
+{"id":"10886629339","timestamp":"2025-06-25T18:49:03.800700381Z","domain":"cmhc-schl.gc.ca","issuer":"Google Trust Services","from":"2025-06-25T16:48:31Z","to":"2025-09-23T17:44:37Z"}
