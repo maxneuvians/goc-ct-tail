@@ -9938,3 +9938,9 @@
 {"id":"10887378522","timestamp":"2025-06-25T20:16:07.964875883Z","domain":"orion-ontario.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-06-25T00:00:00Z","to":"2026-07-24T23:59:59Z"}
 {"id":"10887529820","timestamp":"2025-06-25T20:16:07.964876364Z","domain":"finesse-backend.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-25T18:49:09Z","to":"2025-09-23T18:49:08Z"}
 {"id":"10887530175","timestamp":"2025-06-25T20:16:07.964876724Z","domain":"finesse.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-25T18:49:10Z","to":"2025-09-23T18:49:09Z"}
+{"id":"10888165954","timestamp":"2025-06-25T22:15:41.606998388Z","domain":"*.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-25T20:15:25Z","to":"2025-09-23T20:15:24Z"}
+{"id":"10888165954","timestamp":"2025-06-25T22:15:41.606998739Z","domain":"nrcan-rncan.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-25T20:15:25Z","to":"2025-09-23T20:15:24Z"}
+{"id":"10888212476","timestamp":"2025-06-25T22:15:41.606998959Z","domain":"*.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-25T20:21:42Z","to":"2025-09-23T20:21:41Z"}
+{"id":"10888212476","timestamp":"2025-06-25T22:15:41.60699917Z","domain":"nrcan-rncan.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-25T20:21:42Z","to":"2025-09-23T20:21:41Z"}
+{"id":"10888233196","timestamp":"2025-06-25T22:15:41.60699927Z","domain":"*.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-25T20:23:50Z","to":"2025-09-23T20:23:49Z"}
+{"id":"10888233196","timestamp":"2025-06-25T22:15:41.607000382Z","domain":"nrcan-rncan.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-06-25T20:23:50Z","to":"2025-09-23T20:23:49Z"}
