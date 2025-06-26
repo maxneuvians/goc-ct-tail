@@ -1281,3 +1281,12 @@
 {"id":"10895820989","timestamp":"2025-06-26T13:21:49.297211527Z","domain":"jmc.met.forces.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2026-06-26T23:59:59Z"}
 {"id":"10895820989","timestamp":"2025-06-26T13:21:49.297211758Z","domain":"met.forces.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2026-06-26T23:59:59Z"}
 {"id":"10895820989","timestamp":"2025-06-26T13:21:49.297211958Z","domain":"stage.met.forces.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2026-06-26T23:59:59Z"}
+{"id":"10897353869","timestamp":"2025-06-26T16:16:25.237580576Z","domain":"*.admmat.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T14:59:38Z","to":"2025-09-24T14:59:37Z"}
+{"id":"10897353869","timestamp":"2025-06-26T16:16:25.237581368Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T14:59:38Z","to":"2025-09-24T14:59:37Z"}
+{"id":"10897353869","timestamp":"2025-06-26T16:16:25.237581628Z","domain":"*.cjoc.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T14:59:38Z","to":"2025-09-24T14:59:37Z"}
+{"id":"10897353869","timestamp":"2025-06-26T16:16:25.237581909Z","domain":"*.drdc.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T14:59:38Z","to":"2025-09-24T14:59:37Z"}
+{"id":"10897353869","timestamp":"2025-06-26T16:16:25.237582019Z","domain":"*.navy.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T14:59:38Z","to":"2025-09-24T14:59:37Z"}
+{"id":"10897353869","timestamp":"2025-06-26T16:16:25.23758256Z","domain":"*.rcaf.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T14:59:38Z","to":"2025-09-24T14:59:37Z"}
+{"id":"10897353869","timestamp":"2025-06-26T16:16:25.23758269Z","domain":"*.sof.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T14:59:38Z","to":"2025-09-24T14:59:37Z"}
+{"id":"10897353869","timestamp":"2025-06-26T16:16:25.23758279Z","domain":"*.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T14:59:38Z","to":"2025-09-24T14:59:37Z"}
+{"id":"10897353869","timestamp":"2025-06-26T16:16:25.237582881Z","domain":"*.vcds.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T14:59:38Z","to":"2025-09-24T14:59:37Z"}
