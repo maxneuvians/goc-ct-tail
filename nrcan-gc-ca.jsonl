@@ -12393,3 +12393,45 @@
 {"id":"10894930201","timestamp":"2025-06-26T11:15:22.931328958Z","domain":"www.foresterieautochtone.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T09:50:57Z","to":"2025-09-24T09:50:56Z"}
 {"id":"10894930201","timestamp":"2025-06-26T11:15:22.931329028Z","domain":"www.foresterieautochtone.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T09:50:57Z","to":"2025-09-24T09:50:56Z"}
 {"id":"10894930201","timestamp":"2025-06-26T11:15:22.931329108Z","domain":"www.foresterieautochtone.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T09:50:57Z","to":"2025-09-24T09:50:56Z"}
+{"id":"10895201517","timestamp":"2025-06-26T12:17:23.151632732Z","domain":"pcsp.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T10:26:45Z","to":"2025-09-24T10:26:44Z"}
+{"id":"10895201517","timestamp":"2025-06-26T12:17:23.151633153Z","domain":"www.pcsp.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T10:26:45Z","to":"2025-09-24T10:26:44Z"}
+{"id":"10895279534","timestamp":"2025-06-26T12:17:23.151633394Z","domain":"pipeline.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895279534","timestamp":"2025-06-26T12:17:23.151633624Z","domain":"pipeline.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895279534","timestamp":"2025-06-26T12:17:23.151633704Z","domain":"www.pipeline.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895279534","timestamp":"2025-06-26T12:17:23.151635357Z","domain":"www.pipeline.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895318003","timestamp":"2025-06-26T12:17:23.151635578Z","domain":"polaire.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895318003","timestamp":"2025-06-26T12:17:23.151635708Z","domain":"polar.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895318003","timestamp":"2025-06-26T12:17:23.151635788Z","domain":"www.polaire.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895318003","timestamp":"2025-06-26T12:17:23.151637071Z","domain":"www.polar.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895355915","timestamp":"2025-06-26T12:17:23.151637251Z","domain":"pres.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895355915","timestamp":"2025-06-26T12:17:23.151637391Z","domain":"pres.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895355915","timestamp":"2025-06-26T12:17:23.151637491Z","domain":"pres.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895355915","timestamp":"2025-06-26T12:17:23.151637682Z","domain":"pres.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895355915","timestamp":"2025-06-26T12:17:23.151637842Z","domain":"www.pres.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895355915","timestamp":"2025-06-26T12:17:23.151638002Z","domain":"www.pres.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895355915","timestamp":"2025-06-26T12:17:23.151638113Z","domain":"www.pres.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895355915","timestamp":"2025-06-26T12:17:23.151638263Z","domain":"www.pres.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895380578","timestamp":"2025-06-26T12:17:23.151639996Z","domain":"produits-petroliers.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895380578","timestamp":"2025-06-26T12:17:23.151640116Z","domain":"produits-petroliers.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895380578","timestamp":"2025-06-26T12:17:23.151640226Z","domain":"produits-petroliers.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895380578","timestamp":"2025-06-26T12:17:23.151640317Z","domain":"produits-petroliers.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895380578","timestamp":"2025-06-26T12:17:23.151640447Z","domain":"www.produits-petroliers.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895380578","timestamp":"2025-06-26T12:17:23.151640547Z","domain":"www.produits-petroliers.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895380578","timestamp":"2025-06-26T12:17:23.151640677Z","domain":"www.produits-petroliers.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895380578","timestamp":"2025-06-26T12:17:23.151640807Z","domain":"www.produits-petroliers.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.151640968Z","domain":"energie-renouvelable.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.151641088Z","domain":"energie-renouvelable.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.151641218Z","domain":"energie-renouvelable.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.151641348Z","domain":"energie-renouvelable.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.151641439Z","domain":"renewable-energy.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.151641519Z","domain":"renewable-energy.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.151641629Z","domain":"renewable-energy.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.151641779Z","domain":"renewable-energy.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.15164193Z","domain":"www.energie-renouvelable.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.15164205Z","domain":"www.energie-renouvelable.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.15164222Z","domain":"www.energie-renouvelable.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.151642341Z","domain":"www.energie-renouvelable.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.151642471Z","domain":"www.renewable-energy.nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.151642581Z","domain":"www.renewable-energy.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.151644595Z","domain":"www.renewable-energy.rncan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
+{"id":"10895436877","timestamp":"2025-06-26T12:17:23.151644705Z","domain":"www.renewable-energy.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-06-26T00:00:00Z","to":"2025-09-24T23:59:59Z"}
