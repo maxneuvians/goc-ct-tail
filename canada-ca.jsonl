@@ -9950,3 +9950,9 @@
 {"id":"10893133581","timestamp":"2025-06-26T08:16:42.987724155Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-06-26T06:25:51Z","to":"2025-09-24T06:25:50Z"}
 {"id":"10895504865","timestamp":"2025-06-26T12:17:22.757596883Z","domain":"kimberleyprocess-processuskimberley.canada.ca","issuer":"SSL.com","from":"2025-06-26T11:55:49Z","to":"2026-07-26T04:00:00Z"}
 {"id":"10895504865","timestamp":"2025-06-26T12:17:22.757597194Z","domain":"www.kimberleyprocess-processuskimberley.canada.ca","issuer":"SSL.com","from":"2025-06-26T11:55:49Z","to":"2026-07-26T04:00:00Z"}
+{"id":"10898871890","timestamp":"2025-06-26T20:16:02.765394899Z","domain":"*.api.esdc-edsc.canada.ca","issuer":"SSL.com","from":"2025-06-26T19:08:10Z","to":"2026-07-06T04:00:00Z"}
+{"id":"10898871890","timestamp":"2025-06-26T20:16:02.76539552Z","domain":"*.dev.service.gc.ca","issuer":"SSL.com","from":"2025-06-26T19:08:10Z","to":"2026-07-06T04:00:00Z"}
+{"id":"10898871890","timestamp":"2025-06-26T20:16:02.76539573Z","domain":"*.interop.service.canada.ca","issuer":"SSL.com","from":"2025-06-26T19:08:10Z","to":"2026-07-06T04:00:00Z"}
+{"id":"10898871890","timestamp":"2025-06-26T20:16:02.765395951Z","domain":"*.interop.service.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-06-26T19:08:10Z","to":"2026-07-06T04:00:00Z"}
+{"id":"10898871890","timestamp":"2025-06-26T20:16:02.765396041Z","domain":"*.service.gc.ca","issuer":"SSL.com","from":"2025-06-26T19:08:10Z","to":"2026-07-06T04:00:00Z"}
+{"id":"10898871890","timestamp":"2025-06-26T20:16:02.765396993Z","domain":"*.services.global.gc.ca","issuer":"SSL.com","from":"2025-06-26T19:08:10Z","to":"2026-07-06T04:00:00Z"}
