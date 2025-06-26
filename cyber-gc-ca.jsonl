@@ -573,3 +573,7 @@
 {"id":"10822649654","timestamp":"2025-06-20T12:46:10.228398384Z","domain":"malware-pb.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-06-20T11:21:23Z","to":"2025-09-18T11:21:22Z"}
 {"id":"10822679417","timestamp":"2025-06-20T12:46:10.228398615Z","domain":"malware.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-06-20T11:24:04Z","to":"2025-09-18T11:24:03Z"}
 {"id":"10874754780","timestamp":"2025-06-24T17:37:18.04744669Z","domain":"test.test.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-06-24T15:43:28Z","to":"2025-09-22T15:43:27Z"}
+{"id":"10896339408","timestamp":"2025-06-26T14:37:59.005291285Z","domain":"*.core.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T12:49:48Z","to":"2025-09-24T12:49:47Z"}
+{"id":"10896339408","timestamp":"2025-06-26T14:37:59.005291695Z","domain":"core.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T12:49:48Z","to":"2025-09-24T12:49:47Z"}
+{"id":"10896362871","timestamp":"2025-06-26T14:37:59.005291896Z","domain":"*.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T12:52:28Z","to":"2025-09-24T12:52:27Z"}
+{"id":"10896362871","timestamp":"2025-06-26T14:37:59.005292046Z","domain":"pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-06-26T12:52:28Z","to":"2025-09-24T12:52:27Z"}
