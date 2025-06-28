@@ -2509,7 +2509,12 @@
       "SSL.com": 8
     },
     "2025-06-27": {
-      "DigiCert": 1,
+      "DigiCert": 3,
+      "Amazon Trust Services": 4,
+      "Let's Encrypt": 1,
+      "Google Trust Services": 1
+    },
+    "2025-06-28": {
       "Amazon Trust Services": 4
     }
   },
