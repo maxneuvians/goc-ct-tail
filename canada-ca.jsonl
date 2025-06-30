@@ -9977,3 +9977,5 @@
 {"id":"10931342266","timestamp":"2025-06-29T16:16:04.419455665Z","domain":"conception.canada.ca","issuer":"Let's Encrypt","from":"2025-06-29T14:47:38Z","to":"2025-09-27T14:47:37Z"}
 {"id":"10932904918","timestamp":"2025-06-29T20:15:52.156822019Z","domain":"lab.gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-06-29T18:23:08Z","to":"2025-09-27T18:23:07Z"}
 {"id":"10935089087","timestamp":"2025-06-30T00:40:56.344180367Z","domain":"nvmip-sap-poads-qa2.public.aws-lza.hc-sc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-06-30T00:00:00Z","to":"2026-07-29T23:59:59Z"}
+{"id":"10939185156","timestamp":"2025-06-30T09:16:23.281339155Z","domain":"meteo-spatiale.canada.ca","issuer":"Sectigo","from":"2025-06-30T00:00:00Z","to":"2025-09-28T23:59:59Z"}
+{"id":"10939185156","timestamp":"2025-06-30T09:16:23.281339496Z","domain":"space-weather.canada.ca","issuer":"Sectigo","from":"2025-06-30T00:00:00Z","to":"2025-09-28T23:59:59Z"}
