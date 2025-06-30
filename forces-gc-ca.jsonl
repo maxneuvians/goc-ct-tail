@@ -1293,3 +1293,6 @@
 {"id":"10898081526","timestamp":"2025-06-26T18:16:47.879570744Z","domain":"aad-sso.rcaf-arc.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-06-26T17:19:04Z","to":"2026-07-26T04:00:00Z"}
 {"id":"10925823506","timestamp":"2025-06-29T03:40:06.285255261Z","domain":"admin.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-29T00:00:00Z","to":"2026-07-28T23:59:59Z"}
 {"id":"10926831668","timestamp":"2025-06-29T06:16:39.125949255Z","domain":"admin.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-29T00:00:00Z","to":"2026-07-28T23:59:59Z"}
+{"id":"10935089352","timestamp":"2025-06-30T00:40:55.430497195Z","domain":"ds.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-30T00:00:00Z","to":"2026-07-29T23:59:59Z"}
+{"id":"10935090593","timestamp":"2025-06-30T00:40:55.430497556Z","domain":"api.atess.dfs-dsv-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-30T00:00:00Z","to":"2026-07-29T23:59:59Z"}
+{"id":"10935130086","timestamp":"2025-06-30T00:40:55.430497786Z","domain":"ds.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-30T00:00:00Z","to":"2026-07-29T23:59:59Z"}
