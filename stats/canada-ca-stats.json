@@ -2523,7 +2523,13 @@
       "Let's Encrypt": 4
     },
     "2025-06-30": {
-      "Amazon Trust Services": 1
+      "Amazon Trust Services": 1,
+      "Sectigo": 2,
+      "SSL.com": 9,
+      "Let's Encrypt": 1
+    },
+    "2025-07-01": {
+      "DigiCert": 3
     }
   },
   "errors": []
