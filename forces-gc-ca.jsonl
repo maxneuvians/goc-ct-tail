@@ -1297,3 +1297,5 @@
 {"id":"10935090593","timestamp":"2025-06-30T00:40:55.430497556Z","domain":"api.atess.dfs-dsv-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-30T00:00:00Z","to":"2026-07-29T23:59:59Z"}
 {"id":"10935130086","timestamp":"2025-06-30T00:40:55.430497786Z","domain":"ds.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-30T00:00:00Z","to":"2026-07-29T23:59:59Z"}
 {"id":"10938078036","timestamp":"2025-06-30T06:16:57.17274039Z","domain":"atess.dfs-dsv-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-06-30T00:00:00Z","to":"2026-07-29T23:59:59Z"}
+{"id":"10952536705","timestamp":"2025-07-01T10:16:05.471606999Z","domain":"www.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-07-01T09:01:41Z","to":"2025-09-29T09:01:40Z"}
+{"id":"10952536995","timestamp":"2025-07-01T10:16:05.47160728Z","domain":"bib.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-07-01T09:01:42Z","to":"2025-09-29T09:01:41Z"}
