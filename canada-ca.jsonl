@@ -9995,3 +9995,9 @@
 {"id":"10949501291","timestamp":"2025-07-01T05:16:50.325043192Z","domain":"outreach-nrc.canada.ca","issuer":"Let's Encrypt","from":"2025-07-01T03:25:02Z","to":"2025-09-29T03:25:01Z"}
 {"id":"10949517000","timestamp":"2025-07-01T05:16:50.325043543Z","domain":"diffusion-cnrc.canada.ca","issuer":"Let's Encrypt","from":"2025-07-01T03:24:56Z","to":"2025-09-29T03:24:55Z"}
 {"id":"10950528023","timestamp":"2025-07-01T07:16:04.131950721Z","domain":"rpss-uat-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-07-01T00:00:00Z","to":"2026-01-01T23:59:59Z"}
+{"id":"10951153173","timestamp":"2025-07-01T08:16:46.938733612Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-01T06:25:13Z","to":"2025-09-29T06:25:12Z"}
+{"id":"10951153173","timestamp":"2025-07-01T08:16:46.938733942Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-01T06:25:13Z","to":"2025-09-29T06:25:12Z"}
+{"id":"10951154447","timestamp":"2025-07-01T08:16:46.938734303Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-01T06:25:24Z","to":"2025-09-29T06:25:23Z"}
+{"id":"10951154447","timestamp":"2025-07-01T08:16:46.938734544Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-01T06:25:24Z","to":"2025-09-29T06:25:23Z"}
+{"id":"10951364786","timestamp":"2025-07-01T08:16:46.938734644Z","domain":"dev.dam.explorer-marche-travail.service.canada.ca","issuer":"DigiCert","from":"2025-07-01T00:00:00Z","to":"2026-01-01T23:59:59Z"}
+{"id":"10951411053","timestamp":"2025-07-01T08:16:46.938735636Z","domain":"rpss-dev-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-07-01T00:00:00Z","to":"2026-01-01T23:59:59Z"}
