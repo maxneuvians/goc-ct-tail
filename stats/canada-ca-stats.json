@@ -2529,7 +2529,11 @@
       "Let's Encrypt": 1
     },
     "2025-07-01": {
-      "DigiCert": 3
+      "DigiCert": 16,
+      "Let's Encrypt": 7
+    },
+    "2025-07-02": {
+      "Let's Encrypt": 1
     }
   },
   "errors": []
