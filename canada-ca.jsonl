@@ -10031,3 +10031,7 @@
 {"id":"10972607600","timestamp":"2025-07-03T00:38:10.516427429Z","domain":"be.api.qa2.portfolio1.n.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-03T00:00:00Z","to":"2026-08-01T23:59:59Z"}
 {"id":"10972607787","timestamp":"2025-07-03T00:38:10.516427529Z","domain":"ss.api.qa2.portfolio1.n.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-03T00:00:00Z","to":"2026-08-01T23:59:59Z"}
 {"id":"10974071229","timestamp":"2025-07-03T02:46:17.89783226Z","domain":"portal-qa2.portfolio1.n.g.phac.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-03T00:00:00Z","to":"2026-08-01T23:59:59Z"}
+{"id":"10976609031","timestamp":"2025-07-03T08:16:35.343643614Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-03T06:25:52Z","to":"2025-10-01T06:25:51Z"}
+{"id":"10976609031","timestamp":"2025-07-03T08:16:35.343643975Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-03T06:25:52Z","to":"2025-10-01T06:25:51Z"}
+{"id":"10976666745","timestamp":"2025-07-03T08:16:35.343644236Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-03T06:31:44Z","to":"2025-10-01T06:31:43Z"}
+{"id":"10976666745","timestamp":"2025-07-03T08:16:35.343644456Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-03T06:31:44Z","to":"2025-10-01T06:31:43Z"}
