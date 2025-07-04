@@ -530,3 +530,8 @@
 {"id":"10994552221","timestamp":"2025-07-04T14:37:40.234053169Z","domain":"selfid-autoid-api-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-07-04T00:00:00Z","to":"2026-01-04T23:59:59Z"}
 {"id":"10994583515","timestamp":"2025-07-04T14:37:40.234053831Z","domain":"selfid-autoid-api-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-07-04T00:00:00Z","to":"2026-01-04T23:59:59Z"}
 {"id":"10995931475","timestamp":"2025-07-04T16:39:08.031428941Z","domain":"selfid-autoid-api-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-07-04T00:00:00Z","to":"2026-01-04T23:59:59Z"}
+{"id":"10996769881","timestamp":"2025-07-04T18:40:19.226252506Z","domain":"gcdocs-otds.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-07-04T17:51:38Z","to":"2026-08-04T04:00:00Z"}
+{"id":"10996769881","timestamp":"2025-07-04T18:40:19.226252817Z","domain":"gcd-prdotd01.t1.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-07-04T17:51:38Z","to":"2026-08-04T04:00:00Z"}
+{"id":"10996769881","timestamp":"2025-07-04T18:40:19.226253027Z","domain":"gcdprdotd01.t1.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-07-04T17:51:38Z","to":"2026-08-04T04:00:00Z"}
+{"id":"10996769881","timestamp":"2025-07-04T18:40:19.226253208Z","domain":"gcd-prdotd02.t1.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-07-04T17:51:38Z","to":"2026-08-04T04:00:00Z"}
+{"id":"10996769881","timestamp":"2025-07-04T18:40:19.226253298Z","domain":"gcdprdotd02.t1.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-07-04T17:51:38Z","to":"2026-08-04T04:00:00Z"}
