@@ -10040,3 +10040,6 @@
 {"id":"10981069629","timestamp":"2025-07-03T15:16:00.877637904Z","domain":"a11y.canada.ca","issuer":"Let's Encrypt","from":"2025-07-03T13:45:06Z","to":"2025-10-01T13:45:05Z"}
 {"id":"10981289738","timestamp":"2025-07-03T15:16:00.877638084Z","domain":"ibm-turbonomic.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-03T00:00:00Z","to":"2026-08-01T23:59:59Z"}
 {"id":"10981289738","timestamp":"2025-07-03T15:16:00.877638294Z","domain":"www.ibm-turbonomic.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-03T00:00:00Z","to":"2026-08-01T23:59:59Z"}
+{"id":"10988353571","timestamp":"2025-07-04T02:45:42.907998568Z","domain":"uat.ewp-pmee.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2025-07-04T00:00:00Z","to":"2026-01-04T23:59:59Z"}
+{"id":"10988355119","timestamp":"2025-07-04T02:45:42.907998908Z","domain":"*.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-04T00:00:00Z","to":"2026-08-01T23:59:59Z"}
+{"id":"10988355119","timestamp":"2025-07-04T02:45:42.907999099Z","domain":"alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-04T00:00:00Z","to":"2026-08-01T23:59:59Z"}
