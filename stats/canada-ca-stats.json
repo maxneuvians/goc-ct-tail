@@ -2537,7 +2537,12 @@
       "SSL.com": 4
     },
     "2025-07-03": {
-      "Amazon Trust Services": 9
+      "Amazon Trust Services": 11,
+      "Let's Encrypt": 7
+    },
+    "2025-07-04": {
+      "DigiCert": 1,
+      "Amazon Trust Services": 2
     }
   },
   "errors": []
