@@ -10053,3 +10053,6 @@
 {"id":"10993726190","timestamp":"2025-07-04T13:20:55.188111295Z","domain":"cartes-test.canada.ca","issuer":"Let's Encrypt","from":"2025-07-04T11:19:30Z","to":"2025-10-02T11:19:29Z"}
 {"id":"10993726190","timestamp":"2025-07-04T13:20:55.188111726Z","domain":"maps-test.canada.ca","issuer":"Let's Encrypt","from":"2025-07-04T11:19:30Z","to":"2025-10-02T11:19:29Z"}
 {"id":"10995118438","timestamp":"2025-07-04T15:15:46.599407331Z","domain":"*.cloudopsportal.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-04T13:57:07Z","to":"2025-10-02T13:57:06Z"}
+{"id":"10995300914","timestamp":"2025-07-04T16:16:38.638608404Z","domain":"elvis-celine-auth.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-04T00:00:00Z","to":"2026-08-02T23:59:59Z"}
+{"id":"10995303962","timestamp":"2025-07-04T16:16:38.638609035Z","domain":"elvis-celine-auth.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-04T00:00:00Z","to":"2026-08-02T23:59:59Z"}
+{"id":"10995305835","timestamp":"2025-07-04T16:16:38.638609276Z","domain":"elvis-celine-auth.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-04T00:00:00Z","to":"2026-08-02T23:59:59Z"}
