@@ -10057,3 +10057,7 @@
 {"id":"10995303962","timestamp":"2025-07-04T16:16:38.638609035Z","domain":"elvis-celine-auth.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-04T00:00:00Z","to":"2026-08-02T23:59:59Z"}
 {"id":"10995305835","timestamp":"2025-07-04T16:16:38.638609276Z","domain":"elvis-celine-auth.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-04T00:00:00Z","to":"2026-08-02T23:59:59Z"}
 {"id":"10996171696","timestamp":"2025-07-04T17:15:19.834546207Z","domain":"rpss-dev-backend.apim-dev.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-07-04T00:00:00Z","to":"2026-01-04T23:59:59Z"}
+{"id":"10997190728","timestamp":"2025-07-04T19:15:07.917983344Z","domain":"identity-api.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-04T17:52:31Z","to":"2025-10-02T17:52:30Z"}
+{"id":"10997202959","timestamp":"2025-07-04T19:15:07.917983765Z","domain":"keycloak.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-04T17:53:17Z","to":"2025-10-02T17:53:16Z"}
+{"id":"10997241163","timestamp":"2025-07-04T19:15:07.917983986Z","domain":"minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-04T17:58:18Z","to":"2025-10-02T17:58:17Z"}
+{"id":"10997295236","timestamp":"2025-07-04T19:15:07.917984226Z","domain":"console.minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-04T18:03:01Z","to":"2025-10-02T18:03:00Z"}
