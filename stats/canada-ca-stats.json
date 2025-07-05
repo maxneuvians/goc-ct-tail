@@ -2541,8 +2541,9 @@
       "Let's Encrypt": 7
     },
     "2025-07-04": {
-      "DigiCert": 1,
-      "Amazon Trust Services": 2
+      "DigiCert": 3,
+      "Amazon Trust Services": 5,
+      "Let's Encrypt": 30
     }
   },
   "errors": []
