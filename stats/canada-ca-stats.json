@@ -2544,6 +2544,11 @@
       "DigiCert": 3,
       "Amazon Trust Services": 5,
       "Let's Encrypt": 30
+    },
+    "2025-07-05": {
+      "Let's Encrypt": 52,
+      "GoDaddy": 1,
+      "DigiCert": 1
     }
   },
   "errors": []
