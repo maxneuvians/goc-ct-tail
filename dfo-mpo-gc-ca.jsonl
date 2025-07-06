@@ -1005,3 +1005,5 @@
 {"id":"10923607199","timestamp":"2025-06-28T22:27:15.813326546Z","domain":"argocd.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-06-28T21:13:05Z","to":"2025-09-26T21:13:04Z"}
 {"id":"10961109976","timestamp":"2025-07-02T02:55:19.222728243Z","domain":"falco-ui.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-07-02T00:57:01Z","to":"2025-09-30T00:57:00Z"}
 {"id":"10989058702","timestamp":"2025-07-04T04:30:10.029590966Z","domain":"falco-ui.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-07-04T02:47:44Z","to":"2025-10-02T02:47:43Z"}
+{"id":"11023392693","timestamp":"2025-07-06T22:27:46.648070649Z","domain":"wla.dev.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T20:36:04Z","to":"2025-10-04T20:36:03Z"}
+{"id":"11023392693","timestamp":"2025-07-06T22:27:46.648071Z","domain":"wla.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T20:36:04Z","to":"2025-10-04T20:36:03Z"}
