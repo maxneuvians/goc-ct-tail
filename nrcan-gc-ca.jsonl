@@ -13307,3 +13307,35 @@
 {"id":"11015507997","timestamp":"2025-07-06T05:15:47.668050972Z","domain":"adaptation.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-07-06T00:00:00Z","to":"2025-10-04T23:59:59Z"}
 {"id":"11015507997","timestamp":"2025-07-06T05:15:47.668051063Z","domain":"www.adaptation.nrcan.gc.ca","issuer":"Sectigo","from":"2025-07-06T00:00:00Z","to":"2025-10-04T23:59:59Z"}
 {"id":"11015507997","timestamp":"2025-07-06T05:15:47.668051864Z","domain":"www.adaptation.rncan.gc.ca","issuer":"Sectigo","from":"2025-07-06T00:00:00Z","to":"2025-10-04T23:59:59Z"}
+{"id":"11016222928","timestamp":"2025-07-06T06:16:38.434049786Z","domain":"ecoflotte.gc.ca","issuer":"Sectigo","from":"2025-07-06T00:00:00Z","to":"2025-10-04T23:59:59Z"}
+{"id":"11016222928","timestamp":"2025-07-06T06:16:38.434050107Z","domain":"ecoflotte.nrcan.gc.ca","issuer":"Sectigo","from":"2025-07-06T00:00:00Z","to":"2025-10-04T23:59:59Z"}
+{"id":"11016222928","timestamp":"2025-07-06T06:16:38.434050297Z","domain":"ecoflotte.rncan.gc.ca","issuer":"Sectigo","from":"2025-07-06T00:00:00Z","to":"2025-10-04T23:59:59Z"}
+{"id":"11016222928","timestamp":"2025-07-06T06:16:38.434050537Z","domain":"www2.ecoflotte.nrcan.gc.ca","issuer":"Sectigo","from":"2025-07-06T00:00:00Z","to":"2025-10-04T23:59:59Z"}
+{"id":"11016222928","timestamp":"2025-07-06T06:16:38.434050617Z","domain":"www2.ecoflotte.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-07-06T00:00:00Z","to":"2025-10-04T23:59:59Z"}
+{"id":"11016222928","timestamp":"2025-07-06T06:16:38.434051779Z","domain":"www2.ecoflotte.rncan.gc.ca","issuer":"Sectigo","from":"2025-07-06T00:00:00Z","to":"2025-10-04T23:59:59Z"}
+{"id":"11016222928","timestamp":"2025-07-06T06:16:38.43405186Z","domain":"www2.ecoflotte.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-07-06T00:00:00Z","to":"2025-10-04T23:59:59Z"}
+{"id":"11016222928","timestamp":"2025-07-06T06:16:38.43405193Z","domain":"www.ecoflotte.gc.ca","issuer":"Sectigo","from":"2025-07-06T00:00:00Z","to":"2025-10-04T23:59:59Z"}
+{"id":"11016222928","timestamp":"2025-07-06T06:16:38.43405201Z","domain":"www.ecoflotte.nrcan.gc.ca","issuer":"Sectigo","from":"2025-07-06T00:00:00Z","to":"2025-10-04T23:59:59Z"}
+{"id":"11016222928","timestamp":"2025-07-06T06:16:38.434052882Z","domain":"www.ecoflotte.rncan.gc.ca","issuer":"Sectigo","from":"2025-07-06T00:00:00Z","to":"2025-10-04T23:59:59Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434052982Z","domain":"canmetenergie.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434053062Z","domain":"canmetenergy.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434053132Z","domain":"canmetmaterials.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434053212Z","domain":"canmetmaterials.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434053292Z","domain":"canmetmaterials.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434053362Z","domain":"canmetmaterials.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434053443Z","domain":"canmetmateriaux.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434053513Z","domain":"canmetmateriaux.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434054675Z","domain":"canmetmateriaux.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434054745Z","domain":"canmetmateriaux.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434054825Z","domain":"canmetmines.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434054925Z","domain":"canmetmining.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434054996Z","domain":"www.canmetenergie.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434055066Z","domain":"www.canmetenergy.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434055146Z","domain":"www.canmetmaterials.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434055216Z","domain":"www.canmetmaterials.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434055286Z","domain":"www.canmetmaterials.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434055356Z","domain":"www.canmetmaterials.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434055426Z","domain":"www.canmetmateriaux.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434055506Z","domain":"www.canmetmateriaux.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434055577Z","domain":"www.canmetmateriaux.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
+{"id":"11016232710","timestamp":"2025-07-06T06:16:38.434055647Z","domain":"www.canmetmateriaux.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-07-06T05:01:48Z","to":"2025-10-04T05:01:47Z"}
