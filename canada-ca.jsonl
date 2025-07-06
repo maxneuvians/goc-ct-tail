@@ -10132,3 +10132,5 @@
 {"id":"11011906220","timestamp":"2025-07-05T22:15:20.894765469Z","domain":"translator.stats.exp.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-07-05T00:00:00Z","to":"2026-01-05T23:59:59Z"}
 {"id":"11012788318","timestamp":"2025-07-06T00:42:07.547528924Z","domain":"auth.g7-dev.canada.ca","issuer":"Let's Encrypt","from":"2025-07-05T22:50:52Z","to":"2025-10-03T22:50:51Z"}
 {"id":"11012788906","timestamp":"2025-07-06T00:42:07.547529345Z","domain":"auth.g7-dev.canada.ca","issuer":"Let's Encrypt","from":"2025-07-05T22:50:54Z","to":"2025-10-03T22:50:53Z"}
+{"id":"11015547396","timestamp":"2025-07-06T05:15:49.421778407Z","domain":"earthquakes.canada.ca","issuer":"Let's Encrypt","from":"2025-07-06T03:43:52Z","to":"2025-10-04T03:43:51Z"}
+{"id":"11015547396","timestamp":"2025-07-06T05:15:49.421779169Z","domain":"seismes.canada.ca","issuer":"Let's Encrypt","from":"2025-07-06T03:43:52Z","to":"2025-10-04T03:43:51Z"}
