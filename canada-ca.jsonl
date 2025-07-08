@@ -10161,3 +10161,7 @@
 {"id":"11034483203","timestamp":"2025-07-07T21:15:42.433049051Z","domain":"infrastructure.gc.ca","issuer":"SSL.com","from":"2025-07-07T20:55:18Z","to":"2026-07-12T04:00:00Z"}
 {"id":"11034483203","timestamp":"2025-07-07T21:15:42.433050303Z","domain":"logement-infrastructure.canada.ca","issuer":"SSL.com","from":"2025-07-07T20:55:18Z","to":"2026-07-12T04:00:00Z"}
 {"id":"11034483203","timestamp":"2025-07-07T21:15:42.433050394Z","domain":"secure.infc.gc.ca","issuer":"SSL.com","from":"2025-07-07T20:55:18Z","to":"2026-07-12T04:00:00Z"}
+{"id":"11039522349","timestamp":"2025-07-08T08:16:43.990172318Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T06:24:43Z","to":"2025-10-06T06:24:42Z"}
+{"id":"11039522349","timestamp":"2025-07-08T08:16:43.990172749Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T06:24:43Z","to":"2025-10-06T06:24:42Z"}
+{"id":"11039528648","timestamp":"2025-07-08T08:16:43.99017298Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T06:25:18Z","to":"2025-10-06T06:25:17Z"}
+{"id":"11039528648","timestamp":"2025-07-08T08:16:43.99017321Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T06:25:18Z","to":"2025-10-06T06:25:17Z"}
