@@ -10165,3 +10165,12 @@
 {"id":"11039522349","timestamp":"2025-07-08T08:16:43.990172749Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T06:24:43Z","to":"2025-10-06T06:24:42Z"}
 {"id":"11039528648","timestamp":"2025-07-08T08:16:43.99017298Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T06:25:18Z","to":"2025-10-06T06:25:17Z"}
 {"id":"11039528648","timestamp":"2025-07-08T08:16:43.99017321Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T06:25:18Z","to":"2025-10-06T06:25:17Z"}
+{"id":"11041172921","timestamp":"2025-07-08T11:15:32.283487586Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-07-08T10:42:29Z","to":"2026-07-08T10:50:59Z"}
+{"id":"11041172921","timestamp":"2025-07-08T11:15:32.283487916Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-07-08T10:42:29Z","to":"2026-07-08T10:50:59Z"}
+{"id":"11041172921","timestamp":"2025-07-08T11:15:32.283488107Z","domain":"*.dev.g3.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-07-08T10:42:29Z","to":"2026-07-08T10:50:59Z"}
+{"id":"11041172921","timestamp":"2025-07-08T11:15:32.283488297Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-07-08T10:42:29Z","to":"2026-07-08T10:50:59Z"}
+{"id":"11041172921","timestamp":"2025-07-08T11:15:32.283488387Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-07-08T10:42:29Z","to":"2026-07-08T10:50:59Z"}
+{"id":"11041172921","timestamp":"2025-07-08T11:15:32.283488989Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-07-08T10:42:29Z","to":"2026-07-08T10:50:59Z"}
+{"id":"11041172921","timestamp":"2025-07-08T11:15:32.283489069Z","domain":"*.queue.dev.g3.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-07-08T10:42:29Z","to":"2026-07-08T10:50:59Z"}
+{"id":"11041172921","timestamp":"2025-07-08T11:15:32.283489149Z","domain":"*.table.dev.g3.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-07-08T10:42:29Z","to":"2026-07-08T10:50:59Z"}
+{"id":"11041172921","timestamp":"2025-07-08T11:15:32.283489229Z","domain":"wildcard.dev.g3.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-07-08T10:42:29Z","to":"2026-07-08T10:50:59Z"}
