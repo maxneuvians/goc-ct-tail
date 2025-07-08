@@ -10180,3 +10180,11 @@
 {"id":"11042844403","timestamp":"2025-07-08T14:15:43.070338493Z","domain":"budibase.thinkon.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T13:14:32Z","to":"2025-10-06T13:14:31Z"}
 {"id":"11042853410","timestamp":"2025-07-08T15:15:59.699855176Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T13:15:23Z","to":"2025-10-06T13:15:22Z"}
 {"id":"11042958324","timestamp":"2025-07-08T15:15:59.699855467Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T13:27:26Z","to":"2025-10-06T13:27:25Z"}
+{"id":"11043511684","timestamp":"2025-07-08T16:16:30.747428547Z","domain":"mlflow.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T14:36:35Z","to":"2025-10-06T14:36:34Z"}
+{"id":"11043535306","timestamp":"2025-07-08T16:16:30.747428888Z","domain":"api.io.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T14:39:15Z","to":"2025-10-06T14:39:14Z"}
+{"id":"11043535306","timestamp":"2025-07-08T16:16:30.747429098Z","domain":"api-test.io.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T14:39:15Z","to":"2025-10-06T14:39:14Z"}
+{"id":"11043735195","timestamp":"2025-07-08T16:16:30.747429409Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T15:02:55Z","to":"2025-10-06T15:02:54Z"}
+{"id":"11043735544","timestamp":"2025-07-08T16:16:30.747429509Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T15:02:35Z","to":"2025-10-06T15:02:34Z"}
+{"id":"11043737457","timestamp":"2025-07-08T16:16:30.747430571Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T15:03:13Z","to":"2025-10-06T15:03:12Z"}
+{"id":"11043746816","timestamp":"2025-07-08T16:16:30.747430681Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T15:03:33Z","to":"2025-10-06T15:03:32Z"}
+{"id":"11043749291","timestamp":"2025-07-08T16:16:30.747430771Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T15:03:51Z","to":"2025-10-06T15:03:50Z"}
