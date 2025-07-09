@@ -10215,3 +10215,5 @@
 {"id":"11047780445","timestamp":"2025-07-09T00:38:52.437459755Z","domain":"git.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T23:26:48Z","to":"2025-10-06T23:26:47Z"}
 {"id":"11049123184","timestamp":"2025-07-09T03:36:29.403844178Z","domain":"*.api.canada.ca","issuer":"Let's Encrypt","from":"2025-07-09T02:14:59Z","to":"2025-10-07T02:14:58Z"}
 {"id":"11049123184","timestamp":"2025-07-09T03:36:29.403844548Z","domain":"api.canada.ca","issuer":"Let's Encrypt","from":"2025-07-09T02:14:59Z","to":"2025-10-07T02:14:58Z"}
+{"id":"11053015131","timestamp":"2025-07-09T12:17:24.613691664Z","domain":"grafana.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-09T10:50:03Z","to":"2025-10-07T10:50:02Z"}
+{"id":"11053015154","timestamp":"2025-07-09T12:17:24.613692095Z","domain":"alloy.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-09T10:50:03Z","to":"2025-10-07T10:50:02Z"}
