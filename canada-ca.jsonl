@@ -10213,3 +10213,5 @@
 {"id":"11044792209","timestamp":"2025-07-08T18:16:42.77609882Z","domain":"logement-infrastructure.canada.ca","issuer":"SSL.com","from":"2025-07-08T17:55:09Z","to":"2026-07-12T04:00:00Z"}
 {"id":"11044792209","timestamp":"2025-07-08T18:16:42.77609891Z","domain":"secure.infc.gc.ca","issuer":"SSL.com","from":"2025-07-08T17:55:09Z","to":"2026-07-12T04:00:00Z"}
 {"id":"11047780445","timestamp":"2025-07-09T00:38:52.437459755Z","domain":"git.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-08T23:26:48Z","to":"2025-10-06T23:26:47Z"}
+{"id":"11049123184","timestamp":"2025-07-09T03:36:29.403844178Z","domain":"*.api.canada.ca","issuer":"Let's Encrypt","from":"2025-07-09T02:14:59Z","to":"2025-10-07T02:14:58Z"}
+{"id":"11049123184","timestamp":"2025-07-09T03:36:29.403844548Z","domain":"api.canada.ca","issuer":"Let's Encrypt","from":"2025-07-09T02:14:59Z","to":"2025-10-07T02:14:58Z"}
