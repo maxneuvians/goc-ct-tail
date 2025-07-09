@@ -10221,3 +10221,8 @@
 {"id":"11053304770","timestamp":"2025-07-09T13:22:21.21117042Z","domain":"repertoire-ministeres.canada.ca","issuer":"SSL.com","from":"2025-07-09T12:15:15Z","to":"2026-08-09T04:00:00Z"}
 {"id":"11053304770","timestamp":"2025-07-09T13:22:21.211170651Z","domain":"www.guide-ministries.canada.ca","issuer":"SSL.com","from":"2025-07-09T12:15:15Z","to":"2026-08-09T04:00:00Z"}
 {"id":"11053304770","timestamp":"2025-07-09T13:22:21.211170861Z","domain":"www.repertoire-ministeres.canada.ca","issuer":"SSL.com","from":"2025-07-09T12:15:15Z","to":"2026-08-09T04:00:00Z"}
+{"id":"11055111039","timestamp":"2025-07-09T16:16:31.669317004Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-09T15:02:21Z","to":"2025-10-07T15:02:20Z"}
+{"id":"11055113555","timestamp":"2025-07-09T16:16:31.669317364Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-09T15:02:44Z","to":"2025-10-07T15:02:43Z"}
+{"id":"11055115753","timestamp":"2025-07-09T16:16:31.669317585Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-09T15:03:01Z","to":"2025-10-07T15:03:00Z"}
+{"id":"11055118016","timestamp":"2025-07-09T16:16:31.669317845Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-09T15:03:20Z","to":"2025-10-07T15:03:19Z"}
+{"id":"11055124484","timestamp":"2025-07-09T16:16:31.669317936Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-09T15:03:44Z","to":"2025-10-07T15:03:43Z"}
