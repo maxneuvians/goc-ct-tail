@@ -268,3 +268,5 @@
 {"id":"10823204455","timestamp":"2025-06-20T14:15:36.989260606Z","domain":"sfta-tfsa.tc.gc.ca","issuer":"SSL.com","from":"2025-06-20T13:21:23Z","to":"2026-07-20T04:00:00Z"}
 {"id":"10823204455","timestamp":"2025-06-20T14:15:36.989261097Z","domain":"tfsa-sfta.tc.gc.ca","issuer":"SSL.com","from":"2025-06-20T13:21:23Z","to":"2026-07-20T04:00:00Z"}
 {"id":"11015683591","timestamp":"2025-07-06T05:15:47.846068809Z","domain":"outils-collab-tools.tc.gc.ca","issuer":"DigiCert","from":"2025-07-06T00:00:00Z","to":"2026-01-06T23:59:59Z"}
+{"id":"11068895728","timestamp":"2025-07-10T19:15:09.781193124Z","domain":"*.dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-07-10T18:03:19Z","to":"2025-10-08T18:03:18Z"}
+{"id":"11068895728","timestamp":"2025-07-10T19:15:09.781193514Z","domain":"dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-07-10T18:03:19Z","to":"2025-10-08T18:03:18Z"}
