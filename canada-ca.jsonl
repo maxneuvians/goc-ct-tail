@@ -10275,3 +10275,8 @@
 {"id":"11079013956","timestamp":"2025-07-11T15:16:12.337848715Z","domain":"drug-inspection-results.canada.ca","issuer":"SSL.com","from":"2025-07-11T14:44:58Z","to":"2026-08-11T04:00:00Z"}
 {"id":"11079013956","timestamp":"2025-07-11T15:16:12.337848955Z","domain":"resultats-inspection-medicaments.canada.ca","issuer":"SSL.com","from":"2025-07-11T14:44:58Z","to":"2026-08-11T04:00:00Z"}
 {"id":"11079013956","timestamp":"2025-07-11T15:16:12.337850478Z","domain":"www.drug-inspection-results.canada.ca","issuer":"SSL.com","from":"2025-07-11T14:44:58Z","to":"2026-08-11T04:00:00Z"}
+{"id":"11079586215","timestamp":"2025-07-11T16:16:26.160643078Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-11T15:02:24Z","to":"2025-10-09T15:02:23Z"}
+{"id":"11079588686","timestamp":"2025-07-11T16:16:26.16064394Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-11T15:02:44Z","to":"2025-10-09T15:02:43Z"}
+{"id":"11079591073","timestamp":"2025-07-11T16:16:26.160644241Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-11T15:03:03Z","to":"2025-10-09T15:03:02Z"}
+{"id":"11079594082","timestamp":"2025-07-11T16:16:26.160644501Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-11T15:03:24Z","to":"2025-10-09T15:03:23Z"}
+{"id":"11079597142","timestamp":"2025-07-11T16:16:26.160644612Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-11T15:03:49Z","to":"2025-10-09T15:03:48Z"}
