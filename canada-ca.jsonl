@@ -10254,3 +10254,18 @@
 {"id":"11068907575","timestamp":"2025-07-10T19:15:09.404704071Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-07-10T18:03:03Z","to":"2025-10-08T18:03:02Z"}
 {"id":"11068907575","timestamp":"2025-07-10T19:15:09.404704482Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-07-10T18:03:03Z","to":"2025-10-08T18:03:02Z"}
 {"id":"11069197880","timestamp":"2025-07-10T20:16:05.121323133Z","domain":"tccampus-catalogue.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-07-10T18:41:39Z","to":"2025-10-08T18:41:38Z"}
+{"id":"11078567199","timestamp":"2025-07-11T14:15:52.898236392Z","domain":"acceder.canada.ca","issuer":"SSL.com","from":"2025-07-11T13:51:08Z","to":"2026-08-11T04:00:00Z"}
+{"id":"11078567199","timestamp":"2025-07-11T14:15:52.898236893Z","domain":"authenti.canada.ca","issuer":"SSL.com","from":"2025-07-11T13:51:08Z","to":"2026-08-11T04:00:00Z"}
+{"id":"11078567199","timestamp":"2025-07-11T14:15:52.898237163Z","domain":"auth.id.canada.ca","issuer":"SSL.com","from":"2025-07-11T13:51:08Z","to":"2026-08-11T04:00:00Z"}
+{"id":"11078567199","timestamp":"2025-07-11T14:15:52.898237454Z","domain":"connecter.canada.ca","issuer":"SSL.com","from":"2025-07-11T13:51:08Z","to":"2026-08-11T04:00:00Z"}
+{"id":"11078567199","timestamp":"2025-07-11T14:15:52.898237554Z","domain":"login.canada.ca","issuer":"SSL.com","from":"2025-07-11T13:51:08Z","to":"2026-08-11T04:00:00Z"}
+{"id":"11078567199","timestamp":"2025-07-11T14:15:52.898238626Z","domain":"mfa.id.canada.ca","issuer":"SSL.com","from":"2025-07-11T13:51:08Z","to":"2026-08-11T04:00:00Z"}
+{"id":"11078567199","timestamp":"2025-07-11T14:15:52.898238726Z","domain":"sign-in.canada.ca","issuer":"SSL.com","from":"2025-07-11T13:51:08Z","to":"2026-08-11T04:00:00Z"}
+{"id":"11078567199","timestamp":"2025-07-11T14:15:52.898238826Z","domain":"signin.canada.ca","issuer":"SSL.com","from":"2025-07-11T13:51:08Z","to":"2026-08-11T04:00:00Z"}
+{"id":"11078567199","timestamp":"2025-07-11T14:15:52.898238926Z","domain":"www.auth.id.canada.ca","issuer":"SSL.com","from":"2025-07-11T13:51:08Z","to":"2026-08-11T04:00:00Z"}
+{"id":"11078598251","timestamp":"2025-07-11T14:15:52.898239838Z","domain":"cartes-staging.canada.ca","issuer":"Let's Encrypt","from":"2025-07-11T13:05:27Z","to":"2025-10-09T13:05:26Z"}
+{"id":"11078598251","timestamp":"2025-07-11T14:15:52.898239938Z","domain":"maps-staging.canada.ca","issuer":"Let's Encrypt","from":"2025-07-11T13:05:27Z","to":"2025-10-09T13:05:26Z"}
+{"id":"11078630361","timestamp":"2025-07-11T14:15:52.898240048Z","domain":"cartes.canada.ca","issuer":"Let's Encrypt","from":"2025-07-11T13:09:15Z","to":"2025-10-09T13:09:14Z"}
+{"id":"11078630361","timestamp":"2025-07-11T14:15:52.898240139Z","domain":"csw.open.canada.ca","issuer":"Let's Encrypt","from":"2025-07-11T13:09:15Z","to":"2025-10-09T13:09:14Z"}
+{"id":"11078630361","timestamp":"2025-07-11T14:15:52.898240239Z","domain":"maps.canada.ca","issuer":"Let's Encrypt","from":"2025-07-11T13:09:15Z","to":"2025-10-09T13:09:14Z"}
+{"id":"11078630361","timestamp":"2025-07-11T14:15:52.898240339Z","domain":"www.maps.canada.ca","issuer":"Let's Encrypt","from":"2025-07-11T13:09:15Z","to":"2025-10-09T13:09:14Z"}
