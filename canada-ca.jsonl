@@ -10413,3 +10413,18 @@
 {"id":"11116943119","timestamp":"2025-07-14T19:15:10.882304977Z","domain":"identity-api.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T17:32:35Z","to":"2025-10-12T17:32:34Z"}
 {"id":"11116943449","timestamp":"2025-07-14T19:15:10.882305087Z","domain":"keycloak.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T17:32:35Z","to":"2025-10-12T17:32:34Z"}
 {"id":"11117078701","timestamp":"2025-07-14T19:15:10.882306139Z","domain":"scimapdev.exp.innovation.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-07-14T00:00:00Z","to":"2026-01-14T23:59:59Z"}
+{"id":"11117384327","timestamp":"2025-07-14T20:16:13.037194804Z","domain":"zoo.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:25:37Z","to":"2025-10-12T18:25:36Z"}
+{"id":"11117385426","timestamp":"2025-07-14T20:16:13.037195114Z","domain":"resource-catalogue.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:25:45Z","to":"2025-10-12T18:25:44Z"}
+{"id":"11117388039","timestamp":"2025-07-14T20:16:13.037195335Z","domain":"data-access.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:25:50Z","to":"2025-10-12T18:25:49Z"}
+{"id":"11117389062","timestamp":"2025-07-14T20:16:13.037195585Z","domain":"registration-api.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:26:00Z","to":"2025-10-12T18:25:59Z"}
+{"id":"11117394226","timestamp":"2025-07-14T20:16:13.037195665Z","domain":"argo-workflow.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:26:56Z","to":"2025-10-12T18:26:55Z"}
+{"id":"11117396043","timestamp":"2025-07-14T20:16:13.037196577Z","domain":"dec-ui.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:27:00Z","to":"2025-10-12T18:26:59Z"}
+{"id":"11117397320","timestamp":"2025-07-14T20:16:13.037196667Z","domain":"workspace-api.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:26:10Z","to":"2025-10-12T18:26:09Z"}
+{"id":"11117397769","timestamp":"2025-07-14T20:16:13.037196738Z","domain":"eoepca-portal.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:26:21Z","to":"2025-10-12T18:26:20Z"}
+{"id":"11117397949","timestamp":"2025-07-14T20:16:13.037196807Z","domain":"subscription.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:26:27Z","to":"2025-10-12T18:26:26Z"}
+{"id":"11117400719","timestamp":"2025-07-14T20:16:13.037197809Z","domain":"notifications.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:27:25Z","to":"2025-10-12T18:27:24Z"}
+{"id":"11117400833","timestamp":"2025-07-14T20:16:13.03719788Z","domain":"opencost.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:27:21Z","to":"2025-10-12T18:27:20Z"}
+{"id":"11117401703","timestamp":"2025-07-14T20:16:13.03719795Z","domain":"prometheus.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:27:18Z","to":"2025-10-12T18:27:17Z"}
+{"id":"11117413955","timestamp":"2025-07-14T20:16:13.03719802Z","domain":"titilerx.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:28:08Z","to":"2025-10-12T18:28:07Z"}
+{"id":"11117414023","timestamp":"2025-07-14T20:16:13.03719809Z","domain":"datacube-api.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:28:09Z","to":"2025-10-12T18:28:08Z"}
+{"id":"11117416507","timestamp":"2025-07-14T20:16:13.03719816Z","domain":"grafana.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-14T18:28:49Z","to":"2025-10-12T18:28:48Z"}
