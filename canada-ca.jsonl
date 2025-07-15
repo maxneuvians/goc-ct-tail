@@ -10446,3 +10446,9 @@
 {"id":"11128843175","timestamp":"2025-07-15T14:15:56.32243727Z","domain":"ced.canada.ca","issuer":"SSL.com","from":"2025-07-15T13:35:53Z","to":"2026-08-15T04:00:00Z"}
 {"id":"11128843175","timestamp":"2025-07-15T14:15:56.322438251Z","domain":"dec.canada.ca","issuer":"SSL.com","from":"2025-07-15T13:35:53Z","to":"2026-08-15T04:00:00Z"}
 {"id":"11128843175","timestamp":"2025-07-15T14:15:56.322438542Z","domain":"dec-ced.gc.ca","issuer":"SSL.com","from":"2025-07-15T13:35:53Z","to":"2026-08-15T04:00:00Z"}
+{"id":"11129107486","timestamp":"2025-07-15T15:16:01.462363333Z","domain":"mlflow.ws-ekag.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-15T13:13:50Z","to":"2025-10-13T13:13:49Z"}
+{"id":"11129107685","timestamp":"2025-07-15T15:16:01.462363644Z","domain":"resource-catalogue.ws-ekag.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-15T13:13:50Z","to":"2025-10-13T13:13:49Z"}
+{"id":"11129140273","timestamp":"2025-07-15T15:16:01.462363884Z","domain":"agriculture.canada.ca","issuer":"SSL.com","from":"2025-07-15T14:08:37Z","to":"2026-08-15T04:00:00Z"}
+{"id":"11129140273","timestamp":"2025-07-15T15:16:01.462364065Z","domain":"www.agriculture.canada.ca","issuer":"SSL.com","from":"2025-07-15T14:08:37Z","to":"2026-08-15T04:00:00Z"}
+{"id":"11129628906","timestamp":"2025-07-15T15:16:01.462364175Z","domain":"*.design-test.cra-arc.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-15T00:00:00Z","to":"2026-08-13T23:59:59Z"}
+{"id":"11129628906","timestamp":"2025-07-15T15:16:01.462365156Z","domain":"design-test.cra-arc.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-15T00:00:00Z","to":"2026-08-13T23:59:59Z"}
