@@ -2590,7 +2590,10 @@
       "Google Trust Services": 2
     },
     "2025-07-15": {
-      "Amazon Trust Services": 2
+      "Amazon Trust Services": 4,
+      "Let's Encrypt": 12,
+      "Google Trust Services": 4,
+      "SSL.com": 5
     }
   },
   "errors": []
