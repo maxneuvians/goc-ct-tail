@@ -10479,3 +10479,8 @@
 {"id":"11157593443","timestamp":"2025-07-17T15:16:09.789819783Z","domain":"ramco-api-aimms-sgima.train.tc.canada.ca","issuer":"SSL.com","from":"2025-07-17T14:35:08Z","to":"2026-08-17T04:00:00Z"}
 {"id":"11157606896","timestamp":"2025-07-17T15:16:09.789820144Z","domain":"ramco-api-aimms-sgima.train.tc.canada.ca","issuer":"SSL.com","from":"2025-07-17T14:35:09Z","to":"2026-08-17T04:00:00Z"}
 {"id":"11157749873","timestamp":"2025-07-17T15:16:09.789820354Z","domain":"dev-pwsclient-core.neics-nscei.canada.ca","issuer":"SSL.com","from":"2025-07-17T14:53:45Z","to":"2026-07-26T11:49:15Z"}
+{"id":"11158287649","timestamp":"2025-07-17T16:16:27.420389697Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-17T15:02:34Z","to":"2025-10-15T15:02:33Z"}
+{"id":"11158289467","timestamp":"2025-07-17T16:16:27.420390248Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-17T15:02:53Z","to":"2025-10-15T15:02:52Z"}
+{"id":"11158292618","timestamp":"2025-07-17T16:16:27.420390538Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-17T15:03:11Z","to":"2025-10-15T15:03:10Z"}
+{"id":"11158295507","timestamp":"2025-07-17T16:16:27.420390859Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-17T15:03:45Z","to":"2025-10-15T15:03:44Z"}
+{"id":"11158305459","timestamp":"2025-07-17T16:16:27.420390989Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-17T15:03:28Z","to":"2025-10-15T15:03:27Z"}
