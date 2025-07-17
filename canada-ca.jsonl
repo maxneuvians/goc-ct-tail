@@ -10508,3 +10508,14 @@
 {"id":"11158909679","timestamp":"2025-07-17T17:15:46.932491281Z","domain":"test.buyandsell.gc.ca","issuer":"SSL.com","from":"2025-07-17T17:03:05Z","to":"2026-08-17T04:00:00Z"}
 {"id":"11158909679","timestamp":"2025-07-17T17:15:46.932491372Z","domain":"test.ocama.achatscanada.canada.ca","issuer":"SSL.com","from":"2025-07-17T17:03:05Z","to":"2026-08-17T04:00:00Z"}
 {"id":"11158909679","timestamp":"2025-07-17T17:15:46.932491462Z","domain":"test.sosa.canadabuys.canada.ca","issuer":"SSL.com","from":"2025-07-17T17:03:05Z","to":"2026-08-17T04:00:00Z"}
+{"id":"11158952388","timestamp":"2025-07-17T18:16:45.895511316Z","domain":"achatsetventes-buyandsell.gc.ca","issuer":"SSL.com","from":"2025-07-17T17:07:46Z","to":"2026-08-17T04:00:00Z"}
+{"id":"11158952388","timestamp":"2025-07-17T18:16:45.895511657Z","domain":"achatsetventes.gc.ca","issuer":"SSL.com","from":"2025-07-17T17:07:46Z","to":"2026-08-17T04:00:00Z"}
+{"id":"11158952388","timestamp":"2025-07-17T18:16:45.895511847Z","domain":"buyandsell.gc.ca","issuer":"SSL.com","from":"2025-07-17T17:07:46Z","to":"2026-08-17T04:00:00Z"}
+{"id":"11158952388","timestamp":"2025-07-17T18:16:45.895512078Z","domain":"ocama.achatscanada.canada.ca","issuer":"SSL.com","from":"2025-07-17T17:07:46Z","to":"2026-08-17T04:00:00Z"}
+{"id":"11158952388","timestamp":"2025-07-17T18:16:45.895512168Z","domain":"sosa.canadabuys.canada.ca","issuer":"SSL.com","from":"2025-07-17T17:07:46Z","to":"2026-08-17T04:00:00Z"}
+{"id":"11158952388","timestamp":"2025-07-17T18:16:45.895513079Z","domain":"www.achatsetventes-buyandsell.gc.ca","issuer":"SSL.com","from":"2025-07-17T17:07:46Z","to":"2026-08-17T04:00:00Z"}
+{"id":"11158952388","timestamp":"2025-07-17T18:16:45.89551317Z","domain":"www.achatsetventes.gc.ca","issuer":"SSL.com","from":"2025-07-17T17:07:46Z","to":"2026-08-17T04:00:00Z"}
+{"id":"11158952388","timestamp":"2025-07-17T18:16:45.89551325Z","domain":"www.buyandsell.gc.ca","issuer":"SSL.com","from":"2025-07-17T17:07:46Z","to":"2026-08-17T04:00:00Z"}
+{"id":"11159015791","timestamp":"2025-07-17T18:16:45.89551335Z","domain":"*.k8s.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-17T16:24:57Z","to":"2025-10-15T16:24:56Z"}
+{"id":"11159140511","timestamp":"2025-07-17T18:16:45.895514152Z","domain":"*.dev.k8s.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-17T16:37:27Z","to":"2025-10-15T16:37:26Z"}
+{"id":"11159140511","timestamp":"2025-07-17T18:16:45.895514232Z","domain":"*.k8s.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-17T16:37:27Z","to":"2025-10-15T16:37:26Z"}
