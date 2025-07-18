@@ -10527,3 +10527,16 @@
 {"id":"11170429141","timestamp":"2025-07-18T16:16:44.564277846Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-18T15:03:01Z","to":"2025-10-16T15:03:00Z"}
 {"id":"11170430871","timestamp":"2025-07-18T16:16:44.564278117Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-18T15:02:44Z","to":"2025-10-16T15:02:43Z"}
 {"id":"11170432023","timestamp":"2025-07-18T16:16:44.564278487Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-18T15:03:19Z","to":"2025-10-16T15:03:18Z"}
+{"id":"11171166098","timestamp":"2025-07-18T18:16:44.936750142Z","domain":"queuemetrics.itsdev.aws-lza.hc-sc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-18T00:00:00Z","to":"2026-08-16T23:59:59Z"}
+{"id":"11171209222","timestamp":"2025-07-18T18:16:44.936750673Z","domain":"buildingcanada-chantierscanada.gc.ca","issuer":"SSL.com","from":"2025-07-18T17:15:52Z","to":"2026-07-12T04:00:00Z"}
+{"id":"11171209222","timestamp":"2025-07-18T18:16:44.936750974Z","domain":"buildingcanada.gc.ca","issuer":"SSL.com","from":"2025-07-18T17:15:52Z","to":"2026-07-12T04:00:00Z"}
+{"id":"11171209222","timestamp":"2025-07-18T18:16:44.936751244Z","domain":"chantierscanada-buildingcanada.gc.ca","issuer":"SSL.com","from":"2025-07-18T17:15:52Z","to":"2026-07-12T04:00:00Z"}
+{"id":"11171209222","timestamp":"2025-07-18T18:16:44.936751345Z","domain":"chantierscanada.gc.ca","issuer":"SSL.com","from":"2025-07-18T17:15:52Z","to":"2026-07-12T04:00:00Z"}
+{"id":"11171209222","timestamp":"2025-07-18T18:16:44.936752557Z","domain":"housing-infrastructure.canada.ca","issuer":"SSL.com","from":"2025-07-18T17:15:52Z","to":"2026-07-12T04:00:00Z"}
+{"id":"11171209222","timestamp":"2025-07-18T18:16:44.936752647Z","domain":"infc.gc.ca","issuer":"SSL.com","from":"2025-07-18T17:15:52Z","to":"2026-07-12T04:00:00Z"}
+{"id":"11171209222","timestamp":"2025-07-18T18:16:44.936752747Z","domain":"infrastructure.canada.ca","issuer":"SSL.com","from":"2025-07-18T17:15:52Z","to":"2026-07-12T04:00:00Z"}
+{"id":"11171209222","timestamp":"2025-07-18T18:16:44.936752837Z","domain":"infrastructurecanada.gc.ca","issuer":"SSL.com","from":"2025-07-18T17:15:52Z","to":"2026-07-12T04:00:00Z"}
+{"id":"11171209222","timestamp":"2025-07-18T18:16:44.93675435Z","domain":"infrastructure.gc.ca","issuer":"SSL.com","from":"2025-07-18T17:15:52Z","to":"2026-07-12T04:00:00Z"}
+{"id":"11171209222","timestamp":"2025-07-18T18:16:44.93675444Z","domain":"logement-infrastructure.canada.ca","issuer":"SSL.com","from":"2025-07-18T17:15:52Z","to":"2026-07-12T04:00:00Z"}
+{"id":"11171209222","timestamp":"2025-07-18T18:16:44.936754531Z","domain":"secure.infc.gc.ca","issuer":"SSL.com","from":"2025-07-18T17:15:52Z","to":"2026-07-12T04:00:00Z"}
+{"id":"11171209222","timestamp":"2025-07-18T18:16:44.936754621Z","domain":"www.secure.infc.gc.ca","issuer":"SSL.com","from":"2025-07-18T17:15:52Z","to":"2026-07-12T04:00:00Z"}
