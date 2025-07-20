@@ -10561,3 +10561,5 @@
 {"id":"11192807948","timestamp":"2025-07-20T16:16:13.122062427Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-20T15:03:13Z","to":"2025-10-18T15:03:12Z"}
 {"id":"11192811235","timestamp":"2025-07-20T16:16:13.122063409Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-20T15:03:32Z","to":"2025-10-18T15:03:31Z"}
 {"id":"11192830281","timestamp":"2025-07-20T16:16:13.122063529Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-20T15:03:48Z","to":"2025-10-18T15:03:47Z"}
+{"id":"11193912497","timestamp":"2025-07-20T19:15:08.576057287Z","domain":"resource-catalogue.ws-jlajoie.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-20T17:25:24Z","to":"2025-10-18T17:25:23Z"}
+{"id":"11193915418","timestamp":"2025-07-20T19:15:08.576057718Z","domain":"mlflow.ws-jlajoie.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-20T17:25:24Z","to":"2025-10-18T17:25:23Z"}
