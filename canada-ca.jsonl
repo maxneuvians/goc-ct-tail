@@ -10620,3 +10620,8 @@
 {"id":"11214101998","timestamp":"2025-07-22T15:16:13.48020497Z","domain":"mx10.canada.ca","issuer":"SSL.com","from":"2025-07-22T14:49:30Z","to":"2025-09-06T17:46:27Z"}
 {"id":"11214101998","timestamp":"2025-07-22T15:16:13.48020506Z","domain":"mx51.canada.ca","issuer":"SSL.com","from":"2025-07-22T14:49:30Z","to":"2025-09-06T17:46:27Z"}
 {"id":"11214111016","timestamp":"2025-07-22T15:16:13.48020517Z","domain":"dev-admin.pch-financement.canada.ca","issuer":"DigiCert","from":"2025-07-22T00:00:00Z","to":"2026-01-22T23:59:59Z"}
+{"id":"11214620226","timestamp":"2025-07-22T16:16:35.236149236Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-22T15:02:37Z","to":"2025-10-20T15:02:36Z"}
+{"id":"11214621394","timestamp":"2025-07-22T16:16:35.236149587Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-22T15:02:56Z","to":"2025-10-20T15:02:55Z"}
+{"id":"11214624701","timestamp":"2025-07-22T16:16:35.236149797Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-22T15:03:15Z","to":"2025-10-20T15:03:14Z"}
+{"id":"11214631093","timestamp":"2025-07-22T16:16:35.236150048Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-22T15:03:32Z","to":"2025-10-20T15:03:31Z"}
+{"id":"11214633627","timestamp":"2025-07-22T16:16:35.236150148Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-22T15:03:49Z","to":"2025-10-20T15:03:48Z"}
