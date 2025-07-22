@@ -553,3 +553,7 @@
 {"id":"11114535402","timestamp":"2025-07-14T14:39:12.547155781Z","domain":"v3-pbi-itexp-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-07-14T00:00:00Z","to":"2026-01-14T23:59:59Z"}
 {"id":"11198522125","timestamp":"2025-07-21T04:46:12.799025613Z","domain":"atip-aoas-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-07-21T00:00:00Z","to":"2026-01-21T23:59:59Z"}
 {"id":"11213213741","timestamp":"2025-07-22T13:44:27.024182836Z","domain":"tal-prddb01.t1.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-07-22T13:12:33Z","to":"2026-08-22T04:00:00Z"}
+{"id":"11213386003","timestamp":"2025-07-22T14:38:58.034064521Z","domain":"v3-pbi-pses-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-07-22T00:00:00Z","to":"2026-01-22T23:59:59Z"}
+{"id":"11213400128","timestamp":"2025-07-22T14:38:58.034064851Z","domain":"tal-devdb01.dev.t1.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-07-22T13:34:36Z","to":"2026-08-22T04:00:00Z"}
+{"id":"11213628122","timestamp":"2025-07-22T14:38:58.034065062Z","domain":"tal-prddb01.t1.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-07-22T13:59:55Z","to":"2026-08-07T12:00:31Z"}
+{"id":"11213628122","timestamp":"2025-07-22T14:38:58.034065252Z","domain":"tal-uatdb01.t1.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-07-22T13:59:55Z","to":"2026-08-07T12:00:31Z"}
