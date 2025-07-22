@@ -10611,3 +10611,12 @@
 {"id":"11213170314","timestamp":"2025-07-22T14:16:23.506604387Z","domain":"weblex.canada.ca","issuer":"SSL.com","from":"2025-07-22T13:08:33Z","to":"2026-08-22T04:00:00Z"}
 {"id":"11213170314","timestamp":"2025-07-22T14:16:23.506604718Z","domain":"www.weblex.canada.ca","issuer":"SSL.com","from":"2025-07-22T13:08:33Z","to":"2026-08-22T04:00:00Z"}
 {"id":"11213254591","timestamp":"2025-07-22T14:16:23.506604938Z","domain":"uat-estma-lmtse.canada.ca","issuer":"SSL.com","from":"2025-07-22T13:16:51Z","to":"2026-08-22T04:00:00Z"}
+{"id":"11213876024","timestamp":"2025-07-22T15:16:13.480201894Z","domain":"canchat-pco.uat.ibm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-22T13:36:27Z","to":"2025-10-20T13:36:26Z"}
+{"id":"11213895406","timestamp":"2025-07-22T15:16:13.480202475Z","domain":"vault.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-22T13:38:31Z","to":"2025-10-20T13:38:30Z"}
+{"id":"11214067594","timestamp":"2025-07-22T15:16:13.480202796Z","domain":"dev.pch-funding.canada.ca","issuer":"DigiCert","from":"2025-07-22T00:00:00Z","to":"2026-01-22T23:59:59Z"}
+{"id":"11214090585","timestamp":"2025-07-22T15:16:13.480203577Z","domain":"dev-admin.pch-funding.canada.ca","issuer":"DigiCert","from":"2025-07-22T00:00:00Z","to":"2026-01-22T23:59:59Z"}
+{"id":"11214090611","timestamp":"2025-07-22T15:16:13.480203687Z","domain":"dev.pch-financement.canada.ca","issuer":"DigiCert","from":"2025-07-22T00:00:00Z","to":"2026-01-22T23:59:59Z"}
+{"id":"11214101998","timestamp":"2025-07-22T15:16:13.48020487Z","domain":"msa.emrs.services.global.gc.ca","issuer":"SSL.com","from":"2025-07-22T14:49:30Z","to":"2025-09-06T17:46:27Z"}
+{"id":"11214101998","timestamp":"2025-07-22T15:16:13.48020497Z","domain":"mx10.canada.ca","issuer":"SSL.com","from":"2025-07-22T14:49:30Z","to":"2025-09-06T17:46:27Z"}
+{"id":"11214101998","timestamp":"2025-07-22T15:16:13.48020506Z","domain":"mx51.canada.ca","issuer":"SSL.com","from":"2025-07-22T14:49:30Z","to":"2025-09-06T17:46:27Z"}
+{"id":"11214111016","timestamp":"2025-07-22T15:16:13.48020517Z","domain":"dev-admin.pch-financement.canada.ca","issuer":"DigiCert","from":"2025-07-22T00:00:00Z","to":"2026-01-22T23:59:59Z"}
