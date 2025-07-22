@@ -1322,3 +1322,6 @@
 {"id":"11185283910","timestamp":"2025-07-20T00:44:03.505206352Z","domain":"*.dnastack-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-07-20T00:00:00Z","to":"2026-08-18T23:59:59Z"}
 {"id":"11185283910","timestamp":"2025-07-20T00:44:03.505206733Z","domain":"dnastack-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-07-20T00:00:00Z","to":"2026-08-18T23:59:59Z"}
 {"id":"11188317453","timestamp":"2025-07-20T07:15:34.23192363Z","domain":"portal-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2025-07-20T05:14:09Z","to":"2025-10-18T06:07:42Z"}
+{"id":"11216842657","timestamp":"2025-07-22T21:15:46.700976562Z","domain":"defenceo365.forces.gc.ca","issuer":"DigiCert","from":"2025-07-22T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"11216856952","timestamp":"2025-07-22T21:15:46.700976903Z","domain":"365.forces.gc.ca","issuer":"DigiCert","from":"2025-07-22T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"11216930467","timestamp":"2025-07-22T21:15:46.700977154Z","domain":"defenseo365.forces.gc.ca","issuer":"DigiCert","from":"2025-07-22T00:00:00Z","to":"2026-04-14T23:59:59Z"}
