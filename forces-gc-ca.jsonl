@@ -1330,3 +1330,9 @@
 {"id":"11220763522","timestamp":"2025-07-23T04:25:35.45730835Z","domain":"pvc-dev.cloud.forces.gc.ca","issuer":"DigiCert","from":"2025-07-23T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"11222165545","timestamp":"2025-07-23T07:16:47.045872396Z","domain":"pvc-qa.cloud.forces.gc.ca","issuer":"DigiCert","from":"2025-07-23T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"11223451345","timestamp":"2025-07-23T09:16:59.358453201Z","domain":"pvc.cloud.forces.gc.ca","issuer":"DigiCert","from":"2025-07-23T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"11227936018","timestamp":"2025-07-23T18:16:46.033674241Z","domain":"abis.cfintcom.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-07-23T17:47:10Z","to":"2026-08-23T04:00:00Z"}
+{"id":"11227936018","timestamp":"2025-07-23T18:16:46.033674751Z","domain":"cfintcom.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-07-23T17:47:10Z","to":"2026-08-23T04:00:00Z"}
+{"id":"11227936018","timestamp":"2025-07-23T18:16:46.033675263Z","domain":"gw.cfintcom.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-07-23T17:47:10Z","to":"2026-08-23T04:00:00Z"}
+{"id":"11227936018","timestamp":"2025-07-23T18:16:46.033675503Z","domain":"gwsync.cfintcom.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-07-23T17:47:10Z","to":"2026-08-23T04:00:00Z"}
+{"id":"11227936018","timestamp":"2025-07-23T18:16:46.033675603Z","domain":"tm.cfintcom.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-07-23T17:47:10Z","to":"2026-08-23T04:00:00Z"}
+{"id":"11227936018","timestamp":"2025-07-23T18:16:46.033676555Z","domain":"ue.cfintcom.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-07-23T17:47:10Z","to":"2026-08-23T04:00:00Z"}
