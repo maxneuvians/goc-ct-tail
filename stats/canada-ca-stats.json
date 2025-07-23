@@ -2622,7 +2622,13 @@
       "Amazon Trust Services": 1
     },
     "2025-07-22": {
-      "Let's Encrypt": 2
+      "Let's Encrypt": 21,
+      "Amazon Trust Services": 1,
+      "SSL.com": 6,
+      "DigiCert": 4
+    },
+    "2025-07-23": {
+      "DigiCert": 3
     }
   },
   "errors": []
