@@ -10640,3 +10640,7 @@
 {"id":"11224118581","timestamp":"2025-07-23T11:15:40.335650975Z","domain":"recalls.canada.ca","issuer":"DigiCert","from":"2025-07-23T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"11225219891","timestamp":"2025-07-23T13:24:30.359183598Z","domain":"accessconsortium.hc-sc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-07-23T12:10:48Z","to":"2026-08-23T04:00:00Z"}
 {"id":"11225771793","timestamp":"2025-07-23T14:16:11.456332615Z","domain":"*.public.aws-lza.hc-sc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-07-23T13:15:48Z","to":"2026-08-23T04:00:00Z"}
+{"id":"11226191065","timestamp":"2025-07-23T15:16:09.236814684Z","domain":"*.alpha.service.canada.ca","issuer":"SSL.com","from":"2025-07-23T14:09:05Z","to":"2026-01-13T05:00:00Z"}
+{"id":"11226191065","timestamp":"2025-07-23T15:16:09.236815225Z","domain":"alpha.service.canada.ca","issuer":"SSL.com","from":"2025-07-23T14:09:05Z","to":"2026-01-13T05:00:00Z"}
+{"id":"11226374969","timestamp":"2025-07-23T15:16:09.236815475Z","domain":"eipr-rtcae.service.canada.ca","issuer":"SSL.com","from":"2025-07-23T14:29:07Z","to":"2026-08-23T04:00:00Z"}
+{"id":"11226374969","timestamp":"2025-07-23T15:16:09.236815695Z","domain":"www.eipr-rtcae.service.canada.ca","issuer":"SSL.com","from":"2025-07-23T14:29:07Z","to":"2026-08-23T04:00:00Z"}
