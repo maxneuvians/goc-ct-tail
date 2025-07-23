@@ -1708,3 +1708,9 @@
 {"id":"11202407976","timestamp":"2025-07-21T13:44:43.954145675Z","domain":"*.document.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-07-21T00:00:00Z","to":"2026-08-19T23:59:59Z"}
 {"id":"11203012428","timestamp":"2025-07-21T14:40:12.842441183Z","domain":"*.status.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-07-21T00:00:00Z","to":"2026-08-19T23:59:59Z"}
 {"id":"11203012428","timestamp":"2025-07-21T14:40:12.842441604Z","domain":"status.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-07-21T00:00:00Z","to":"2026-08-19T23:59:59Z"}
+{"id":"11227255329","timestamp":"2025-07-23T16:41:44.685164063Z","domain":"api.dev1346.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-07-23T15:29:47Z","to":"2025-10-21T15:29:46Z"}
+{"id":"11227257655","timestamp":"2025-07-23T16:41:44.685164363Z","domain":"didwebserver.dev1346.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-07-23T15:29:56Z","to":"2025-10-21T15:29:55Z"}
+{"id":"11227257780","timestamp":"2025-07-23T16:41:44.685164534Z","domain":"portal.dev1346.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-07-23T15:29:47Z","to":"2025-10-21T15:29:46Z"}
+{"id":"11227258546","timestamp":"2025-07-23T16:41:44.685164704Z","domain":"aqvc.dev1346.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-07-23T15:28:52Z","to":"2025-10-21T15:28:51Z"}
+{"id":"11227259318","timestamp":"2025-07-23T16:41:44.685164784Z","domain":"*.dids.dev1346.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-07-23T15:29:57Z","to":"2025-10-21T15:29:56Z"}
+{"id":"11227264355","timestamp":"2025-07-23T16:41:44.685165566Z","domain":"realtime.dev1346.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-07-23T15:29:46Z","to":"2025-10-21T15:29:45Z"}
