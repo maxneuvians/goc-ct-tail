@@ -1329,3 +1329,4 @@
 {"id":"11220304203","timestamp":"2025-07-23T03:42:51.019515242Z","domain":"jdcp-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-07-23T00:00:00Z","to":"2026-08-21T23:59:59Z"}
 {"id":"11220763522","timestamp":"2025-07-23T04:25:35.45730835Z","domain":"pvc-dev.cloud.forces.gc.ca","issuer":"DigiCert","from":"2025-07-23T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"11222165545","timestamp":"2025-07-23T07:16:47.045872396Z","domain":"pvc-qa.cloud.forces.gc.ca","issuer":"DigiCert","from":"2025-07-23T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"11223451345","timestamp":"2025-07-23T09:16:59.358453201Z","domain":"pvc.cloud.forces.gc.ca","issuer":"DigiCert","from":"2025-07-23T00:00:00Z","to":"2026-04-14T23:59:59Z"}
