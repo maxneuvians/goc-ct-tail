@@ -2628,7 +2628,10 @@
       "DigiCert": 4
     },
     "2025-07-23": {
-      "DigiCert": 3
+      "DigiCert": 5,
+      "Google Trust Services": 2,
+      "SSL.com": 6,
+      "Let's Encrypt": 77
     }
   },
   "errors": []
