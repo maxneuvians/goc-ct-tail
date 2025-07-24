@@ -10725,3 +10725,6 @@
 {"id":"11234775795","timestamp":"2025-07-24T08:16:53.648122772Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-24T06:24:45Z","to":"2025-10-22T06:24:44Z"}
 {"id":"11236161690","timestamp":"2025-07-24T10:16:10.219350867Z","domain":"mlflow.ws-bigweather.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-24T09:00:54Z","to":"2025-10-22T09:00:53Z"}
 {"id":"11237746900","timestamp":"2025-07-24T13:24:11.078352902Z","domain":"www.eipr-rtcae.service.canada.ca","issuer":"DigiCert","from":"2025-07-24T00:00:00Z","to":"2026-01-24T23:59:59Z"}
+{"id":"11239235825","timestamp":"2025-07-24T16:16:20.279094746Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-24T15:02:39Z","to":"2025-10-22T15:02:38Z"}
+{"id":"11239239348","timestamp":"2025-07-24T16:16:20.279095307Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-24T15:02:20Z","to":"2025-10-22T15:02:19Z"}
+{"id":"11239243354","timestamp":"2025-07-24T16:16:20.279095597Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-24T15:03:03Z","to":"2025-10-22T15:03:02Z"}
