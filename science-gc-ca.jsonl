@@ -58,3 +58,8 @@
 {"id":"11056575932","timestamp":"2025-07-09T19:33:50.461590876Z","domain":"*.hpci-svc.science.gc.ca","issuer":"SSL.com","from":"2025-07-09T18:40:44Z","to":"2026-07-27T11:53:19Z"}
 {"id":"11056575932","timestamp":"2025-07-09T19:33:50.461591227Z","domain":"hpci-svc.science.gc.ca","issuer":"SSL.com","from":"2025-07-09T18:40:44Z","to":"2026-07-27T11:53:19Z"}
 {"id":"11056575932","timestamp":"2025-07-09T19:33:50.461591437Z","domain":"registry.maze.science.gc.ca","issuer":"SSL.com","from":"2025-07-09T18:40:44Z","to":"2026-07-27T11:53:19Z"}
+{"id":"11250457652","timestamp":"2025-07-25T12:46:23.453139212Z","domain":"hpc-db.science.gc.ca","issuer":"SSL.com","from":"2025-07-25T12:14:25Z","to":"2026-08-25T04:00:00Z"}
+{"id":"11250457652","timestamp":"2025-07-25T12:46:23.453139663Z","domain":"hpco-ops1-gccloud.science.gc.ca","issuer":"SSL.com","from":"2025-07-25T12:14:25Z","to":"2026-08-25T04:00:00Z"}
+{"id":"11250457652","timestamp":"2025-07-25T12:46:23.453140314Z","domain":"hpco-ops1.science.gc.ca","issuer":"SSL.com","from":"2025-07-25T12:14:25Z","to":"2026-08-25T04:00:00Z"}
+{"id":"11250457652","timestamp":"2025-07-25T12:46:23.453140614Z","domain":"hpco-ops2-gccloud.science.gc.ca","issuer":"SSL.com","from":"2025-07-25T12:14:25Z","to":"2026-08-25T04:00:00Z"}
+{"id":"11250457652","timestamp":"2025-07-25T12:46:23.453140725Z","domain":"hpco-ops2.science.gc.ca","issuer":"SSL.com","from":"2025-07-25T12:14:25Z","to":"2026-08-25T04:00:00Z"}
