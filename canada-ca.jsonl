@@ -10834,3 +10834,7 @@
 {"id":"11264962746","timestamp":"2025-07-26T16:16:10.581100304Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-26T15:02:40Z","to":"2025-10-24T15:02:39Z"}
 {"id":"11264964755","timestamp":"2025-07-26T16:16:10.581100835Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-26T15:03:15Z","to":"2025-10-24T15:03:14Z"}
 {"id":"11264965716","timestamp":"2025-07-26T16:16:10.581100925Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-26T15:03:35Z","to":"2025-10-24T15:03:34Z"}
+{"id":"11267368825","timestamp":"2025-07-26T21:15:32.74368777Z","domain":"performance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-26T19:37:13Z","to":"2025-10-24T19:37:12Z"}
+{"id":"11267429511","timestamp":"2025-07-26T21:15:32.743688111Z","domain":"whoami.hcgenomics.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-26T19:45:34Z","to":"2025-10-24T19:45:33Z"}
+{"id":"11267435529","timestamp":"2025-07-26T21:15:32.743688281Z","domain":"portainer.hcgenomics.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-26T19:45:40Z","to":"2025-10-24T19:45:39Z"}
+{"id":"11267550311","timestamp":"2025-07-26T21:15:32.743688421Z","domain":"resource-catalogue.ws-lakewatch.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-26T20:01:09Z","to":"2025-10-24T20:01:08Z"}
