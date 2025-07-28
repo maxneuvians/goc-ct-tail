@@ -10842,3 +10842,5 @@
 {"id":"11277137249","timestamp":"2025-07-27T16:16:15.440532415Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-27T15:02:32Z","to":"2025-10-25T15:02:31Z"}
 {"id":"11277144903","timestamp":"2025-07-27T16:16:15.440532946Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-27T15:03:15Z","to":"2025-10-25T15:03:14Z"}
 {"id":"11277155338","timestamp":"2025-07-27T16:16:15.440533687Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-27T15:02:54Z","to":"2025-10-25T15:02:53Z"}
+{"id":"11283640248","timestamp":"2025-07-28T05:18:35.041739213Z","domain":"*.test.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-28T00:00:00Z","to":"2026-08-26T23:59:59Z"}
+{"id":"11283640248","timestamp":"2025-07-28T05:18:35.041739724Z","domain":"test.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-28T00:00:00Z","to":"2026-08-26T23:59:59Z"}
