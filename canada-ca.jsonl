@@ -10852,3 +10852,6 @@
 {"id":"11289893113","timestamp":"2025-07-28T16:16:40.763244457Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-28T15:02:38Z","to":"2025-10-26T15:02:37Z"}
 {"id":"11289894463","timestamp":"2025-07-28T16:16:40.763244798Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-28T15:03:06Z","to":"2025-10-26T15:03:05Z"}
 {"id":"11290595060","timestamp":"2025-07-28T18:16:51.176555472Z","domain":"*.meta.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-07-28T00:00:00Z","to":"2025-10-26T23:59:59Z"}
+{"id":"11291620115","timestamp":"2025-07-28T20:16:23.350606327Z","domain":"services.gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-28T18:23:06Z","to":"2025-10-26T18:23:05Z"}
+{"id":"11291772233","timestamp":"2025-07-28T20:16:23.350606697Z","domain":"openwebui.sandbox.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-07-28T00:00:00Z","to":"2026-01-28T23:59:59Z"}
+{"id":"11291929192","timestamp":"2025-07-28T20:16:23.350606897Z","domain":"dev-admin.pch-funding.canada.ca","issuer":"DigiCert","from":"2025-07-28T00:00:00Z","to":"2026-01-28T23:59:59Z"}
