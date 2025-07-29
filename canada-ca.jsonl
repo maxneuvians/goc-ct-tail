@@ -10864,3 +10864,8 @@
 {"id":"11297567528","timestamp":"2025-07-29T08:16:51.619211255Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-29T06:24:54Z","to":"2025-10-27T06:24:53Z"}
 {"id":"11297572824","timestamp":"2025-07-29T08:16:51.619211526Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-29T06:25:33Z","to":"2025-10-27T06:25:32Z"}
 {"id":"11297572824","timestamp":"2025-07-29T08:16:51.619211766Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-07-29T06:25:33Z","to":"2025-10-27T06:25:32Z"}
+{"id":"11300274897","timestamp":"2025-07-29T13:25:38.178227436Z","domain":"dev.pch-funding.canada.ca","issuer":"DigiCert","from":"2025-07-29T00:00:00Z","to":"2026-01-29T23:59:59Z"}
+{"id":"11300465384","timestamp":"2025-07-29T13:25:38.178228197Z","domain":"dev.pch-funding.canada.ca","issuer":"DigiCert","from":"2025-07-29T00:00:00Z","to":"2026-01-29T23:59:59Z"}
+{"id":"11300465887","timestamp":"2025-07-29T13:25:38.178229019Z","domain":"dev.pch-financement.canada.ca","issuer":"DigiCert","from":"2025-07-29T00:00:00Z","to":"2026-01-29T23:59:59Z"}
+{"id":"11300465974","timestamp":"2025-07-29T13:25:38.178229279Z","domain":"dev-admin.pch-funding.canada.ca","issuer":"DigiCert","from":"2025-07-29T00:00:00Z","to":"2026-01-29T23:59:59Z"}
+{"id":"11300466031","timestamp":"2025-07-29T13:25:38.178229389Z","domain":"dev-admin.pch-financement.canada.ca","issuer":"DigiCert","from":"2025-07-29T00:00:00Z","to":"2026-01-29T23:59:59Z"}
