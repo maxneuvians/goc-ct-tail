@@ -592,3 +592,5 @@
 {"id":"11290505691","timestamp":"2025-07-28T17:38:29.359691541Z","domain":"sub.notif.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-07-28T16:11:13Z","to":"2025-10-26T16:11:12Z"}
 {"id":"11299978826","timestamp":"2025-07-29T12:46:43.644997813Z","domain":"*.services.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-07-29T11:00:43Z","to":"2025-10-27T11:00:42Z"}
 {"id":"11299978826","timestamp":"2025-07-29T12:46:43.644998154Z","domain":"services.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-07-29T11:00:43Z","to":"2025-10-27T11:00:42Z"}
+{"id":"11300828285","timestamp":"2025-07-29T13:45:43.813550855Z","domain":"mail.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-07-29T12:31:34Z","to":"2025-10-27T12:31:33Z"}
+{"id":"11300828285","timestamp":"2025-07-29T13:45:43.813551436Z","domain":"mail.sensor.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-07-29T12:31:34Z","to":"2025-10-27T12:31:33Z"}
