@@ -10856,3 +10856,5 @@
 {"id":"11291772233","timestamp":"2025-07-28T20:16:23.350606697Z","domain":"openwebui.sandbox.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-07-28T00:00:00Z","to":"2026-01-28T23:59:59Z"}
 {"id":"11291929192","timestamp":"2025-07-28T20:16:23.350606897Z","domain":"dev-admin.pch-funding.canada.ca","issuer":"DigiCert","from":"2025-07-28T00:00:00Z","to":"2026-01-28T23:59:59Z"}
 {"id":"11292788481","timestamp":"2025-07-28T22:15:59.344748799Z","domain":"cloudops-dev-cfront.priv.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-28T00:00:00Z","to":"2026-08-26T23:59:59Z"}
+{"id":"11293914100","timestamp":"2025-07-29T00:44:06.287157931Z","domain":"*.dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-29T00:00:00Z","to":"2026-08-27T23:59:59Z"}
+{"id":"11293914100","timestamp":"2025-07-29T00:44:06.287158391Z","domain":"dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2025-07-29T00:00:00Z","to":"2026-08-27T23:59:59Z"}
