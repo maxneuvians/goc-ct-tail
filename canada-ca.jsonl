@@ -10894,3 +10894,6 @@
 {"id":"11312732565","timestamp":"2025-07-30T13:25:21.988487851Z","domain":"auth-prod.climate-change.canada.ca","issuer":"DigiCert","from":"2025-07-30T00:00:00Z","to":"2026-01-30T23:59:59Z"}
 {"id":"11313494278","timestamp":"2025-07-30T14:16:04.035848232Z","domain":"*.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-07-30T00:00:00Z","to":"2025-10-28T23:59:59Z"}
 {"id":"11313509533","timestamp":"2025-07-30T14:16:04.035848753Z","domain":"*.nxrm.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-07-30T00:00:00Z","to":"2025-10-28T23:59:59Z"}
+{"id":"11314016100","timestamp":"2025-07-30T15:16:09.402182899Z","domain":"ws-sw-cdn.cic.gc.ca","issuer":"SSL.com","from":"2025-07-30T14:36:18Z","to":"2026-08-30T04:00:00Z"}
+{"id":"11314016100","timestamp":"2025-07-30T15:16:09.40218328Z","domain":"ws-sw.ircc.canada.ca","issuer":"SSL.com","from":"2025-07-30T14:36:18Z","to":"2026-08-30T04:00:00Z"}
+{"id":"11314016100","timestamp":"2025-07-30T15:16:09.4021835Z","domain":"ws-sw-proxy.cic.gc.ca","issuer":"SSL.com","from":"2025-07-30T14:36:18Z","to":"2026-08-30T04:00:00Z"}
