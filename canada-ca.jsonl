@@ -10884,3 +10884,5 @@
 {"id":"11303567692","timestamp":"2025-07-29T19:16:14.383475989Z","domain":"*.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-07-29T00:00:00Z","to":"2025-10-27T23:59:59Z"}
 {"id":"11303580476","timestamp":"2025-07-29T19:16:14.383476319Z","domain":"*.nxrm.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-07-29T00:00:00Z","to":"2025-10-27T23:59:59Z"}
 {"id":"11304042821","timestamp":"2025-07-29T20:16:19.519620248Z","domain":"api.vmo.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-07-29T00:00:00Z","to":"2026-01-29T23:59:59Z"}
+{"id":"11306190388","timestamp":"2025-07-30T00:40:20.257875682Z","domain":"suivi.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-29T23:21:39Z","to":"2025-10-27T23:21:38Z"}
+{"id":"11306190388","timestamp":"2025-07-30T00:40:20.257876063Z","domain":"tracker.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-07-29T23:21:39Z","to":"2025-10-27T23:21:38Z"}
