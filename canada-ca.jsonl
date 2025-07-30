@@ -10892,3 +10892,5 @@
 {"id":"11310358684","timestamp":"2025-07-30T08:16:52.542915944Z","domain":"gac-amc-sso-au.canada.ca","issuer":"DigiCert","from":"2025-07-30T00:00:00Z","to":"2026-01-30T23:59:59Z"}
 {"id":"11311409035","timestamp":"2025-07-30T10:16:19.892001765Z","domain":"auth.acc.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-07-30T00:00:00Z","to":"2026-01-30T23:59:59Z"}
 {"id":"11312732565","timestamp":"2025-07-30T13:25:21.988487851Z","domain":"auth-prod.climate-change.canada.ca","issuer":"DigiCert","from":"2025-07-30T00:00:00Z","to":"2026-01-30T23:59:59Z"}
+{"id":"11313494278","timestamp":"2025-07-30T14:16:04.035848232Z","domain":"*.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-07-30T00:00:00Z","to":"2025-10-28T23:59:59Z"}
+{"id":"11313509533","timestamp":"2025-07-30T14:16:04.035848753Z","domain":"*.nxrm.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-07-30T00:00:00Z","to":"2025-10-28T23:59:59Z"}
