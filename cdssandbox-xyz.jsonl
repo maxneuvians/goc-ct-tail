@@ -1791,3 +1791,6 @@
 {"id":"11314349945","timestamp":"2025-07-30T15:38:52.35757261Z","domain":"realtime.dev1000.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-07-30T14:24:30Z","to":"2025-10-28T14:24:29Z"}
 {"id":"11314350492","timestamp":"2025-07-30T15:38:52.35757273Z","domain":"api.dev1000.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-07-30T14:24:33Z","to":"2025-10-28T14:24:32Z"}
 {"id":"11314352581","timestamp":"2025-07-30T15:38:52.357574062Z","domain":"portal.dev1000.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-07-30T14:24:30Z","to":"2025-10-28T14:24:29Z"}
+{"id":"11326372633","timestamp":"2025-07-31T15:38:40.2211965Z","domain":"*.ai-answers.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-07-31T00:00:00Z","to":"2026-08-29T23:59:59Z"}
+{"id":"11326372633","timestamp":"2025-07-31T15:38:40.221196991Z","domain":"ai-answers.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-07-31T00:00:00Z","to":"2026-08-29T23:59:59Z"}
+{"id":"11326574786","timestamp":"2025-07-31T15:38:40.221197271Z","domain":"ai-answers.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-07-31T00:00:00Z","to":"2026-08-29T23:59:59Z"}
