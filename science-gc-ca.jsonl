@@ -63,3 +63,9 @@
 {"id":"11250457652","timestamp":"2025-07-25T12:46:23.453140314Z","domain":"hpco-ops1.science.gc.ca","issuer":"SSL.com","from":"2025-07-25T12:14:25Z","to":"2026-08-25T04:00:00Z"}
 {"id":"11250457652","timestamp":"2025-07-25T12:46:23.453140614Z","domain":"hpco-ops2-gccloud.science.gc.ca","issuer":"SSL.com","from":"2025-07-25T12:14:25Z","to":"2026-08-25T04:00:00Z"}
 {"id":"11250457652","timestamp":"2025-07-25T12:46:23.453140725Z","domain":"hpco-ops2.science.gc.ca","issuer":"SSL.com","from":"2025-07-25T12:14:25Z","to":"2026-08-25T04:00:00Z"}
+{"id":"11324754881","timestamp":"2025-07-31T12:46:32.976130958Z","domain":"*.science.gc.ca","issuer":"SSL.com","from":"2025-07-31T11:43:08Z","to":"2026-08-25T11:15:13Z"}
+{"id":"11324754881","timestamp":"2025-07-31T12:46:32.976131439Z","domain":"science.gc.ca","issuer":"SSL.com","from":"2025-07-31T11:43:08Z","to":"2026-08-25T11:15:13Z"}
+{"id":"11325063281","timestamp":"2025-07-31T12:46:32.97613179Z","domain":"*.hpci-nas4-col.collab.science.gc.ca","issuer":"SSL.com","from":"2025-07-31T12:16:45Z","to":"2026-08-31T04:00:00Z"}
+{"id":"11325063281","timestamp":"2025-07-31T12:46:32.97613207Z","domain":"hpci-nas4-col.collab.science.gc.ca","issuer":"SSL.com","from":"2025-07-31T12:16:45Z","to":"2026-08-31T04:00:00Z"}
+{"id":"11325063281","timestamp":"2025-07-31T12:46:32.976132181Z","domain":"*.hpci-nas4.science.gc.ca","issuer":"SSL.com","from":"2025-07-31T12:16:45Z","to":"2026-08-31T04:00:00Z"}
+{"id":"11325063281","timestamp":"2025-07-31T12:46:32.976133272Z","domain":"hpci-nas4.science.gc.ca","issuer":"SSL.com","from":"2025-07-31T12:16:45Z","to":"2026-08-31T04:00:00Z"}
