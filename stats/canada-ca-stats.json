@@ -2660,6 +2660,16 @@
       "DigiCert": 7,
       "Let's Encrypt": 16,
       "Sectigo": 3
+    },
+    "2025-07-30": {
+      "Let's Encrypt": 12,
+      "DigiCert": 6,
+      "Sectigo": 2,
+      "SSL.com": 8,
+      "Google Trust Services": 1
+    },
+    "2025-07-31": {
+      "DigiCert": 1
     }
   },
   "errors": []
