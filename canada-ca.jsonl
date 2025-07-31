@@ -10930,3 +10930,5 @@
 {"id":"11326955112","timestamp":"2025-07-31T16:16:38.752978555Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-31T15:02:20Z","to":"2025-10-29T15:02:19Z"}
 {"id":"11327251435","timestamp":"2025-07-31T17:16:20.688411476Z","domain":"a360.canadacentral.cloudapp.azure.com","issuer":"Let's Encrypt","from":"2025-07-31T15:35:55Z","to":"2025-10-29T15:35:54Z"}
 {"id":"11327251435","timestamp":"2025-07-31T17:16:20.688411947Z","domain":"a360.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-07-31T15:35:55Z","to":"2025-10-29T15:35:54Z"}
+{"id":"11328197814","timestamp":"2025-07-31T19:16:02.027285715Z","domain":"auth.dev.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-07-31T00:00:00Z","to":"2026-01-31T23:59:59Z"}
+{"id":"11328239850","timestamp":"2025-07-31T19:16:02.027286106Z","domain":"auth.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-07-31T00:00:00Z","to":"2026-01-31T23:59:59Z"}
