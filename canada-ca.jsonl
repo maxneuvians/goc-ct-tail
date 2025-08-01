@@ -10945,3 +10945,9 @@
 {"id":"11336607566","timestamp":"2025-08-01T13:24:02.785463112Z","domain":"visualiseur-climatique.canada.ca","issuer":"SSL.com","from":"2025-08-01T12:23:13Z","to":"2026-09-01T04:00:00Z"}
 {"id":"11337295538","timestamp":"2025-08-01T14:16:15.906863696Z","domain":"keycloak.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-01T12:56:19Z","to":"2025-10-30T12:56:18Z"}
 {"id":"11337468402","timestamp":"2025-08-01T15:16:23.218161401Z","domain":"canary-workload.ssc-spc.com-dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-08-01T13:14:01Z","to":"2025-10-30T14:06:53Z"}
+{"id":"11338191973","timestamp":"2025-08-01T16:16:34.836286303Z","domain":"it-ti.acquisition.canada.ca","issuer":"Let's Encrypt","from":"2025-08-01T14:33:34Z","to":"2025-10-30T14:33:33Z"}
+{"id":"11338195551","timestamp":"2025-08-01T16:16:34.836286814Z","domain":"it-ti.acquisition.canada.ca","issuer":"Let's Encrypt","from":"2025-08-01T14:33:42Z","to":"2025-10-30T14:33:41Z"}
+{"id":"11338459017","timestamp":"2025-08-01T16:16:34.836287094Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-01T15:02:30Z","to":"2025-10-30T15:02:29Z"}
+{"id":"11338462913","timestamp":"2025-08-01T16:16:34.836287315Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-01T15:02:52Z","to":"2025-10-30T15:02:51Z"}
+{"id":"11338464089","timestamp":"2025-08-01T16:16:34.836287415Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-01T15:03:30Z","to":"2025-10-30T15:03:29Z"}
+{"id":"11338466743","timestamp":"2025-08-01T16:16:34.836288597Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-01T15:03:11Z","to":"2025-10-30T15:03:10Z"}
