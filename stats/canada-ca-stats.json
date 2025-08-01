@@ -2669,7 +2669,13 @@
       "Google Trust Services": 1
     },
     "2025-07-31": {
-      "DigiCert": 1
+      "DigiCert": 9,
+      "Let's Encrypt": 7,
+      "SSL.com": 4
+    },
+    "2025-08-01": {
+      "DigiCert": 2,
+      "Google Trust Services": 1
     }
   },
   "errors": []
