@@ -10940,3 +10940,6 @@
 {"id":"11332517019","timestamp":"2025-08-01T04:33:23.128471906Z","domain":"login-rd.services-autochtones.canada.ca","issuer":"DigiCert","from":"2025-08-01T00:00:00Z","to":"2026-02-01T23:59:59Z"}
 {"id":"11333281954","timestamp":"2025-08-01T06:17:17.247765387Z","domain":"gamc.canada.ca","issuer":"DigiCert","from":"2025-08-01T00:00:00Z","to":"2026-02-01T23:59:59Z"}
 {"id":"11336388253","timestamp":"2025-08-01T12:17:23.743939743Z","domain":"canary-workload.ssc-spc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-08-01T11:07:11Z","to":"2025-10-30T12:00:23Z"}
+{"id":"11336607566","timestamp":"2025-08-01T13:24:02.785462501Z","domain":"climate-viewer.canada.ca","issuer":"SSL.com","from":"2025-08-01T12:23:13Z","to":"2026-09-01T04:00:00Z"}
+{"id":"11336607566","timestamp":"2025-08-01T13:24:02.785462851Z","domain":"climate-viewer-qa.canada.ca","issuer":"SSL.com","from":"2025-08-01T12:23:13Z","to":"2026-09-01T04:00:00Z"}
+{"id":"11336607566","timestamp":"2025-08-01T13:24:02.785463112Z","domain":"visualiseur-climatique.canada.ca","issuer":"SSL.com","from":"2025-08-01T12:23:13Z","to":"2026-09-01T04:00:00Z"}
