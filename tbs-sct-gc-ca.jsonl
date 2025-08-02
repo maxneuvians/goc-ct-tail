@@ -563,3 +563,5 @@
 {"id":"11261514853","timestamp":"2025-07-26T09:36:05.197089395Z","domain":"uat.tapsts.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-07-26T08:10:28Z","to":"2025-10-24T08:10:27Z"}
 {"id":"11310685821","timestamp":"2025-07-30T08:42:52.026418515Z","domain":"tih.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-07-30T00:00:00Z","to":"2026-01-30T23:59:59Z"}
 {"id":"11331930133","timestamp":"2025-08-01T03:16:07.842017658Z","domain":"tih.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-01T00:00:00Z","to":"2026-02-01T23:59:59Z"}
+{"id":"11342507524","timestamp":"2025-08-02T00:48:59.9901276Z","domain":"burolis-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-02T00:00:00Z","to":"2026-02-02T23:59:59Z"}
+{"id":"11342507922","timestamp":"2025-08-02T00:48:59.990128181Z","domain":"burolis-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-02T00:00:00Z","to":"2026-02-02T23:59:59Z"}
