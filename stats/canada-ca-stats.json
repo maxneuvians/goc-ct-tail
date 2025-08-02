@@ -2674,8 +2674,14 @@
       "SSL.com": 4
     },
     "2025-08-01": {
-      "DigiCert": 2,
-      "Google Trust Services": 1
+      "DigiCert": 3,
+      "Google Trust Services": 4,
+      "SSL.com": 5,
+      "Let's Encrypt": 7
+    },
+    "2025-08-02": {
+      "DigiCert": 1,
+      "Google Trust Services": 2
     }
   },
   "errors": []
