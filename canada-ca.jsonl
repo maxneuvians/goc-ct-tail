@@ -10979,3 +10979,6 @@
 {"id":"11358008651","timestamp":"2025-08-03T10:16:03.877080717Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-08-03T08:40:39Z","to":"2025-11-01T08:40:38Z"}
 {"id":"11358008651","timestamp":"2025-08-03T10:16:03.877080897Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-08-03T08:40:39Z","to":"2025-11-01T08:40:38Z"}
 {"id":"11358505404","timestamp":"2025-08-03T11:15:47.204787164Z","domain":"canary-workload.ssc-spc.preprod.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-08-03T09:46:55Z","to":"2025-11-01T10:40:29Z"}
+{"id":"11360748078","timestamp":"2025-08-03T16:16:17.931838633Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-03T15:02:23Z","to":"2025-11-01T15:02:22Z"}
+{"id":"11360751345","timestamp":"2025-08-03T16:16:17.931839114Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-03T15:02:44Z","to":"2025-11-01T15:02:43Z"}
+{"id":"11360755557","timestamp":"2025-08-03T16:16:17.931839404Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-03T15:03:03Z","to":"2025-11-01T15:03:02Z"}
