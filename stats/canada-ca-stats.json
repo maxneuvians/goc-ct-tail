@@ -2680,8 +2680,9 @@
       "Let's Encrypt": 7
     },
     "2025-08-02": {
-      "DigiCert": 1,
-      "Google Trust Services": 2
+      "DigiCert": 5,
+      "Google Trust Services": 5,
+      "Let's Encrypt": 10
     }
   },
   "errors": []
