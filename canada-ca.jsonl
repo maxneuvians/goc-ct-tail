@@ -10985,3 +10985,9 @@
 {"id":"11361794516","timestamp":"2025-08-03T19:15:19.583882589Z","domain":"resource-catalogue.ws-composite.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-03T17:23:55Z","to":"2025-11-01T17:23:54Z"}
 {"id":"11361795607","timestamp":"2025-08-03T19:15:19.58388298Z","domain":"mlflow.ws-composite.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-03T17:23:54Z","to":"2025-11-01T17:23:53Z"}
 {"id":"11363091102","timestamp":"2025-08-03T22:15:48.599051288Z","domain":"gcco-asset-viewer.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-03T20:23:57Z","to":"2025-11-01T20:23:56Z"}
+{"id":"11364107975","timestamp":"2025-08-04T00:44:33.962274745Z","domain":"*.acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-08-03T23:01:52Z","to":"2025-11-01T23:01:51Z"}
+{"id":"11364107975","timestamp":"2025-08-04T00:44:33.962275506Z","domain":"acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-08-03T23:01:52Z","to":"2025-11-01T23:01:51Z"}
+{"id":"11364154242","timestamp":"2025-08-04T00:44:33.962275726Z","domain":"*.itsm.qa.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-04T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11364154242","timestamp":"2025-08-04T00:44:33.962275927Z","domain":"itsm.qa.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-04T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11364154312","timestamp":"2025-08-04T00:44:33.962276037Z","domain":"*.itsm.dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-04T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11364154312","timestamp":"2025-08-04T00:44:33.962276939Z","domain":"itsm.dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-04T00:00:00Z","to":"2026-09-02T23:59:59Z"}
