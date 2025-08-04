@@ -569,3 +569,5 @@
 {"id":"11339282570","timestamp":"2025-08-01T17:47:15.287552033Z","domain":"webservices.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-08-01T00:00:00Z","to":"2026-07-31T23:59:59Z"}
 {"id":"11341782345","timestamp":"2025-08-01T22:46:49.261563115Z","domain":"esot1vmcdpsas04.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-08-01T00:00:00Z","to":"2026-07-31T23:59:59Z"}
 {"id":"11351279616","timestamp":"2025-08-02T19:43:58.518551672Z","domain":"media.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-08-02T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"11368101612","timestamp":"2025-08-04T08:50:15.080831046Z","domain":"*.cmhc-schl.gc.ca","issuer":"Sectigo","from":"2025-08-04T00:00:00Z","to":"2025-11-02T06:28:35Z"}
+{"id":"11368101612","timestamp":"2025-08-04T08:50:15.080831357Z","domain":"cmhc-schl.gc.ca","issuer":"Sectigo","from":"2025-08-04T00:00:00Z","to":"2025-11-02T06:28:35Z"}
