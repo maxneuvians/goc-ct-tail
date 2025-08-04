@@ -2683,6 +2683,13 @@
       "DigiCert": 5,
       "Google Trust Services": 5,
       "Let's Encrypt": 10
+    },
+    "2025-08-03": {
+      "Let's Encrypt": 12,
+      "Google Trust Services": 1
+    },
+    "2025-08-04": {
+      "Amazon Trust Services": 4
     }
   },
   "errors": []
