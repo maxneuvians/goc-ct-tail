@@ -1357,3 +1357,12 @@
 {"id":"11385715315","timestamp":"2025-08-05T17:15:46.815540084Z","domain":"*.vcds.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-08-05T15:39:39Z","to":"2025-11-03T15:39:38Z"}
 {"id":"11386390379","timestamp":"2025-08-05T18:17:06.684067049Z","domain":"tideppd-hub.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-08-05T17:36:51Z","to":"2026-09-05T04:00:00Z"}
 {"id":"11386395865","timestamp":"2025-08-05T18:17:06.684067359Z","domain":"tideppd-sasweb.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-08-05T17:39:28Z","to":"2026-09-05T04:00:00Z"}
+{"id":"11387140828","timestamp":"2025-08-05T20:16:04.085591438Z","domain":"autodiscover.forces.gc.ca","issuer":"SSL.com","from":"2025-08-05T19:10:26Z","to":"2026-09-05T04:00:00Z"}
+{"id":"11387140828","timestamp":"2025-08-05T20:16:04.08559205Z","domain":"autodiscover.forces.mil.ca","issuer":"SSL.com","from":"2025-08-05T19:10:26Z","to":"2026-09-05T04:00:00Z"}
+{"id":"11387140828","timestamp":"2025-08-05T20:16:04.08559227Z","domain":"autodiscover.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-08-05T19:10:26Z","to":"2026-09-05T04:00:00Z"}
+{"id":"11387140828","timestamp":"2025-08-05T20:16:04.08559246Z","domain":"mail-dnd-alt.forces.mil.ca","issuer":"SSL.com","from":"2025-08-05T19:10:26Z","to":"2026-09-05T04:00:00Z"}
+{"id":"11387140828","timestamp":"2025-08-05T20:16:04.08559253Z","domain":"mail-dnd.forces.gc.ca","issuer":"SSL.com","from":"2025-08-05T19:10:26Z","to":"2026-09-05T04:00:00Z"}
+{"id":"11387140828","timestamp":"2025-08-05T20:16:04.085593161Z","domain":"mail-dnd.forces.mil.ca","issuer":"SSL.com","from":"2025-08-05T19:10:26Z","to":"2026-09-05T04:00:00Z"}
+{"id":"11387140828","timestamp":"2025-08-05T20:16:04.085593222Z","domain":"mail-dnd-sfk.forces.mil.ca","issuer":"SSL.com","from":"2025-08-05T19:10:26Z","to":"2026-09-05T04:00:00Z"}
+{"id":"11387140828","timestamp":"2025-08-05T20:16:04.085593292Z","domain":"mrs1.forces.gc.ca","issuer":"SSL.com","from":"2025-08-05T19:10:26Z","to":"2026-09-05T04:00:00Z"}
+{"id":"11387140828","timestamp":"2025-08-05T20:16:04.085593352Z","domain":"mrs2.forces.gc.ca","issuer":"SSL.com","from":"2025-08-05T19:10:26Z","to":"2026-09-05T04:00:00Z"}
