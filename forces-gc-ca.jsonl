@@ -1347,3 +1347,11 @@
 {"id":"11316871983","timestamp":"2025-07-30T20:16:01.692280519Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-07-30T18:59:10Z","to":"2025-10-28T18:59:09Z"}
 {"id":"11317224202","timestamp":"2025-07-30T21:15:51.925814166Z","domain":"vista.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-07-30T00:00:00Z","to":"2026-08-28T23:59:59Z"}
 {"id":"11326372182","timestamp":"2025-07-31T15:16:14.636197213Z","domain":"efb-portal.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-07-31T14:48:52Z","to":"2026-08-31T04:00:00Z"}
+{"id":"11385715315","timestamp":"2025-08-05T17:15:46.81553809Z","domain":"*.admmat.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-08-05T15:39:39Z","to":"2025-11-03T15:39:38Z"}
+{"id":"11385715315","timestamp":"2025-08-05T17:15:46.815538611Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-08-05T15:39:39Z","to":"2025-11-03T15:39:38Z"}
+{"id":"11385715315","timestamp":"2025-08-05T17:15:46.815538901Z","domain":"*.cjoc.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-08-05T15:39:39Z","to":"2025-11-03T15:39:38Z"}
+{"id":"11385715315","timestamp":"2025-08-05T17:15:46.815539192Z","domain":"*.drdc.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-08-05T15:39:39Z","to":"2025-11-03T15:39:38Z"}
+{"id":"11385715315","timestamp":"2025-08-05T17:15:46.815539302Z","domain":"*.navy.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-08-05T15:39:39Z","to":"2025-11-03T15:39:38Z"}
+{"id":"11385715315","timestamp":"2025-08-05T17:15:46.815539893Z","domain":"*.rcaf.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-08-05T15:39:39Z","to":"2025-11-03T15:39:38Z"}
+{"id":"11385715315","timestamp":"2025-08-05T17:15:46.815539993Z","domain":"*.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-08-05T15:39:39Z","to":"2025-11-03T15:39:38Z"}
+{"id":"11385715315","timestamp":"2025-08-05T17:15:46.815540084Z","domain":"*.vcds.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-08-05T15:39:39Z","to":"2025-11-03T15:39:38Z"}
