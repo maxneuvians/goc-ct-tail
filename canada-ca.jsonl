@@ -10997,3 +10997,5 @@
 {"id":"11376236512","timestamp":"2025-08-05T00:41:32.649665096Z","domain":"gccloudone.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-04T22:49:38Z","to":"2025-11-02T22:49:37Z"}
 {"id":"11378581455","timestamp":"2025-08-05T04:31:06.397504046Z","domain":"apim-dev.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-08-05T00:00:00Z","to":"2026-02-05T23:59:59Z"}
 {"id":"11378581465","timestamp":"2025-08-05T04:31:06.397504527Z","domain":"apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-08-05T00:00:00Z","to":"2026-02-05T23:59:59Z"}
+{"id":"11380285408","timestamp":"2025-08-05T08:16:52.469973909Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-05T06:24:45Z","to":"2025-11-03T06:24:44Z"}
+{"id":"11380285408","timestamp":"2025-08-05T08:16:52.469975532Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-05T06:24:45Z","to":"2025-11-03T06:24:44Z"}
