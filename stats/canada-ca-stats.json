@@ -2693,7 +2693,10 @@
       "Let's Encrypt": 4
     },
     "2025-08-05": {
-      "DigiCert": 2
+      "DigiCert": 2,
+      "Let's Encrypt": 12,
+      "SSL.com": 9,
+      "Google Trust Services": 1
     }
   },
   "errors": []
