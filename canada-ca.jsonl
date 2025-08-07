@@ -11061,3 +11061,5 @@
 {"id":"11408605677","timestamp":"2025-08-07T13:25:40.525208935Z","domain":"ace.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-07T00:00:00Z","to":"2026-09-05T23:59:59Z"}
 {"id":"11408616563","timestamp":"2025-08-07T13:25:40.525209045Z","domain":"contact.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-07T00:00:00Z","to":"2026-09-05T23:59:59Z"}
 {"id":"11410167642","timestamp":"2025-08-07T16:16:39.124543172Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-07T15:02:36Z","to":"2025-11-05T15:02:35Z"}
+{"id":"11413042936","timestamp":"2025-08-07T23:15:56.993985173Z","domain":"test-partenaires.gciv-dvgc.alpha.canada.ca","issuer":"DigiCert","from":"2025-08-07T00:00:00Z","to":"2026-02-07T23:59:59Z"}
+{"id":"11413043994","timestamp":"2025-08-07T23:15:56.993985664Z","domain":"partner-test.gciv-dvgc.alpha.canada.ca","issuer":"DigiCert","from":"2025-08-07T00:00:00Z","to":"2026-02-07T23:59:59Z"}
