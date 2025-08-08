@@ -88,3 +88,6 @@
 {"id":"10983696361","timestamp":"2025-07-03T18:29:42.945392077Z","domain":"gcsra-a.ic.gc.ca","issuer":"Sectigo","from":"2025-07-03T00:00:00Z","to":"2026-07-03T23:59:59Z"}
 {"id":"10983696361","timestamp":"2025-07-03T18:29:42.945392437Z","domain":"gcsra-b.ic.gc.ca","issuer":"Sectigo","from":"2025-07-03T00:00:00Z","to":"2026-07-03T23:59:59Z"}
 {"id":"10983696361","timestamp":"2025-07-03T18:29:42.945392668Z","domain":"gcsra.ic.gc.ca","issuer":"Sectigo","from":"2025-07-03T00:00:00Z","to":"2026-07-03T23:59:59Z"}
+{"id":"11419896522","timestamp":"2025-08-08T12:31:11.072065849Z","domain":"cbconnect.ic.gc.ca","issuer":"SSL.com","from":"2025-08-08T11:21:14Z","to":"2026-09-08T04:00:00Z"}
+{"id":"11419896522","timestamp":"2025-08-08T12:31:11.07206635Z","domain":"prd-cbconnect.ic.gc.ca","issuer":"SSL.com","from":"2025-08-08T11:21:14Z","to":"2026-09-08T04:00:00Z"}
+{"id":"11419896522","timestamp":"2025-08-08T12:31:11.07206653Z","domain":"www.cbconnect.ic.gc.ca","issuer":"SSL.com","from":"2025-08-08T11:21:14Z","to":"2026-09-08T04:00:00Z"}
