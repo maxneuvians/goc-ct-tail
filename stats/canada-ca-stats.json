@@ -2704,7 +2704,10 @@
       "Amazon Trust Services": 1
     },
     "2025-08-07": {
-      "DigiCert": 1
+      "DigiCert": 4,
+      "Let's Encrypt": 7,
+      "Google Trust Services": 1,
+      "Amazon Trust Services": 7
     }
   },
   "errors": []
