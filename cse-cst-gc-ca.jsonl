@@ -170,3 +170,11 @@
 {"id":"11300765861","timestamp":"2025-07-29T13:59:57.875656921Z","domain":"temporal-codec.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-07-29T12:25:12Z","to":"2025-10-27T12:25:11Z"}
 {"id":"11300832644","timestamp":"2025-07-29T13:59:57.875657261Z","domain":"argocd.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-07-29T12:31:49Z","to":"2025-10-27T12:31:48Z"}
 {"id":"11301553202","timestamp":"2025-07-29T14:57:24.739805123Z","domain":"*.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-07-29T13:50:51Z","to":"2025-10-27T13:50:50Z"}
+{"id":"11421129881","timestamp":"2025-08-08T13:58:30.278301089Z","domain":"cgsras-1.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-08-08T13:32:50Z","to":"2026-09-08T04:00:00Z"}
+{"id":"11421129881","timestamp":"2025-08-08T13:58:30.27830159Z","domain":"cgsras-2.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-08-08T13:32:50Z","to":"2026-09-08T04:00:00Z"}
+{"id":"11421129881","timestamp":"2025-08-08T13:58:30.278301821Z","domain":"cgsras-3.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-08-08T13:32:50Z","to":"2026-09-08T04:00:00Z"}
+{"id":"11421129881","timestamp":"2025-08-08T13:58:30.278302081Z","domain":"cgsras-4.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-08-08T13:32:50Z","to":"2026-09-08T04:00:00Z"}
+{"id":"11421129881","timestamp":"2025-08-08T13:58:30.278302171Z","domain":"cloudgate.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-08-08T13:32:50Z","to":"2026-09-08T04:00:00Z"}
+{"id":"11421129881","timestamp":"2025-08-08T13:58:30.278302782Z","domain":"cumulus.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-08-08T13:32:50Z","to":"2026-09-08T04:00:00Z"}
+{"id":"11421129881","timestamp":"2025-08-08T13:58:30.278302853Z","domain":"nimbus.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-08-08T13:32:50Z","to":"2026-09-08T04:00:00Z"}
+{"id":"11421129881","timestamp":"2025-08-08T13:58:30.278302933Z","domain":"stratus.cse-cst.gc.ca","issuer":"SSL.com","from":"2025-08-08T13:32:50Z","to":"2026-09-08T04:00:00Z"}
