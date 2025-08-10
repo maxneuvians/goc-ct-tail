@@ -574,3 +574,7 @@
 {"id":"11400797562","timestamp":"2025-08-06T21:35:58.59549791Z","domain":"gcsra.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-08-06T00:00:00Z","to":"2026-08-30T23:59:59Z"}
 {"id":"11435633692","timestamp":"2025-08-09T19:33:20.478438123Z","domain":"rpss-appmgmt-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-09T00:00:00Z","to":"2026-02-09T23:59:59Z"}
 {"id":"11444363945","timestamp":"2025-08-10T13:40:08.934166356Z","domain":"rpss-appmgmt-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
+{"id":"11448471576","timestamp":"2025-08-10T22:37:23.878491872Z","domain":"rpss-appmgmt-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
+{"id":"11448472496","timestamp":"2025-08-10T22:37:23.878492283Z","domain":"rpss-appmgmt-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
+{"id":"11448560206","timestamp":"2025-08-10T22:37:23.878492494Z","domain":"mockups-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
+{"id":"11448607608","timestamp":"2025-08-10T22:37:23.878492684Z","domain":"v3-quessvc-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
