@@ -578,3 +578,8 @@
 {"id":"11448472496","timestamp":"2025-08-10T22:37:23.878492283Z","domain":"rpss-appmgmt-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
 {"id":"11448560206","timestamp":"2025-08-10T22:37:23.878492494Z","domain":"mockups-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
 {"id":"11448607608","timestamp":"2025-08-10T22:37:23.878492684Z","domain":"v3-quessvc-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
+{"id":"11448626954","timestamp":"2025-08-10T23:35:30.850274426Z","domain":"tap-sts-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
+{"id":"11448663131","timestamp":"2025-08-10T23:35:30.850274796Z","domain":"atip-aoas-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
+{"id":"11448705036","timestamp":"2025-08-10T23:35:30.850275027Z","domain":"rpss-appmgmt-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
+{"id":"11448866451","timestamp":"2025-08-10T23:35:30.850275237Z","domain":"v3-calipersplusapi-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
+{"id":"11448867093","timestamp":"2025-08-10T23:35:30.850275337Z","domain":"v3-calipersplus-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
