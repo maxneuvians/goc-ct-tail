@@ -11076,3 +11076,6 @@
 {"id":"11434043505","timestamp":"2025-08-09T16:16:13.2829584Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-09T15:02:24Z","to":"2025-11-07T15:02:23Z"}
 {"id":"11435263642","timestamp":"2025-08-09T19:14:56.286553939Z","domain":"cv-parser.dev.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-08-09T00:00:00Z","to":"2026-02-09T23:59:59Z"}
 {"id":"11440691046","timestamp":"2025-08-10T07:15:31.459026075Z","domain":"translator.stats.exp.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
+{"id":"11441187807","timestamp":"2025-08-10T08:16:27.18878195Z","domain":"accessibilite.canada.ca","issuer":"Let's Encrypt","from":"2025-08-10T06:32:05Z","to":"2025-11-08T06:32:04Z"}
+{"id":"11441187807","timestamp":"2025-08-10T08:16:27.188782321Z","domain":"accessibility.canada.ca","issuer":"Let's Encrypt","from":"2025-08-10T06:32:05Z","to":"2025-11-08T06:32:04Z"}
+{"id":"11441187807","timestamp":"2025-08-10T08:16:27.188782511Z","domain":"accessible.canada.ca","issuer":"Let's Encrypt","from":"2025-08-10T06:32:05Z","to":"2025-11-08T06:32:04Z"}
