@@ -11097,3 +11097,5 @@
 {"id":"11449630009","timestamp":"2025-08-11T00:42:15.651589657Z","domain":"transport-canada.sector.id.alpha.canada.ca","issuer":"DigiCert","from":"2025-08-11T00:00:00Z","to":"2026-02-11T23:59:59Z"}
 {"id":"11449657824","timestamp":"2025-08-11T00:42:15.651589748Z","domain":"guidebook.sdlc.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2025-08-11T00:00:00Z","to":"2026-02-11T23:59:59Z"}
 {"id":"11456872299","timestamp":"2025-08-11T15:16:15.502967351Z","domain":"vault.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-11T13:35:46Z","to":"2025-11-09T13:35:45Z"}
+{"id":"11457594800","timestamp":"2025-08-11T16:16:33.719684191Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-11T15:02:22Z","to":"2025-11-09T15:02:21Z"}
+{"id":"11457598198","timestamp":"2025-08-11T16:16:33.719684642Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-11T15:02:48Z","to":"2025-11-09T15:02:47Z"}
