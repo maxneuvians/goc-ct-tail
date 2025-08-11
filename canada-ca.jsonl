@@ -11089,3 +11089,10 @@
 {"id":"11446103922","timestamp":"2025-08-10T17:15:13.642733301Z","domain":"mlflow.ws-toluwadare.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-10T15:54:33Z","to":"2025-11-08T15:54:32Z"}
 {"id":"11446106146","timestamp":"2025-08-10T17:15:13.642735115Z","domain":"resource-catalogue.ws-toluwadare.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-10T15:54:55Z","to":"2025-11-08T15:54:54Z"}
 {"id":"11448663763","timestamp":"2025-08-10T23:15:47.681068436Z","domain":"guide.ccdl.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
+{"id":"11449075325","timestamp":"2025-08-11T00:42:15.651587824Z","domain":"objectdetection.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
+{"id":"11449174190","timestamp":"2025-08-11T00:42:15.651588195Z","domain":"dalle2.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
+{"id":"11449174245","timestamp":"2025-08-11T00:42:15.651588365Z","domain":"image-editor.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
+{"id":"11449402125","timestamp":"2025-08-11T00:42:15.651588606Z","domain":"*.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-08-10T23:02:54Z","to":"2025-11-08T23:02:53Z"}
+{"id":"11449402125","timestamp":"2025-08-11T00:42:15.651588706Z","domain":"tc.canada.ca","issuer":"Let's Encrypt","from":"2025-08-10T23:02:54Z","to":"2025-11-08T23:02:53Z"}
+{"id":"11449630009","timestamp":"2025-08-11T00:42:15.651589657Z","domain":"transport-canada.sector.id.alpha.canada.ca","issuer":"DigiCert","from":"2025-08-11T00:00:00Z","to":"2026-02-11T23:59:59Z"}
+{"id":"11449657824","timestamp":"2025-08-11T00:42:15.651589748Z","domain":"guidebook.sdlc.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2025-08-11T00:00:00Z","to":"2026-02-11T23:59:59Z"}
