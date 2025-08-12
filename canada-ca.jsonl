@@ -11132,3 +11132,7 @@
 {"id":"11468949439","timestamp":"2025-08-12T16:16:35.13497484Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-12T15:03:12Z","to":"2025-11-10T15:03:11Z"}
 {"id":"11468952085","timestamp":"2025-08-12T16:16:35.134975852Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-12T15:03:28Z","to":"2025-11-10T15:03:27Z"}
 {"id":"11468954010","timestamp":"2025-08-12T16:16:35.134975952Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-12T15:03:45Z","to":"2025-11-10T15:03:44Z"}
+{"id":"11469994456","timestamp":"2025-08-12T19:15:33.625172875Z","domain":"forces-mobile.canada.ca","issuer":"Let's Encrypt","from":"2025-08-12T17:15:39Z","to":"2025-11-10T17:15:38Z"}
+{"id":"11470174871","timestamp":"2025-08-12T19:15:33.625173276Z","domain":"doc-to-html.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-12T17:37:38Z","to":"2025-11-10T17:37:37Z"}
+{"id":"11470331623","timestamp":"2025-08-12T19:15:33.625173546Z","domain":"tapx-rolemanager-prd-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-08-12T00:00:00Z","to":"2026-02-12T23:59:59Z"}
+{"id":"11470417377","timestamp":"2025-08-12T19:15:33.625173737Z","domain":"dask.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-12T18:10:02Z","to":"2025-11-10T18:10:01Z"}
