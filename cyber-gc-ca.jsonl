@@ -609,3 +609,5 @@
 {"id":"11465978345","timestamp":"2025-08-12T10:39:06.917861146Z","domain":"malware-stg.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-08-12T09:01:55Z","to":"2025-11-10T09:01:54Z"}
 {"id":"11466986738","timestamp":"2025-08-12T12:46:27.559428047Z","domain":"observationdeck-ext.cyber.gc.ca","issuer":"SSL.com","from":"2025-08-12T11:52:01Z","to":"2026-09-12T04:00:00Z"}
 {"id":"11466986738","timestamp":"2025-08-12T12:46:27.559428467Z","domain":"www.observationdeck-ext.cyber.gc.ca","issuer":"SSL.com","from":"2025-08-12T11:52:01Z","to":"2026-09-12T04:00:00Z"}
+{"id":"11468423748","timestamp":"2025-08-12T15:37:34.321854261Z","domain":"*.core.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-08-12T13:56:35Z","to":"2025-11-10T13:56:34Z"}
+{"id":"11468423748","timestamp":"2025-08-12T15:37:34.321854753Z","domain":"core.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-08-12T13:56:35Z","to":"2025-11-10T13:56:34Z"}
