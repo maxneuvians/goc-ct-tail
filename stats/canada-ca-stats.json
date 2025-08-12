@@ -2722,7 +2722,11 @@
       "Let's Encrypt": 14
     },
     "2025-08-11": {
-      "DigiCert": 2
+      "DigiCert": 2,
+      "Let's Encrypt": 8
+    },
+    "2025-08-12": {
+      "Amazon Trust Services": 2
     }
   },
   "errors": []
