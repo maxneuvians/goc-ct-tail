@@ -11110,3 +11110,7 @@
 {"id":"11464691082","timestamp":"2025-08-12T08:16:46.963277147Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-12T06:25:07Z","to":"2025-11-10T06:25:06Z"}
 {"id":"11464727881","timestamp":"2025-08-12T08:16:46.963277938Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-12T06:29:43Z","to":"2025-11-10T06:29:42Z"}
 {"id":"11464727881","timestamp":"2025-08-12T08:16:46.963278219Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-12T06:29:43Z","to":"2025-11-10T06:29:42Z"}
+{"id":"11466866668","timestamp":"2025-08-12T12:17:25.057573959Z","domain":"common-project-search.canada.ca","issuer":"SSL.com","from":"2025-08-12T11:38:00Z","to":"2026-09-12T04:00:00Z"}
+{"id":"11466866668","timestamp":"2025-08-12T12:17:25.05757438Z","domain":"cps.canada.ca","issuer":"SSL.com","from":"2025-08-12T11:38:00Z","to":"2026-09-12T04:00:00Z"}
+{"id":"11466866668","timestamp":"2025-08-12T12:17:25.057574641Z","domain":"recherche-projet-commun.canada.ca","issuer":"SSL.com","from":"2025-08-12T11:38:00Z","to":"2026-09-12T04:00:00Z"}
+{"id":"11466866668","timestamp":"2025-08-12T12:17:25.057574881Z","domain":"rpc.canada.ca","issuer":"SSL.com","from":"2025-08-12T11:38:00Z","to":"2026-09-12T04:00:00Z"}
