@@ -11104,3 +11104,5 @@
 {"id":"11460580419","timestamp":"2025-08-11T23:15:37.636724215Z","domain":"aur.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-11T21:34:14Z","to":"2025-11-09T21:34:13Z"}
 {"id":"11460580835","timestamp":"2025-08-11T23:15:37.636725037Z","domain":"*.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-11T21:34:14Z","to":"2025-11-09T21:34:13Z"}
 {"id":"11460580835","timestamp":"2025-08-11T23:15:37.636725308Z","domain":"*.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-11T21:34:14Z","to":"2025-11-09T21:34:13Z"}
+{"id":"11461163113","timestamp":"2025-08-12T00:37:41.081494311Z","domain":"*.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-12T00:00:00Z","to":"2026-09-10T23:59:59Z"}
+{"id":"11461163113","timestamp":"2025-08-12T00:37:41.081494712Z","domain":"ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-12T00:00:00Z","to":"2026-09-10T23:59:59Z"}
