@@ -1460,3 +1460,4 @@
 {"id":"11449075261","timestamp":"2025-08-11T00:42:14.803334227Z","domain":"allies.cloud.forces.gc.ca","issuer":"DigiCert","from":"2025-08-10T00:00:00Z","to":"2026-02-10T23:59:59Z"}
 {"id":"11449493531","timestamp":"2025-08-11T00:42:14.803335249Z","domain":"gs.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-08-11T00:00:00Z","to":"2026-09-09T23:59:59Z"}
 {"id":"11457658317","timestamp":"2025-08-11T16:16:32.648568989Z","domain":"sc2is.rcaf-arc.cloud.forces.gc.ca","issuer":"SSL.com","from":"2025-08-11T15:59:40Z","to":"2026-08-23T10:06:31Z"}
+{"id":"11482910391","timestamp":"2025-08-13T21:15:39.03892997Z","domain":"portal-api-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2025-08-13T19:47:51Z","to":"2025-11-11T20:41:05Z"}
