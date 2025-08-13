@@ -11153,3 +11153,7 @@
 {"id":"11480595154","timestamp":"2025-08-13T16:16:06.006150471Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-13T15:02:22Z","to":"2025-11-11T15:02:21Z"}
 {"id":"11480598533","timestamp":"2025-08-13T16:16:06.006150992Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-13T15:02:43Z","to":"2025-11-11T15:02:42Z"}
 {"id":"11480600475","timestamp":"2025-08-13T16:16:06.006151312Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-13T15:03:03Z","to":"2025-11-11T15:03:02Z"}
+{"id":"11481352971","timestamp":"2025-08-13T18:16:44.411157404Z","domain":"*.bc.iidi.hc-sc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-08-13T16:25:53Z","to":"2025-11-11T17:21:47Z"}
+{"id":"11481352971","timestamp":"2025-08-13T18:16:44.411157765Z","domain":"bc.iidi.hc-sc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-08-13T16:25:53Z","to":"2025-11-11T17:21:47Z"}
+{"id":"11481352971","timestamp":"2025-08-13T18:16:44.411157985Z","domain":"*.iidi.hc-sc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-08-13T16:25:53Z","to":"2025-11-11T17:21:47Z"}
+{"id":"11481352971","timestamp":"2025-08-13T18:16:44.411158196Z","domain":"iidi.hc-sc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-08-13T16:25:53Z","to":"2025-11-11T17:21:47Z"}
