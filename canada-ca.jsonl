@@ -11157,3 +11157,5 @@
 {"id":"11481352971","timestamp":"2025-08-13T18:16:44.411157765Z","domain":"bc.iidi.hc-sc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-08-13T16:25:53Z","to":"2025-11-11T17:21:47Z"}
 {"id":"11481352971","timestamp":"2025-08-13T18:16:44.411157985Z","domain":"*.iidi.hc-sc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-08-13T16:25:53Z","to":"2025-11-11T17:21:47Z"}
 {"id":"11481352971","timestamp":"2025-08-13T18:16:44.411158196Z","domain":"iidi.hc-sc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-08-13T16:25:53Z","to":"2025-11-11T17:21:47Z"}
+{"id":"11482239483","timestamp":"2025-08-13T20:16:05.389770923Z","domain":"gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-13T18:23:08Z","to":"2025-11-11T18:23:07Z"}
+{"id":"11482239955","timestamp":"2025-08-13T20:16:05.389772075Z","domain":"traefik.gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-13T18:23:13Z","to":"2025-11-11T18:23:12Z"}
