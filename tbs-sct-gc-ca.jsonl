@@ -628,3 +628,7 @@
 {"id":"11474213626","timestamp":"2025-08-13T03:47:57.216022719Z","domain":"myaw-monlta-dev-backend.apim-dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-13T00:00:00Z","to":"2026-02-13T23:59:59Z"}
 {"id":"11474213697","timestamp":"2025-08-13T03:47:57.216023511Z","domain":"v3-pbi-hrap-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-13T00:00:00Z","to":"2026-02-13T23:59:59Z"}
 {"id":"11474252244","timestamp":"2025-08-13T03:47:57.216023781Z","domain":"tapx-tiv-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-13T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"11474363347","timestamp":"2025-08-13T04:41:42.266487605Z","domain":"tapx-rolemanagerapp-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-13T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"11474422834","timestamp":"2025-08-13T04:41:42.266487976Z","domain":"sitefinity-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-13T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"11474490584","timestamp":"2025-08-13T04:41:42.266488176Z","domain":"v3-selfid-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-13T00:00:00Z","to":"2026-02-13T23:59:59Z"}
+{"id":"11474535789","timestamp":"2025-08-13T04:41:42.266488437Z","domain":"tapx-rolemanagerapp-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-13T00:00:00Z","to":"2026-02-13T23:59:59Z"}
