@@ -11162,3 +11162,5 @@
 {"id":"11484363963","timestamp":"2025-08-14T00:37:57.355002009Z","domain":"auth.forms-formulaires.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-14T00:00:00Z","to":"2026-09-12T23:59:59Z"}
 {"id":"11487842674","timestamp":"2025-08-14T08:16:47.59444669Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-14T06:25:49Z","to":"2025-11-12T06:25:48Z"}
 {"id":"11487842674","timestamp":"2025-08-14T08:16:47.594447502Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-14T06:25:49Z","to":"2025-11-12T06:25:48Z"}
+{"id":"11490538063","timestamp":"2025-08-14T13:23:05.400113379Z","domain":"flood-risk-portal.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-14T11:53:57Z","to":"2025-11-12T11:53:56Z"}
+{"id":"11490538063","timestamp":"2025-08-14T13:23:05.40011392Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-14T11:53:57Z","to":"2025-11-12T11:53:56Z"}
