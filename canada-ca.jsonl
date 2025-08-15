@@ -11199,3 +11199,6 @@
 {"id":"11503200515","timestamp":"2025-08-15T15:15:50.634226842Z","domain":"*.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-15T13:19:05Z","to":"2025-11-13T13:19:04Z"}
 {"id":"11503200515","timestamp":"2025-08-15T15:15:50.634227082Z","domain":"gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-15T13:19:05Z","to":"2025-11-13T13:19:04Z"}
 {"id":"11503200515","timestamp":"2025-08-15T15:15:50.634227162Z","domain":"*.test.d2.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-15T13:19:05Z","to":"2025-11-13T13:19:04Z"}
+{"id":"11504032312","timestamp":"2025-08-15T16:16:26.449306817Z","domain":"cir-rag.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-08-15T00:00:00Z","to":"2026-02-15T23:59:59Z"}
+{"id":"11504072374","timestamp":"2025-08-15T16:16:26.449307318Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-15T15:02:20Z","to":"2025-11-13T15:02:19Z"}
+{"id":"11504074827","timestamp":"2025-08-15T16:16:26.449307609Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-15T15:02:47Z","to":"2025-11-13T15:02:46Z"}
