@@ -11180,3 +11180,12 @@
 {"id":"11496935215","timestamp":"2025-08-15T02:46:39.112945369Z","domain":"cms-repo.experimentation.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-08-15T01:11:45Z","to":"2025-11-13T02:05:39Z"}
 {"id":"11502072897","timestamp":"2025-08-15T12:17:21.334970464Z","domain":"mlflow.ws-hfawzy.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-15T11:06:22Z","to":"2025-11-13T11:06:21Z"}
 {"id":"11502073205","timestamp":"2025-08-15T12:17:21.334970854Z","domain":"resource-catalogue.ws-hfawzy.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-15T11:06:22Z","to":"2025-11-13T11:06:21Z"}
+{"id":"11502246819","timestamp":"2025-08-15T13:20:41.990759163Z","domain":"resource-catalogue.ws-lstonge.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-15T11:26:42Z","to":"2025-11-13T11:26:41Z"}
+{"id":"11502247922","timestamp":"2025-08-15T13:20:41.990760325Z","domain":"mlflow.ws-lstonge.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-15T11:26:42Z","to":"2025-11-13T11:26:41Z"}
+{"id":"11502489848","timestamp":"2025-08-15T13:20:41.990760586Z","domain":"*.ai-answers.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-15T00:00:00Z","to":"2026-09-13T23:59:59Z"}
+{"id":"11502489848","timestamp":"2025-08-15T13:20:41.990760796Z","domain":"ai-answers.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-15T00:00:00Z","to":"2026-09-13T23:59:59Z"}
+{"id":"11502489848","timestamp":"2025-08-15T13:20:41.990760906Z","domain":"*.reponses-ia.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-15T00:00:00Z","to":"2026-09-13T23:59:59Z"}
+{"id":"11502489848","timestamp":"2025-08-15T13:20:41.990761528Z","domain":"reponses-ia.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-15T00:00:00Z","to":"2026-09-13T23:59:59Z"}
+{"id":"11502489875","timestamp":"2025-08-15T13:20:41.990761638Z","domain":"*.ai-answers.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-15T00:00:00Z","to":"2026-09-13T23:59:59Z"}
+{"id":"11502489875","timestamp":"2025-08-15T13:20:41.990761728Z","domain":"ai-answers.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-15T00:00:00Z","to":"2026-09-13T23:59:59Z"}
+{"id":"11502489875","timestamp":"2025-08-15T13:20:41.990761818Z","domain":"reponses-ia.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-15T00:00:00Z","to":"2026-09-13T23:59:59Z"}
