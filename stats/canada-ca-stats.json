@@ -2740,8 +2740,10 @@
       "Let's Encrypt": 11
     },
     "2025-08-15": {
-      "Amazon Trust Services": 4,
-      "Google Trust Services": 1
+      "Amazon Trust Services": 11,
+      "Google Trust Services": 1,
+      "Let's Encrypt": 16,
+      "DigiCert": 1
     }
   },
   "errors": []
