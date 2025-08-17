@@ -38,13 +38,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 11204,
+      "totalCertificates": 11215,
       "totalsByIssuer": {
         "Entrust": 2525,
-        "Amazon Trust Services": 904,
-        "DigiCert": 579,
+        "Amazon Trust Services": 907,
+        "DigiCert": 581,
         "GoDaddy": 13,
-        "Let's Encrypt": 5179,
+        "Let's Encrypt": 5185,
         "Google Trust Services": 237,
         "Sectigo": 228,
         "SSL.com": 1539
@@ -106,11 +106,11 @@
     {
       "inputFile": "cdssandbox-xyz.jsonl",
       "outputFile": "stats/cdssandbox-xyz-stats.json",
-      "totalCertificates": 1842,
+      "totalCertificates": 1848,
       "totalsByIssuer": {
-        "Amazon Trust Services": 1517,
+        "Amazon Trust Services": 1519,
         "Let's Encrypt": 320,
-        "DigiCert": 5
+        "DigiCert": 9
       },
       "errorCount": 0
     },
@@ -214,10 +214,10 @@
     {
       "inputFile": "dfo-mpo-gc-ca.jsonl",
       "outputFile": "stats/dfo-mpo-gc-ca-stats.json",
-      "totalCertificates": 1041,
+      "totalCertificates": 1042,
       "totalsByIssuer": {
         "Entrust": 332,
-        "DigiCert": 44,
+        "DigiCert": 45,
         "Let's Encrypt": 335,
         "SSL.com": 330
       },
@@ -236,9 +236,9 @@
     {
       "inputFile": "forces-gc-ca.jsonl",
       "outputFile": "stats/forces-gc-ca-stats.json",
-      "totalCertificates": 1539,
+      "totalCertificates": 1540,
       "totalsByIssuer": {
-        "Amazon Trust Services": 296,
+        "Amazon Trust Services": 297,
         "Entrust": 249,
         "DigiCert": 40,
         "SSL.com": 112,
@@ -682,11 +682,11 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 3042,
-    "Let's Encrypt": 15376,
+    "Amazon Trust Services": 3048,
+    "Let's Encrypt": 15382,
     "SSL.com": 5828,
     "Sectigo": 8032,
-    "DigiCert": 1872,
+    "DigiCert": 1879,
     "GoDaddy": 77,
     "Google Trust Services": 441,
     "Entrust Limited": 20,

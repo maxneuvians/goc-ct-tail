@@ -2744,6 +2744,13 @@
       "Google Trust Services": 1,
       "Let's Encrypt": 16,
       "DigiCert": 1
+    },
+    "2025-08-16": {
+      "Let's Encrypt": 6,
+      "DigiCert": 2
+    },
+    "2025-08-17": {
+      "Amazon Trust Services": 3
     }
   },
   "errors": []
