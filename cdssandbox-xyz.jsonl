@@ -1846,3 +1846,5 @@
 {"id":"11520472316","timestamp":"2025-08-17T02:16:03.388794474Z","domain":"rp.app.gc-signin.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-08-17T00:00:00Z","to":"2026-09-15T23:59:59Z"}
 {"id":"11520637067","timestamp":"2025-08-17T02:16:03.388794735Z","domain":"dev.gciv-dvgc.cdssandbox.xyz","issuer":"DigiCert","from":"2025-08-17T00:00:00Z","to":"2026-02-17T23:59:59Z"}
 {"id":"11520976515","timestamp":"2025-08-17T02:16:03.388794835Z","domain":"test.gciv-dvgc.cdssandbox.xyz","issuer":"DigiCert","from":"2025-08-17T00:00:00Z","to":"2026-02-17T23:59:59Z"}
+{"id":"11523198611","timestamp":"2025-08-17T06:41:42.442035916Z","domain":"*.threat-modeling.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-08-17T00:00:00Z","to":"2026-09-15T23:59:59Z"}
+{"id":"11523198611","timestamp":"2025-08-17T06:41:42.442036447Z","domain":"threat-modeling.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-08-17T00:00:00Z","to":"2026-09-15T23:59:59Z"}
