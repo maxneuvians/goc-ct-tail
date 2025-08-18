@@ -1043,3 +1043,12 @@
 {"id":"11529285326","timestamp":"2025-08-17T18:29:37.524389995Z","domain":"neptune.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-08-17T17:16:21Z","to":"2025-11-15T17:16:20Z"}
 {"id":"11540928401","timestamp":"2025-08-18T17:27:48.617616383Z","domain":"prediction.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-08-18T15:55:54Z","to":"2025-11-16T15:55:53Z"}
 {"id":"11540971139","timestamp":"2025-08-18T17:27:48.617616924Z","domain":"neptune.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-08-18T16:01:18Z","to":"2025-11-16T16:01:17Z"}
+{"id":"11542175483","timestamp":"2025-08-18T19:25:37.999499928Z","domain":"*.analytics.edh.azure.cloud.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-08-18T19:10:42Z","to":"2026-09-18T04:00:00Z"}
+{"id":"11542175483","timestamp":"2025-08-18T19:25:37.999500289Z","domain":"*.dmp.edh.azure.cloud.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-08-18T19:10:42Z","to":"2026-09-18T04:00:00Z"}
+{"id":"11542175483","timestamp":"2025-08-18T19:25:37.99950052Z","domain":"*.edh.azure.cloud.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-08-18T19:10:42Z","to":"2026-09-18T04:00:00Z"}
+{"id":"11542175483","timestamp":"2025-08-18T19:25:37.99950077Z","domain":"edh.azure.cloud.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-08-18T19:10:42Z","to":"2026-09-18T04:00:00Z"}
+{"id":"11542175483","timestamp":"2025-08-18T19:25:37.99950088Z","domain":"*.edh-cde.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-08-18T19:10:42Z","to":"2026-09-18T04:00:00Z"}
+{"id":"11542175483","timestamp":"2025-08-18T19:25:37.999501852Z","domain":"edh-cde.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-08-18T19:10:42Z","to":"2026-09-18T04:00:00Z"}
+{"id":"11542175483","timestamp":"2025-08-18T19:25:37.999501942Z","domain":"*.edh-cde.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-08-18T19:10:42Z","to":"2026-09-18T04:00:00Z"}
+{"id":"11542175483","timestamp":"2025-08-18T19:25:37.999502023Z","domain":"edh-cde.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-08-18T19:10:42Z","to":"2026-09-18T04:00:00Z"}
+{"id":"11542175483","timestamp":"2025-08-18T19:25:37.999502103Z","domain":"*.vms.edh.azure.cloud.dfo-mpo.gc.ca","issuer":"SSL.com","from":"2025-08-18T19:10:42Z","to":"2026-09-18T04:00:00Z"}
