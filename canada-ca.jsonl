@@ -11231,3 +11231,5 @@
 {"id":"11539887809","timestamp":"2025-08-18T15:16:12.007402879Z","domain":"arrivecan-dev1ma.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-18T00:00:00Z","to":"2026-09-16T23:59:59Z"}
 {"id":"11539914157","timestamp":"2025-08-18T15:16:12.00740341Z","domain":"arrivecan-test1ma.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-18T00:00:00Z","to":"2026-09-16T23:59:59Z"}
 {"id":"11539917514","timestamp":"2025-08-18T15:16:12.007403691Z","domain":"arrivecan.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-18T00:00:00Z","to":"2026-09-16T23:59:59Z"}
+{"id":"11540436204","timestamp":"2025-08-18T16:16:32.522934046Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-18T15:02:32Z","to":"2025-11-16T15:02:31Z"}
+{"id":"11540439406","timestamp":"2025-08-18T16:16:32.522934427Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-18T15:02:57Z","to":"2025-11-16T15:02:56Z"}
