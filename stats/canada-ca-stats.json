@@ -2750,7 +2750,12 @@
       "DigiCert": 2
     },
     "2025-08-17": {
-      "Amazon Trust Services": 3
+      "Amazon Trust Services": 3,
+      "DigiCert": 2,
+      "Let's Encrypt": 8
+    },
+    "2025-08-18": {
+      "Amazon Trust Services": 2
     }
   },
   "errors": []
