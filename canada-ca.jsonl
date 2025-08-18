@@ -11221,3 +11221,7 @@
 {"id":"11528189384","timestamp":"2025-08-17T16:16:08.108334118Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-17T15:02:52Z","to":"2025-11-15T15:02:51Z"}
 {"id":"11528681405","timestamp":"2025-08-17T17:15:19.129215895Z","domain":"mlflow.ws-eodms.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-17T16:00:54Z","to":"2025-11-15T16:00:53Z"}
 {"id":"11528686863","timestamp":"2025-08-17T17:15:19.129216206Z","domain":"resource-catalogue.ws-eodms.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-17T16:00:53Z","to":"2025-11-15T16:00:52Z"}
+{"id":"11531805346","timestamp":"2025-08-18T00:41:23.686487789Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-08-17T23:03:01Z","to":"2025-11-15T23:03:00Z"}
+{"id":"11531805346","timestamp":"2025-08-18T00:41:23.68648856Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-08-17T23:03:01Z","to":"2025-11-15T23:03:00Z"}
+{"id":"11531868232","timestamp":"2025-08-18T00:41:23.686488811Z","domain":"*.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-18T00:00:00Z","to":"2026-09-16T23:59:59Z"}
+{"id":"11531868232","timestamp":"2025-08-18T00:41:23.686489021Z","domain":"ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2025-08-18T00:00:00Z","to":"2026-09-16T23:59:59Z"}
