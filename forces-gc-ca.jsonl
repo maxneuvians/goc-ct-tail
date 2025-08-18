@@ -1541,3 +1541,6 @@
 {"id":"11523084419","timestamp":"2025-08-17T06:16:42.382706197Z","domain":"cato-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-08-17T00:00:00Z","to":"2026-09-15T23:59:59Z"}
 {"id":"11523349490","timestamp":"2025-08-17T07:15:39.879066787Z","domain":"cargo-ops.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-08-17T00:00:00Z","to":"2026-09-15T23:59:59Z"}
 {"id":"11533741113","timestamp":"2025-08-18T04:24:29.611433505Z","domain":"cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-08-18T00:00:00Z","to":"2026-09-16T23:59:59Z"}
+{"id":"11537871933","timestamp":"2025-08-18T12:17:26.79023218Z","domain":"efas-dev.forces.gc.ca","issuer":"SSL.com","from":"2025-08-18T11:19:38Z","to":"2026-08-18T11:28:24Z"}
+{"id":"11537871933","timestamp":"2025-08-18T12:17:26.790232551Z","domain":"efas-test.forces.gc.ca","issuer":"SSL.com","from":"2025-08-18T11:19:38Z","to":"2026-08-18T11:28:24Z"}
+{"id":"11537871933","timestamp":"2025-08-18T12:17:26.790232781Z","domain":"efas-uat.forces.gc.ca","issuer":"SSL.com","from":"2025-08-18T11:19:38Z","to":"2026-08-18T11:28:24Z"}
