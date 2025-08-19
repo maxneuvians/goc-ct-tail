@@ -11238,3 +11238,12 @@
 {"id":"11548991844","timestamp":"2025-08-19T08:16:38.645791317Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-19T06:25:21Z","to":"2025-11-17T06:25:20Z"}
 {"id":"11549032545","timestamp":"2025-08-19T08:16:38.645791547Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-19T06:29:10Z","to":"2025-11-17T06:29:09Z"}
 {"id":"11549032545","timestamp":"2025-08-19T08:16:38.645791818Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-19T06:29:10Z","to":"2025-11-17T06:29:09Z"}
+{"id":"11553077569","timestamp":"2025-08-19T15:16:05.934005983Z","domain":"www.x2x.fm2.canada.ca","issuer":"SSL.com","from":"2025-08-19T14:16:50Z","to":"2026-09-01T10:54:14Z"}
+{"id":"11553077569","timestamp":"2025-08-19T15:16:05.934006253Z","domain":"x2x.fm2.canada.ca","issuer":"SSL.com","from":"2025-08-19T14:16:50Z","to":"2026-09-01T10:54:14Z"}
+{"id":"11553153011","timestamp":"2025-08-19T15:16:05.934006414Z","domain":"*.adf.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-08-19T14:24:20Z","to":"2026-09-19T06:00:00Z"}
+{"id":"11553153011","timestamp":"2025-08-19T15:16:05.934006634Z","domain":"*.blob.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-08-19T14:24:20Z","to":"2026-09-19T06:00:00Z"}
+{"id":"11553153011","timestamp":"2025-08-19T15:16:05.934006704Z","domain":"*.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-08-19T14:24:20Z","to":"2026-09-19T06:00:00Z"}
+{"id":"11553153011","timestamp":"2025-08-19T15:16:05.934007716Z","domain":"*.dfs.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-08-19T14:24:20Z","to":"2026-09-19T06:00:00Z"}
+{"id":"11553153011","timestamp":"2025-08-19T15:16:05.934007806Z","domain":"*.kv.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-08-19T14:24:20Z","to":"2026-09-19T06:00:00Z"}
+{"id":"11553153011","timestamp":"2025-08-19T15:16:05.934007866Z","domain":"*.queue.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-08-19T14:24:20Z","to":"2026-09-19T06:00:00Z"}
+{"id":"11553153011","timestamp":"2025-08-19T15:16:05.934007937Z","domain":"*.table.c.ent.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-08-19T14:24:20Z","to":"2026-09-19T06:00:00Z"}
