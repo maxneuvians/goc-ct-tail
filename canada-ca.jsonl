@@ -11258,3 +11258,6 @@
 {"id":"11561794544","timestamp":"2025-08-20T05:15:56.005063737Z","domain":"*.uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-20T03:36:09Z","to":"2025-11-18T03:36:08Z"}
 {"id":"11561794544","timestamp":"2025-08-20T05:15:56.005064168Z","domain":"uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-20T03:36:09Z","to":"2025-11-18T03:36:08Z"}
 {"id":"11562286521","timestamp":"2025-08-20T06:16:54.764553947Z","domain":"dol-sys.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-08-20T04:23:32Z","to":"2025-11-18T04:23:31Z"}
+{"id":"11565992401","timestamp":"2025-08-20T12:17:21.683606861Z","domain":"climate-modelling.canada.ca","issuer":"SSL.com","from":"2025-08-20T11:42:19Z","to":"2026-09-20T04:00:00Z"}
+{"id":"11565992401","timestamp":"2025-08-20T12:17:21.683607342Z","domain":"eccc-cccma.collab.science.gc.ca","issuer":"SSL.com","from":"2025-08-20T11:42:19Z","to":"2026-09-20T04:00:00Z"}
+{"id":"11565992401","timestamp":"2025-08-20T12:17:21.683607623Z","domain":"modelisation-climatique.canada.ca","issuer":"SSL.com","from":"2025-08-20T11:42:19Z","to":"2026-09-20T04:00:00Z"}
