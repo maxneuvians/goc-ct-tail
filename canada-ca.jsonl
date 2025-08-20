@@ -11255,3 +11255,5 @@
 {"id":"11555829387","timestamp":"2025-08-19T19:15:08.566806253Z","domain":"opencore.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-19T17:56:28Z","to":"2025-11-17T17:56:27Z"}
 {"id":"11555832336","timestamp":"2025-08-19T19:15:08.566806634Z","domain":"grpc.opencore.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-19T17:56:18Z","to":"2025-11-17T17:56:17Z"}
 {"id":"11556573225","timestamp":"2025-08-19T21:15:43.288684051Z","domain":"hpc.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-19T19:12:20Z","to":"2025-11-17T19:12:19Z"}
+{"id":"11561794544","timestamp":"2025-08-20T05:15:56.005063737Z","domain":"*.uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-20T03:36:09Z","to":"2025-11-18T03:36:08Z"}
+{"id":"11561794544","timestamp":"2025-08-20T05:15:56.005064168Z","domain":"uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-20T03:36:09Z","to":"2025-11-18T03:36:08Z"}
