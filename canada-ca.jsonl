@@ -11270,3 +11270,6 @@
 {"id":"11568270607","timestamp":"2025-08-20T16:16:28.763360493Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-20T15:02:24Z","to":"2025-11-18T15:02:23Z"}
 {"id":"11568273982","timestamp":"2025-08-20T16:16:28.763361164Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-20T15:02:49Z","to":"2025-11-18T15:02:48Z"}
 {"id":"11568280867","timestamp":"2025-08-20T16:16:28.763361475Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-20T15:03:07Z","to":"2025-11-18T15:03:06Z"}
+{"id":"11568696728","timestamp":"2025-08-20T17:15:27.749366103Z","domain":"publications.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"SSL.com","from":"2025-08-20T16:37:04Z","to":"2026-09-20T06:00:00Z"}
+{"id":"11568696728","timestamp":"2025-08-20T17:15:27.749366394Z","domain":"publications.gc.ca","issuer":"SSL.com","from":"2025-08-20T16:37:04Z","to":"2026-09-20T06:00:00Z"}
+{"id":"11568696728","timestamp":"2025-08-20T17:15:27.749366554Z","domain":"www.publications.gc.ca","issuer":"SSL.com","from":"2025-08-20T16:37:04Z","to":"2026-09-20T06:00:00Z"}
