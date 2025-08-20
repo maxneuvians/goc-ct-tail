@@ -644,3 +644,4 @@
 {"id":"11485860964","timestamp":"2025-08-14T03:48:06.218652913Z","domain":"v3-eepr-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-14T00:00:00Z","to":"2026-02-14T23:59:59Z"}
 {"id":"11486072825","timestamp":"2025-08-14T04:41:48.722850771Z","domain":"tapx-claimsigner-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-14T00:00:00Z","to":"2026-02-14T23:59:59Z"}
 {"id":"11486175074","timestamp":"2025-08-14T04:41:48.722851061Z","domain":"v3-pbi-pcis-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-14T00:00:00Z","to":"2026-02-14T23:59:59Z"}
+{"id":"11567570728","timestamp":"2025-08-20T15:36:33.941451744Z","domain":"tap-devgcdotd01.dev.t1.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-08-20T14:30:38Z","to":"2026-08-20T04:00:00Z"}
