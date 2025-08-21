@@ -578,3 +578,8 @@
 {"id":"11479632076","timestamp":"2025-08-13T14:47:17.993162976Z","domain":"emilitest.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-08-13T00:00:00Z","to":"2026-08-12T23:59:59Z"}
 {"id":"11505475177","timestamp":"2025-08-15T19:43:20.985750816Z","domain":"www6.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-08-15T00:00:00Z","to":"2026-08-14T23:59:59Z"}
 {"id":"11539403590","timestamp":"2025-08-18T14:47:26.321190915Z","domain":"www4.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-08-18T00:00:00Z","to":"2026-08-17T23:59:59Z"}
+{"id":"11580610112","timestamp":"2025-08-21T15:44:56.579949533Z","domain":"ot10-gateway-internal-passerelle-interne.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-08-21T00:00:00Z","to":"2026-08-20T23:59:59Z"}
+{"id":"11580802104","timestamp":"2025-08-21T15:44:56.579949893Z","domain":"aouat10-gateway-passerelle.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-08-21T00:00:00Z","to":"2026-08-20T23:59:59Z"}
+{"id":"11580870830","timestamp":"2025-08-21T15:44:56.579950144Z","domain":"uat10-gateway-internal-passerelle-interne.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-08-21T00:00:00Z","to":"2026-08-20T23:59:59Z"}
+{"id":"11580988363","timestamp":"2025-08-21T15:44:56.579950344Z","domain":"test10-gateway-internal-passerelle.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-08-21T00:00:00Z","to":"2026-08-20T23:59:59Z"}
+{"id":"11581025153","timestamp":"2025-08-21T15:44:56.579950444Z","domain":"aouat10-gateway-internal-passerelle-interne.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-08-21T00:00:00Z","to":"2026-08-20T23:59:59Z"}
