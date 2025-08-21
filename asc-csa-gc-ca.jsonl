@@ -56,3 +56,6 @@
 {"id":"11386334590","timestamp":"2025-08-05T17:47:04.685437903Z","domain":"citrix.asc-csa.gc.ca","issuer":"SSL.com","from":"2025-08-05T17:28:44Z","to":"2026-08-07T04:00:00Z"}
 {"id":"11386334590","timestamp":"2025-08-05T17:47:04.685438284Z","domain":"www.citrix.asc-csa.gc.ca","issuer":"SSL.com","from":"2025-08-05T17:28:44Z","to":"2026-08-07T04:00:00Z"}
 {"id":"11386430867","timestamp":"2025-08-05T18:52:20.236108466Z","domain":"proxy.asc-csa.gc.ca","issuer":"SSL.com","from":"2025-08-05T17:41:30Z","to":"2025-11-17T13:47:03Z"}
+{"id":"11584040161","timestamp":"2025-08-21T22:44:37.27781507Z","domain":"*.asc-csa.gc.ca","issuer":"SSL.com","from":"2025-08-21T21:38:11Z","to":"2026-09-21T04:00:00Z"}
+{"id":"11584040161","timestamp":"2025-08-21T22:44:37.277815591Z","domain":"asc-csa.gc.ca","issuer":"SSL.com","from":"2025-08-21T21:38:11Z","to":"2026-09-21T04:00:00Z"}
+{"id":"11584040161","timestamp":"2025-08-21T22:44:37.277816302Z","domain":"csa-webvpn.csa.space.gc.ca","issuer":"SSL.com","from":"2025-08-21T21:38:11Z","to":"2026-09-21T04:00:00Z"}
