@@ -592,3 +592,5 @@
 {"id":"11594441641","timestamp":"2025-08-22T17:44:34.263547212Z","domain":"pt10-gateway-passerelle.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-08-22T00:00:00Z","to":"2026-08-21T23:59:59Z"}
 {"id":"11594689207","timestamp":"2025-08-22T18:47:44.598053869Z","domain":"uat10-gateway-passerelle.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-08-22T00:00:00Z","to":"2026-08-21T23:59:59Z"}
 {"id":"11595505381","timestamp":"2025-08-22T20:44:49.766079758Z","domain":"uatscr10hbt-cms.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-08-22T00:00:00Z","to":"2026-08-21T23:59:59Z"}
+{"id":"11606491836","timestamp":"2025-08-23T19:43:26.901763995Z","domain":"*.cmhc-schl.gc.ca","issuer":"Google Trust Services","from":"2025-08-23T18:35:13Z","to":"2025-11-21T19:33:13Z"}
+{"id":"11606491836","timestamp":"2025-08-23T19:43:26.901764275Z","domain":"cmhc-schl.gc.ca","issuer":"Google Trust Services","from":"2025-08-23T18:35:13Z","to":"2025-11-21T19:33:13Z"}
