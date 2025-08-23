@@ -11299,3 +11299,8 @@
 {"id":"11598397126","timestamp":"2025-08-23T02:39:38.630675799Z","domain":"openwebui.sandbox.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-08-23T00:00:00Z","to":"2026-02-23T23:59:59Z"}
 {"id":"11598397173","timestamp":"2025-08-23T02:39:38.630676691Z","domain":"cv-parser.dev.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-08-23T00:00:00Z","to":"2026-02-23T23:59:59Z"}
 {"id":"11598419603","timestamp":"2025-08-23T02:39:38.630676952Z","domain":"ebidm.sandbox.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-08-23T00:00:00Z","to":"2026-02-23T23:59:59Z"}
+{"id":"11604951834","timestamp":"2025-08-23T16:15:52.637258846Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-23T15:03:15Z","to":"2025-11-21T15:03:14Z"}
+{"id":"11604954655","timestamp":"2025-08-23T16:15:52.637259427Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-23T15:02:41Z","to":"2025-11-21T15:02:40Z"}
+{"id":"11604955218","timestamp":"2025-08-23T16:15:52.637259757Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-23T15:02:20Z","to":"2025-11-21T15:02:19Z"}
+{"id":"11604959499","timestamp":"2025-08-23T16:15:52.637260048Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-23T15:03:32Z","to":"2025-11-21T15:03:31Z"}
+{"id":"11604963951","timestamp":"2025-08-23T16:15:52.637260168Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-23T15:02:58Z","to":"2025-11-21T15:02:57Z"}
