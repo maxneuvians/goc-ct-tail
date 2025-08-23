@@ -11304,3 +11304,5 @@
 {"id":"11604955218","timestamp":"2025-08-23T16:15:52.637259757Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-23T15:02:20Z","to":"2025-11-21T15:02:19Z"}
 {"id":"11604959499","timestamp":"2025-08-23T16:15:52.637260048Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-23T15:03:32Z","to":"2025-11-21T15:03:31Z"}
 {"id":"11604963951","timestamp":"2025-08-23T16:15:52.637260168Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-23T15:02:58Z","to":"2025-11-21T15:02:57Z"}
+{"id":"11606432291","timestamp":"2025-08-23T20:15:44.598587201Z","domain":"resource-catalogue.ws-arctic.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-23T18:28:48Z","to":"2025-11-21T18:28:47Z"}
+{"id":"11606439730","timestamp":"2025-08-23T20:15:44.598587572Z","domain":"mlflow.ws-arctic.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-23T18:28:49Z","to":"2025-11-21T18:28:48Z"}
