@@ -278,3 +278,5 @@
 {"id":"11531807939","timestamp":"2025-08-18T00:41:25.196535244Z","domain":"dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-08-17T23:03:58Z","to":"2025-11-15T23:03:57Z"}
 {"id":"11542145101","timestamp":"2025-08-18T20:15:59.183292062Z","domain":"entrusttoken-jetonentrust.tc.gc.ca","issuer":"SSL.com","from":"2025-08-18T19:09:25Z","to":"2026-09-18T04:00:00Z"}
 {"id":"11614306307","timestamp":"2025-08-24T13:17:22.137797147Z","domain":"medv-vdem-old.tc.gc.ca","issuer":"Google Trust Services","from":"2025-08-24T11:49:34Z","to":"2025-11-22T11:49:33Z"}
+{"id":"11619309156","timestamp":"2025-08-25T00:37:59.674116157Z","domain":"*.acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-08-24T23:03:55Z","to":"2025-11-22T23:03:54Z"}
+{"id":"11619309156","timestamp":"2025-08-25T00:37:59.674116588Z","domain":"acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-08-24T23:03:55Z","to":"2025-11-22T23:03:54Z"}
