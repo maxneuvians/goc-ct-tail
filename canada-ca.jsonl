@@ -11330,3 +11330,8 @@
 {"id":"11626862443","timestamp":"2025-08-25T15:15:56.70329745Z","domain":"portal.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-25T13:27:11Z","to":"2025-11-23T13:27:10Z"}
 {"id":"11627637154","timestamp":"2025-08-25T16:16:21.35693535Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-25T15:02:39Z","to":"2025-11-23T15:02:38Z"}
 {"id":"11627648240","timestamp":"2025-08-25T16:16:21.356935661Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-25T15:03:07Z","to":"2025-11-23T15:03:06Z"}
+{"id":"11628424774","timestamp":"2025-08-25T18:16:45.521288757Z","domain":"pesticide-registrant.canada.ca","issuer":"SSL.com","from":"2025-08-25T17:31:26Z","to":"2026-09-25T04:00:00Z"}
+{"id":"11628424774","timestamp":"2025-08-25T18:16:45.521289208Z","domain":"pesticide-titulaire.canada.ca","issuer":"SSL.com","from":"2025-08-25T17:31:26Z","to":"2026-09-25T04:00:00Z"}
+{"id":"11628424774","timestamp":"2025-08-25T18:16:45.521289989Z","domain":"www.pesticide-registrant.canada.ca","issuer":"SSL.com","from":"2025-08-25T17:31:26Z","to":"2026-09-25T04:00:00Z"}
+{"id":"11628475735","timestamp":"2025-08-25T18:16:45.52129031Z","domain":"pesticide-titulaire.canada.ca","issuer":"SSL.com","from":"2025-08-25T17:36:35Z","to":"2026-09-25T04:00:00Z"}
+{"id":"11628475735","timestamp":"2025-08-25T18:16:45.52129041Z","domain":"www.pesticide-titulaire.canada.ca","issuer":"SSL.com","from":"2025-08-25T17:36:35Z","to":"2026-09-25T04:00:00Z"}
