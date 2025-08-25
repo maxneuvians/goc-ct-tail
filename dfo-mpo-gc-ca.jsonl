@@ -1057,3 +1057,11 @@
 {"id":"11618048557","timestamp":"2025-08-24T21:25:05.139194632Z","domain":"api.test.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-08-24T20:06:58Z","to":"2025-11-22T20:06:57Z"}
 {"id":"11618048557","timestamp":"2025-08-24T21:25:05.139195073Z","domain":"api.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-08-24T20:06:58Z","to":"2025-11-22T20:06:57Z"}
 {"id":"11619463789","timestamp":"2025-08-25T00:39:58.051507315Z","domain":"prediction.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-08-24T23:22:13Z","to":"2025-11-22T23:22:12Z"}
+{"id":"11629125926","timestamp":"2025-08-25T19:24:04.641978153Z","domain":"*.dfo-dev-ase01.ase.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-08-25T17:53:25Z","to":"2025-11-23T17:53:24Z"}
+{"id":"11629130510","timestamp":"2025-08-25T19:24:04.641978694Z","domain":"*.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-08-25T17:54:08Z","to":"2025-11-23T17:54:07Z"}
+{"id":"11629130510","timestamp":"2025-08-25T19:24:04.641979005Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-08-25T17:54:08Z","to":"2025-11-23T17:54:07Z"}
+{"id":"11629144985","timestamp":"2025-08-25T19:24:04.641979255Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-08-25T17:54:39Z","to":"2025-11-23T17:54:38Z"}
+{"id":"11629197786","timestamp":"2025-08-25T19:24:04.641979376Z","domain":"*.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-08-25T18:02:03Z","to":"2025-11-23T18:02:02Z"}
+{"id":"11629197786","timestamp":"2025-08-25T19:24:04.641980478Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-08-25T18:02:03Z","to":"2025-11-23T18:02:02Z"}
+{"id":"11629197891","timestamp":"2025-08-25T19:24:04.641980578Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-08-25T18:02:06Z","to":"2025-11-23T18:02:05Z"}
+{"id":"11629198136","timestamp":"2025-08-25T19:24:04.641980698Z","domain":"*.dfo-dev-ase01.ase.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-08-25T18:02:09Z","to":"2025-11-23T18:02:08Z"}
