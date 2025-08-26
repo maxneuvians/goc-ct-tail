@@ -11362,3 +11362,37 @@
 {"id":"11640515262","timestamp":"2025-08-26T18:16:37.400507724Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-26T16:55:15Z","to":"2025-11-24T16:55:14Z"}
 {"id":"11640515262","timestamp":"2025-08-26T18:16:37.400508015Z","domain":"p77sh.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T16:55:15Z","to":"2025-11-24T16:55:14Z"}
 {"id":"11640531940","timestamp":"2025-08-26T18:16:37.400508145Z","domain":"rpss-dev-backend.apim-dev.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-08-26T00:00:00Z","to":"2026-02-26T23:59:59Z"}
+{"id":"11640720748","timestamp":"2025-08-26T19:14:54.363198512Z","domain":"qa-admin.pch-financement.canada.ca","issuer":"SSL.com","from":"2025-08-26T18:09:20Z","to":"2026-08-12T12:25:31Z"}
+{"id":"11640720748","timestamp":"2025-08-26T19:14:54.363199323Z","domain":"qa-admin.pch-funding.canada.ca","issuer":"SSL.com","from":"2025-08-26T18:09:20Z","to":"2026-08-12T12:25:31Z"}
+{"id":"11640720748","timestamp":"2025-08-26T19:14:54.363199564Z","domain":"qa.pch-financement.canada.ca","issuer":"SSL.com","from":"2025-08-26T18:09:20Z","to":"2026-08-12T12:25:31Z"}
+{"id":"11640720748","timestamp":"2025-08-26T19:14:54.363199844Z","domain":"qa.pch-funding.canada.ca","issuer":"SSL.com","from":"2025-08-26T18:09:20Z","to":"2026-08-12T12:25:31Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363200065Z","domain":"flood-risk-portal.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363201688Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363201758Z","domain":"p100za.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363201838Z","domain":"p101ya.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363201908Z","domain":"p102xa.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.36320291Z","domain":"p75uh.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.36320298Z","domain":"p76th.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363203061Z","domain":"p77sh.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363203141Z","domain":"p78rh.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363203221Z","domain":"p79qh.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363203291Z","domain":"p80zi.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363203361Z","domain":"p81yi.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363203441Z","domain":"p82xi.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363203511Z","domain":"p83wi.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363204353Z","domain":"p84vi.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363204423Z","domain":"p85ui.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363204493Z","domain":"p86ti.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363204563Z","domain":"p87si.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363204644Z","domain":"p88ri.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363204713Z","domain":"p89qi.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363204794Z","domain":"p90zj.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363204864Z","domain":"p91yj.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363204934Z","domain":"p92xj.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363205004Z","domain":"p93wj.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363205074Z","domain":"p94vj.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363205154Z","domain":"p95uj.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363205225Z","domain":"p96tj.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363205305Z","domain":"p97sj.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363205375Z","domain":"p98rj.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
+{"id":"11640986658","timestamp":"2025-08-26T19:14:54.363205455Z","domain":"p99qj.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T17:52:26Z","to":"2025-11-24T17:52:25Z"}
