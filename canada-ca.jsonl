@@ -11336,3 +11336,7 @@
 {"id":"11628475735","timestamp":"2025-08-25T18:16:45.52129031Z","domain":"pesticide-titulaire.canada.ca","issuer":"SSL.com","from":"2025-08-25T17:36:35Z","to":"2026-09-25T04:00:00Z"}
 {"id":"11628475735","timestamp":"2025-08-25T18:16:45.52129041Z","domain":"www.pesticide-titulaire.canada.ca","issuer":"SSL.com","from":"2025-08-25T17:36:35Z","to":"2026-09-25T04:00:00Z"}
 {"id":"11630161169","timestamp":"2025-08-25T21:15:33.88009481Z","domain":"ces-docs.nrcan-rncan.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-08-25T00:00:00Z","to":"2026-02-25T23:59:59Z"}
+{"id":"11635082448","timestamp":"2025-08-26T08:16:51.159871727Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-26T06:25:17Z","to":"2025-11-24T06:25:16Z"}
+{"id":"11635082448","timestamp":"2025-08-26T08:16:51.159872028Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-26T06:25:17Z","to":"2025-11-24T06:25:16Z"}
+{"id":"11635147622","timestamp":"2025-08-26T08:16:51.159872238Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-26T06:31:47Z","to":"2025-11-24T06:31:46Z"}
+{"id":"11635147622","timestamp":"2025-08-26T08:16:51.159872458Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-26T06:31:47Z","to":"2025-11-24T06:31:46Z"}
