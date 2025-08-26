@@ -11357,3 +11357,8 @@
 {"id":"11639741443","timestamp":"2025-08-26T17:15:29.854643243Z","domain":"dev-admin.pch-funding.canada.ca","issuer":"DigiCert","from":"2025-08-26T00:00:00Z","to":"2026-02-26T23:59:59Z"}
 {"id":"11639764250","timestamp":"2025-08-26T17:15:29.854643403Z","domain":"dev-admin.pch-financement.canada.ca","issuer":"DigiCert","from":"2025-08-26T00:00:00Z","to":"2026-02-26T23:59:59Z"}
 {"id":"11640059426","timestamp":"2025-08-26T17:15:29.854643483Z","domain":"dam.explorer-marche-travail.service.canada.ca","issuer":"DigiCert","from":"2025-08-26T00:00:00Z","to":"2026-02-26T23:59:59Z"}
+{"id":"11640219079","timestamp":"2025-08-26T18:16:37.400506973Z","domain":"conform.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-08-26T00:00:00Z","to":"2026-02-26T23:59:59Z"}
+{"id":"11640515262","timestamp":"2025-08-26T18:16:37.400507424Z","domain":"flood-risk-portal.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T16:55:15Z","to":"2025-11-24T16:55:14Z"}
+{"id":"11640515262","timestamp":"2025-08-26T18:16:37.400507724Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-26T16:55:15Z","to":"2025-11-24T16:55:14Z"}
+{"id":"11640515262","timestamp":"2025-08-26T18:16:37.400508015Z","domain":"p77sh.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-26T16:55:15Z","to":"2025-11-24T16:55:14Z"}
+{"id":"11640531940","timestamp":"2025-08-26T18:16:37.400508145Z","domain":"rpss-dev-backend.apim-dev.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-08-26T00:00:00Z","to":"2026-02-26T23:59:59Z"}
