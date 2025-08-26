@@ -647,3 +647,5 @@
 {"id":"11567570728","timestamp":"2025-08-20T15:36:33.941451744Z","domain":"tap-devgcdotd01.dev.t1.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-08-20T14:30:38Z","to":"2026-08-20T04:00:00Z"}
 {"id":"11628184042","timestamp":"2025-08-25T17:34:51.647559769Z","domain":"tih.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-25T00:00:00Z","to":"2026-02-25T23:59:59Z"}
 {"id":"11640741989","timestamp":"2025-08-26T18:40:09.946750585Z","domain":"v3-cwf-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-26T00:00:00Z","to":"2026-02-26T23:59:59Z"}
+{"id":"11641090913","timestamp":"2025-08-26T19:33:25.209808834Z","domain":"v3-calipersplusapi-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-26T00:00:00Z","to":"2026-02-26T23:59:59Z"}
+{"id":"11641210296","timestamp":"2025-08-26T19:33:25.209809385Z","domain":"v3-pbi-trd-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-26T00:00:00Z","to":"2026-02-26T23:59:59Z"}
