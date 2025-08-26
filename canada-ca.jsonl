@@ -11340,3 +11340,7 @@
 {"id":"11635082448","timestamp":"2025-08-26T08:16:51.159872028Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-26T06:25:17Z","to":"2025-11-24T06:25:16Z"}
 {"id":"11635147622","timestamp":"2025-08-26T08:16:51.159872238Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-26T06:31:47Z","to":"2025-11-24T06:31:46Z"}
 {"id":"11635147622","timestamp":"2025-08-26T08:16:51.159872458Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-08-26T06:31:47Z","to":"2025-11-24T06:31:46Z"}
+{"id":"11637256700","timestamp":"2025-08-26T12:17:32.888931424Z","domain":"test-gc-lingua.canada.ca","issuer":"SSL.com","from":"2025-08-26T11:14:27Z","to":"2026-09-23T07:49:49Z"}
+{"id":"11637256700","timestamp":"2025-08-26T12:17:32.888931775Z","domain":"www.test-gc-lingua.canada.ca","issuer":"SSL.com","from":"2025-08-26T11:14:27Z","to":"2026-09-23T07:49:49Z"}
+{"id":"11637294072","timestamp":"2025-08-26T12:17:32.888932146Z","domain":"test-base-gc-lingua.canada.ca","issuer":"SSL.com","from":"2025-08-26T11:17:22Z","to":"2026-09-23T07:39:27Z"}
+{"id":"11637294072","timestamp":"2025-08-26T12:17:32.888932376Z","domain":"www.test-base-gc-lingua.canada.ca","issuer":"SSL.com","from":"2025-08-26T11:17:22Z","to":"2026-09-23T07:39:27Z"}
