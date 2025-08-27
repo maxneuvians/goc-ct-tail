@@ -2786,6 +2786,15 @@
       "SSL.com": 12,
       "DigiCert": 3,
       "Let's Encrypt": 4
+    },
+    "2025-08-26": {
+      "Let's Encrypt": 43,
+      "SSL.com": 8,
+      "Google Trust Services": 1,
+      "DigiCert": 14
+    },
+    "2025-08-27": {
+      "DigiCert": 8
     }
   },
   "errors": []

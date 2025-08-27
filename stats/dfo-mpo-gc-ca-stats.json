@@ -740,7 +740,11 @@
       "Let's Encrypt": 8
     },
     "2025-08-26": {
-      "Let's Encrypt": 2
+      "Let's Encrypt": 3,
+      "DigiCert": 1
+    },
+    "2025-08-27": {
+      "DigiCert": 1
     }
   },
   "errors": []
