@@ -11421,3 +11421,9 @@
 {"id":"11649971905","timestamp":"2025-08-27T14:15:39.643923502Z","domain":"rp2-oidc.id.alpha.canada.ca","issuer":"DigiCert","from":"2025-08-27T00:00:00Z","to":"2026-02-27T23:59:59Z"}
 {"id":"11650174668","timestamp":"2025-08-27T14:15:39.643924014Z","domain":"rpss-qa-backend.apim-dev.tbs-sct.canada.ca","issuer":"DigiCert","from":"2025-08-27T00:00:00Z","to":"2026-02-27T23:59:59Z"}
 {"id":"11650673679","timestamp":"2025-08-27T15:15:54.050176001Z","domain":"wiki.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-08-27T00:00:00Z","to":"2026-02-27T23:59:59Z"}
+{"id":"11650864289","timestamp":"2025-08-27T16:16:22.979723055Z","domain":"flood-risk-portal.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-08-27T14:28:03Z","to":"2025-11-25T14:28:02Z"}
+{"id":"11650864289","timestamp":"2025-08-27T16:16:22.979723406Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-08-27T14:28:03Z","to":"2025-11-25T14:28:02Z"}
+{"id":"11650975850","timestamp":"2025-08-27T16:16:22.979723616Z","domain":"oidc-provider.id.alpha.canada.ca","issuer":"DigiCert","from":"2025-08-27T00:00:00Z","to":"2026-02-27T23:59:59Z"}
+{"id":"11651164604","timestamp":"2025-08-27T16:16:22.979723797Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-27T15:02:25Z","to":"2025-11-25T15:02:24Z"}
+{"id":"11651168809","timestamp":"2025-08-27T16:16:22.979723897Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-27T15:02:47Z","to":"2025-11-25T15:02:46Z"}
+{"id":"11651169823","timestamp":"2025-08-27T16:16:22.979724738Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-27T15:03:07Z","to":"2025-11-25T15:03:06Z"}
