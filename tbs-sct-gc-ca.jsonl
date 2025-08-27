@@ -662,3 +662,6 @@
 {"id":"11649882734","timestamp":"2025-08-27T14:36:41.850404629Z","domain":"selfid-autoid-api-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-27T00:00:00Z","to":"2026-02-27T23:59:59Z"}
 {"id":"11650086171","timestamp":"2025-08-27T14:36:41.850405Z","domain":"selfid-autoid-api-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-27T00:00:00Z","to":"2026-02-27T23:59:59Z"}
 {"id":"11650352645","timestamp":"2025-08-27T14:36:41.85040522Z","domain":"v3-pbi-trd-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-27T00:00:00Z","to":"2026-02-27T23:59:59Z"}
+{"id":"11650463149","timestamp":"2025-08-27T15:35:33.450343471Z","domain":"selfid-autoid-api-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-27T00:00:00Z","to":"2026-02-27T23:59:59Z"}
+{"id":"11650569343","timestamp":"2025-08-27T15:35:33.450343782Z","domain":"tap-devgcdotd01.dev.t1.tbs-sct.gc.ca","issuer":"SSL.com","from":"2025-08-27T14:45:16Z","to":"2026-09-27T04:00:00Z"}
+{"id":"11650874632","timestamp":"2025-08-27T15:35:33.450344022Z","domain":"v3-pbi-pspmr-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-08-27T00:00:00Z","to":"2026-02-27T23:59:59Z"}
