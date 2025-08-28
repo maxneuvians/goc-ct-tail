@@ -219,3 +219,6 @@
 {"id":"11578881445","timestamp":"2025-08-21T13:04:37.50706118Z","domain":"www.tcc-cci.ca","issuer":"Sectigo","from":"2025-08-21T00:00:00Z","to":"2026-09-20T23:59:59Z"}
 {"id":"11578881445","timestamp":"2025-08-21T13:04:37.50706126Z","domain":"www.tcc-cci.gc.ca","issuer":"Sectigo","from":"2025-08-21T00:00:00Z","to":"2026-09-20T23:59:59Z"}
 {"id":"11578944705","timestamp":"2025-08-21T13:04:37.50706136Z","domain":"wifi.cas-satj.gc.ca","issuer":"Sectigo","from":"2025-08-21T00:00:00Z","to":"2026-09-21T23:59:59Z"}
+{"id":"11665169239","timestamp":"2025-08-28T17:54:09.016083308Z","domain":"captive.cas-satj.gc.ca","issuer":"Sectigo","from":"2025-08-28T00:00:00Z","to":"2026-09-28T23:59:59Z"}
+{"id":"11665169239","timestamp":"2025-08-28T17:54:09.016083649Z","domain":"cas-cdc-clearp1.cas-satj.gc.ca","issuer":"Sectigo","from":"2025-08-28T00:00:00Z","to":"2026-09-28T23:59:59Z"}
+{"id":"11665169239","timestamp":"2025-08-28T17:54:09.016083889Z","domain":"cas-cdc-clearp2.cas-satj.gc.ca","issuer":"Sectigo","from":"2025-08-28T00:00:00Z","to":"2026-09-28T23:59:59Z"}
