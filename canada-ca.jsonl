@@ -11445,3 +11445,9 @@
 {"id":"11666956456","timestamp":"2025-08-28T21:15:37.469488989Z","domain":"test.canada.ca","issuer":"Let's Encrypt","from":"2025-08-28T19:38:39Z","to":"2025-11-26T19:38:38Z"}
 {"id":"11672335363","timestamp":"2025-08-29T06:16:55.249154019Z","domain":"meteo-spatiale.canada.ca","issuer":"Sectigo","from":"2025-08-29T00:00:00Z","to":"2025-11-27T23:59:59Z"}
 {"id":"11672335363","timestamp":"2025-08-29T06:16:55.24915456Z","domain":"space-weather.canada.ca","issuer":"Sectigo","from":"2025-08-29T00:00:00Z","to":"2025-11-27T23:59:59Z"}
+{"id":"11678098563","timestamp":"2025-08-29T16:16:17.278328286Z","domain":"controle-antiparasitaire.canada.ca","issuer":"SSL.com","from":"2025-08-29T15:41:32Z","to":"2026-09-05T04:00:00Z"}
+{"id":"11678098563","timestamp":"2025-08-29T16:16:17.278328717Z","domain":"pest-management.canada.ca","issuer":"SSL.com","from":"2025-08-29T15:41:32Z","to":"2026-09-05T04:00:00Z"}
+{"id":"11678187699","timestamp":"2025-08-29T16:16:17.278329057Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-29T15:02:38Z","to":"2025-11-27T15:02:37Z"}
+{"id":"11678190148","timestamp":"2025-08-29T16:16:17.278332353Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-29T15:02:57Z","to":"2025-11-27T15:02:56Z"}
+{"id":"11678192050","timestamp":"2025-08-29T16:16:17.278332493Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-29T15:03:13Z","to":"2025-11-27T15:03:12Z"}
+{"id":"11678197829","timestamp":"2025-08-29T16:16:17.278334016Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-29T15:03:30Z","to":"2025-11-27T15:03:29Z"}
