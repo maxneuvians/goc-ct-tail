@@ -11456,3 +11456,8 @@
 {"id":"11679490354","timestamp":"2025-08-29T19:14:55.338344635Z","domain":"mx51.canada.ca","issuer":"SSL.com","from":"2025-08-29T18:23:29Z","to":"2026-09-29T04:00:00Z"}
 {"id":"11684617867","timestamp":"2025-08-30T05:15:13.55375361Z","domain":"diffusion-cnrc.canada.ca","issuer":"Let's Encrypt","from":"2025-08-30T03:26:09Z","to":"2025-11-28T03:26:08Z"}
 {"id":"11684620225","timestamp":"2025-08-30T05:15:13.55375396Z","domain":"outreach-nrc.canada.ca","issuer":"Let's Encrypt","from":"2025-08-30T03:26:12Z","to":"2025-11-28T03:26:11Z"}
+{"id":"11691134087","timestamp":"2025-08-30T16:15:56.727798417Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-30T15:02:23Z","to":"2025-11-28T15:02:22Z"}
+{"id":"11691136964","timestamp":"2025-08-30T16:15:56.727798888Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-30T15:02:42Z","to":"2025-11-28T15:02:41Z"}
+{"id":"11691142417","timestamp":"2025-08-30T16:15:56.727799199Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-30T15:03:17Z","to":"2025-11-28T15:03:16Z"}
+{"id":"11691146564","timestamp":"2025-08-30T16:15:56.727799479Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-30T15:03:00Z","to":"2025-11-28T15:02:59Z"}
+{"id":"11691149325","timestamp":"2025-08-30T16:15:56.727799589Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-08-30T15:03:35Z","to":"2025-11-28T15:03:34Z"}
