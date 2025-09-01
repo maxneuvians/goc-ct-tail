@@ -222,3 +222,5 @@
 {"id":"11665169239","timestamp":"2025-08-28T17:54:09.016083308Z","domain":"captive.cas-satj.gc.ca","issuer":"Sectigo","from":"2025-08-28T00:00:00Z","to":"2026-09-28T23:59:59Z"}
 {"id":"11665169239","timestamp":"2025-08-28T17:54:09.016083649Z","domain":"cas-cdc-clearp1.cas-satj.gc.ca","issuer":"Sectigo","from":"2025-08-28T00:00:00Z","to":"2026-09-28T23:59:59Z"}
 {"id":"11665169239","timestamp":"2025-08-28T17:54:09.016083889Z","domain":"cas-cdc-clearp2.cas-satj.gc.ca","issuer":"Sectigo","from":"2025-08-28T00:00:00Z","to":"2026-09-28T23:59:59Z"}
+{"id":"11717856189","timestamp":"2025-09-01T22:54:09.695218612Z","domain":"service.cas-satj.gc.ca","issuer":"Let's Encrypt","from":"2025-09-01T20:48:10Z","to":"2025-11-30T20:48:09Z"}
+{"id":"11717856189","timestamp":"2025-09-01T22:54:09.695219343Z","domain":"services.cas-satj.gc.ca","issuer":"Let's Encrypt","from":"2025-09-01T20:48:10Z","to":"2025-11-30T20:48:09Z"}
