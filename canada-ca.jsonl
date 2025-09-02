@@ -11491,3 +11491,11 @@
 {"id":"11723861725","timestamp":"2025-09-02T10:15:57.496843783Z","domain":"canchat.uat.ibm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T09:02:52Z","to":"2025-12-01T09:02:51Z"}
 {"id":"11723916775","timestamp":"2025-09-02T10:15:57.496843923Z","domain":"canchat.dev.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T09:10:19Z","to":"2025-12-01T09:10:18Z"}
 {"id":"11724020962","timestamp":"2025-09-02T11:15:10.64314711Z","domain":"canchat.uat.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T09:22:16Z","to":"2025-12-01T09:22:15Z"}
+{"id":"11726789279","timestamp":"2025-09-02T16:16:26.802590174Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T15:02:22Z","to":"2025-12-01T15:02:21Z"}
+{"id":"11726792710","timestamp":"2025-09-02T16:16:26.802590795Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T15:02:41Z","to":"2025-12-01T15:02:40Z"}
+{"id":"11726794791","timestamp":"2025-09-02T16:16:26.802591486Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T15:02:58Z","to":"2025-12-01T15:02:57Z"}
+{"id":"11726797259","timestamp":"2025-09-02T16:16:26.802591787Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T15:03:16Z","to":"2025-12-01T15:03:15Z"}
+{"id":"11726798955","timestamp":"2025-09-02T16:16:26.802591907Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T15:03:34Z","to":"2025-12-01T15:03:33Z"}
+{"id":"11726812944","timestamp":"2025-09-02T16:16:26.802592909Z","domain":"dol-prod.prod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T15:05:46Z","to":"2025-12-01T15:05:45Z"}
+{"id":"11726832459","timestamp":"2025-09-02T16:16:26.802593019Z","domain":"federal-organizations.canada.ca","issuer":"SSL.com","from":"2025-09-02T15:57:59Z","to":"2026-09-02T16:07:16Z"}
+{"id":"11726832459","timestamp":"2025-09-02T16:16:26.802593129Z","domain":"organisations-federales.canada.ca","issuer":"SSL.com","from":"2025-09-02T15:57:59Z","to":"2026-09-02T16:07:16Z"}
