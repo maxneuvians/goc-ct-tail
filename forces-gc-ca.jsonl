@@ -1567,3 +1567,5 @@
 {"id":"11649729119","timestamp":"2025-08-27T14:15:39.309809058Z","domain":"api.admin.cbr-rcb.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-08-27T00:00:00Z","to":"2026-09-25T23:59:59Z"}
 {"id":"11712270073","timestamp":"2025-09-01T10:16:17.32730199Z","domain":"www.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-09-01T09:01:41Z","to":"2025-11-30T09:01:40Z"}
 {"id":"11712270251","timestamp":"2025-09-01T10:16:17.32730235Z","domain":"bib.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-09-01T09:01:41Z","to":"2025-11-30T09:01:40Z"}
+{"id":"11726863987","timestamp":"2025-09-02T16:16:27.075503506Z","domain":"cafoap-pclfac.forces.gc.ca","issuer":"SSL.com","from":"2025-09-02T16:00:31Z","to":"2026-09-20T13:10:09Z"}
+{"id":"11726863987","timestamp":"2025-09-02T16:16:27.075503937Z","domain":"www.cafoap-pclfac.forces.gc.ca","issuer":"SSL.com","from":"2025-09-02T16:00:31Z","to":"2026-09-20T13:10:09Z"}
