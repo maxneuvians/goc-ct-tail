@@ -75,3 +75,17 @@
 {"id":"10202208111","timestamp":"2025-04-23T15:54:11.500137704Z","domain":"portal-portail.cta-otc.gc.ca","issuer":"SSL.com","from":"2025-04-23T15:18:45Z","to":"2026-05-23T04:00:00Z"}
 {"id":"10392328848","timestamp":"2025-05-12T15:54:20.869926146Z","domain":"services-e-services.otc-cta.gc.ca","issuer":"SSL.com","from":"2025-05-12T14:52:59Z","to":"2026-06-12T04:00:00Z"}
 {"id":"10392328848","timestamp":"2025-05-12T15:54:20.869927017Z","domain":"www.services-e-services.otc-cta.gc.ca","issuer":"SSL.com","from":"2025-05-12T14:52:59Z","to":"2026-06-12T04:00:00Z"}
+{"id":"11727787299","timestamp":"2025-09-02T18:54:03.763340479Z","domain":"oci-bec.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11727787299","timestamp":"2025-09-02T18:54:03.763341Z","domain":"ocol-clo.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11727787299","timestamp":"2025-09-02T18:54:03.763341341Z","domain":"oec.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11727787299","timestamp":"2025-09-02T18:54:03.763341632Z","domain":"officiallanguages.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11727787299","timestamp":"2025-09-02T18:54:03.763341742Z","domain":"ohof-nsna.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11727787299","timestamp":"2025-09-02T18:54:03.763342743Z","domain":"ombud.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11727787299","timestamp":"2025-09-02T18:54:03.763342844Z","domain":"ombudsman.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11727787299","timestamp":"2025-09-02T18:54:03.763342954Z","domain":"ombudsman-veterans.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11727787299","timestamp":"2025-09-02T18:54:03.763343064Z","domain":"opo-boa.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11727787299","timestamp":"2025-09-02T18:54:03.763343976Z","domain":"opo.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11727787299","timestamp":"2025-09-02T18:54:03.763344076Z","domain":"otc-cta.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11727787299","timestamp":"2025-09-02T18:54:03.763344176Z","domain":"oto-boc.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11727787299","timestamp":"2025-09-02T18:54:03.763344276Z","domain":"ou-bja.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11727787299","timestamp":"2025-09-02T18:54:03.763344366Z","domain":"ourhealthourfuture.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
