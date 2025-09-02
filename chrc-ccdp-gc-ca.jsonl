@@ -87,3 +87,6 @@
 {"id":"11619382440","timestamp":"2025-08-25T01:04:01.813216095Z","domain":"chrc-ccdp.gc.ca","issuer":"Let's Encrypt","from":"2025-08-24T23:12:12Z","to":"2025-11-22T23:12:11Z"}
 {"id":"11619382440","timestamp":"2025-08-25T01:04:01.813216365Z","domain":"www.accessibilitychrc.ca","issuer":"Let's Encrypt","from":"2025-08-24T23:12:12Z","to":"2025-11-22T23:12:11Z"}
 {"id":"11619382440","timestamp":"2025-08-25T01:04:01.813216666Z","domain":"www.chrc-ccdp.gc.ca","issuer":"Let's Encrypt","from":"2025-08-24T23:12:12Z","to":"2025-11-22T23:12:11Z"}
+{"id":"11725227357","timestamp":"2025-09-02T13:46:54.906484947Z","domain":"autodiscover.chrc-ccdp.gc.ca","issuer":"DigiCert","from":"2025-09-02T00:00:00Z","to":"2026-05-12T23:59:59Z"}
+{"id":"11725227357","timestamp":"2025-09-02T13:46:54.906485358Z","domain":"mail.chrc-ccdp.gc.ca","issuer":"DigiCert","from":"2025-09-02T00:00:00Z","to":"2026-05-12T23:59:59Z"}
+{"id":"11725227357","timestamp":"2025-09-02T13:46:54.906485619Z","domain":"mailserver.chrc-ccdp.gc.ca","issuer":"DigiCert","from":"2025-09-02T00:00:00Z","to":"2026-05-12T23:59:59Z"}
