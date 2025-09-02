@@ -11499,3 +11499,8 @@
 {"id":"11726812944","timestamp":"2025-09-02T16:16:26.802592909Z","domain":"dol-prod.prod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T15:05:46Z","to":"2025-12-01T15:05:45Z"}
 {"id":"11726832459","timestamp":"2025-09-02T16:16:26.802593019Z","domain":"federal-organizations.canada.ca","issuer":"SSL.com","from":"2025-09-02T15:57:59Z","to":"2026-09-02T16:07:16Z"}
 {"id":"11726832459","timestamp":"2025-09-02T16:16:26.802593129Z","domain":"organisations-federales.canada.ca","issuer":"SSL.com","from":"2025-09-02T15:57:59Z","to":"2026-09-02T16:07:16Z"}
+{"id":"11727656795","timestamp":"2025-09-02T18:16:27.364970304Z","domain":"identity-api.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T16:54:29Z","to":"2025-12-01T16:54:28Z"}
+{"id":"11727663757","timestamp":"2025-09-02T18:16:27.364970575Z","domain":"keycloak.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T16:55:08Z","to":"2025-12-01T16:55:07Z"}
+{"id":"11727700374","timestamp":"2025-09-02T18:16:27.364970795Z","domain":"billing.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T16:59:21Z","to":"2025-12-01T16:59:20Z"}
+{"id":"11727711836","timestamp":"2025-09-02T18:16:27.364971015Z","domain":"minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T17:00:09Z","to":"2025-12-01T17:00:08Z"}
+{"id":"11727751603","timestamp":"2025-09-02T18:16:27.364971116Z","domain":"console.minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-02T17:04:51Z","to":"2025-12-01T17:04:50Z"}
