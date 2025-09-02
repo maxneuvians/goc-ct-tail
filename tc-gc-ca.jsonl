@@ -287,3 +287,26 @@
 {"id":"11650786772","timestamp":"2025-08-27T16:16:22.037426354Z","domain":"outils-collab-tools.tc.gc.ca","issuer":"DigiCert","from":"2025-08-27T00:00:00Z","to":"2026-02-27T23:59:59Z"}
 {"id":"11707029784","timestamp":"2025-09-01T00:43:47.319831596Z","domain":"*.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-08-31T23:04:04Z","to":"2025-11-29T23:04:03Z"}
 {"id":"11707029784","timestamp":"2025-09-01T00:43:47.319831957Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2025-08-31T23:04:04Z","to":"2025-11-29T23:04:03Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476976278Z","domain":"taxpayersrights.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476976649Z","domain":"tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476976839Z","domain":"tcce-citt.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.47697703Z","domain":"tc.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476977119Z","domain":"termiumplus.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476977981Z","domain":"tfs-sft.ceegm-mgerc.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476978071Z","domain":"tpec-eptc.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476978152Z","domain":"tpsgc.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476978232Z","domain":"tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476979063Z","domain":"tradecommissioner.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476979173Z","domain":"translationbureau.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476979254Z","domain":"travailaucanada.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476979334Z","domain":"travail.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476979424Z","domain":"travailleraucanada.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476979504Z","domain":"travel.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476979584Z","domain":"travelhealth.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476979664Z","domain":"treaty-accord.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476979744Z","domain":"tribunal.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476980376Z","domain":"trng.bpsc-csm.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476980456Z","domain":"trng.bpsc.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476980546Z","domain":"trng.csm.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476980626Z","domain":"tsb-bst.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11728030004","timestamp":"2025-09-02T19:14:48.476980706Z","domain":"tsb.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
