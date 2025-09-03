@@ -11605,3 +11605,7 @@
 {"id":"11735584212","timestamp":"2025-09-03T10:15:42.373421298Z","domain":"www.sopf.gc.ca","issuer":"Let's Encrypt","from":"2025-09-03T08:41:36Z","to":"2025-12-02T08:41:35Z"}
 {"id":"11737162912","timestamp":"2025-09-03T13:18:10.838832395Z","domain":"code.ouvert.canada.ca","issuer":"Let's Encrypt","from":"2025-09-03T11:48:39Z","to":"2025-12-02T11:48:38Z"}
 {"id":"11737935182","timestamp":"2025-09-03T15:16:00.224096441Z","domain":"awsfgt1.proxy.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-09-03T00:00:00Z","to":"2026-10-02T23:59:59Z"}
+{"id":"11738849385","timestamp":"2025-09-03T16:16:21.76163383Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-03T15:02:29Z","to":"2025-12-02T15:02:28Z"}
+{"id":"11738852820","timestamp":"2025-09-03T16:16:21.761634422Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-03T15:02:47Z","to":"2025-12-02T15:02:46Z"}
+{"id":"11738854420","timestamp":"2025-09-03T16:16:21.761634752Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-03T15:03:05Z","to":"2025-12-02T15:03:04Z"}
+{"id":"11738858033","timestamp":"2025-09-03T16:16:21.761635383Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-03T15:03:23Z","to":"2025-12-02T15:03:22Z"}
