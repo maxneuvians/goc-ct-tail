@@ -1913,3 +1913,5 @@
 {"id":"11738882361","timestamp":"2025-09-03T16:38:16.031568154Z","domain":"test.gc-signin.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-03T00:00:00Z","to":"2026-10-02T23:59:59Z"}
 {"id":"11739013241","timestamp":"2025-09-03T16:38:16.031568254Z","domain":"*.rp.app.test.gc-signin.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-03T00:00:00Z","to":"2026-10-02T23:59:59Z"}
 {"id":"11739013241","timestamp":"2025-09-03T16:38:16.031568345Z","domain":"rp.app.test.gc-signin.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-03T00:00:00Z","to":"2026-10-02T23:59:59Z"}
+{"id":"11740777948","timestamp":"2025-09-03T20:34:59.044142365Z","domain":"*.storybook.app.test.gc-signin.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-03T00:00:00Z","to":"2026-10-02T23:59:59Z"}
+{"id":"11740777948","timestamp":"2025-09-03T20:34:59.044142735Z","domain":"storybook.app.test.gc-signin.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-03T00:00:00Z","to":"2026-10-02T23:59:59Z"}
