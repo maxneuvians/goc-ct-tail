@@ -783,3 +783,5 @@
 {"id":"11726747718","timestamp":"2025-09-02T16:38:54.524940031Z","domain":"2006recensement.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
 {"id":"11726747718","timestamp":"2025-09-02T16:38:54.524940471Z","domain":"ssc.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
 {"id":"11726747718","timestamp":"2025-09-02T16:38:54.524940752Z","domain":"statcan.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11753666707","timestamp":"2025-09-04T23:33:38.351366862Z","domain":"rich-data-services.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-09-04T22:04:04Z","to":"2025-12-03T22:04:03Z"}
+{"id":"11753666707","timestamp":"2025-09-04T23:33:38.351367303Z","domain":"services-donnees-enrichis.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-09-04T22:04:04Z","to":"2025-12-03T22:04:03Z"}
