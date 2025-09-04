@@ -530,3 +530,16 @@
 {"id":"11727884495","timestamp":"2025-09-02T18:29:25.702849203Z","domain":"rhdcc.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
 {"id":"11727884495","timestamp":"2025-09-02T18:29:25.702849293Z","domain":"rhdcc-hrsdc.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
 {"id":"11727884495","timestamp":"2025-09-02T18:29:25.702849373Z","domain":"riskcommunications.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"11750356438","timestamp":"2025-09-04T16:29:26.428479422Z","domain":"*.aadnc-aandc.gc.ca","issuer":"SSL.com","from":"2025-09-04T15:53:36Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11750356438","timestamp":"2025-09-04T16:29:26.428480124Z","domain":"*.aadnc.gc.ca","issuer":"SSL.com","from":"2025-09-04T15:53:36Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11750356438","timestamp":"2025-09-04T16:29:26.428480354Z","domain":"*.aandc-aadnc.gc.ca","issuer":"SSL.com","from":"2025-09-04T15:53:36Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11750356438","timestamp":"2025-09-04T16:29:26.428480584Z","domain":"*.aandc.gc.ca","issuer":"SSL.com","from":"2025-09-04T15:53:36Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11750356438","timestamp":"2025-09-04T16:29:26.428480675Z","domain":"*.cirnac.gc.ca","issuer":"SSL.com","from":"2025-09-04T15:53:36Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11750356438","timestamp":"2025-09-04T16:29:26.428482288Z","domain":"*.cirnac-rcaanc.gc.ca","issuer":"SSL.com","from":"2025-09-04T15:53:36Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11750356438","timestamp":"2025-09-04T16:29:26.428482358Z","domain":"*.isc.gc.ca","issuer":"SSL.com","from":"2025-09-04T15:53:36Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11750356438","timestamp":"2025-09-04T16:29:26.428482438Z","domain":"*.isc-sac.gc.ca","issuer":"SSL.com","from":"2025-09-04T15:53:36Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11750356438","timestamp":"2025-09-04T16:29:26.428482518Z","domain":"*.rcaanc-cirnac.gc.ca","issuer":"SSL.com","from":"2025-09-04T15:53:36Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11750356438","timestamp":"2025-09-04T16:29:26.42848352Z","domain":"*.rcaanc.gc.ca","issuer":"SSL.com","from":"2025-09-04T15:53:36Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11750356438","timestamp":"2025-09-04T16:29:26.4284836Z","domain":"*.sac.gc.ca","issuer":"SSL.com","from":"2025-09-04T15:53:36Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11750356438","timestamp":"2025-09-04T16:29:26.42848367Z","domain":"*.sac-isc.gc.ca","issuer":"SSL.com","from":"2025-09-04T15:53:36Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11750356438","timestamp":"2025-09-04T16:29:26.428483741Z","domain":"training-formation.mtrs-sctrm.isc-sac.gc.ca","issuer":"SSL.com","from":"2025-09-04T15:53:36Z","to":"2026-10-04T04:00:00Z"}
