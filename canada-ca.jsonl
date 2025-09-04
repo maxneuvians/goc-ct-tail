@@ -11636,3 +11636,6 @@
 {"id":"11749516462","timestamp":"2025-09-04T15:15:47.611939484Z","domain":"training-formation.neics-nscei.canada.ca","issuer":"SSL.com","from":"2025-09-04T14:15:45Z","to":"2026-10-04T04:00:00Z"}
 {"id":"11749769436","timestamp":"2025-09-04T15:15:47.611939584Z","domain":"datacube-api.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-04T13:55:20Z","to":"2025-12-03T13:55:19Z"}
 {"id":"11749912916","timestamp":"2025-09-04T15:15:47.611940807Z","domain":"notifications.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-04T14:11:37Z","to":"2025-12-03T14:11:36Z"}
+{"id":"11750333654","timestamp":"2025-09-04T16:16:16.602735065Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-04T15:02:23Z","to":"2025-12-03T15:02:22Z"}
+{"id":"11750335108","timestamp":"2025-09-04T16:16:16.602735346Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-04T15:03:04Z","to":"2025-12-03T15:03:03Z"}
+{"id":"11750335905","timestamp":"2025-09-04T16:16:16.602735536Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-04T15:02:44Z","to":"2025-12-03T15:02:43Z"}
