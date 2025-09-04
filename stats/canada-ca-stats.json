@@ -2821,6 +2821,14 @@
       "Amazon Trust Services": 2,
       "Let's Encrypt": 65,
       "SSL.com": 2
+    },
+    "2025-09-03": {
+      "Let's Encrypt": 61,
+      "Amazon Trust Services": 1,
+      "SSL.com": 2
+    },
+    "2025-09-04": {
+      "Let's Encrypt": 2
     }
   },
   "errors": []
