@@ -11626,3 +11626,7 @@
 {"id":"11746051082","timestamp":"2025-09-04T08:16:31.291096326Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-04T06:24:43Z","to":"2025-12-03T06:24:42Z"}
 {"id":"11746055603","timestamp":"2025-09-04T08:16:31.291096726Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-04T06:25:22Z","to":"2025-12-03T06:25:21Z"}
 {"id":"11746055603","timestamp":"2025-09-04T08:16:31.291096997Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-04T06:25:22Z","to":"2025-12-03T06:25:21Z"}
+{"id":"11749272510","timestamp":"2025-09-04T14:15:46.898003888Z","domain":"www151.canafe-fintrac.canada.ca","issuer":"SSL.com","from":"2025-09-04T13:46:47Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11749272510","timestamp":"2025-09-04T14:15:46.898004218Z","domain":"www151.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-09-04T13:46:47Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11749364893","timestamp":"2025-09-04T14:15:46.898004459Z","domain":"www144.canafe-fintrac.canada.ca","issuer":"SSL.com","from":"2025-09-04T13:59:39Z","to":"2026-10-04T04:00:00Z"}
+{"id":"11749364893","timestamp":"2025-09-04T14:15:46.898004659Z","domain":"www144.fintrac-canafe.canada.ca","issuer":"SSL.com","from":"2025-09-04T13:59:39Z","to":"2026-10-04T04:00:00Z"}
