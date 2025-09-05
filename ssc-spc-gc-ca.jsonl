@@ -805,3 +805,10 @@
 {"id":"11737154476","timestamp":"2025-09-03T13:18:10.787660244Z","domain":"dc01vpn003.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-09-03T00:00:00Z","to":"2026-10-03T23:59:59Z"}
 {"id":"11750264767","timestamp":"2025-09-04T16:16:17.891114263Z","domain":"nda-team.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-09-04T00:00:00Z","to":"2026-10-05T23:59:59Z"}
 {"id":"11751460525","timestamp":"2025-09-04T19:14:56.014461255Z","domain":"nda-team.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-09-04T00:00:00Z","to":"2026-10-05T23:59:59Z"}
+{"id":"11760578880","timestamp":"2025-09-05T14:15:42.299754598Z","domain":"autodiscover.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-09-05T13:24:58Z","to":"2026-10-05T04:00:00Z"}
+{"id":"11760578880","timestamp":"2025-09-05T14:15:42.299754938Z","domain":"hyb1.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-09-05T13:24:58Z","to":"2026-10-05T04:00:00Z"}
+{"id":"11760578880","timestamp":"2025-09-05T14:15:42.299755159Z","domain":"hyb2.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-09-05T13:24:58Z","to":"2026-10-05T04:00:00Z"}
+{"id":"11760578880","timestamp":"2025-09-05T14:15:42.299755389Z","domain":"mail.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-09-05T13:24:58Z","to":"2026-10-05T04:00:00Z"}
+{"id":"11760578880","timestamp":"2025-09-05T14:15:42.299755479Z","domain":"smtp.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-09-05T13:24:58Z","to":"2026-10-05T04:00:00Z"}
+{"id":"11760578880","timestamp":"2025-09-05T14:15:42.299756651Z","domain":"ssc-hyb-ex1.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-09-05T13:24:58Z","to":"2026-10-05T04:00:00Z"}
+{"id":"11760578880","timestamp":"2025-09-05T14:15:42.299756742Z","domain":"ssc-hyb-ex2.ssc-spc.gc.ca","issuer":"SSL.com","from":"2025-09-05T13:24:58Z","to":"2026-10-05T04:00:00Z"}
