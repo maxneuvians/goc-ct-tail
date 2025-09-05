@@ -11697,3 +11697,7 @@
 {"id":"11752319778","timestamp":"2025-09-04T21:15:24.224703287Z","domain":"*.estimateursv-oasestimator.service.canada.ca","issuer":"SSL.com","from":"2025-09-04T20:05:00Z","to":"2026-10-04T06:00:00Z"}
 {"id":"11755797909","timestamp":"2025-09-05T04:16:10.308788634Z","domain":"cartes-test.canada.ca","issuer":"Let's Encrypt","from":"2025-09-05T02:32:49Z","to":"2025-12-04T02:32:48Z"}
 {"id":"11755797909","timestamp":"2025-09-05T04:16:10.308788965Z","domain":"maps-test.canada.ca","issuer":"Let's Encrypt","from":"2025-09-05T02:32:49Z","to":"2025-12-04T02:32:48Z"}
+{"id":"11761731541","timestamp":"2025-09-05T16:16:18.88087371Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-05T15:02:53Z","to":"2025-12-04T15:02:52Z"}
+{"id":"11761740761","timestamp":"2025-09-05T16:16:18.880874071Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-05T15:03:39Z","to":"2025-12-04T15:03:38Z"}
+{"id":"11761742985","timestamp":"2025-09-05T16:16:18.880874301Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-05T15:04:24Z","to":"2025-12-04T15:04:23Z"}
+{"id":"11761752470","timestamp":"2025-09-05T16:16:18.880874481Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-05T15:05:10Z","to":"2025-12-04T15:05:09Z"}
