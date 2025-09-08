@@ -2839,7 +2839,11 @@
       "Let's Encrypt": 7
     },
     "2025-09-07": {
-      "Amazon Trust Services": 1
+      "Amazon Trust Services": 1,
+      "Let's Encrypt": 4
+    },
+    "2025-09-08": {
+      "Let's Encrypt": 2
     }
   },
   "errors": []
