@@ -11728,3 +11728,7 @@
 {"id":"11787265752","timestamp":"2025-09-07T20:15:39.232829635Z","domain":"redirection.sds.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-07T18:50:09Z","to":"2025-12-06T18:50:08Z"}
 {"id":"11790724658","timestamp":"2025-09-08T03:27:35.942426671Z","domain":"anakwad.canada.ca","issuer":"Let's Encrypt","from":"2025-09-08T01:47:45Z","to":"2025-12-07T01:47:44Z"}
 {"id":"11790724658","timestamp":"2025-09-08T03:27:35.942427552Z","domain":"anakwad.canadaeast.cloudapp.azure.com","issuer":"Let's Encrypt","from":"2025-09-08T01:47:45Z","to":"2025-12-07T01:47:44Z"}
+{"id":"11796890986","timestamp":"2025-09-08T17:15:22.635380163Z","domain":"api.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-08T12:52:46Z","to":"2025-12-07T12:52:45Z"}
+{"id":"11796890986","timestamp":"2025-09-08T17:15:22.635380584Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-08T12:52:46Z","to":"2025-12-07T12:52:45Z"}
+{"id":"11796890986","timestamp":"2025-09-08T17:15:22.635380864Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-08T12:52:46Z","to":"2025-12-07T12:52:45Z"}
+{"id":"11796890986","timestamp":"2025-09-08T17:15:22.635381145Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-08T12:52:46Z","to":"2025-12-07T12:52:45Z"}
