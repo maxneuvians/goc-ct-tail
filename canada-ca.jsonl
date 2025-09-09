@@ -11781,3 +11781,16 @@
 {"id":"11811506727","timestamp":"2025-09-09T17:15:12.437704149Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T15:02:43Z","to":"2025-12-08T15:02:42Z"}
 {"id":"11811516903","timestamp":"2025-09-09T17:15:12.43770448Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T15:03:17Z","to":"2025-12-08T15:03:16Z"}
 {"id":"11811519407","timestamp":"2025-09-09T17:15:12.4377047Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T15:03:36Z","to":"2025-12-08T15:03:35Z"}
+{"id":"11812589114","timestamp":"2025-09-09T18:16:49.815266633Z","domain":"core-ocre.gc.ca","issuer":"Sectigo","from":"2025-09-09T00:00:00Z","to":"2026-10-10T23:59:59Z"}
+{"id":"11812589114","timestamp":"2025-09-09T18:16:49.815266994Z","domain":"core-ombuds.canada.ca","issuer":"Sectigo","from":"2025-09-09T00:00:00Z","to":"2026-10-10T23:59:59Z"}
+{"id":"11812589114","timestamp":"2025-09-09T18:16:49.815267164Z","domain":"ocre-ombuds.canada.ca","issuer":"Sectigo","from":"2025-09-09T00:00:00Z","to":"2026-10-10T23:59:59Z"}
+{"id":"11812589114","timestamp":"2025-09-09T18:16:49.815267364Z","domain":"www.core-ombuds.canada.ca","issuer":"Sectigo","from":"2025-09-09T00:00:00Z","to":"2026-10-10T23:59:59Z"}
+{"id":"11812810395","timestamp":"2025-09-09T18:16:49.815267475Z","domain":"resource-catalogue.ws-cchampagne.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T17:04:25Z","to":"2025-12-08T17:04:24Z"}
+{"id":"11812810715","timestamp":"2025-09-09T18:16:49.815268116Z","domain":"mlflow.ws-cchampagne.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T17:04:22Z","to":"2025-12-08T17:04:21Z"}
+{"id":"11812814169","timestamp":"2025-09-09T18:16:49.815268206Z","domain":"resource-catalogue.ws-prollin.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T17:04:46Z","to":"2025-12-08T17:04:45Z"}
+{"id":"11812814395","timestamp":"2025-09-09T18:16:49.815268316Z","domain":"mlflow.ws-prollin.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T17:04:45Z","to":"2025-12-08T17:04:44Z"}
+{"id":"11812819549","timestamp":"2025-09-09T18:16:49.815268406Z","domain":"mlflow.ws-cpoff.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T17:05:18Z","to":"2025-12-08T17:05:17Z"}
+{"id":"11812819719","timestamp":"2025-09-09T18:16:49.815300506Z","domain":"resource-catalogue.ws-cpoff.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T17:05:19Z","to":"2025-12-08T17:05:18Z"}
+{"id":"11812858191","timestamp":"2025-09-09T18:16:49.815300767Z","domain":"mlflow.ws-jwojtiw.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T17:08:59Z","to":"2025-12-08T17:08:58Z"}
+{"id":"11812858452","timestamp":"2025-09-09T18:16:49.815300977Z","domain":"resource-catalogue.ws-jwojtiw.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T17:09:00Z","to":"2025-12-08T17:08:59Z"}
+{"id":"11812871919","timestamp":"2025-09-09T18:16:49.815301138Z","domain":"resource-catalogue.ws-elindsay.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T17:10:29Z","to":"2025-12-08T17:10:28Z"}
