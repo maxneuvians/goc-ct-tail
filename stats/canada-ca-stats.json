@@ -2843,7 +2843,12 @@
       "Let's Encrypt": 4
     },
     "2025-09-08": {
-      "Let's Encrypt": 2
+      "Let's Encrypt": 12,
+      "DigiCert": 1,
+      "Sectigo": 9
+    },
+    "2025-09-09": {
+      "Let's Encrypt": 6
     }
   },
   "errors": []
