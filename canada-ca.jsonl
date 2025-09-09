@@ -11748,3 +11748,9 @@
 {"id":"11800879940","timestamp":"2025-09-08T21:15:26.062255457Z","domain":"canada.ca","issuer":"Sectigo","from":"2025-09-08T00:00:00Z","to":"2025-12-07T23:59:59Z"}
 {"id":"11802438686","timestamp":"2025-09-09T00:34:58.750002331Z","domain":"tccampus-catalogue.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-09-08T22:44:42Z","to":"2025-12-07T22:44:41Z"}
 {"id":"11802828405","timestamp":"2025-09-09T00:34:58.750003273Z","domain":"git.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-08T23:26:50Z","to":"2025-12-07T23:26:49Z"}
+{"id":"11803864693","timestamp":"2025-09-09T02:39:21.940471276Z","domain":"cartes.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T01:21:22Z","to":"2025-12-08T01:21:21Z"}
+{"id":"11803864693","timestamp":"2025-09-09T02:39:21.940471626Z","domain":"csw.open.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T01:21:22Z","to":"2025-12-08T01:21:21Z"}
+{"id":"11803864693","timestamp":"2025-09-09T02:39:21.940471857Z","domain":"maps.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T01:21:22Z","to":"2025-12-08T01:21:21Z"}
+{"id":"11803864693","timestamp":"2025-09-09T02:39:21.940472077Z","domain":"www.maps.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T01:21:22Z","to":"2025-12-08T01:21:21Z"}
+{"id":"11803987060","timestamp":"2025-09-09T02:39:21.940472187Z","domain":"cartes-staging.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T01:34:07Z","to":"2025-12-08T01:34:06Z"}
+{"id":"11803987060","timestamp":"2025-09-09T02:39:21.940473209Z","domain":"maps-staging.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T01:34:07Z","to":"2025-12-08T01:34:06Z"}
