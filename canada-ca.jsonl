@@ -11776,3 +11776,5 @@
 {"id":"11809238803","timestamp":"2025-09-09T13:20:45.795434601Z","domain":"rapports.jeunesse-canada-travail.canada.ca","issuer":"Sectigo","from":"2025-09-09T00:00:00Z","to":"2026-09-09T23:59:59Z"}
 {"id":"11809238803","timestamp":"2025-09-09T13:20:45.795434671Z","domain":"tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-09-09T00:00:00Z","to":"2026-09-09T23:59:59Z"}
 {"id":"11809621007","timestamp":"2025-09-09T14:15:26.393124812Z","domain":"*.meta.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-09-09T00:00:00Z","to":"2025-12-08T23:59:59Z"}
+{"id":"11811342837","timestamp":"2025-09-09T16:16:23.000338423Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T15:02:23Z","to":"2025-12-08T15:02:22Z"}
+{"id":"11811344892","timestamp":"2025-09-09T16:16:23.000338734Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T15:03:00Z","to":"2025-12-08T15:02:59Z"}
