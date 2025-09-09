@@ -11796,3 +11796,6 @@
 {"id":"11812871919","timestamp":"2025-09-09T18:16:49.815301138Z","domain":"resource-catalogue.ws-elindsay.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T17:10:29Z","to":"2025-12-08T17:10:28Z"}
 {"id":"11813129791","timestamp":"2025-09-09T19:14:55.694940935Z","domain":"*.aurora.ssc-dev-iso-isiem-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T17:36:39Z","to":"2025-12-08T17:36:38Z"}
 {"id":"11813129791","timestamp":"2025-09-09T19:14:55.694941506Z","domain":"*.ssc-dev-iso-isiem-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T17:36:39Z","to":"2025-12-08T17:36:38Z"}
+{"id":"11815436851","timestamp":"2025-09-09T23:15:30.841836317Z","domain":"aur.aurora.ssc-dev-iso-isiem-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T21:31:46Z","to":"2025-12-08T21:31:45Z"}
+{"id":"11815765325","timestamp":"2025-09-09T23:15:30.841836608Z","domain":"*.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-09-09T00:00:00Z","to":"2025-12-08T23:59:59Z"}
+{"id":"11815775480","timestamp":"2025-09-09T23:15:30.841836868Z","domain":"*.nxrm.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-09-09T00:00:00Z","to":"2025-12-08T23:59:59Z"}
