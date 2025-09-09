@@ -11754,3 +11754,8 @@
 {"id":"11803864693","timestamp":"2025-09-09T02:39:21.940472077Z","domain":"www.maps.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T01:21:22Z","to":"2025-12-08T01:21:21Z"}
 {"id":"11803987060","timestamp":"2025-09-09T02:39:21.940472187Z","domain":"cartes-staging.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T01:34:07Z","to":"2025-12-08T01:34:06Z"}
 {"id":"11803987060","timestamp":"2025-09-09T02:39:21.940473209Z","domain":"maps-staging.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T01:34:07Z","to":"2025-12-08T01:34:06Z"}
+{"id":"11806349461","timestamp":"2025-09-09T08:16:43.093056418Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T06:24:42Z","to":"2025-12-08T06:24:41Z"}
+{"id":"11806349461","timestamp":"2025-09-09T08:16:43.09305739Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T06:24:42Z","to":"2025-12-08T06:24:41Z"}
+{"id":"11806354634","timestamp":"2025-09-09T08:16:43.093057911Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T06:25:17Z","to":"2025-12-08T06:25:16Z"}
+{"id":"11806354634","timestamp":"2025-09-09T08:16:43.093058422Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T06:25:17Z","to":"2025-12-08T06:25:16Z"}
+{"id":"11806732514","timestamp":"2025-09-09T08:16:43.093058622Z","domain":"staticwebsite2.blueprint.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-09-09T07:08:26Z","to":"2025-12-08T08:01:40Z"}
