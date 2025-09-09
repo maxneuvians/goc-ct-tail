@@ -1915,3 +1915,7 @@
 {"id":"11739013241","timestamp":"2025-09-03T16:38:16.031568345Z","domain":"rp.app.test.gc-signin.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-03T00:00:00Z","to":"2026-10-02T23:59:59Z"}
 {"id":"11740777948","timestamp":"2025-09-03T20:34:59.044142365Z","domain":"*.storybook.app.test.gc-signin.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-03T00:00:00Z","to":"2026-10-02T23:59:59Z"}
 {"id":"11740777948","timestamp":"2025-09-03T20:34:59.044142735Z","domain":"storybook.app.test.gc-signin.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-03T00:00:00Z","to":"2026-10-02T23:59:59Z"}
+{"id":"11809192109","timestamp":"2025-09-09T12:46:25.54319852Z","domain":"*.cra-arc.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-09T00:00:00Z","to":"2026-10-08T23:59:59Z"}
+{"id":"11809192109","timestamp":"2025-09-09T12:46:25.54319879Z","domain":"cra-arc.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-09T00:00:00Z","to":"2026-10-08T23:59:59Z"}
+{"id":"11809194089","timestamp":"2025-09-09T12:46:25.543199021Z","domain":"*.cra-arc.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-09T00:00:00Z","to":"2026-10-08T23:59:59Z"}
+{"id":"11809194089","timestamp":"2025-09-09T12:46:25.543199261Z","domain":"cra-arc.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-09T00:00:00Z","to":"2026-10-08T23:59:59Z"}
