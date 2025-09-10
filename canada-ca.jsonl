@@ -11804,3 +11804,6 @@
 {"id":"11816760682","timestamp":"2025-09-10T01:44:20.350216427Z","domain":"auth.g7.canada.ca","issuer":"Let's Encrypt","from":"2025-09-09T23:50:55Z","to":"2025-12-08T23:50:54Z"}
 {"id":"11819775079","timestamp":"2025-09-10T07:15:36.41214796Z","domain":"canchat.pilot-pilote.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-10T05:21:27Z","to":"2025-12-09T05:21:26Z"}
 {"id":"11822250527","timestamp":"2025-09-10T11:15:28.449654798Z","domain":"verifywise.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-10T10:09:56Z","to":"2025-12-09T10:09:55Z"}
+{"id":"11824824579","timestamp":"2025-09-10T16:16:26.740819301Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-10T15:02:27Z","to":"2025-12-09T15:02:26Z"}
+{"id":"11824830490","timestamp":"2025-09-10T16:16:26.740819652Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-10T15:02:49Z","to":"2025-12-09T15:02:48Z"}
+{"id":"11824832310","timestamp":"2025-09-10T16:16:26.740819862Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-10T15:03:06Z","to":"2025-12-09T15:03:05Z"}
