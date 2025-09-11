@@ -11815,3 +11815,7 @@
 {"id":"11834183618","timestamp":"2025-09-11T12:17:33.744194133Z","domain":"energy-information.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-11T09:17:13Z","to":"2025-12-10T09:17:12Z"}
 {"id":"11834183618","timestamp":"2025-09-11T12:17:33.744194484Z","domain":"information-energie.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-11T09:17:13Z","to":"2025-12-10T09:17:12Z"}
 {"id":"11835374394","timestamp":"2025-09-11T13:17:06.64551373Z","domain":"tbsae-easct.tbs-sct.canada.ca","issuer":"Sectigo","from":"2025-09-11T00:00:00Z","to":"2026-10-12T23:59:59Z"}
+{"id":"11837145734","timestamp":"2025-09-11T16:16:26.628610643Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-11T15:02:34Z","to":"2025-12-10T15:02:33Z"}
+{"id":"11837148370","timestamp":"2025-09-11T16:16:26.628611174Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-11T15:02:53Z","to":"2025-12-10T15:02:52Z"}
+{"id":"11837154741","timestamp":"2025-09-11T16:16:26.628611615Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-11T15:03:10Z","to":"2025-12-10T15:03:09Z"}
+{"id":"11837157744","timestamp":"2025-09-11T16:16:26.628612105Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-11T15:03:29Z","to":"2025-12-10T15:03:28Z"}
