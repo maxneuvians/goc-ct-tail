@@ -11891,3 +11891,4 @@
 {"id":"11878046292","timestamp":"2025-09-15T00:37:23.213346203Z","domain":"preprod.accessconsortium.aws-lza.hc-sc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-09-15T00:00:00Z","to":"2026-10-14T23:59:59Z"}
 {"id":"11878319942","timestamp":"2025-09-15T01:44:46.366754947Z","domain":"sds.canada.ca","issuer":"Let's Encrypt","from":"2025-09-14T23:40:41Z","to":"2025-12-13T23:40:40Z"}
 {"id":"11878881393","timestamp":"2025-09-15T02:42:43.058356116Z","domain":"kubernetes-dashboard-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-09-15T00:50:22Z","to":"2025-12-14T00:50:21Z"}
+{"id":"11885092163","timestamp":"2025-09-15T14:16:21.300625402Z","domain":"billing.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-15T13:05:54Z","to":"2025-12-14T13:05:53Z"}
