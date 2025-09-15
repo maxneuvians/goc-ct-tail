@@ -11886,3 +11886,6 @@
 {"id":"11874645985","timestamp":"2025-09-14T18:16:18.726708234Z","domain":"*.dids.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-14T17:01:43Z","to":"2025-12-13T17:01:42Z"}
 {"id":"11874646474","timestamp":"2025-09-14T18:16:18.726708365Z","domain":"aqvc.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-14T17:01:43Z","to":"2025-12-13T17:01:42Z"}
 {"id":"11874648421","timestamp":"2025-09-14T18:16:18.726709497Z","domain":"didwebserver.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-14T17:01:58Z","to":"2025-12-13T17:01:57Z"}
+{"id":"11877989583","timestamp":"2025-09-15T00:37:23.213345291Z","domain":"*.acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-09-14T23:02:04Z","to":"2025-12-13T23:02:03Z"}
+{"id":"11877989583","timestamp":"2025-09-15T00:37:23.213345832Z","domain":"acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-09-14T23:02:04Z","to":"2025-12-13T23:02:03Z"}
+{"id":"11878046292","timestamp":"2025-09-15T00:37:23.213346203Z","domain":"preprod.accessconsortium.aws-lza.hc-sc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-09-15T00:00:00Z","to":"2026-10-14T23:59:59Z"}
