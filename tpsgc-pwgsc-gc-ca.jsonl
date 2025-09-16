@@ -810,3 +810,12 @@
 {"id":"11823080082","timestamp":"2025-09-10T13:29:21.381771966Z","domain":"smtp.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-09-10T00:00:00Z","to":"2026-10-11T23:59:59Z"}
 {"id":"11823080082","timestamp":"2025-09-10T13:29:21.381772026Z","domain":"smtp.tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-09-10T00:00:00Z","to":"2026-10-11T23:59:59Z"}
 {"id":"11886346595","timestamp":"2025-09-15T17:25:46.750719448Z","domain":"donnees-data.tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-09-15T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"11898519900","timestamp":"2025-09-16T16:29:20.035208813Z","domain":"gost.pwgsc.gc.ca","issuer":"Sectigo","from":"2025-09-16T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"11898519900","timestamp":"2025-09-16T16:29:20.035209164Z","domain":"gost.pwgsc-tpsgc.gc.ca","issuer":"Sectigo","from":"2025-09-16T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"11898519900","timestamp":"2025-09-16T16:29:20.035209425Z","domain":"gost.tpsgc.gc.ca","issuer":"Sectigo","from":"2025-09-16T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"11898519900","timestamp":"2025-09-16T16:29:20.035209655Z","domain":"gost.tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-09-16T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"11898871483","timestamp":"2025-09-16T16:29:20.035209765Z","domain":"bamboo.pwgsc.gc.ca","issuer":"Sectigo","from":"2025-09-16T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"11898871483","timestamp":"2025-09-16T16:29:20.035210917Z","domain":"bamboo.pwgsc-tpsgc.gc.ca","issuer":"Sectigo","from":"2025-09-16T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"11898871483","timestamp":"2025-09-16T16:29:20.035210997Z","domain":"bamboo.tpsgc.gc.ca","issuer":"Sectigo","from":"2025-09-16T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"11898871483","timestamp":"2025-09-16T16:29:20.035211088Z","domain":"bamboo.tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-09-16T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"11898871483","timestamp":"2025-09-16T16:29:20.035211158Z","domain":"sulin.ncr.pwgsc.gc.ca","issuer":"Sectigo","from":"2025-09-16T00:00:00Z","to":"2026-10-17T23:59:59Z"}
