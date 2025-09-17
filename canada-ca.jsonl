@@ -11934,3 +11934,10 @@
 {"id":"11911588749","timestamp":"2025-09-17T13:18:23.217894816Z","domain":"www.csa-asc.gc.ca","issuer":"Sectigo","from":"2025-09-17T00:00:00Z","to":"2026-10-18T23:59:59Z"}
 {"id":"11911588749","timestamp":"2025-09-17T13:18:23.217895027Z","domain":"www.espace.canada.ca","issuer":"Sectigo","from":"2025-09-17T00:00:00Z","to":"2026-10-18T23:59:59Z"}
 {"id":"11911588749","timestamp":"2025-09-17T13:18:23.217895177Z","domain":"www.space.canada.ca","issuer":"Sectigo","from":"2025-09-17T00:00:00Z","to":"2026-10-18T23:59:59Z"}
+{"id":"11913355474","timestamp":"2025-09-17T16:16:32.32770924Z","domain":"flood-risk-portal.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-09-17T14:38:47Z","to":"2025-12-16T14:38:46Z"}
+{"id":"11913355474","timestamp":"2025-09-17T16:16:32.327709651Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-17T14:38:47Z","to":"2025-12-16T14:38:46Z"}
+{"id":"11913614705","timestamp":"2025-09-17T16:16:32.327710012Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-17T15:02:27Z","to":"2025-12-16T15:02:26Z"}
+{"id":"11913617587","timestamp":"2025-09-17T16:16:32.327710232Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-17T15:02:47Z","to":"2025-12-16T15:02:46Z"}
+{"id":"11913620314","timestamp":"2025-09-17T16:16:32.327710322Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-17T15:03:07Z","to":"2025-12-16T15:03:06Z"}
+{"id":"11913623967","timestamp":"2025-09-17T16:16:32.327710873Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-17T15:03:26Z","to":"2025-12-16T15:03:25Z"}
+{"id":"11913627313","timestamp":"2025-09-17T16:16:32.327710954Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-17T15:03:44Z","to":"2025-12-16T15:03:43Z"}
