@@ -11918,3 +11918,5 @@
 {"id":"11902168554","timestamp":"2025-09-16T22:15:25.129085385Z","domain":"mlflow.ws-elindsay.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-16T20:37:20Z","to":"2025-12-15T20:37:19Z"}
 {"id":"11903428100","timestamp":"2025-09-17T00:34:10.997486979Z","domain":"feedback-viewer.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-16T22:40:06Z","to":"2025-12-15T22:40:05Z"}
 {"id":"11903724022","timestamp":"2025-09-17T00:34:10.997487319Z","domain":"accessconsortium.hc-sc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-09-17T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"11904423046","timestamp":"2025-09-17T01:44:21.270532319Z","domain":"*.digital.canada.ca","issuer":"Amazon Trust Services","from":"2025-09-17T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"11904423046","timestamp":"2025-09-17T01:44:21.27053265Z","domain":"digital.canada.ca","issuer":"Amazon Trust Services","from":"2025-09-17T00:00:00Z","to":"2026-10-16T23:59:59Z"}
