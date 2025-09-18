@@ -1925,3 +1925,5 @@
 {"id":"11903728770","timestamp":"2025-09-17T00:48:48.736266347Z","domain":"forms-staging.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-17T00:00:00Z","to":"2026-10-16T23:59:59Z"}
 {"id":"11905054662","timestamp":"2025-09-17T02:48:52.395048476Z","domain":"forms-staging.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-17T00:00:00Z","to":"2026-10-16T23:59:59Z"}
 {"id":"11924607353","timestamp":"2025-09-18T13:37:36.75923078Z","domain":"partner-test.gciv-dvgc.cdssandbox.xyz","issuer":"DigiCert","from":"2025-09-18T00:00:00Z","to":"2026-03-18T23:59:59Z"}
+{"id":"11928988428","timestamp":"2025-09-18T21:33:34.451312284Z","domain":"api.dev1000.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-09-18T20:00:04Z","to":"2025-12-17T20:00:03Z"}
+{"id":"11928988428","timestamp":"2025-09-18T21:33:34.451312775Z","domain":"realtime.dev1000.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-09-18T20:00:04Z","to":"2025-12-17T20:00:03Z"}
