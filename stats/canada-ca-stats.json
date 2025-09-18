@@ -2882,7 +2882,9 @@
       "DigiCert": 4
     },
     "2025-09-17": {
-      "Amazon Trust Services": 5
+      "Amazon Trust Services": 5,
+      "Let's Encrypt": 12,
+      "Sectigo": 23
     }
   },
   "errors": []
