@@ -2885,6 +2885,14 @@
       "Amazon Trust Services": 5,
       "Let's Encrypt": 12,
       "Sectigo": 23
+    },
+    "2025-09-18": {
+      "Sectigo": 2,
+      "Let's Encrypt": 13,
+      "DigiCert": 2
+    },
+    "2025-09-19": {
+      "Let's Encrypt": 1
     }
   },
   "errors": []
