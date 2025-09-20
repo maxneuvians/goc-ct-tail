@@ -2892,7 +2892,9 @@
       "DigiCert": 2
     },
     "2025-09-19": {
-      "Let's Encrypt": 1
+      "Let's Encrypt": 14,
+      "Sectigo": 3,
+      "DigiCert": 1
     }
   },
   "errors": []
