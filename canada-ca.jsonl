@@ -12016,3 +12016,6 @@
 {"id":"11973521817","timestamp":"2025-09-22T09:16:22.199682491Z","domain":"mlflow.ws-bigweather.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-22T08:02:49Z","to":"2025-12-21T08:02:48Z"}
 {"id":"11974745114","timestamp":"2025-09-22T11:15:20.425035096Z","domain":"alloy.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-22T09:57:41Z","to":"2025-12-21T09:57:40Z"}
 {"id":"11974748866","timestamp":"2025-09-22T11:15:20.425036148Z","domain":"grafana.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-22T09:57:50Z","to":"2025-12-21T09:57:49Z"}
+{"id":"11976936748","timestamp":"2025-09-22T15:16:09.540949128Z","domain":"loki.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-22T13:16:53Z","to":"2025-12-21T13:16:52Z"}
+{"id":"11977018352","timestamp":"2025-09-22T15:16:09.540949629Z","domain":"prometheus.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-22T13:24:26Z","to":"2025-12-21T13:24:25Z"}
+{"id":"11977095402","timestamp":"2025-09-22T15:16:09.54094995Z","domain":"grafana.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-22T13:29:32Z","to":"2025-12-21T13:29:31Z"}
