@@ -1940,3 +1940,9 @@
 {"id":"11975527020","timestamp":"2025-09-22T12:46:20.522723713Z","domain":"*.document.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-22T00:00:00Z","to":"2026-10-21T23:59:59Z"}
 {"id":"11976484638","timestamp":"2025-09-22T14:37:08.072298838Z","domain":"*.status.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-22T00:00:00Z","to":"2026-10-21T23:59:59Z"}
 {"id":"11976484638","timestamp":"2025-09-22T14:37:08.072299279Z","domain":"status.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2025-09-22T00:00:00Z","to":"2026-10-21T23:59:59Z"}
+{"id":"11979648275","timestamp":"2025-09-22T19:33:27.431760777Z","domain":"api.dev.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-09-22T17:45:24Z","to":"2025-12-21T17:45:23Z"}
+{"id":"11979649086","timestamp":"2025-09-22T19:33:27.431761118Z","domain":"realtime.dev.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-09-22T17:45:24Z","to":"2025-12-21T17:45:23Z"}
+{"id":"11979655143","timestamp":"2025-09-22T19:33:27.431761378Z","domain":"*.dids.dev.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-09-22T17:46:27Z","to":"2025-12-21T17:46:26Z"}
+{"id":"11979655395","timestamp":"2025-09-22T19:33:27.431761639Z","domain":"portal.dev.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-09-22T17:46:25Z","to":"2025-12-21T17:46:24Z"}
+{"id":"11979663207","timestamp":"2025-09-22T19:33:27.431761729Z","domain":"aqvc.dev.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-09-22T17:46:29Z","to":"2025-12-21T17:46:28Z"}
+{"id":"11979685381","timestamp":"2025-09-22T19:33:27.43176235Z","domain":"didwebserver.dev.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-09-22T17:46:27Z","to":"2025-12-21T17:46:26Z"}
