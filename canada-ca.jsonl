@@ -12087,3 +12087,9 @@
 {"id":"11979168008","timestamp":"2025-09-22T18:16:46.795042145Z","domain":"www.nrc.gc.ca","issuer":"Sectigo","from":"2025-09-22T00:00:00Z","to":"2026-10-23T23:59:59Z"}
 {"id":"11979168008","timestamp":"2025-09-22T18:16:46.795042225Z","domain":"www.reseaueureka.ca","issuer":"Sectigo","from":"2025-09-22T00:00:00Z","to":"2026-10-23T23:59:59Z"}
 {"id":"11979500533","timestamp":"2025-09-22T19:15:02.095254957Z","domain":"gcmatarchives-test.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-09-22T00:00:00Z","to":"2026-10-21T23:59:59Z"}
+{"id":"11980067868","timestamp":"2025-09-22T20:16:03.185029448Z","domain":"affaires-mondiales.canada.ca","issuer":"Sectigo","from":"2025-09-22T00:00:00Z","to":"2026-10-23T23:59:59Z"}
+{"id":"11980067868","timestamp":"2025-09-22T20:16:03.185029929Z","domain":"affairesmondiales.canada.ca","issuer":"Sectigo","from":"2025-09-22T00:00:00Z","to":"2026-10-23T23:59:59Z"}
+{"id":"11980067868","timestamp":"2025-09-22T20:16:03.185030199Z","domain":"global-affairs.canada.ca","issuer":"Sectigo","from":"2025-09-22T00:00:00Z","to":"2026-10-23T23:59:59Z"}
+{"id":"11980067868","timestamp":"2025-09-22T20:16:03.185030429Z","domain":"globalaffairs.canada.ca","issuer":"Sectigo","from":"2025-09-22T00:00:00Z","to":"2026-10-23T23:59:59Z"}
+{"id":"11980067868","timestamp":"2025-09-22T20:16:03.185030519Z","domain":"international.canada.ca","issuer":"Sectigo","from":"2025-09-22T00:00:00Z","to":"2026-10-23T23:59:59Z"}
+{"id":"11980175605","timestamp":"2025-09-22T20:16:03.185031672Z","domain":"mras-samr.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-22T18:39:48Z","to":"2025-12-21T18:39:47Z"}
