@@ -747,6 +747,13 @@
     "2025-09-18": {
       "DigiCert": 1,
       "Let's Encrypt": 2
+    },
+    "2025-09-22": {
+      "Amazon Trust Services": 13,
+      "Let's Encrypt": 8
+    },
+    "2025-09-23": {
+      "Let's Encrypt": 1
     }
   },
   "errors": []
