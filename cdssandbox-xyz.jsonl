@@ -1954,3 +1954,4 @@
 {"id":"11996639300","timestamp":"2025-09-23T20:35:25.316681093Z","domain":"dev.gciv-dvgc.cdssandbox.xyz","issuer":"DigiCert","from":"2025-09-23T00:00:00Z","to":"2026-03-23T23:59:59Z"}
 {"id":"12001174080","timestamp":"2025-09-24T02:05:12.054707327Z","domain":"api.test1007.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-09-24T01:03:02Z","to":"2025-12-23T01:03:01Z"}
 {"id":"12001174080","timestamp":"2025-09-24T02:05:12.054707828Z","domain":"realtime.test1007.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-09-24T01:03:02Z","to":"2025-12-23T01:03:01Z"}
+{"id":"12001192813","timestamp":"2025-09-24T02:50:50.459094026Z","domain":"portail.test1007.delivrance-verification.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-09-24T01:04:32Z","to":"2025-12-23T01:04:31Z"}
