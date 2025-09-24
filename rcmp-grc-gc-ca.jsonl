@@ -1234,3 +1234,6 @@
 {"id":"11975278519","timestamp":"2025-09-22T12:17:37.292905156Z","domain":"www.services2.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-09-22T00:00:00Z","to":"2026-10-23T23:59:59Z"}
 {"id":"11975278519","timestamp":"2025-09-22T12:17:37.292905237Z","domain":"www.services3.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-09-22T00:00:00Z","to":"2026-10-23T23:59:59Z"}
 {"id":"11975278519","timestamp":"2025-09-22T12:17:37.292905317Z","domain":"www.services.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-09-22T00:00:00Z","to":"2026-10-23T23:59:59Z"}
+{"id":"12009221762","timestamp":"2025-09-24T14:15:21.474358666Z","domain":"testserverdave.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2025-09-24T12:46:30Z","to":"2025-12-23T12:46:29Z"}
+{"id":"12009342263","timestamp":"2025-09-24T14:15:21.474359197Z","domain":"testdd2.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2025-09-24T12:54:50Z","to":"2025-12-23T12:54:49Z"}
+{"id":"12009342263","timestamp":"2025-09-24T14:15:21.474359498Z","domain":"testdd.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2025-09-24T12:54:50Z","to":"2025-12-23T12:54:49Z"}
