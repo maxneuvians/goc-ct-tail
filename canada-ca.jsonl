@@ -12355,3 +12355,5 @@
 {"id":"12010931942","timestamp":"2025-09-24T16:16:36.141649424Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-24T15:03:01Z","to":"2025-12-23T15:03:00Z"}
 {"id":"12010973757","timestamp":"2025-09-24T16:16:36.141649514Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-24T15:03:18Z","to":"2025-12-23T15:03:17Z"}
 {"id":"12010974949","timestamp":"2025-09-24T16:16:36.141649594Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-24T15:03:35Z","to":"2025-12-23T15:03:34Z"}
+{"id":"12011782015","timestamp":"2025-09-24T18:16:51.06018438Z","domain":"login-uat.indigenous-services.canada.ca","issuer":"DigiCert","from":"2025-09-24T00:00:00Z","to":"2026-03-24T23:59:59Z"}
+{"id":"12011841775","timestamp":"2025-09-24T18:16:51.060184891Z","domain":"login-uat.services-autochtones.canada.ca","issuer":"DigiCert","from":"2025-09-24T00:00:00Z","to":"2026-03-24T23:59:59Z"}
