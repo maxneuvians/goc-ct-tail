@@ -12419,3 +12419,12 @@
 {"id":"12028221366","timestamp":"2025-09-25T19:15:07.868733255Z","domain":"guide-alimentaire.canada.ca","issuer":"Google Trust Services","from":"2025-09-25T17:42:59Z","to":"2025-12-24T18:41:51Z"}
 {"id":"12028327148","timestamp":"2025-09-25T19:15:07.868733466Z","domain":"whoami.hcgenomics.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-25T17:55:46Z","to":"2025-12-24T17:55:45Z"}
 {"id":"12028328134","timestamp":"2025-09-25T19:15:07.868733656Z","domain":"portainer.hcgenomics.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-25T17:55:50Z","to":"2025-12-24T17:55:49Z"}
+{"id":"12028506244","timestamp":"2025-09-25T20:16:14.996258271Z","domain":"marque-canada-brand.agriculture.canada.ca","issuer":"Sectigo","from":"2025-09-25T00:00:00Z","to":"2026-10-26T23:59:59Z"}
+{"id":"12028542137","timestamp":"2025-09-25T20:16:14.996259082Z","domain":"estimateursv-oasestimator.service.canada.ca","issuer":"Sectigo","from":"2025-09-25T00:00:00Z","to":"2025-12-24T23:59:59Z"}
+{"id":"12029136208","timestamp":"2025-09-25T20:16:14.996259363Z","domain":"*.dids.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-25T19:06:31Z","to":"2025-12-24T19:06:30Z"}
+{"id":"12029136368","timestamp":"2025-09-25T20:16:14.996259603Z","domain":"didwebserver.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-25T19:06:32Z","to":"2025-12-24T19:06:31Z"}
+{"id":"12029140187","timestamp":"2025-09-25T20:16:14.996259724Z","domain":"portal.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-25T19:06:47Z","to":"2025-12-24T19:06:46Z"}
+{"id":"12029147221","timestamp":"2025-09-25T20:16:14.996260676Z","domain":"portail.prod.delivrance-verification.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-25T19:06:48Z","to":"2025-12-24T19:06:47Z"}
+{"id":"12029151547","timestamp":"2025-09-25T20:16:14.996260776Z","domain":"aqvc.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-25T19:07:28Z","to":"2025-12-24T19:07:27Z"}
+{"id":"12029153485","timestamp":"2025-09-25T20:16:14.996260896Z","domain":"api.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-25T19:07:34Z","to":"2025-12-24T19:07:33Z"}
+{"id":"12029153485","timestamp":"2025-09-25T20:16:14.996260996Z","domain":"realtime.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-25T19:07:34Z","to":"2025-12-24T19:07:33Z"}
