@@ -185,3 +185,8 @@
 {"id":"11727380614","timestamp":"2025-09-02T17:54:12.089806982Z","domain":"cwa-aec.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
 {"id":"11915085955","timestamp":"2025-09-17T18:54:11.775805215Z","domain":"epscdr.csc-scc.gc.ca","issuer":"Sectigo","from":"2025-09-17T00:00:00Z","to":"2026-09-29T23:59:59Z"}
 {"id":"11926180594","timestamp":"2025-09-18T15:55:08.543409358Z","domain":"epsc.csc-scc.gc.ca","issuer":"Sectigo","from":"2025-09-18T00:00:00Z","to":"2026-10-07T23:59:59Z"}
+{"id":"12026180463","timestamp":"2025-09-25T16:55:11.791621095Z","domain":"atlas-api-p1.apps.csc-scc.gc.ca","issuer":"Sectigo","from":"2025-09-25T00:00:00Z","to":"2026-10-26T23:59:59Z"}
+{"id":"12026180463","timestamp":"2025-09-25T16:55:11.791621455Z","domain":"atlas-batch-p1.apps.csc-scc.gc.ca","issuer":"Sectigo","from":"2025-09-25T00:00:00Z","to":"2026-10-26T23:59:59Z"}
+{"id":"12026180463","timestamp":"2025-09-25T16:55:11.791621686Z","domain":"atlas-pbi-p1.apps.csc-scc.gc.ca","issuer":"Sectigo","from":"2025-09-25T00:00:00Z","to":"2026-10-26T23:59:59Z"}
+{"id":"12026180463","timestamp":"2025-09-25T16:55:11.791621846Z","domain":"atlas-reports-p1.apps.csc-scc.gc.ca","issuer":"Sectigo","from":"2025-09-25T00:00:00Z","to":"2026-10-26T23:59:59Z"}
+{"id":"12026180463","timestamp":"2025-09-25T16:55:11.791621936Z","domain":"atlas-web-p1.apps.csc-scc.gc.ca","issuer":"Sectigo","from":"2025-09-25T00:00:00Z","to":"2026-10-26T23:59:59Z"}
