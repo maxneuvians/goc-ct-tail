@@ -12360,3 +12360,7 @@
 {"id":"12013214630","timestamp":"2025-09-24T20:16:06.19142243Z","domain":"performance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-24T18:39:18Z","to":"2025-12-23T18:39:17Z"}
 {"id":"12013449954","timestamp":"2025-09-24T20:16:06.191422791Z","domain":"resource-catalogue.ws-lakewatch.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-24T19:03:03Z","to":"2025-12-23T19:03:02Z"}
 {"id":"12014180715","timestamp":"2025-09-24T21:15:19.504555392Z","domain":"mlflow.ws-lakewatch.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-24T20:03:07Z","to":"2025-12-23T20:03:06Z"}
+{"id":"12020773655","timestamp":"2025-09-25T08:16:40.016928123Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-25T06:24:51Z","to":"2025-12-24T06:24:50Z"}
+{"id":"12020773655","timestamp":"2025-09-25T08:16:40.016928554Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-25T06:24:51Z","to":"2025-12-24T06:24:50Z"}
+{"id":"12020798831","timestamp":"2025-09-25T08:16:40.016929306Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-25T06:26:37Z","to":"2025-12-24T06:26:36Z"}
+{"id":"12020798831","timestamp":"2025-09-25T08:16:40.016929576Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-25T06:26:37Z","to":"2025-12-24T06:26:36Z"}
