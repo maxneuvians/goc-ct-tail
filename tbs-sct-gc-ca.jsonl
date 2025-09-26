@@ -709,3 +709,14 @@
 {"id":"12028731987","timestamp":"2025-09-25T20:35:16.246403632Z","domain":"v3-app-dev-wfa-win30-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-09-25T18:30:48Z","to":"2025-12-24T18:30:47Z"}
 {"id":"12028786782","timestamp":"2025-09-25T20:35:16.246403953Z","domain":"v3-app-dev-wfa-win30-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-09-25T18:34:52Z","to":"2025-12-24T18:34:51Z"}
 {"id":"12028821569","timestamp":"2025-09-25T20:35:16.246404103Z","domain":"v3-wfa-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-09-25T18:38:09Z","to":"2025-12-24T18:38:08Z"}
+{"id":"12040043675","timestamp":"2025-09-26T12:46:19.33077543Z","domain":"autodiscover.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
+{"id":"12040043675","timestamp":"2025-09-26T12:46:19.33077576Z","domain":"mail.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
+{"id":"12040043675","timestamp":"2025-09-26T12:46:19.330775981Z","domain":"mobile.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
+{"id":"12040043675","timestamp":"2025-09-26T12:46:19.330776141Z","domain":"tbs-mb-01.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
+{"id":"12040043675","timestamp":"2025-09-26T12:46:19.330776211Z","domain":"tbs-mb-02.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
+{"id":"12040043675","timestamp":"2025-09-26T12:46:19.330777093Z","domain":"tbs-mb-03.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
+{"id":"12040043675","timestamp":"2025-09-26T12:46:19.330777163Z","domain":"tbs-mb-04.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
+{"id":"12040043675","timestamp":"2025-09-26T12:46:19.330777223Z","domain":"tbs-mm-01.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
+{"id":"12040043675","timestamp":"2025-09-26T12:46:19.330777293Z","domain":"tbs-pf-01.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
+{"id":"12040043675","timestamp":"2025-09-26T12:46:19.330778195Z","domain":"tbs-pf-02.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
+{"id":"12040043675","timestamp":"2025-09-26T12:46:19.330778265Z","domain":"tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
