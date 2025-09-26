@@ -2914,6 +2914,11 @@
     "2025-09-24": {
       "DigiCert": 3,
       "Let's Encrypt": 13
+    },
+    "2025-09-25": {
+      "Let's Encrypt": 64,
+      "Google Trust Services": 2,
+      "Sectigo": 2
     }
   },
   "errors": []
