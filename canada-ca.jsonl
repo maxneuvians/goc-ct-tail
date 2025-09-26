@@ -12440,3 +12440,8 @@
 {"id":"12041459112","timestamp":"2025-09-26T15:15:59.097642121Z","domain":"p2x.fm2.canada.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
 {"id":"12041459112","timestamp":"2025-09-26T15:15:59.097642191Z","domain":"pbo.fm2.canada.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
 {"id":"12041459112","timestamp":"2025-09-26T15:15:59.097642261Z","domain":"pw1.fm2.canada.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
+{"id":"12041638266","timestamp":"2025-09-26T16:16:27.678280765Z","domain":"*.estimateursv-oasestimator.service.canada.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
+{"id":"12041638266","timestamp":"2025-09-26T16:16:27.678281146Z","domain":"estimateursv-oasestimator.service.canada.ca","issuer":"Sectigo","from":"2025-09-26T00:00:00Z","to":"2026-10-27T23:59:59Z"}
+{"id":"12042118598","timestamp":"2025-09-26T16:16:27.678281366Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-26T15:02:40Z","to":"2025-12-25T15:02:39Z"}
+{"id":"12042121288","timestamp":"2025-09-26T16:16:27.678281587Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-26T15:03:02Z","to":"2025-12-25T15:03:01Z"}
+{"id":"12042141470","timestamp":"2025-09-26T16:16:27.678281687Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-26T15:03:19Z","to":"2025-12-25T15:03:18Z"}
