@@ -2925,6 +2925,14 @@
       "DigiCert": 1,
       "Google Trust Services": 1,
       "Sectigo": 11
+    },
+    "2025-09-27": {
+      "Google Trust Services": 3,
+      "Let's Encrypt": 9
+    },
+    "2025-09-28": {
+      "Google Trust Services": 2,
+      "Let's Encrypt": 1
     }
   },
   "errors": []
