@@ -12467,3 +12467,5 @@
 {"id":"12061258922","timestamp":"2025-09-28T04:16:27.534021492Z","domain":"canary-workload.ssc-spc.com-test.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-09-28T02:26:53Z","to":"2025-12-27T03:20:26Z"}
 {"id":"12061456382","timestamp":"2025-09-28T04:16:27.534022163Z","domain":"canary-workload.ssc-spc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-09-28T02:48:46Z","to":"2025-12-27T03:42:38Z"}
 {"id":"12061640683","timestamp":"2025-09-28T04:16:27.534022424Z","domain":"repos.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-28T03:13:09Z","to":"2025-12-27T03:13:08Z"}
+{"id":"12066463835","timestamp":"2025-09-28T14:14:54.075405697Z","domain":"*.canada.ca","issuer":"DigiCert","from":"2025-09-28T00:00:00Z","to":"2026-09-29T23:59:59Z"}
+{"id":"12066463835","timestamp":"2025-09-28T14:14:54.075406047Z","domain":"canada.ca","issuer":"DigiCert","from":"2025-09-28T00:00:00Z","to":"2026-09-29T23:59:59Z"}
