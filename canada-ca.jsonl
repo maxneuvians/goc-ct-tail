@@ -12527,3 +12527,5 @@
 {"id":"12080720489","timestamp":"2025-09-29T16:16:01.1703234Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-29T15:03:02Z","to":"2025-12-28T15:03:01Z"}
 {"id":"12080720818","timestamp":"2025-09-29T16:16:01.1703235Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-29T15:03:21Z","to":"2025-12-28T15:03:20Z"}
 {"id":"12080814899","timestamp":"2025-09-29T17:15:33.629732319Z","domain":"preprod-pws-core.neics-nscei.canada.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12082179940","timestamp":"2025-09-29T19:15:07.662287469Z","domain":"gciv-dvgc.alpha.canada.ca","issuer":"DigiCert","from":"2025-09-29T00:00:00Z","to":"2026-03-29T23:59:59Z"}
+{"id":"12082187089","timestamp":"2025-09-29T19:15:07.6622878Z","domain":"preprod-pwsclient-core.neics-nscei.canada.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
