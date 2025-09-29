@@ -12498,3 +12498,31 @@
 {"id":"12079753898","timestamp":"2025-09-29T14:15:55.710293071Z","domain":"z6ua.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-09-29T13:09:28Z","to":"2025-12-28T13:09:27Z"}
 {"id":"12080211229","timestamp":"2025-09-29T15:15:58.443961079Z","domain":"gcsurplus-cass-mirror.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-09-29T00:00:00Z","to":"2026-10-28T23:59:59Z"}
 {"id":"12080211229","timestamp":"2025-09-29T15:15:58.443961881Z","domain":"gcsurplus-mirror.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-09-29T00:00:00Z","to":"2026-10-28T23:59:59Z"}
+{"id":"12080293161","timestamp":"2025-09-29T16:16:01.170317158Z","domain":"it-ti.acquisition.canada.ca","issuer":"Let's Encrypt","from":"2025-09-29T14:20:09Z","to":"2025-12-28T14:20:08Z"}
+{"id":"12080307923","timestamp":"2025-09-29T16:16:01.170317839Z","domain":"it-ti.acquisition.canada.ca","issuer":"Let's Encrypt","from":"2025-09-29T14:20:20Z","to":"2025-12-28T14:20:19Z"}
+{"id":"12080539503","timestamp":"2025-09-29T16:16:01.17031809Z","domain":"fcac-compliance-conformite-acfc.canada.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.17031839Z","domain":"parcs.canada.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.17031851Z","domain":"parcscanada.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170319612Z","domain":"parcscanada.com","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170319702Z","domain":"parcscanada.gc.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170319803Z","domain":"parks.canada.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170319893Z","domain":"parkscanada.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170320804Z","domain":"parkscanada.gc.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170320905Z","domain":"pc.gc.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170320995Z","domain":"secure.pc.gc.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170321085Z","domain":"www2.parcscanada.gc.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170321175Z","domain":"www2.parkscanada.gc.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170321265Z","domain":"www.parcs.canada.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170321366Z","domain":"www.parcscanada.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170321456Z","domain":"www.parcscanada.com","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170321536Z","domain":"www.parcscanada.gc.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170322378Z","domain":"www.parks.canada.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170322468Z","domain":"www.parkscanada.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170322558Z","domain":"www.parkscanada.gc.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080553524","timestamp":"2025-09-29T16:16:01.170322648Z","domain":"www.pc.gc.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080631296","timestamp":"2025-09-29T16:16:01.170322758Z","domain":"preprod-pws-core.neics-nscei.canada.ca","issuer":"Sectigo","from":"2025-09-29T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"12080681034","timestamp":"2025-09-29T16:16:01.170322868Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-29T15:02:26Z","to":"2025-12-28T15:02:25Z"}
+{"id":"12080690417","timestamp":"2025-09-29T16:16:01.170322979Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-29T15:03:38Z","to":"2025-12-28T15:03:37Z"}
+{"id":"12080719286","timestamp":"2025-09-29T16:16:01.170323299Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-29T15:02:45Z","to":"2025-12-28T15:02:44Z"}
+{"id":"12080720489","timestamp":"2025-09-29T16:16:01.1703234Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-29T15:03:02Z","to":"2025-12-28T15:03:01Z"}
+{"id":"12080720818","timestamp":"2025-09-29T16:16:01.1703235Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-29T15:03:21Z","to":"2025-12-28T15:03:20Z"}
