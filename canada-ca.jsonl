@@ -12496,3 +12496,5 @@
 {"id":"12079753898","timestamp":"2025-09-29T14:15:55.710292931Z","domain":"x9l2.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-09-29T13:09:28Z","to":"2025-12-28T13:09:27Z"}
 {"id":"12079753898","timestamp":"2025-09-29T14:15:55.710293001Z","domain":"y3tx.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-09-29T13:09:28Z","to":"2025-12-28T13:09:27Z"}
 {"id":"12079753898","timestamp":"2025-09-29T14:15:55.710293071Z","domain":"z6ua.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-09-29T13:09:28Z","to":"2025-12-28T13:09:27Z"}
+{"id":"12080211229","timestamp":"2025-09-29T15:15:58.443961079Z","domain":"gcsurplus-cass-mirror.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-09-29T00:00:00Z","to":"2026-10-28T23:59:59Z"}
+{"id":"12080211229","timestamp":"2025-09-29T15:15:58.443961881Z","domain":"gcsurplus-mirror.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-09-29T00:00:00Z","to":"2026-10-28T23:59:59Z"}
