@@ -667,3 +667,7 @@
 {"id":"11992573897","timestamp":"2025-09-23T15:35:22.871606097Z","domain":"audit.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-09-23T13:57:45Z","to":"2025-12-22T13:57:44Z"}
 {"id":"11993442386","timestamp":"2025-09-23T16:38:27.24145622Z","domain":"audit.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-09-23T15:02:41Z","to":"2025-12-22T15:02:40Z"}
 {"id":"12048352874","timestamp":"2025-09-27T02:48:15.684997174Z","domain":"beaver.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-09-27T01:20:23Z","to":"2025-12-26T01:20:22Z"}
+{"id":"12090363969","timestamp":"2025-09-30T10:37:47.582767953Z","domain":"beaver.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-09-30T09:01:52Z","to":"2025-12-29T09:01:51Z"}
+{"id":"12090375846","timestamp":"2025-09-30T10:37:47.582768304Z","domain":"*.s3.uranus.nbs.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-09-30T09:02:00Z","to":"2025-12-29T09:01:59Z"}
+{"id":"12090378897","timestamp":"2025-09-30T10:37:47.582768554Z","domain":"*.services.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-09-30T09:02:28Z","to":"2025-12-29T09:02:27Z"}
+{"id":"12090378897","timestamp":"2025-09-30T10:37:47.582768765Z","domain":"services.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-09-30T09:02:28Z","to":"2025-12-29T09:02:27Z"}
