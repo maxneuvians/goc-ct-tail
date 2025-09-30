@@ -12538,3 +12538,9 @@
 {"id":"12090217095","timestamp":"2025-09-30T10:16:25.125383994Z","domain":"clinical-trials-search.canada.ca","issuer":"Google Trust Services","from":"2025-09-30T08:41:02Z","to":"2025-12-29T09:39:54Z"}
 {"id":"12090219158","timestamp":"2025-09-30T10:16:25.125385296Z","domain":"clinical-trials-search.canada.ca","issuer":"Google Trust Services","from":"2025-09-30T08:41:12Z","to":"2025-12-29T09:41:08Z"}
 {"id":"12092078635","timestamp":"2025-09-30T13:19:57.350130059Z","domain":"keycloak.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-09-30T12:03:57Z","to":"2025-12-29T12:03:56Z"}
+{"id":"12093935509","timestamp":"2025-09-30T16:16:36.810099278Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-30T15:02:22Z","to":"2025-12-29T15:02:21Z"}
+{"id":"12093936768","timestamp":"2025-09-30T16:16:36.810100139Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-30T15:02:43Z","to":"2025-12-29T15:02:42Z"}
+{"id":"12093939131","timestamp":"2025-09-30T16:16:36.8101004Z","domain":"*.cloudopsportal.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-30T15:02:59Z","to":"2025-12-29T15:02:58Z"}
+{"id":"12093939267","timestamp":"2025-09-30T16:16:36.81010063Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-30T15:03:03Z","to":"2025-12-29T15:03:02Z"}
+{"id":"12093940767","timestamp":"2025-09-30T16:16:36.81010072Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-30T15:03:20Z","to":"2025-12-29T15:03:19Z"}
+{"id":"12093944560","timestamp":"2025-09-30T16:16:36.810101302Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-30T15:03:38Z","to":"2025-12-29T15:03:37Z"}
