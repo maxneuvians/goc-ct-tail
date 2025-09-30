@@ -12535,3 +12535,5 @@
 {"id":"12088939930","timestamp":"2025-09-30T08:17:04.115537147Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-30T06:25:51Z","to":"2025-12-29T06:25:50Z"}
 {"id":"12088949967","timestamp":"2025-09-30T08:17:04.115537578Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-30T06:24:48Z","to":"2025-12-29T06:24:47Z"}
 {"id":"12088949967","timestamp":"2025-09-30T08:17:04.115537778Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-09-30T06:24:48Z","to":"2025-12-29T06:24:47Z"}
+{"id":"12090217095","timestamp":"2025-09-30T10:16:25.125383994Z","domain":"clinical-trials-search.canada.ca","issuer":"Google Trust Services","from":"2025-09-30T08:41:02Z","to":"2025-12-29T09:39:54Z"}
+{"id":"12090219158","timestamp":"2025-09-30T10:16:25.125385296Z","domain":"clinical-trials-search.canada.ca","issuer":"Google Trust Services","from":"2025-09-30T08:41:12Z","to":"2025-12-29T09:41:08Z"}
