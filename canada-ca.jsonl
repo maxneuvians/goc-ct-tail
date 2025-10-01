@@ -12544,3 +12544,6 @@
 {"id":"12093939267","timestamp":"2025-09-30T16:16:36.81010063Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-30T15:03:03Z","to":"2025-12-29T15:03:02Z"}
 {"id":"12093940767","timestamp":"2025-09-30T16:16:36.81010072Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-30T15:03:20Z","to":"2025-12-29T15:03:19Z"}
 {"id":"12093944560","timestamp":"2025-09-30T16:16:36.810101302Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-09-30T15:03:38Z","to":"2025-12-29T15:03:37Z"}
+{"id":"12101249998","timestamp":"2025-10-01T06:16:55.881309303Z","domain":"nrcan-rncan.canada.ca","issuer":"Let's Encrypt","from":"2025-10-01T04:13:03Z","to":"2025-12-30T04:13:02Z"}
+{"id":"12101249998","timestamp":"2025-10-01T06:16:55.881309774Z","domain":"rncan-nrcan.canada.ca","issuer":"Let's Encrypt","from":"2025-10-01T04:13:03Z","to":"2025-12-30T04:13:02Z"}
+{"id":"12101249998","timestamp":"2025-10-01T06:16:55.881309994Z","domain":"www2.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-01T04:13:03Z","to":"2025-12-30T04:13:02Z"}
