@@ -12554,3 +12554,6 @@
 {"id":"12107544391","timestamp":"2025-10-01T16:16:30.67865856Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-01T15:03:43Z","to":"2025-12-30T15:03:42Z"}
 {"id":"12107554949","timestamp":"2025-10-01T16:16:30.678658669Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-01T15:03:05Z","to":"2025-12-30T15:03:04Z"}
 {"id":"12108239642","timestamp":"2025-10-01T18:16:53.190906103Z","domain":"incident-forwarder.mgmt.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-10-01T16:20:47Z","to":"2025-12-30T17:16:42Z"}
+{"id":"12109222660","timestamp":"2025-10-01T20:16:17.876029389Z","domain":"test.irb-cisr.canada.ca","issuer":"Sectigo","from":"2025-10-01T00:00:00Z","to":"2026-11-01T23:59:59Z"}
+{"id":"12109344847","timestamp":"2025-10-01T20:16:17.876030431Z","domain":"mlflow.ws-nitrogen.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-10-01T18:22:05Z","to":"2025-12-30T18:22:04Z"}
+{"id":"12109369535","timestamp":"2025-10-01T20:16:17.876030732Z","domain":"resource-catalogue.ws-nitrogen.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-10-01T18:22:06Z","to":"2025-12-30T18:22:05Z"}
