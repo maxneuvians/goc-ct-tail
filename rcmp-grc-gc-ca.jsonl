@@ -1237,3 +1237,4 @@
 {"id":"12009221762","timestamp":"2025-09-24T14:15:21.474358666Z","domain":"testserverdave.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2025-09-24T12:46:30Z","to":"2025-12-23T12:46:29Z"}
 {"id":"12009342263","timestamp":"2025-09-24T14:15:21.474359197Z","domain":"testdd2.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2025-09-24T12:54:50Z","to":"2025-12-23T12:54:49Z"}
 {"id":"12009342263","timestamp":"2025-09-24T14:15:21.474359498Z","domain":"testdd.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2025-09-24T12:54:50Z","to":"2025-12-23T12:54:49Z"}
+{"id":"12107489753","timestamp":"2025-10-01T16:16:31.082862621Z","domain":"fileshare-partagedefichier.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-10-01T00:00:00Z","to":"2026-11-01T23:59:59Z"}
