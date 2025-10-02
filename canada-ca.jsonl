@@ -12557,3 +12557,7 @@
 {"id":"12109222660","timestamp":"2025-10-01T20:16:17.876029389Z","domain":"test.irb-cisr.canada.ca","issuer":"Sectigo","from":"2025-10-01T00:00:00Z","to":"2026-11-01T23:59:59Z"}
 {"id":"12109344847","timestamp":"2025-10-01T20:16:17.876030431Z","domain":"mlflow.ws-nitrogen.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-10-01T18:22:05Z","to":"2025-12-30T18:22:04Z"}
 {"id":"12109369535","timestamp":"2025-10-01T20:16:17.876030732Z","domain":"resource-catalogue.ws-nitrogen.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-10-01T18:22:06Z","to":"2025-12-30T18:22:05Z"}
+{"id":"12116256403","timestamp":"2025-10-02T08:16:39.873937432Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-02T06:24:49Z","to":"2025-12-31T06:24:48Z"}
+{"id":"12116256403","timestamp":"2025-10-02T08:16:39.873938063Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-02T06:24:49Z","to":"2025-12-31T06:24:48Z"}
+{"id":"12116270204","timestamp":"2025-10-02T08:16:39.873938304Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-02T06:26:00Z","to":"2025-12-31T06:25:59Z"}
+{"id":"12116270204","timestamp":"2025-10-02T08:16:39.873938514Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-02T06:26:00Z","to":"2025-12-31T06:25:59Z"}
