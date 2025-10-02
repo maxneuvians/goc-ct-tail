@@ -12576,3 +12576,14 @@
 {"id":"12121363679","timestamp":"2025-10-02T16:16:26.983883817Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-02T15:03:18Z","to":"2025-12-31T15:03:17Z"}
 {"id":"12121609649","timestamp":"2025-10-02T17:14:51.389793319Z","domain":"*.api.signin-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
 {"id":"12121609649","timestamp":"2025-10-02T17:14:51.389793679Z","domain":"api.signin-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
+{"id":"12122180168","timestamp":"2025-10-02T18:16:47.783234493Z","domain":"mlflow.ws-composite.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-10-02T16:25:48Z","to":"2025-12-31T16:25:47Z"}
+{"id":"12122181358","timestamp":"2025-10-02T18:16:47.783235024Z","domain":"resource-catalogue.ws-composite.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-10-02T16:25:46Z","to":"2025-12-31T16:25:45Z"}
+{"id":"12122379871","timestamp":"2025-10-02T18:16:47.783235365Z","domain":"*.sign-in.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
+{"id":"12122379871","timestamp":"2025-10-02T18:16:47.783235665Z","domain":"sign-in.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
+{"id":"12122380212","timestamp":"2025-10-02T18:16:47.783235775Z","domain":"*.app.signin-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
+{"id":"12122380212","timestamp":"2025-10-02T18:16:47.783236917Z","domain":"app.signin-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
+{"id":"12122380250","timestamp":"2025-10-02T18:16:47.783237038Z","domain":"*.connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
+{"id":"12122380250","timestamp":"2025-10-02T18:16:47.783237138Z","domain":"connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
+{"id":"12122427795","timestamp":"2025-10-02T18:16:47.783237248Z","domain":"*.rp.app.signin-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
+{"id":"12122427795","timestamp":"2025-10-02T18:16:47.7832383Z","domain":"rp.app.signin-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
+{"id":"12122483282","timestamp":"2025-10-02T18:16:47.7832384Z","domain":"ramco-api-aimms-sgima.tc.canada.ca","issuer":"Sectigo","from":"2025-10-02T00:00:00Z","to":"2026-11-02T23:59:59Z"}
