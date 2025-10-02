@@ -1103,3 +1103,5 @@
 {"id":"11990281601","timestamp":"2025-09-23T12:31:01.43145172Z","domain":"pst-opp.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-09-23T00:00:00Z","to":"2026-10-24T23:59:59Z"}
 {"id":"11990281601","timestamp":"2025-09-23T12:31:01.431452451Z","domain":"pst-opp-uat.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-09-23T00:00:00Z","to":"2026-10-24T23:59:59Z"}
 {"id":"12107654528","timestamp":"2025-10-01T16:29:15.326333539Z","domain":"policy-reporter.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-10-01T15:17:19Z","to":"2025-12-30T15:17:18Z"}
+{"id":"12114480319","timestamp":"2025-10-02T05:26:47.813440839Z","domain":"api-spine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-10-02T03:36:34Z","to":"2025-12-31T03:36:33Z"}
+{"id":"12114480319","timestamp":"2025-10-02T05:26:47.81344131Z","domain":"api-spine.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-10-02T03:36:34Z","to":"2025-12-31T03:36:33Z"}
