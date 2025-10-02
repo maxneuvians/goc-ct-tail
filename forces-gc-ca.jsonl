@@ -1654,3 +1654,5 @@
 {"id":"12119828639","timestamp":"2025-10-02T14:15:42.0749172Z","domain":"*.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-02T12:29:29Z","to":"2025-12-31T12:29:28Z"}
 {"id":"12119828639","timestamp":"2025-10-02T14:15:42.074917842Z","domain":"*.rcaf.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-02T12:29:29Z","to":"2025-12-31T12:29:28Z"}
 {"id":"12119828639","timestamp":"2025-10-02T14:15:42.074918072Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-02T12:29:29Z","to":"2025-12-31T12:29:28Z"}
+{"id":"12122635255","timestamp":"2025-10-02T19:14:55.050108666Z","domain":"*.armydatalayer-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
+{"id":"12122635255","timestamp":"2025-10-02T19:14:55.050109728Z","domain":"armydatalayer-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
