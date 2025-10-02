@@ -12574,3 +12574,5 @@
 {"id":"12121360617","timestamp":"2025-10-02T16:16:26.983883437Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-02T15:02:44Z","to":"2025-12-31T15:02:43Z"}
 {"id":"12121360973","timestamp":"2025-10-02T16:16:26.983883697Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-02T15:03:01Z","to":"2025-12-31T15:03:00Z"}
 {"id":"12121363679","timestamp":"2025-10-02T16:16:26.983883817Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-02T15:03:18Z","to":"2025-12-31T15:03:17Z"}
+{"id":"12121609649","timestamp":"2025-10-02T17:14:51.389793319Z","domain":"*.api.signin-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
+{"id":"12121609649","timestamp":"2025-10-02T17:14:51.389793679Z","domain":"api.signin-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
