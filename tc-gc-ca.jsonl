@@ -319,3 +319,6 @@
 {"id":"11968839624","timestamp":"2025-09-22T00:38:01.837355463Z","domain":"*.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-09-21T23:03:51Z","to":"2025-12-20T23:03:50Z"}
 {"id":"11968839624","timestamp":"2025-09-22T00:38:01.837355984Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2025-09-21T23:03:51Z","to":"2025-12-20T23:03:50Z"}
 {"id":"12132274802","timestamp":"2025-10-03T13:17:30.980311383Z","domain":"wwwapps2.tc.gc.ca","issuer":"Sectigo","from":"2025-10-03T00:00:00Z","to":"2026-11-03T23:59:59Z"}
+{"id":"12134156516","timestamp":"2025-10-03T16:16:22.83799092Z","domain":"ncrws554.tc.gc.ca","issuer":"Sectigo","from":"2025-10-03T00:00:00Z","to":"2026-11-03T23:59:59Z"}
+{"id":"12134192732","timestamp":"2025-10-03T16:16:22.83799129Z","domain":"eig.tc.gc.ca","issuer":"Sectigo","from":"2025-10-03T00:00:00Z","to":"2026-11-03T23:59:59Z"}
+{"id":"12134235841","timestamp":"2025-10-03T16:16:22.837991471Z","domain":"eigacc.tc.gc.ca","issuer":"Sectigo","from":"2025-10-03T00:00:00Z","to":"2026-11-03T23:59:59Z"}
