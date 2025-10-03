@@ -2949,6 +2949,15 @@
       "Let's Encrypt": 10,
       "Google Trust Services": 2,
       "Sectigo": 1
+    },
+    "2025-10-02": {
+      "Let's Encrypt": 15,
+      "Sectigo": 5,
+      "Amazon Trust Services": 10,
+      "Google Trust Services": 1
+    },
+    "2025-10-03": {
+      "Let's Encrypt": 1
     }
   },
   "errors": []
