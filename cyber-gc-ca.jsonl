@@ -673,3 +673,5 @@
 {"id":"12090378897","timestamp":"2025-09-30T10:37:47.582768765Z","domain":"services.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-09-30T09:02:28Z","to":"2025-12-29T09:02:27Z"}
 {"id":"12113154776","timestamp":"2025-10-02T02:49:01.661257599Z","domain":"jimbob.test.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-02T01:20:47Z","to":"2025-12-31T01:20:46Z"}
 {"id":"12119235772","timestamp":"2025-10-02T12:45:59.229605272Z","domain":"*.services.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-02T11:24:55Z","to":"2025-12-31T11:24:54Z"}
+{"id":"12133863797","timestamp":"2025-10-03T15:34:13.533085571Z","domain":"observationdeck.cyber.gc.ca","issuer":"Sectigo","from":"2025-10-03T00:00:00Z","to":"2026-11-03T23:59:59Z"}
+{"id":"12133863797","timestamp":"2025-10-03T15:34:13.533086112Z","domain":"www.observationdeck.cyber.gc.ca","issuer":"Sectigo","from":"2025-10-03T00:00:00Z","to":"2026-11-03T23:59:59Z"}
