@@ -12601,3 +12601,7 @@
 {"id":"12136952998","timestamp":"2025-10-03T22:15:19.114146366Z","domain":"aurora.gccloudone.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-10-03T20:24:08Z","to":"2026-01-01T20:24:07Z"}
 {"id":"12138031920","timestamp":"2025-10-04T00:32:29.792276572Z","domain":"gccloudone.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-10-03T22:50:07Z","to":"2026-01-01T22:50:06Z"}
 {"id":"12141023712","timestamp":"2025-10-04T06:16:34.592692899Z","domain":"dol-uat.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-04T04:45:51Z","to":"2026-01-02T04:45:50Z"}
+{"id":"12143801283","timestamp":"2025-10-04T12:17:07.928234329Z","domain":"lighthouse.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-10-04T00:00:00Z","to":"2026-04-04T23:59:59Z"}
+{"id":"12144142707","timestamp":"2025-10-04T12:17:07.92823507Z","domain":"incident-forwarder.mgmt.preprod.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-10-04T10:52:49Z","to":"2026-01-02T11:48:45Z"}
+{"id":"12144205630","timestamp":"2025-10-04T12:17:07.9282353Z","domain":"spc-approagile-immersif.canada.ca","issuer":"Let's Encrypt","from":"2025-10-04T11:02:53Z","to":"2026-01-02T11:02:52Z"}
+{"id":"12144205630","timestamp":"2025-10-04T12:17:07.928235511Z","domain":"ssc-agileprocurement-immersive.canada.ca","issuer":"Let's Encrypt","from":"2025-10-04T11:02:53Z","to":"2026-01-02T11:02:52Z"}
