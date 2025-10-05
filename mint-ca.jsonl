@@ -380,3 +380,6 @@
 {"id":"12135890638","timestamp":"2025-10-03T19:33:26.381551454Z","domain":"rcmdnaqaext.mint.ca","issuer":"Sectigo","from":"2025-10-03T00:00:00Z","to":"2026-10-02T23:59:59Z"}
 {"id":"12137962024","timestamp":"2025-10-04T00:48:42.580127694Z","domain":"business.mint.ca","issuer":"Google Trust Services","from":"2025-10-03T22:34:59Z","to":"2026-01-01T23:34:57Z"}
 {"id":"12137971710","timestamp":"2025-10-04T00:48:42.580128065Z","domain":"business.mint.ca","issuer":"Google Trust Services","from":"2025-10-03T22:34:51Z","to":"2026-01-01T23:00:14Z"}
+{"id":"12152350887","timestamp":"2025-10-05T02:56:53.930985874Z","domain":"content.mint.ca","issuer":"Let's Encrypt","from":"2025-10-05T01:12:30Z","to":"2026-01-03T01:12:29Z"}
+{"id":"12152353898","timestamp":"2025-10-05T02:56:53.930986556Z","domain":"forms.mint.ca","issuer":"Let's Encrypt","from":"2025-10-05T01:13:39Z","to":"2026-01-03T01:13:38Z"}
+{"id":"12152361904","timestamp":"2025-10-05T02:56:53.930986846Z","domain":"pages.mint.ca","issuer":"Let's Encrypt","from":"2025-10-05T01:15:23Z","to":"2026-01-03T01:15:22Z"}
