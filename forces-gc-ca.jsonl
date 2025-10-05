@@ -1658,3 +1658,11 @@
 {"id":"12122635255","timestamp":"2025-10-02T19:14:55.050109728Z","domain":"armydatalayer-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
 {"id":"12123974344","timestamp":"2025-10-02T21:15:12.037765829Z","domain":"cms.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
 {"id":"12124037764","timestamp":"2025-10-02T21:15:12.03776611Z","domain":"admin.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-02T00:00:00Z","to":"2026-10-31T23:59:59Z"}
+{"id":"12150949970","timestamp":"2025-10-05T00:38:04.138774553Z","domain":"*.admmat.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-04T23:02:46Z","to":"2026-01-02T23:02:45Z"}
+{"id":"12150949970","timestamp":"2025-10-05T00:38:04.138774903Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-04T23:02:46Z","to":"2026-01-02T23:02:45Z"}
+{"id":"12150949970","timestamp":"2025-10-05T00:38:04.138775134Z","domain":"*.cjoc.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-04T23:02:46Z","to":"2026-01-02T23:02:45Z"}
+{"id":"12150949970","timestamp":"2025-10-05T00:38:04.138775354Z","domain":"*.drdc.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-04T23:02:46Z","to":"2026-01-02T23:02:45Z"}
+{"id":"12150949970","timestamp":"2025-10-05T00:38:04.138775444Z","domain":"*.navy.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-04T23:02:46Z","to":"2026-01-02T23:02:45Z"}
+{"id":"12150949970","timestamp":"2025-10-05T00:38:04.138776737Z","domain":"*.rcaf.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-04T23:02:46Z","to":"2026-01-02T23:02:45Z"}
+{"id":"12150949970","timestamp":"2025-10-05T00:38:04.138776817Z","domain":"*.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-04T23:02:46Z","to":"2026-01-02T23:02:45Z"}
+{"id":"12150949970","timestamp":"2025-10-05T00:38:04.138776897Z","domain":"*.vcds.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-04T23:02:46Z","to":"2026-01-02T23:02:45Z"}
