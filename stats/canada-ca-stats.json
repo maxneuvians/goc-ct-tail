@@ -2960,6 +2960,14 @@
       "Let's Encrypt": 9,
       "Sectigo": 1,
       "Amazon Trust Services": 2
+    },
+    "2025-10-04": {
+      "Let's Encrypt": 9,
+      "DigiCert": 1,
+      "Google Trust Services": 1
+    },
+    "2025-10-05": {
+      "Amazon Trust Services": 2
     }
   },
   "errors": []
