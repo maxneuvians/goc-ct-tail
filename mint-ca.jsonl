@@ -383,3 +383,19 @@
 {"id":"12152350887","timestamp":"2025-10-05T02:56:53.930985874Z","domain":"content.mint.ca","issuer":"Let's Encrypt","from":"2025-10-05T01:12:30Z","to":"2026-01-03T01:12:29Z"}
 {"id":"12152353898","timestamp":"2025-10-05T02:56:53.930986556Z","domain":"forms.mint.ca","issuer":"Let's Encrypt","from":"2025-10-05T01:13:39Z","to":"2026-01-03T01:13:38Z"}
 {"id":"12152361904","timestamp":"2025-10-05T02:56:53.930986846Z","domain":"pages.mint.ca","issuer":"Let's Encrypt","from":"2025-10-05T01:15:23Z","to":"2026-01-03T01:15:22Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.323226577Z","domain":"autodiscover.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.323227489Z","domain":"eas.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.323227789Z","domain":"ews.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.32322805Z","domain":"mail.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.32322815Z","domain":"mb11oipv.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.323229292Z","domain":"mb12oipv.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.323229402Z","domain":"mb13wipv.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.323229492Z","domain":"mb21oipv.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.323229592Z","domain":"mb22wipv.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.323230765Z","domain":"mrs1.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.323230865Z","domain":"mrs2.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.323230955Z","domain":"mrs.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.323231045Z","domain":"oab.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.323231135Z","domain":"ottmail.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.323231236Z","domain":"outlook.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"12173918976","timestamp":"2025-10-06T19:33:35.323231326Z","domain":"wpgmail.mint.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-04T23:59:59Z"}
