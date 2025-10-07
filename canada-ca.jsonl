@@ -12686,3 +12686,7 @@
 {"id":"12173659455","timestamp":"2025-10-06T19:15:04.324308512Z","domain":"portal.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-10-06T17:30:58Z","to":"2026-01-04T17:30:57Z"}
 {"id":"12173659467","timestamp":"2025-10-06T19:15:04.324308922Z","domain":"portail.prod.delivrance-verification.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-10-06T17:30:58Z","to":"2026-01-04T17:30:57Z"}
 {"id":"12174049278","timestamp":"2025-10-06T20:16:05.110851229Z","domain":"d2x.fm2.canada.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-06T23:59:59Z"}
+{"id":"12180745931","timestamp":"2025-10-07T08:16:51.224696665Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-07T06:24:50Z","to":"2026-01-05T06:24:49Z"}
+{"id":"12180745931","timestamp":"2025-10-07T08:16:51.224697055Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-07T06:24:50Z","to":"2026-01-05T06:24:49Z"}
+{"id":"12180761542","timestamp":"2025-10-07T08:16:51.224697326Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-07T06:25:52Z","to":"2026-01-05T06:25:51Z"}
+{"id":"12180761542","timestamp":"2025-10-07T08:16:51.224697536Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-07T06:25:52Z","to":"2026-01-05T06:25:51Z"}
