@@ -12690,3 +12690,7 @@
 {"id":"12180745931","timestamp":"2025-10-07T08:16:51.224697055Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-07T06:24:50Z","to":"2026-01-05T06:24:49Z"}
 {"id":"12180761542","timestamp":"2025-10-07T08:16:51.224697326Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-07T06:25:52Z","to":"2026-01-05T06:25:51Z"}
 {"id":"12180761542","timestamp":"2025-10-07T08:16:51.224697536Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-07T06:25:52Z","to":"2026-01-05T06:25:51Z"}
+{"id":"12182961883","timestamp":"2025-10-07T12:17:34.039951907Z","domain":"xc1-dev.gcfm.canada.ca","issuer":"Sectigo","from":"2025-10-07T00:00:00Z","to":"2026-11-07T23:59:59Z"}
+{"id":"12182961883","timestamp":"2025-10-07T12:17:34.039953059Z","domain":"xh1-dev.gcfm.canada.ca","issuer":"Sectigo","from":"2025-10-07T00:00:00Z","to":"2026-11-07T23:59:59Z"}
+{"id":"12182961883","timestamp":"2025-10-07T12:17:34.03995367Z","domain":"xtj-dev.gcfm.canada.ca","issuer":"Sectigo","from":"2025-10-07T00:00:00Z","to":"2026-11-07T23:59:59Z"}
+{"id":"12183011160","timestamp":"2025-10-07T12:17:34.039954873Z","domain":"tc3-dev.gcfm.canada.ca","issuer":"Sectigo","from":"2025-10-07T00:00:00Z","to":"2026-11-07T23:59:59Z"}
