@@ -677,3 +677,5 @@
 {"id":"12133863797","timestamp":"2025-10-03T15:34:13.533086112Z","domain":"www.observationdeck.cyber.gc.ca","issuer":"Sectigo","from":"2025-10-03T00:00:00Z","to":"2026-11-03T23:59:59Z"}
 {"id":"12170131556","timestamp":"2025-10-06T12:46:26.132703512Z","domain":"ise1.cyber.gc.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-06T23:59:59Z"}
 {"id":"12170160722","timestamp":"2025-10-06T13:39:42.150358199Z","domain":"ise2.cyber.gc.ca","issuer":"Sectigo","from":"2025-10-06T00:00:00Z","to":"2026-11-06T23:59:59Z"}
+{"id":"12182087805","timestamp":"2025-10-07T10:36:58.356303189Z","domain":"cyberpostureassessments.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-07T09:02:27Z","to":"2026-01-05T09:02:26Z"}
+{"id":"12182099279","timestamp":"2025-10-07T10:36:58.35630378Z","domain":"gw8.misp.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-07T09:01:56Z","to":"2026-01-05T09:01:55Z"}
