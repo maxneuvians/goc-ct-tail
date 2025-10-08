@@ -642,3 +642,5 @@
 {"id":"12076023270","timestamp":"2025-09-29T07:43:41.05875056Z","domain":"www.uatsc10id.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-09-29T00:00:00Z","to":"2026-09-28T23:59:59Z"}
 {"id":"12134493807","timestamp":"2025-10-03T16:46:04.103687458Z","domain":"labvpn1.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-10-03T00:00:00Z","to":"2026-10-02T23:59:59Z"}
 {"id":"12134493807","timestamp":"2025-10-03T16:46:04.103687778Z","domain":"remotelab.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-10-03T00:00:00Z","to":"2026-10-02T23:59:59Z"}
+{"id":"12200227940","timestamp":"2025-10-08T21:43:35.970102055Z","domain":"*.cmhc-schl.gc.ca","issuer":"Sectigo","from":"2025-10-08T00:00:00Z","to":"2025-12-31T08:35:27Z"}
+{"id":"12200227940","timestamp":"2025-10-08T21:43:35.970102426Z","domain":"cmhc-schl.gc.ca","issuer":"Sectigo","from":"2025-10-08T00:00:00Z","to":"2025-12-31T08:35:27Z"}
