@@ -727,3 +727,11 @@
 {"id":"12133838478","timestamp":"2025-10-03T15:34:13.220069843Z","domain":"v3-wfa-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-10-03T14:09:41Z","to":"2026-01-01T14:09:40Z"}
 {"id":"12133844581","timestamp":"2025-10-03T15:34:13.220070033Z","domain":"v3-calipersplus-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-10-03T14:10:13Z","to":"2026-01-01T14:10:12Z"}
 {"id":"12133873410","timestamp":"2025-10-03T15:34:13.220070123Z","domain":"pbi-pcis.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-10-03T14:13:24Z","to":"2026-01-01T14:13:23Z"}
+{"id":"12197699220","timestamp":"2025-10-08T16:38:38.089606536Z","domain":"pbi-pcis.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-10-08T15:05:17Z","to":"2026-01-06T15:05:16Z"}
+{"id":"12197703126","timestamp":"2025-10-08T16:38:38.08960699Z","domain":"v3-cwf-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-10-08T15:05:44Z","to":"2026-01-06T15:05:43Z"}
+{"id":"12197704398","timestamp":"2025-10-08T16:38:38.089607317Z","domain":"v3-wfa-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-10-08T15:06:09Z","to":"2026-01-06T15:06:08Z"}
+{"id":"12197709656","timestamp":"2025-10-08T16:38:38.089607606Z","domain":"v3-pbi-rcp-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-10-08T15:06:39Z","to":"2026-01-06T15:06:38Z"}
+{"id":"12197721403","timestamp":"2025-10-08T16:38:38.089607712Z","domain":"v3-calipersplus-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-10-08T15:07:06Z","to":"2026-01-06T15:07:05Z"}
+{"id":"12197734533","timestamp":"2025-10-08T16:38:38.089609115Z","domain":"v3-pbi-rcp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-10-08T15:08:07Z","to":"2026-01-06T15:08:06Z"}
+{"id":"12197884143","timestamp":"2025-10-08T16:38:38.089609195Z","domain":"v3-pbi-rcp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-10-08T15:23:45Z","to":"2026-01-06T15:23:44Z"}
+{"id":"12197897815","timestamp":"2025-10-08T16:38:38.089609273Z","domain":"v3-pbi-rcp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-10-08T15:25:30Z","to":"2026-01-06T15:25:29Z"}
