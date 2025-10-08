@@ -1111,3 +1111,6 @@
 {"id":"12156598702","timestamp":"2025-10-05T11:22:46.694992438Z","domain":"api.test.spine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-10-05T09:51:51Z","to":"2026-01-03T09:51:50Z"}
 {"id":"12167695427","timestamp":"2025-10-06T08:29:31.543785088Z","domain":"wla.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-10-06T07:18:10Z","to":"2026-01-04T07:18:09Z"}
 {"id":"12167695427","timestamp":"2025-10-06T08:29:31.543785519Z","domain":"wla.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-10-06T07:18:10Z","to":"2026-01-04T07:18:09Z"}
+{"id":"12196503476","timestamp":"2025-10-08T14:28:20.521554197Z","domain":"ctto-otpc.qc.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-10-08T00:00:00Z","to":"2026-11-08T23:59:59Z"}
+{"id":"12196503476","timestamp":"2025-10-08T14:28:20.521554567Z","domain":"msfbsdev.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-10-08T00:00:00Z","to":"2026-11-08T23:59:59Z"}
+{"id":"12196503476","timestamp":"2025-10-08T14:28:20.521554778Z","domain":"msfbs-sfdsm.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-10-08T00:00:00Z","to":"2026-11-08T23:59:59Z"}
