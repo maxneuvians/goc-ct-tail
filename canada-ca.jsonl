@@ -12723,3 +12723,7 @@
 {"id":"12205959139","timestamp":"2025-10-09T08:16:41.494050589Z","domain":"accessibilite.canada.ca","issuer":"Let's Encrypt","from":"2025-10-09T06:45:18Z","to":"2026-01-07T06:45:17Z"}
 {"id":"12205959139","timestamp":"2025-10-09T08:16:41.494052443Z","domain":"accessibility.canada.ca","issuer":"Let's Encrypt","from":"2025-10-09T06:45:18Z","to":"2026-01-07T06:45:17Z"}
 {"id":"12205959139","timestamp":"2025-10-09T08:16:41.494052563Z","domain":"accessible.canada.ca","issuer":"Let's Encrypt","from":"2025-10-09T06:45:18Z","to":"2026-01-07T06:45:17Z"}
+{"id":"12206585046","timestamp":"2025-10-09T09:15:58.240034616Z","domain":"api.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-09T07:55:34Z","to":"2026-01-07T07:55:33Z"}
+{"id":"12206585046","timestamp":"2025-10-09T09:15:58.240035117Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-09T07:55:34Z","to":"2026-01-07T07:55:33Z"}
+{"id":"12206585046","timestamp":"2025-10-09T09:15:58.240035347Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-09T07:55:34Z","to":"2026-01-07T07:55:33Z"}
+{"id":"12206585046","timestamp":"2025-10-09T09:15:58.240035537Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-09T07:55:34Z","to":"2026-01-07T07:55:33Z"}
