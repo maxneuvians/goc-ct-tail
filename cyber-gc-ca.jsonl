@@ -684,3 +684,5 @@
 {"id":"12228584142","timestamp":"2025-10-11T02:02:17.76102046Z","domain":"ise2.cyber.gc.ca","issuer":"Sectigo","from":"2025-10-11T00:00:00Z","to":"2026-11-11T23:59:59Z"}
 {"id":"12235781121","timestamp":"2025-10-11T14:33:40.078343434Z","domain":"*.core.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-11T13:00:46Z","to":"2026-01-09T13:00:45Z"}
 {"id":"12235781121","timestamp":"2025-10-11T14:33:40.078343985Z","domain":"core.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-11T13:00:46Z","to":"2026-01-09T13:00:45Z"}
+{"id":"12237241141","timestamp":"2025-10-11T16:35:58.271849683Z","domain":"*.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-11T15:27:32Z","to":"2026-01-09T15:27:31Z"}
+{"id":"12237241141","timestamp":"2025-10-11T16:35:58.271850144Z","domain":"dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-11T15:27:32Z","to":"2026-01-09T15:27:31Z"}
