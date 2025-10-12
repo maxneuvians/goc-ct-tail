@@ -12769,3 +12769,7 @@
 {"id":"12246788432","timestamp":"2025-10-12T10:15:30.36526558Z","domain":"www.navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-10-12T08:40:56Z","to":"2026-01-10T08:40:55Z"}
 {"id":"12246788432","timestamp":"2025-10-12T10:15:30.365265681Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-10-12T08:40:56Z","to":"2026-01-10T08:40:55Z"}
 {"id":"12246788432","timestamp":"2025-10-12T10:15:30.365265771Z","domain":"www.ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-10-12T08:40:56Z","to":"2026-01-10T08:40:55Z"}
+{"id":"12248442092","timestamp":"2025-10-12T13:16:48.398382054Z","domain":"mlflow.ws-wmackinnon.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-10-12T11:39:34Z","to":"2026-01-10T11:39:33Z"}
+{"id":"12248462325","timestamp":"2025-10-12T13:16:48.398382645Z","domain":"resource-catalogue.ws-wmackinnon.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-10-12T11:39:34Z","to":"2026-01-10T11:39:33Z"}
+{"id":"12248594457","timestamp":"2025-10-12T13:16:48.398383006Z","domain":"minio.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-10-12T11:56:31Z","to":"2026-01-10T11:56:30Z"}
+{"id":"12248598623","timestamp":"2025-10-12T13:16:48.398383306Z","domain":"minio-console.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-10-12T11:56:30Z","to":"2026-01-10T11:56:29Z"}
