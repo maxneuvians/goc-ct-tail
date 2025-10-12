@@ -1766,3 +1766,11 @@
 {"id":"12223202659","timestamp":"2025-10-10T14:15:41.967210612Z","domain":"mycaf-mesfac-pp.forces.gc.ca","issuer":"Sectigo","from":"2025-10-10T00:00:00Z","to":"2026-11-10T23:59:59Z"}
 {"id":"12224373403","timestamp":"2025-10-10T16:16:29.391855864Z","domain":"mcsportal-portaillcm.forces.gc.ca","issuer":"Sectigo","from":"2025-10-10T00:00:00Z","to":"2026-11-10T23:59:59Z"}
 {"id":"12224373403","timestamp":"2025-10-10T16:16:29.391856425Z","domain":"mycaf-mesfac.forces.gc.ca","issuer":"Sectigo","from":"2025-10-10T00:00:00Z","to":"2026-11-10T23:59:59Z"}
+{"id":"12241277124","timestamp":"2025-10-12T00:36:25.879351683Z","domain":"*.admmat.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-11T23:02:25Z","to":"2026-01-09T23:02:24Z"}
+{"id":"12241277124","timestamp":"2025-10-12T00:36:25.879352204Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-11T23:02:25Z","to":"2026-01-09T23:02:24Z"}
+{"id":"12241277124","timestamp":"2025-10-12T00:36:25.879352534Z","domain":"*.cjoc.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-11T23:02:25Z","to":"2026-01-09T23:02:24Z"}
+{"id":"12241277124","timestamp":"2025-10-12T00:36:25.879352794Z","domain":"*.drdc.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-11T23:02:25Z","to":"2026-01-09T23:02:24Z"}
+{"id":"12241277124","timestamp":"2025-10-12T00:36:25.879353095Z","domain":"*.navy.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-11T23:02:25Z","to":"2026-01-09T23:02:24Z"}
+{"id":"12241277124","timestamp":"2025-10-12T00:36:25.879354217Z","domain":"*.rcaf.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-11T23:02:25Z","to":"2026-01-09T23:02:24Z"}
+{"id":"12241277124","timestamp":"2025-10-12T00:36:25.879354317Z","domain":"*.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-11T23:02:25Z","to":"2026-01-09T23:02:24Z"}
+{"id":"12241277124","timestamp":"2025-10-12T00:36:25.879354418Z","domain":"*.vcds.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-11T23:02:25Z","to":"2026-01-09T23:02:24Z"}
