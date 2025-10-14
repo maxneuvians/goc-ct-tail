@@ -866,3 +866,21 @@
 {"id":"12204517013","timestamp":"2025-10-09T05:15:42.881097228Z","domain":"rpsim1.sscecmlab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-10-09T04:08:26Z","to":"2026-01-07T04:08:25Z"}
 {"id":"12204520026","timestamp":"2025-10-09T05:15:42.881097468Z","domain":"rpsim3.sscecmlab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-10-09T04:08:57Z","to":"2026-01-07T04:08:56Z"}
 {"id":"12204527832","timestamp":"2025-10-09T05:15:42.881097568Z","domain":"rpsim4.sscecmlab.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-10-09T04:09:11Z","to":"2026-01-07T04:09:10Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707522341Z","domain":"dev-marche.spc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707522691Z","domain":"dev-marche.spc-ssc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707522872Z","domain":"dev-marche.ssc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707523052Z","domain":"dev-marche.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707523122Z","domain":"dev-marketplace.spc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707523863Z","domain":"dev-marketplace.spc-ssc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707523934Z","domain":"dev-marketplace.ssc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707524004Z","domain":"dev-marketplace.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707524064Z","domain":"dev-sscp2pspc.spc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707524896Z","domain":"dev-sscp2pspc.spc-ssc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707524965Z","domain":"dev-sscp2pspc.ssc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707525026Z","domain":"dev-sscp2pspc.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707525096Z","domain":"supplier-fournisseur-dev-sscp2pspc.spc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707525166Z","domain":"supplier-fournisseur-dev-sscp2pspc.spc-ssc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707525226Z","domain":"supplier-fournisseur-dev-sscp2pspc.ssc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707525296Z","domain":"supplier-fournisseur-dev-sscp2pspc-ssc-spc.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707525356Z","domain":"supplier-fournisseur-dev-sscp2pspc.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12278206797","timestamp":"2025-10-14T15:16:14.707525426Z","domain":"www.dev-sscp2pspc.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
