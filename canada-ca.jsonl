@@ -12808,3 +12808,8 @@
 {"id":"12285382160","timestamp":"2025-10-15T03:26:12.910191178Z","domain":"design-system.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-15T00:00:00Z","to":"2026-11-13T23:59:59Z"}
 {"id":"12285422242","timestamp":"2025-10-15T03:26:12.910191739Z","domain":"*.systeme-design.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-15T00:00:00Z","to":"2026-11-13T23:59:59Z"}
 {"id":"12285422242","timestamp":"2025-10-15T03:26:12.91019222Z","domain":"systeme-design.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-15T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"12286500830","timestamp":"2025-10-15T05:15:42.855712804Z","domain":"*.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-15T04:02:21Z","to":"2026-01-13T04:02:20Z"}
+{"id":"12286500830","timestamp":"2025-10-15T05:15:42.855713345Z","domain":"gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-15T04:02:21Z","to":"2026-01-13T04:02:20Z"}
+{"id":"12286500830","timestamp":"2025-10-15T05:15:42.855714147Z","domain":"*.p5.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-15T04:02:21Z","to":"2026-01-13T04:02:20Z"}
+{"id":"12286500830","timestamp":"2025-10-15T05:15:42.855714387Z","domain":"*.pprd.p5.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-15T04:02:21Z","to":"2026-01-13T04:02:20Z"}
+{"id":"12286500830","timestamp":"2025-10-15T05:15:42.855714477Z","domain":"*.prod.p5.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-15T04:02:21Z","to":"2026-01-13T04:02:20Z"}
