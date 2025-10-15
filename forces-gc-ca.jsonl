@@ -1785,3 +1785,9 @@
 {"id":"12293240828","timestamp":"2025-10-15T16:16:00.587101766Z","domain":"tools.tak-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-15T00:00:00Z","to":"2026-11-13T23:59:59Z"}
 {"id":"12293240828","timestamp":"2025-10-15T16:16:00.587102006Z","domain":"verify.tools.tak-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-15T00:00:00Z","to":"2026-11-13T23:59:59Z"}
 {"id":"12294858997","timestamp":"2025-10-15T18:16:58.840618755Z","domain":"s3.rdh-prod2.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-15T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"12296348186","timestamp":"2025-10-15T21:15:24.867932246Z","domain":"*.tools.tak-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-15T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"12296348186","timestamp":"2025-10-15T21:15:24.867932536Z","domain":"tools.tak-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-15T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"12296348186","timestamp":"2025-10-15T21:15:24.867932696Z","domain":"verify.tools.tak-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-15T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"12296759764","timestamp":"2025-10-15T21:15:24.867932867Z","domain":"*.tools.tak-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-15T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"12296759764","timestamp":"2025-10-15T21:15:24.867932947Z","domain":"tools.tak-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-15T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"12296759764","timestamp":"2025-10-15T21:15:24.867933528Z","domain":"verify.tools.tak-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-15T00:00:00Z","to":"2026-11-13T23:59:59Z"}
