@@ -676,7 +676,8 @@
       "DigiCert": 1
     },
     "2025-10-16": {
-      "Sectigo": 2
+      "Sectigo": 2,
+      "Let's Encrypt": 1
     }
   },
   "errors": []
