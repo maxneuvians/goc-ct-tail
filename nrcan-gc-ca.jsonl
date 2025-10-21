@@ -15891,3 +15891,108 @@
 {"id":"12301499998","timestamp":"2025-10-16T05:15:50.059486174Z","domain":"www.buildings.nrcan.gc.ca","issuer":"Sectigo","from":"2025-10-16T00:00:00Z","to":"2026-01-14T23:59:59Z"}
 {"id":"12301499998","timestamp":"2025-10-16T05:15:50.059486285Z","domain":"www.buildings.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-10-16T00:00:00Z","to":"2026-01-14T23:59:59Z"}
 {"id":"12301499998","timestamp":"2025-10-16T05:15:50.059487507Z","domain":"www.buildings.rncan.gc.ca","issuer":"Sectigo","from":"2025-10-16T00:00:00Z","to":"2026-01-14T23:59:59Z"}
+{"id":"12334355604","timestamp":"2025-10-21T08:17:01.133130532Z","domain":"bootcamp.nrcan.gc.ca","issuer":"Sectigo","from":"2025-10-18T00:00:00Z","to":"2026-01-16T23:59:59Z"}
+{"id":"12334355604","timestamp":"2025-10-21T08:17:01.133130883Z","domain":"bootcamp.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-10-18T00:00:00Z","to":"2026-01-16T23:59:59Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133131174Z","domain":"batiments-buildings.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133131374Z","domain":"batiments-buildings.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133131464Z","domain":"batiments-buildings.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133132356Z","domain":"batiments-buildings.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133132446Z","domain":"batiments.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133132526Z","domain":"batiments.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133132606Z","domain":"buildings-batiments.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133133699Z","domain":"buildings-batiments.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133133789Z","domain":"buildings-batiments.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133133869Z","domain":"buildings-batiments.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133133949Z","domain":"buildingsgroup.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133134029Z","domain":"buildingsgroup.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133134119Z","domain":"buildingsgroup.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.1331342Z","domain":"buildingsgroup.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.13313428Z","domain":"buildings.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.13313436Z","domain":"buildings.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133135382Z","domain":"buildings.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133135462Z","domain":"buildings.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133135542Z","domain":"www.batiments-buildings.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133135622Z","domain":"www.batiments-buildings.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133135702Z","domain":"www.batiments-buildings.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133135792Z","domain":"www.batiments-buildings.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133135873Z","domain":"www.batiments.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133135953Z","domain":"www.buildings-batiments.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133136033Z","domain":"www.buildings-batiments.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133136113Z","domain":"www.buildings-batiments.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133136203Z","domain":"www.buildings-batiments.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133136284Z","domain":"www.buildings.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133136364Z","domain":"www.buildings.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133136444Z","domain":"www.buildings.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345818750","timestamp":"2025-10-21T08:17:01.133136534Z","domain":"www.buildings.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:39:32Z","to":"2026-01-17T03:39:31Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133136614Z","domain":"batiments.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133136704Z","domain":"batiments.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133136785Z","domain":"energiedecentralisee.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133136865Z","domain":"energiedecentralisee.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133136945Z","domain":"energiedecentralisee.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133137025Z","domain":"energiedecentralisee.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133137115Z","domain":"energie.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133138247Z","domain":"energie.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133138328Z","domain":"energie.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133138418Z","domain":"energie.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133138498Z","domain":"energuide-maisons-neuves.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133138578Z","domain":"energuide-maisons-neuves.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133138668Z","domain":"energuide-maisons-neuves.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133138748Z","domain":"energuide-maisons-neuves.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133138829Z","domain":"energyefficiency.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133138909Z","domain":"energyguideforbuildings.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133138989Z","domain":"energy.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133139079Z","domain":"energy.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133139159Z","domain":"energy.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133139239Z","domain":"energy.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133139319Z","domain":"energywatchcanada.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133139399Z","domain":"www.batiments.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.13313949Z","domain":"www.batiments.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.13313957Z","domain":"www.batiments.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.13313971Z","domain":"www.energie.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.13313979Z","domain":"www.energie.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133139871Z","domain":"www.energie.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133139961Z","domain":"www.energie.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133140041Z","domain":"www.energyefficiency.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133140121Z","domain":"www.energyguideforbuildings.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133140201Z","domain":"www.energyguideforhouses.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133140281Z","domain":"www.energy.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133140372Z","domain":"www.energy.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133140452Z","domain":"www.energy.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133140532Z","domain":"www.energy.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12345825669","timestamp":"2025-10-21T08:17:01.133140632Z","domain":"www.energywatchcanada.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T03:41:33Z","to":"2026-01-17T03:41:32Z"}
+{"id":"12346015454","timestamp":"2025-10-21T08:17:01.133140752Z","domain":"recherche.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T04:00:56Z","to":"2026-01-17T04:00:55Z"}
+{"id":"12346015454","timestamp":"2025-10-21T08:17:01.133140862Z","domain":"recherche.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T04:00:56Z","to":"2026-01-17T04:00:55Z"}
+{"id":"12346015454","timestamp":"2025-10-21T08:17:01.133140942Z","domain":"search.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T04:00:56Z","to":"2026-01-17T04:00:55Z"}
+{"id":"12346015454","timestamp":"2025-10-21T08:17:01.133141023Z","domain":"search.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T04:00:56Z","to":"2026-01-17T04:00:55Z"}
+{"id":"12346015454","timestamp":"2025-10-21T08:17:01.133141103Z","domain":"search.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T04:00:56Z","to":"2026-01-17T04:00:55Z"}
+{"id":"12346015454","timestamp":"2025-10-21T08:17:01.133141183Z","domain":"search.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-19T04:00:56Z","to":"2026-01-17T04:00:55Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133141273Z","domain":"atlas.cits.nrcan.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133141353Z","domain":"atlas.cits.rncan.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133141463Z","domain":"atlas.ctis.nrcan.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133141544Z","domain":"atlas.ctis.rncan.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133143057Z","domain":"atlas-du-canada.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133143137Z","domain":"atlasducanada.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133143217Z","domain":"atlas.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133143307Z","domain":"atlas.nrcan.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133143387Z","domain":"atlas.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133143467Z","domain":"atlas-of-canada.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133143548Z","domain":"atlasofcanada.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133143638Z","domain":"atlas.rncan.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133143718Z","domain":"atlas.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133143798Z","domain":"cartes-maps.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133143878Z","domain":"maps-cartes.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133143959Z","domain":"the-atlas-of-canada.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133144049Z","domain":"theatlasofcanada.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133144129Z","domain":"www.atlas-du-canada.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133144209Z","domain":"www.atlasducanada.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133144289Z","domain":"www.atlas.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133144379Z","domain":"www.atlas.nrcan.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.13314446Z","domain":"www.atlas.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.13314454Z","domain":"www.atlas-of-canada.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.13314462Z","domain":"www.atlasofcanada.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.1331447Z","domain":"www.atlas.rncan.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.13314479Z","domain":"www.atlas.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.13314487Z","domain":"www.cartes-maps.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.13314495Z","domain":"www.maps-cartes.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.13314503Z","domain":"www.the-atlas-of-canada.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12368129266","timestamp":"2025-10-21T08:17:01.133145111Z","domain":"www.theatlasofcanada.gc.ca","issuer":"Sectigo","from":"2025-10-20T00:00:00Z","to":"2026-11-20T23:59:59Z"}
