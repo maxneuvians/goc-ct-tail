@@ -869,3 +869,11 @@
 {"id":"12383933556","timestamp":"2025-10-21T15:27:36.52982941Z","domain":"pspc-ex2.ad.pwgsc-tpsgc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
 {"id":"12383933556","timestamp":"2025-10-21T15:27:36.52982948Z","domain":"smtp.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
 {"id":"12383933556","timestamp":"2025-10-21T15:27:36.52982956Z","domain":"smtp.tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T20:28:59.380205278Z","domain":"*.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T20:28:59.380205679Z","domain":"*.pwgsc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T20:28:59.380205899Z","domain":"*.pwgsc-tpsgc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T20:28:59.380206099Z","domain":"*.tpsgc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T20:28:59.38020618Z","domain":"*.tpsgc-pwgsc.aws.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T20:28:59.380206831Z","domain":"*.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T20:28:59.380206911Z","domain":"*.tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T20:28:59.380206991Z","domain":"tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
