@@ -12877,3 +12877,7 @@
 {"id":"12377799639","timestamp":"2025-10-21T08:17:03.441327708Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-21T06:25:51Z","to":"2026-01-19T06:25:50Z"}
 {"id":"12377811599","timestamp":"2025-10-21T08:17:03.441327798Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-21T06:24:50Z","to":"2026-01-19T06:24:49Z"}
 {"id":"12377811599","timestamp":"2025-10-21T08:17:03.441327878Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-21T06:24:50Z","to":"2026-01-19T06:24:49Z"}
+{"id":"12382218624","timestamp":"2025-10-21T13:22:28.867564083Z","domain":"documents-et.canafe-fintrac.canada.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12382218624","timestamp":"2025-10-21T13:22:28.867564584Z","domain":"documents-et.fintrac-canafe.canada.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12382306962","timestamp":"2025-10-21T13:22:28.867564915Z","domain":"documents.canafe-fintrac.canada.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12382306962","timestamp":"2025-10-21T13:22:28.867565185Z","domain":"documents.fintrac-canafe.canada.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
