@@ -697,3 +697,12 @@
 {"id":"12276851971","timestamp":"2025-10-14T13:40:32.106637325Z","domain":"pages.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-14T11:47:56Z","to":"2026-01-12T11:47:55Z"}
 {"id":"12276864503","timestamp":"2025-10-14T13:40:32.106637896Z","domain":"*.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-14T11:47:24Z","to":"2026-01-12T11:47:23Z"}
 {"id":"12276864503","timestamp":"2025-10-14T13:40:32.106638006Z","domain":"collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-14T11:47:24Z","to":"2026-01-12T11:47:23Z"}
+{"id":"12365695676","timestamp":"2025-10-21T07:34:47.838853112Z","domain":"alfred-ci.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T12:37:48Z","to":"2026-01-18T12:37:47Z"}
+{"id":"12365695676","timestamp":"2025-10-21T07:34:47.838853333Z","domain":"alfred-dev.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T12:37:48Z","to":"2026-01-18T12:37:47Z"}
+{"id":"12365695676","timestamp":"2025-10-21T07:34:47.838853503Z","domain":"alfred-sonar.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T12:37:48Z","to":"2026-01-18T12:37:47Z"}
+{"id":"12365695676","timestamp":"2025-10-21T07:34:47.838853673Z","domain":"alfred-stg.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T12:37:48Z","to":"2026-01-18T12:37:47Z"}
+{"id":"12365695676","timestamp":"2025-10-21T07:34:47.838853744Z","domain":"alfred-tst.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T12:37:48Z","to":"2026-01-18T12:37:47Z"}
+{"id":"12366867977","timestamp":"2025-10-21T07:34:47.838854174Z","domain":"sub.notif.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T14:15:18Z","to":"2026-01-18T14:15:17Z"}
+{"id":"12367086368","timestamp":"2025-10-21T07:34:47.838854254Z","domain":"mail.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T14:37:36Z","to":"2026-01-18T14:37:35Z"}
+{"id":"12367086368","timestamp":"2025-10-21T07:34:47.838854325Z","domain":"mail.sensor.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T14:37:36Z","to":"2026-01-18T14:37:35Z"}
+{"id":"12367086368","timestamp":"2025-10-21T07:34:47.838854385Z","domain":"onprem.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T14:37:36Z","to":"2026-01-18T14:37:35Z"}
