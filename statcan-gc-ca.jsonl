@@ -827,3 +827,5 @@
 {"id":"12278356484","timestamp":"2025-10-14T15:35:34.366594287Z","domain":"census-cws.alpha.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-14T14:12:28Z","to":"2026-01-12T14:12:27Z"}
 {"id":"12278356484","timestamp":"2025-10-14T15:35:34.366594748Z","domain":"census-cws-fr.alpha.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-14T14:12:28Z","to":"2026-01-12T14:12:27Z"}
 {"id":"12278356484","timestamp":"2025-10-14T15:35:34.366594979Z","domain":"census-cws.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-10-14T14:12:28Z","to":"2026-01-12T14:12:27Z"}
+{"id":"12330563354","timestamp":"2025-10-21T07:34:47.231305277Z","domain":"platform.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-18T01:10:53Z","to":"2026-01-16T01:10:52Z"}
+{"id":"12372393200","timestamp":"2025-10-21T07:34:47.231305808Z","domain":"vma-agdcc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T23:20:44Z","to":"2026-01-18T23:20:43Z"}
