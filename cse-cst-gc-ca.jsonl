@@ -236,3 +236,6 @@
 {"id":"11979234061","timestamp":"2025-09-22T18:54:17.793039473Z","domain":"gcdocs.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2025-09-22T00:00:00Z","to":"2026-10-23T23:59:59Z"}
 {"id":"12224326575","timestamp":"2025-10-10T16:54:42.233579907Z","domain":"jobs-emplois.cse-cst.gc.ca","issuer":"Sectigo","from":"2025-10-10T00:00:00Z","to":"2026-11-10T23:59:59Z"}
 {"id":"12224326575","timestamp":"2025-10-10T16:54:42.233580728Z","domain":"www.jobs-emplois.cse-cst.gc.ca","issuer":"Sectigo","from":"2025-10-10T00:00:00Z","to":"2026-11-10T23:59:59Z"}
+{"id":"12366940491","timestamp":"2025-10-21T07:54:12.639890725Z","domain":"*.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T14:23:39Z","to":"2026-01-18T14:23:38Z"}
+{"id":"12367004799","timestamp":"2025-10-21T07:54:12.639891136Z","domain":"temporal-codec.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T14:28:18Z","to":"2026-01-18T14:28:17Z"}
+{"id":"12367138250","timestamp":"2025-10-21T07:54:12.639891397Z","domain":"argocd.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T14:43:40Z","to":"2026-01-18T14:43:39Z"}
