@@ -12883,3 +12883,11 @@
 {"id":"12382306962","timestamp":"2025-10-21T13:22:28.867565185Z","domain":"documents.fintrac-canafe.canada.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
 {"id":"12384463824","timestamp":"2025-10-21T16:16:54.300058493Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-21T15:02:29Z","to":"2026-01-19T15:02:28Z"}
 {"id":"12384508060","timestamp":"2025-10-21T16:16:54.300059044Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-21T15:02:48Z","to":"2026-01-19T15:02:47Z"}
+{"id":"12387337395","timestamp":"2025-10-21T21:15:42.068729643Z","domain":"*.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T21:15:42.068730325Z","domain":"*.pwgsc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T21:15:42.068730725Z","domain":"*.pwgsc-tpsgc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T21:15:42.068731196Z","domain":"*.tpsgc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T21:15:42.068731346Z","domain":"*.tpsgc-pwgsc.aws.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T21:15:42.068732418Z","domain":"*.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T21:15:42.068732558Z","domain":"*.tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12387337395","timestamp":"2025-10-21T21:15:42.068732689Z","domain":"tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
