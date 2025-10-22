@@ -12891,3 +12891,5 @@
 {"id":"12387337395","timestamp":"2025-10-21T21:15:42.068732418Z","domain":"*.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
 {"id":"12387337395","timestamp":"2025-10-21T21:15:42.068732558Z","domain":"*.tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
 {"id":"12387337395","timestamp":"2025-10-21T21:15:42.068732689Z","domain":"tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-10-21T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12390407400","timestamp":"2025-10-22T00:36:55.178306903Z","domain":"sgb-lms-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-22T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12390409222","timestamp":"2025-10-22T00:36:55.178307825Z","domain":"ocir-riso-ontario-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-22T00:00:00Z","to":"2026-11-20T23:59:59Z"}
