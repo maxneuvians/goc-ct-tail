@@ -3037,7 +3037,12 @@
       "Sectigo": 12
     },
     "2025-10-22": {
-      "Amazon Trust Services": 2
+      "Amazon Trust Services": 2,
+      "Let's Encrypt": 6,
+      "DigiCert": 1
+    },
+    "2025-10-23": {
+      "Google Trust Services": 1
     }
   },
   "errors": []
