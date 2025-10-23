@@ -1817,3 +1817,7 @@
 {"id":"12402747184","timestamp":"2025-10-22T20:16:48.374363043Z","domain":"tools.tak-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-22T00:00:00Z","to":"2026-11-20T23:59:59Z"}
 {"id":"12402747184","timestamp":"2025-10-22T20:16:48.374363313Z","domain":"verify.tools.tak-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-22T00:00:00Z","to":"2026-11-20T23:59:59Z"}
 {"id":"12403201145","timestamp":"2025-10-22T21:15:05.773690093Z","domain":"athena.rdh-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-22T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"12413521950","timestamp":"2025-10-23T12:17:47.97812305Z","domain":"insights-stg-ntg-gim.cloud.forces.gc.ca","issuer":"Sectigo","from":"2025-10-23T00:00:00Z","to":"2026-11-23T23:59:59Z"}
+{"id":"12413521950","timestamp":"2025-10-23T12:17:47.978123371Z","domain":"perspicace-stg-ntg-gim.cloud.forces.gc.ca","issuer":"Sectigo","from":"2025-10-23T00:00:00Z","to":"2026-11-23T23:59:59Z"}
+{"id":"12413584298","timestamp":"2025-10-23T12:17:47.978123611Z","domain":"sc2is-portal.rcaf-arc.cloud.forces.gc.ca","issuer":"Sectigo","from":"2025-10-23T00:00:00Z","to":"2026-11-23T23:59:59Z"}
+{"id":"12413703323","timestamp":"2025-10-23T12:17:47.978123852Z","domain":"co.cargo-ops-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-23T00:00:00Z","to":"2026-11-21T23:59:59Z"}
