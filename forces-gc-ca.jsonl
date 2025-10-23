@@ -1821,3 +1821,7 @@
 {"id":"12413521950","timestamp":"2025-10-23T12:17:47.978123371Z","domain":"perspicace-stg-ntg-gim.cloud.forces.gc.ca","issuer":"Sectigo","from":"2025-10-23T00:00:00Z","to":"2026-11-23T23:59:59Z"}
 {"id":"12413584298","timestamp":"2025-10-23T12:17:47.978123611Z","domain":"sc2is-portal.rcaf-arc.cloud.forces.gc.ca","issuer":"Sectigo","from":"2025-10-23T00:00:00Z","to":"2026-11-23T23:59:59Z"}
 {"id":"12413703323","timestamp":"2025-10-23T12:17:47.978123852Z","domain":"co.cargo-ops-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-23T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12416136792","timestamp":"2025-10-23T15:16:06.009693688Z","domain":"*.army.tak-test.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-23T13:51:33Z","to":"2026-01-21T13:51:32Z"}
+{"id":"12416136792","timestamp":"2025-10-23T15:16:06.00969455Z","domain":"*.tak-test.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-23T13:51:33Z","to":"2026-01-21T13:51:32Z"}
+{"id":"12416236761","timestamp":"2025-10-23T15:16:06.00969485Z","domain":"*.chat.tak-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-23T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"12416236761","timestamp":"2025-10-23T15:16:06.009695141Z","domain":"chat.tak-test.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-23T00:00:00Z","to":"2026-11-21T23:59:59Z"}
