@@ -12917,3 +12917,8 @@
 {"id":"12417683635","timestamp":"2025-10-23T17:15:31.042621508Z","domain":"surfsense.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-23T15:57:10Z","to":"2026-01-21T15:57:09Z"}
 {"id":"12418579942","timestamp":"2025-10-23T19:15:12.531437204Z","domain":"compte-educanada-account.canada.ca","issuer":"Sectigo","from":"2025-10-23T00:00:00Z","to":"2026-11-23T23:59:59Z"}
 {"id":"12428761891","timestamp":"2025-10-24T09:16:16.259729672Z","domain":"helloweb.mgmt.acxktk.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-10-24T08:05:17Z","to":"2026-01-22T08:59:11Z"}
+{"id":"12433693771","timestamp":"2025-10-24T16:16:35.015729127Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-24T15:02:09Z","to":"2026-01-22T15:02:08Z"}
+{"id":"12433703600","timestamp":"2025-10-24T16:16:35.015729628Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-24T15:02:29Z","to":"2026-01-22T15:02:28Z"}
+{"id":"12433707651","timestamp":"2025-10-24T16:16:35.015730019Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-24T15:02:48Z","to":"2026-01-22T15:02:47Z"}
+{"id":"12433707853","timestamp":"2025-10-24T16:16:35.0157307Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-24T15:03:04Z","to":"2026-01-22T15:03:03Z"}
+{"id":"12433710312","timestamp":"2025-10-24T16:16:35.01573082Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-24T15:03:21Z","to":"2026-01-22T15:03:20Z"}
