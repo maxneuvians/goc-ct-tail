@@ -671,3 +671,6 @@
 {"id":"12388028638","timestamp":"2025-10-21T21:43:33.490681695Z","domain":"cmhc-schl.gc.ca","issuer":"Google Trust Services","from":"2025-10-21T20:12:00Z","to":"2026-01-19T21:10:40Z"}
 {"id":"12388046820","timestamp":"2025-10-21T21:43:33.490681976Z","domain":"*.cmhc-schl.gc.ca","issuer":"Google Trust Services","from":"2025-10-21T20:12:08Z","to":"2026-01-19T21:12:06Z"}
 {"id":"12388046820","timestamp":"2025-10-21T21:43:33.490682266Z","domain":"cmhc-schl.gc.ca","issuer":"Google Trust Services","from":"2025-10-21T20:12:08Z","to":"2026-01-19T21:12:06Z"}
+{"id":"12437702557","timestamp":"2025-10-24T22:44:15.765565072Z","domain":"gateway-passerelle.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-10-24T00:00:00Z","to":"2026-10-23T23:59:59Z"}
+{"id":"12437702557","timestamp":"2025-10-24T22:44:15.765565402Z","domain":"www.gateway-passerelle.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-10-24T00:00:00Z","to":"2026-10-23T23:59:59Z"}
+{"id":"12437873801","timestamp":"2025-10-24T22:44:15.765565653Z","domain":"qasc101-as-hsct.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-10-24T00:00:00Z","to":"2026-10-23T23:59:59Z"}
