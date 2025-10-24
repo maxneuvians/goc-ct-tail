@@ -3042,7 +3042,9 @@
       "DigiCert": 1
     },
     "2025-10-23": {
-      "Google Trust Services": 1
+      "Google Trust Services": 1,
+      "Let's Encrypt": 14,
+      "Sectigo": 1
     }
   },
   "errors": []
