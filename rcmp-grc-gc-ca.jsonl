@@ -1318,3 +1318,19 @@
 {"id":"12184428250","timestamp":"2025-10-07T15:16:03.019252696Z","domain":"www.trackenergyregs.com","issuer":"Let's Encrypt","from":"2025-10-07T13:38:26Z","to":"2026-01-05T13:38:25Z"}
 {"id":"12309033130","timestamp":"2025-10-16T16:16:38.494855611Z","domain":"testing2244.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2025-10-16T14:44:22Z","to":"2026-01-14T14:44:21Z"}
 {"id":"12309033130","timestamp":"2025-10-16T16:16:38.494855933Z","domain":"testing8899.testingssl.rcmp.ca","issuer":"Let's Encrypt","from":"2025-10-16T14:44:22Z","to":"2026-01-14T14:44:21Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851927387Z","domain":"autodiscover.antifraudcentre.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851927647Z","domain":"autodiscover.cfp-pcaf.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851927848Z","domain":"autodiscover.cirh-ichr.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851928038Z","domain":"autodiscover.ichr-cirh.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851928128Z","domain":"autodiscover.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851928539Z","domain":"mrs1.antifraudcentre.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851928629Z","domain":"mrs1.cfp-pcaf.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851928709Z","domain":"mrs1.cirh-ichr.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851928789Z","domain":"mrs1.ichr-cirh.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.85192928Z","domain":"mrs1.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851929361Z","domain":"mrs2.antifraudcentre.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851929451Z","domain":"mrs2.cfp-pcaf.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851929531Z","domain":"mrs2.cirh-ichr.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851929611Z","domain":"mrs2.ichr-cirh.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851929691Z","domain":"mrs2.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12430420000","timestamp":"2025-10-24T12:17:40.851929771Z","domain":"mrs.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-10-24T00:00:00Z","to":"2026-11-24T23:59:59Z"}
