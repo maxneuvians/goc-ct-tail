@@ -1834,3 +1834,5 @@
 {"id":"12452625083","timestamp":"2025-10-26T00:38:36.780828636Z","domain":"*.rcaf.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-25T23:03:14Z","to":"2026-01-23T23:03:13Z"}
 {"id":"12452625083","timestamp":"2025-10-26T00:38:36.780828726Z","domain":"*.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-25T23:03:14Z","to":"2026-01-23T23:03:13Z"}
 {"id":"12452625083","timestamp":"2025-10-26T00:38:36.780828806Z","domain":"*.vcds.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-10-25T23:03:14Z","to":"2026-01-23T23:03:13Z"}
+{"id":"12455399653","timestamp":"2025-10-26T05:15:40.592278524Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-26T00:00:00Z","to":"2026-11-24T23:59:59Z"}
+{"id":"12455399653","timestamp":"2025-10-26T05:15:40.592278925Z","domain":"tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-26T00:00:00Z","to":"2026-11-24T23:59:59Z"}
