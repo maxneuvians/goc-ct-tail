@@ -12981,3 +12981,20 @@
 {"id":"12476127679","timestamp":"2025-10-27T18:17:00.107035925Z","domain":"prv.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-27T16:46:45Z","to":"2026-01-25T16:46:44Z"}
 {"id":"12476127679","timestamp":"2025-10-27T18:17:00.107035995Z","domain":"*.search-recherche.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-27T16:46:45Z","to":"2026-01-25T16:46:44Z"}
 {"id":"12476127679","timestamp":"2025-10-27T18:17:00.107036075Z","domain":"search-recherche.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-27T16:46:45Z","to":"2026-01-25T16:46:44Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.832197834Z","domain":"*.avs-sav.hc-sc.canada.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.832198224Z","domain":"avs-sav.hc-sc.canada.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.832198515Z","domain":"biocides.hc-sc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.832198765Z","domain":"gateway-passerelle-2.hc-sc.canada.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.832198865Z","domain":"gateway-passerelle-2.hc-sc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.832199987Z","domain":"gateway-passerelle-2.preprod.hc-sc.canada.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.832200078Z","domain":"gateway-passerelle-2.preprod.hc-sc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.832200168Z","domain":"gateway-passerelle.hc-sc.canada.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.832200268Z","domain":"hcscb2cpreprod.gateway-passerelle.hc-sc.canada.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.8322011Z","domain":"lz.gateway-passerelle-2.hc-sc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.83220119Z","domain":"lz.gateway-passerelle-2.preprod.hc-sc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.83220128Z","domain":"lzinfra.gateway-passerelle-2.hc-sc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.83220138Z","domain":"lzinfra.gateway-passerelle-2.preprod.hc-sc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.83220147Z","domain":"nvc-cnv.canada.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.832201561Z","domain":"*.preprod.avs-sav.hc-sc.canada.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.832201651Z","domain":"sgpp.hc-sc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12476340413","timestamp":"2025-10-27T19:15:07.832201741Z","domain":"uvupdater.hc-sc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
