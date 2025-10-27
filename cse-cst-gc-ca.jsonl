@@ -239,3 +239,20 @@
 {"id":"12366940491","timestamp":"2025-10-21T07:54:12.639890725Z","domain":"*.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T14:23:39Z","to":"2026-01-18T14:23:38Z"}
 {"id":"12367004799","timestamp":"2025-10-21T07:54:12.639891136Z","domain":"temporal-codec.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T14:28:18Z","to":"2026-01-18T14:28:17Z"}
 {"id":"12367138250","timestamp":"2025-10-21T07:54:12.639891397Z","domain":"argocd.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T14:43:40Z","to":"2026-01-18T14:43:39Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453846541Z","domain":"autodiscover.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453847022Z","domain":"autodiscover.cpbn-rpbc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453847303Z","domain":"autodiscover.cse-cst.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453847593Z","domain":"autodiscover.cyber.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453847714Z","domain":"ciem-itac.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453848755Z","domain":"corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453848865Z","domain":"cpbn-rpbc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453848966Z","domain":"cse-cst.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453849076Z","domain":"csis-scrs.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453849947Z","domain":"cyber.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453850038Z","domain":"itac-ciem.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453850128Z","domain":"mail.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453850228Z","domain":"mail.cse-cst.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453850318Z","domain":"net1svd1500.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453850419Z","domain":"scrs-csis.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453850509Z","domain":"webmail.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12474421423","timestamp":"2025-10-27T14:54:28.453850599Z","domain":"webmail.cse-cst.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
