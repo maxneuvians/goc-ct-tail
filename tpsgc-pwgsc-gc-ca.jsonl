@@ -907,3 +907,7 @@
 {"id":"12401774885","timestamp":"2025-10-22T18:30:13.017354821Z","domain":"min2.pwgsc.gc.ca","issuer":"Sectigo","from":"2025-10-22T00:00:00Z","to":"2026-11-22T23:59:59Z"}
 {"id":"12401774885","timestamp":"2025-10-22T18:30:13.017354922Z","domain":"smtp.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-10-22T00:00:00Z","to":"2026-11-22T23:59:59Z"}
 {"id":"12401774885","timestamp":"2025-10-22T18:30:13.017355022Z","domain":"smtp.tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-10-22T00:00:00Z","to":"2026-11-22T23:59:59Z"}
+{"id":"12473738169","timestamp":"2025-10-27T14:28:37.315938783Z","domain":"bitbucket.pwgsc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12473738169","timestamp":"2025-10-27T14:28:37.315939184Z","domain":"bitbucket.pwgsc-tpsgc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12473738169","timestamp":"2025-10-27T14:28:37.315939465Z","domain":"bitbucket.tpsgc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12473738169","timestamp":"2025-10-27T14:28:37.315939705Z","domain":"bitbucket.tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
