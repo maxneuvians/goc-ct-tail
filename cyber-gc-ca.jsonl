@@ -726,3 +726,5 @@
 {"id":"12474421423","timestamp":"2025-10-27T15:35:28.360526351Z","domain":"scrs-csis.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
 {"id":"12474421423","timestamp":"2025-10-27T15:35:28.360526451Z","domain":"webmail.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
 {"id":"12474421423","timestamp":"2025-10-27T15:35:28.360526581Z","domain":"webmail.cse-cst.gc.ca","issuer":"Sectigo","from":"2025-10-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"12484185244","timestamp":"2025-10-28T10:38:54.017547042Z","domain":"malware.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-28T09:01:58Z","to":"2026-01-26T09:01:57Z"}
+{"id":"12484186992","timestamp":"2025-10-28T10:38:54.017547393Z","domain":"malware-pb.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-10-28T09:01:51Z","to":"2026-01-26T09:01:50Z"}
