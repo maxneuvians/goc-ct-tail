@@ -13013,3 +13013,53 @@
 {"id":"12482762172","timestamp":"2025-10-28T08:16:51.784722824Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T06:25:52Z","to":"2026-01-26T06:25:51Z"}
 {"id":"12486182658","timestamp":"2025-10-28T14:16:10.421163575Z","domain":"command-a.dev.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T12:42:37Z","to":"2026-01-26T12:42:36Z"}
 {"id":"12486380661","timestamp":"2025-10-28T14:16:10.421163996Z","domain":"command-a.dev.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T13:06:01Z","to":"2026-01-26T13:06:00Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592341381Z","domain":"*.cdn-rdc.service.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592342123Z","domain":"cdn-rdc.service.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592342343Z","domain":"*.cdn-rdc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592342583Z","domain":"cdn-rdc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592342684Z","domain":"*.cdts.service.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592344226Z","domain":"cdts.service.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592344307Z","domain":"*.cdts.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592344377Z","domain":"cdts.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592344457Z","domain":"*.cdts-sgdc.service.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592345268Z","domain":"cdts-sgdc.service.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592345349Z","domain":"*.cdts-sgdc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592345429Z","domain":"cdts-sgdc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592345519Z","domain":"*.cms-sgc.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592345609Z","domain":"cms-sgc.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592345699Z","domain":"*.cms-sgc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592345789Z","domain":"cms-sgc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.59234586Z","domain":"*.crt-orc.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.59234594Z","domain":"crt-orc.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592347222Z","domain":"*.crt-orc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592347302Z","domain":"crt-orc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592347372Z","domain":"*.intranet.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592347443Z","domain":"intranet.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592347513Z","domain":"*.intranet.search-recherche.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592347583Z","domain":"intranet.search-recherche.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592347653Z","domain":"*.intranet.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592347723Z","domain":"intranet.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592347793Z","domain":"*.iservice.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592347863Z","domain":"iservice.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592347944Z","domain":"*.iservice.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592348014Z","domain":"iservice.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592348074Z","domain":"*.ort-orl.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592348154Z","domain":"ort-orl.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592348224Z","domain":"*.ort-orl.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592348294Z","domain":"ort-orl.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592348374Z","domain":"*.prort-orlrtc.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592348445Z","domain":"prort-orlrtc.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592348514Z","domain":"*.prort-orlrtc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592348595Z","domain":"prort-orlrtc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592348665Z","domain":"*.prv.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592348735Z","domain":"prv.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.59235688Z","domain":"*.prv.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.59235695Z","domain":"prv.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592357021Z","domain":"*.search-recherche.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487128401","timestamp":"2025-10-28T16:16:42.592357091Z","domain":"search-recherche.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T14:31:00Z","to":"2026-01-26T14:30:59Z"}
+{"id":"12487283441","timestamp":"2025-10-28T16:16:42.592357191Z","domain":"firearms-buyback-rachat-armes-feu.canada.ca","issuer":"Sectigo","from":"2025-10-28T00:00:00Z","to":"2026-11-28T23:59:59Z"}
+{"id":"12487283441","timestamp":"2025-10-28T16:16:42.592357261Z","domain":"firearms-buyback-rachat-armes-feu-dev.canada.ca","issuer":"Sectigo","from":"2025-10-28T00:00:00Z","to":"2026-11-28T23:59:59Z"}
+{"id":"12487283441","timestamp":"2025-10-28T16:16:42.592357331Z","domain":"firearms-buyback-rachat-armes-feu-qa.canada.ca","issuer":"Sectigo","from":"2025-10-28T00:00:00Z","to":"2026-11-28T23:59:59Z"}
+{"id":"12487283441","timestamp":"2025-10-28T16:16:42.592357401Z","domain":"firearms-buyback-rachat-armes-feu-stage.canada.ca","issuer":"Sectigo","from":"2025-10-28T00:00:00Z","to":"2026-11-28T23:59:59Z"}
+{"id":"12487283441","timestamp":"2025-10-28T16:16:42.592357471Z","domain":"firearms-buyback-rachat-armes-feu-train.canada.ca","issuer":"Sectigo","from":"2025-10-28T00:00:00Z","to":"2026-11-28T23:59:59Z"}
+{"id":"12487283441","timestamp":"2025-10-28T16:16:42.592357542Z","domain":"firearms-buyback-rachat-armes-feu-uat.canada.ca","issuer":"Sectigo","from":"2025-10-28T00:00:00Z","to":"2026-11-28T23:59:59Z"}
