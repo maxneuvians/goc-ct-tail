@@ -93,3 +93,7 @@
 {"id":"11914825311","timestamp":"2025-09-17T18:47:10.906173772Z","domain":"csa-asc.gc.ca","issuer":"Sectigo","from":"2025-09-17T00:00:00Z","to":"2026-10-18T23:59:59Z"}
 {"id":"12050363780","timestamp":"2025-09-27T06:45:14.559645933Z","domain":"vpn.asc-csa.gc.ca","issuer":"Sectigo","from":"2025-09-27T00:00:00Z","to":"2026-10-28T23:59:59Z"}
 {"id":"12050363780","timestamp":"2025-09-27T06:45:14.559646364Z","domain":"webvpn.asc-csa.gc.ca","issuer":"Sectigo","from":"2025-09-27T00:00:00Z","to":"2026-10-28T23:59:59Z"}
+{"id":"12486405432","timestamp":"2025-10-28T14:46:45.586900851Z","domain":"autodiscover.asc-csa.gc.ca","issuer":"Sectigo","from":"2025-10-28T00:00:00Z","to":"2026-11-28T23:59:59Z"}
+{"id":"12486405432","timestamp":"2025-10-28T14:46:45.586901612Z","domain":"autodiscover.csa-asc.gc.ca","issuer":"Sectigo","from":"2025-10-28T00:00:00Z","to":"2026-11-28T23:59:59Z"}
+{"id":"12486405432","timestamp":"2025-10-28T14:46:45.586901833Z","domain":"mail.asc-csa.gc.ca","issuer":"Sectigo","from":"2025-10-28T00:00:00Z","to":"2026-11-28T23:59:59Z"}
+{"id":"12486405432","timestamp":"2025-10-28T14:46:45.586902033Z","domain":"mrs.asc-csa.gc.ca","issuer":"Sectigo","from":"2025-10-28T00:00:00Z","to":"2026-11-28T23:59:59Z"}
