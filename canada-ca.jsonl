@@ -13066,3 +13066,5 @@
 {"id":"12488102145","timestamp":"2025-10-28T18:17:05.230703293Z","domain":"masource-mysource.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-28T00:00:00Z","to":"2026-11-26T23:59:59Z"}
 {"id":"12488487341","timestamp":"2025-10-28T19:15:16.581504343Z","domain":"open-notebook.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T17:19:50Z","to":"2026-01-26T17:19:49Z"}
 {"id":"12490505279","timestamp":"2025-10-28T22:15:42.12711169Z","domain":"artifacts-artefacts.devops.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-28T21:14:05Z","to":"2026-01-26T21:14:04Z"}
+{"id":"12493574475","timestamp":"2025-10-29T05:16:03.243882043Z","domain":"diffusion-cnrc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-29T03:22:27Z","to":"2026-01-27T03:22:26Z"}
+{"id":"12493576434","timestamp":"2025-10-29T05:16:03.243882354Z","domain":"outreach-nrc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-29T03:22:29Z","to":"2026-01-27T03:22:28Z"}
