@@ -13073,3 +13073,19 @@
 {"id":"12499803809","timestamp":"2025-10-29T16:16:52.082032671Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-29T15:03:27Z","to":"2026-01-27T15:03:26Z"}
 {"id":"12499804161","timestamp":"2025-10-29T16:16:52.082032872Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-29T15:03:44Z","to":"2026-01-27T15:03:43Z"}
 {"id":"12499809394","timestamp":"2025-10-29T16:16:52.082032962Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-10-29T15:02:53Z","to":"2026-01-27T15:02:52Z"}
+{"id":"12500547885","timestamp":"2025-10-29T18:17:12.306702696Z","domain":"*.acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-29T16:37:51Z","to":"2026-01-27T16:37:50Z"}
+{"id":"12500547885","timestamp":"2025-10-29T18:17:12.306703017Z","domain":"acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-10-29T16:37:51Z","to":"2026-01-27T16:37:50Z"}
+{"id":"12500660944","timestamp":"2025-10-29T18:17:12.306703257Z","domain":"acoa-apeca.canada.ca","issuer":"Sectigo","from":"2025-10-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"12500660944","timestamp":"2025-10-29T18:17:12.306703728Z","domain":"*.acoa-apeca.gc.ca","issuer":"Sectigo","from":"2025-10-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"12500660944","timestamp":"2025-10-29T18:17:12.306703838Z","domain":"acoa-apeca.gc.ca","issuer":"Sectigo","from":"2025-10-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"12500660944","timestamp":"2025-10-29T18:17:12.30670474Z","domain":"acoa.ca","issuer":"Sectigo","from":"2025-10-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"12500660944","timestamp":"2025-10-29T18:17:12.30670483Z","domain":"acoa.gc.ca","issuer":"Sectigo","from":"2025-10-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"12500660944","timestamp":"2025-10-29T18:17:12.306704911Z","domain":"apeca-acoa.gc.ca","issuer":"Sectigo","from":"2025-10-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"12500660944","timestamp":"2025-10-29T18:17:12.306704991Z","domain":"apeca.gc.ca","issuer":"Sectigo","from":"2025-10-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"12500660944","timestamp":"2025-10-29T18:17:12.306705792Z","domain":"direct-acoa-apeca.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2025-10-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"12500660944","timestamp":"2025-10-29T18:17:12.306705882Z","domain":"direct-aspte-acoa-apeca.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2025-10-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"12500660944","timestamp":"2025-10-29T18:17:12.306705962Z","domain":"direct-dev-acoa-apeca.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2025-10-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"12500660944","timestamp":"2025-10-29T18:17:12.306706043Z","domain":"ww.acoa.ca","issuer":"Sectigo","from":"2025-10-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"12500660944","timestamp":"2025-10-29T18:17:12.306706133Z","domain":"www.acoa.gc.ca","issuer":"Sectigo","from":"2025-10-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"12500660944","timestamp":"2025-10-29T18:17:12.306706213Z","domain":"www.apeca-acoa.gc.ca","issuer":"Sectigo","from":"2025-10-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"12500660944","timestamp":"2025-10-29T18:17:12.306706293Z","domain":"www.apeca.gc.ca","issuer":"Sectigo","from":"2025-10-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
