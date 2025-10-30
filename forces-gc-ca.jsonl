@@ -1843,3 +1843,5 @@
 {"id":"12491597731","timestamp":"2025-10-29T01:44:56.984418971Z","domain":"*.tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-29T00:00:00Z","to":"2026-11-27T23:59:59Z"}
 {"id":"12491597731","timestamp":"2025-10-29T01:44:56.984419372Z","domain":"tak.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-29T00:00:00Z","to":"2026-11-27T23:59:59Z"}
 {"id":"12509665716","timestamp":"2025-10-30T15:16:25.192709983Z","domain":"ingest.rdh-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-30T00:00:00Z","to":"2026-11-28T23:59:59Z"}
+{"id":"12509785393","timestamp":"2025-10-30T16:16:53.95878379Z","domain":"sc2is-simulator.rcaf-arc.cloud.forces.gc.ca","issuer":"Sectigo","from":"2025-10-30T00:00:00Z","to":"2026-11-30T23:59:59Z"}
+{"id":"12509856252","timestamp":"2025-10-30T16:16:53.958784111Z","domain":"ingest.rdh-prod2.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-30T00:00:00Z","to":"2026-11-28T23:59:59Z"}
