@@ -743,3 +743,4 @@
 {"id":"12366444363","timestamp":"2025-10-21T07:34:46.611633597Z","domain":"v3-wfa-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T13:40:25Z","to":"2026-01-18T13:40:24Z"}
 {"id":"12369876453","timestamp":"2025-10-21T07:34:46.611634959Z","domain":"v3-pbi-rcp-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-10-20T19:05:33Z","to":"2026-01-18T19:05:32Z"}
 {"id":"12415591803","timestamp":"2025-10-23T14:38:28.623921508Z","domain":"sim-solo.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-10-23T00:00:00Z","to":"2026-11-23T23:59:59Z"}
+{"id":"12508480716","timestamp":"2025-10-30T12:46:30.898688692Z","domain":"map-carte.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-10-30T00:00:00Z","to":"2026-11-30T23:59:59Z"}
