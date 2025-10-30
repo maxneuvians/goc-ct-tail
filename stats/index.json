@@ -38,15 +38,15 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 13068,
+      "totalCertificates": 13092,
       "totalsByIssuer": {
         "Entrust": 2525,
         "Amazon Trust Services": 956,
-        "DigiCert": 646,
+        "DigiCert": 647,
         "GoDaddy": 13,
-        "Let's Encrypt": 6528,
+        "Let's Encrypt": 6537,
         "Google Trust Services": 277,
-        "Sectigo": 465,
+        "Sectigo": 479,
         "SSL.com": 1658
       },
       "errorCount": 0
@@ -86,11 +86,11 @@
     {
       "inputFile": "cbsa-asfc-gc-ca.jsonl",
       "outputFile": "stats/cbsa-asfc-gc-ca-stats.json",
-      "totalCertificates": 218,
+      "totalCertificates": 220,
       "totalsByIssuer": {
         "Entrust": 113,
         "SSL.com": 71,
-        "Sectigo": 34
+        "Sectigo": 36
       },
       "errorCount": 0
     },
@@ -219,11 +219,11 @@
     {
       "inputFile": "dfo-mpo-gc-ca.jsonl",
       "outputFile": "stats/dfo-mpo-gc-ca-stats.json",
-      "totalCertificates": 1132,
+      "totalCertificates": 1133,
       "totalsByIssuer": {
         "Entrust": 332,
         "DigiCert": 49,
-        "Let's Encrypt": 398,
+        "Let's Encrypt": 399,
         "SSL.com": 341,
         "Sectigo": 12
       },
@@ -421,13 +421,13 @@
     {
       "inputFile": "nrcan-gc-ca.jsonl",
       "outputFile": "stats/nrcan-gc-ca-stats.json",
-      "totalCertificates": 17083,
+      "totalCertificates": 17110,
       "totalsByIssuer": {
         "Amazon Trust Services": 43,
         "Entrust": 460,
         "DigiCert": 30,
         "Let's Encrypt": 6666,
-        "Sectigo": 9604,
+        "Sectigo": 9631,
         "SSL.com": 280
       },
       "errorCount": 0
@@ -435,12 +435,12 @@
     {
       "inputFile": "nserc-crsng-gc-ca.jsonl",
       "outputFile": "stats/nserc-crsng-gc-ca-stats.json",
-      "totalCertificates": 29,
+      "totalCertificates": 31,
       "totalsByIssuer": {
         "Entrust": 12,
         "Amazon Trust Services": 2,
         "SSL.com": 5,
-        "DigiCert": 1,
+        "DigiCert": 3,
         "Sectigo": 9
       },
       "errorCount": 0
@@ -459,11 +459,11 @@
     {
       "inputFile": "otc-cta-gc-ca.jsonl",
       "outputFile": "stats/otc-cta-gc-ca-stats.json",
-      "totalCertificates": 91,
+      "totalCertificates": 100,
       "totalsByIssuer": {
         "Entrust": 49,
         "SSL.com": 28,
-        "Sectigo": 14
+        "Sectigo": 23
       },
       "errorCount": 0
     },
@@ -623,12 +623,12 @@
     {
       "inputFile": "statcan-gc-ca.jsonl",
       "outputFile": "stats/statcan-gc-ca-stats.json",
-      "totalCertificates": 835,
+      "totalCertificates": 836,
       "totalsByIssuer": {
         "Entrust": 344,
         "Let's Encrypt": 333,
         "SSL.com": 148,
-        "Sectigo": 10
+        "Sectigo": 11
       },
       "errorCount": 0
     },
@@ -648,11 +648,11 @@
     {
       "inputFile": "tc-gc-ca.jsonl",
       "outputFile": "stats/tc-gc-ca-stats.json",
-      "totalCertificates": 346,
+      "totalCertificates": 348,
       "totalsByIssuer": {
         "Entrust": 154,
         "DigiCert": 15,
-        "Let's Encrypt": 97,
+        "Let's Encrypt": 99,
         "SSL.com": 28,
         "Sectigo": 51,
         "Google Trust Services": 1
@@ -685,12 +685,12 @@
     {
       "inputFile": "veterans-gc-ca.jsonl",
       "outputFile": "stats/veterans-gc-ca-stats.json",
-      "totalCertificates": 718,
+      "totalCertificates": 719,
       "totalsByIssuer": {
         "Amazon Trust Services": 24,
         "Entrust": 22,
         "GoDaddy": 1,
-        "Let's Encrypt": 662,
+        "Let's Encrypt": 663,
         "Sectigo": 9
       },
       "errorCount": 0
@@ -709,10 +709,10 @@
   "grandTotalByIssuer": {
     "Entrust": 11243,
     "Amazon Trust Services": 3431,
-    "Let's Encrypt": 18617,
+    "Let's Encrypt": 18630,
     "SSL.com": 6250,
-    "Sectigo": 12009,
-    "DigiCert": 2072,
+    "Sectigo": 12062,
+    "DigiCert": 2075,
     "GoDaddy": 77,
     "Google Trust Services": 528,
     "Entrust Limited": 20,
