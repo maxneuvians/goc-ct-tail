@@ -3069,6 +3069,13 @@
       "Let's Encrypt": 9,
       "Sectigo": 14,
       "DigiCert": 1
+    },
+    "2025-10-30": {
+      "DigiCert": 3,
+      "Let's Encrypt": 6
+    },
+    "2025-10-31": {
+      "Let's Encrypt": 1
     }
   },
   "errors": []
