@@ -258,3 +258,5 @@
 {"id":"12119816203","timestamp":"2025-10-02T13:54:18.726954806Z","domain":"www.tcc-cci.ca","issuer":"Sectigo","from":"2025-10-02T00:00:00Z","to":"2026-11-02T23:59:59Z"}
 {"id":"12119816203","timestamp":"2025-10-02T13:54:18.726954897Z","domain":"www.tcc-cci.gc.ca","issuer":"Sectigo","from":"2025-10-02T00:00:00Z","to":"2026-11-02T23:59:59Z"}
 {"id":"12277977452","timestamp":"2025-10-14T14:54:29.49313092Z","domain":"cas-cdc-kanguru.cas-satj.gc.ca","issuer":"Sectigo","from":"2025-10-14T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"12522476483","timestamp":"2025-10-31T21:54:12.035679011Z","domain":"service.cas-satj.gc.ca","issuer":"Let's Encrypt","from":"2025-10-31T20:40:05Z","to":"2026-01-29T20:40:04Z"}
+{"id":"12522476483","timestamp":"2025-10-31T21:54:12.035679351Z","domain":"services.cas-satj.gc.ca","issuer":"Let's Encrypt","from":"2025-10-31T20:40:05Z","to":"2026-01-29T20:40:04Z"}
