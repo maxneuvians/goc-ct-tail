@@ -13109,3 +13109,5 @@
 {"id":"12520192496","timestamp":"2025-10-31T16:16:31.073832776Z","domain":"aws.finance-dev-budget.c.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-31T00:00:00Z","to":"2026-11-29T23:59:59Z"}
 {"id":"12520198874","timestamp":"2025-10-31T16:16:31.073832927Z","domain":"tapx-rolemanager-uat.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2025-10-31T15:08:17Z","to":"2026-01-29T15:08:16Z"}
 {"id":"12522036767","timestamp":"2025-10-31T21:15:29.679479184Z","domain":"www.finance-dev-budget.c.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-10-31T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"12524731152","timestamp":"2025-11-01T03:30:19.743630762Z","domain":"a11y.canada.ca","issuer":"Let's Encrypt","from":"2025-11-01T01:59:39Z","to":"2026-01-30T01:59:38Z"}
+{"id":"12524789673","timestamp":"2025-11-01T03:30:19.743631583Z","domain":"code.open.canada.ca","issuer":"Let's Encrypt","from":"2025-11-01T02:05:09Z","to":"2026-01-30T02:05:08Z"}
