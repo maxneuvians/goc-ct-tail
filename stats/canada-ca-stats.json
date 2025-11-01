@@ -3075,7 +3075,11 @@
       "Let's Encrypt": 6
     },
     "2025-10-31": {
-      "Let's Encrypt": 1
+      "Let's Encrypt": 8,
+      "Amazon Trust Services": 2
+    },
+    "2025-11-01": {
+      "Let's Encrypt": 2
     }
   },
   "errors": []
