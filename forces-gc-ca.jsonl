@@ -1847,3 +1847,11 @@
 {"id":"12509856252","timestamp":"2025-10-30T16:16:53.958784111Z","domain":"ingest.rdh-prod2.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-10-30T00:00:00Z","to":"2026-11-28T23:59:59Z"}
 {"id":"12527656301","timestamp":"2025-11-01T10:15:39.108328084Z","domain":"www.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-11-01T09:01:40Z","to":"2026-01-30T09:01:39Z"}
 {"id":"12527657415","timestamp":"2025-11-01T10:15:39.108328495Z","domain":"bib.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-11-01T09:01:41Z","to":"2026-01-30T09:01:40Z"}
+{"id":"12534423221","timestamp":"2025-11-02T00:39:21.578957202Z","domain":"*.admmat.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-11-01T23:03:08Z","to":"2026-01-30T23:03:07Z"}
+{"id":"12534423221","timestamp":"2025-11-02T00:39:21.578957493Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-11-01T23:03:08Z","to":"2026-01-30T23:03:07Z"}
+{"id":"12534423221","timestamp":"2025-11-02T00:39:21.578957683Z","domain":"*.cjoc.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-11-01T23:03:08Z","to":"2026-01-30T23:03:07Z"}
+{"id":"12534423221","timestamp":"2025-11-02T00:39:21.578957934Z","domain":"*.drdc.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-11-01T23:03:08Z","to":"2026-01-30T23:03:07Z"}
+{"id":"12534423221","timestamp":"2025-11-02T00:39:21.578958004Z","domain":"*.navy.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-11-01T23:03:08Z","to":"2026-01-30T23:03:07Z"}
+{"id":"12534423221","timestamp":"2025-11-02T00:39:21.578959377Z","domain":"*.rcaf.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-11-01T23:03:08Z","to":"2026-01-30T23:03:07Z"}
+{"id":"12534423221","timestamp":"2025-11-02T00:39:21.578959467Z","domain":"*.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-11-01T23:03:08Z","to":"2026-01-30T23:03:07Z"}
+{"id":"12534423221","timestamp":"2025-11-02T00:39:21.578959547Z","domain":"*.vcds.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-11-01T23:03:08Z","to":"2026-01-30T23:03:07Z"}
