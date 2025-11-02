@@ -38,13 +38,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 13113,
+      "totalCertificates": 13146,
       "totalsByIssuer": {
         "Entrust": 2525,
         "Amazon Trust Services": 958,
         "DigiCert": 650,
         "GoDaddy": 13,
-        "Let's Encrypt": 6553,
+        "Let's Encrypt": 6586,
         "Google Trust Services": 277,
         "Sectigo": 479,
         "SSL.com": 1658
@@ -193,12 +193,12 @@
     {
       "inputFile": "csps-efpc-gc-ca.jsonl",
       "outputFile": "stats/csps-efpc-gc-ca-stats.json",
-      "totalCertificates": 424,
+      "totalCertificates": 425,
       "totalsByIssuer": {
         "Entrust": 92,
         "Amazon Trust Services": 12,
         "DigiCert": 185,
-        "Let's Encrypt": 13,
+        "Let's Encrypt": 14,
         "SSL.com": 54,
         "Sectigo": 68
       },
@@ -243,13 +243,13 @@
     {
       "inputFile": "forces-gc-ca.jsonl",
       "outputFile": "stats/forces-gc-ca-stats.json",
-      "totalCertificates": 1847,
+      "totalCertificates": 1857,
       "totalsByIssuer": {
         "Amazon Trust Services": 448,
         "Entrust": 249,
         "DigiCert": 40,
         "SSL.com": 119,
-        "Let's Encrypt": 938,
+        "Let's Encrypt": 948,
         "Google Trust Services": 18,
         "Sectigo": 35
       },
@@ -421,13 +421,13 @@
     {
       "inputFile": "nrcan-gc-ca.jsonl",
       "outputFile": "stats/nrcan-gc-ca-stats.json",
-      "totalCertificates": 17118,
+      "totalCertificates": 17126,
       "totalsByIssuer": {
         "Amazon Trust Services": 43,
         "Entrust": 460,
         "DigiCert": 30,
         "Let's Encrypt": 6674,
-        "Sectigo": 9631,
+        "Sectigo": 9639,
         "SSL.com": 280
       },
       "errorCount": 0
@@ -709,9 +709,9 @@
   "grandTotalByIssuer": {
     "Entrust": 11243,
     "Amazon Trust Services": 3435,
-    "Let's Encrypt": 18689,
+    "Let's Encrypt": 18733,
     "SSL.com": 6250,
-    "Sectigo": 12075,
+    "Sectigo": 12083,
     "DigiCert": 2079,
     "GoDaddy": 77,
     "Google Trust Services": 528,
