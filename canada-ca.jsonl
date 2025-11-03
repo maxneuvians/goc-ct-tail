@@ -13209,3 +13209,9 @@
 {"id":"12549060506","timestamp":"2025-11-03T05:16:07.076097135Z","domain":"dol-sys.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-11-03T03:26:18Z","to":"2026-02-01T03:26:17Z"}
 {"id":"12549093984","timestamp":"2025-11-03T05:16:07.076097676Z","domain":"cartes-test.canada.ca","issuer":"Let's Encrypt","from":"2025-11-03T03:30:32Z","to":"2026-02-01T03:30:31Z"}
 {"id":"12549093984","timestamp":"2025-11-03T05:16:07.076097926Z","domain":"maps-test.canada.ca","issuer":"Let's Encrypt","from":"2025-11-03T03:30:32Z","to":"2026-02-01T03:30:31Z"}
+{"id":"12549660926","timestamp":"2025-11-03T06:17:08.060895764Z","domain":"*.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-03T04:34:34Z","to":"2026-02-01T04:34:33Z"}
+{"id":"12549660926","timestamp":"2025-11-03T06:17:08.060896064Z","domain":"dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-03T04:34:34Z","to":"2026-02-01T04:34:33Z"}
+{"id":"12549676610","timestamp":"2025-11-03T06:17:08.060896445Z","domain":"*.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-03T04:33:33Z","to":"2026-02-01T04:33:32Z"}
+{"id":"12549676610","timestamp":"2025-11-03T06:17:08.060896706Z","domain":"ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-03T04:33:33Z","to":"2026-02-01T04:33:32Z"}
+{"id":"12549707143","timestamp":"2025-11-03T06:17:08.060896806Z","domain":"earthquakes.canada.ca","issuer":"Let's Encrypt","from":"2025-11-03T04:40:14Z","to":"2026-02-01T04:40:13Z"}
+{"id":"12549707143","timestamp":"2025-11-03T06:17:08.060897938Z","domain":"seismes.canada.ca","issuer":"Let's Encrypt","from":"2025-11-03T04:40:14Z","to":"2026-02-01T04:40:13Z"}
