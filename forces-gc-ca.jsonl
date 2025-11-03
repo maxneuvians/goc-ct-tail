@@ -1857,3 +1857,7 @@
 {"id":"12534423221","timestamp":"2025-11-02T00:39:21.578959547Z","domain":"*.vcds.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-11-01T23:03:08Z","to":"2026-01-30T23:03:07Z"}
 {"id":"12553326037","timestamp":"2025-11-03T13:20:48.610171605Z","domain":"survey-sondage.forces.gc.ca","issuer":"Sectigo","from":"2025-11-03T00:00:00Z","to":"2026-12-04T23:59:59Z"}
 {"id":"12553326037","timestamp":"2025-11-03T13:20:48.610172271Z","domain":"www.survey-sondage.forces.gc.ca","issuer":"Sectigo","from":"2025-11-03T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"12556605380","timestamp":"2025-11-03T19:15:12.698464496Z","domain":"betak.development.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-03T00:00:00Z","to":"2026-12-02T23:59:59Z"}
+{"id":"12556605380","timestamp":"2025-11-03T19:15:12.698465057Z","domain":"betak.sandbox.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-03T00:00:00Z","to":"2026-12-02T23:59:59Z"}
+{"id":"12556605380","timestamp":"2025-11-03T19:15:12.698465267Z","domain":"betak.skybox.rcaf.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-03T00:00:00Z","to":"2026-12-02T23:59:59Z"}
+{"id":"12556605380","timestamp":"2025-11-03T19:15:12.698465618Z","domain":"betak.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-03T00:00:00Z","to":"2026-12-02T23:59:59Z"}
