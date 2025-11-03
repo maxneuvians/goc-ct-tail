@@ -13225,3 +13225,5 @@
 {"id":"12555351482","timestamp":"2025-11-03T16:16:34.114205657Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-03T15:03:29Z","to":"2026-02-01T15:03:28Z"}
 {"id":"12555755662","timestamp":"2025-11-03T17:15:37.143453448Z","domain":"resource-catalogue.ws-bob.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-03T15:44:21Z","to":"2026-02-01T15:44:20Z"}
 {"id":"12556330829","timestamp":"2025-11-03T18:16:58.209111233Z","domain":"mlflow.ws-bob.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-03T16:44:18Z","to":"2026-02-01T16:44:17Z"}
+{"id":"12556674570","timestamp":"2025-11-03T19:15:13.560254082Z","domain":"cv-parser.dev.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-11-03T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"12556723927","timestamp":"2025-11-03T19:15:13.560254683Z","domain":"ebidm.sandbox.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-11-03T00:00:00Z","to":"2026-04-14T23:59:59Z"}
