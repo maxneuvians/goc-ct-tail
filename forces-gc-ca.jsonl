@@ -1901,3 +1901,7 @@
 {"id":"12558134280","timestamp":"2025-11-03T21:15:39.922115389Z","domain":"*.rcaf.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-11-03T19:58:49Z","to":"2026-02-01T19:58:48Z"}
 {"id":"12558134280","timestamp":"2025-11-03T21:15:39.92211546Z","domain":"*.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-11-03T19:58:49Z","to":"2026-02-01T19:58:48Z"}
 {"id":"12558134280","timestamp":"2025-11-03T21:15:39.92211554Z","domain":"*.vcds.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-11-03T19:58:49Z","to":"2026-02-01T19:58:48Z"}
+{"id":"12569640967","timestamp":"2025-11-04T18:16:55.551753572Z","domain":"*.armydatalayer-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-04T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"12569640967","timestamp":"2025-11-04T18:16:55.551754043Z","domain":"armydatalayer-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-04T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"12569801815","timestamp":"2025-11-04T18:16:55.551754354Z","domain":"*.api.armydatalayer-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-04T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"12569801815","timestamp":"2025-11-04T18:16:55.551754614Z","domain":"api.armydatalayer-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-04T00:00:00Z","to":"2026-12-03T23:59:59Z"}
