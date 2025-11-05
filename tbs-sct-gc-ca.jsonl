@@ -750,3 +750,7 @@
 {"id":"12570038812","timestamp":"2025-11-04T18:41:41.738958156Z","domain":"uat-talentcloud.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-11-04T00:00:00Z","to":"2026-12-05T23:59:59Z"}
 {"id":"12586782094","timestamp":"2025-11-05T19:33:42.854215807Z","domain":"v3-pbi-rcp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-11-05T18:14:38Z","to":"2026-02-03T18:14:37Z"}
 {"id":"12586787697","timestamp":"2025-11-05T19:33:42.854216317Z","domain":"v3-wfa-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-11-05T18:15:14Z","to":"2026-02-03T18:15:13Z"}
+{"id":"12587086171","timestamp":"2025-11-05T20:37:02.551702763Z","domain":"v3-wfa-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-11-05T18:45:30Z","to":"2026-02-03T18:45:29Z"}
+{"id":"12587097247","timestamp":"2025-11-05T20:37:02.551703144Z","domain":"v3-pbi-rcp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-11-05T18:44:51Z","to":"2026-02-03T18:44:50Z"}
+{"id":"12587166660","timestamp":"2025-11-05T20:37:02.551703384Z","domain":"v3-wfa-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-11-05T18:53:44Z","to":"2026-02-03T18:53:43Z"}
+{"id":"12587178122","timestamp":"2025-11-05T20:37:02.551703614Z","domain":"v3-pbi-rcp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-11-05T18:53:02Z","to":"2026-02-03T18:53:01Z"}
