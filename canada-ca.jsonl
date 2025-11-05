@@ -13251,3 +13251,8 @@
 {"id":"12584670977","timestamp":"2025-11-05T16:16:46.980586367Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-05T15:03:19Z","to":"2026-02-03T15:03:18Z"}
 {"id":"12584674074","timestamp":"2025-11-05T16:16:46.980587118Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-05T15:03:36Z","to":"2026-02-03T15:03:35Z"}
 {"id":"12584677497","timestamp":"2025-11-05T16:16:46.980587188Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-05T15:03:53Z","to":"2026-02-03T15:03:52Z"}
+{"id":"12586398736","timestamp":"2025-11-05T19:15:18.709120902Z","domain":"aegis.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12586485179","timestamp":"2025-11-05T19:15:18.709121373Z","domain":"aegis-acc.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12586485328","timestamp":"2025-11-05T19:15:18.709122015Z","domain":"aegis-dev.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12586554121","timestamp":"2025-11-05T19:15:18.709122285Z","domain":"*.sccs.g.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12586554121","timestamp":"2025-11-05T19:15:18.709122395Z","domain":"sccs.g.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
