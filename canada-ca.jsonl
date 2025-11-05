@@ -13256,3 +13256,16 @@
 {"id":"12586485328","timestamp":"2025-11-05T19:15:18.709122015Z","domain":"aegis-dev.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
 {"id":"12586554121","timestamp":"2025-11-05T19:15:18.709122285Z","domain":"*.sccs.g.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
 {"id":"12586554121","timestamp":"2025-11-05T19:15:18.709122395Z","domain":"sccs.g.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12586778303","timestamp":"2025-11-05T20:16:24.781436866Z","domain":"tapx-rolemanager-uat.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2025-11-05T18:14:10Z","to":"2026-02-03T18:14:09Z"}
+{"id":"12586807291","timestamp":"2025-11-05T20:16:24.781437578Z","domain":"pre4-ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12586807291","timestamp":"2025-11-05T20:16:24.781437967Z","domain":"www.pre4-ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12586973693","timestamp":"2025-11-05T20:16:24.781438185Z","domain":"firearms-buyback-rachat-armes-feu.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12586973693","timestamp":"2025-11-05T20:16:24.781438273Z","domain":"firearms-buyback-rachat-armes-feu-dev.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12586973693","timestamp":"2025-11-05T20:16:24.781439187Z","domain":"firearms-buyback-rachat-armes-feu-qa.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12586973693","timestamp":"2025-11-05T20:16:24.781439246Z","domain":"firearms-buyback-rachat-armes-feu-stage.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12586973693","timestamp":"2025-11-05T20:16:24.781439382Z","domain":"firearms-buyback-rachat-armes-feu-train.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12586973693","timestamp":"2025-11-05T20:16:24.781439442Z","domain":"firearms-buyback-rachat-armes-feu-uat.canada.ca","issuer":"Sectigo","from":"2025-11-05T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12587049539","timestamp":"2025-11-05T20:16:24.78144021Z","domain":"2025-prod.ict-cio.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-11-05T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"12587074993","timestamp":"2025-11-05T20:16:24.781440302Z","domain":"tapx-rolemanager-uat.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2025-11-05T18:44:21Z","to":"2026-02-03T18:44:20Z"}
+{"id":"12587155530","timestamp":"2025-11-05T20:16:24.781440381Z","domain":"tapx-rolemanager-uat.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2025-11-05T18:52:31Z","to":"2026-02-03T18:52:30Z"}
+{"id":"12587172889","timestamp":"2025-11-05T20:16:24.781440457Z","domain":"2021-prod.ict-cio.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-11-05T00:00:00Z","to":"2026-04-14T23:59:59Z"}
