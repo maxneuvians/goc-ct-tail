@@ -13272,3 +13272,7 @@
 {"id":"12587551507","timestamp":"2025-11-05T21:15:39.968960678Z","domain":"prod.api.gcmatarchives.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-05T00:00:00Z","to":"2026-12-04T23:59:59Z"}
 {"id":"12587721301","timestamp":"2025-11-05T21:15:39.968961139Z","domain":"tapx-rolemanager-uat.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2025-11-05T19:49:43Z","to":"2026-02-03T19:49:42Z"}
 {"id":"12587774317","timestamp":"2025-11-05T21:15:39.968961409Z","domain":"tapx-rolemanager-uat.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2025-11-05T19:54:25Z","to":"2026-02-03T19:54:24Z"}
+{"id":"12594680704","timestamp":"2025-11-06T08:16:56.569253724Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-06T06:24:53Z","to":"2026-02-04T06:24:52Z"}
+{"id":"12594680704","timestamp":"2025-11-06T08:16:56.569254606Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-06T06:24:53Z","to":"2026-02-04T06:24:52Z"}
+{"id":"12594692212","timestamp":"2025-11-06T08:16:56.569255057Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-06T06:25:52Z","to":"2026-02-04T06:25:51Z"}
+{"id":"12594692212","timestamp":"2025-11-06T08:16:56.569255418Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-06T06:25:52Z","to":"2026-02-04T06:25:51Z"}
