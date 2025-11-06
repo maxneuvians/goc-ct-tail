@@ -1922,3 +1922,14 @@
 {"id":"12586990035","timestamp":"2025-11-05T20:16:24.515169353Z","domain":"tiles.betak.sandbox.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-05T00:00:00Z","to":"2026-12-04T23:59:59Z"}
 {"id":"12586990035","timestamp":"2025-11-05T20:16:24.515169594Z","domain":"tiles.betak.skybox.rcaf.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-05T00:00:00Z","to":"2026-12-04T23:59:59Z"}
 {"id":"12586990035","timestamp":"2025-11-05T20:16:24.515169774Z","domain":"tiles.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-05T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"12602556613","timestamp":"2025-11-06T19:15:24.830365893Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-06T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"12602556613","timestamp":"2025-11-06T19:15:24.830366474Z","domain":"cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-06T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"12602556613","timestamp":"2025-11-06T19:15:24.830366815Z","domain":"cbr-rcb-fr-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-06T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"12602556654","timestamp":"2025-11-06T19:15:24.830367386Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-06T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"12602556654","timestamp":"2025-11-06T19:15:24.830367506Z","domain":"cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-06T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"12602556654","timestamp":"2025-11-06T19:15:24.830368418Z","domain":"cbr-rcb-fr-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-06T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"12602557550","timestamp":"2025-11-06T19:15:24.830368538Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-06T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"12602557550","timestamp":"2025-11-06T19:15:24.830368638Z","domain":"cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-06T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"12602557550","timestamp":"2025-11-06T19:15:24.830368739Z","domain":"cbr-rcb-fr-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-06T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"12602715310","timestamp":"2025-11-06T19:15:24.830369289Z","domain":"cbr-rcb-fr-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-06T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"12602715310","timestamp":"2025-11-06T19:15:24.83036939Z","domain":"cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-06T00:00:00Z","to":"2026-12-05T23:59:59Z"}
