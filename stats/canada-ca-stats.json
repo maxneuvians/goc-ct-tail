@@ -3098,6 +3098,14 @@
       "Sectigo": 13,
       "DigiCert": 2,
       "Amazon Trust Services": 1
+    },
+    "2025-11-06": {
+      "Let's Encrypt": 11,
+      "Google Trust Services": 1,
+      "Sectigo": 6
+    },
+    "2025-11-07": {
+      "Let's Encrypt": 6
     }
   },
   "errors": []
