@@ -1936,3 +1936,6 @@
 {"id":"12602766774","timestamp":"2025-11-06T20:16:14.964329287Z","domain":"cbr-rcb-fr-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-06T00:00:00Z","to":"2026-12-05T23:59:59Z"}
 {"id":"12602766774","timestamp":"2025-11-06T20:16:14.964329607Z","domain":"cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-06T00:00:00Z","to":"2026-12-05T23:59:59Z"}
 {"id":"12615202108","timestamp":"2025-11-07T15:16:04.641306894Z","domain":"cbr-rcb-fr-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-07T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12619069071","timestamp":"2025-11-07T21:15:07.423962691Z","domain":"tiles.betak.development.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-07T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12619069071","timestamp":"2025-11-07T21:15:07.423963172Z","domain":"tiles.betak.sandbox.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-07T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12619069071","timestamp":"2025-11-07T21:15:07.423963443Z","domain":"tiles.betak.skybox.rcaf.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-07T00:00:00Z","to":"2026-12-06T23:59:59Z"}
