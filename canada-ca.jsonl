@@ -13319,3 +13319,12 @@
 {"id":"12623833248","timestamp":"2025-11-08T04:16:14.12054877Z","domain":"*.aurora.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T03:08:32Z","to":"2026-02-06T03:08:31Z"}
 {"id":"12623833248","timestamp":"2025-11-08T04:16:14.12054887Z","domain":"*.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T03:08:32Z","to":"2026-02-06T03:08:31Z"}
 {"id":"12625859244","timestamp":"2025-11-08T08:16:20.441169272Z","domain":"tccampus-catalogue.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T06:21:14Z","to":"2026-02-06T06:21:13Z"}
+{"id":"12632239008","timestamp":"2025-11-08T17:15:06.748516108Z","domain":"resource-catalogue.ws-cchampagne.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T16:06:16Z","to":"2026-02-06T16:06:15Z"}
+{"id":"12632240367","timestamp":"2025-11-08T17:15:06.748516489Z","domain":"mlflow.ws-cchampagne.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T16:06:16Z","to":"2026-02-06T16:06:15Z"}
+{"id":"12632243202","timestamp":"2025-11-08T17:15:06.74851669Z","domain":"mlflow.ws-prollin.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T16:06:37Z","to":"2026-02-06T16:06:36Z"}
+{"id":"12632248049","timestamp":"2025-11-08T17:15:06.74851695Z","domain":"resource-catalogue.ws-prollin.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T16:06:38Z","to":"2026-02-06T16:06:37Z"}
+{"id":"12632256903","timestamp":"2025-11-08T17:15:06.74851704Z","domain":"resource-catalogue.ws-cpoff.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T16:07:09Z","to":"2026-02-06T16:07:08Z"}
+{"id":"12632257937","timestamp":"2025-11-08T17:15:06.748517862Z","domain":"mlflow.ws-cpoff.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T16:07:09Z","to":"2026-02-06T16:07:08Z"}
+{"id":"12632290995","timestamp":"2025-11-08T17:15:06.748517942Z","domain":"resource-catalogue.ws-jwojtiw.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T16:10:51Z","to":"2026-02-06T16:10:50Z"}
+{"id":"12632297538","timestamp":"2025-11-08T17:15:06.748518062Z","domain":"mlflow.ws-jwojtiw.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T16:10:51Z","to":"2026-02-06T16:10:50Z"}
+{"id":"12632318453","timestamp":"2025-11-08T17:15:06.748518152Z","domain":"resource-catalogue.ws-elindsay.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T16:12:21Z","to":"2026-02-06T16:12:20Z"}
