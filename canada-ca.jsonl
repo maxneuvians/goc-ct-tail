@@ -13310,3 +13310,11 @@
 {"id":"12616026503","timestamp":"2025-11-07T16:16:10.039295918Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-07T15:03:24Z","to":"2026-02-05T15:03:23Z"}
 {"id":"12616048659","timestamp":"2025-11-07T16:16:10.039296029Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-07T15:02:51Z","to":"2026-02-05T15:02:50Z"}
 {"id":"12616197374","timestamp":"2025-11-07T17:15:37.730681232Z","domain":"*.ssc-prod-cioassistant.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-07T15:17:21Z","to":"2026-02-05T15:17:20Z"}
+{"id":"12623354974","timestamp":"2025-11-08T04:16:14.120546686Z","domain":"sol.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T02:24:48Z","to":"2026-02-06T02:24:47Z"}
+{"id":"12623373821","timestamp":"2025-11-08T04:16:14.120547056Z","domain":"aur.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T02:26:59Z","to":"2026-02-06T02:26:58Z"}
+{"id":"12623421556","timestamp":"2025-11-08T04:16:14.120547387Z","domain":"*.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T02:31:15Z","to":"2026-02-06T02:31:14Z"}
+{"id":"12623421556","timestamp":"2025-11-08T04:16:14.120547708Z","domain":"*.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T02:31:15Z","to":"2026-02-06T02:31:14Z"}
+{"id":"12623750594","timestamp":"2025-11-08T04:16:14.120547848Z","domain":"sol.aurora.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T03:01:14Z","to":"2026-02-06T03:01:13Z"}
+{"id":"12623803891","timestamp":"2025-11-08T04:16:14.120548659Z","domain":"aur.aurora.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T03:06:01Z","to":"2026-02-06T03:06:00Z"}
+{"id":"12623833248","timestamp":"2025-11-08T04:16:14.12054877Z","domain":"*.aurora.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T03:08:32Z","to":"2026-02-06T03:08:31Z"}
+{"id":"12623833248","timestamp":"2025-11-08T04:16:14.12054887Z","domain":"*.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-08T03:08:32Z","to":"2026-02-06T03:08:31Z"}
