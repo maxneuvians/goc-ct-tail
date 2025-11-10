@@ -1943,3 +1943,9 @@
 {"id":"12661758833","timestamp":"2025-11-10T18:17:15.918258547Z","domain":"www.health-sante.forces.gc.ca","issuer":"Sectigo","from":"2025-11-10T00:00:00Z","to":"2026-12-11T23:59:59Z"}
 {"id":"12661814159","timestamp":"2025-11-10T18:17:15.918258808Z","domain":"staging-cafdbl-ldmfac.forces.gc.ca","issuer":"Sectigo","from":"2025-11-10T00:00:00Z","to":"2026-12-11T23:59:59Z"}
 {"id":"12661814159","timestamp":"2025-11-10T18:17:15.918259048Z","domain":"www.staging-cafdbl-ldmfac.forces.gc.ca","issuer":"Sectigo","from":"2025-11-10T00:00:00Z","to":"2026-12-11T23:59:59Z"}
+{"id":"12663446210","timestamp":"2025-11-10T21:15:38.321405721Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-10T00:00:00Z","to":"2026-12-09T23:59:59Z"}
+{"id":"12663446210","timestamp":"2025-11-10T21:15:38.321406111Z","domain":"cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-10T00:00:00Z","to":"2026-12-09T23:59:59Z"}
+{"id":"12663446210","timestamp":"2025-11-10T21:15:38.321406382Z","domain":"cbr-rcb-fr-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-10T00:00:00Z","to":"2026-12-09T23:59:59Z"}
+{"id":"12663534725","timestamp":"2025-11-10T21:15:38.321406693Z","domain":"api.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-10T00:00:00Z","to":"2026-12-09T23:59:59Z"}
+{"id":"12663534725","timestamp":"2025-11-10T21:15:38.321406843Z","domain":"cbr-rcb-fr-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-10T00:00:00Z","to":"2026-12-09T23:59:59Z"}
+{"id":"12663534725","timestamp":"2025-11-10T21:15:38.321407584Z","domain":"cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-10T00:00:00Z","to":"2026-12-09T23:59:59Z"}
