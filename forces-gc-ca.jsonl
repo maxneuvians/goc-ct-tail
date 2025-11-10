@@ -1939,3 +1939,7 @@
 {"id":"12619069071","timestamp":"2025-11-07T21:15:07.423962691Z","domain":"tiles.betak.development.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-07T00:00:00Z","to":"2026-12-06T23:59:59Z"}
 {"id":"12619069071","timestamp":"2025-11-07T21:15:07.423963172Z","domain":"tiles.betak.sandbox.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-07T00:00:00Z","to":"2026-12-06T23:59:59Z"}
 {"id":"12619069071","timestamp":"2025-11-07T21:15:07.423963443Z","domain":"tiles.betak.skybox.rcaf.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-07T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"12661758833","timestamp":"2025-11-10T18:17:15.918258166Z","domain":"health-sante.forces.gc.ca","issuer":"Sectigo","from":"2025-11-10T00:00:00Z","to":"2026-12-11T23:59:59Z"}
+{"id":"12661758833","timestamp":"2025-11-10T18:17:15.918258547Z","domain":"www.health-sante.forces.gc.ca","issuer":"Sectigo","from":"2025-11-10T00:00:00Z","to":"2026-12-11T23:59:59Z"}
+{"id":"12661814159","timestamp":"2025-11-10T18:17:15.918258808Z","domain":"staging-cafdbl-ldmfac.forces.gc.ca","issuer":"Sectigo","from":"2025-11-10T00:00:00Z","to":"2026-12-11T23:59:59Z"}
+{"id":"12661814159","timestamp":"2025-11-10T18:17:15.918259048Z","domain":"www.staging-cafdbl-ldmfac.forces.gc.ca","issuer":"Sectigo","from":"2025-11-10T00:00:00Z","to":"2026-12-11T23:59:59Z"}
