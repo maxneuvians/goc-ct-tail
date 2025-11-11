@@ -13362,3 +13362,9 @@
 {"id":"12660840201","timestamp":"2025-11-10T17:15:39.811273014Z","domain":"www.irb-cisr.canada.ca","issuer":"Sectigo","from":"2025-11-10T00:00:00Z","to":"2026-12-11T23:59:59Z"}
 {"id":"12661614952","timestamp":"2025-11-10T18:17:15.424660982Z","domain":"aws.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-10T16:46:16Z","to":"2026-02-08T16:46:15Z"}
 {"id":"12665620537","timestamp":"2025-11-11T00:37:55.67656333Z","domain":"uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-10T22:45:35Z","to":"2026-02-08T22:45:34Z"}
+{"id":"12670773468","timestamp":"2025-11-11T08:16:49.626912702Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-11T06:24:46Z","to":"2026-02-09T06:24:45Z"}
+{"id":"12670773468","timestamp":"2025-11-11T08:16:49.626913093Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-11T06:24:46Z","to":"2026-02-09T06:24:45Z"}
+{"id":"12670776360","timestamp":"2025-11-11T08:16:49.626913363Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-11T06:25:51Z","to":"2026-02-09T06:25:50Z"}
+{"id":"12670776360","timestamp":"2025-11-11T08:16:49.626913584Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-11T06:25:51Z","to":"2026-02-09T06:25:50Z"}
+{"id":"12671128771","timestamp":"2025-11-11T08:16:49.626913684Z","domain":"covid-vaccine.canada.ca","issuer":"Google Trust Services","from":"2025-11-11T06:55:22Z","to":"2026-02-09T07:54:17Z"}
+{"id":"12671149884","timestamp":"2025-11-11T08:16:49.626915046Z","domain":"covid-vaccine.canada.ca","issuer":"Google Trust Services","from":"2025-11-11T06:55:31Z","to":"2026-02-09T07:55:29Z"}
