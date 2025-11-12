@@ -13400,3 +13400,4 @@
 {"id":"12678631390","timestamp":"2025-11-11T19:15:11.111716817Z","domain":"resource-catalogue.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-11T17:57:18Z","to":"2026-02-09T17:57:17Z"}
 {"id":"12678632354","timestamp":"2025-11-11T19:15:11.111716897Z","domain":"mlflow.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-11T17:57:18Z","to":"2026-02-09T17:57:17Z"}
 {"id":"12683457613","timestamp":"2025-11-12T04:16:40.158316753Z","domain":"incident-forwarder.mgmt.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-11-12T02:37:53Z","to":"2026-02-10T03:33:48Z"}
+{"id":"12686975832","timestamp":"2025-11-12T10:16:22.617462867Z","domain":"argo-workflow.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T08:43:57Z","to":"2026-02-10T08:43:56Z"}
