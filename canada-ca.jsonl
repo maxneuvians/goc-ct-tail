@@ -13412,3 +13412,10 @@
 {"id":"12689569686","timestamp":"2025-11-12T15:16:30.723956692Z","domain":"www.ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-12T00:00:00Z","to":"2026-12-13T23:59:59Z"}
 {"id":"12689825401","timestamp":"2025-11-12T15:16:30.723957564Z","domain":"*.aurora.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T14:08:45Z","to":"2026-02-10T14:08:44Z"}
 {"id":"12689825401","timestamp":"2025-11-12T15:16:30.723957653Z","domain":"*.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T14:08:45Z","to":"2026-02-10T14:08:44Z"}
+{"id":"12690239887","timestamp":"2025-11-12T16:16:46.81611743Z","domain":"*.aurora.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T14:51:05Z","to":"2026-02-10T14:51:04Z"}
+{"id":"12690239887","timestamp":"2025-11-12T16:16:46.816119263Z","domain":"*.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T14:51:05Z","to":"2026-02-10T14:51:04Z"}
+{"id":"12690349349","timestamp":"2025-11-12T16:16:46.816119463Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T15:02:04Z","to":"2026-02-10T15:02:03Z"}
+{"id":"12690352692","timestamp":"2025-11-12T16:16:46.816119764Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T15:02:24Z","to":"2026-02-10T15:02:23Z"}
+{"id":"12690353286","timestamp":"2025-11-12T16:16:46.816119844Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T15:02:58Z","to":"2026-02-10T15:02:57Z"}
+{"id":"12690359504","timestamp":"2025-11-12T16:16:46.816120866Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T15:02:41Z","to":"2026-02-10T15:02:40Z"}
+{"id":"12690366133","timestamp":"2025-11-12T16:16:46.816120956Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T15:03:14Z","to":"2026-02-10T15:03:13Z"}
