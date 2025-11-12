@@ -13405,3 +13405,10 @@
 {"id":"12688359931","timestamp":"2025-11-12T13:22:28.331063269Z","domain":"mlflow.ws-ekag.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T11:17:38Z","to":"2026-02-10T11:17:37Z"}
 {"id":"12689113145","timestamp":"2025-11-12T14:16:04.853159439Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T12:54:14Z","to":"2026-02-10T12:54:13Z"}
 {"id":"12689113145","timestamp":"2025-11-12T14:16:04.85315979Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T12:54:14Z","to":"2026-02-10T12:54:13Z"}
+{"id":"12689471592","timestamp":"2025-11-12T15:16:30.7239558Z","domain":"ccapi-ipacc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-12T00:00:00Z","to":"2026-12-13T23:59:59Z"}
+{"id":"12689471592","timestamp":"2025-11-12T15:16:30.723956171Z","domain":"www.ccapi-ipacc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-12T00:00:00Z","to":"2026-12-13T23:59:59Z"}
+{"id":"12689534258","timestamp":"2025-11-12T15:16:30.723956401Z","domain":"feedback-retroaction.canada.ca","issuer":"Sectigo","from":"2025-11-12T00:00:00Z","to":"2026-12-13T23:59:59Z"}
+{"id":"12689569686","timestamp":"2025-11-12T15:16:30.723956582Z","domain":"ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-12T00:00:00Z","to":"2026-12-13T23:59:59Z"}
+{"id":"12689569686","timestamp":"2025-11-12T15:16:30.723956692Z","domain":"www.ccp-pcc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-12T00:00:00Z","to":"2026-12-13T23:59:59Z"}
+{"id":"12689825401","timestamp":"2025-11-12T15:16:30.723957564Z","domain":"*.aurora.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T14:08:45Z","to":"2026-02-10T14:08:44Z"}
+{"id":"12689825401","timestamp":"2025-11-12T15:16:30.723957653Z","domain":"*.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T14:08:45Z","to":"2026-02-10T14:08:44Z"}
