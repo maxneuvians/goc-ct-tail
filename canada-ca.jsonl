@@ -13419,3 +13419,5 @@
 {"id":"12690353286","timestamp":"2025-11-12T16:16:46.816119844Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T15:02:58Z","to":"2026-02-10T15:02:57Z"}
 {"id":"12690359504","timestamp":"2025-11-12T16:16:46.816120866Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T15:02:41Z","to":"2026-02-10T15:02:40Z"}
 {"id":"12690366133","timestamp":"2025-11-12T16:16:46.816120956Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T15:03:14Z","to":"2026-02-10T15:03:13Z"}
+{"id":"12691323158","timestamp":"2025-11-12T18:17:02.614322412Z","domain":"gcsurplus.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-12T00:00:00Z","to":"2026-12-11T23:59:59Z"}
+{"id":"12691323158","timestamp":"2025-11-12T18:17:02.614322923Z","domain":"gcsurplus-cass.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-12T00:00:00Z","to":"2026-12-11T23:59:59Z"}
