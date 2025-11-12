@@ -13403,3 +13403,5 @@
 {"id":"12686975832","timestamp":"2025-11-12T10:16:22.617462867Z","domain":"argo-workflow.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T08:43:57Z","to":"2026-02-10T08:43:56Z"}
 {"id":"12688345441","timestamp":"2025-11-12T13:22:28.331062939Z","domain":"resource-catalogue.ws-ekag.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T11:17:36Z","to":"2026-02-10T11:17:35Z"}
 {"id":"12688359931","timestamp":"2025-11-12T13:22:28.331063269Z","domain":"mlflow.ws-ekag.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T11:17:38Z","to":"2026-02-10T11:17:37Z"}
+{"id":"12689113145","timestamp":"2025-11-12T14:16:04.853159439Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T12:54:14Z","to":"2026-02-10T12:54:13Z"}
+{"id":"12689113145","timestamp":"2025-11-12T14:16:04.85315979Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-11-12T12:54:14Z","to":"2026-02-10T12:54:13Z"}
