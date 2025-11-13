@@ -13433,3 +13433,8 @@
 {"id":"12705760066","timestamp":"2025-11-13T16:16:44.626081703Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-13T15:03:04Z","to":"2026-02-11T15:03:03Z"}
 {"id":"12705760862","timestamp":"2025-11-13T16:16:44.626081813Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-13T15:03:20Z","to":"2026-02-11T15:03:19Z"}
 {"id":"12705762258","timestamp":"2025-11-13T16:16:44.626083476Z","domain":"*.cloudopsportal.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-13T15:03:18Z","to":"2026-02-11T15:03:17Z"}
+{"id":"12706059347","timestamp":"2025-11-13T17:16:07.149680975Z","domain":"git.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-13T15:35:16Z","to":"2026-02-11T15:35:15Z"}
+{"id":"12706301394","timestamp":"2025-11-13T17:16:07.149681345Z","domain":"aqvc.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-13T16:04:26Z","to":"2026-02-11T16:04:25Z"}
+{"id":"12706306868","timestamp":"2025-11-13T17:16:07.149681606Z","domain":"portal.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-13T16:03:44Z","to":"2026-02-11T16:03:43Z"}
+{"id":"12706313275","timestamp":"2025-11-13T17:16:07.149681796Z","domain":"*.dids.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-13T16:04:27Z","to":"2026-02-11T16:04:26Z"}
+{"id":"12706315052","timestamp":"2025-11-13T17:16:07.149681886Z","domain":"didwebserver.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-13T16:04:41Z","to":"2026-02-11T16:04:40Z"}
