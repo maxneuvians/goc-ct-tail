@@ -1964,3 +1964,5 @@
 {"id":"12692190065","timestamp":"2025-11-12T19:15:19.007436536Z","domain":"api.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-12T00:00:00Z","to":"2026-12-11T23:59:59Z"}
 {"id":"12692190065","timestamp":"2025-11-12T19:15:19.007436626Z","domain":"cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-12T00:00:00Z","to":"2026-12-11T23:59:59Z"}
 {"id":"12692190065","timestamp":"2025-11-12T19:15:19.007436716Z","domain":"fr.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-12T00:00:00Z","to":"2026-12-11T23:59:59Z"}
+{"id":"12695400153","timestamp":"2025-11-13T00:37:21.157464069Z","domain":"api.admin.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-13T00:00:00Z","to":"2026-12-12T23:59:59Z"}
+{"id":"12695401815","timestamp":"2025-11-13T00:37:21.15746457Z","domain":"api.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-13T00:00:00Z","to":"2026-12-12T23:59:59Z"}
