@@ -13438,3 +13438,4 @@
 {"id":"12706306868","timestamp":"2025-11-13T17:16:07.149681606Z","domain":"portal.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-13T16:03:44Z","to":"2026-02-11T16:03:43Z"}
 {"id":"12706313275","timestamp":"2025-11-13T17:16:07.149681796Z","domain":"*.dids.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-13T16:04:27Z","to":"2026-02-11T16:04:26Z"}
 {"id":"12706315052","timestamp":"2025-11-13T17:16:07.149681886Z","domain":"didwebserver.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-13T16:04:41Z","to":"2026-02-11T16:04:40Z"}
+{"id":"12706923456","timestamp":"2025-11-13T19:15:13.526823317Z","domain":"gcmatarchives.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-13T00:00:00Z","to":"2026-12-12T23:59:59Z"}
