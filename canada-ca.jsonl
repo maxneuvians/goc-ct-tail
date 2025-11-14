@@ -13453,3 +13453,13 @@
 {"id":"12719709808","timestamp":"2025-11-14T16:16:33.077543131Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T15:02:58Z","to":"2026-02-12T15:02:57Z"}
 {"id":"12719717019","timestamp":"2025-11-14T16:16:33.077543292Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T15:02:25Z","to":"2026-02-12T15:02:24Z"}
 {"id":"12719734645","timestamp":"2025-11-14T16:16:33.077543372Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T15:03:14Z","to":"2026-02-12T15:03:13Z"}
+{"id":"12720495438","timestamp":"2025-11-14T18:17:00.947861962Z","domain":"vault.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T16:15:16Z","to":"2026-02-12T16:15:15Z"}
+{"id":"12720515382","timestamp":"2025-11-14T18:17:00.947862463Z","domain":"harbor.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T16:19:41Z","to":"2026-02-12T16:19:40Z"}
+{"id":"12720767691","timestamp":"2025-11-14T18:17:00.947862754Z","domain":"nachet-staging-op.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T16:42:59Z","to":"2026-02-12T16:42:58Z"}
+{"id":"12720768252","timestamp":"2025-11-14T18:17:00.947862994Z","domain":"librechat.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T16:42:57Z","to":"2026-02-12T16:42:56Z"}
+{"id":"12720769231","timestamp":"2025-11-14T18:17:00.947863114Z","domain":"argocd.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T16:42:58Z","to":"2026-02-12T16:42:57Z"}
+{"id":"12720771240","timestamp":"2025-11-14T18:17:00.947863936Z","domain":"hubble.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T16:43:01Z","to":"2026-02-12T16:43:00Z"}
+{"id":"12720780821","timestamp":"2025-11-14T18:17:00.947864036Z","domain":"mlflow.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T16:43:59Z","to":"2026-02-12T16:43:58Z"}
+{"id":"12720781835","timestamp":"2025-11-14T18:17:00.947864146Z","domain":"nachet.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T16:44:02Z","to":"2026-02-12T16:44:01Z"}
+{"id":"12720782001","timestamp":"2025-11-14T18:17:00.947864256Z","domain":"triton.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T16:44:01Z","to":"2026-02-12T16:44:00Z"}
+{"id":"12720808796","timestamp":"2025-11-14T18:17:00.947864837Z","domain":"labelstudio.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T16:43:00Z","to":"2026-02-12T16:42:59Z"}
