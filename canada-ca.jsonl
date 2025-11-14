@@ -13448,3 +13448,8 @@
 {"id":"12718234069","timestamp":"2025-11-14T14:16:01.315399921Z","domain":"training.pch-financement.canada.ca","issuer":"Sectigo","from":"2025-11-14T00:00:00Z","to":"2026-12-15T23:59:59Z"}
 {"id":"12718234069","timestamp":"2025-11-14T14:16:01.315400172Z","domain":"training.pch-funding.canada.ca","issuer":"Sectigo","from":"2025-11-14T00:00:00Z","to":"2026-12-15T23:59:59Z"}
 {"id":"12718290274","timestamp":"2025-11-14T14:16:01.315400312Z","domain":"sig-sige.dev.ised-isde.canada.ca","issuer":"Sectigo","from":"2025-11-14T00:00:00Z","to":"2026-12-15T23:59:59Z"}
+{"id":"12719703529","timestamp":"2025-11-14T16:16:33.07754265Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T15:02:41Z","to":"2026-02-12T15:02:40Z"}
+{"id":"12719704161","timestamp":"2025-11-14T16:16:33.077542941Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T15:02:05Z","to":"2026-02-12T15:02:04Z"}
+{"id":"12719709808","timestamp":"2025-11-14T16:16:33.077543131Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T15:02:58Z","to":"2026-02-12T15:02:57Z"}
+{"id":"12719717019","timestamp":"2025-11-14T16:16:33.077543292Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T15:02:25Z","to":"2026-02-12T15:02:24Z"}
+{"id":"12719734645","timestamp":"2025-11-14T16:16:33.077543372Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-14T15:03:14Z","to":"2026-02-12T15:03:13Z"}
