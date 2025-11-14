@@ -13443,3 +13443,8 @@
 {"id":"12717719211","timestamp":"2025-11-14T13:20:23.647254254Z","domain":"*.open.canada.ca","issuer":"Sectigo","from":"2025-11-14T00:00:00Z","to":"2026-12-15T23:59:59Z"}
 {"id":"12717719211","timestamp":"2025-11-14T13:20:23.647254724Z","domain":"*.ouvert.canada.ca","issuer":"Sectigo","from":"2025-11-14T00:00:00Z","to":"2026-12-15T23:59:59Z"}
 {"id":"12717719211","timestamp":"2025-11-14T13:20:23.647255075Z","domain":"ouvert.canada.ca","issuer":"Sectigo","from":"2025-11-14T00:00:00Z","to":"2026-12-15T23:59:59Z"}
+{"id":"12718234069","timestamp":"2025-11-14T14:16:01.31539899Z","domain":"training-admin.pch-financement.canada.ca","issuer":"Sectigo","from":"2025-11-14T00:00:00Z","to":"2026-12-15T23:59:59Z"}
+{"id":"12718234069","timestamp":"2025-11-14T14:16:01.315399601Z","domain":"training-admin.pch-funding.canada.ca","issuer":"Sectigo","from":"2025-11-14T00:00:00Z","to":"2026-12-15T23:59:59Z"}
+{"id":"12718234069","timestamp":"2025-11-14T14:16:01.315399921Z","domain":"training.pch-financement.canada.ca","issuer":"Sectigo","from":"2025-11-14T00:00:00Z","to":"2026-12-15T23:59:59Z"}
+{"id":"12718234069","timestamp":"2025-11-14T14:16:01.315400172Z","domain":"training.pch-funding.canada.ca","issuer":"Sectigo","from":"2025-11-14T00:00:00Z","to":"2026-12-15T23:59:59Z"}
+{"id":"12718290274","timestamp":"2025-11-14T14:16:01.315400312Z","domain":"sig-sige.dev.ised-isde.canada.ca","issuer":"Sectigo","from":"2025-11-14T00:00:00Z","to":"2026-12-15T23:59:59Z"}
