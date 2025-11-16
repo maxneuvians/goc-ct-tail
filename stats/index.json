@@ -38,13 +38,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 13472,
+      "totalCertificates": 13481,
       "totalsByIssuer": {
         "Entrust": 2525,
         "Amazon Trust Services": 965,
         "DigiCert": 656,
         "GoDaddy": 13,
-        "Let's Encrypt": 6839,
+        "Let's Encrypt": 6848,
         "Google Trust Services": 286,
         "Sectigo": 530,
         "SSL.com": 1658
@@ -243,13 +243,13 @@
     {
       "inputFile": "forces-gc-ca.jsonl",
       "outputFile": "stats/forces-gc-ca-stats.json",
-      "totalCertificates": 1976,
+      "totalCertificates": 1980,
       "totalsByIssuer": {
-        "Amazon Trust Services": 517,
+        "Amazon Trust Services": 520,
         "Entrust": 249,
         "DigiCert": 40,
         "SSL.com": 119,
-        "Let's Encrypt": 988,
+        "Let's Encrypt": 989,
         "Google Trust Services": 19,
         "Sectigo": 44
       },
@@ -421,12 +421,12 @@
     {
       "inputFile": "nrcan-gc-ca.jsonl",
       "outputFile": "stats/nrcan-gc-ca-stats.json",
-      "totalCertificates": 17498,
+      "totalCertificates": 17514,
       "totalsByIssuer": {
         "Amazon Trust Services": 43,
         "Entrust": 460,
         "DigiCert": 30,
-        "Let's Encrypt": 6923,
+        "Let's Encrypt": 6939,
         "Sectigo": 9762,
         "SSL.com": 280
       },
@@ -623,10 +623,10 @@
     {
       "inputFile": "statcan-gc-ca.jsonl",
       "outputFile": "stats/statcan-gc-ca-stats.json",
-      "totalCertificates": 877,
+      "totalCertificates": 878,
       "totalsByIssuer": {
         "Entrust": 344,
-        "Let's Encrypt": 370,
+        "Let's Encrypt": 371,
         "SSL.com": 148,
         "Sectigo": 15
       },
@@ -708,8 +708,8 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 3563,
-    "Let's Encrypt": 19340,
+    "Amazon Trust Services": 3566,
+    "Let's Encrypt": 19367,
     "SSL.com": 6250,
     "Sectigo": 12619,
     "DigiCert": 2092,
