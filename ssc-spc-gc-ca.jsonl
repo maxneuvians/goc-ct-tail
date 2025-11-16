@@ -951,3 +951,4 @@
 {"id":"12401774885","timestamp":"2025-10-22T18:17:14.608453197Z","domain":"smtp.tpsgc-pwgsc.gc.ca","issuer":"Sectigo","from":"2025-10-22T00:00:00Z","to":"2026-11-22T23:59:59Z"}
 {"id":"12414302159","timestamp":"2025-10-23T13:21:41.427907493Z","domain":"backend-bitsdev.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-10-23T00:00:00Z","to":"2026-11-17T23:59:59Z"}
 {"id":"12488297544","timestamp":"2025-10-28T18:17:06.090700369Z","domain":"controller.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-10-28T00:00:00Z","to":"2026-11-28T23:59:59Z"}
+{"id":"12749475579","timestamp":"2025-11-16T22:15:32.037475231Z","domain":"esp-pse.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2025-11-16T20:32:31Z","to":"2026-02-14T20:32:30Z"}
