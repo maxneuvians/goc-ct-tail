@@ -13479,3 +13479,5 @@
 {"id":"12736247788","timestamp":"2025-11-15T21:15:12.392452074Z","domain":"mlflow.ws-elindsay.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-15T19:39:14Z","to":"2026-02-13T19:39:13Z"}
 {"id":"12737280628","timestamp":"2025-11-15T23:15:38.084616193Z","domain":"feedback-viewer.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-15T21:42:13Z","to":"2026-02-13T21:42:12Z"}
 {"id":"12739756302","timestamp":"2025-11-16T04:17:06.28251819Z","domain":"gccatalogue.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-16T02:38:38Z","to":"2026-02-14T02:38:37Z"}
+{"id":"12740475262","timestamp":"2025-11-16T05:15:46.182570987Z","domain":"*.github-secret-scanning.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-16T00:00:00Z","to":"2026-12-15T23:59:59Z"}
+{"id":"12740475262","timestamp":"2025-11-16T05:15:46.182571428Z","domain":"github-secret-scanning.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-16T00:00:00Z","to":"2026-12-15T23:59:59Z"}
