@@ -13484,3 +13484,8 @@
 {"id":"12741022598","timestamp":"2025-11-16T06:16:53.963495599Z","domain":"marine-geo.canada.ca","issuer":"Sectigo","from":"2025-11-16T00:00:00Z","to":"2026-02-14T23:59:59Z"}
 {"id":"12742138168","timestamp":"2025-11-16T08:16:29.666051545Z","domain":"canchat-smg.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-16T07:00:59Z","to":"2026-02-14T07:00:58Z"}
 {"id":"12745987903","timestamp":"2025-11-16T15:15:55.437022182Z","domain":"dol-prod.prod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-11-16T14:08:35Z","to":"2026-02-14T14:08:34Z"}
+{"id":"12746448549","timestamp":"2025-11-16T16:16:05.758406354Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-16T15:02:32Z","to":"2026-02-14T15:02:31Z"}
+{"id":"12746448894","timestamp":"2025-11-16T16:16:05.758406955Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-16T15:02:53Z","to":"2026-02-14T15:02:52Z"}
+{"id":"12746458750","timestamp":"2025-11-16T16:16:05.758407286Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-16T15:03:27Z","to":"2026-02-14T15:03:26Z"}
+{"id":"12746483330","timestamp":"2025-11-16T16:16:05.75840973Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-16T15:03:10Z","to":"2026-02-14T15:03:09Z"}
+{"id":"12746491376","timestamp":"2025-11-16T16:16:05.758409841Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-16T15:03:44Z","to":"2026-02-14T15:03:43Z"}
