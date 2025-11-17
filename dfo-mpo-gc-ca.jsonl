@@ -1140,3 +1140,8 @@
 {"id":"12714682977","timestamp":"2025-11-14T08:29:44.706854819Z","domain":"prometheus.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-11-14T07:20:57Z","to":"2026-02-12T07:20:56Z"}
 {"id":"12724552159","timestamp":"2025-11-15T00:38:11.217910489Z","domain":"argocd.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-11-14T23:29:35Z","to":"2026-02-12T23:29:34Z"}
 {"id":"12762315777","timestamp":"2025-11-17T19:24:58.297081035Z","domain":"citrix-mfa.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-11-17T00:00:00Z","to":"2026-12-18T23:59:59Z"}
+{"id":"12762970384","timestamp":"2025-11-17T20:28:53.123026479Z","domain":"neptune.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-11-17T18:57:57Z","to":"2026-02-15T18:57:56Z"}
+{"id":"12763026580","timestamp":"2025-11-17T20:28:53.123026909Z","domain":"api.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-11-17T19:05:04Z","to":"2026-02-15T19:05:03Z"}
+{"id":"12763026580","timestamp":"2025-11-17T20:28:53.12302717Z","domain":"api-iwls.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-11-17T19:05:04Z","to":"2026-02-15T19:05:03Z"}
+{"id":"12763026580","timestamp":"2025-11-17T20:28:53.12302743Z","domain":"api.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-11-17T19:05:04Z","to":"2026-02-15T19:05:03Z"}
+{"id":"12763026580","timestamp":"2025-11-17T20:28:53.123027521Z","domain":"api-sine.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-11-17T19:05:04Z","to":"2026-02-15T19:05:03Z"}
