@@ -1139,3 +1139,4 @@
 {"id":"12656770230","timestamp":"2025-11-10T11:25:28.099527602Z","domain":"prediction.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-11-10T09:46:22Z","to":"2026-02-08T09:46:21Z"}
 {"id":"12714682977","timestamp":"2025-11-14T08:29:44.706854819Z","domain":"prometheus.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-11-14T07:20:57Z","to":"2026-02-12T07:20:56Z"}
 {"id":"12724552159","timestamp":"2025-11-15T00:38:11.217910489Z","domain":"argocd.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-11-14T23:29:35Z","to":"2026-02-12T23:29:34Z"}
+{"id":"12762315777","timestamp":"2025-11-17T19:24:58.297081035Z","domain":"citrix-mfa.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-11-17T00:00:00Z","to":"2026-12-18T23:59:59Z"}
