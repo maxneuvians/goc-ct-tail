@@ -38,15 +38,15 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 13481,
+      "totalCertificates": 13494,
       "totalsByIssuer": {
         "Entrust": 2525,
-        "Amazon Trust Services": 965,
+        "Amazon Trust Services": 967,
         "DigiCert": 656,
         "GoDaddy": 13,
-        "Let's Encrypt": 6848,
+        "Let's Encrypt": 6858,
         "Google Trust Services": 286,
-        "Sectigo": 530,
+        "Sectigo": 531,
         "SSL.com": 1658
       },
       "errorCount": 0
@@ -108,9 +108,9 @@
     {
       "inputFile": "cdssandbox-xyz.jsonl",
       "outputFile": "stats/cdssandbox-xyz-stats.json",
-      "totalCertificates": 2103,
+      "totalCertificates": 2116,
       "totalsByIssuer": {
-        "Amazon Trust Services": 1725,
+        "Amazon Trust Services": 1738,
         "Let's Encrypt": 359,
         "DigiCert": 19
       },
@@ -180,10 +180,10 @@
     {
       "inputFile": "cse-cst-gc-ca.jsonl",
       "outputFile": "stats/cse-cst-gc-ca-stats.json",
-      "totalCertificates": 283,
+      "totalCertificates": 284,
       "totalsByIssuer": {
         "Entrust": 104,
-        "Let's Encrypt": 18,
+        "Let's Encrypt": 19,
         "SSL.com": 77,
         "Amazon Trust Services": 4,
         "Sectigo": 80
@@ -596,10 +596,10 @@
     {
       "inputFile": "ssc-spc-gc-ca.jsonl",
       "outputFile": "stats/ssc-spc-gc-ca-stats.json",
-      "totalCertificates": 953,
+      "totalCertificates": 954,
       "totalsByIssuer": {
         "Entrust": 467,
-        "Let's Encrypt": 166,
+        "Let's Encrypt": 167,
         "Amazon Trust Services": 2,
         "SSL.com": 184,
         "DigiCert": 3,
@@ -708,10 +708,10 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 3566,
-    "Let's Encrypt": 19367,
+    "Amazon Trust Services": 3581,
+    "Let's Encrypt": 19379,
     "SSL.com": 6250,
-    "Sectigo": 12619,
+    "Sectigo": 12620,
     "DigiCert": 2092,
     "GoDaddy": 77,
     "Google Trust Services": 550,
