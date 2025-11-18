@@ -13524,3 +13524,7 @@
 {"id":"12774314840","timestamp":"2025-11-18T16:16:48.794353147Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-18T15:03:56Z","to":"2026-02-16T15:03:55Z"}
 {"id":"12774340340","timestamp":"2025-11-18T16:16:48.794353257Z","domain":"mlflow.ws-gwilkes.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-18T15:06:27Z","to":"2026-02-16T15:06:26Z"}
 {"id":"12774362618","timestamp":"2025-11-18T16:16:48.794353347Z","domain":"resource-catalogue.ws-gwilkes.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-18T15:06:27Z","to":"2026-02-16T15:06:26Z"}
+{"id":"12774570008","timestamp":"2025-11-18T17:16:01.113808754Z","domain":"api.cbr-rcb.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-18T00:00:00Z","to":"2026-12-17T23:59:59Z"}
+{"id":"12774570008","timestamp":"2025-11-18T17:16:01.113809447Z","domain":"beacon-registry.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-18T00:00:00Z","to":"2026-12-17T23:59:59Z"}
+{"id":"12774570008","timestamp":"2025-11-18T17:16:01.113809701Z","domain":"cbr-rcb.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-18T00:00:00Z","to":"2026-12-17T23:59:59Z"}
+{"id":"12774570008","timestamp":"2025-11-18T17:16:01.113809869Z","domain":"registre-balise.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-18T00:00:00Z","to":"2026-12-17T23:59:59Z"}
