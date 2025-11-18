@@ -13515,3 +13515,12 @@
 {"id":"12769273085","timestamp":"2025-11-18T08:16:55.846372036Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-18T06:25:50Z","to":"2026-02-16T06:25:49Z"}
 {"id":"12773164960","timestamp":"2025-11-18T14:15:57.584051065Z","domain":"workload1.c1-sw17xy.sw17xy.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-11-18T12:55:36Z","to":"2026-02-16T13:48:28Z"}
 {"id":"12773693957","timestamp":"2025-11-18T15:16:17.629637044Z","domain":"trojaifrontend.trojai.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-18T13:58:22Z","to":"2026-02-16T13:58:21Z"}
+{"id":"12774208821","timestamp":"2025-11-18T16:16:48.794351394Z","domain":"vaccin-covid.canada.ca","issuer":"Google Trust Services","from":"2025-11-18T14:51:08Z","to":"2026-02-16T13:18:04Z"}
+{"id":"12774209929","timestamp":"2025-11-18T16:16:48.794351734Z","domain":"vaccin-covid.canada.ca","issuer":"Google Trust Services","from":"2025-11-18T14:51:18Z","to":"2026-02-16T15:51:14Z"}
+{"id":"12774294445","timestamp":"2025-11-18T16:16:48.794351985Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-18T15:02:17Z","to":"2026-02-16T15:02:16Z"}
+{"id":"12774299285","timestamp":"2025-11-18T16:16:48.794352215Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-18T15:02:36Z","to":"2026-02-16T15:02:35Z"}
+{"id":"12774300170","timestamp":"2025-11-18T16:16:48.794352305Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-18T15:02:53Z","to":"2026-02-16T15:02:52Z"}
+{"id":"12774312807","timestamp":"2025-11-18T16:16:48.794353057Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-18T15:03:39Z","to":"2026-02-16T15:03:38Z"}
+{"id":"12774314840","timestamp":"2025-11-18T16:16:48.794353147Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-18T15:03:56Z","to":"2026-02-16T15:03:55Z"}
+{"id":"12774340340","timestamp":"2025-11-18T16:16:48.794353257Z","domain":"mlflow.ws-gwilkes.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-18T15:06:27Z","to":"2026-02-16T15:06:26Z"}
+{"id":"12774362618","timestamp":"2025-11-18T16:16:48.794353347Z","domain":"resource-catalogue.ws-gwilkes.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-18T15:06:27Z","to":"2026-02-16T15:06:26Z"}
