@@ -13556,3 +13556,6 @@
 {"id":"12789993616","timestamp":"2025-11-19T17:15:48.627236882Z","domain":"fertiscan.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-19T15:46:20Z","to":"2026-02-17T15:46:19Z"}
 {"id":"12789999181","timestamp":"2025-11-19T17:15:48.627236962Z","domain":"resource-catalogue.ws-bsmith.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-19T15:42:19Z","to":"2026-02-17T15:42:18Z"}
 {"id":"12790830633","timestamp":"2025-11-19T18:16:58.63665788Z","domain":"gptr-mcp.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-19T16:56:44Z","to":"2026-02-17T16:56:43Z"}
+{"id":"12792639956","timestamp":"2025-11-19T21:15:11.958351459Z","domain":"sosaa-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-19T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12792639956","timestamp":"2025-11-19T21:15:11.958352Z","domain":"sosaa-dev-en.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-19T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12792639956","timestamp":"2025-11-19T21:15:11.958352411Z","domain":"sosaa-dev-fr.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-19T00:00:00Z","to":"2026-12-20T23:59:59Z"}
