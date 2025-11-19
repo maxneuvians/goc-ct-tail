@@ -3149,6 +3149,15 @@
     "2025-11-17": {
       "Let's Encrypt": 16,
       "Sectigo": 1
+    },
+    "2025-11-18": {
+      "Let's Encrypt": 12,
+      "Google Trust Services": 3,
+      "Amazon Trust Services": 4,
+      "Sectigo": 9
+    },
+    "2025-11-19": {
+      "Let's Encrypt": 2
     }
   },
   "errors": []
