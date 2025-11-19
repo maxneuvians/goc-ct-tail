@@ -13544,3 +13544,14 @@
 {"id":"12788907380","timestamp":"2025-11-19T16:16:49.047214113Z","domain":"gptr.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-19T14:20:26Z","to":"2026-02-17T14:20:25Z"}
 {"id":"12789160875","timestamp":"2025-11-19T16:16:49.047214284Z","domain":"litellm.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-19T14:42:54Z","to":"2026-02-17T14:42:53Z"}
 {"id":"12789240889","timestamp":"2025-11-19T16:16:49.047214474Z","domain":"ollama.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-19T14:47:54Z","to":"2026-02-17T14:47:53Z"}
+{"id":"12789556940","timestamp":"2025-11-19T17:15:48.627233876Z","domain":"ct-tp.itc-cii.nrcan-rncan.canada.ca","issuer":"Sectigo","from":"2025-11-19T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12789654721","timestamp":"2025-11-19T17:15:48.627234428Z","domain":"*.aurora.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-19T15:20:35Z","to":"2026-02-17T15:20:34Z"}
+{"id":"12789664382","timestamp":"2025-11-19T17:15:48.627234728Z","domain":"*.aurora.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-19T15:20:31Z","to":"2026-02-17T15:20:30Z"}
+{"id":"12789679201","timestamp":"2025-11-19T17:15:48.627234938Z","domain":"tc2-dev.gcfm.canada.ca","issuer":"Sectigo","from":"2025-11-19T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12789679201","timestamp":"2025-11-19T17:15:48.627235039Z","domain":"th2-dev.gcfm.canada.ca","issuer":"Sectigo","from":"2025-11-19T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12789730861","timestamp":"2025-11-19T17:15:48.6272357Z","domain":"resource-catalogue.ws-bigweather.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-19T15:27:24Z","to":"2026-02-17T15:27:23Z"}
+{"id":"12789853872","timestamp":"2025-11-19T17:15:48.62723579Z","domain":"login.services-autochtones.canada.ca","issuer":"DigiCert","from":"2025-11-19T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"12789875760","timestamp":"2025-11-19T17:15:48.62723588Z","domain":"login.indigenous-services.canada.ca","issuer":"DigiCert","from":"2025-11-19T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"12789931964","timestamp":"2025-11-19T17:15:48.627235971Z","domain":"mlflow.ws-bsmith.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-19T15:42:19Z","to":"2026-02-17T15:42:18Z"}
+{"id":"12789993616","timestamp":"2025-11-19T17:15:48.627236882Z","domain":"fertiscan.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-19T15:46:20Z","to":"2026-02-17T15:46:19Z"}
+{"id":"12789999181","timestamp":"2025-11-19T17:15:48.627236962Z","domain":"resource-catalogue.ws-bsmith.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-19T15:42:19Z","to":"2026-02-17T15:42:18Z"}
