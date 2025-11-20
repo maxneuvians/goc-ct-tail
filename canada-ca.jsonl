@@ -13576,3 +13576,7 @@
 {"id":"12803930394","timestamp":"2025-11-20T13:20:46.96499307Z","domain":"notification.inspection.canada.ca","issuer":"Sectigo","from":"2025-11-20T00:00:00Z","to":"2026-12-21T23:59:59Z"}
 {"id":"12803930394","timestamp":"2025-11-20T13:20:46.964993591Z","domain":"www.notification.inspection.canada.ca","issuer":"Sectigo","from":"2025-11-20T00:00:00Z","to":"2026-12-21T23:59:59Z"}
 {"id":"12804201231","timestamp":"2025-11-20T13:20:46.964993902Z","domain":"docling.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T11:44:48Z","to":"2026-02-18T11:44:47Z"}
+{"id":"12804784867","timestamp":"2025-11-20T14:15:59.341582318Z","domain":"resource-catalogue.ws-ws-asclepia.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T12:38:42Z","to":"2026-02-18T12:38:41Z"}
+{"id":"12804784926","timestamp":"2025-11-20T14:15:59.34158322Z","domain":"mlflow.ws-ws-asclepia.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T12:38:40Z","to":"2026-02-18T12:38:39Z"}
+{"id":"12804861420","timestamp":"2025-11-20T14:15:59.34158356Z","domain":"resource-catalogue.ws-asclepian.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T12:45:38Z","to":"2026-02-18T12:45:37Z"}
+{"id":"12804899364","timestamp":"2025-11-20T14:15:59.341584031Z","domain":"mlflow.ws-asclepian.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T12:45:38Z","to":"2026-02-18T12:45:37Z"}
