@@ -764,3 +764,7 @@
 {"id":"12599975903","timestamp":"2025-11-06T15:37:50.636708322Z","domain":"v3-pbi-rcp-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-11-06T14:09:15Z","to":"2026-02-04T14:09:14Z"}
 {"id":"12600130512","timestamp":"2025-11-06T15:37:50.636708603Z","domain":"v3-pbi-rcp-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-11-06T14:20:32Z","to":"2026-02-04T14:20:31Z"}
 {"id":"12773959028","timestamp":"2025-11-18T15:38:03.950038029Z","domain":"v3-aihorizon-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-11-18T14:27:09Z","to":"2026-02-16T14:27:08Z"}
+{"id":"12805888190","timestamp":"2025-11-20T15:37:06.566081002Z","domain":"tapx-tiv.dev.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-11-20T00:00:00Z","to":"2026-12-21T23:59:59Z"}
+{"id":"12805888190","timestamp":"2025-11-20T15:37:06.566081443Z","domain":"tapx-tiv.qa.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-11-20T00:00:00Z","to":"2026-12-21T23:59:59Z"}
+{"id":"12805982177","timestamp":"2025-11-20T15:37:06.566081743Z","domain":"tapx-claimsigner.dev.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-11-20T00:00:00Z","to":"2026-12-21T23:59:59Z"}
+{"id":"12805982177","timestamp":"2025-11-20T15:37:06.566082033Z","domain":"tapx-claimsigner.qa.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-11-20T00:00:00Z","to":"2026-12-21T23:59:59Z"}
