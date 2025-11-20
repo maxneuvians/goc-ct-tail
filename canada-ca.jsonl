@@ -13583,3 +13583,10 @@
 {"id":"12805161260","timestamp":"2025-11-20T15:16:12.052819832Z","domain":"loki.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T13:14:10Z","to":"2026-02-18T13:14:09Z"}
 {"id":"12805280360","timestamp":"2025-11-20T15:16:12.052820443Z","domain":"prometheus.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T13:24:52Z","to":"2026-02-18T13:24:51Z"}
 {"id":"12805347961","timestamp":"2025-11-20T15:16:12.052820794Z","domain":"grafana.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T13:28:25Z","to":"2026-02-18T13:28:24Z"}
+{"id":"12806341576","timestamp":"2025-11-20T16:16:53.271740426Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T15:02:32Z","to":"2026-02-18T15:02:31Z"}
+{"id":"12806347799","timestamp":"2025-11-20T16:16:53.271740927Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T15:03:12Z","to":"2026-02-18T15:03:11Z"}
+{"id":"12806348611","timestamp":"2025-11-20T16:16:53.271741248Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T15:02:55Z","to":"2026-02-18T15:02:54Z"}
+{"id":"12806352621","timestamp":"2025-11-20T16:16:53.271741518Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T15:03:45Z","to":"2026-02-18T15:03:44Z"}
+{"id":"12806353426","timestamp":"2025-11-20T16:16:53.271741629Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T15:03:28Z","to":"2026-02-18T15:03:27Z"}
+{"id":"12806403509","timestamp":"2025-11-20T16:16:53.271742971Z","domain":"canchat.dev.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T15:04:05Z","to":"2026-02-18T15:04:04Z"}
+{"id":"12806438576","timestamp":"2025-11-20T16:16:53.271743081Z","domain":"whoami.dev.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T15:06:39Z","to":"2026-02-18T15:06:38Z"}
