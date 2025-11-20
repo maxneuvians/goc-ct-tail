@@ -13573,3 +13573,6 @@
 {"id":"12800500710","timestamp":"2025-11-20T08:17:00.889860811Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T06:24:50Z","to":"2026-02-18T06:24:49Z"}
 {"id":"12800514384","timestamp":"2025-11-20T08:17:00.889861102Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T06:25:51Z","to":"2026-02-18T06:25:50Z"}
 {"id":"12800514384","timestamp":"2025-11-20T08:17:00.889861342Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T06:25:51Z","to":"2026-02-18T06:25:50Z"}
+{"id":"12803930394","timestamp":"2025-11-20T13:20:46.96499307Z","domain":"notification.inspection.canada.ca","issuer":"Sectigo","from":"2025-11-20T00:00:00Z","to":"2026-12-21T23:59:59Z"}
+{"id":"12803930394","timestamp":"2025-11-20T13:20:46.964993591Z","domain":"www.notification.inspection.canada.ca","issuer":"Sectigo","from":"2025-11-20T00:00:00Z","to":"2026-12-21T23:59:59Z"}
+{"id":"12804201231","timestamp":"2025-11-20T13:20:46.964993902Z","domain":"docling.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T11:44:48Z","to":"2026-02-18T11:44:47Z"}
