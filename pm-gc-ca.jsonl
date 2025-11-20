@@ -134,3 +134,11 @@
 {"id":"11727847407","timestamp":"2025-09-02T18:39:00.86734532Z","domain":"publicsafety.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
 {"id":"11727847407","timestamp":"2025-09-02T18:39:00.86734541Z","domain":"pwd-online.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
 {"id":"11727847407","timestamp":"2025-09-02T18:39:00.86734549Z","domain":"pwd-online-ph-endirect.gc.ca","issuer":"Sectigo","from":"2025-09-02T00:00:00Z","to":"2026-09-02T23:59:59Z"}
+{"id":"12795385218","timestamp":"2025-11-20T00:49:02.879200388Z","domain":"deputypm.canada.ca","issuer":"DigiCert","from":"2025-11-20T00:00:00Z","to":"2026-11-19T23:59:59Z"}
+{"id":"12795385218","timestamp":"2025-11-20T00:49:02.87920062Z","domain":"pm.canada.ca","issuer":"DigiCert","from":"2025-11-20T00:00:00Z","to":"2026-11-19T23:59:59Z"}
+{"id":"12795385218","timestamp":"2025-11-20T00:49:02.879200844Z","domain":"vicepm.canada.ca","issuer":"DigiCert","from":"2025-11-20T00:00:00Z","to":"2026-11-19T23:59:59Z"}
+{"id":"12795385218","timestamp":"2025-11-20T00:49:02.87920137Z","domain":"www.pm.gc.ca","issuer":"DigiCert","from":"2025-11-20T00:00:00Z","to":"2026-11-19T23:59:59Z"}
+{"id":"12795421821","timestamp":"2025-11-20T00:49:02.879201439Z","domain":"deputypm.canada.ca","issuer":"DigiCert","from":"2025-11-20T00:00:00Z","to":"2026-11-19T23:59:59Z"}
+{"id":"12795421821","timestamp":"2025-11-20T00:49:02.879202313Z","domain":"pm.canada.ca","issuer":"DigiCert","from":"2025-11-20T00:00:00Z","to":"2026-11-19T23:59:59Z"}
+{"id":"12795421821","timestamp":"2025-11-20T00:49:02.879202449Z","domain":"vicepm.canada.ca","issuer":"DigiCert","from":"2025-11-20T00:00:00Z","to":"2026-11-19T23:59:59Z"}
+{"id":"12795421821","timestamp":"2025-11-20T00:49:02.879202564Z","domain":"www.pm.gc.ca","issuer":"DigiCert","from":"2025-11-20T00:00:00Z","to":"2026-11-19T23:59:59Z"}
