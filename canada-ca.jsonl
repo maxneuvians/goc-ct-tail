@@ -13611,3 +13611,6 @@
 {"id":"12820402623","timestamp":"2025-11-21T16:16:39.18492633Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-21T15:02:26Z","to":"2026-02-19T15:02:25Z"}
 {"id":"12820415292","timestamp":"2025-11-21T16:16:39.18492641Z","domain":"*.kv.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-21T15:03:20Z","to":"2026-02-19T15:03:19Z"}
 {"id":"12822312857","timestamp":"2025-11-21T20:16:17.998791054Z","domain":"mras-samr.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-21T18:30:01Z","to":"2026-02-19T18:30:00Z"}
+{"id":"12823088628","timestamp":"2025-11-21T21:15:31.172557642Z","domain":"ocama-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12823088628","timestamp":"2025-11-21T21:15:31.172558113Z","domain":"sosaa-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12823096692","timestamp":"2025-11-21T21:15:31.172558473Z","domain":"incident-forwarder.mgmt.experimentation.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-11-21T19:55:36Z","to":"2026-02-19T20:51:31Z"}
