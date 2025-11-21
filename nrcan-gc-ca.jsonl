@@ -17644,3 +17644,5 @@
 {"id":"12799344632","timestamp":"2025-11-20T06:16:58.501232806Z","domain":"www.fleetsmart.gc.ca","issuer":"Let's Encrypt","from":"2025-11-20T04:44:00Z","to":"2026-02-18T04:43:59Z"}
 {"id":"12799344632","timestamp":"2025-11-20T06:16:58.501232866Z","domain":"www.fleetsmart.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-20T04:44:00Z","to":"2026-02-18T04:43:59Z"}
 {"id":"12799344632","timestamp":"2025-11-20T06:16:58.501233738Z","domain":"www.fleetsmart.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-20T04:44:00Z","to":"2026-02-18T04:43:59Z"}
+{"id":"12811123462","timestamp":"2025-11-21T00:37:15.49966299Z","domain":"*.cfs.cloud.nrcan.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-19T23:59:59Z"}
+{"id":"12811123462","timestamp":"2025-11-21T00:37:15.499663471Z","domain":"cfs.cloud.nrcan.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-19T23:59:59Z"}
