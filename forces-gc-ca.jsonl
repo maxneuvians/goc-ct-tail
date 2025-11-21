@@ -2062,3 +2062,7 @@
 {"id":"12821846741","timestamp":"2025-11-21T19:15:28.905955731Z","domain":"www.ordersdecisions.bcuc.com","issuer":"Let's Encrypt","from":"2025-11-21T17:37:19Z","to":"2026-02-19T17:37:18Z"}
 {"id":"12821846741","timestamp":"2025-11-21T19:15:28.905955821Z","domain":"www.trackenergyregs.ca","issuer":"Let's Encrypt","from":"2025-11-21T17:37:19Z","to":"2026-02-19T17:37:18Z"}
 {"id":"12821846741","timestamp":"2025-11-21T19:15:28.905955911Z","domain":"www.trackenergyregs.com","issuer":"Let's Encrypt","from":"2025-11-21T17:37:19Z","to":"2026-02-19T17:37:18Z"}
+{"id":"12823044131","timestamp":"2025-11-21T21:15:29.141455391Z","domain":"fleet-manager-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12823044377","timestamp":"2025-11-21T21:15:29.141455821Z","domain":"fleet-manager-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12823099919","timestamp":"2025-11-21T21:15:29.141456022Z","domain":"*.fleet-manager-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12823099919","timestamp":"2025-11-21T21:15:29.141456302Z","domain":"fleet-manager-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
