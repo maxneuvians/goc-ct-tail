@@ -13595,3 +13595,11 @@
 {"id":"12810181795","timestamp":"2025-11-20T23:15:41.510359597Z","domain":"kfserving.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-20T21:23:46Z","to":"2026-02-18T21:23:45Z"}
 {"id":"12811088689","timestamp":"2025-11-21T00:37:13.567063878Z","domain":"*.api.signin-connexion.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
 {"id":"12811088689","timestamp":"2025-11-21T00:37:13.567064349Z","domain":"api.signin-connexion.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12811351126","timestamp":"2025-11-21T01:44:48.792437025Z","domain":"*.rp.app.signin-connexion.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12811351126","timestamp":"2025-11-21T01:44:48.792437676Z","domain":"rp.app.signin-connexion.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12811546387","timestamp":"2025-11-21T01:44:48.792438437Z","domain":"*.app.signin-connexion.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12811546387","timestamp":"2025-11-21T01:44:48.792438698Z","domain":"app.signin-connexion.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12811546404","timestamp":"2025-11-21T01:44:48.792438808Z","domain":"*.connexion.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12811546404","timestamp":"2025-11-21T01:44:48.79243997Z","domain":"connexion.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12811546483","timestamp":"2025-11-21T01:44:48.79244009Z","domain":"*.sign-in.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"12811546483","timestamp":"2025-11-21T01:44:48.79244018Z","domain":"sign-in.canada.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
