@@ -3163,7 +3163,12 @@
     },
     "2025-11-20": {
       "DigiCert": 8,
-      "Amazon Trust Services": 2
+      "Amazon Trust Services": 2,
+      "Let's Encrypt": 22,
+      "Sectigo": 2
+    },
+    "2025-11-21": {
+      "Amazon Trust Services": 10
     }
   },
   "errors": []
