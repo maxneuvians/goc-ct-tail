@@ -3168,7 +3168,9 @@
       "Sectigo": 2
     },
     "2025-11-21": {
-      "Amazon Trust Services": 10
+      "Amazon Trust Services": 12,
+      "Google Trust Services": 2,
+      "Let's Encrypt": 7
     }
   },
   "errors": []
