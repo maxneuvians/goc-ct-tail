@@ -13693,3 +13693,7 @@
 {"id":"12857292687","timestamp":"2025-11-24T18:17:05.882418563Z","domain":"canchat.mvp.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-24T16:52:58Z","to":"2026-02-22T16:52:57Z"}
 {"id":"12857384287","timestamp":"2025-11-24T18:17:05.882419064Z","domain":"fee-payments.health.canada.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
 {"id":"12857384287","timestamp":"2025-11-24T18:17:05.882419425Z","domain":"fee-payments.phac.canada.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
+{"id":"12857917927","timestamp":"2025-11-24T19:15:12.961839719Z","domain":"didwebserver.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-24T18:09:14Z","to":"2026-02-22T18:09:13Z"}
+{"id":"12857921630","timestamp":"2025-11-24T19:15:12.961840139Z","domain":"api.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-24T18:10:19Z","to":"2026-02-22T18:10:18Z"}
+{"id":"12857921630","timestamp":"2025-11-24T19:15:12.96184032Z","domain":"realtime.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-24T18:10:19Z","to":"2026-02-22T18:10:18Z"}
+{"id":"12857925018","timestamp":"2025-11-24T19:15:12.96184049Z","domain":"*.dids.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-24T18:09:16Z","to":"2026-02-22T18:09:15Z"}
