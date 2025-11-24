@@ -17670,3 +17670,7 @@
 {"id":"12839533730","timestamp":"2025-11-23T07:15:43.206351364Z","domain":"www.oil.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-23T05:17:24Z","to":"2026-02-21T05:17:23Z"}
 {"id":"12839533730","timestamp":"2025-11-23T07:15:43.206351444Z","domain":"www.oil.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-23T05:17:24Z","to":"2026-02-21T05:17:23Z"}
 {"id":"12839533730","timestamp":"2025-11-23T07:15:43.206351524Z","domain":"www.oil.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-23T05:17:24Z","to":"2026-02-21T05:17:23Z"}
+{"id":"12856704408","timestamp":"2025-11-24T17:15:52.871313382Z","domain":"can-ndc.nrcan.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
+{"id":"12856704408","timestamp":"2025-11-24T17:15:52.871313683Z","domain":"can-ndc.rncan.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
+{"id":"12856704408","timestamp":"2025-11-24T17:15:52.871313912Z","domain":"origin1.can-ndc.nrcan.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
+{"id":"12856704408","timestamp":"2025-11-24T17:15:52.871314104Z","domain":"origin2.can-ndc.nrcan.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
