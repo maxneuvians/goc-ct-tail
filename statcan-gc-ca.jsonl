@@ -876,3 +876,9 @@
 {"id":"12684242811","timestamp":"2025-11-12T05:37:02.176451164Z","domain":"de-ircc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-12T04:05:02Z","to":"2026-02-10T04:05:01Z"}
 {"id":"12690112792","timestamp":"2025-11-12T16:41:04.817845772Z","domain":"sdmx-sfs.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-12T14:37:17Z","to":"2026-02-10T14:37:16Z"}
 {"id":"12734767724","timestamp":"2025-11-15T18:38:41.79682062Z","domain":"hub-carrefour-alpha.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-15T16:45:41Z","to":"2026-02-13T16:45:40Z"}
+{"id":"12855363415","timestamp":"2025-11-24T14:38:20.671793393Z","domain":"cmp-qa-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-24T13:22:15Z","to":"2026-02-22T13:22:14Z"}
+{"id":"12855363415","timestamp":"2025-11-24T14:38:20.671793633Z","domain":"cmp-qa.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-24T13:22:15Z","to":"2026-02-22T13:22:14Z"}
+{"id":"12855363890","timestamp":"2025-11-24T14:38:20.671793871Z","domain":"mis-qa-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-24T13:22:17Z","to":"2026-02-22T13:22:16Z"}
+{"id":"12855363890","timestamp":"2025-11-24T14:38:20.671794098Z","domain":"mis-qa.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-24T13:22:17Z","to":"2026-02-22T13:22:16Z"}
+{"id":"12855371364","timestamp":"2025-11-24T14:38:20.671794166Z","domain":"icoskb-qa-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-24T13:23:17Z","to":"2026-02-22T13:23:16Z"}
+{"id":"12855371364","timestamp":"2025-11-24T14:38:20.67179504Z","domain":"icoskb-qa.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-24T13:23:17Z","to":"2026-02-22T13:23:16Z"}
