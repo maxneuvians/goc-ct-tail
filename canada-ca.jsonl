@@ -13697,3 +13697,16 @@
 {"id":"12857921630","timestamp":"2025-11-24T19:15:12.961840139Z","domain":"api.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-24T18:10:19Z","to":"2026-02-22T18:10:18Z"}
 {"id":"12857921630","timestamp":"2025-11-24T19:15:12.96184032Z","domain":"realtime.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-24T18:10:19Z","to":"2026-02-22T18:10:18Z"}
 {"id":"12857925018","timestamp":"2025-11-24T19:15:12.96184049Z","domain":"*.dids.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-24T18:09:16Z","to":"2026-02-22T18:09:15Z"}
+{"id":"12858065301","timestamp":"2025-11-24T20:16:22.770834538Z","domain":"whoami.hcgenomics.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-24T18:28:11Z","to":"2026-02-22T18:28:10Z"}
+{"id":"12858065912","timestamp":"2025-11-24T20:16:22.770834899Z","domain":"portainer.hcgenomics.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-24T18:28:17Z","to":"2026-02-22T18:28:16Z"}
+{"id":"12858101259","timestamp":"2025-11-24T20:16:22.77083513Z","domain":"canary-workload.ssc-spc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-11-24T18:30:06Z","to":"2026-02-22T19:24:39Z"}
+{"id":"12858187227","timestamp":"2025-11-24T20:16:22.77083537Z","domain":"canafe-fintrac.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
+{"id":"12858187227","timestamp":"2025-11-24T20:16:22.77083547Z","domain":"canafe.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
+{"id":"12858187227","timestamp":"2025-11-24T20:16:22.770836392Z","domain":"fintrac-canafe.canada.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
+{"id":"12858187227","timestamp":"2025-11-24T20:16:22.770836502Z","domain":"fintrac-canafe.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
+{"id":"12858187227","timestamp":"2025-11-24T20:16:22.770836582Z","domain":"fintrac.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
+{"id":"12858187227","timestamp":"2025-11-24T20:16:22.770836662Z","domain":"www.canafe-fintrac.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
+{"id":"12858187227","timestamp":"2025-11-24T20:16:22.770837835Z","domain":"www.canafe.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
+{"id":"12858187227","timestamp":"2025-11-24T20:16:22.770837915Z","domain":"www.fintrac-canafe.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
+{"id":"12858187227","timestamp":"2025-11-24T20:16:22.770837995Z","domain":"www.fintrac.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
+{"id":"12858379456","timestamp":"2025-11-24T20:16:22.770838085Z","domain":"aqvc.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-24T19:10:15Z","to":"2026-02-22T19:10:14Z"}
