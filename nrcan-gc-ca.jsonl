@@ -17679,3 +17679,7 @@
 {"id":"12856924987","timestamp":"2025-11-24T18:17:10.106270508Z","domain":"origin1.geomag.nrcan.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
 {"id":"12856924987","timestamp":"2025-11-24T18:17:10.106270819Z","domain":"origin2.geomag.nrcan.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
 {"id":"12862724975","timestamp":"2025-11-25T06:17:10.651291969Z","domain":"free77-uxwtst1.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-25T04:39:24Z","to":"2026-02-23T04:39:23Z"}
+{"id":"12867670052","timestamp":"2025-11-25T16:16:51.80179307Z","domain":"can-ndc.nrcan.gc.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"12867670052","timestamp":"2025-11-25T16:16:51.801793661Z","domain":"can-ndc.rncan.gc.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"12867670052","timestamp":"2025-11-25T16:16:51.801794012Z","domain":"origin1.can-ndc.nrcan.gc.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"12867670052","timestamp":"2025-11-25T16:16:51.801794362Z","domain":"origin2.can-ndc.nrcan.gc.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
