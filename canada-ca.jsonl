@@ -13721,3 +13721,5 @@
 {"id":"12866149178","timestamp":"2025-11-25T13:22:12.519637644Z","domain":"webservices-staging.maps.canada.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
 {"id":"12866796405","timestamp":"2025-11-25T14:16:01.293639867Z","domain":"api.io.canada.ca","issuer":"Let's Encrypt","from":"2025-11-25T12:48:08Z","to":"2026-02-23T12:48:07Z"}
 {"id":"12866796405","timestamp":"2025-11-25T14:16:01.293640328Z","domain":"api-test.io.canada.ca","issuer":"Let's Encrypt","from":"2025-11-25T12:48:08Z","to":"2026-02-23T12:48:07Z"}
+{"id":"12867388599","timestamp":"2025-11-25T15:16:22.039186707Z","domain":"gcrs.hc-phac.canada.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"12867388599","timestamp":"2025-11-25T15:16:22.039189302Z","domain":"srsc.sc-aspc.canada.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
