@@ -2067,3 +2067,6 @@
 {"id":"12823099919","timestamp":"2025-11-21T21:15:29.141456022Z","domain":"*.fleet-manager-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
 {"id":"12823099919","timestamp":"2025-11-21T21:15:29.141456302Z","domain":"fleet-manager-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-21T00:00:00Z","to":"2026-12-20T23:59:59Z"}
 {"id":"12858771466","timestamp":"2025-11-24T21:16:01.736139214Z","domain":"test-jdcp-example.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-24T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"12868383345","timestamp":"2025-11-25T17:16:03.547699196Z","domain":"*.tools.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-25T00:00:00Z","to":"2026-12-24T23:59:59Z"}
+{"id":"12868383345","timestamp":"2025-11-25T17:16:03.547699787Z","domain":"tools.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-25T00:00:00Z","to":"2026-12-24T23:59:59Z"}
+{"id":"12868383345","timestamp":"2025-11-25T17:16:03.547700108Z","domain":"verify.tools.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-25T00:00:00Z","to":"2026-12-24T23:59:59Z"}
