@@ -13716,3 +13716,6 @@
 {"id":"12863525834","timestamp":"2025-11-25T08:17:05.926640462Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-25T06:24:55Z","to":"2026-02-23T06:24:54Z"}
 {"id":"12863535025","timestamp":"2025-11-25T08:17:05.926640762Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-25T06:25:51Z","to":"2026-02-23T06:25:50Z"}
 {"id":"12863535025","timestamp":"2025-11-25T08:17:05.926641043Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-11-25T06:25:51Z","to":"2026-02-23T06:25:50Z"}
+{"id":"12866061933","timestamp":"2025-11-25T13:22:12.519636863Z","domain":"*.oas-sv.data.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"12866149178","timestamp":"2025-11-25T13:22:12.519637324Z","domain":"servicesweb-staging.cartes.canada.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"12866149178","timestamp":"2025-11-25T13:22:12.519637644Z","domain":"webservices-staging.maps.canada.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
