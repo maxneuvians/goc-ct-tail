@@ -13730,3 +13730,18 @@
 {"id":"12867938260","timestamp":"2025-11-25T16:16:52.823548691Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-25T15:03:16Z","to":"2026-02-23T15:03:15Z"}
 {"id":"12868744602","timestamp":"2025-11-25T18:17:12.396164349Z","domain":"user-proxy.canchat.mvp.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-25T16:28:48Z","to":"2026-02-23T16:28:47Z"}
 {"id":"12869100153","timestamp":"2025-11-25T18:17:12.39616493Z","domain":"ami.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-25T17:08:51Z","to":"2026-02-23T17:08:50Z"}
+{"id":"12869141022","timestamp":"2025-11-25T19:15:47.834817602Z","domain":"mlflow.ws-ebishop.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-25T17:11:56Z","to":"2026-02-23T17:11:55Z"}
+{"id":"12869141436","timestamp":"2025-11-25T19:15:47.834818063Z","domain":"resource-catalogue.ws-ebishop.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-25T17:11:58Z","to":"2026-02-23T17:11:57Z"}
+{"id":"12869165182","timestamp":"2025-11-25T19:15:47.834818273Z","domain":"resource-catalogue.ws-abishop.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-25T17:16:56Z","to":"2026-02-23T17:16:55Z"}
+{"id":"12869179559","timestamp":"2025-11-25T19:15:47.834818554Z","domain":"mlflow.ws-abishop.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-25T17:16:55Z","to":"2026-02-23T17:16:54Z"}
+{"id":"12869204117","timestamp":"2025-11-25T19:15:47.834818644Z","domain":"resource-catalogue.ws-cbinding.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-25T17:19:29Z","to":"2026-02-23T17:19:28Z"}
+{"id":"12869213268","timestamp":"2025-11-25T19:15:47.834819496Z","domain":"mlflow.ws-cbinding.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-25T17:19:30Z","to":"2026-02-23T17:19:29Z"}
+{"id":"12869419596","timestamp":"2025-11-25T19:15:47.834819586Z","domain":"*.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-02-23T23:59:59Z"}
+{"id":"12869427358","timestamp":"2025-11-25T19:15:47.834819656Z","domain":"*.nxrm.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-02-23T23:59:59Z"}
+{"id":"12869598096","timestamp":"2025-11-25T19:15:47.834819736Z","domain":"api.ihsmeccc.com","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"12869598096","timestamp":"2025-11-25T19:15:47.834820357Z","domain":"marchescarbone-carbonmarkets.canada.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"12869598096","timestamp":"2025-11-25T19:15:47.834820417Z","domain":"marchescarbone-carbonmarkets-uat.canada.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"12869598096","timestamp":"2025-11-25T19:15:47.834820488Z","domain":"u1-eccc.env.ihsmeccc.com","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"12869598096","timestamp":"2025-11-25T19:15:47.834820558Z","domain":"uat-api-eccc.env.ihsmeccc.com","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"12869598096","timestamp":"2025-11-25T19:15:47.834820618Z","domain":"uat-eccc.env.ihsmeccc.com","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"12869598096","timestamp":"2025-11-25T19:15:47.834820688Z","domain":"www.ihsmeccc.com","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
