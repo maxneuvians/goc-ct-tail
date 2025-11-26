@@ -13751,3 +13751,10 @@
 {"id":"12875382295","timestamp":"2025-11-26T07:16:02.293519663Z","domain":"dol-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-11-26T05:48:13Z","to":"2026-02-24T05:48:12Z"}
 {"id":"12878204841","timestamp":"2025-11-26T13:23:06.827372994Z","domain":"resource-catalogue.ws-rfernandes.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-26T11:25:53Z","to":"2026-02-24T11:25:52Z"}
 {"id":"12878687641","timestamp":"2025-11-26T14:16:08.243097914Z","domain":"mlflow.ws-rfernandes.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-26T12:26:02Z","to":"2026-02-24T12:26:01Z"}
+{"id":"12879107094","timestamp":"2025-11-26T15:15:55.307528038Z","domain":"api.ihsmeccc.com","issuer":"Sectigo","from":"2025-11-26T00:00:00Z","to":"2026-12-27T23:59:59Z"}
+{"id":"12879107094","timestamp":"2025-11-26T15:15:55.30753104Z","domain":"auth.api.ihsmeccc.com","issuer":"Sectigo","from":"2025-11-26T00:00:00Z","to":"2026-12-27T23:59:59Z"}
+{"id":"12879107094","timestamp":"2025-11-26T15:15:55.307531386Z","domain":"cats-eccc.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2025-11-26T00:00:00Z","to":"2026-12-27T23:59:59Z"}
+{"id":"12879107094","timestamp":"2025-11-26T15:15:55.307531723Z","domain":"identity.api.ihsmeccc.com","issuer":"Sectigo","from":"2025-11-26T00:00:00Z","to":"2026-12-27T23:59:59Z"}
+{"id":"12879107094","timestamp":"2025-11-26T15:15:55.30753183Z","domain":"marchescarbone-carbonmarkets.canada.ca","issuer":"Sectigo","from":"2025-11-26T00:00:00Z","to":"2026-12-27T23:59:59Z"}
+{"id":"12879107094","timestamp":"2025-11-26T15:15:55.307533155Z","domain":"www.ihsmeccc.com","issuer":"Sectigo","from":"2025-11-26T00:00:00Z","to":"2026-12-27T23:59:59Z"}
+{"id":"12879107094","timestamp":"2025-11-26T15:15:55.307533245Z","domain":"www.marchescarbone-carbonmarkets.canada.ca","issuer":"Sectigo","from":"2025-11-26T00:00:00Z","to":"2026-12-27T23:59:59Z"}
