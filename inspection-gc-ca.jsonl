@@ -211,3 +211,6 @@
 {"id":"12856749595","timestamp":"2025-11-24T17:27:56.901626078Z","domain":"sso-iu.inspection.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
 {"id":"12867343680","timestamp":"2025-11-25T15:29:04.124845112Z","domain":"active.inspection.gc.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
 {"id":"12867343680","timestamp":"2025-11-25T15:29:04.124845572Z","domain":"www.active.inspection.gc.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"12878933857","timestamp":"2025-11-26T14:29:08.390894402Z","domain":"autodiscover.inspection.gc.ca","issuer":"Sectigo","from":"2025-11-26T00:00:00Z","to":"2026-12-27T23:59:59Z"}
+{"id":"12878933857","timestamp":"2025-11-26T14:29:08.390894753Z","domain":"mail.inspection.gc.ca","issuer":"Sectigo","from":"2025-11-26T00:00:00Z","to":"2026-12-27T23:59:59Z"}
+{"id":"12878933857","timestamp":"2025-11-26T14:29:08.390895004Z","domain":"mrs.inspection.gc.ca","issuer":"Sectigo","from":"2025-11-26T00:00:00Z","to":"2026-12-27T23:59:59Z"}
