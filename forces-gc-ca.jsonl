@@ -2076,3 +2076,5 @@
 {"id":"12871438449","timestamp":"2025-11-25T23:15:41.290268629Z","domain":"*.tools.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-25T00:00:00Z","to":"2026-12-24T23:59:59Z"}
 {"id":"12871438449","timestamp":"2025-11-25T23:15:41.29026899Z","domain":"tools.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-25T00:00:00Z","to":"2026-12-24T23:59:59Z"}
 {"id":"12871438449","timestamp":"2025-11-25T23:15:41.29026923Z","domain":"verify.tools.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-25T00:00:00Z","to":"2026-12-24T23:59:59Z"}
+{"id":"12893427548","timestamp":"2025-11-27T20:16:05.458824595Z","domain":"allies.cloud.forces.gc.ca","issuer":"Sectigo","from":"2025-11-27T00:00:00Z","to":"2026-12-28T23:59:59Z"}
+{"id":"12893427548","timestamp":"2025-11-27T20:16:05.458824915Z","domain":"app.allies.cloud.forces.gc.ca","issuer":"Sectigo","from":"2025-11-27T00:00:00Z","to":"2026-12-28T23:59:59Z"}
