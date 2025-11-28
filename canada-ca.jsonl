@@ -13855,3 +13855,6 @@
 {"id":"12892062551","timestamp":"2025-11-27T17:15:27.521466847Z","domain":"mlflow.ws-leaf.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-27T15:51:58Z","to":"2026-02-25T15:51:57Z"}
 {"id":"12892062807","timestamp":"2025-11-27T17:15:27.521467658Z","domain":"resource-catalogue.ws-leaf.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-27T15:51:58Z","to":"2026-02-25T15:51:57Z"}
 {"id":"12892792847","timestamp":"2025-11-27T19:15:09.518525959Z","domain":"*.meta.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-11-27T00:00:00Z","to":"2026-02-25T23:59:59Z"}
+{"id":"12896384821","timestamp":"2025-11-28T03:31:20.78374024Z","domain":"*.pages.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-28T02:12:04Z","to":"2026-02-26T02:12:03Z"}
+{"id":"12896384821","timestamp":"2025-11-28T03:31:20.783740591Z","domain":"private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-28T02:12:04Z","to":"2026-02-26T02:12:03Z"}
+{"id":"12896384821","timestamp":"2025-11-28T03:31:20.783740781Z","domain":"secrets-differ.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-28T02:12:04Z","to":"2026-02-26T02:12:03Z"}
