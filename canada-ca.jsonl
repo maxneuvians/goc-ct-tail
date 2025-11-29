@@ -13871,3 +13871,4 @@
 {"id":"12905675091","timestamp":"2025-11-29T00:36:20.104408648Z","domain":"*.md.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-11-29T00:00:00Z","to":"2026-02-27T23:59:59Z"}
 {"id":"12905773746","timestamp":"2025-11-29T00:36:20.104409119Z","domain":"*.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-11-29T00:00:00Z","to":"2026-02-27T23:59:59Z"}
 {"id":"12905783518","timestamp":"2025-11-29T00:36:20.10440938Z","domain":"*.nxrm.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-11-29T00:00:00Z","to":"2026-02-27T23:59:59Z"}
+{"id":"12906017800","timestamp":"2025-11-29T01:44:45.511483895Z","domain":"kubernetes-dashboard-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-11-28T23:53:08Z","to":"2026-02-26T23:53:07Z"}
