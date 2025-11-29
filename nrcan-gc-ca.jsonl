@@ -17739,3 +17739,14 @@
 {"id":"12908151632","timestamp":"2025-11-29T06:16:54.796371505Z","domain":"glfc72.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2025-11-29T00:00:00Z","to":"2026-02-27T23:59:59Z"}
 {"id":"12908151632","timestamp":"2025-11-29T06:16:54.796371568Z","domain":"glfc72.rncan.gc.ca","issuer":"Sectigo","from":"2025-11-29T00:00:00Z","to":"2026-02-27T23:59:59Z"}
 {"id":"12908151632","timestamp":"2025-11-29T06:16:54.796371631Z","domain":"glfc72.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2025-11-29T00:00:00Z","to":"2026-02-27T23:59:59Z"}
+{"id":"12908423305","timestamp":"2025-11-29T07:15:43.25155515Z","domain":"web16-ext-prd.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-29T05:42:31Z","to":"2026-02-27T05:42:30Z"}
+{"id":"12908423305","timestamp":"2025-11-29T07:15:43.251555611Z","domain":"web16-ext-prd.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-29T05:42:31Z","to":"2026-02-27T05:42:30Z"}
+{"id":"12908425389","timestamp":"2025-11-29T07:15:43.251555972Z","domain":"www1.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-29T05:42:54Z","to":"2026-02-27T05:42:53Z"}
+{"id":"12908425389","timestamp":"2025-11-29T07:15:43.251556643Z","domain":"www1.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-29T05:42:54Z","to":"2026-02-27T05:42:53Z"}
+{"id":"12908425389","timestamp":"2025-11-29T07:15:43.251556743Z","domain":"www1.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-29T05:42:54Z","to":"2026-02-27T05:42:53Z"}
+{"id":"12908425389","timestamp":"2025-11-29T07:15:43.251557485Z","domain":"www1.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-29T05:42:54Z","to":"2026-02-27T05:42:53Z"}
+{"id":"12908425531","timestamp":"2025-11-29T07:15:43.251557605Z","domain":"www1.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-29T05:42:47Z","to":"2026-02-27T05:42:46Z"}
+{"id":"12908425531","timestamp":"2025-11-29T07:15:43.251557695Z","domain":"www1.rncan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-29T05:42:47Z","to":"2026-02-27T05:42:46Z"}
+{"id":"12908425531","timestamp":"2025-11-29T07:15:43.251557805Z","domain":"www1.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-29T05:42:47Z","to":"2026-02-27T05:42:46Z"}
+{"id":"12908448792","timestamp":"2025-11-29T07:15:43.251558596Z","domain":"www.clss.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-29T05:46:07Z","to":"2026-02-27T05:46:06Z"}
+{"id":"12908539792","timestamp":"2025-11-29T07:15:43.251558687Z","domain":"www.satc.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-29T05:58:52Z","to":"2026-02-27T05:58:51Z"}
