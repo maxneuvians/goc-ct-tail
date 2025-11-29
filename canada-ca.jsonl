@@ -13873,3 +13873,6 @@
 {"id":"12905783518","timestamp":"2025-11-29T00:36:20.10440938Z","domain":"*.nxrm.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2025-11-29T00:00:00Z","to":"2026-02-27T23:59:59Z"}
 {"id":"12906017800","timestamp":"2025-11-29T01:44:45.511483895Z","domain":"kubernetes-dashboard-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-11-28T23:53:08Z","to":"2026-02-26T23:53:07Z"}
 {"id":"12906872971","timestamp":"2025-11-29T03:31:35.826061404Z","domain":"canary-workload.ssc-spc.preprod.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-11-29T01:52:52Z","to":"2026-02-27T02:46:44Z"}
+{"id":"12908427795","timestamp":"2025-11-29T07:15:43.179887479Z","domain":"nrcan-rncan.canada.ca","issuer":"Let's Encrypt","from":"2025-11-29T05:43:09Z","to":"2026-02-27T05:43:08Z"}
+{"id":"12908427795","timestamp":"2025-11-29T07:15:43.179887799Z","domain":"rncan-nrcan.canada.ca","issuer":"Let's Encrypt","from":"2025-11-29T05:43:09Z","to":"2026-02-27T05:43:08Z"}
+{"id":"12908427795","timestamp":"2025-11-29T07:15:43.179888009Z","domain":"www2.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2025-11-29T05:43:09Z","to":"2026-02-27T05:43:08Z"}
