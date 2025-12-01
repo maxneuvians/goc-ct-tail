@@ -13886,3 +13886,7 @@
 {"id":"12923230803","timestamp":"2025-11-30T19:15:14.511423429Z","domain":"mlflow.ws-nitrogen.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-30T17:23:59Z","to":"2026-02-28T17:23:58Z"}
 {"id":"12925878924","timestamp":"2025-12-01T01:45:37.533127295Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-12-01T00:01:53Z","to":"2026-03-01T00:01:52Z"}
 {"id":"12925878924","timestamp":"2025-12-01T01:45:37.533127615Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-12-01T00:01:53Z","to":"2026-03-01T00:01:52Z"}
+{"id":"12929782605","timestamp":"2025-12-01T10:16:40.674365243Z","domain":"navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-12-01T08:40:42Z","to":"2026-03-01T08:40:41Z"}
+{"id":"12929782605","timestamp":"2025-12-01T10:16:40.674365874Z","domain":"ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-12-01T08:40:42Z","to":"2026-03-01T08:40:41Z"}
+{"id":"12929782605","timestamp":"2025-12-01T10:16:40.674366074Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-12-01T08:40:42Z","to":"2026-03-01T08:40:41Z"}
+{"id":"12929782605","timestamp":"2025-12-01T10:16:40.674366285Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-12-01T08:40:42Z","to":"2026-03-01T08:40:41Z"}
