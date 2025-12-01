@@ -13890,3 +13890,7 @@
 {"id":"12929782605","timestamp":"2025-12-01T10:16:40.674365874Z","domain":"ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-12-01T08:40:42Z","to":"2026-03-01T08:40:41Z"}
 {"id":"12929782605","timestamp":"2025-12-01T10:16:40.674366074Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-12-01T08:40:42Z","to":"2026-03-01T08:40:41Z"}
 {"id":"12929782605","timestamp":"2025-12-01T10:16:40.674366285Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-12-01T08:40:42Z","to":"2026-03-01T08:40:41Z"}
+{"id":"12931420100","timestamp":"2025-12-01T13:23:18.949194503Z","domain":"gphin.canada.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12931420100","timestamp":"2025-12-01T13:23:18.949194843Z","domain":"gphin.hc-sc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12931420100","timestamp":"2025-12-01T13:23:18.949195034Z","domain":"*.hc-sc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12931420100","timestamp":"2025-12-01T13:23:18.949195234Z","domain":"rmisp.canada.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
