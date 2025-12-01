@@ -1419,3 +1419,43 @@
 {"id":"12848274674","timestamp":"2025-11-24T00:40:15.111987464Z","domain":"testdd2.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2025-11-23T23:09:08Z","to":"2026-02-21T23:09:07Z"}
 {"id":"12848274674","timestamp":"2025-11-24T00:40:15.111987855Z","domain":"testdd.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2025-11-23T23:09:08Z","to":"2026-02-21T23:09:07Z"}
 {"id":"12860167974","timestamp":"2025-11-25T00:36:20.63435603Z","domain":"testserverdave.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2025-11-24T23:10:02Z","to":"2026-02-22T23:10:01Z"}
+{"id":"12932103766","timestamp":"2025-12-01T15:16:16.438078854Z","domain":"devportal.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932103766","timestamp":"2025-12-01T15:16:16.438079305Z","domain":"devportal.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932103766","timestamp":"2025-12-01T15:16:16.438079546Z","domain":"gateway.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932103766","timestamp":"2025-12-01T15:16:16.438079886Z","domain":"gateway.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932103766","timestamp":"2025-12-01T15:16:16.438079996Z","domain":"legacy.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932103766","timestamp":"2025-12-01T15:16:16.438081008Z","domain":"legacy.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932103766","timestamp":"2025-12-01T15:16:16.438081108Z","domain":"management.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932103766","timestamp":"2025-12-01T15:16:16.438081198Z","domain":"management.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932103766","timestamp":"2025-12-01T15:16:16.438081299Z","domain":"scm.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932103766","timestamp":"2025-12-01T15:16:16.43808219Z","domain":"scm.staging.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438082311Z","domain":"devportal.dev.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438082411Z","domain":"devportal.pd.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438082511Z","domain":"devportal.poc.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438082601Z","domain":"devportal.qc.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438082691Z","domain":"devportal.sandbox.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438082801Z","domain":"devportal.uat.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438082892Z","domain":"gateway.dev.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438082972Z","domain":"gateway.pd.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438083863Z","domain":"gateway.poc.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438083944Z","domain":"gateway.qc.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438084054Z","domain":"gateway.sandbox.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438085226Z","domain":"gateway.uat.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438085316Z","domain":"legacy.dev.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438085406Z","domain":"legacy.pd.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438085497Z","domain":"legacy.poc.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438085577Z","domain":"legacy.qc.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438085667Z","domain":"legacy.sandbox.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438085757Z","domain":"legacy.uat.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438085837Z","domain":"management.dev.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438085938Z","domain":"management.pd.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438086018Z","domain":"management.poc.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438086108Z","domain":"management.qc.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438086198Z","domain":"management.sandbox.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438086288Z","domain":"management.uat.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438086378Z","domain":"scm.dev.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438086468Z","domain":"scm.pd.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438086559Z","domain":"scm.poc.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438086649Z","domain":"scm.qc.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438086739Z","domain":"scm.sandbox.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932324264","timestamp":"2025-12-01T15:16:16.438086829Z","domain":"scm.uat.apim-gipa.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
