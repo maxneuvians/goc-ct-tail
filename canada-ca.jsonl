@@ -13884,3 +13884,5 @@
 {"id":"12912517203","timestamp":"2025-11-29T16:16:17.796732763Z","domain":"*.dfs.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-11-29T15:03:19Z","to":"2026-02-27T15:03:18Z"}
 {"id":"12923229907","timestamp":"2025-11-30T19:15:14.511422948Z","domain":"resource-catalogue.ws-nitrogen.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-30T17:23:57Z","to":"2026-02-28T17:23:56Z"}
 {"id":"12923230803","timestamp":"2025-11-30T19:15:14.511423429Z","domain":"mlflow.ws-nitrogen.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-11-30T17:23:59Z","to":"2026-02-28T17:23:58Z"}
+{"id":"12925878924","timestamp":"2025-12-01T01:45:37.533127295Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-12-01T00:01:53Z","to":"2026-03-01T00:01:52Z"}
+{"id":"12925878924","timestamp":"2025-12-01T01:45:37.533127615Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-12-01T00:01:53Z","to":"2026-03-01T00:01:52Z"}
