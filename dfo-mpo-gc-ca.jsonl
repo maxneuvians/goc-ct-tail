@@ -1159,3 +1159,10 @@
 {"id":"12926977939","timestamp":"2025-12-01T03:56:30.034946902Z","domain":"api-spine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-12-01T02:38:26Z","to":"2026-03-01T02:38:25Z"}
 {"id":"12926977939","timestamp":"2025-12-01T03:56:30.034947172Z","domain":"api-spine.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-12-01T02:38:26Z","to":"2026-03-01T02:38:25Z"}
 {"id":"12927845370","timestamp":"2025-12-01T06:30:31.670347106Z","domain":"intra-api.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2025-12-01T04:32:12Z","to":"2026-03-01T04:32:11Z"}
+{"id":"12932302972","timestamp":"2025-12-01T15:29:06.276518364Z","domain":"app-gg-ef.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932302972","timestamp":"2025-12-01T15:29:06.276518767Z","domain":"dataportal.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932302972","timestamp":"2025-12-01T15:29:06.27651899Z","domain":"gg-ef.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932302972","timestamp":"2025-12-01T15:29:06.276519227Z","domain":"internet.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932302972","timestamp":"2025-12-01T15:29:06.276519313Z","domain":"portaildedonnees.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932302972","timestamp":"2025-12-01T15:29:06.276520218Z","domain":"portal-portail.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12932302972","timestamp":"2025-12-01T15:29:06.276520288Z","domain":"pwaapp.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
