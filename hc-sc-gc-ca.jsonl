@@ -1174,3 +1174,7 @@
 {"id":"12865971299","timestamp":"2025-11-25T12:10:30.787116553Z","domain":"*.phac-aspc.gc.ca","issuer":"Sectigo","from":"2025-11-25T00:00:00Z","to":"2026-12-26T23:59:59Z"}
 {"id":"12892470281","timestamp":"2025-11-27T18:07:50.037322712Z","domain":"gcsnbanting.hc-sc.gc.ca","issuer":"Let's Encrypt","from":"2025-11-27T16:49:03Z","to":"2026-02-25T16:49:02Z"}
 {"id":"12892473186","timestamp":"2025-11-27T18:07:50.037323423Z","domain":"gcsnbanting.hc-sc.gc.ca","issuer":"Let's Encrypt","from":"2025-11-27T16:49:53Z","to":"2026-02-25T16:49:52Z"}
+{"id":"12931420100","timestamp":"2025-12-01T14:06:27.864958482Z","domain":"gphin.canada.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12931420100","timestamp":"2025-12-01T14:06:27.864958763Z","domain":"gphin.hc-sc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12931420100","timestamp":"2025-12-01T14:06:27.864958973Z","domain":"*.hc-sc.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12931420100","timestamp":"2025-12-01T14:06:27.864959163Z","domain":"rmisp.canada.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
