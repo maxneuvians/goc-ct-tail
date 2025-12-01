@@ -92,3 +92,6 @@
 {"id":"12932665415","timestamp":"2025-12-01T16:42:29.025615187Z","domain":"apps.sk8s0.science.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2026-03-01T23:59:59Z"}
 {"id":"12932673519","timestamp":"2025-12-01T16:42:29.025615678Z","domain":"api.sk8s0.science.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2026-03-01T23:59:59Z"}
 {"id":"12932682822","timestamp":"2025-12-01T16:42:29.025615989Z","domain":"sk8s0.science.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2026-03-01T23:59:59Z"}
+{"id":"12934506824","timestamp":"2025-12-01T20:35:32.667751396Z","domain":"api.sk8s0.science.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12934506824","timestamp":"2025-12-01T20:35:32.667751857Z","domain":"*.apps.sk8s0.science.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"12934506824","timestamp":"2025-12-01T20:35:32.667752137Z","domain":"sk8s0.science.gc.ca","issuer":"Sectigo","from":"2025-12-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
