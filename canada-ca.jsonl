@@ -13911,3 +13911,29 @@
 {"id":"12939710372","timestamp":"2025-12-02T08:17:16.698246608Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-02T06:24:50Z","to":"2026-03-02T06:24:49Z"}
 {"id":"12939710372","timestamp":"2025-12-02T08:17:16.698246869Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-02T06:24:50Z","to":"2026-03-02T06:24:49Z"}
 {"id":"12940827800","timestamp":"2025-12-02T10:16:35.145499373Z","domain":"incident-forwarder.mgmt.preprod.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-12-02T08:53:10Z","to":"2026-03-02T09:49:05Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183741049Z","domain":"autodiscover.appointments-nominations.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183741358Z","domain":"autodiscover.cco-bcc.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183741561Z","domain":"autodiscover.debates-debats.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183741761Z","domain":"autodiscover.di-id.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183741823Z","domain":"autodiscover.dpmo-cvpm.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183742725Z","domain":"autodiscover.ico-bcr.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183742791Z","domain":"autodiscover.iga-aig.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183742846Z","domain":"autodiscover.isr-rsi.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183742901Z","domain":"autodiscover.kpc-cpr.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183743762Z","domain":"autodiscover.lghc-lgcc.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183743822Z","domain":"autodiscover.lieutenant.canada.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183743883Z","domain":"autodiscover.masscasualtycommission.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183743938Z","domain":"autodiscover.nsicop-cpsnr.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183743993Z","domain":"autodiscover.nsira-ossnr.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183744049Z","domain":"autodiscover.pco-bcp.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183744104Z","domain":"autodiscover.pifi-epie.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183744159Z","domain":"autodiscover.pm.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183744214Z","domain":"autodiscover.pmo-cpm.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.1837481Z","domain":"autodiscover.pmresidences.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183748155Z","domain":"autodiscover.poec-cedu.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.18374821Z","domain":"autodiscover.prairies.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183748265Z","domain":"autodiscover.qpc-cpr.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183748326Z","domain":"mailgcccdt.pco-bcp.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183748381Z","domain":"mail.pco-bcp.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.183748435Z","domain":"mrs1.pco-bcp.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12941984813","timestamp":"2025-12-02T13:23:36.18374849Z","domain":"mrs2.pco-bcp.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
