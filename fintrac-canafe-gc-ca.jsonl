@@ -58,3 +58,12 @@
 {"id":"12858187227","timestamp":"2025-11-24T20:28:57.014132467Z","domain":"www.canafe.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
 {"id":"12858187227","timestamp":"2025-11-24T20:28:57.014133239Z","domain":"www.fintrac-canafe.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
 {"id":"12858187227","timestamp":"2025-11-24T20:28:57.014133339Z","domain":"www.fintrac.gc.ca","issuer":"Sectigo","from":"2025-11-24T00:00:00Z","to":"2026-12-25T23:59:59Z"}
+{"id":"12945904592","timestamp":"2025-12-02T20:29:21.64460645Z","domain":"autodiscover.canafe-fintrac.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12945904592","timestamp":"2025-12-02T20:29:21.644606951Z","domain":"autodiscover.fintrac-canafe.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12945904592","timestamp":"2025-12-02T20:29:21.644607281Z","domain":"finexchange.fintrac.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12945904592","timestamp":"2025-12-02T20:29:21.644607582Z","domain":"hybrid.canafe-fintrac.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12945904592","timestamp":"2025-12-02T20:29:21.644607682Z","domain":"hybrid.fintrac-canafe.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12945904592","timestamp":"2025-12-02T20:29:21.644608363Z","domain":"mail.canafe-fintrac.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12945904592","timestamp":"2025-12-02T20:29:21.644608474Z","domain":"mail.fintrac-canafe.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12945904592","timestamp":"2025-12-02T20:29:21.644608564Z","domain":"mrs.canafe-fintrac.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12945904592","timestamp":"2025-12-02T20:29:21.644608664Z","domain":"mrs.fintrac-canafe.gc.ca","issuer":"Sectigo","from":"2025-12-02T00:00:00Z","to":"2027-01-02T23:59:59Z"}
