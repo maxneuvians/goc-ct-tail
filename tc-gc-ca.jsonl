@@ -358,3 +358,5 @@
 {"id":"12776280610","timestamp":"2025-11-18T20:16:31.009093347Z","domain":"orion.tc.gc.ca","issuer":"Sectigo","from":"2025-11-18T00:00:00Z","to":"2026-12-19T23:59:59Z"}
 {"id":"12860594776","timestamp":"2025-11-25T01:44:51.586167031Z","domain":"*.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-11-25T00:01:53Z","to":"2026-02-23T00:01:52Z"}
 {"id":"12860594776","timestamp":"2025-11-25T01:44:51.586167311Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2025-11-25T00:01:53Z","to":"2026-02-23T00:01:52Z"}
+{"id":"12936904577","timestamp":"2025-12-02T01:45:10.457789981Z","domain":"*.dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-12-02T00:01:53Z","to":"2026-03-02T00:01:52Z"}
+{"id":"12936904577","timestamp":"2025-12-02T01:45:10.457790352Z","domain":"dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-12-02T00:01:53Z","to":"2026-03-02T00:01:52Z"}
