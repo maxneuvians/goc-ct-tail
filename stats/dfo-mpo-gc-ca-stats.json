@@ -873,7 +873,8 @@
       "Let's Encrypt": 2
     },
     "2025-12-01": {
-      "Let's Encrypt": 2
+      "Let's Encrypt": 3,
+      "Sectigo": 10
     }
   },
   "errors": []

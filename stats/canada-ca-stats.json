@@ -3211,7 +3211,9 @@
       "Let's Encrypt": 2
     },
     "2025-12-01": {
-      "Let's Encrypt": 2
+      "Let's Encrypt": 15,
+      "Sectigo": 5,
+      "Amazon Trust Services": 2
     }
   },
   "errors": []
