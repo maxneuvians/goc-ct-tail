@@ -2144,3 +2144,5 @@
 {"id":"12944041899","timestamp":"2025-12-02T16:42:53.406695726Z","domain":"portal.test1007.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-12-02T15:20:31Z","to":"2026-03-02T15:20:30Z"}
 {"id":"12944058406","timestamp":"2025-12-02T16:42:53.406696788Z","domain":"api.test1007.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-12-02T15:19:31Z","to":"2026-03-02T15:19:30Z"}
 {"id":"12944058406","timestamp":"2025-12-02T16:42:53.406696858Z","domain":"realtime.test1007.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-12-02T15:19:31Z","to":"2026-03-02T15:19:30Z"}
+{"id":"12945258424","timestamp":"2025-12-02T18:44:56.212579385Z","domain":"portal.dev.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-12-02T17:28:05Z","to":"2026-03-02T17:28:04Z"}
+{"id":"12945262095","timestamp":"2025-12-02T18:44:56.212580247Z","domain":"portail.dev.delivrance-verification.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-12-02T17:28:05Z","to":"2026-03-02T17:28:04Z"}
