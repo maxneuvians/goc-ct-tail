@@ -14012,3 +14012,7 @@
 {"id":"12960361717","timestamp":"2025-12-04T00:38:19.936650552Z","domain":"uat-eccc.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-12-04T00:00:00Z","to":"2027-01-02T23:59:59Z"}
 {"id":"12960361717","timestamp":"2025-12-04T00:38:19.936650643Z","domain":"uat-wp.env.ihsmeccc.com","issuer":"Amazon Trust Services","from":"2025-12-04T00:00:00Z","to":"2027-01-02T23:59:59Z"}
 {"id":"12960361717","timestamp":"2025-12-04T00:38:19.936650723Z","domain":"www.marchescarbone-carbonmarkets-uat.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-04T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"12963968172","timestamp":"2025-12-04T08:17:03.562961307Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-04T06:24:53Z","to":"2026-03-04T06:24:52Z"}
+{"id":"12963968172","timestamp":"2025-12-04T08:17:03.562962149Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-04T06:24:53Z","to":"2026-03-04T06:24:52Z"}
+{"id":"12963983916","timestamp":"2025-12-04T08:17:03.562962419Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-04T06:25:53Z","to":"2026-03-04T06:25:52Z"}
+{"id":"12963983916","timestamp":"2025-12-04T08:17:03.56296264Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-04T06:25:53Z","to":"2026-03-04T06:25:52Z"}
