@@ -14116,3 +14116,5 @@
 {"id":"12981605584","timestamp":"2025-12-05T21:15:51.309237377Z","domain":"workload1.c1-dl87uw.dl87uw.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2025-12-05T19:41:09Z","to":"2026-03-05T20:34:21Z"}
 {"id":"12987612330","timestamp":"2025-12-06T10:15:51.077562669Z","domain":"alloy.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-06T09:05:21Z","to":"2026-03-06T09:05:20Z"}
 {"id":"12987618538","timestamp":"2025-12-06T10:15:51.07756319Z","domain":"grafana.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-06T09:05:26Z","to":"2026-03-06T09:05:25Z"}
+{"id":"12990366035","timestamp":"2025-12-06T16:16:22.814395754Z","domain":"*.cto-dev-portal.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-06T15:02:52Z","to":"2026-03-06T15:02:51Z"}
+{"id":"12990372512","timestamp":"2025-12-06T16:16:22.814395985Z","domain":"*.cto-prod-portal.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-06T15:02:52Z","to":"2026-03-06T15:02:51Z"}
