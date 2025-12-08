@@ -2111,3 +2111,5 @@
 {"id":"12959301704","timestamp":"2025-12-03T22:16:02.884031977Z","domain":"*.vcds.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-12-03T20:56:53Z","to":"2026-03-03T20:56:52Z"}
 {"id":"12977623386","timestamp":"2025-12-05T13:21:41.478353738Z","domain":"oscar-en-stg.cloud.forces.gc.ca","issuer":"Sectigo","from":"2025-12-05T00:00:00Z","to":"2027-01-05T23:59:59Z"}
 {"id":"12977623386","timestamp":"2025-12-05T13:21:41.478354209Z","domain":"oscar-fr-stg.cloud.forces.gc.ca","issuer":"Sectigo","from":"2025-12-05T00:00:00Z","to":"2027-01-05T23:59:59Z"}
+{"id":"13003771232","timestamp":"2025-12-08T00:39:16.322926207Z","domain":"hangar-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-12-08T00:00:00Z","to":"2027-01-06T23:59:59Z"}
+{"id":"13003771232","timestamp":"2025-12-08T00:39:16.322926698Z","domain":"www.hangar-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-12-08T00:00:00Z","to":"2027-01-06T23:59:59Z"}
