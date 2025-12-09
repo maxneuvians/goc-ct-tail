@@ -14164,3 +14164,7 @@
 {"id":"13024211468","timestamp":"2025-12-09T22:16:01.190864146Z","domain":"sosaa-dclair.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-09T00:00:00Z","to":"2027-01-07T23:59:59Z"}
 {"id":"13024211468","timestamp":"2025-12-09T22:16:01.190865168Z","domain":"sosaa-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-09T00:00:00Z","to":"2027-01-07T23:59:59Z"}
 {"id":"13024211468","timestamp":"2025-12-09T22:16:01.190865248Z","domain":"sosaa-jblier.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-09T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"13024828440","timestamp":"2025-12-09T23:15:58.70912426Z","domain":"api.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T22:01:07Z","to":"2026-03-09T22:01:06Z"}
+{"id":"13024828440","timestamp":"2025-12-09T23:15:58.709124711Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T22:01:07Z","to":"2026-03-09T22:01:06Z"}
+{"id":"13024828440","timestamp":"2025-12-09T23:15:58.709125002Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T22:01:07Z","to":"2026-03-09T22:01:06Z"}
+{"id":"13024828440","timestamp":"2025-12-09T23:15:58.709125252Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T22:01:07Z","to":"2026-03-09T22:01:06Z"}
