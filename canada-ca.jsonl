@@ -14142,3 +14142,7 @@
 {"id":"13012578251","timestamp":"2025-12-08T20:16:30.818204188Z","domain":"sosaa-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-12-08T00:00:00Z","to":"2026-12-21T23:59:59Z"}
 {"id":"13012578251","timestamp":"2025-12-08T20:16:30.818204288Z","domain":"sosaa-jblier.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2025-12-08T00:00:00Z","to":"2026-12-21T23:59:59Z"}
 {"id":"13012687453","timestamp":"2025-12-08T20:16:30.81820531Z","domain":"www.ssc-sand-gccopa.dev.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-12-08T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13017407085","timestamp":"2025-12-09T08:17:13.735692324Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T06:24:49Z","to":"2026-03-09T06:24:48Z"}
+{"id":"13017407085","timestamp":"2025-12-09T08:17:13.735692865Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T06:24:49Z","to":"2026-03-09T06:24:48Z"}
+{"id":"13017408005","timestamp":"2025-12-09T08:17:13.735693265Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T06:25:57Z","to":"2026-03-09T06:25:56Z"}
+{"id":"13017408005","timestamp":"2025-12-09T08:17:13.735717351Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T06:25:57Z","to":"2026-03-09T06:25:56Z"}
