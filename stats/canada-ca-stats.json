@@ -3240,7 +3240,9 @@
       "Let's Encrypt": 5
     },
     "2025-12-08": {
-      "Let's Encrypt": 2
+      "Let's Encrypt": 11,
+      "Sectigo": 11,
+      "DigiCert": 1
     }
   },
   "errors": []
