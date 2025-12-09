@@ -14153,3 +14153,14 @@
 {"id":"13020683760","timestamp":"2025-12-09T15:16:35.420628563Z","domain":"rapports-energetiques.canada.ca","issuer":"Sectigo","from":"2025-12-09T00:00:00Z","to":"2027-01-09T23:59:59Z"}
 {"id":"13021006637","timestamp":"2025-12-09T15:16:35.420628864Z","domain":"guidebook-staging.sdlc.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2025-12-09T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13021986959","timestamp":"2025-12-09T17:16:12.811530813Z","domain":"magentic.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T15:58:38Z","to":"2026-03-09T15:58:37Z"}
+{"id":"13024185888","timestamp":"2025-12-09T22:16:01.190861982Z","domain":"blogue.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T20:33:46Z","to":"2026-03-09T20:33:45Z"}
+{"id":"13024185888","timestamp":"2025-12-09T22:16:01.190862383Z","domain":"blogue.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T20:33:46Z","to":"2026-03-09T20:33:45Z"}
+{"id":"13024211468","timestamp":"2025-12-09T22:16:01.190862704Z","domain":"ocama-bzaher.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-09T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"13024211468","timestamp":"2025-12-09T22:16:01.190862944Z","domain":"ocama-dclair.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-09T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"13024211468","timestamp":"2025-12-09T22:16:01.190863044Z","domain":"ocama-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-09T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"13024211468","timestamp":"2025-12-09T22:16:01.190863916Z","domain":"ocama-jblier.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-09T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"13024211468","timestamp":"2025-12-09T22:16:01.190864006Z","domain":"pda-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-09T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"13024211468","timestamp":"2025-12-09T22:16:01.190864076Z","domain":"sosaa-bzaher.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-09T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"13024211468","timestamp":"2025-12-09T22:16:01.190864146Z","domain":"sosaa-dclair.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-09T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"13024211468","timestamp":"2025-12-09T22:16:01.190865168Z","domain":"sosaa-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-09T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"13024211468","timestamp":"2025-12-09T22:16:01.190865248Z","domain":"sosaa-jblier.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-09T00:00:00Z","to":"2027-01-07T23:59:59Z"}
