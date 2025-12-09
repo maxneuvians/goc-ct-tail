@@ -1180,3 +1180,7 @@
 {"id":"13011993898","timestamp":"2025-12-08T18:30:18.447364957Z","domain":"www-ops2.pac.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-12-08T00:00:00Z","to":"2027-01-05T23:59:59Z"}
 {"id":"13012162277","timestamp":"2025-12-08T19:26:30.203087899Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-12-08T00:00:00Z","to":"2027-01-08T23:59:59Z"}
 {"id":"13012404156","timestamp":"2025-12-08T19:26:30.203088429Z","domain":"dfocmg.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-12-08T00:00:00Z","to":"2027-01-08T23:59:59Z"}
+{"id":"13021994295","timestamp":"2025-12-09T17:28:13.440379128Z","domain":"*.azure.cloud.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-12-09T00:00:00Z","to":"2027-01-09T23:59:59Z"}
+{"id":"13021994295","timestamp":"2025-12-09T17:28:13.440379449Z","domain":"*.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-12-09T00:00:00Z","to":"2027-01-09T23:59:59Z"}
+{"id":"13021994295","timestamp":"2025-12-09T17:28:13.440379629Z","domain":"*.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-12-09T00:00:00Z","to":"2027-01-09T23:59:59Z"}
+{"id":"13021994295","timestamp":"2025-12-09T17:28:13.44037986Z","domain":"*.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2025-12-09T00:00:00Z","to":"2027-01-09T23:59:59Z"}
