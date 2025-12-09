@@ -14146,3 +14146,5 @@
 {"id":"13017407085","timestamp":"2025-12-09T08:17:13.735692865Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T06:24:49Z","to":"2026-03-09T06:24:48Z"}
 {"id":"13017408005","timestamp":"2025-12-09T08:17:13.735693265Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T06:25:57Z","to":"2026-03-09T06:25:56Z"}
 {"id":"13017408005","timestamp":"2025-12-09T08:17:13.735717351Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T06:25:57Z","to":"2026-03-09T06:25:56Z"}
+{"id":"13019702747","timestamp":"2025-12-09T12:17:44.173578232Z","domain":"rook-h.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T11:06:03Z","to":"2026-03-09T11:06:02Z"}
+{"id":"13019702934","timestamp":"2025-12-09T12:17:44.173579048Z","domain":"rook-c.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-09T11:06:07Z","to":"2026-03-09T11:06:06Z"}
