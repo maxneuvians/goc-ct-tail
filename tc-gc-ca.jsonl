@@ -360,3 +360,5 @@
 {"id":"12860594776","timestamp":"2025-11-25T01:44:51.586167311Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2025-11-25T00:01:53Z","to":"2026-02-23T00:01:52Z"}
 {"id":"12936904577","timestamp":"2025-12-02T01:45:10.457789981Z","domain":"*.dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-12-02T00:01:53Z","to":"2026-03-02T00:01:52Z"}
 {"id":"12936904577","timestamp":"2025-12-02T01:45:10.457790352Z","domain":"dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-12-02T00:01:53Z","to":"2026-03-02T00:01:52Z"}
+{"id":"13014715967","timestamp":"2025-12-09T01:45:05.596316854Z","domain":"*.acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-12-09T00:01:48Z","to":"2026-03-09T00:01:47Z"}
+{"id":"13014715967","timestamp":"2025-12-09T01:45:05.596317245Z","domain":"acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2025-12-09T00:01:48Z","to":"2026-03-09T00:01:47Z"}
