@@ -14174,3 +14174,12 @@
 {"id":"13032759937","timestamp":"2025-12-10T15:16:42.537686106Z","domain":"blog.canada.ca","issuer":"Let's Encrypt","from":"2025-12-10T14:13:48Z","to":"2026-03-10T14:13:47Z"}
 {"id":"13032759937","timestamp":"2025-12-10T15:16:42.537686617Z","domain":"blog.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-10T14:13:48Z","to":"2026-03-10T14:13:47Z"}
 {"id":"13033499757","timestamp":"2025-12-10T17:16:30.871407342Z","domain":"doc-to-html.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-10T15:41:52Z","to":"2026-03-10T15:41:51Z"}
+{"id":"13033764993","timestamp":"2025-12-10T18:17:14.754703657Z","domain":"dask.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-10T16:13:48Z","to":"2026-03-10T16:13:47Z"}
+{"id":"13033824611","timestamp":"2025-12-10T18:17:14.754704098Z","domain":"dask.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-10T16:20:45Z","to":"2026-03-10T16:20:44Z"}
+{"id":"13034080442","timestamp":"2025-12-10T18:17:14.754704348Z","domain":"api.osdp-cumulative-effects.canada.ca","issuer":"Sectigo","from":"2025-12-10T00:00:00Z","to":"2027-01-10T23:59:59Z"}
+{"id":"13034080442","timestamp":"2025-12-10T18:17:14.754704579Z","domain":"api.osdp-psdo.canada.ca","issuer":"Sectigo","from":"2025-12-10T00:00:00Z","to":"2027-01-10T23:59:59Z"}
+{"id":"13034080442","timestamp":"2025-12-10T18:17:14.754704669Z","domain":"api.psdo-effets-cumulatifs.canada.ca","issuer":"Sectigo","from":"2025-12-10T00:00:00Z","to":"2027-01-10T23:59:59Z"}
+{"id":"13034080442","timestamp":"2025-12-10T18:17:14.754705981Z","domain":"osdp-cumulative-effects.canada.ca","issuer":"Sectigo","from":"2025-12-10T00:00:00Z","to":"2027-01-10T23:59:59Z"}
+{"id":"13034080442","timestamp":"2025-12-10T18:17:14.754706061Z","domain":"osdp-psdo.canada.ca","issuer":"Sectigo","from":"2025-12-10T00:00:00Z","to":"2027-01-10T23:59:59Z"}
+{"id":"13034080442","timestamp":"2025-12-10T18:17:14.754706142Z","domain":"psdo-effets-cumulatifs.canada.ca","issuer":"Sectigo","from":"2025-12-10T00:00:00Z","to":"2027-01-10T23:59:59Z"}
+{"id":"13034080442","timestamp":"2025-12-10T18:17:14.754706222Z","domain":"www.osdp-psdo.canada.ca","issuer":"Sectigo","from":"2025-12-10T00:00:00Z","to":"2027-01-10T23:59:59Z"}
