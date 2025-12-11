@@ -14236,3 +14236,7 @@
 {"id":"13035454971","timestamp":"2025-12-10T21:16:15.141456373Z","domain":"www.web2.justice.gc.ca","issuer":"Sectigo","from":"2025-12-10T00:00:00Z","to":"2027-01-10T23:59:59Z"}
 {"id":"13037268587","timestamp":"2025-12-11T01:45:11.903176634Z","domain":"spc-approagile-avatar.canada.ca","issuer":"Let's Encrypt","from":"2025-12-10T23:53:27Z","to":"2026-03-10T23:53:26Z"}
 {"id":"13037268587","timestamp":"2025-12-11T01:45:11.903177045Z","domain":"ssc-agileprocurement-avatar.canada.ca","issuer":"Let's Encrypt","from":"2025-12-10T23:53:27Z","to":"2026-03-10T23:53:26Z"}
+{"id":"13040294622","timestamp":"2025-12-11T08:17:10.098482495Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T06:24:51Z","to":"2026-03-11T06:24:50Z"}
+{"id":"13040294622","timestamp":"2025-12-11T08:17:10.098484139Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T06:24:51Z","to":"2026-03-11T06:24:50Z"}
+{"id":"13040308893","timestamp":"2025-12-11T08:17:10.09848494Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T06:25:51Z","to":"2026-03-11T06:25:50Z"}
+{"id":"13040308893","timestamp":"2025-12-11T08:17:10.098485421Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T06:25:51Z","to":"2026-03-11T06:25:50Z"}
