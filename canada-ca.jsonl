@@ -14258,3 +14258,8 @@
 {"id":"13045307398","timestamp":"2025-12-11T18:16:56.722918846Z","domain":"admin.pch-funding.canada.ca","issuer":"Sectigo","from":"2025-12-11T00:00:00Z","to":"2027-01-11T23:59:59Z"}
 {"id":"13045307398","timestamp":"2025-12-11T18:16:56.722919297Z","domain":"pch-financement.canada.ca","issuer":"Sectigo","from":"2025-12-11T00:00:00Z","to":"2027-01-11T23:59:59Z"}
 {"id":"13045307398","timestamp":"2025-12-11T18:16:56.722919718Z","domain":"pch-funding.canada.ca","issuer":"Sectigo","from":"2025-12-11T00:00:00Z","to":"2027-01-11T23:59:59Z"}
+{"id":"13046119246","timestamp":"2025-12-11T20:16:35.258895376Z","domain":"gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T18:23:07Z","to":"2026-03-11T18:23:06Z"}
+{"id":"13046149846","timestamp":"2025-12-11T20:16:35.258895767Z","domain":"traefik.gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T18:23:17Z","to":"2026-03-11T18:23:16Z"}
+{"id":"13046154800","timestamp":"2025-12-11T20:16:35.258896038Z","domain":"ceres-seres-api-test1.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-11T00:00:00Z","to":"2027-01-09T23:59:59Z"}
+{"id":"13046155167","timestamp":"2025-12-11T20:16:35.258896348Z","domain":"ceres-seres-api-test.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-11T00:00:00Z","to":"2027-01-09T23:59:59Z"}
+{"id":"13046204443","timestamp":"2025-12-11T20:16:35.258896448Z","domain":"ceres-seres-api.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-11T00:00:00Z","to":"2027-01-09T23:59:59Z"}
