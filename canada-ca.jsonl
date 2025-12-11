@@ -14240,3 +14240,11 @@
 {"id":"13040294622","timestamp":"2025-12-11T08:17:10.098484139Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T06:24:51Z","to":"2026-03-11T06:24:50Z"}
 {"id":"13040308893","timestamp":"2025-12-11T08:17:10.09848494Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T06:25:51Z","to":"2026-03-11T06:25:50Z"}
 {"id":"13040308893","timestamp":"2025-12-11T08:17:10.098485421Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T06:25:51Z","to":"2026-03-11T06:25:50Z"}
+{"id":"13041384481","timestamp":"2025-12-11T10:16:38.228001887Z","domain":"navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T08:41:11Z","to":"2026-03-11T08:41:10Z"}
+{"id":"13041384481","timestamp":"2025-12-11T10:16:38.228002338Z","domain":"navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-12-11T08:41:11Z","to":"2026-03-11T08:41:10Z"}
+{"id":"13041384481","timestamp":"2025-12-11T10:16:38.228002558Z","domain":"ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T08:41:11Z","to":"2026-03-11T08:41:10Z"}
+{"id":"13041384481","timestamp":"2025-12-11T10:16:38.228002829Z","domain":"ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-12-11T08:41:11Z","to":"2026-03-11T08:41:10Z"}
+{"id":"13041384481","timestamp":"2025-12-11T10:16:38.228002929Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T08:41:11Z","to":"2026-03-11T08:41:10Z"}
+{"id":"13041384481","timestamp":"2025-12-11T10:16:38.228003851Z","domain":"www.navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-12-11T08:41:11Z","to":"2026-03-11T08:41:10Z"}
+{"id":"13041384481","timestamp":"2025-12-11T10:16:38.228003931Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T08:41:11Z","to":"2026-03-11T08:41:10Z"}
+{"id":"13041384481","timestamp":"2025-12-11T10:16:38.228004011Z","domain":"www.ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2025-12-11T08:41:11Z","to":"2026-03-11T08:41:10Z"}
