@@ -2113,3 +2113,4 @@
 {"id":"12977623386","timestamp":"2025-12-05T13:21:41.478354209Z","domain":"oscar-fr-stg.cloud.forces.gc.ca","issuer":"Sectigo","from":"2025-12-05T00:00:00Z","to":"2027-01-05T23:59:59Z"}
 {"id":"13003771232","timestamp":"2025-12-08T00:39:16.322926207Z","domain":"hangar-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-12-08T00:00:00Z","to":"2027-01-06T23:59:59Z"}
 {"id":"13003771232","timestamp":"2025-12-08T00:39:16.322926698Z","domain":"www.hangar-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-12-08T00:00:00Z","to":"2027-01-06T23:59:59Z"}
+{"id":"13046842442","timestamp":"2025-12-11T21:16:24.386681971Z","domain":"portal-api-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2025-12-11T19:49:13Z","to":"2026-03-11T20:43:06Z"}
