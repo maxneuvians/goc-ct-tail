@@ -14254,3 +14254,7 @@
 {"id":"13044770074","timestamp":"2025-12-11T17:18:33.987585906Z","domain":"aws-rnd-test.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T15:41:08Z","to":"2026-03-11T15:41:07Z"}
 {"id":"13044785606","timestamp":"2025-12-11T17:18:33.987586187Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T15:41:25Z","to":"2026-03-11T15:41:24Z"}
 {"id":"13044787839","timestamp":"2025-12-11T17:18:33.987586458Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-11T15:41:42Z","to":"2026-03-11T15:41:41Z"}
+{"id":"13045307398","timestamp":"2025-12-11T18:16:56.722918375Z","domain":"admin.pch-financement.canada.ca","issuer":"Sectigo","from":"2025-12-11T00:00:00Z","to":"2027-01-11T23:59:59Z"}
+{"id":"13045307398","timestamp":"2025-12-11T18:16:56.722918846Z","domain":"admin.pch-funding.canada.ca","issuer":"Sectigo","from":"2025-12-11T00:00:00Z","to":"2027-01-11T23:59:59Z"}
+{"id":"13045307398","timestamp":"2025-12-11T18:16:56.722919297Z","domain":"pch-financement.canada.ca","issuer":"Sectigo","from":"2025-12-11T00:00:00Z","to":"2027-01-11T23:59:59Z"}
+{"id":"13045307398","timestamp":"2025-12-11T18:16:56.722919718Z","domain":"pch-funding.canada.ca","issuer":"Sectigo","from":"2025-12-11T00:00:00Z","to":"2027-01-11T23:59:59Z"}
