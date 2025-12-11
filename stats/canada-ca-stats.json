@@ -3249,6 +3249,11 @@
       "Sectigo": 3,
       "DigiCert": 1,
       "Amazon Trust Services": 9
+    },
+    "2025-12-10": {
+      "Let's Encrypt": 8,
+      "Amazon Trust Services": 2,
+      "Sectigo": 58
     }
   },
   "errors": []
