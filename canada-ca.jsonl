@@ -14263,3 +14263,5 @@
 {"id":"13046154800","timestamp":"2025-12-11T20:16:35.258896038Z","domain":"ceres-seres-api-test1.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-11T00:00:00Z","to":"2027-01-09T23:59:59Z"}
 {"id":"13046155167","timestamp":"2025-12-11T20:16:35.258896348Z","domain":"ceres-seres-api-test.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-11T00:00:00Z","to":"2027-01-09T23:59:59Z"}
 {"id":"13046204443","timestamp":"2025-12-11T20:16:35.258896448Z","domain":"ceres-seres-api.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-11T00:00:00Z","to":"2027-01-09T23:59:59Z"}
+{"id":"13055053330","timestamp":"2025-12-12T14:15:57.790603749Z","domain":"servicesweb.cartes.canada.ca","issuer":"Sectigo","from":"2025-12-12T00:00:00Z","to":"2027-01-12T23:59:59Z"}
+{"id":"13055053330","timestamp":"2025-12-12T14:15:57.790604099Z","domain":"webservices.maps.canada.ca","issuer":"Sectigo","from":"2025-12-12T00:00:00Z","to":"2027-01-12T23:59:59Z"}
