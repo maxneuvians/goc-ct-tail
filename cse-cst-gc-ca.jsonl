@@ -322,3 +322,9 @@
 {"id":"12869721190","timestamp":"2025-11-25T19:54:15.141512287Z","domain":"temporal.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-11-25T18:09:41Z","to":"2026-02-23T18:09:40Z"}
 {"id":"12869721190","timestamp":"2025-11-25T19:54:15.141512407Z","domain":"temporal-codec.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-11-25T18:09:41Z","to":"2026-02-23T18:09:40Z"}
 {"id":"12869923771","timestamp":"2025-11-25T19:54:15.141513378Z","domain":"argocd.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-11-25T18:28:26Z","to":"2026-02-23T18:28:25Z"}
+{"id":"13056443412","timestamp":"2025-12-12T17:54:20.815097647Z","domain":"argocd.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-12-12T15:56:36Z","to":"2026-03-12T15:56:35Z"}
+{"id":"13056506800","timestamp":"2025-12-12T17:54:20.815098118Z","domain":"akhq.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-12-12T16:01:54Z","to":"2026-03-12T16:01:53Z"}
+{"id":"13056549183","timestamp":"2025-12-12T17:54:20.815098358Z","domain":"tenant-id-enricher.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-12-12T16:08:52Z","to":"2026-03-12T16:08:51Z"}
+{"id":"13056554304","timestamp":"2025-12-12T17:54:20.815098619Z","domain":"*.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-12-12T16:08:26Z","to":"2026-03-12T16:08:25Z"}
+{"id":"13056557045","timestamp":"2025-12-12T17:54:20.815098719Z","domain":"temporal.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-12-12T16:09:04Z","to":"2026-03-12T16:09:03Z"}
+{"id":"13056557045","timestamp":"2025-12-12T17:54:20.815099431Z","domain":"temporal-codec.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2025-12-12T16:09:04Z","to":"2026-03-12T16:09:03Z"}
