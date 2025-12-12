@@ -780,3 +780,7 @@
 {"id":"13031689164","timestamp":"2025-12-10T13:43:53.302987451Z","domain":"core.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-10T12:04:54Z","to":"2026-03-10T12:04:53Z"}
 {"id":"13032905515","timestamp":"2025-12-10T15:38:45.601616764Z","domain":"*.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-10T14:31:44Z","to":"2026-03-10T14:31:43Z"}
 {"id":"13032905515","timestamp":"2025-12-10T15:38:45.601617025Z","domain":"dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-10T14:31:44Z","to":"2026-03-10T14:31:43Z"}
+{"id":"13056526928","timestamp":"2025-12-12T17:37:03.35818822Z","domain":"sub.notif.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-12T16:05:17Z","to":"2026-03-12T16:05:16Z"}
+{"id":"13056631744","timestamp":"2025-12-12T17:37:03.358188831Z","domain":"mail.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-12T16:18:18Z","to":"2026-03-12T16:18:17Z"}
+{"id":"13056631744","timestamp":"2025-12-12T17:37:03.358189041Z","domain":"mail.sensor.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-12T16:18:18Z","to":"2026-03-12T16:18:17Z"}
+{"id":"13056631744","timestamp":"2025-12-12T17:37:03.358189312Z","domain":"onprem.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-12T16:18:18Z","to":"2026-03-12T16:18:17Z"}
