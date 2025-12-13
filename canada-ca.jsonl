@@ -14281,3 +14281,5 @@
 {"id":"13058849577","timestamp":"2025-12-12T22:16:16.758857468Z","domain":"myaw-monlta-qa.apim-dev.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-12-12T00:00:00Z","to":"2027-01-12T23:59:59Z"}
 {"id":"13058849577","timestamp":"2025-12-12T22:16:16.758857659Z","domain":"myaw-monlta-uat.apim.tbs-sct.canada.ca","issuer":"Sectigo","from":"2025-12-12T00:00:00Z","to":"2027-01-12T23:59:59Z"}
 {"id":"13060734149","timestamp":"2025-12-13T02:44:35.608927051Z","domain":"vocab.canada.ca","issuer":"Let's Encrypt","from":"2025-12-13T01:08:36Z","to":"2026-03-13T01:08:35Z"}
+{"id":"13064468689","timestamp":"2025-12-13T10:15:53.125744473Z","domain":"resource-catalogue.ws-hfawzy.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-13T09:10:09Z","to":"2026-03-13T09:10:08Z"}
+{"id":"13064477426","timestamp":"2025-12-13T10:15:53.125744873Z","domain":"mlflow.ws-hfawzy.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-13T09:10:10Z","to":"2026-03-13T09:10:09Z"}
