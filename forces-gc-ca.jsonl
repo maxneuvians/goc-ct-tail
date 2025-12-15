@@ -2120,3 +2120,5 @@
 {"id":"13091486695","timestamp":"2025-12-15T19:16:12.969811696Z","domain":"co.cargo-ops-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-12-15T00:00:00Z","to":"2027-01-13T23:59:59Z"}
 {"id":"13091511325","timestamp":"2025-12-15T19:16:12.969811957Z","domain":"co.cargo-ops-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-12-15T00:00:00Z","to":"2027-01-13T23:59:59Z"}
 {"id":"13091511335","timestamp":"2025-12-15T19:16:12.969812248Z","domain":"co.cargo-ops-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-12-15T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"13093287732","timestamp":"2025-12-15T23:16:03.026766945Z","domain":"*.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-12-15T21:19:21Z","to":"2026-03-15T21:19:20Z"}
+{"id":"13093287732","timestamp":"2025-12-15T23:16:03.026767286Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-12-15T21:19:21Z","to":"2026-03-15T21:19:20Z"}
