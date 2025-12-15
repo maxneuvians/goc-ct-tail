@@ -824,3 +824,7 @@
 {"id":"13058849577","timestamp":"2025-12-12T22:37:21.900115905Z","domain":"myaw-monlta-uat.apim.tbs-sct.canada.ca","issuer":"Sectigo","from":"2025-12-12T00:00:00Z","to":"2027-01-12T23:59:59Z"}
 {"id":"13058851156","timestamp":"2025-12-12T22:37:21.900116015Z","domain":"myaw-monlta.uat.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-12-12T00:00:00Z","to":"2027-01-12T23:59:59Z"}
 {"id":"13090189777","timestamp":"2025-12-15T16:44:10.307569978Z","domain":"myaw-monlta.qa.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-12-15T00:00:00Z","to":"2027-01-15T23:59:59Z"}
+{"id":"13091765479","timestamp":"2025-12-15T19:35:10.307782582Z","domain":"v3-pbi-rcp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-15T18:13:53Z","to":"2026-03-15T18:13:52Z"}
+{"id":"13091775251","timestamp":"2025-12-15T19:35:10.307782932Z","domain":"v3-wfa-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-15T18:14:30Z","to":"2026-03-15T18:14:29Z"}
+{"id":"13091915997","timestamp":"2025-12-15T19:35:10.307783193Z","domain":"v3-pbi-rcp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-15T18:30:23Z","to":"2026-03-15T18:30:22Z"}
+{"id":"13091928915","timestamp":"2025-12-15T19:35:10.307783413Z","domain":"v3-wfa-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-15T18:30:56Z","to":"2026-03-15T18:30:55Z"}
