@@ -14324,3 +14324,7 @@
 {"id":"13097717418","timestamp":"2025-12-16T08:17:12.012663222Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T06:25:56Z","to":"2026-03-16T06:25:55Z"}
 {"id":"13098085716","timestamp":"2025-12-16T08:17:12.012663342Z","domain":"api.vmo.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-12-16T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13100503198","timestamp":"2025-12-16T13:24:29.392837314Z","domain":"*.dt.gateway-passerelle-2.hc-sc.canada.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13101226135","timestamp":"2025-12-16T14:16:40.484024405Z","domain":"flood-risk-finder.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T12:47:23Z","to":"2026-03-16T12:47:22Z"}
+{"id":"13101226135","timestamp":"2025-12-16T14:16:40.484024846Z","domain":"outil-risques-inondation.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T12:47:23Z","to":"2026-03-16T12:47:22Z"}
+{"id":"13101270744","timestamp":"2025-12-16T14:16:40.484025577Z","domain":"canchat.mvp.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T12:52:12Z","to":"2026-03-16T12:52:11Z"}
+{"id":"13101271238","timestamp":"2025-12-16T14:16:40.484025908Z","domain":"user-proxy.canchat.mvp.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T12:52:13Z","to":"2026-03-16T12:52:12Z"}
