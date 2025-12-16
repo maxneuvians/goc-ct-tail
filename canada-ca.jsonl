@@ -14318,3 +14318,8 @@
 {"id":"13091068843","timestamp":"2025-12-15T18:17:18.151561867Z","domain":"preprod.neics-nscei.canada.ca","issuer":"Sectigo","from":"2025-12-15T00:00:00Z","to":"2027-01-15T23:59:59Z"}
 {"id":"13091760555","timestamp":"2025-12-15T19:16:13.371431991Z","domain":"tapx-rolemanager-uat.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2025-12-15T18:13:27Z","to":"2026-03-15T18:13:26Z"}
 {"id":"13091929553","timestamp":"2025-12-15T20:16:30.955831628Z","domain":"tapx-rolemanager-uat.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2025-12-15T18:29:57Z","to":"2026-03-15T18:29:56Z"}
+{"id":"13097699588","timestamp":"2025-12-16T08:17:12.01266213Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T06:24:45Z","to":"2026-03-16T06:24:44Z"}
+{"id":"13097699588","timestamp":"2025-12-16T08:17:12.012662581Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T06:24:45Z","to":"2026-03-16T06:24:44Z"}
+{"id":"13097717418","timestamp":"2025-12-16T08:17:12.012662941Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T06:25:56Z","to":"2026-03-16T06:25:55Z"}
+{"id":"13097717418","timestamp":"2025-12-16T08:17:12.012663222Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T06:25:56Z","to":"2026-03-16T06:25:55Z"}
+{"id":"13098085716","timestamp":"2025-12-16T08:17:12.012663342Z","domain":"api.vmo.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-12-16T00:00:00Z","to":"2026-04-14T23:59:59Z"}
