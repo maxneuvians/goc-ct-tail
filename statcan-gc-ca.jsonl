@@ -918,3 +918,23 @@
 {"id":"13066474999","timestamp":"2025-12-13T14:35:57.199427669Z","domain":"census-cws.alpha.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-12-13T13:15:15Z","to":"2026-03-13T13:15:14Z"}
 {"id":"13066474999","timestamp":"2025-12-13T14:35:57.199428041Z","domain":"census-cws-fr.alpha.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-12-13T13:15:15Z","to":"2026-03-13T13:15:14Z"}
 {"id":"13066474999","timestamp":"2025-12-13T14:35:57.199428322Z","domain":"census-cws.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-12-13T13:15:15Z","to":"2026-03-13T13:15:14Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.153808853Z","domain":"census.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.153809283Z","domain":"census-new-prod.statcan.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.153809684Z","domain":"census-prod.statcan.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.153809955Z","domain":"recensement.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.153810055Z","domain":"recensement-new-prod.statcan.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.153811167Z","domain":"recensement-prod.statcan.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.153811277Z","domain":"www12-2021.statcan.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.153811357Z","domain":"www12.statcan.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.153811438Z","domain":"www.2006census.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.15381264Z","domain":"www.2006recensement.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.15381273Z","domain":"www.census2006.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.15381281Z","domain":"www.census2006-recensement2006.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.15381289Z","domain":"www.census2011.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.15381297Z","domain":"www.census.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.15381305Z","domain":"www.enm-nhs.statcan.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.15381313Z","domain":"www.enm.statcan.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.153813221Z","domain":"www.nhs-enm.statcan.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.153813301Z","domain":"www.nhs.statcan.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.153814713Z","domain":"www.recensement2011.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13100895629","timestamp":"2025-12-16T13:44:18.153814804Z","domain":"www.recensement.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
