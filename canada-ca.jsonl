@@ -14329,3 +14329,7 @@
 {"id":"13101270744","timestamp":"2025-12-16T14:16:40.484025577Z","domain":"canchat.mvp.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T12:52:12Z","to":"2026-03-16T12:52:11Z"}
 {"id":"13101271238","timestamp":"2025-12-16T14:16:40.484025908Z","domain":"user-proxy.canchat.mvp.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T12:52:13Z","to":"2026-03-16T12:52:12Z"}
 {"id":"13101521739","timestamp":"2025-12-16T15:16:48.296970825Z","domain":"vault.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T13:20:40Z","to":"2026-03-16T13:20:39Z"}
+{"id":"13102066495","timestamp":"2025-12-16T16:17:04.765086629Z","domain":"litellm.uat.ibm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T14:13:10Z","to":"2026-03-16T14:13:09Z"}
+{"id":"13102203147","timestamp":"2025-12-16T16:17:04.765087Z","domain":"flood-risk-finder.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T14:27:37Z","to":"2026-03-16T14:27:36Z"}
+{"id":"13102203147","timestamp":"2025-12-16T16:17:04.765087221Z","domain":"outil-risques-inondation.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T14:27:37Z","to":"2026-03-16T14:27:36Z"}
+{"id":"13102536170","timestamp":"2025-12-16T16:17:04.765087421Z","domain":"www.nexcol-nceel.canada.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
