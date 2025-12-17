@@ -938,3 +938,7 @@
 {"id":"13100895629","timestamp":"2025-12-16T13:44:18.153813301Z","domain":"www.nhs.statcan.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
 {"id":"13100895629","timestamp":"2025-12-16T13:44:18.153814713Z","domain":"www.recensement2011.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
 {"id":"13100895629","timestamp":"2025-12-16T13:44:18.153814804Z","domain":"www.recensement.gc.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13106996671","timestamp":"2025-12-17T00:49:25.500363641Z","domain":"www146.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-12-16T23:09:22Z","to":"2026-03-16T23:09:21Z"}
+{"id":"13106999027","timestamp":"2025-12-17T00:49:25.500364162Z","domain":"www147.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-12-16T23:09:23Z","to":"2026-03-16T23:09:22Z"}
+{"id":"13107009777","timestamp":"2025-12-17T00:49:25.500364452Z","domain":"www145.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-12-16T23:09:23Z","to":"2026-03-16T23:09:22Z"}
+{"id":"13107024526","timestamp":"2025-12-17T00:49:25.500364713Z","domain":"www148.statcan.gc.ca","issuer":"Let's Encrypt","from":"2025-12-16T23:09:23Z","to":"2026-03-16T23:09:22Z"}
