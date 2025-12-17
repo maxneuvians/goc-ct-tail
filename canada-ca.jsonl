@@ -14341,3 +14341,5 @@
 {"id":"13103879091","timestamp":"2025-12-16T19:16:04.776724786Z","domain":"a11y.ictdcs-scdtic-int.service.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-12-16T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13105488188","timestamp":"2025-12-16T22:16:03.37572809Z","domain":"tbsre-resct.tbs-sct.canada.ca","issuer":"Sectigo","from":"2025-12-16T00:00:00Z","to":"2027-01-16T23:59:59Z"}
 {"id":"13107125412","timestamp":"2025-12-17T00:37:48.617052098Z","domain":"nachet-dev-op.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-16T23:22:29Z","to":"2026-03-16T23:22:28Z"}
+{"id":"13109905068","timestamp":"2025-12-17T06:17:14.753472294Z","domain":"*.uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-17T04:33:30Z","to":"2026-03-17T04:33:29Z"}
+{"id":"13109905068","timestamp":"2025-12-17T06:17:14.753472594Z","domain":"uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-17T04:33:30Z","to":"2026-03-17T04:33:29Z"}
