@@ -14365,3 +14365,6 @@
 {"id":"13127922746","timestamp":"2025-12-18T16:17:00.876966957Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-18T15:03:21Z","to":"2026-03-18T15:03:20Z"}
 {"id":"13129183578","timestamp":"2025-12-18T19:15:45.883075097Z","domain":"defence-innovation-portal.canada.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
 {"id":"13129183578","timestamp":"2025-12-18T19:15:45.883075408Z","domain":"portail-innovation-defense.canada.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13130036198","timestamp":"2025-12-18T21:15:38.229630652Z","domain":"flood-risk-finder.canada.ca","issuer":"Let's Encrypt","from":"2025-12-18T19:23:44Z","to":"2026-03-18T19:23:43Z"}
+{"id":"13130036198","timestamp":"2025-12-18T21:15:38.229631148Z","domain":"flood-risk-portal-release.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-12-18T19:23:44Z","to":"2026-03-18T19:23:43Z"}
+{"id":"13130036198","timestamp":"2025-12-18T21:15:38.229631393Z","domain":"outil-risques-inondation.canada.ca","issuer":"Let's Encrypt","from":"2025-12-18T19:23:44Z","to":"2026-03-18T19:23:43Z"}
