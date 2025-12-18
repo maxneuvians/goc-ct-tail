@@ -830,3 +830,7 @@
 {"id":"13091928915","timestamp":"2025-12-15T19:35:10.307783413Z","domain":"v3-wfa-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-15T18:30:56Z","to":"2026-03-15T18:30:55Z"}
 {"id":"13092555073","timestamp":"2025-12-15T21:36:10.036038851Z","domain":"v3-wfa-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-15T19:43:02Z","to":"2026-03-15T19:43:01Z"}
 {"id":"13092753262","timestamp":"2025-12-15T21:36:10.036039266Z","domain":"www2-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-15T20:04:58Z","to":"2026-03-15T20:04:57Z"}
+{"id":"13126485465","timestamp":"2025-12-18T13:43:53.107962449Z","domain":"prod-solr.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13126485465","timestamp":"2025-12-18T13:43:53.10796301Z","domain":"solr-prdapp01.t1.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13126485465","timestamp":"2025-12-18T13:43:53.10796328Z","domain":"solr-prdapp01.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13126485465","timestamp":"2025-12-18T13:43:53.10796356Z","domain":"www.prod-solr.tbs-sct.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
