@@ -14354,3 +14354,7 @@
 {"id":"13115875130","timestamp":"2025-12-17T17:16:50.52575016Z","domain":"billing.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-17T15:53:46Z","to":"2026-03-17T15:53:45Z"}
 {"id":"13116585015","timestamp":"2025-12-17T19:16:16.813265531Z","domain":"hpc.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-17T17:16:09Z","to":"2026-03-17T17:16:08Z"}
 {"id":"13122159866","timestamp":"2025-12-18T05:16:26.992992582Z","domain":"dol-uat.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2025-12-18T03:48:34Z","to":"2026-03-18T03:48:33Z"}
+{"id":"13123633935","timestamp":"2025-12-18T08:17:04.691305028Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-18T06:25:54Z","to":"2026-03-18T06:25:53Z"}
+{"id":"13123633935","timestamp":"2025-12-18T08:17:04.691305719Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-18T06:25:54Z","to":"2026-03-18T06:25:53Z"}
+{"id":"13123636099","timestamp":"2025-12-18T08:17:04.69130623Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-18T06:24:48Z","to":"2026-03-18T06:24:47Z"}
+{"id":"13123636099","timestamp":"2025-12-18T08:17:04.691306681Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-18T06:24:48Z","to":"2026-03-18T06:24:47Z"}
