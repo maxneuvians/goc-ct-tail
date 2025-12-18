@@ -417,3 +417,20 @@
 {"id":"12695400862","timestamp":"2025-11-13T00:49:02.143836294Z","domain":"agrigeo-uat.agr.gc.ca","issuer":"Amazon Trust Services","from":"2025-11-13T00:00:00Z","to":"2026-12-12T23:59:59Z"}
 {"id":"12768350229","timestamp":"2025-11-18T06:42:30.379421431Z","domain":"catalogue-campus.agr.gc.ca","issuer":"Let's Encrypt","from":"2025-11-18T04:52:02Z","to":"2026-02-16T04:52:01Z"}
 {"id":"13058962796","timestamp":"2025-12-12T22:37:21.786804205Z","domain":"cms-dev.agr.gc.ca","issuer":"Sectigo","from":"2025-12-12T00:00:00Z","to":"2027-01-12T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.866029719Z","domain":"agr-dev-admin.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.86603004Z","domain":"agr-dev.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.86603019Z","domain":"agr-qa-admin.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.86603032Z","domain":"agr-qa.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.8660304Z","domain":"agr-uat-admin.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.866031292Z","domain":"agr-uat.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.866031362Z","domain":"agr-wcag-admin.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.866031422Z","domain":"agr-wcag.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.866031493Z","domain":"cms-dev-1.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.866032274Z","domain":"cms-dev-2.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.866032334Z","domain":"cms-dev.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.866032404Z","domain":"cms-int.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.866032464Z","domain":"cms-qa.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.866032534Z","domain":"cms-sys.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.866032604Z","domain":"cms-test-1.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.866032665Z","domain":"cms-test-2.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13127794624","timestamp":"2025-12-18T16:43:26.866032735Z","domain":"cms-test.agr.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
