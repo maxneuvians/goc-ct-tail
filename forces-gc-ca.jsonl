@@ -2128,3 +2128,6 @@
 {"id":"13093723091","timestamp":"2025-12-16T00:40:04.278610932Z","domain":"sandbox.betak.tools.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-12-15T00:00:00Z","to":"2027-01-13T23:59:59Z"}
 {"id":"13119533438","timestamp":"2025-12-18T00:36:09.454784171Z","domain":"*.link16-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-12-18T00:00:00Z","to":"2027-01-16T23:59:59Z"}
 {"id":"13119551445","timestamp":"2025-12-18T00:36:09.454784502Z","domain":"link16-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-12-18T00:00:00Z","to":"2027-01-16T23:59:59Z"}
+{"id":"13140015241","timestamp":"2025-12-19T17:16:06.978515732Z","domain":"betak.development.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-12-19T00:00:00Z","to":"2027-01-17T23:59:59Z"}
+{"id":"13140015241","timestamp":"2025-12-19T17:16:06.978516062Z","domain":"betak.sandbox.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-12-19T00:00:00Z","to":"2027-01-17T23:59:59Z"}
+{"id":"13140015241","timestamp":"2025-12-19T17:16:06.978516283Z","domain":"betak.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-12-19T00:00:00Z","to":"2027-01-17T23:59:59Z"}
