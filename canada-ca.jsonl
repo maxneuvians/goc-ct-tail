@@ -14369,3 +14369,13 @@
 {"id":"13130036198","timestamp":"2025-12-18T21:15:38.229631148Z","domain":"flood-risk-portal-release.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2025-12-18T19:23:44Z","to":"2026-03-18T19:23:43Z"}
 {"id":"13130036198","timestamp":"2025-12-18T21:15:38.229631393Z","domain":"outil-risques-inondation.canada.ca","issuer":"Let's Encrypt","from":"2025-12-18T19:23:44Z","to":"2026-03-18T19:23:43Z"}
 {"id":"13136931736","timestamp":"2025-12-19T11:15:45.563854075Z","domain":"micro-acquisition.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-19T09:41:07Z","to":"2026-03-19T09:41:06Z"}
+{"id":"13139695394","timestamp":"2025-12-19T16:16:52.11743308Z","domain":"resource-catalogue.ws-asimoneau.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-19T15:00:11Z","to":"2026-03-19T15:00:10Z"}
+{"id":"13139711658","timestamp":"2025-12-19T16:16:52.117433511Z","domain":"mlflow.ws-asimoneau.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-19T14:59:56Z","to":"2026-03-19T14:59:55Z"}
+{"id":"13139726991","timestamp":"2025-12-19T16:16:52.117434153Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-19T15:02:55Z","to":"2026-03-19T15:02:54Z"}
+{"id":"13139728384","timestamp":"2025-12-19T16:16:52.117434393Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-19T15:03:13Z","to":"2026-03-19T15:03:12Z"}
+{"id":"13139728737","timestamp":"2025-12-19T16:16:52.117434483Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-19T15:02:38Z","to":"2026-03-19T15:02:37Z"}
+{"id":"13139729310","timestamp":"2025-12-19T16:16:52.117435916Z","domain":"aws-rnd-test.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-19T15:02:18Z","to":"2026-03-19T15:02:17Z"}
+{"id":"13139768740","timestamp":"2025-12-19T16:16:52.117436006Z","domain":"resource-catalogue.ws-stolszczuk.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-19T15:06:48Z","to":"2026-03-19T15:06:47Z"}
+{"id":"13139769906","timestamp":"2025-12-19T16:16:52.117436086Z","domain":"mlflow.ws-stolszczuk.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-19T15:06:47Z","to":"2026-03-19T15:06:46Z"}
+{"id":"13139791195","timestamp":"2025-12-19T16:16:52.117436166Z","domain":"resource-catalogue.ws-blehrbass.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-19T15:11:25Z","to":"2026-03-19T15:11:24Z"}
+{"id":"13139793162","timestamp":"2025-12-19T16:16:52.117437018Z","domain":"mlflow.ws-blehrbass.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-19T15:11:25Z","to":"2026-03-19T15:11:24Z"}
