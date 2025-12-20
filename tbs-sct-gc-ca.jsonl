@@ -839,3 +839,7 @@
 {"id":"13129341581","timestamp":"2025-12-18T19:33:21.91555028Z","domain":"aihorizon-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-18T17:54:18Z","to":"2026-03-18T17:54:17Z"}
 {"id":"13129564379","timestamp":"2025-12-18T19:33:21.915550571Z","domain":"aihorizon-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-18T18:21:38Z","to":"2026-03-18T18:21:37Z"}
 {"id":"13129578678","timestamp":"2025-12-18T19:33:21.915550841Z","domain":"aihorizon-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-18T18:25:47Z","to":"2026-03-18T18:25:46Z"}
+{"id":"13147754578","timestamp":"2025-12-20T08:39:03.367206949Z","domain":"burolis-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-20T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13147916665","timestamp":"2025-12-20T08:39:03.36720733Z","domain":"burolis-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-20T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13147975865","timestamp":"2025-12-20T08:39:03.3672076Z","domain":"burolis-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-20T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13148049219","timestamp":"2025-12-20T08:39:03.367207801Z","domain":"burolis-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-20T00:00:00Z","to":"2026-04-14T23:59:59Z"}
