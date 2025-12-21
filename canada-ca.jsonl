@@ -14392,3 +14392,5 @@
 {"id":"13153037414","timestamp":"2025-12-20T18:16:43.591224058Z","domain":"auth.dev.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-12-20T00:00:00Z","to":"2026-06-20T23:59:59Z"}
 {"id":"13154403936","timestamp":"2025-12-20T20:15:59.676510247Z","domain":"auth.acc.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-12-20T00:00:00Z","to":"2026-06-20T23:59:59Z"}
 {"id":"13155236469","timestamp":"2025-12-20T22:15:37.613359949Z","domain":"auth.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-12-20T00:00:00Z","to":"2026-06-20T23:59:59Z"}
+{"id":"13156599663","timestamp":"2025-12-21T00:42:52.057211393Z","domain":"cnas-nscc.tpsgc-pwgsc.aws.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-21T00:00:00Z","to":"2027-01-19T23:59:59Z"}
+{"id":"13156616716","timestamp":"2025-12-21T00:42:52.057211964Z","domain":"clientsontario.tpsgc-pwgsc.aws.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-21T00:00:00Z","to":"2027-01-19T23:59:59Z"}
