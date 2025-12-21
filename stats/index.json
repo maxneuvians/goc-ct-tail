@@ -38,13 +38,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 14382,
+      "totalCertificates": 14396,
       "totalsByIssuer": {
         "Entrust": 2525,
-        "Amazon Trust Services": 1091,
-        "DigiCert": 672,
+        "Amazon Trust Services": 1093,
+        "DigiCert": 678,
         "GoDaddy": 13,
-        "Let's Encrypt": 7381,
+        "Let's Encrypt": 7387,
         "Google Trust Services": 309,
         "Sectigo": 733,
         "SSL.com": 1658
@@ -258,10 +258,10 @@
     {
       "inputFile": "gg-ca.jsonl",
       "outputFile": "stats/gg-ca-stats.json",
-      "totalCertificates": 56,
+      "totalCertificates": 58,
       "totalsByIssuer": {
         "GoDaddy": 8,
-        "Let's Encrypt": 48
+        "Let's Encrypt": 50
       },
       "errorCount": 0
     },
@@ -396,12 +396,12 @@
     {
       "inputFile": "mint-ca.jsonl",
       "outputFile": "stats/mint-ca-stats.json",
-      "totalCertificates": 450,
+      "totalCertificates": 456,
       "totalsByIssuer": {
         "Entrust": 137,
         "DigiCert": 16,
         "Let's Encrypt": 40,
-        "Google Trust Services": 196,
+        "Google Trust Services": 202,
         "Sectigo": 46,
         "Entrust Limited": 15
       },
@@ -636,10 +636,10 @@
     {
       "inputFile": "tbs-sct-gc-ca.jsonl",
       "outputFile": "stats/tbs-sct-gc-ca-stats.json",
-      "totalCertificates": 841,
+      "totalCertificates": 847,
       "totalsByIssuer": {
         "Entrust": 166,
-        "DigiCert": 425,
+        "DigiCert": 431,
         "SSL.com": 79,
         "Sectigo": 68,
         "Let's Encrypt": 103
@@ -709,13 +709,13 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 3781,
-    "Let's Encrypt": 20751,
+    "Amazon Trust Services": 3783,
+    "Let's Encrypt": 20759,
     "SSL.com": 6250,
     "Sectigo": 13452,
-    "DigiCert": 2195,
+    "DigiCert": 2207,
     "GoDaddy": 81,
-    "Google Trust Services": 614,
+    "Google Trust Services": 620,
     "Entrust Limited": 20,
     "GlobalSign": 2
   }

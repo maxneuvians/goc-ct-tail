@@ -3293,7 +3293,11 @@
       "Let's Encrypt": 11
     },
     "2025-12-20": {
-      "DigiCert": 1
+      "DigiCert": 7,
+      "Let's Encrypt": 6
+    },
+    "2025-12-21": {
+      "Amazon Trust Services": 2
     }
   },
   "errors": []
