@@ -14401,3 +14401,11 @@
 {"id":"13165597421","timestamp":"2025-12-21T16:16:28.547536278Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-21T15:03:07Z","to":"2026-03-21T15:03:06Z"}
 {"id":"13165597633","timestamp":"2025-12-21T16:16:28.547536528Z","domain":"aws-rnd-test.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-21T15:02:13Z","to":"2026-03-21T15:02:12Z"}
 {"id":"13165964228","timestamp":"2025-12-21T17:15:26.688897546Z","domain":"gamc-cate-test.canada.ca","issuer":"DigiCert","from":"2025-12-21T00:00:00Z","to":"2026-06-21T23:59:59Z"}
+{"id":"13166430119","timestamp":"2025-12-21T18:16:49.52878719Z","domain":"resource-catalogue.ws-arctic.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-21T16:32:36Z","to":"2026-03-21T16:32:35Z"}
+{"id":"13166434998","timestamp":"2025-12-21T18:16:49.528787821Z","domain":"mlflow.ws-arctic.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-21T16:32:36Z","to":"2026-03-21T16:32:35Z"}
+{"id":"13166669204","timestamp":"2025-12-21T18:16:49.528788162Z","domain":"login-rd.indigenous-services.canada.ca","issuer":"DigiCert","from":"2025-12-21T00:00:00Z","to":"2026-06-21T23:59:59Z"}
+{"id":"13166669594","timestamp":"2025-12-21T18:16:49.528788473Z","domain":"login-dev.indigenous-services.canada.ca","issuer":"DigiCert","from":"2025-12-21T00:00:00Z","to":"2026-06-21T23:59:59Z"}
+{"id":"13166680158","timestamp":"2025-12-21T18:16:49.528788573Z","domain":"login-dev.services-autochtones.canada.ca","issuer":"DigiCert","from":"2025-12-21T00:00:00Z","to":"2026-06-21T23:59:59Z"}
+{"id":"13166680520","timestamp":"2025-12-21T18:16:49.528789695Z","domain":"login-rd.services-autochtones.canada.ca","issuer":"DigiCert","from":"2025-12-21T00:00:00Z","to":"2026-06-21T23:59:59Z"}
+{"id":"13166684188","timestamp":"2025-12-21T18:16:49.528789805Z","domain":"gamc.canada.ca","issuer":"DigiCert","from":"2025-12-21T00:00:00Z","to":"2026-06-21T23:59:59Z"}
+{"id":"13166695280","timestamp":"2025-12-21T18:16:49.528789915Z","domain":"gamc.canada.ca","issuer":"DigiCert","from":"2025-12-21T00:00:00Z","to":"2026-06-21T23:59:59Z"}
