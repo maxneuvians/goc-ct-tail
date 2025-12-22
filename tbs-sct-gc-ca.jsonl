@@ -846,3 +846,4 @@
 {"id":"13151491741","timestamp":"2025-12-20T15:35:08.664090834Z","domain":"tih.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-20T00:00:00Z","to":"2026-06-20T23:59:59Z"}
 {"id":"13156566056","timestamp":"2025-12-21T00:49:22.755063758Z","domain":"tih.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-21T00:00:00Z","to":"2026-06-21T23:59:59Z"}
 {"id":"13171769331","timestamp":"2025-12-22T04:45:38.314003532Z","domain":"rpss-appmgmt-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-22T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13177612818","timestamp":"2025-12-22T15:37:26.369006528Z","domain":"v3-pbi-rcp-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-22T13:54:57Z","to":"2026-03-22T13:54:56Z"}
