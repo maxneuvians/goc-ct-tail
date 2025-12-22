@@ -850,3 +850,12 @@
 {"id":"13179015950","timestamp":"2025-12-22T17:36:42.466935047Z","domain":"v3-pbi-rcp-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-22T16:24:02Z","to":"2026-03-22T16:24:01Z"}
 {"id":"13179043290","timestamp":"2025-12-22T17:36:42.466935448Z","domain":"v3-aihorizon-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-22T16:28:48Z","to":"2026-03-22T16:28:47Z"}
 {"id":"13179072900","timestamp":"2025-12-22T17:36:42.466935648Z","domain":"v3-wfa-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-22T16:28:18Z","to":"2026-03-22T16:28:17Z"}
+{"id":"13179142767","timestamp":"2025-12-22T18:43:34.219750033Z","domain":"v3-wfa-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-22T16:41:03Z","to":"2026-03-22T16:41:02Z"}
+{"id":"13179166640","timestamp":"2025-12-22T18:43:34.219750413Z","domain":"v3-pbi-rcp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-22T16:40:26Z","to":"2026-03-22T16:40:25Z"}
+{"id":"13179194531","timestamp":"2025-12-22T18:43:34.219750664Z","domain":"v3-pbi-rcp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-22T16:45:39Z","to":"2026-03-22T16:45:38Z"}
+{"id":"13179207025","timestamp":"2025-12-22T18:43:34.219750884Z","domain":"v3-wfa-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-22T16:46:16Z","to":"2026-03-22T16:46:15Z"}
+{"id":"13179224990","timestamp":"2025-12-22T18:43:34.219750984Z","domain":"v3-pbi-rcp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-22T16:49:09Z","to":"2026-03-22T16:49:08Z"}
+{"id":"13179244047","timestamp":"2025-12-22T18:43:34.219751435Z","domain":"v3-wfa-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-22T16:50:14Z","to":"2026-03-22T16:50:13Z"}
+{"id":"13179260480","timestamp":"2025-12-22T18:43:34.219751535Z","domain":"v3-pbi-rcp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-22T16:52:09Z","to":"2026-03-22T16:52:08Z"}
+{"id":"13179366398","timestamp":"2025-12-22T18:43:34.219751636Z","domain":"v3-pbi-rcp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-22T17:06:39Z","to":"2026-03-22T17:06:38Z"}
+{"id":"13179391750","timestamp":"2025-12-22T18:43:34.219751726Z","domain":"v3-wfa-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-22T17:07:43Z","to":"2026-03-22T17:07:42Z"}
