@@ -14452,3 +14452,8 @@
 {"id":"13177226442","timestamp":"2025-12-22T14:16:09.982572032Z","domain":"www.santecanada.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
 {"id":"13177226442","timestamp":"2025-12-22T14:16:09.982572122Z","domain":"www.sante.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
 {"id":"13177226442","timestamp":"2025-12-22T14:16:09.982572202Z","domain":"www.sc-hc.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13178204917","timestamp":"2025-12-22T16:16:44.594081823Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-22T15:02:55Z","to":"2026-03-22T15:02:54Z"}
+{"id":"13178209484","timestamp":"2025-12-22T16:16:44.594082722Z","domain":"aws-rnd-test.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-22T15:02:31Z","to":"2026-03-22T15:02:30Z"}
+{"id":"13178229895","timestamp":"2025-12-22T16:16:44.594083038Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-22T15:03:30Z","to":"2026-03-22T15:03:29Z"}
+{"id":"13178232108","timestamp":"2025-12-22T16:16:44.594083236Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-22T15:03:14Z","to":"2026-03-22T15:03:13Z"}
+{"id":"13178287919","timestamp":"2025-12-22T16:16:44.594083335Z","domain":"surfsense.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-22T15:10:18Z","to":"2026-03-22T15:10:17Z"}
