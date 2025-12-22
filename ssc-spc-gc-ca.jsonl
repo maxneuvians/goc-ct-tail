@@ -969,3 +969,18 @@
 {"id":"12967867283","timestamp":"2025-12-04T16:17:04.614098781Z","domain":"www.registry-registre.gc.ca","issuer":"Let's Encrypt","from":"2025-12-04T14:20:28Z","to":"2026-03-04T14:20:27Z"}
 {"id":"12981330407","timestamp":"2025-12-05T20:16:19.676723616Z","domain":"dc63vpn0001.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-12-05T00:00:00Z","to":"2026-12-15T23:59:59Z"}
 {"id":"13127025362","timestamp":"2025-12-18T15:16:25.931520246Z","domain":"dc01fwl5160.smnet.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-12-18T00:00:00Z","to":"2027-01-18T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.63973591Z","domain":"mgin1.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.639736371Z","domain":"mgin2.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.639736671Z","domain":"mgin.ssctest.itsso.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.639736992Z","domain":"mgrt1.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.639737102Z","domain":"mgrt2.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.639737934Z","domain":"mgrt.ssctest.itsso.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.639738034Z","domain":"ssc-esa-01.itsso.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.639738124Z","domain":"ssc-esa-01-mgt.itsso.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.639738214Z","domain":"ssc-esa-02.itsso.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.639739096Z","domain":"ssc-esa-02-mgt.itsso.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.639739186Z","domain":"ssc-esa-dev.itsso.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.639739276Z","domain":"ssc-esa-dev-mgt.itsso.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.639739377Z","domain":"ssc-sma-01.itsso.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.639739477Z","domain":"ssc-sma-01-mgt.itsso.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
+{"id":"13180955798","timestamp":"2025-12-22T21:15:43.639739567Z","domain":"www.mgin1.ssc-spc.gc.ca","issuer":"Sectigo","from":"2025-12-22T00:00:00Z","to":"2027-01-22T23:59:59Z"}
