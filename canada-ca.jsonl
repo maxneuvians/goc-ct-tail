@@ -14413,3 +14413,5 @@
 {"id":"13170273432","timestamp":"2025-12-22T01:45:20.598482627Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-12-22T00:01:52Z","to":"2026-03-22T00:01:51Z"}
 {"id":"13170273432","timestamp":"2025-12-22T01:45:20.598483088Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2025-12-22T00:01:52Z","to":"2026-03-22T00:01:51Z"}
 {"id":"13170386986","timestamp":"2025-12-22T01:45:20.598483399Z","domain":"auth-cate-cer.canada.ca","issuer":"DigiCert","from":"2025-12-22T00:00:00Z","to":"2026-06-22T23:59:59Z"}
+{"id":"13173341553","timestamp":"2025-12-22T08:17:11.748070757Z","domain":"examens-aviation-exams.tc.canada.ca","issuer":"DigiCert","from":"2025-12-22T00:00:00Z","to":"2026-06-22T23:59:59Z"}
+{"id":"13173591724","timestamp":"2025-12-22T08:17:11.748071368Z","domain":"pch-financement-funding.canada.ca","issuer":"DigiCert","from":"2025-12-22T00:00:00Z","to":"2026-06-22T23:59:59Z"}
