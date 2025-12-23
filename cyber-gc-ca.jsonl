@@ -797,3 +797,8 @@
 {"id":"13099215684","timestamp":"2025-12-16T10:41:13.040557606Z","domain":"pages.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-16T09:03:50Z","to":"2026-03-16T09:03:49Z"}
 {"id":"13129726556","timestamp":"2025-12-18T20:36:05.708390634Z","domain":"*.floonet.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-18T18:44:27Z","to":"2026-03-18T18:44:26Z"}
 {"id":"13129779693","timestamp":"2025-12-18T20:36:05.708391105Z","domain":"*.floonet.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-18T18:52:43Z","to":"2026-03-18T18:52:42Z"}
+{"id":"13187217733","timestamp":"2025-12-23T10:39:57.783939547Z","domain":"alfred-ci.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-23T09:02:09Z","to":"2026-03-23T09:02:08Z"}
+{"id":"13187217733","timestamp":"2025-12-23T10:39:57.783939897Z","domain":"alfred-dev.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-23T09:02:09Z","to":"2026-03-23T09:02:08Z"}
+{"id":"13187217733","timestamp":"2025-12-23T10:39:57.783940098Z","domain":"alfred-sonar.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-23T09:02:09Z","to":"2026-03-23T09:02:08Z"}
+{"id":"13187217733","timestamp":"2025-12-23T10:39:57.783940338Z","domain":"alfred-stg.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-23T09:02:09Z","to":"2026-03-23T09:02:08Z"}
+{"id":"13187217733","timestamp":"2025-12-23T10:39:57.783940429Z","domain":"alfred-tst.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2025-12-23T09:02:09Z","to":"2026-03-23T09:02:08Z"}
