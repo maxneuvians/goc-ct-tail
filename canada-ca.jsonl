@@ -14469,3 +14469,7 @@
 {"id":"13189108756","timestamp":"2025-12-23T14:16:04.644147159Z","domain":"test.pch-financement-funding.canada.ca","issuer":"Sectigo","from":"2025-12-23T00:00:00Z","to":"2027-01-23T23:59:59Z"}
 {"id":"13189108756","timestamp":"2025-12-23T14:16:04.64414762Z","domain":"test-pch-financement-funding.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2025-12-23T00:00:00Z","to":"2027-01-23T23:59:59Z"}
 {"id":"13189359073","timestamp":"2025-12-23T15:16:19.181580444Z","domain":"bcd-api-dca-ipa.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-23T00:00:00Z","to":"2027-01-21T23:59:59Z"}
+{"id":"13190163775","timestamp":"2025-12-23T16:16:47.629515861Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-23T15:02:44Z","to":"2026-03-23T15:02:43Z"}
+{"id":"13190164891","timestamp":"2025-12-23T16:16:47.629516422Z","domain":"aws-rnd-test.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-23T15:02:05Z","to":"2026-03-23T15:02:04Z"}
+{"id":"13190166021","timestamp":"2025-12-23T16:16:47.629516712Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-23T15:03:02Z","to":"2026-03-23T15:03:01Z"}
+{"id":"13190177593","timestamp":"2025-12-23T16:16:47.629516963Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-23T15:02:26Z","to":"2026-03-23T15:02:25Z"}
