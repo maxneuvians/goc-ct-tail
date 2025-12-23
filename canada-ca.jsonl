@@ -14468,3 +14468,4 @@
 {"id":"13186000587","timestamp":"2025-12-23T08:17:05.176508849Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2025-12-23T06:25:51Z","to":"2026-03-23T06:25:50Z"}
 {"id":"13189108756","timestamp":"2025-12-23T14:16:04.644147159Z","domain":"test.pch-financement-funding.canada.ca","issuer":"Sectigo","from":"2025-12-23T00:00:00Z","to":"2027-01-23T23:59:59Z"}
 {"id":"13189108756","timestamp":"2025-12-23T14:16:04.64414762Z","domain":"test-pch-financement-funding.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2025-12-23T00:00:00Z","to":"2027-01-23T23:59:59Z"}
+{"id":"13189359073","timestamp":"2025-12-23T15:16:19.181580444Z","domain":"bcd-api-dca-ipa.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2025-12-23T00:00:00Z","to":"2027-01-21T23:59:59Z"}
