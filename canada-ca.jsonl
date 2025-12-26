@@ -14492,3 +14492,5 @@
 {"id":"13221680957","timestamp":"2025-12-26T07:16:26.300789198Z","domain":"meteo-spatiale.canada.ca","issuer":"Sectigo","from":"2025-12-26T00:00:00Z","to":"2026-03-26T23:59:59Z"}
 {"id":"13221680957","timestamp":"2025-12-26T07:16:26.300789609Z","domain":"space-weather.canada.ca","issuer":"Sectigo","from":"2025-12-26T00:00:00Z","to":"2026-03-26T23:59:59Z"}
 {"id":"13222720274","timestamp":"2025-12-26T10:16:17.650859209Z","domain":"connect.canada.ca","issuer":"Let's Encrypt","from":"2025-12-26T08:22:08Z","to":"2026-03-26T08:22:07Z"}
+{"id":"13223826019","timestamp":"2025-12-26T12:17:29.221893693Z","domain":"minio.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-26T10:58:05Z","to":"2026-03-26T10:58:04Z"}
+{"id":"13223830911","timestamp":"2025-12-26T12:17:29.221894174Z","domain":"minio-console.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-26T10:58:04Z","to":"2026-03-26T10:58:03Z"}
