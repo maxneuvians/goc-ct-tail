@@ -14489,3 +14489,5 @@
 {"id":"13215017809","timestamp":"2025-12-25T16:16:36.85553542Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-25T15:02:56Z","to":"2026-03-25T15:02:55Z"}
 {"id":"13215020520","timestamp":"2025-12-25T16:16:36.855535931Z","domain":"aws-rnd-test.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-25T15:02:20Z","to":"2026-03-25T15:02:19Z"}
 {"id":"13215040054","timestamp":"2025-12-25T16:16:36.855536663Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-25T15:03:13Z","to":"2026-03-25T15:03:12Z"}
+{"id":"13221680957","timestamp":"2025-12-26T07:16:26.300789198Z","domain":"meteo-spatiale.canada.ca","issuer":"Sectigo","from":"2025-12-26T00:00:00Z","to":"2026-03-26T23:59:59Z"}
+{"id":"13221680957","timestamp":"2025-12-26T07:16:26.300789609Z","domain":"space-weather.canada.ca","issuer":"Sectigo","from":"2025-12-26T00:00:00Z","to":"2026-03-26T23:59:59Z"}
