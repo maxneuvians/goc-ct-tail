@@ -791,3 +791,6 @@
 {"id":"13143186922","timestamp":"2025-12-19T23:44:53.821731976Z","domain":"cmhc-schl.gc.ca","issuer":"Google Trust Services","from":"2025-12-19T21:39:33Z","to":"2026-03-19T22:39:26Z"}
 {"id":"13168084454","timestamp":"2025-12-21T20:45:03.390732335Z","domain":"social.cmhc-schl.gc.ca","issuer":"Let's Encrypt","from":"2025-12-21T19:22:40Z","to":"2026-03-21T19:22:39Z"}
 {"id":"13257744993","timestamp":"2025-12-29T19:43:45.36322425Z","domain":"devsc10-as-hsct.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-12-29T00:00:00Z","to":"2027-01-05T23:59:59Z"}
+{"id":"13259048420","timestamp":"2025-12-29T22:45:37.14786331Z","domain":"eddv1vmgisapp01.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-12-29T00:00:00Z","to":"2027-01-05T23:59:59Z"}
+{"id":"13259048420","timestamp":"2025-12-29T22:45:37.14786369Z","domain":"eddv1vmgissrv01.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-12-29T00:00:00Z","to":"2027-01-05T23:59:59Z"}
+{"id":"13259048420","timestamp":"2025-12-29T22:45:37.147863911Z","domain":"geospatial.dev.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2025-12-29T00:00:00Z","to":"2027-01-05T23:59:59Z"}
