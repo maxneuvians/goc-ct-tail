@@ -864,3 +864,8 @@
 {"id":"13252580749","timestamp":"2025-12-29T07:38:36.693271541Z","domain":"rpss-appmgmt-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-29T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13255804068","timestamp":"2025-12-29T14:39:12.119236532Z","domain":"v3-wfa-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-29T13:30:23Z","to":"2026-03-29T13:30:22Z"}
 {"id":"13256164345","timestamp":"2025-12-29T15:37:45.191763837Z","domain":"v3-wfa-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-29T14:21:36Z","to":"2026-03-29T14:21:35Z"}
+{"id":"13256350402","timestamp":"2025-12-29T16:40:40.191772962Z","domain":"v3-calipersplusapi-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-29T14:47:50Z","to":"2026-03-29T14:47:49Z"}
+{"id":"13256350402","timestamp":"2025-12-29T16:40:40.191773326Z","domain":"v3-calipersplus-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-29T14:47:50Z","to":"2026-03-29T14:47:49Z"}
+{"id":"13256474908","timestamp":"2025-12-29T16:40:40.191773667Z","domain":"v3-esp-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-29T15:04:35Z","to":"2026-03-29T15:04:34Z"}
+{"id":"13256477314","timestamp":"2025-12-29T16:40:40.191773895Z","domain":"v3-eepr-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-29T15:03:23Z","to":"2026-03-29T15:03:22Z"}
+{"id":"13256479306","timestamp":"2025-12-29T16:40:40.191773985Z","domain":"v3-quessvc-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-29T15:05:44Z","to":"2026-03-29T15:05:43Z"}
