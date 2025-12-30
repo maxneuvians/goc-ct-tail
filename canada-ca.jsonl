@@ -14539,3 +14539,23 @@
 {"id":"13267490672","timestamp":"2025-12-30T16:16:48.471046554Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-30T15:03:16Z","to":"2026-03-30T15:03:15Z"}
 {"id":"13267495813","timestamp":"2025-12-30T16:16:48.471046845Z","domain":"aws-rnd-test.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-30T15:02:23Z","to":"2026-03-30T15:02:22Z"}
 {"id":"13267503496","timestamp":"2025-12-30T16:16:48.471047105Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-30T15:02:59Z","to":"2026-03-30T15:02:58Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440586292Z","domain":"app.cfc-swc.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440587244Z","domain":"app.fegc-wage.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440589648Z","domain":"app.swc-cfc.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440589959Z","domain":"app.wage-fegc.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440590069Z","domain":"cfc-swc.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440591291Z","domain":"fegc-wage.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440591392Z","domain":"femmes.canada.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440591492Z","domain":"femmes-egalite-genres.canada.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440591582Z","domain":"swc-cfc.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440592604Z","domain":"wage-fegc.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440592694Z","domain":"women.canada.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440592784Z","domain":"women-gender-equality.canada.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440592885Z","domain":"www.cfc-swc.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440592975Z","domain":"www.fegc-wage.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440593065Z","domain":"www.femmes.canada.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440593155Z","domain":"www.femmes-egalite-genres.canada.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440593245Z","domain":"www.swc-cfc.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440593335Z","domain":"www.wage-fegc.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440594638Z","domain":"www.women.canada.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13269065310","timestamp":"2025-12-30T20:16:20.440594728Z","domain":"www.women-gender-equality.canada.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
