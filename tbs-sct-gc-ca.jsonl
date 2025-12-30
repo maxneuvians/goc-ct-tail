@@ -902,3 +902,9 @@
 {"id":"13267585058","timestamp":"2025-12-30T16:41:50.27119872Z","domain":"tapx-claimsigner-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-30T15:13:56Z","to":"2026-03-30T15:13:55Z"}
 {"id":"13267586908","timestamp":"2025-12-30T16:41:50.271199531Z","domain":"sitefinity-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-30T15:14:46Z","to":"2026-03-30T15:14:45Z"}
 {"id":"13267601219","timestamp":"2025-12-30T16:41:50.271199641Z","domain":"myaw-monlta-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-30T15:15:37Z","to":"2026-03-30T15:15:36Z"}
+{"id":"13268821098","timestamp":"2025-12-30T19:33:37.11329131Z","domain":"v3-calipersplusapi-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-30T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13268980212","timestamp":"2025-12-30T19:33:37.113291671Z","domain":"v3-pbi-pcis-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-30T18:03:50Z","to":"2026-03-30T18:03:49Z"}
+{"id":"13268982229","timestamp":"2025-12-30T19:33:37.113291841Z","domain":"v3-pbi-pspmr-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-30T18:05:36Z","to":"2026-03-30T18:05:35Z"}
+{"id":"13268999071","timestamp":"2025-12-30T19:33:37.113292071Z","domain":"v3-pbi-trd-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-30T18:07:18Z","to":"2026-03-30T18:07:17Z"}
+{"id":"13269019031","timestamp":"2025-12-30T19:33:37.113292141Z","domain":"v3-selfid-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-30T18:10:13Z","to":"2026-03-30T18:10:12Z"}
+{"id":"13269019386","timestamp":"2025-12-30T19:33:37.113292973Z","domain":"v3-quessvc-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-30T18:09:09Z","to":"2026-03-30T18:09:08Z"}
