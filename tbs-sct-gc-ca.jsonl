@@ -917,3 +917,5 @@
 {"id":"13269689145","timestamp":"2025-12-30T21:36:04.433037822Z","domain":"v3-quessvc-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-30T19:38:48Z","to":"2026-03-30T19:38:47Z"}
 {"id":"13269716725","timestamp":"2025-12-30T21:36:04.433037992Z","domain":"v3-quessvc-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-30T19:42:09Z","to":"2026-03-30T19:42:08Z"}
 {"id":"13269756123","timestamp":"2025-12-30T21:36:04.433038072Z","domain":"v3-quessvc-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2025-12-30T19:47:54Z","to":"2026-03-30T19:47:53Z"}
+{"id":"13270921051","timestamp":"2025-12-30T23:34:52.810467723Z","domain":"sitefinityrenderer-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-30T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13270935088","timestamp":"2025-12-30T23:34:52.810468103Z","domain":"tapx-claimsigner-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-30T00:00:00Z","to":"2026-04-14T23:59:59Z"}
