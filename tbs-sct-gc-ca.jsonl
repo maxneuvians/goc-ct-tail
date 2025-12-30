@@ -882,3 +882,8 @@
 {"id":"13261404267","timestamp":"2025-12-30T03:52:48.291703404Z","domain":"v3-eepr-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-30T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13262215424","timestamp":"2025-12-30T05:39:20.735676639Z","domain":"tapx-tiv-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-30T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13262398153","timestamp":"2025-12-30T05:39:20.73567702Z","domain":"v3-pbi-pses-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-30T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13262414042","timestamp":"2025-12-30T06:45:11.595393575Z","domain":"tapx-rolemanager-qa-backend.apim-dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-30T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13262414421","timestamp":"2025-12-30T06:45:11.595393926Z","domain":"v3-esp-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-30T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13262414775","timestamp":"2025-12-30T06:45:11.595394246Z","domain":"v3-eepr-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-30T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13262483478","timestamp":"2025-12-30T06:45:11.595394497Z","domain":"v3-calipersplus-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-30T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13262548276","timestamp":"2025-12-30T06:45:11.595394607Z","domain":"v3-quessvc-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-30T00:00:00Z","to":"2026-04-14T23:59:59Z"}
