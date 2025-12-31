@@ -923,3 +923,6 @@
 {"id":"13271087568","timestamp":"2025-12-31T00:49:17.434646301Z","domain":"v3-pbi-mental-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-30T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13271088282","timestamp":"2025-12-31T00:49:17.434646512Z","domain":"myaw-monlta-qa-backend.apim-dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-30T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13271247720","timestamp":"2025-12-31T00:49:17.434646752Z","domain":"v3-calipersplusapi-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-30T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13275373126","timestamp":"2025-12-31T08:42:30.264964783Z","domain":"tapx-rolemanagerapp-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-31T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13275403479","timestamp":"2025-12-31T08:42:30.264965144Z","domain":"rpss-appmgmt-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-31T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13275435998","timestamp":"2025-12-31T08:42:30.264965354Z","domain":"rpss-appmgmt-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-31T00:00:00Z","to":"2026-04-14T23:59:59Z"}
