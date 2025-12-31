@@ -14622,3 +14622,5 @@
 {"id":"13279072202","timestamp":"2025-12-31T17:15:47.661919859Z","domain":"prometheus.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-31T15:25:53Z","to":"2026-03-31T15:25:52Z"}
 {"id":"13279134618","timestamp":"2025-12-31T17:15:47.661920941Z","domain":"applicationhub.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-31T15:33:06Z","to":"2026-03-31T15:33:05Z"}
 {"id":"13279382601","timestamp":"2025-12-31T17:15:47.661921011Z","domain":"minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-31T16:04:09Z","to":"2026-03-31T16:04:08Z"}
+{"id":"13279527048","timestamp":"2025-12-31T18:17:14.476696099Z","domain":"eoepca-portal.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-31T16:25:08Z","to":"2026-03-31T16:25:07Z"}
+{"id":"13279595018","timestamp":"2025-12-31T18:17:14.476697111Z","domain":"harbor.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-31T16:33:33Z","to":"2026-03-31T16:33:32Z"}
