@@ -926,3 +926,10 @@
 {"id":"13275373126","timestamp":"2025-12-31T08:42:30.264964783Z","domain":"tapx-rolemanagerapp-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-31T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13275403479","timestamp":"2025-12-31T08:42:30.264965144Z","domain":"rpss-appmgmt-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-31T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13275435998","timestamp":"2025-12-31T08:42:30.264965354Z","domain":"rpss-appmgmt-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-31T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13275484358","timestamp":"2025-12-31T09:38:58.494631561Z","domain":"tapx-rolemanagerapp-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-31T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13275520928","timestamp":"2025-12-31T09:38:58.494631982Z","domain":"v3-pbi-pspmr-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-31T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13275564908","timestamp":"2025-12-31T09:38:58.494632172Z","domain":"tapx-rolemanager-dev-backend.apim-dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-31T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13275602885","timestamp":"2025-12-31T09:38:58.494632382Z","domain":"myaw-monlta-dev-backend.apim-dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-31T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13275623028","timestamp":"2025-12-31T09:38:58.494632483Z","domain":"v3-mwa-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-31T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13275684432","timestamp":"2025-12-31T09:38:58.494633284Z","domain":"sitefinity-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-31T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13275801995","timestamp":"2025-12-31T09:38:58.494633374Z","domain":"v3-quessvc-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2025-12-31T00:00:00Z","to":"2026-04-14T23:59:59Z"}
