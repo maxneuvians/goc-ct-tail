@@ -14604,3 +14604,10 @@
 {"id":"13277926993","timestamp":"2025-12-31T14:16:13.957774284Z","domain":"auth.g7-dev.canada.ca","issuer":"Let's Encrypt","from":"2025-12-31T13:01:06Z","to":"2026-03-31T13:01:05Z"}
 {"id":"13277948572","timestamp":"2025-12-31T14:16:13.957775045Z","domain":"auth.g7-dev.canada.ca","issuer":"Let's Encrypt","from":"2025-12-31T13:01:08Z","to":"2026-03-31T13:01:07Z"}
 {"id":"13278051869","timestamp":"2025-12-31T15:16:05.99559104Z","domain":"docs.ssc-dev-gccopa.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2025-12-31T00:00:00Z","to":"2026-06-30T23:59:59Z"}
+{"id":"13278836522","timestamp":"2025-12-31T16:16:43.236666456Z","domain":"keycloak.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-31T14:58:50Z","to":"2026-03-31T14:58:49Z"}
+{"id":"13278838074","timestamp":"2025-12-31T16:16:43.236667158Z","domain":"identity-api.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-31T14:58:15Z","to":"2026-03-31T14:58:14Z"}
+{"id":"13278863297","timestamp":"2025-12-31T16:16:43.236667498Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-31T15:02:45Z","to":"2026-03-31T15:02:44Z"}
+{"id":"13278865210","timestamp":"2025-12-31T16:16:43.236667799Z","domain":"aws-rnd-test.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-31T15:02:23Z","to":"2026-03-31T15:02:22Z"}
+{"id":"13278871219","timestamp":"2025-12-31T16:16:43.236667919Z","domain":"*.ssc-prod-cloudopsportal.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-31T15:03:08Z","to":"2026-03-31T15:03:07Z"}
+{"id":"13278880402","timestamp":"2025-12-31T16:16:43.236670824Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2025-12-31T15:03:03Z","to":"2026-03-31T15:03:02Z"}
+{"id":"13278924951","timestamp":"2025-12-31T16:16:43.236670934Z","domain":"console.minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2025-12-31T15:08:33Z","to":"2026-03-31T15:08:32Z"}
