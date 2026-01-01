@@ -14632,3 +14632,7 @@
 {"id":"13284811149","timestamp":"2026-01-01T06:17:23.980922734Z","domain":"seismes.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T04:40:53Z","to":"2026-04-01T04:40:52Z"}
 {"id":"13284939206","timestamp":"2026-01-01T06:17:23.980922994Z","domain":"chis.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T05:01:17Z","to":"2026-04-01T05:01:16Z"}
 {"id":"13284939206","timestamp":"2026-01-01T06:17:23.980923195Z","domain":"scir.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T05:01:17Z","to":"2026-04-01T05:01:16Z"}
+{"id":"13285540514","timestamp":"2026-01-01T08:17:04.505793672Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T06:25:56Z","to":"2026-04-01T06:25:55Z"}
+{"id":"13285540514","timestamp":"2026-01-01T08:17:04.505794053Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T06:25:56Z","to":"2026-04-01T06:25:55Z"}
+{"id":"13285547725","timestamp":"2026-01-01T08:17:04.505794383Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T06:27:25Z","to":"2026-04-01T06:27:24Z"}
+{"id":"13285547725","timestamp":"2026-01-01T08:17:04.505794794Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T06:27:25Z","to":"2026-04-01T06:27:24Z"}
