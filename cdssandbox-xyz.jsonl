@@ -2181,3 +2181,5 @@
 {"id":"13139848708","timestamp":"2025-12-19T16:40:47.758347963Z","domain":"portail.test.delivrance-verification.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-12-19T15:12:08Z","to":"2026-03-19T15:12:07Z"}
 {"id":"13140387404","timestamp":"2025-12-19T17:34:42.772825115Z","domain":"api.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-12-19T16:12:53Z","to":"2026-03-19T16:12:52Z"}
 {"id":"13140387404","timestamp":"2025-12-19T17:34:42.772825697Z","domain":"realtime.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2025-12-19T16:12:53Z","to":"2026-03-19T16:12:52Z"}
+{"id":"13282423426","timestamp":"2026-01-01T00:50:08.776052445Z","domain":"*.valentine-dev.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-01-01T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13282423426","timestamp":"2026-01-01T00:50:08.776052816Z","domain":"valentine-dev.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-01-01T00:00:00Z","to":"2027-01-30T23:59:59Z"}
