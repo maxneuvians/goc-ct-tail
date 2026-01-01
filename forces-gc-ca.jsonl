@@ -2147,3 +2147,5 @@
 {"id":"13194462369","timestamp":"2025-12-24T00:39:32.755324353Z","domain":"hangar-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2025-12-24T00:00:00Z","to":"2027-01-22T23:59:59Z"}
 {"id":"13239184950","timestamp":"2025-12-28T00:45:06.2387081Z","domain":"*.army.tak-test.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-12-27T23:06:15Z","to":"2026-03-27T23:06:14Z"}
 {"id":"13239184950","timestamp":"2025-12-28T00:45:06.238708493Z","domain":"*.tak-test.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2025-12-27T23:06:15Z","to":"2026-03-27T23:06:14Z"}
+{"id":"13287042496","timestamp":"2026-01-01T11:15:49.476718031Z","domain":"www.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-01-01T10:01:41Z","to":"2026-04-01T10:01:40Z"}
+{"id":"13287045868","timestamp":"2026-01-01T11:15:49.476718342Z","domain":"bib.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-01-01T10:01:41Z","to":"2026-04-01T10:01:40Z"}
