@@ -14628,3 +14628,7 @@
 {"id":"13283766814","timestamp":"2026-01-01T03:46:04.714032929Z","domain":"tapx-rolemanager-prd-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2026-01-01T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13284377151","timestamp":"2026-01-01T05:17:38.716130729Z","domain":"cartes-test.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T03:39:25Z","to":"2026-04-01T03:39:24Z"}
 {"id":"13284377151","timestamp":"2026-01-01T05:17:38.7161313Z","domain":"maps-test.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T03:39:25Z","to":"2026-04-01T03:39:24Z"}
+{"id":"13284811149","timestamp":"2026-01-01T06:17:23.980922403Z","domain":"earthquakes.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T04:40:53Z","to":"2026-04-01T04:40:52Z"}
+{"id":"13284811149","timestamp":"2026-01-01T06:17:23.980922734Z","domain":"seismes.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T04:40:53Z","to":"2026-04-01T04:40:52Z"}
+{"id":"13284939206","timestamp":"2026-01-01T06:17:23.980922994Z","domain":"chis.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T05:01:17Z","to":"2026-04-01T05:01:16Z"}
+{"id":"13284939206","timestamp":"2026-01-01T06:17:23.980923195Z","domain":"scir.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T05:01:17Z","to":"2026-04-01T05:01:16Z"}
