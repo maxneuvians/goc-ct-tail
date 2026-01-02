@@ -14661,3 +14661,7 @@
 {"id":"13289140641","timestamp":"2026-01-01T16:16:50.481224568Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T15:02:31Z","to":"2026-04-01T15:02:30Z"}
 {"id":"13289181784","timestamp":"2026-01-01T16:16:50.481225089Z","domain":"titilerx.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T15:08:40Z","to":"2026-04-01T15:08:39Z"}
 {"id":"13290601142","timestamp":"2026-01-01T20:16:26.36592166Z","domain":"code.ouvert.canada.ca","issuer":"Let's Encrypt","from":"2026-01-01T18:20:38Z","to":"2026-04-01T18:20:37Z"}
+{"id":"13294810313","timestamp":"2026-01-02T06:17:28.178751727Z","domain":"*.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-02T04:35:21Z","to":"2026-04-02T04:35:20Z"}
+{"id":"13294810313","timestamp":"2026-01-02T06:17:28.178752228Z","domain":"ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-02T04:35:21Z","to":"2026-04-02T04:35:20Z"}
+{"id":"13294813957","timestamp":"2026-01-02T06:17:28.178752508Z","domain":"*.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-02T04:36:22Z","to":"2026-04-02T04:36:21Z"}
+{"id":"13294813957","timestamp":"2026-01-02T06:17:28.178752729Z","domain":"dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-02T04:36:22Z","to":"2026-04-02T04:36:21Z"}
