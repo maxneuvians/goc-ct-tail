@@ -14679,3 +14679,7 @@
 {"id":"13299435024","timestamp":"2026-01-02T16:16:34.670284094Z","domain":"aws-rnd-test.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-02T15:02:33Z","to":"2026-04-02T15:02:32Z"}
 {"id":"13299789240","timestamp":"2026-01-02T17:15:39.191758831Z","domain":"mlflow.ws-bob.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-02T15:46:11Z","to":"2026-04-02T15:46:10Z"}
 {"id":"13301621617","timestamp":"2026-01-02T21:15:30.124937065Z","domain":"nrcan-funding-financement-rncan.canada.ca","issuer":"Sectigo","from":"2026-01-02T00:00:00Z","to":"2027-02-02T23:59:59Z"}
+{"id":"13309546952","timestamp":"2026-01-03T16:16:44.089243991Z","domain":"aws-rnd-test.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-03T15:02:13Z","to":"2026-04-03T15:02:12Z"}
+{"id":"13309548995","timestamp":"2026-01-03T16:16:44.089244512Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-03T15:02:33Z","to":"2026-04-03T15:02:32Z"}
+{"id":"13309558583","timestamp":"2026-01-03T16:16:44.089245343Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-03T15:03:06Z","to":"2026-04-03T15:03:05Z"}
+{"id":"13309568432","timestamp":"2026-01-03T16:16:44.089245604Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-03T15:02:50Z","to":"2026-04-03T15:02:49Z"}
