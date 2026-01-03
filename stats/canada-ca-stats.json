@@ -3346,6 +3346,10 @@
     "2026-01-01": {
       "DigiCert": 1,
       "Let's Encrypt": 35
+    },
+    "2026-01-02": {
+      "Let's Encrypt": 17,
+      "Sectigo": 1
     }
   },
   "errors": []
