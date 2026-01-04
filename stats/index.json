@@ -38,13 +38,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 14681,
+      "totalCertificates": 14685,
       "totalsByIssuer": {
         "Entrust": 2525,
         "Amazon Trust Services": 1096,
         "DigiCert": 702,
         "GoDaddy": 13,
-        "Let's Encrypt": 7584,
+        "Let's Encrypt": 7588,
         "Google Trust Services": 310,
         "Sectigo": 793,
         "SSL.com": 1658
@@ -97,9 +97,9 @@
     {
       "inputFile": "cds-snc-ca.jsonl",
       "outputFile": "stats/cds-snc-ca-stats.json",
-      "totalCertificates": 94,
+      "totalCertificates": 96,
       "totalsByIssuer": {
-        "Amazon Trust Services": 13,
+        "Amazon Trust Services": 15,
         "Let's Encrypt": 53,
         "Google Trust Services": 28
       },
@@ -396,12 +396,12 @@
     {
       "inputFile": "mint-ca.jsonl",
       "outputFile": "stats/mint-ca-stats.json",
-      "totalCertificates": 462,
+      "totalCertificates": 464,
       "totalsByIssuer": {
         "Entrust": 137,
         "DigiCert": 16,
         "Let's Encrypt": 40,
-        "Google Trust Services": 208,
+        "Google Trust Services": 210,
         "Sectigo": 46,
         "Entrust Limited": 15
       },
@@ -624,10 +624,10 @@
     {
       "inputFile": "statcan-gc-ca.jsonl",
       "outputFile": "stats/statcan-gc-ca-stats.json",
-      "totalCertificates": 984,
+      "totalCertificates": 987,
       "totalsByIssuer": {
         "Entrust": 344,
-        "Let's Encrypt": 436,
+        "Let's Encrypt": 439,
         "SSL.com": 148,
         "Sectigo": 56
       },
@@ -709,13 +709,13 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 3793,
-    "Let's Encrypt": 21554,
+    "Amazon Trust Services": 3795,
+    "Let's Encrypt": 21561,
     "SSL.com": 6250,
     "Sectigo": 14473,
     "DigiCert": 2295,
     "GoDaddy": 81,
-    "Google Trust Services": 627,
+    "Google Trust Services": 629,
     "Entrust Limited": 20,
     "GlobalSign": 2
   }
