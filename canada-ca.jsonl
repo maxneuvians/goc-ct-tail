@@ -14769,3 +14769,6 @@
 {"id":"13341116649","timestamp":"2026-01-06T16:16:58.740976265Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-06T15:02:50Z","to":"2026-04-06T15:02:49Z"}
 {"id":"13341118016","timestamp":"2026-01-06T16:16:58.740976365Z","domain":"aws-rnd-test.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-06T15:02:31Z","to":"2026-04-06T15:02:30Z"}
 {"id":"13341118995","timestamp":"2026-01-06T16:16:58.740976476Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-06T15:03:23Z","to":"2026-04-06T15:03:22Z"}
+{"id":"13343095623","timestamp":"2026-01-06T20:16:34.814017902Z","domain":"*.digital.service.canada.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2026-12-28T23:59:59Z"}
+{"id":"13343095623","timestamp":"2026-01-06T20:16:34.814018222Z","domain":"digital.service.canada.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2026-12-28T23:59:59Z"}
+{"id":"13343095623","timestamp":"2026-01-06T20:16:34.814018443Z","domain":"estimateursv-oasestimator.service.canada.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2026-12-28T23:59:59Z"}
