@@ -14740,3 +14740,32 @@
 {"id":"13337948252","timestamp":"2026-01-06T10:16:36.870294109Z","domain":"dec-espace-client-space-ced.canada.ca","issuer":"DigiCert","from":"2026-01-06T00:00:00Z","to":"2026-07-06T23:59:59Z"}
 {"id":"13338783247","timestamp":"2026-01-06T12:17:58.76574542Z","domain":"canchat.dev.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-06T10:28:07Z","to":"2026-04-06T10:28:06Z"}
 {"id":"13340109460","timestamp":"2026-01-06T14:16:28.602275635Z","domain":"backstage.mgmt.as49lw.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-01-06T12:58:56Z","to":"2026-04-06T13:52:08Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740970174Z","domain":"aks.gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740970605Z","domain":"app.gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740970805Z","domain":"biocides-uat.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740971026Z","domain":"cvn-test.canada.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740971126Z","domain":"*.dt.avs-sav.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740972098Z","domain":"*.dt.gateway-passerelle-2.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740972208Z","domain":"*.dt.gateway-passerelle.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740972288Z","domain":"gateway-passerelle-2.dev.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740972368Z","domain":"gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.74097327Z","domain":"gateway-passerelle-2.uat.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.74097335Z","domain":"gateway-passerelle-2.uat.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.74097344Z","domain":"*.gateway-passerelle.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.74097352Z","domain":"hcscb2cdev.gateway-passerelle.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.7409736Z","domain":"hcscb2cuat.gateway-passerelle.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740973681Z","domain":"infra.gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740973761Z","domain":"lzaks.gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740973851Z","domain":"lzapp.gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740973931Z","domain":"lz.gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740974742Z","domain":"lz.gateway-passerelle-2.uat.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740975594Z","domain":"lzinfra.gateway-passerelle-2.dev.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740975694Z","domain":"lzinfra.gateway-passerelle-2.uat.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740975795Z","domain":"nvc-cnv-test.canada.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740975885Z","domain":"nvc-drt.dev.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740975975Z","domain":"sgpp-dt.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13340854297","timestamp":"2026-01-06T16:16:58.740976065Z","domain":"uvupdatertest.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
+{"id":"13341113551","timestamp":"2026-01-06T16:16:58.740976165Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-06T15:03:06Z","to":"2026-04-06T15:03:05Z"}
+{"id":"13341116649","timestamp":"2026-01-06T16:16:58.740976265Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-06T15:02:50Z","to":"2026-04-06T15:02:49Z"}
+{"id":"13341118016","timestamp":"2026-01-06T16:16:58.740976365Z","domain":"aws-rnd-test.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-06T15:02:31Z","to":"2026-04-06T15:02:30Z"}
+{"id":"13341118995","timestamp":"2026-01-06T16:16:58.740976476Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-06T15:03:23Z","to":"2026-04-06T15:03:22Z"}
