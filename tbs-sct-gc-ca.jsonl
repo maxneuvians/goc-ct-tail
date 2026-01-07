@@ -994,3 +994,12 @@
 {"id":"13353451028","timestamp":"2026-01-07T16:43:52.562496196Z","domain":"v3-cwf-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T15:33:04Z","to":"2026-04-07T15:33:03Z"}
 {"id":"13353471042","timestamp":"2026-01-07T16:43:52.562496436Z","domain":"v3-cwf-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T15:35:38Z","to":"2026-04-07T15:35:37Z"}
 {"id":"13353512642","timestamp":"2026-01-07T17:40:40.67471349Z","domain":"v3-cwf-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T15:41:52Z","to":"2026-04-07T15:41:51Z"}
+{"id":"13354373376","timestamp":"2026-01-07T18:45:22.018732482Z","domain":"tapx-claimsigner-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T17:24:13Z","to":"2026-04-07T17:24:12Z"}
+{"id":"13354387758","timestamp":"2026-01-07T18:45:22.018733124Z","domain":"v3-cwf-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T17:25:34Z","to":"2026-04-07T17:25:33Z"}
+{"id":"13354446234","timestamp":"2026-01-07T18:45:22.018733354Z","domain":"tapx-claimsigner-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T17:31:30Z","to":"2026-04-07T17:31:29Z"}
+{"id":"13354461474","timestamp":"2026-01-07T18:45:22.018733605Z","domain":"v3-cwf-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T17:33:03Z","to":"2026-04-07T17:33:02Z"}
+{"id":"13354471675","timestamp":"2026-01-07T18:45:22.018733705Z","domain":"selfid-autoid-api-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T17:34:38Z","to":"2026-04-07T17:34:37Z"}
+{"id":"13354489633","timestamp":"2026-01-07T18:45:22.018734697Z","domain":"burolis-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T17:36:17Z","to":"2026-04-07T17:36:16Z"}
+{"id":"13354501395","timestamp":"2026-01-07T18:45:22.018734797Z","domain":"myaw-monlta-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T17:37:35Z","to":"2026-04-07T17:37:34Z"}
+{"id":"13354502996","timestamp":"2026-01-07T18:45:22.018734887Z","domain":"rpss-appmgmt-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T17:39:01Z","to":"2026-04-07T17:39:00Z"}
+{"id":"13354537120","timestamp":"2026-01-07T18:45:22.018734967Z","domain":"tapx-tiv-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T17:40:40Z","to":"2026-04-07T17:40:39Z"}
