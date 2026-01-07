@@ -980,3 +980,4 @@
 {"id":"13327941133","timestamp":"2026-01-05T13:45:31.263013814Z","domain":"uat.hrdatahub-centrededonneesrh.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-05T00:00:00Z","to":"2027-02-05T23:59:59Z"}
 {"id":"13337306845","timestamp":"2026-01-06T08:43:50.418621554Z","domain":"tapx-claimsigner-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-01-06T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13342852813","timestamp":"2026-01-06T19:34:46.048859544Z","domain":"v3-pbi-hrap-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-01-06T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13345285355","timestamp":"2026-01-07T00:49:14.681320328Z","domain":"v3-pbi-pses-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-01-07T00:00:00Z","to":"2026-04-14T23:59:59Z"}
