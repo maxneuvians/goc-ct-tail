@@ -981,3 +981,11 @@
 {"id":"13337306845","timestamp":"2026-01-06T08:43:50.418621554Z","domain":"tapx-claimsigner-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-01-06T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13342852813","timestamp":"2026-01-06T19:34:46.048859544Z","domain":"v3-pbi-hrap-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-01-06T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13345285355","timestamp":"2026-01-07T00:49:14.681320328Z","domain":"v3-pbi-pses-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-01-07T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13352225818","timestamp":"2026-01-07T14:40:37.666954553Z","domain":"aihorizon.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T13:07:20Z","to":"2026-04-07T13:07:19Z"}
+{"id":"13352233798","timestamp":"2026-01-07T14:40:37.666955414Z","domain":"v3-pspm-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T13:09:01Z","to":"2026-04-07T13:09:00Z"}
+{"id":"13352237804","timestamp":"2026-01-07T14:40:37.666955705Z","domain":"v3-pbi-pses-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T13:07:52Z","to":"2026-04-07T13:07:51Z"}
+{"id":"13352245063","timestamp":"2026-01-07T14:40:37.666955995Z","domain":"v3-www2-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T13:10:12Z","to":"2026-04-07T13:10:11Z"}
+{"id":"13352260100","timestamp":"2026-01-07T14:40:37.666956106Z","domain":"selfid-autoid-api-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T13:12:03Z","to":"2026-04-07T13:12:02Z"}
+{"id":"13352273833","timestamp":"2026-01-07T14:40:37.666957148Z","domain":"rpss-appmgmt-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T13:13:10Z","to":"2026-04-07T13:13:09Z"}
+{"id":"13352278158","timestamp":"2026-01-07T14:40:37.666957258Z","domain":"infobase-forms-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T13:14:19Z","to":"2026-04-07T13:14:18Z"}
+{"id":"13352280861","timestamp":"2026-01-07T14:40:37.666957368Z","domain":"infobase-data-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T13:14:53Z","to":"2026-04-07T13:14:52Z"}
