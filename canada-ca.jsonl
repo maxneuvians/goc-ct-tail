@@ -14808,3 +14808,11 @@
 {"id":"13354607349","timestamp":"2026-01-07T19:16:24.205387779Z","domain":"navigation-electronique.canada.ca","issuer":"Sectigo","from":"2026-01-07T00:00:00Z","to":"2027-02-07T23:59:59Z"}
 {"id":"13354607349","timestamp":"2026-01-07T19:16:24.205387839Z","domain":"www.e-navigation.canada.ca","issuer":"Sectigo","from":"2026-01-07T00:00:00Z","to":"2027-02-07T23:59:59Z"}
 {"id":"13354607349","timestamp":"2026-01-07T19:16:24.205387909Z","domain":"www.navigation-electronique.canada.ca","issuer":"Sectigo","from":"2026-01-07T00:00:00Z","to":"2027-02-07T23:59:59Z"}
+{"id":"13354846163","timestamp":"2026-01-07T20:16:37.383664454Z","domain":"*.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-07T18:20:13Z","to":"2026-04-07T18:20:12Z"}
+{"id":"13354846163","timestamp":"2026-01-07T20:16:37.383664775Z","domain":"crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-07T18:20:13Z","to":"2026-04-07T18:20:12Z"}
+{"id":"13354846163","timestamp":"2026-01-07T20:16:37.383665052Z","domain":"*.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T18:20:13Z","to":"2026-04-07T18:20:12Z"}
+{"id":"13354846163","timestamp":"2026-01-07T20:16:37.383665295Z","domain":"crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T18:20:13Z","to":"2026-04-07T18:20:12Z"}
+{"id":"13354933441","timestamp":"2026-01-07T20:16:37.383665477Z","domain":"*.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-07T18:30:43Z","to":"2026-04-07T18:30:42Z"}
+{"id":"13354933441","timestamp":"2026-01-07T20:16:37.383666938Z","domain":"crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-07T18:30:43Z","to":"2026-04-07T18:30:42Z"}
+{"id":"13354933441","timestamp":"2026-01-07T20:16:37.383667102Z","domain":"*.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T18:30:43Z","to":"2026-04-07T18:30:42Z"}
+{"id":"13354933441","timestamp":"2026-01-07T20:16:37.383667213Z","domain":"crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-07T18:30:43Z","to":"2026-04-07T18:30:42Z"}
