@@ -850,7 +850,8 @@
       "DigiCert": 2
     },
     "2026-01-07": {
-      "DigiCert": 1
+      "DigiCert": 1,
+      "Let's Encrypt": 25
     }
   },
   "errors": []
