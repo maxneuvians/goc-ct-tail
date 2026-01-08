@@ -19419,3 +19419,7 @@
 {"id":"13330657795","timestamp":"2026-01-05T19:16:19.471191018Z","domain":"eew-qw-test2.eew2.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-05T00:00:00Z","to":"2027-02-05T23:59:59Z"}
 {"id":"13330657795","timestamp":"2026-01-05T19:16:19.471191109Z","domain":"eew-qw-test-alert1.seismo.nrcan.gc.ca","issuer":"Sectigo","from":"2026-01-05T00:00:00Z","to":"2027-02-05T23:59:59Z"}
 {"id":"13330657795","timestamp":"2026-01-05T19:16:19.471192271Z","domain":"eew-qw-test-alert2.eew2.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-05T00:00:00Z","to":"2027-02-05T23:59:59Z"}
+{"id":"13360423254","timestamp":"2026-01-08T06:17:21.613594612Z","domain":"redirect.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-08T04:57:49Z","to":"2026-04-08T04:57:48Z"}
+{"id":"13360423254","timestamp":"2026-01-08T06:17:21.613594863Z","domain":"redirect.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-08T04:57:49Z","to":"2026-04-08T04:57:48Z"}
+{"id":"13360423254","timestamp":"2026-01-08T06:17:21.613595072Z","domain":"redirect.rncan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-08T04:57:49Z","to":"2026-04-08T04:57:48Z"}
+{"id":"13360423254","timestamp":"2026-01-08T06:17:21.613595215Z","domain":"redirect.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-08T04:57:49Z","to":"2026-04-08T04:57:48Z"}
