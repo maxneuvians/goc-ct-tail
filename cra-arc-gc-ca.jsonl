@@ -362,3 +362,5 @@
 {"id":"13269687025","timestamp":"2025-12-30T21:16:05.209097326Z","domain":"ac1.svcs.cra-arc.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
 {"id":"13269717523","timestamp":"2025-12-30T21:16:05.209097556Z","domain":"*.at1.svcs.cra-arc.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
 {"id":"13269717523","timestamp":"2025-12-30T21:16:05.209097786Z","domain":"at1.svcs.cra-arc.gc.ca","issuer":"Sectigo","from":"2025-12-30T00:00:00Z","to":"2027-01-30T23:59:59Z"}
+{"id":"13379530855","timestamp":"2026-01-09T17:16:46.366490769Z","domain":"apigw-d.cra-arc.gc.ca","issuer":"Sectigo","from":"2026-01-09T00:00:00Z","to":"2027-02-09T23:59:59Z"}
+{"id":"13379530855","timestamp":"2026-01-09T17:16:46.36649136Z","domain":"apigw-mtls-d.cra-arc.gc.ca","issuer":"Sectigo","from":"2026-01-09T00:00:00Z","to":"2027-02-09T23:59:59Z"}
