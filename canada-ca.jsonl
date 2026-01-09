@@ -14900,3 +14900,11 @@
 {"id":"13377812349","timestamp":"2026-01-09T14:16:39.546168143Z","domain":"atip-dev.apim-dev.tbs-sct.canada.ca","issuer":"Sectigo","from":"2026-01-09T00:00:00Z","to":"2027-02-09T23:59:59Z"}
 {"id":"13378148957","timestamp":"2026-01-09T14:16:39.546168607Z","domain":"pch-financement-funding.canada.ca","issuer":"Sectigo","from":"2026-01-09T00:00:00Z","to":"2027-02-09T23:59:59Z"}
 {"id":"13378286296","timestamp":"2026-01-09T15:16:29.138886441Z","domain":"*.irb-cisr.canada.ca","issuer":"Sectigo","from":"2026-01-09T00:00:00Z","to":"2027-02-09T23:59:59Z"}
+{"id":"13378899867","timestamp":"2026-01-09T16:16:49.418278875Z","domain":"resource-catalogue.ws-xlu.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-09T14:16:16Z","to":"2026-04-09T14:16:15Z"}
+{"id":"13378925497","timestamp":"2026-01-09T16:16:49.418279536Z","domain":"mlflow.ws-xlu.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-09T14:16:16Z","to":"2026-04-09T14:16:15Z"}
+{"id":"13378948316","timestamp":"2026-01-09T16:16:49.418279836Z","domain":"mlflow.ws-lwang.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-09T14:21:14Z","to":"2026-04-09T14:21:13Z"}
+{"id":"13378967093","timestamp":"2026-01-09T16:16:49.418280097Z","domain":"resource-catalogue.ws-lwang.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-09T14:21:12Z","to":"2026-04-09T14:21:11Z"}
+{"id":"13379321553","timestamp":"2026-01-09T16:16:49.418280217Z","domain":"aws-rnd-test.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-09T15:02:14Z","to":"2026-04-09T15:02:13Z"}
+{"id":"13379326446","timestamp":"2026-01-09T16:16:49.418281349Z","domain":"*.blob.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-09T15:02:33Z","to":"2026-04-09T15:02:32Z"}
+{"id":"13379329240","timestamp":"2026-01-09T16:16:49.418281459Z","domain":"*.adf.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-09T15:03:07Z","to":"2026-04-09T15:03:06Z"}
+{"id":"13379347945","timestamp":"2026-01-09T16:16:49.41828156Z","domain":"*.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-09T15:02:50Z","to":"2026-04-09T15:02:49Z"}
