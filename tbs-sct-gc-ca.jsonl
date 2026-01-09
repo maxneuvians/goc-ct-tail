@@ -1011,3 +1011,4 @@
 {"id":"13368150520","timestamp":"2026-01-08T20:39:06.229473071Z","domain":"tapx-claimsigner-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-01-08T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13368234197","timestamp":"2026-01-08T20:39:06.229473498Z","domain":"myaw-monlta-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-08T18:50:21Z","to":"2026-04-08T18:50:20Z"}
 {"id":"13368234197","timestamp":"2026-01-08T20:39:06.229473789Z","domain":"myaw-monlta-qa-backend.apim-dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-08T18:50:21Z","to":"2026-04-08T18:50:20Z"}
+{"id":"13377771708","timestamp":"2026-01-09T13:44:01.304301175Z","domain":"dev.hrdatahub-centrededonneesrh.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-09T00:00:00Z","to":"2027-02-09T23:59:59Z"}
