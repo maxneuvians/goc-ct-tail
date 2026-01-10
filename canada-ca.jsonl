@@ -14936,3 +14936,9 @@
 {"id":"13391848300","timestamp":"2026-01-10T17:15:35.347917133Z","domain":"notifications.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T15:32:59Z","to":"2026-04-10T15:32:58Z"}
 {"id":"13391852163","timestamp":"2026-01-10T17:15:35.347917213Z","domain":"titilerx.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T15:33:40Z","to":"2026-04-10T15:33:39Z"}
 {"id":"13391873697","timestamp":"2026-01-10T17:15:35.347917293Z","domain":"keycloak.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T15:38:09Z","to":"2026-04-10T15:38:08Z"}
+{"id":"13392322374","timestamp":"2026-01-10T18:17:04.021002815Z","domain":"prometheus.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T16:33:02Z","to":"2026-04-10T16:33:01Z"}
+{"id":"13392355556","timestamp":"2026-01-10T18:17:04.021003256Z","domain":"cipo.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T16:39:23Z","to":"2026-04-10T16:39:22Z"}
+{"id":"13392401975","timestamp":"2026-01-10T18:17:04.021003537Z","domain":"harbor.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T16:44:57Z","to":"2026-04-10T16:44:56Z"}
+{"id":"13392483454","timestamp":"2026-01-10T18:17:04.021003837Z","domain":"applicationhub.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T16:56:03Z","to":"2026-04-10T16:56:02Z"}
+{"id":"13392500195","timestamp":"2026-01-10T18:17:04.021003948Z","domain":"resource-catalogue.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T16:59:08Z","to":"2026-04-10T16:59:07Z"}
+{"id":"13392501762","timestamp":"2026-01-10T18:17:04.02100531Z","domain":"mlflow.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T16:59:09Z","to":"2026-04-10T16:59:08Z"}
