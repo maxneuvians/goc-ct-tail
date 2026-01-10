@@ -14918,3 +14918,6 @@
 {"id":"13383029449","timestamp":"2026-01-09T23:16:01.415154743Z","domain":"uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-09T21:47:10Z","to":"2026-04-09T21:47:09Z"}
 {"id":"13389189953","timestamp":"2026-01-10T11:15:35.822599876Z","domain":"database.bc16.exp.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T10:05:09Z","to":"2026-04-10T10:05:08Z"}
 {"id":"13389204203","timestamp":"2026-01-10T11:15:35.822600377Z","domain":"dashboard.bc16.exp.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T10:05:09Z","to":"2026-04-10T10:05:08Z"}
+{"id":"13391336653","timestamp":"2026-01-10T16:16:26.101650974Z","domain":"minio.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T14:36:41Z","to":"2026-04-10T14:36:40Z"}
+{"id":"13391340363","timestamp":"2026-01-10T16:16:26.101651295Z","domain":"console.minio.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T14:36:42Z","to":"2026-04-10T14:36:41Z"}
+{"id":"13391360642","timestamp":"2026-01-10T16:16:26.101651475Z","domain":"identity-api.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T14:38:08Z","to":"2026-04-10T14:38:07Z"}
