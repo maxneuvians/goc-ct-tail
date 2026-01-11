@@ -14946,3 +14946,7 @@
 {"id":"13399887982","timestamp":"2026-01-11T09:16:15.155338367Z","domain":"argo-workflow.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-11T07:45:51Z","to":"2026-04-11T07:45:50Z"}
 {"id":"13401069109","timestamp":"2026-01-11T12:17:29.210600699Z","domain":"resource-catalogue.ws-ekag.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-11T10:19:31Z","to":"2026-04-11T10:19:30Z"}
 {"id":"13401084703","timestamp":"2026-01-11T12:17:29.210601059Z","domain":"mlflow.ws-ekag.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-11T10:19:30Z","to":"2026-04-11T10:19:29Z"}
+{"id":"13402524512","timestamp":"2026-01-11T15:15:55.991720985Z","domain":"*.aurora.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-11T13:16:40Z","to":"2026-04-11T13:16:39Z"}
+{"id":"13402524512","timestamp":"2026-01-11T15:15:55.991721456Z","domain":"*.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-11T13:16:40Z","to":"2026-04-11T13:16:39Z"}
+{"id":"13402901810","timestamp":"2026-01-11T15:15:55.991721817Z","domain":"*.aurora.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-11T13:59:00Z","to":"2026-04-11T13:58:59Z"}
+{"id":"13402901810","timestamp":"2026-01-11T15:15:55.991722228Z","domain":"*.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-11T13:59:00Z","to":"2026-04-11T13:58:59Z"}
