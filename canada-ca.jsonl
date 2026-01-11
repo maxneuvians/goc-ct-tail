@@ -14943,3 +14943,4 @@
 {"id":"13392500195","timestamp":"2026-01-10T18:17:04.021003948Z","domain":"resource-catalogue.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T16:59:08Z","to":"2026-04-10T16:59:07Z"}
 {"id":"13392501762","timestamp":"2026-01-10T18:17:04.02100531Z","domain":"mlflow.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-10T16:59:09Z","to":"2026-04-10T16:59:08Z"}
 {"id":"13395511160","timestamp":"2026-01-11T00:45:08.529524297Z","domain":"gcmatarchive-api-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-11T00:00:00Z","to":"2027-02-09T23:59:59Z"}
+{"id":"13399887982","timestamp":"2026-01-11T09:16:15.155338367Z","domain":"argo-workflow.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-11T07:45:51Z","to":"2026-04-11T07:45:50Z"}
