@@ -14965,3 +14965,12 @@
 {"id":"13415446178","timestamp":"2026-01-12T16:17:03.079429399Z","domain":"*.dids.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T15:07:11Z","to":"2026-04-12T15:07:10Z"}
 {"id":"13415448053","timestamp":"2026-01-12T16:17:03.079429619Z","domain":"aqvc.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T15:07:10Z","to":"2026-04-12T15:07:09Z"}
 {"id":"13415449087","timestamp":"2026-01-12T16:17:03.079429799Z","domain":"didwebserver.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T15:07:25Z","to":"2026-04-12T15:07:24Z"}
+{"id":"13415761408","timestamp":"2026-01-12T17:16:57.225122821Z","domain":"*.cva-pbc.service.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415761408","timestamp":"2026-01-12T17:16:57.225123242Z","domain":"cva-pbc.service.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415761408","timestamp":"2026-01-12T17:16:57.225123482Z","domain":"*.cva-pbc.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415761408","timestamp":"2026-01-12T17:16:57.225123753Z","domain":"*.cva.service.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415761408","timestamp":"2026-01-12T17:16:57.225123843Z","domain":"cva.service.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415761408","timestamp":"2026-01-12T17:16:57.225125115Z","domain":"*.cva.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415761408","timestamp":"2026-01-12T17:16:57.225125195Z","domain":"*.pbc.service.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415761408","timestamp":"2026-01-12T17:16:57.225125266Z","domain":"pbc.service.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415761408","timestamp":"2026-01-12T17:16:57.225125346Z","domain":"*.pbc.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
