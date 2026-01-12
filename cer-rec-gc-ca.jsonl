@@ -357,3 +357,11 @@
 {"id":"12891766882","timestamp":"2025-11-27T16:55:46.156679109Z","domain":"cate-apps.rec-cer.gc.ca","issuer":"Sectigo","from":"2025-11-27T00:00:00Z","to":"2026-12-28T23:59:59Z"}
 {"id":"12891766882","timestamp":"2025-11-27T16:55:46.156679171Z","domain":"cate-apps.rec.gc.ca","issuer":"Sectigo","from":"2025-11-27T00:00:00Z","to":"2026-12-28T23:59:59Z"}
 {"id":"12893684877","timestamp":"2025-11-27T20:54:04.365538583Z","domain":"a0n2.cer-rec.gc.ca","issuer":"Sectigo","from":"2025-11-27T00:00:00Z","to":"2026-12-28T23:59:59Z"}
+{"id":"13415641976","timestamp":"2026-01-12T16:58:32.358766869Z","domain":"apps-api.cer-rec.gc.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415641976","timestamp":"2026-01-12T16:58:32.35876736Z","domain":"apps-api.neb-one.gc.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415641976","timestamp":"2026-01-12T16:58:32.35876769Z","domain":"papi1.cer-rec.gc.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415641976","timestamp":"2026-01-12T16:58:32.358767971Z","domain":"papi1.neb-one.gc.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415709379","timestamp":"2026-01-12T16:58:32.358768101Z","domain":"*.cer-rec.gc.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415709379","timestamp":"2026-01-12T16:58:32.358769163Z","domain":"cer-rec.gc.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415709379","timestamp":"2026-01-12T16:58:32.358769264Z","domain":"*.neb-one.gc.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13415709379","timestamp":"2026-01-12T16:58:32.358769364Z","domain":"neb-one.gc.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
