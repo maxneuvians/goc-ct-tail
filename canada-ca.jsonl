@@ -14961,3 +14961,7 @@
 {"id":"13414622082","timestamp":"2026-01-12T15:16:56.918170767Z","domain":"www.finance-prod-budget.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-01-12T00:00:00Z","to":"2026-07-12T23:59:59Z"}
 {"id":"13414972402","timestamp":"2026-01-12T15:16:56.918171358Z","domain":"*.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T14:08:37Z","to":"2026-04-12T14:08:36Z"}
 {"id":"13414972402","timestamp":"2026-01-12T15:16:56.918171709Z","domain":"*.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T14:08:37Z","to":"2026-04-12T14:08:36Z"}
+{"id":"13415436584","timestamp":"2026-01-12T16:17:03.079429018Z","domain":"portal.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T15:06:30Z","to":"2026-04-12T15:06:29Z"}
+{"id":"13415446178","timestamp":"2026-01-12T16:17:03.079429399Z","domain":"*.dids.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T15:07:11Z","to":"2026-04-12T15:07:10Z"}
+{"id":"13415448053","timestamp":"2026-01-12T16:17:03.079429619Z","domain":"aqvc.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T15:07:10Z","to":"2026-04-12T15:07:09Z"}
+{"id":"13415449087","timestamp":"2026-01-12T16:17:03.079429799Z","domain":"didwebserver.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T15:07:25Z","to":"2026-04-12T15:07:24Z"}
