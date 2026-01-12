@@ -14958,3 +14958,6 @@
 {"id":"13414350379","timestamp":"2026-01-12T14:16:54.983388919Z","domain":"service.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2026-04-12T23:59:59Z"}
 {"id":"13414437694","timestamp":"2026-01-12T14:16:54.98338937Z","domain":"*.alpha.service.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
 {"id":"13414437694","timestamp":"2026-01-12T14:16:54.983389631Z","domain":"alpha.service.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13414622082","timestamp":"2026-01-12T15:16:56.918170767Z","domain":"www.finance-prod-budget.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-01-12T00:00:00Z","to":"2026-07-12T23:59:59Z"}
+{"id":"13414972402","timestamp":"2026-01-12T15:16:56.918171358Z","domain":"*.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T14:08:37Z","to":"2026-04-12T14:08:36Z"}
+{"id":"13414972402","timestamp":"2026-01-12T15:16:56.918171709Z","domain":"*.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T14:08:37Z","to":"2026-04-12T14:08:36Z"}
