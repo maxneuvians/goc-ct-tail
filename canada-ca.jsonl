@@ -14955,3 +14955,6 @@
 {"id":"13407994802","timestamp":"2026-01-12T01:45:32.250213375Z","domain":"tc.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T00:01:46Z","to":"2026-04-12T00:01:45Z"}
 {"id":"13409383027","timestamp":"2026-01-12T04:32:14.033768712Z","domain":"scimapdev.exp.innovation.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-01-12T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13413512483","timestamp":"2026-01-12T13:26:36.417775548Z","domain":"iscwp.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T11:11:51Z","to":"2026-04-12T11:11:50Z"}
+{"id":"13414350379","timestamp":"2026-01-12T14:16:54.983388919Z","domain":"service.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2026-04-12T23:59:59Z"}
+{"id":"13414437694","timestamp":"2026-01-12T14:16:54.98338937Z","domain":"*.alpha.service.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13414437694","timestamp":"2026-01-12T14:16:54.983389631Z","domain":"alpha.service.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
