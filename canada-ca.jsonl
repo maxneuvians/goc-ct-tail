@@ -14974,3 +14974,6 @@
 {"id":"13415761408","timestamp":"2026-01-12T17:16:57.225125195Z","domain":"*.pbc.service.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
 {"id":"13415761408","timestamp":"2026-01-12T17:16:57.225125266Z","domain":"pbc.service.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
 {"id":"13415761408","timestamp":"2026-01-12T17:16:57.225125346Z","domain":"*.pbc.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13417430915","timestamp":"2026-01-12T20:16:38.161690585Z","domain":"test1.aurora.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T19:05:59Z","to":"2026-04-12T19:05:58Z"}
+{"id":"13417476124","timestamp":"2026-01-12T20:16:38.161691036Z","domain":"*.aurora.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T19:10:48Z","to":"2026-04-12T19:10:47Z"}
+{"id":"13417476124","timestamp":"2026-01-12T20:16:38.161691317Z","domain":"*.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T19:10:48Z","to":"2026-04-12T19:10:47Z"}
