@@ -14951,3 +14951,5 @@
 {"id":"13402901810","timestamp":"2026-01-11T15:15:55.991721817Z","domain":"*.aurora.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-11T13:59:00Z","to":"2026-04-11T13:58:59Z"}
 {"id":"13402901810","timestamp":"2026-01-11T15:15:55.991722228Z","domain":"*.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-11T13:59:00Z","to":"2026-04-11T13:58:59Z"}
 {"id":"13407498637","timestamp":"2026-01-12T00:43:03.124486454Z","domain":"gac-amc-sso-au-cate.canada.ca","issuer":"DigiCert","from":"2026-01-12T00:00:00Z","to":"2026-07-12T23:59:59Z"}
+{"id":"13407994802","timestamp":"2026-01-12T01:45:32.250213004Z","domain":"*.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T00:01:46Z","to":"2026-04-12T00:01:45Z"}
+{"id":"13407994802","timestamp":"2026-01-12T01:45:32.250213375Z","domain":"tc.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T00:01:46Z","to":"2026-04-12T00:01:45Z"}
