@@ -1017,3 +1017,7 @@
 {"id":"13416257705","timestamp":"2026-01-12T18:45:07.571584136Z","domain":"sitefinityrenderer-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-12T16:41:44Z","to":"2026-04-12T16:41:43Z"}
 {"id":"13416547008","timestamp":"2026-01-12T18:45:07.571584437Z","domain":"sitefinity-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-12T17:20:16Z","to":"2026-04-12T17:20:15Z"}
 {"id":"13416547008","timestamp":"2026-01-12T18:45:07.571584738Z","domain":"sitefinityrenderer-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-12T17:20:16Z","to":"2026-04-12T17:20:15Z"}
+{"id":"13417781579","timestamp":"2026-01-12T21:36:42.226899223Z","domain":"tapx-claimsigner-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-12T19:48:45Z","to":"2026-04-12T19:48:44Z"}
+{"id":"13417781579","timestamp":"2026-01-12T21:36:42.226899634Z","domain":"tapx-rolemanagerapp-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-12T19:48:45Z","to":"2026-04-12T19:48:44Z"}
+{"id":"13417781579","timestamp":"2026-01-12T21:36:42.226899905Z","domain":"tapx-rolemanager-qa-backend.apim-dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-12T19:48:45Z","to":"2026-04-12T19:48:44Z"}
+{"id":"13417781579","timestamp":"2026-01-12T21:36:42.226900135Z","domain":"tapx-tiv-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-12T19:48:45Z","to":"2026-04-12T19:48:44Z"}
