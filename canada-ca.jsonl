@@ -14977,3 +14977,9 @@
 {"id":"13417430915","timestamp":"2026-01-12T20:16:38.161690585Z","domain":"test1.aurora.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T19:05:59Z","to":"2026-04-12T19:05:58Z"}
 {"id":"13417476124","timestamp":"2026-01-12T20:16:38.161691036Z","domain":"*.aurora.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T19:10:48Z","to":"2026-04-12T19:10:47Z"}
 {"id":"13417476124","timestamp":"2026-01-12T20:16:38.161691317Z","domain":"*.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T19:10:48Z","to":"2026-04-12T19:10:47Z"}
+{"id":"13418075656","timestamp":"2026-01-12T22:15:48.146358107Z","domain":"test1.aurora.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T20:27:31Z","to":"2026-04-12T20:27:30Z"}
+{"id":"13418136036","timestamp":"2026-01-12T22:15:48.146358468Z","domain":"*.aurora.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T20:34:58Z","to":"2026-04-12T20:34:57Z"}
+{"id":"13418136036","timestamp":"2026-01-12T22:15:48.146358698Z","domain":"*.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T20:34:58Z","to":"2026-04-12T20:34:57Z"}
+{"id":"13418181419","timestamp":"2026-01-12T22:15:48.146358899Z","domain":"test1.aurora.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T20:43:13Z","to":"2026-04-12T20:43:12Z"}
+{"id":"13418220669","timestamp":"2026-01-12T22:15:48.146358979Z","domain":"*.aurora.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T20:46:56Z","to":"2026-04-12T20:46:55Z"}
+{"id":"13418220669","timestamp":"2026-01-12T22:15:48.146359911Z","domain":"*.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-12T20:46:56Z","to":"2026-04-12T20:46:55Z"}
