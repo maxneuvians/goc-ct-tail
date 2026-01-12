@@ -3387,7 +3387,12 @@
       "Let's Encrypt": 26
     },
     "2026-01-11": {
-      "Amazon Trust Services": 1
+      "Amazon Trust Services": 1,
+      "Let's Encrypt": 7
+    },
+    "2026-01-12": {
+      "DigiCert": 2,
+      "Let's Encrypt": 2
     }
   },
   "errors": []
