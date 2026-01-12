@@ -1013,3 +1013,7 @@
 {"id":"13368234197","timestamp":"2026-01-08T20:39:06.229473789Z","domain":"myaw-monlta-qa-backend.apim-dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-08T18:50:21Z","to":"2026-04-08T18:50:20Z"}
 {"id":"13377771708","timestamp":"2026-01-09T13:44:01.304301175Z","domain":"dev.hrdatahub-centrededonneesrh.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-09T00:00:00Z","to":"2027-02-09T23:59:59Z"}
 {"id":"13379229172","timestamp":"2026-01-09T16:42:39.572458769Z","domain":"qa.tapsts.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-09T00:00:00Z","to":"2027-02-09T23:59:59Z"}
+{"id":"13416257705","timestamp":"2026-01-12T18:45:07.571583615Z","domain":"sitefinity-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-12T16:41:44Z","to":"2026-04-12T16:41:43Z"}
+{"id":"13416257705","timestamp":"2026-01-12T18:45:07.571584136Z","domain":"sitefinityrenderer-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-12T16:41:44Z","to":"2026-04-12T16:41:43Z"}
+{"id":"13416547008","timestamp":"2026-01-12T18:45:07.571584437Z","domain":"sitefinity-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-12T17:20:16Z","to":"2026-04-12T17:20:15Z"}
+{"id":"13416547008","timestamp":"2026-01-12T18:45:07.571584738Z","domain":"sitefinityrenderer-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-12T17:20:16Z","to":"2026-04-12T17:20:15Z"}
