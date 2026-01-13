@@ -1034,3 +1034,7 @@
 {"id":"13427850073","timestamp":"2026-01-13T17:41:40.20771039Z","domain":"v3-calipersplusapi-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:31:51Z","to":"2026-04-13T16:31:50Z"}
 {"id":"13427868562","timestamp":"2026-01-13T17:41:40.207711882Z","domain":"v3-calipersplusapi-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:34:25Z","to":"2026-04-13T16:34:24Z"}
 {"id":"13427868562","timestamp":"2026-01-13T17:41:40.207711991Z","domain":"v3-calipersplus-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:34:25Z","to":"2026-04-13T16:34:24Z"}
+{"id":"13427898072","timestamp":"2026-01-13T18:44:14.662124586Z","domain":"v3-cwf-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:38:28Z","to":"2026-04-13T16:38:27Z"}
+{"id":"13427950810","timestamp":"2026-01-13T18:44:14.662125448Z","domain":"v3-eepr-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:46:42Z","to":"2026-04-13T16:46:41Z"}
+{"id":"13427986359","timestamp":"2026-01-13T18:44:14.662125668Z","domain":"myaw-monlta-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:50:10Z","to":"2026-04-13T16:50:09Z"}
+{"id":"13428063972","timestamp":"2026-01-13T18:44:14.662125919Z","domain":"selfid-autoid-api-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T17:00:04Z","to":"2026-04-13T17:00:03Z"}
