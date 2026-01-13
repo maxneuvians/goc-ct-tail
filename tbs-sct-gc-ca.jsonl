@@ -1023,3 +1023,14 @@
 {"id":"13417781579","timestamp":"2026-01-12T21:36:42.226900135Z","domain":"tapx-tiv-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-12T19:48:45Z","to":"2026-04-12T19:48:44Z"}
 {"id":"13425770826","timestamp":"2026-01-13T13:45:50.746766763Z","domain":"v3-pbi-itexp-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-01-13T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13427361515","timestamp":"2026-01-13T16:44:21.920526248Z","domain":"v3-pbi-hrap-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T15:36:38Z","to":"2026-04-13T15:36:37Z"}
+{"id":"13427401420","timestamp":"2026-01-13T17:41:40.207708064Z","domain":"v3-pbi-itexp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T15:39:53Z","to":"2026-04-13T15:39:52Z"}
+{"id":"13427460077","timestamp":"2026-01-13T17:41:40.207708568Z","domain":"v3-pbi-mental-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T15:44:49Z","to":"2026-04-13T15:44:48Z"}
+{"id":"13427568638","timestamp":"2026-01-13T17:41:40.207708831Z","domain":"v3-pbi-pcis-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T15:58:23Z","to":"2026-04-13T15:58:22Z"}
+{"id":"13427608117","timestamp":"2026-01-13T17:41:40.207709082Z","domain":"v3-pbi-pses-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:01:40Z","to":"2026-04-13T16:01:39Z"}
+{"id":"13427681234","timestamp":"2026-01-13T17:41:40.207709192Z","domain":"v3-pbi-pspmr-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:09:03Z","to":"2026-04-13T16:09:02Z"}
+{"id":"13427692577","timestamp":"2026-01-13T17:41:40.207710095Z","domain":"v3-pbi-trd-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:12:00Z","to":"2026-04-13T16:11:59Z"}
+{"id":"13427745682","timestamp":"2026-01-13T17:41:40.207710209Z","domain":"v3-quessvc-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:16:34Z","to":"2026-04-13T16:16:33Z"}
+{"id":"13427768561","timestamp":"2026-01-13T17:41:40.207710315Z","domain":"v3-calipersplusapi-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:20:20Z","to":"2026-04-13T16:20:19Z"}
+{"id":"13427850073","timestamp":"2026-01-13T17:41:40.20771039Z","domain":"v3-calipersplusapi-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:31:51Z","to":"2026-04-13T16:31:50Z"}
+{"id":"13427868562","timestamp":"2026-01-13T17:41:40.207711882Z","domain":"v3-calipersplusapi-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:34:25Z","to":"2026-04-13T16:34:24Z"}
+{"id":"13427868562","timestamp":"2026-01-13T17:41:40.207711991Z","domain":"v3-calipersplus-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:34:25Z","to":"2026-04-13T16:34:24Z"}
