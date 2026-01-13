@@ -3391,8 +3391,12 @@
       "Let's Encrypt": 7
     },
     "2026-01-12": {
-      "DigiCert": 2,
-      "Let's Encrypt": 2
+      "DigiCert": 3,
+      "Let's Encrypt": 19,
+      "Sectigo": 12
+    },
+    "2026-01-13": {
+      "Let's Encrypt": 36
     }
   },
   "errors": []
