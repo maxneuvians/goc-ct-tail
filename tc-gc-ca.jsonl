@@ -373,3 +373,5 @@
 {"id":"13340344125","timestamp":"2026-01-06T15:16:24.485199794Z","domain":"pickering.tc.gc.ca","issuer":"Sectigo","from":"2026-01-06T00:00:00Z","to":"2027-02-06T23:59:59Z"}
 {"id":"13419717516","timestamp":"2026-01-13T01:45:04.878021234Z","domain":"*.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T00:01:45Z","to":"2026-04-13T00:01:44Z"}
 {"id":"13419717516","timestamp":"2026-01-13T01:45:04.878021635Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T00:01:45Z","to":"2026-04-13T00:01:44Z"}
+{"id":"13427476699","timestamp":"2026-01-13T17:17:24.402699541Z","domain":"gmtc.tc.gc.ca","issuer":"Sectigo","from":"2026-01-13T00:00:00Z","to":"2027-02-13T23:59:59Z"}
+{"id":"13427476699","timestamp":"2026-01-13T17:17:24.402699942Z","domain":"tcmm.tc.gc.ca","issuer":"Sectigo","from":"2026-01-13T00:00:00Z","to":"2027-02-13T23:59:59Z"}
