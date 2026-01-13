@@ -15030,3 +15030,9 @@
 {"id":"13425585443","timestamp":"2026-01-13T13:25:47.88139946Z","domain":"species-registry.canada.ca","issuer":"Sectigo","from":"2026-01-13T00:00:00Z","to":"2027-02-13T23:59:59Z"}
 {"id":"13426589424","timestamp":"2026-01-13T15:16:43.548690905Z","domain":"sds.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T14:02:11Z","to":"2026-04-13T14:02:10Z"}
 {"id":"13427047995","timestamp":"2026-01-13T16:17:18.178345349Z","domain":"cprs-sipc-uat.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-01-13T00:00:00Z","to":"2027-02-13T23:59:59Z"}
+{"id":"13427230137","timestamp":"2026-01-13T17:17:22.928516587Z","domain":"vault.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T15:19:35Z","to":"2026-04-13T15:19:34Z"}
+{"id":"13427492226","timestamp":"2026-01-13T17:17:22.928516958Z","domain":"argocd.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T15:50:38Z","to":"2026-04-13T15:50:37Z"}
+{"id":"13427505985","timestamp":"2026-01-13T17:17:22.928517179Z","domain":"mlflow.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T15:51:35Z","to":"2026-04-13T15:51:34Z"}
+{"id":"13427509961","timestamp":"2026-01-13T17:17:22.928517389Z","domain":"triton.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T15:51:37Z","to":"2026-04-13T15:51:36Z"}
+{"id":"13427512118","timestamp":"2026-01-13T17:17:22.928517479Z","domain":"hubble.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T15:50:38Z","to":"2026-04-13T15:50:37Z"}
+{"id":"13427573407","timestamp":"2026-01-13T17:17:22.928518641Z","domain":"*.dnd-dev-srt.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T15:59:32Z","to":"2026-04-13T15:59:31Z"}
