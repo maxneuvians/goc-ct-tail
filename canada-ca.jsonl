@@ -15026,3 +15026,5 @@
 {"id":"13422663431","timestamp":"2026-01-13T08:17:12.095641207Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T06:25:59Z","to":"2026-04-13T06:25:58Z"}
 {"id":"13422663431","timestamp":"2026-01-13T08:17:12.095641397Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T06:25:59Z","to":"2026-04-13T06:25:58Z"}
 {"id":"13423600665","timestamp":"2026-01-13T10:16:29.863590061Z","domain":"uat.pch-financement.canada.ca","issuer":"DigiCert","from":"2026-01-13T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13425585443","timestamp":"2026-01-13T13:25:47.881399129Z","domain":"registre-especes.canada.ca","issuer":"Sectigo","from":"2026-01-13T00:00:00Z","to":"2027-02-13T23:59:59Z"}
+{"id":"13425585443","timestamp":"2026-01-13T13:25:47.88139946Z","domain":"species-registry.canada.ca","issuer":"Sectigo","from":"2026-01-13T00:00:00Z","to":"2027-02-13T23:59:59Z"}
