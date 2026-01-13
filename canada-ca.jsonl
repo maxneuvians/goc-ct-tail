@@ -15025,3 +15025,4 @@
 {"id":"13422652846","timestamp":"2026-01-13T08:17:12.095640986Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T06:24:55Z","to":"2026-04-13T06:24:54Z"}
 {"id":"13422663431","timestamp":"2026-01-13T08:17:12.095641207Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T06:25:59Z","to":"2026-04-13T06:25:58Z"}
 {"id":"13422663431","timestamp":"2026-01-13T08:17:12.095641397Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T06:25:59Z","to":"2026-04-13T06:25:58Z"}
+{"id":"13423600665","timestamp":"2026-01-13T10:16:29.863590061Z","domain":"uat.pch-financement.canada.ca","issuer":"DigiCert","from":"2026-01-13T00:00:00Z","to":"2026-04-14T23:59:59Z"}
