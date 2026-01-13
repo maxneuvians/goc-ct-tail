@@ -15021,3 +15021,7 @@
 {"id":"13420483273","timestamp":"2026-01-13T03:43:16.124696296Z","domain":"*.prort-orlrtc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T01:44:52Z","to":"2026-04-13T01:44:51Z"}
 {"id":"13420483273","timestamp":"2026-01-13T03:43:16.124696366Z","domain":"prort-orlrtc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T01:44:52Z","to":"2026-04-13T01:44:51Z"}
 {"id":"13422167990","timestamp":"2026-01-13T07:17:07.060581952Z","domain":"incident-forwarder.mgmt.experimentation.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-01-13T05:20:48Z","to":"2026-04-13T06:16:41Z"}
+{"id":"13422652846","timestamp":"2026-01-13T08:17:12.095640395Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T06:24:55Z","to":"2026-04-13T06:24:54Z"}
+{"id":"13422652846","timestamp":"2026-01-13T08:17:12.095640986Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T06:24:55Z","to":"2026-04-13T06:24:54Z"}
+{"id":"13422663431","timestamp":"2026-01-13T08:17:12.095641207Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T06:25:59Z","to":"2026-04-13T06:25:58Z"}
+{"id":"13422663431","timestamp":"2026-01-13T08:17:12.095641397Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-13T06:25:59Z","to":"2026-04-13T06:25:58Z"}
