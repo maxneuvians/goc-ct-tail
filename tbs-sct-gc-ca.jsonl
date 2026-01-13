@@ -1038,3 +1038,8 @@
 {"id":"13427950810","timestamp":"2026-01-13T18:44:14.662125448Z","domain":"v3-eepr-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:46:42Z","to":"2026-04-13T16:46:41Z"}
 {"id":"13427986359","timestamp":"2026-01-13T18:44:14.662125668Z","domain":"myaw-monlta-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T16:50:10Z","to":"2026-04-13T16:50:09Z"}
 {"id":"13428063972","timestamp":"2026-01-13T18:44:14.662125919Z","domain":"selfid-autoid-api-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T17:00:04Z","to":"2026-04-13T17:00:03Z"}
+{"id":"13429163342","timestamp":"2026-01-13T20:39:18.17473873Z","domain":"sitefinity-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T19:13:24Z","to":"2026-04-13T19:13:23Z"}
+{"id":"13429163342","timestamp":"2026-01-13T20:39:18.17473908Z","domain":"sitefinityrenderer-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T19:13:24Z","to":"2026-04-13T19:13:23Z"}
+{"id":"13429223221","timestamp":"2026-01-13T20:39:18.174739311Z","domain":"tapx-claimsigner-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T19:20:55Z","to":"2026-04-13T19:20:54Z"}
+{"id":"13429252522","timestamp":"2026-01-13T20:39:18.174739561Z","domain":"tapx-rolemanagerapp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T19:25:37Z","to":"2026-04-13T19:25:36Z"}
+{"id":"13429293329","timestamp":"2026-01-13T20:39:18.174739651Z","domain":"tapx-tiv-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-13T19:31:16Z","to":"2026-04-13T19:31:15Z"}
