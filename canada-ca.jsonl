@@ -15058,3 +15058,13 @@
 {"id":"13433615145","timestamp":"2026-01-14T06:17:31.416982685Z","domain":"marine-geo.canada.ca","issuer":"Sectigo","from":"2026-01-14T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13434774389","timestamp":"2026-01-14T09:17:29.847869271Z","domain":"canchat-v2.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-14T07:21:41Z","to":"2026-04-14T07:21:40Z"}
 {"id":"13437281167","timestamp":"2026-01-14T14:16:57.51010205Z","domain":"canary-workload.ssc-spc.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-01-14T12:46:53Z","to":"2026-04-14T13:41:46Z"}
+{"id":"13437857843","timestamp":"2026-01-14T15:16:58.379885056Z","domain":"beta.canada.ca","issuer":"Sectigo","from":"2026-01-14T00:00:00Z","to":"2027-02-14T23:59:59Z"}
+{"id":"13437857843","timestamp":"2026-01-14T15:16:58.379885433Z","domain":"canada.ca","issuer":"Sectigo","from":"2026-01-14T00:00:00Z","to":"2027-02-14T23:59:59Z"}
+{"id":"13437857843","timestamp":"2026-01-14T15:16:58.379885743Z","domain":"canada.gc.ca","issuer":"Sectigo","from":"2026-01-14T00:00:00Z","to":"2027-02-14T23:59:59Z"}
+{"id":"13437857843","timestamp":"2026-01-14T15:16:58.379885971Z","domain":"wap.gc.ca","issuer":"Sectigo","from":"2026-01-14T00:00:00Z","to":"2027-02-14T23:59:59Z"}
+{"id":"13437857843","timestamp":"2026-01-14T15:16:58.379886047Z","domain":"www1.canada.ca","issuer":"Sectigo","from":"2026-01-14T00:00:00Z","to":"2027-02-14T23:59:59Z"}
+{"id":"13437857843","timestamp":"2026-01-14T15:16:58.379887001Z","domain":"www.beta.canada.ca","issuer":"Sectigo","from":"2026-01-14T00:00:00Z","to":"2027-02-14T23:59:59Z"}
+{"id":"13437857843","timestamp":"2026-01-14T15:16:58.379887106Z","domain":"www.canada.gc.ca","issuer":"Sectigo","from":"2026-01-14T00:00:00Z","to":"2027-02-14T23:59:59Z"}
+{"id":"13437857843","timestamp":"2026-01-14T15:16:58.379887198Z","domain":"www.gc.ca","issuer":"Sectigo","from":"2026-01-14T00:00:00Z","to":"2027-02-14T23:59:59Z"}
+{"id":"13437857843","timestamp":"2026-01-14T15:16:58.379887291Z","domain":"www.wap.gc.ca","issuer":"Sectigo","from":"2026-01-14T00:00:00Z","to":"2027-02-14T23:59:59Z"}
+{"id":"13437857843","timestamp":"2026-01-14T15:16:58.379888623Z","domain":"www.www1.canada.ca","issuer":"Sectigo","from":"2026-01-14T00:00:00Z","to":"2027-02-14T23:59:59Z"}
