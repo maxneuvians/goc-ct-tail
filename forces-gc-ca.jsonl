@@ -2152,3 +2152,9 @@
 {"id":"13346444734","timestamp":"2026-01-07T02:49:22.929718611Z","domain":"portal-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2026-01-07T01:36:51Z","to":"2026-04-07T02:31:25Z"}
 {"id":"13413762614","timestamp":"2026-01-12T13:26:38.758132379Z","domain":"insights.stg.ntg-gim.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
 {"id":"13413762614","timestamp":"2026-01-12T13:26:38.758132703Z","domain":"perspicace.stg.ntg-gim.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-01-12T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13437640155","timestamp":"2026-01-14T15:16:57.278933604Z","domain":"*.betak.tools.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-01-14T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13437640155","timestamp":"2026-01-14T15:16:57.278933995Z","domain":"betak.tools.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-01-14T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13437640155","timestamp":"2026-01-14T15:16:57.278934275Z","domain":"*.tools.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-01-14T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13437640155","timestamp":"2026-01-14T15:16:57.278934576Z","domain":"tools.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-01-14T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13437656403","timestamp":"2026-01-14T15:16:57.278934706Z","domain":"*.betak.tools.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-01-14T00:00:00Z","to":"2027-02-12T23:59:59Z"}
+{"id":"13437656403","timestamp":"2026-01-14T15:16:57.278936038Z","domain":"betak.tools.tak-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-01-14T00:00:00Z","to":"2027-02-12T23:59:59Z"}
