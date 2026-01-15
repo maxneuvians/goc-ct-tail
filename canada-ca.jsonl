@@ -15082,3 +15082,5 @@
 {"id":"13445530181","timestamp":"2026-01-15T08:17:25.243832656Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T06:25:57Z","to":"2026-04-15T06:25:56Z"}
 {"id":"13445730939","timestamp":"2026-01-15T08:17:25.243832779Z","domain":"msca-ng-web-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T06:56:14Z","to":"2026-04-15T06:56:13Z"}
 {"id":"13445970808","timestamp":"2026-01-15T09:17:26.687608421Z","domain":"dev.eolakewatch.exp.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-01-15T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13449128073","timestamp":"2026-01-15T15:16:47.257442839Z","domain":"canchat.mpo.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T14:08:45Z","to":"2026-04-15T14:08:44Z"}
+{"id":"13449137136","timestamp":"2026-01-15T15:16:47.257443861Z","domain":"canchat.ssc.mpo.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T14:09:19Z","to":"2026-04-15T14:09:18Z"}
