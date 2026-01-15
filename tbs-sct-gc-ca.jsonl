@@ -1051,3 +1051,5 @@
 {"id":"13434456586","timestamp":"2026-01-14T08:44:11.303912496Z","domain":"v3-calipersplusapi-backend.qa.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-01-14T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13440980274","timestamp":"2026-01-14T22:39:44.355578458Z","domain":"solr-devapp01.dev.t1.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-14T00:00:00Z","to":"2027-02-14T23:59:59Z"}
 {"id":"13440980274","timestamp":"2026-01-14T22:39:44.355578758Z","domain":"solr.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-14T00:00:00Z","to":"2027-02-14T23:59:59Z"}
+{"id":"13452050307","timestamp":"2026-01-15T21:36:50.808221994Z","domain":"wfm-gde.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-15T00:00:00Z","to":"2027-02-15T23:59:59Z"}
+{"id":"13452050307","timestamp":"2026-01-15T21:36:50.808222465Z","domain":"wfm-gde.uat.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-15T00:00:00Z","to":"2027-02-15T23:59:59Z"}
