@@ -15097,3 +15097,7 @@
 {"id":"13450880213","timestamp":"2026-01-15T19:17:02.985152812Z","domain":"dev.dam.explorer-marche-travail.service.canada.ca","issuer":"DigiCert","from":"2026-01-15T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13451426156","timestamp":"2026-01-15T20:16:40.093309182Z","domain":"mlflow.ws-tolowonyo.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T18:53:34Z","to":"2026-04-15T18:53:33Z"}
 {"id":"13451437375","timestamp":"2026-01-15T20:16:40.093309512Z","domain":"resource-catalogue.ws-tolowonyo.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T18:53:34Z","to":"2026-04-15T18:53:33Z"}
+{"id":"13451603807","timestamp":"2026-01-15T21:16:13.211515844Z","domain":"*.cra-arc.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-15T00:00:00Z","to":"2027-02-13T23:59:59Z"}
+{"id":"13451603807","timestamp":"2026-01-15T21:16:13.211516294Z","domain":"cra-arc.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-15T00:00:00Z","to":"2027-02-13T23:59:59Z"}
+{"id":"13451687854","timestamp":"2026-01-15T21:16:13.211516555Z","domain":"*.cra-arc.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-15T00:00:00Z","to":"2027-02-13T23:59:59Z"}
+{"id":"13451687854","timestamp":"2026-01-15T21:16:13.211516755Z","domain":"cra-arc.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-15T00:00:00Z","to":"2027-02-13T23:59:59Z"}
