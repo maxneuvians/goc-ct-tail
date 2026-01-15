@@ -15089,3 +15089,7 @@
 {"id":"13449298182","timestamp":"2026-01-15T16:17:54.729751459Z","domain":"dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-15T14:30:19Z","to":"2026-04-15T14:30:18Z"}
 {"id":"13449377002","timestamp":"2026-01-15T16:17:54.729751779Z","domain":"dev.api.explorer-marche-travail.service.canada.ca","issuer":"DigiCert","from":"2026-01-15T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13449589778","timestamp":"2026-01-15T16:17:54.729751889Z","domain":"rp1-oidc.id.alpha.canada.ca","issuer":"DigiCert","from":"2026-01-15T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13449698206","timestamp":"2026-01-15T17:19:52.459728595Z","domain":"036f8fa8dca9b113.d7f512adf05258c2.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T15:17:06Z","to":"2026-04-15T15:17:05Z"}
+{"id":"13449698206","timestamp":"2026-01-15T17:19:52.459731661Z","domain":"dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T15:17:06Z","to":"2026-04-15T15:17:05Z"}
+{"id":"13449698206","timestamp":"2026-01-15T17:19:52.459731932Z","domain":"dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-15T15:17:06Z","to":"2026-04-15T15:17:05Z"}
+{"id":"13450146557","timestamp":"2026-01-15T17:19:52.459732232Z","domain":"whoami.mpo.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T16:14:16Z","to":"2026-04-15T16:14:15Z"}
