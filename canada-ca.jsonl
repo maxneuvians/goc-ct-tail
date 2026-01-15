@@ -15101,3 +15101,8 @@
 {"id":"13451603807","timestamp":"2026-01-15T21:16:13.211516294Z","domain":"cra-arc.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-15T00:00:00Z","to":"2027-02-13T23:59:59Z"}
 {"id":"13451687854","timestamp":"2026-01-15T21:16:13.211516555Z","domain":"*.cra-arc.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-15T00:00:00Z","to":"2027-02-13T23:59:59Z"}
 {"id":"13451687854","timestamp":"2026-01-15T21:16:13.211516755Z","domain":"cra-arc.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-15T00:00:00Z","to":"2027-02-13T23:59:59Z"}
+{"id":"13452526403","timestamp":"2026-01-15T23:16:14.915834717Z","domain":"incident-forwarder.mgmt.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-01-15T21:17:23Z","to":"2026-04-15T22:13:18Z"}
+{"id":"13452612668","timestamp":"2026-01-15T23:16:14.915835157Z","domain":"lyris.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T21:31:13Z","to":"2026-04-15T21:31:12Z"}
+{"id":"13452661125","timestamp":"2026-01-15T23:16:14.915835498Z","domain":"3a7bb0f912fcbad8.2adbd82ae4a7b3c3.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T21:36:54Z","to":"2026-04-15T21:36:53Z"}
+{"id":"13452661125","timestamp":"2026-01-15T23:16:14.915836169Z","domain":"dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T21:36:54Z","to":"2026-04-15T21:36:53Z"}
+{"id":"13452661125","timestamp":"2026-01-15T23:16:14.915836259Z","domain":"dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-15T21:36:54Z","to":"2026-04-15T21:36:53Z"}
