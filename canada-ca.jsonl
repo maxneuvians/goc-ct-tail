@@ -15076,3 +15076,8 @@
 {"id":"13444560441","timestamp":"2026-01-15T06:17:17.830842195Z","domain":"ipam.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T04:19:30Z","to":"2026-04-15T04:19:29Z"}
 {"id":"13445062656","timestamp":"2026-01-15T07:17:05.730225231Z","domain":"gccatalogue.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T05:31:41Z","to":"2026-04-15T05:31:40Z"}
 {"id":"13445338459","timestamp":"2026-01-15T07:17:05.730225683Z","domain":"canchat-smg.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T06:03:45Z","to":"2026-04-15T06:03:44Z"}
+{"id":"13445504932","timestamp":"2026-01-15T08:17:25.243831681Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T06:26:42Z","to":"2026-04-15T06:26:41Z"}
+{"id":"13445504932","timestamp":"2026-01-15T08:17:25.243832086Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T06:26:42Z","to":"2026-04-15T06:26:41Z"}
+{"id":"13445530181","timestamp":"2026-01-15T08:17:25.243832387Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T06:25:57Z","to":"2026-04-15T06:25:56Z"}
+{"id":"13445530181","timestamp":"2026-01-15T08:17:25.243832656Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T06:25:57Z","to":"2026-04-15T06:25:56Z"}
+{"id":"13445730939","timestamp":"2026-01-15T08:17:25.243832779Z","domain":"msca-ng-web-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-01-15T06:56:14Z","to":"2026-04-15T06:56:13Z"}
