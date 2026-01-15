@@ -3403,7 +3403,10 @@
     },
     "2026-01-14": {
       "Amazon Trust Services": 1,
-      "DigiCert": 1
+      "DigiCert": 2,
+      "Sectigo": 13,
+      "Let's Encrypt": 3,
+      "Google Trust Services": 1
     }
   },
   "errors": []
