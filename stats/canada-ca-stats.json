@@ -3407,6 +3407,15 @@
       "Sectigo": 13,
       "Let's Encrypt": 3,
       "Google Trust Services": 1
+    },
+    "2026-01-15": {
+      "Let's Encrypt": 25,
+      "DigiCert": 4,
+      "Amazon Trust Services": 4,
+      "Google Trust Services": 1
+    },
+    "2026-01-16": {
+      "DigiCert": 1
     }
   },
   "errors": []
