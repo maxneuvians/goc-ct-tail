@@ -15121,3 +15121,8 @@
 {"id":"13459951225","timestamp":"2026-01-16T15:16:35.969643718Z","domain":"vaccin-covid.canada.ca","issuer":"Google Trust Services","from":"2026-01-16T14:04:51Z","to":"2026-04-16T15:04:48Z"}
 {"id":"13460101179","timestamp":"2026-01-16T16:16:57.989364683Z","domain":"mlflow.ws-jlajoie.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-16T14:31:03Z","to":"2026-04-16T14:31:02Z"}
 {"id":"13460104351","timestamp":"2026-01-16T16:16:57.989365013Z","domain":"resource-catalogue.ws-jlajoie.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-16T14:31:02Z","to":"2026-04-16T14:31:01Z"}
+{"id":"13461332913","timestamp":"2026-01-16T19:16:17.221345203Z","domain":"*.hydro.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-16T17:18:36Z","to":"2026-04-16T17:18:35Z"}
+{"id":"13461332913","timestamp":"2026-01-16T19:16:17.221345724Z","domain":"hydro.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-16T17:18:36Z","to":"2026-04-16T17:18:35Z"}
+{"id":"13461382486","timestamp":"2026-01-16T19:16:17.221346075Z","domain":"*.hydro.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-16T17:24:41Z","to":"2026-04-16T17:24:40Z"}
+{"id":"13461382486","timestamp":"2026-01-16T19:16:17.221346325Z","domain":"hydro.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-16T17:24:41Z","to":"2026-04-16T17:24:40Z"}
+{"id":"13461501959","timestamp":"2026-01-16T19:16:17.221346475Z","domain":"litellm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-16T17:39:40Z","to":"2026-04-16T17:39:39Z"}
