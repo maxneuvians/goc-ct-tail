@@ -15119,3 +15119,5 @@
 {"id":"13459463308","timestamp":"2026-01-16T14:16:39.453535101Z","domain":"elvis-celine-dev1.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-16T00:00:00Z","to":"2027-02-14T23:59:59Z"}
 {"id":"13459935179","timestamp":"2026-01-16T15:16:35.969643377Z","domain":"vaccin-covid.canada.ca","issuer":"Google Trust Services","from":"2026-01-16T14:04:42Z","to":"2026-04-16T15:03:36Z"}
 {"id":"13459951225","timestamp":"2026-01-16T15:16:35.969643718Z","domain":"vaccin-covid.canada.ca","issuer":"Google Trust Services","from":"2026-01-16T14:04:51Z","to":"2026-04-16T15:04:48Z"}
+{"id":"13460101179","timestamp":"2026-01-16T16:16:57.989364683Z","domain":"mlflow.ws-jlajoie.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-16T14:31:03Z","to":"2026-04-16T14:31:02Z"}
+{"id":"13460104351","timestamp":"2026-01-16T16:16:57.989365013Z","domain":"resource-catalogue.ws-jlajoie.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-16T14:31:02Z","to":"2026-04-16T14:31:01Z"}
