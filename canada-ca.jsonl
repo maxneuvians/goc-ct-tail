@@ -15134,3 +15134,11 @@
 {"id":"13466617207","timestamp":"2026-01-17T06:17:05.568607919Z","domain":"conform-dev.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-01-17T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13467675831","timestamp":"2026-01-17T08:16:52.195487529Z","domain":"rpss-dev-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2026-01-17T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13469200346","timestamp":"2026-01-17T11:15:26.862321512Z","domain":"canary-workload.ssc-spc.com-test.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-01-17T10:11:00Z","to":"2026-04-17T11:04:52Z"}
+{"id":"13470582218","timestamp":"2026-01-17T15:15:54.55871527Z","domain":"trojaifrontend.trojai.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-17T13:16:01Z","to":"2026-04-17T13:16:00Z"}
+{"id":"13470662067","timestamp":"2026-01-17T15:15:54.558715982Z","domain":"dev.dam.explore-labour-market.service.canada.ca","issuer":"DigiCert","from":"2026-01-17T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13470662983","timestamp":"2026-01-17T15:15:54.558716252Z","domain":"dev.dam.explore-labor-market.service.canada.ca","issuer":"DigiCert","from":"2026-01-17T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13470667501","timestamp":"2026-01-17T15:15:54.558716492Z","domain":"api.explorer-marche-travail.service.canada.ca","issuer":"DigiCert","from":"2026-01-17T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13470668018","timestamp":"2026-01-17T15:15:54.558716733Z","domain":"api.explore-labor-market.service.canada.ca","issuer":"DigiCert","from":"2026-01-17T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13470737252","timestamp":"2026-01-17T15:15:54.558717424Z","domain":"conform.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-01-17T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13470995465","timestamp":"2026-01-17T15:15:54.558717514Z","domain":"resource-catalogue.ws-gwilkes.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-17T14:08:20Z","to":"2026-04-17T14:08:19Z"}
+{"id":"13471016082","timestamp":"2026-01-17T15:15:54.558717605Z","domain":"mlflow.ws-gwilkes.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-17T14:08:20Z","to":"2026-04-17T14:08:19Z"}
