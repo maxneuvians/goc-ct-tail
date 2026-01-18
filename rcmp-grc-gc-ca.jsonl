@@ -1463,3 +1463,4 @@
 {"id":"13035342303","timestamp":"2025-12-10T21:16:14.041059633Z","domain":"rossdev.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2025-12-10T00:00:00Z","to":"2027-01-10T23:59:59Z"}
 {"id":"13094109589","timestamp":"2025-12-16T00:40:04.869810755Z","domain":"testing2244.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2025-12-15T23:09:00Z","to":"2026-03-15T23:08:59Z"}
 {"id":"13094109589","timestamp":"2025-12-16T00:40:04.869811026Z","domain":"testing8899.testingssl.rcmp.ca","issuer":"Let's Encrypt","from":"2025-12-15T23:09:00Z","to":"2026-03-15T23:08:59Z"}
+{"id":"13474781147","timestamp":"2026-01-18T00:44:42.111058608Z","domain":"testserver44.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2026-01-17T23:06:26Z","to":"2026-04-17T23:06:25Z"}
