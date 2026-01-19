@@ -15158,3 +15158,5 @@
 {"id":"13482315534","timestamp":"2026-01-18T18:16:51.462884417Z","domain":"dev.api.explore-labour-market.service.canada.ca","issuer":"DigiCert","from":"2026-01-18T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13482620429","timestamp":"2026-01-18T19:15:13.425104599Z","domain":"prometheus.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-18T17:22:45Z","to":"2026-04-18T17:22:44Z"}
 {"id":"13485296802","timestamp":"2026-01-19T00:44:06.921253032Z","domain":"canary-workload.ssc-spc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-01-18T23:23:57Z","to":"2026-04-19T00:17:10Z"}
+{"id":"13485598488","timestamp":"2026-01-19T01:45:28.656781794Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T00:01:45Z","to":"2026-04-19T00:01:44Z"}
+{"id":"13485598488","timestamp":"2026-01-19T01:45:28.656782145Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T00:01:45Z","to":"2026-04-19T00:01:44Z"}
