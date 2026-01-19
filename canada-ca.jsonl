@@ -15255,3 +15255,6 @@
 {"id":"13495138774","timestamp":"2026-01-19T21:16:01.698828643Z","domain":"*.dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-19T19:41:41Z","to":"2026-04-19T19:41:40Z"}
 {"id":"13495138774","timestamp":"2026-01-19T21:16:01.698828713Z","domain":"dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-19T19:41:41Z","to":"2026-04-19T19:41:40Z"}
 {"id":"13495353006","timestamp":"2026-01-19T21:16:01.698831118Z","domain":"performance-dev.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T20:10:01Z","to":"2026-04-19T20:10:00Z"}
+{"id":"13495518639","timestamp":"2026-01-19T22:16:09.132608169Z","domain":"kfserving.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T20:31:41Z","to":"2026-04-19T20:31:40Z"}
+{"id":"13495650861","timestamp":"2026-01-19T22:16:09.13260855Z","domain":"apim-dev.tbs-sct.canada.ca","issuer":"DigiCert","from":"2026-01-19T00:00:00Z","to":"2026-07-19T23:59:59Z"}
+{"id":"13495681180","timestamp":"2026-01-19T22:16:09.13260875Z","domain":"apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2026-01-19T00:00:00Z","to":"2026-07-19T23:59:59Z"}
