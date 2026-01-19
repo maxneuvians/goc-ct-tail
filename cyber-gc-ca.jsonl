@@ -814,3 +814,7 @@
 {"id":"13426036355","timestamp":"2026-01-13T14:41:29.333241671Z","domain":"pve-chedprd05.chimera.cyber.gc.ca","issuer":"Sectigo","from":"2026-01-13T00:00:00Z","to":"2027-02-13T23:59:59Z"}
 {"id":"13450932282","timestamp":"2026-01-15T19:38:13.374898398Z","domain":"pve-chedprd05.chimera.cyber.gc.ca","issuer":"Sectigo","from":"2026-01-15T00:00:00Z","to":"2027-02-14T23:59:59Z"}
 {"id":"13450932282","timestamp":"2026-01-15T19:38:13.374898789Z","domain":"pve.chimera.cyber.gc.ca","issuer":"Sectigo","from":"2026-01-15T00:00:00Z","to":"2027-02-14T23:59:59Z"}
+{"id":"13491964372","timestamp":"2026-01-19T14:42:45.870685148Z","domain":"pilot.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-01-19T13:09:43Z","to":"2026-04-19T13:09:42Z"}
+{"id":"13491984143","timestamp":"2026-01-19T14:42:45.870685679Z","domain":"nctns.udev.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-01-19T13:10:27Z","to":"2026-04-19T13:10:26Z"}
+{"id":"13492189308","timestamp":"2026-01-19T14:42:45.87068594Z","domain":"nctns-trial.udev.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-01-19T13:34:16Z","to":"2026-04-19T13:34:15Z"}
+{"id":"13492189308","timestamp":"2026-01-19T14:42:45.8706862Z","domain":"nctns.udev.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-01-19T13:34:16Z","to":"2026-04-19T13:34:15Z"}
