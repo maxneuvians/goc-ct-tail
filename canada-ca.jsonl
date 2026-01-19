@@ -15169,3 +15169,9 @@
 {"id":"13492911865","timestamp":"2026-01-19T16:16:59.269555044Z","domain":"*.cto-prod-portal.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T15:03:07Z","to":"2026-04-19T15:03:06Z"}
 {"id":"13494225983","timestamp":"2026-01-19T19:16:04.659675807Z","domain":"elvis-celine-test1.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-19T00:00:00Z","to":"2027-02-17T23:59:59Z"}
 {"id":"13494226615","timestamp":"2026-01-19T19:16:04.659676118Z","domain":"elvis-celine-test.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-19T00:00:00Z","to":"2027-02-17T23:59:59Z"}
+{"id":"13494864973","timestamp":"2026-01-19T20:16:29.953029942Z","domain":"4213c7e88b3c83b5.b871cc9990530ecb.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T19:10:32Z","to":"2026-04-19T19:10:31Z"}
+{"id":"13494864973","timestamp":"2026-01-19T20:16:29.953030187Z","domain":"crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T19:10:32Z","to":"2026-04-19T19:10:31Z"}
+{"id":"13494864973","timestamp":"2026-01-19T20:16:29.953030391Z","domain":"crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-19T19:10:32Z","to":"2026-04-19T19:10:31Z"}
+{"id":"13494869676","timestamp":"2026-01-19T20:16:29.953030554Z","domain":"3ea225912a81a6ac.dc60218f5e7d97ab.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T19:10:35Z","to":"2026-04-19T19:10:34Z"}
+{"id":"13494869676","timestamp":"2026-01-19T20:16:29.953030605Z","domain":"dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T19:10:35Z","to":"2026-04-19T19:10:34Z"}
+{"id":"13494869676","timestamp":"2026-01-19T20:16:29.953031462Z","domain":"dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-19T19:10:35Z","to":"2026-04-19T19:10:34Z"}
