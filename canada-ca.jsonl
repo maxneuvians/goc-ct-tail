@@ -15160,3 +15160,6 @@
 {"id":"13485296802","timestamp":"2026-01-19T00:44:06.921253032Z","domain":"canary-workload.ssc-spc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-01-18T23:23:57Z","to":"2026-04-19T00:17:10Z"}
 {"id":"13485598488","timestamp":"2026-01-19T01:45:28.656781794Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T00:01:45Z","to":"2026-04-19T00:01:44Z"}
 {"id":"13485598488","timestamp":"2026-01-19T01:45:28.656782145Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T00:01:45Z","to":"2026-04-19T00:01:44Z"}
+{"id":"13491283359","timestamp":"2026-01-19T13:28:11.862927658Z","domain":"resource-catalogue.ws-ws-asclepia.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T11:40:34Z","to":"2026-04-19T11:40:33Z"}
+{"id":"13491346635","timestamp":"2026-01-19T13:28:11.862928179Z","domain":"resource-catalogue.ws-asclepian.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T11:47:30Z","to":"2026-04-19T11:47:29Z"}
+{"id":"13491349718","timestamp":"2026-01-19T13:28:11.862928459Z","domain":"mlflow.ws-asclepian.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T11:47:30Z","to":"2026-04-19T11:47:29Z"}
