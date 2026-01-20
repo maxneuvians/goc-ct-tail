@@ -15258,3 +15258,5 @@
 {"id":"13495518639","timestamp":"2026-01-19T22:16:09.132608169Z","domain":"kfserving.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-19T20:31:41Z","to":"2026-04-19T20:31:40Z"}
 {"id":"13495650861","timestamp":"2026-01-19T22:16:09.13260855Z","domain":"apim-dev.tbs-sct.canada.ca","issuer":"DigiCert","from":"2026-01-19T00:00:00Z","to":"2026-07-19T23:59:59Z"}
 {"id":"13495681180","timestamp":"2026-01-19T22:16:09.13260875Z","domain":"apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2026-01-19T00:00:00Z","to":"2026-07-19T23:59:59Z"}
+{"id":"13496652617","timestamp":"2026-01-20T00:40:13.509088179Z","domain":"image-dev-api.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-20T00:00:00Z","to":"2027-02-18T23:59:59Z"}
+{"id":"13496654330","timestamp":"2026-01-20T00:40:13.509088559Z","domain":"gcsurplus-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-20T00:00:00Z","to":"2027-02-18T23:59:59Z"}
