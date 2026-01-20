@@ -1057,3 +1057,6 @@
 {"id":"13468710261","timestamp":"2026-01-17T10:38:05.575405933Z","domain":"v3-cwf-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-01-17T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13468752027","timestamp":"2026-01-17T10:38:05.575406304Z","domain":"v3-pbi-pspmr-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-01-17T00:00:00Z","to":"2026-04-14T23:59:59Z"}
 {"id":"13475142758","timestamp":"2026-01-18T02:16:23.77983215Z","domain":"selfid-autoid-api-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-01-18T00:00:00Z","to":"2026-04-14T23:59:59Z"}
+{"id":"13504727411","timestamp":"2026-01-20T16:45:28.241047616Z","domain":"dev.tbsanalytics-analytiquesct.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-20T00:00:00Z","to":"2027-02-20T23:59:59Z"}
+{"id":"13504813675","timestamp":"2026-01-20T16:45:28.241048167Z","domain":"tbsanalytics-analytiquesct.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-20T00:00:00Z","to":"2027-02-20T23:59:59Z"}
+{"id":"13505177458","timestamp":"2026-01-20T16:45:28.241048477Z","domain":"uat.tapsts.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-20T00:00:00Z","to":"2027-02-20T23:59:59Z"}
