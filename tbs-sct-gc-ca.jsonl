@@ -1060,3 +1060,9 @@
 {"id":"13504727411","timestamp":"2026-01-20T16:45:28.241047616Z","domain":"dev.tbsanalytics-analytiquesct.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-20T00:00:00Z","to":"2027-02-20T23:59:59Z"}
 {"id":"13504813675","timestamp":"2026-01-20T16:45:28.241048167Z","domain":"tbsanalytics-analytiquesct.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-20T00:00:00Z","to":"2027-02-20T23:59:59Z"}
 {"id":"13505177458","timestamp":"2026-01-20T16:45:28.241048477Z","domain":"uat.tapsts.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-20T00:00:00Z","to":"2027-02-20T23:59:59Z"}
+{"id":"13507093002","timestamp":"2026-01-20T20:45:24.170904263Z","domain":"v3-eri-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-20T19:20:41Z","to":"2026-04-20T19:20:40Z"}
+{"id":"13507098427","timestamp":"2026-01-20T20:45:24.170904683Z","domain":"v3-wfm-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-20T19:21:14Z","to":"2026-04-20T19:21:13Z"}
+{"id":"13507115749","timestamp":"2026-01-20T20:45:24.170904934Z","domain":"v3-aihorizon-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-20T19:23:10Z","to":"2026-04-20T19:23:09Z"}
+{"id":"13507120032","timestamp":"2026-01-20T20:45:24.170905124Z","domain":"v3-eri-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-20T19:23:37Z","to":"2026-04-20T19:23:36Z"}
+{"id":"13507128450","timestamp":"2026-01-20T20:45:24.170905215Z","domain":"v3-wfm-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-20T19:24:10Z","to":"2026-04-20T19:24:09Z"}
+{"id":"13507207182","timestamp":"2026-01-20T20:45:24.170906026Z","domain":"qa.tbsanalytics-analytiquesct.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-20T00:00:00Z","to":"2027-02-20T23:59:59Z"}
