@@ -15532,3 +15532,6 @@
 {"id":"13516847975","timestamp":"2026-01-21T18:23:26.487468845Z","domain":"serial.tko-ott2.dev.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-21T17:13:54Z","to":"2026-04-21T17:13:53Z"}
 {"id":"13516847975","timestamp":"2026-01-21T18:23:26.487468935Z","domain":"tko-ott2.dev.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-21T17:13:54Z","to":"2026-04-21T17:13:53Z"}
 {"id":"13516847975","timestamp":"2026-01-21T18:23:26.487469025Z","domain":"volume.tko-ott2.dev.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-21T17:13:54Z","to":"2026-04-21T17:13:53Z"}
+{"id":"13516909229","timestamp":"2026-01-21T19:17:35.67021048Z","domain":"ftp.cartes.canada.ca","issuer":"Sectigo","from":"2026-01-21T00:00:00Z","to":"2027-02-21T23:59:59Z"}
+{"id":"13516909229","timestamp":"2026-01-21T19:17:35.67021087Z","domain":"ftp.geogratis.gc.ca","issuer":"Sectigo","from":"2026-01-21T00:00:00Z","to":"2027-02-21T23:59:59Z"}
+{"id":"13516909229","timestamp":"2026-01-21T19:17:35.670211101Z","domain":"ftp.maps.canada.ca","issuer":"Sectigo","from":"2026-01-21T00:00:00Z","to":"2027-02-21T23:59:59Z"}
