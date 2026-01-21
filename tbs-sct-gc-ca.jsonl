@@ -1066,3 +1066,5 @@
 {"id":"13507120032","timestamp":"2026-01-20T20:45:24.170905124Z","domain":"v3-eri-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-20T19:23:37Z","to":"2026-04-20T19:23:36Z"}
 {"id":"13507128450","timestamp":"2026-01-20T20:45:24.170905215Z","domain":"v3-wfm-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-20T19:24:10Z","to":"2026-04-20T19:24:09Z"}
 {"id":"13507207182","timestamp":"2026-01-20T20:45:24.170906026Z","domain":"qa.tbsanalytics-analytiquesct.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-20T00:00:00Z","to":"2027-02-20T23:59:59Z"}
+{"id":"13514243846","timestamp":"2026-01-21T12:47:17.500877242Z","domain":"eri-ira.dev.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-21T00:00:00Z","to":"2027-02-21T23:59:59Z"}
+{"id":"13514243846","timestamp":"2026-01-21T12:47:17.500877482Z","domain":"eri-ira.qa.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-21T00:00:00Z","to":"2027-02-21T23:59:59Z"}
