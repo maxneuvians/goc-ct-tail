@@ -3438,7 +3438,9 @@
       "DigiCert": 2
     },
     "2026-01-20": {
-      "Amazon Trust Services": 2
+      "Amazon Trust Services": 2,
+      "Let's Encrypt": 238,
+      "Google Trust Services": 1
     }
   },
   "errors": []
