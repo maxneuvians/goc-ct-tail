@@ -15557,3 +15557,5 @@
 {"id":"13522775593","timestamp":"2026-01-22T08:17:12.601619653Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-22T06:25:17Z","to":"2026-04-22T06:25:16Z"}
 {"id":"13522775593","timestamp":"2026-01-22T08:17:12.601619953Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-22T06:25:17Z","to":"2026-04-22T06:25:16Z"}
 {"id":"13523865889","timestamp":"2026-01-22T10:17:08.492089166Z","domain":"auth-prod-cer.canada.ca","issuer":"DigiCert","from":"2026-01-22T00:00:00Z","to":"2026-07-09T23:59:59Z"}
+{"id":"13525057967","timestamp":"2026-01-22T13:28:29.492914731Z","domain":"resource-catalogue.ws-sleipe.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-22T11:22:17Z","to":"2026-04-22T11:22:16Z"}
+{"id":"13525071428","timestamp":"2026-01-22T13:28:29.492915322Z","domain":"mlflow.ws-sleipe.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-22T11:22:17Z","to":"2026-04-22T11:22:16Z"}
