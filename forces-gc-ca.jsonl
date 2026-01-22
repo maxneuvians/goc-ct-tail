@@ -2280,3 +2280,7 @@
 {"id":"13514977784","timestamp":"2026-01-21T14:18:00.576832872Z","domain":"cmrsj-rmcsj.ca","issuer":"Sectigo","from":"2026-01-21T00:00:00Z","to":"2027-01-21T23:59:59Z"}
 {"id":"13514977784","timestamp":"2026-01-21T14:18:00.576833313Z","domain":"www.cmrsj-rmcsj.ca","issuer":"Sectigo","from":"2026-01-21T00:00:00Z","to":"2027-01-21T23:59:59Z"}
 {"id":"13514977784","timestamp":"2026-01-21T14:18:00.576833583Z","domain":"www.cmrsj-rmcsj.forces.gc.ca","issuer":"Sectigo","from":"2026-01-21T00:00:00Z","to":"2027-01-21T23:59:59Z"}
+{"id":"13521827798","timestamp":"2026-01-22T06:17:33.178586726Z","domain":"api.trg1.smms-sta.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-01-22T00:00:00Z","to":"2027-02-20T23:59:59Z"}
+{"id":"13521827798","timestamp":"2026-01-22T06:17:33.178587147Z","domain":"api.trg2.smms-sta.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-01-22T00:00:00Z","to":"2027-02-20T23:59:59Z"}
+{"id":"13521827798","timestamp":"2026-01-22T06:17:33.178587538Z","domain":"trg1.smms-sta.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-01-22T00:00:00Z","to":"2027-02-20T23:59:59Z"}
+{"id":"13521827798","timestamp":"2026-01-22T06:17:33.178587748Z","domain":"trg2.smms-sta.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-01-22T00:00:00Z","to":"2027-02-20T23:59:59Z"}
