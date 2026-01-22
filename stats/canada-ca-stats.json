@@ -3441,6 +3441,14 @@
       "Amazon Trust Services": 2,
       "Let's Encrypt": 238,
       "Google Trust Services": 1
+    },
+    "2026-01-21": {
+      "Let's Encrypt": 44,
+      "Google Trust Services": 3,
+      "Sectigo": 4
+    },
+    "2026-01-22": {
+      "Google Trust Services": 2
     }
   },
   "errors": []
