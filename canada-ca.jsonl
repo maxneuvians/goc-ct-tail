@@ -15560,3 +15560,5 @@
 {"id":"13525057967","timestamp":"2026-01-22T13:28:29.492914731Z","domain":"resource-catalogue.ws-sleipe.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-22T11:22:17Z","to":"2026-04-22T11:22:16Z"}
 {"id":"13525071428","timestamp":"2026-01-22T13:28:29.492915322Z","domain":"mlflow.ws-sleipe.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-22T11:22:17Z","to":"2026-04-22T11:22:16Z"}
 {"id":"13525862868","timestamp":"2026-01-22T14:18:37.007929446Z","domain":"portail.test-partenaires.delivrance-verification.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-22T13:04:27Z","to":"2026-04-22T13:04:26Z"}
+{"id":"13526333710","timestamp":"2026-01-22T15:17:35.680469251Z","domain":"api.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-22T14:02:56Z","to":"2026-04-22T14:02:55Z"}
+{"id":"13526333710","timestamp":"2026-01-22T15:17:35.680469792Z","domain":"realtime.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-22T14:02:56Z","to":"2026-04-22T14:02:55Z"}
