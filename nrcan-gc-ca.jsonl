@@ -19629,3 +19629,12 @@
 {"id":"13522171275","timestamp":"2026-01-22T06:17:32.328575454Z","domain":"www.softaccess.rncan.gc.ca","issuer":"Sectigo","from":"2026-01-22T00:00:00Z","to":"2026-04-22T23:59:59Z"}
 {"id":"13522171275","timestamp":"2026-01-22T06:17:32.328575534Z","domain":"www.softaccess.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2026-01-22T00:00:00Z","to":"2026-04-22T23:59:59Z"}
 {"id":"13533004429","timestamp":"2026-01-23T06:17:22.665439567Z","domain":"free77-uxwtst1.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-23T04:41:14Z","to":"2026-04-23T04:41:13Z"}
+{"id":"13537791665","timestamp":"2026-01-23T16:17:05.962318942Z","domain":"*.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"13537791665","timestamp":"2026-01-23T16:17:05.962319253Z","domain":"*.nrcan.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"13537791665","timestamp":"2026-01-23T16:17:05.962319473Z","domain":"nrcan.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"13537791665","timestamp":"2026-01-23T16:17:05.962319694Z","domain":"*.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"13537791665","timestamp":"2026-01-23T16:17:05.962319794Z","domain":"nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"13537791665","timestamp":"2026-01-23T16:17:05.962320856Z","domain":"*.rncan.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"13537791665","timestamp":"2026-01-23T16:17:05.962320936Z","domain":"rncan.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"13537791665","timestamp":"2026-01-23T16:17:05.962321016Z","domain":"*.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"13537791665","timestamp":"2026-01-23T16:17:05.962321096Z","domain":"rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
