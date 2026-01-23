@@ -3448,7 +3448,11 @@
       "Sectigo": 4
     },
     "2026-01-22": {
-      "Google Trust Services": 2
+      "Google Trust Services": 3,
+      "Let's Encrypt": 12,
+      "DigiCert": 1,
+      "Sectigo": 1,
+      "Amazon Trust Services": 3
     }
   },
   "errors": []
