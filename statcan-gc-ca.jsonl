@@ -996,3 +996,9 @@
 {"id":"13438709995","timestamp":"2026-01-14T17:41:34.698411599Z","domain":"hub-carrefour-alpha.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-14T15:48:27Z","to":"2026-04-14T15:48:26Z"}
 {"id":"13515327742","timestamp":"2026-01-21T15:44:08.052115086Z","domain":"www97-prod.statcan.gc.ca","issuer":"Sectigo","from":"2026-01-21T00:00:00Z","to":"2027-02-21T23:59:59Z"}
 {"id":"13524974337","timestamp":"2026-01-22T12:47:09.7622712Z","domain":"surveys-enquetes-qa-ext.statcan.gc.ca","issuer":"Sectigo","from":"2026-01-22T00:00:00Z","to":"2027-02-22T23:59:59Z"}
+{"id":"13536737256","timestamp":"2026-01-23T13:46:13.430896622Z","domain":"mis-qa-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-23T12:25:01Z","to":"2026-04-23T12:25:00Z"}
+{"id":"13536737256","timestamp":"2026-01-23T13:46:13.430897038Z","domain":"mis-qa.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-23T12:25:01Z","to":"2026-04-23T12:25:00Z"}
+{"id":"13536737276","timestamp":"2026-01-23T13:46:13.430897411Z","domain":"cmp-qa-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-23T12:25:01Z","to":"2026-04-23T12:25:00Z"}
+{"id":"13536737276","timestamp":"2026-01-23T13:46:13.430897653Z","domain":"cmp-qa.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-23T12:25:01Z","to":"2026-04-23T12:25:00Z"}
+{"id":"13536752136","timestamp":"2026-01-23T13:46:13.430897754Z","domain":"icoskb-qa-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-23T12:26:03Z","to":"2026-04-23T12:26:02Z"}
+{"id":"13536752136","timestamp":"2026-01-23T13:46:13.430898844Z","domain":"icoskb-qa.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-23T12:26:03Z","to":"2026-04-23T12:26:02Z"}
