@@ -15573,3 +15573,11 @@
 {"id":"13532520817","timestamp":"2026-01-23T05:17:36.841576718Z","domain":"portal-dev.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-23T03:33:27Z","to":"2026-04-23T03:33:26Z"}
 {"id":"13532806126","timestamp":"2026-01-23T06:17:22.670926923Z","domain":"registry.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-23T04:13:43Z","to":"2026-04-23T04:13:42Z"}
 {"id":"13538444068","timestamp":"2026-01-23T17:17:22.666715138Z","domain":"portal.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-23T15:58:46Z","to":"2026-04-23T15:58:45Z"}
+{"id":"13538634661","timestamp":"2026-01-23T18:17:21.044996741Z","domain":"apostille.canada.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"13538634661","timestamp":"2026-01-23T18:17:21.044997062Z","domain":"international.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"13538634661","timestamp":"2026-01-23T18:17:21.044997232Z","domain":"sl.international.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"13538634661","timestamp":"2026-01-23T18:17:21.044997382Z","domain":"www.international.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"13538995519","timestamp":"2026-01-23T18:17:21.044997472Z","domain":"*.dids.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-23T17:12:00Z","to":"2026-04-23T17:11:59Z"}
+{"id":"13538997888","timestamp":"2026-01-23T18:17:21.044998094Z","domain":"didwebserver.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-23T17:12:01Z","to":"2026-04-23T17:12:00Z"}
+{"id":"13538999464","timestamp":"2026-01-23T18:17:21.044998194Z","domain":"api.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-23T17:13:02Z","to":"2026-04-23T17:13:01Z"}
+{"id":"13538999464","timestamp":"2026-01-23T18:17:21.044998264Z","domain":"realtime.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-23T17:13:02Z","to":"2026-04-23T17:13:01Z"}
