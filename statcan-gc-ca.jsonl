@@ -1002,3 +1002,5 @@
 {"id":"13536737276","timestamp":"2026-01-23T13:46:13.430897653Z","domain":"cmp-qa.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-23T12:25:01Z","to":"2026-04-23T12:25:00Z"}
 {"id":"13536752136","timestamp":"2026-01-23T13:46:13.430897754Z","domain":"icoskb-qa-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-23T12:26:03Z","to":"2026-04-23T12:26:02Z"}
 {"id":"13536752136","timestamp":"2026-01-23T13:46:13.430898844Z","domain":"icoskb-qa.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-23T12:26:03Z","to":"2026-04-23T12:26:02Z"}
+{"id":"13538049702","timestamp":"2026-01-23T16:44:03.491608871Z","domain":"eft-tef-test.statcan.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"13538073887","timestamp":"2026-01-23T16:44:03.491609522Z","domain":"eft-tef.statcan.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-02-23T23:59:59Z"}
