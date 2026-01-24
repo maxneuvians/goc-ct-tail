@@ -3453,6 +3453,14 @@
       "DigiCert": 1,
       "Sectigo": 1,
       "Amazon Trust Services": 3
+    },
+    "2026-01-23": {
+      "Let's Encrypt": 10,
+      "Sectigo": 4,
+      "Google Trust Services": 1
+    },
+    "2026-01-24": {
+      "Amazon Trust Services": 4
     }
   },
   "errors": []
