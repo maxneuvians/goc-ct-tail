@@ -15587,3 +15587,5 @@
 {"id":"13541372301","timestamp":"2026-01-24T00:40:05.884069836Z","domain":"workload1.c1-qa19870.qa19870.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-01-23T22:23:49Z","to":"2026-04-23T23:17:02Z"}
 {"id":"13543225116","timestamp":"2026-01-24T03:41:59.738705491Z","domain":"*.simplification-avis-confidentialite.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-24T00:00:00Z","to":"2027-02-22T23:59:59Z"}
 {"id":"13543225116","timestamp":"2026-01-24T03:41:59.738705842Z","domain":"simplification-avis-confidentialite.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-24T00:00:00Z","to":"2027-02-22T23:59:59Z"}
+{"id":"13543412102","timestamp":"2026-01-24T04:21:34.945337059Z","domain":"*.simplify-privacy-statements.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-24T00:00:00Z","to":"2027-02-22T23:59:59Z"}
+{"id":"13543412102","timestamp":"2026-01-24T04:21:34.94533753Z","domain":"simplify-privacy-statements.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-24T00:00:00Z","to":"2027-02-22T23:59:59Z"}
