@@ -3460,7 +3460,9 @@
       "Google Trust Services": 1
     },
     "2026-01-24": {
-      "Amazon Trust Services": 4
+      "Amazon Trust Services": 4,
+      "Let's Encrypt": 10,
+      "Google Trust Services": 1
     }
   },
   "errors": []
