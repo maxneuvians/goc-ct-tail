@@ -19646,3 +19646,24 @@
 {"id":"13544561212","timestamp":"2026-01-24T06:17:09.099889493Z","domain":"www.seatosky.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2026-01-24T00:00:00Z","to":"2026-04-24T23:59:59Z"}
 {"id":"13544561212","timestamp":"2026-01-24T06:17:09.099889573Z","domain":"www.seatosky.rncan.gc.ca","issuer":"Sectigo","from":"2026-01-24T00:00:00Z","to":"2026-04-24T23:59:59Z"}
 {"id":"13544561212","timestamp":"2026-01-24T06:17:09.099889653Z","domain":"www.seatosky.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2026-01-24T00:00:00Z","to":"2026-04-24T23:59:59Z"}
+{"id":"13555004476","timestamp":"2026-01-25T06:17:09.479316722Z","domain":"geonames.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-25T04:45:26Z","to":"2026-04-25T04:45:25Z"}
+{"id":"13555004476","timestamp":"2026-01-25T06:17:09.479317052Z","domain":"geonames.rncan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-25T04:45:26Z","to":"2026-04-25T04:45:25Z"}
+{"id":"13555004476","timestamp":"2026-01-25T06:17:09.479317272Z","domain":"toponymes.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-25T04:45:26Z","to":"2026-04-25T04:45:25Z"}
+{"id":"13555004476","timestamp":"2026-01-25T06:17:09.479317463Z","domain":"toponymes.rncan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-25T04:45:26Z","to":"2026-04-25T04:45:25Z"}
+{"id":"13555004476","timestamp":"2026-01-25T06:17:09.479317563Z","domain":"www4.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-25T04:45:26Z","to":"2026-04-25T04:45:25Z"}
+{"id":"13555004476","timestamp":"2026-01-25T06:17:09.479318285Z","domain":"www4.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-25T04:45:26Z","to":"2026-04-25T04:45:25Z"}
+{"id":"13555004476","timestamp":"2026-01-25T06:17:09.479318365Z","domain":"www4.rncan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-25T04:45:26Z","to":"2026-04-25T04:45:25Z"}
+{"id":"13555004476","timestamp":"2026-01-25T06:17:09.479318445Z","domain":"www4.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-25T04:45:26Z","to":"2026-04-25T04:45:25Z"}
+{"id":"13555098041","timestamp":"2026-01-25T06:17:09.479318555Z","domain":"oee.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-25T05:00:12Z","to":"2026-04-25T05:00:11Z"}
+{"id":"13555098041","timestamp":"2026-01-25T06:17:09.479319196Z","domain":"oee.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-25T05:00:12Z","to":"2026-04-25T05:00:11Z"}
+{"id":"13555098041","timestamp":"2026-01-25T06:17:09.479319276Z","domain":"oee.rncan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-25T05:00:12Z","to":"2026-04-25T05:00:11Z"}
+{"id":"13555098041","timestamp":"2026-01-25T06:17:09.479319356Z","domain":"oee.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-25T05:00:12Z","to":"2026-04-25T05:00:11Z"}
+{"id":"13555098041","timestamp":"2026-01-25T06:17:09.479319437Z","domain":"www.oee.rncan.gc.ca","issuer":"Let's Encrypt","from":"2026-01-25T05:00:12Z","to":"2026-04-25T05:00:11Z"}
+{"id":"13555116444","timestamp":"2026-01-25T06:17:09.479319527Z","domain":"pointdevue.cfs.nrcan.gc.ca","issuer":"Sectigo","from":"2026-01-25T00:00:00Z","to":"2026-04-25T23:59:59Z"}
+{"id":"13555116444","timestamp":"2026-01-25T06:17:09.479319617Z","domain":"pointdevue.cfs-scf.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2026-01-25T00:00:00Z","to":"2026-04-25T23:59:59Z"}
+{"id":"13555116444","timestamp":"2026-01-25T06:17:09.479319697Z","domain":"pointdevue.scf-cfs.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2026-01-25T00:00:00Z","to":"2026-04-25T23:59:59Z"}
+{"id":"13555116444","timestamp":"2026-01-25T06:17:09.479319777Z","domain":"pointdevue.scf.rncan.gc.ca","issuer":"Sectigo","from":"2026-01-25T00:00:00Z","to":"2026-04-25T23:59:59Z"}
+{"id":"13555116444","timestamp":"2026-01-25T06:17:09.479319857Z","domain":"viewpoint.cfs.nrcan.gc.ca","issuer":"Sectigo","from":"2026-01-25T00:00:00Z","to":"2026-04-25T23:59:59Z"}
+{"id":"13555116444","timestamp":"2026-01-25T06:17:09.479320579Z","domain":"viewpoint.cfs-scf.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2026-01-25T00:00:00Z","to":"2026-04-25T23:59:59Z"}
+{"id":"13555116444","timestamp":"2026-01-25T06:17:09.479320679Z","domain":"viewpoint.scf-cfs.rncan-nrcan.gc.ca","issuer":"Sectigo","from":"2026-01-25T00:00:00Z","to":"2026-04-25T23:59:59Z"}
+{"id":"13555116444","timestamp":"2026-01-25T06:17:09.479320769Z","domain":"viewpoint.scf.rncan.gc.ca","issuer":"Sectigo","from":"2026-01-25T00:00:00Z","to":"2026-04-25T23:59:59Z"}
