@@ -3463,6 +3463,13 @@
       "Amazon Trust Services": 4,
       "Let's Encrypt": 10,
       "Google Trust Services": 1
+    },
+    "2026-01-25": {
+      "Let's Encrypt": 6,
+      "DigiCert": 1
+    },
+    "2026-01-26": {
+      "Let's Encrypt": 2
     }
   },
   "errors": []
