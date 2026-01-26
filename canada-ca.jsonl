@@ -15625,3 +15625,6 @@
 {"id":"13571770044","timestamp":"2026-01-26T19:17:00.796086969Z","domain":"dev.geophysical-data.canada.ca","issuer":"Sectigo","from":"2026-01-26T00:00:00Z","to":"2027-02-26T23:59:59Z"}
 {"id":"13571770044","timestamp":"2026-01-26T19:17:00.7960872Z","domain":"donnees-geophysiques.canada.ca","issuer":"Sectigo","from":"2026-01-26T00:00:00Z","to":"2027-02-26T23:59:59Z"}
 {"id":"13571770044","timestamp":"2026-01-26T19:17:00.79608747Z","domain":"geophysical-data.canada.ca","issuer":"Sectigo","from":"2026-01-26T00:00:00Z","to":"2027-02-26T23:59:59Z"}
+{"id":"13572313905","timestamp":"2026-01-26T20:16:47.071579819Z","domain":"*.aurora.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-26T18:24:41Z","to":"2026-04-26T18:24:40Z"}
+{"id":"13572313905","timestamp":"2026-01-26T20:16:47.07158018Z","domain":"*.aurora.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-26T18:24:41Z","to":"2026-04-26T18:24:40Z"}
+{"id":"13572313905","timestamp":"2026-01-26T20:16:47.0715804Z","domain":"*.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-26T18:24:41Z","to":"2026-04-26T18:24:40Z"}
