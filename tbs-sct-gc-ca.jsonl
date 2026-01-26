@@ -1078,3 +1078,7 @@
 {"id":"13515330805","timestamp":"2026-01-21T15:44:06.807857391Z","domain":"tih.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-01-21T00:00:00Z","to":"2026-07-21T23:59:59Z"}
 {"id":"13525012540","timestamp":"2026-01-22T12:47:09.756646816Z","domain":"itppm.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-01-22T00:00:00Z","to":"2027-02-22T23:59:59Z"}
 {"id":"13527051592","timestamp":"2026-01-22T16:45:26.753998895Z","domain":"aomt-atip.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-22T15:29:12Z","to":"2026-04-22T15:29:11Z"}
+{"id":"13569731248","timestamp":"2026-01-26T14:43:06.040915245Z","domain":"aihorizon.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-26T13:35:16Z","to":"2026-04-26T13:35:15Z"}
+{"id":"13569732972","timestamp":"2026-01-26T14:43:06.040915625Z","domain":"v3-eepr-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-26T13:35:45Z","to":"2026-04-26T13:35:44Z"}
+{"id":"13569746791","timestamp":"2026-01-26T14:43:06.040915866Z","domain":"v3-calipersplusapi-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-26T13:34:00Z","to":"2026-04-26T13:33:59Z"}
+{"id":"13569746791","timestamp":"2026-01-26T14:43:06.040916066Z","domain":"v3-calipersplus-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-01-26T13:34:00Z","to":"2026-04-26T13:33:59Z"}
