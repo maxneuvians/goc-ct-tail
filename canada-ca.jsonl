@@ -15621,3 +15621,7 @@
 {"id":"13570685564","timestamp":"2026-01-26T17:18:14.02220079Z","domain":"clinical-trials-search.canada.ca","issuer":"Google Trust Services","from":"2026-01-26T15:15:46Z","to":"2026-04-26T16:14:38Z"}
 {"id":"13571609868","timestamp":"2026-01-26T18:17:31.178757703Z","domain":"incident-forwarder.mgmt.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-01-26T17:00:12Z","to":"2026-04-26T17:56:07Z"}
 {"id":"13571651619","timestamp":"2026-01-26T18:17:31.178758215Z","domain":"incident-forwarder.mgmt.preprod.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-01-26T17:05:44Z","to":"2026-04-26T18:01:39Z"}
+{"id":"13571770044","timestamp":"2026-01-26T19:17:00.796086388Z","domain":"dev.donnees-geophysiques.canada.ca","issuer":"Sectigo","from":"2026-01-26T00:00:00Z","to":"2027-02-26T23:59:59Z"}
+{"id":"13571770044","timestamp":"2026-01-26T19:17:00.796086969Z","domain":"dev.geophysical-data.canada.ca","issuer":"Sectigo","from":"2026-01-26T00:00:00Z","to":"2027-02-26T23:59:59Z"}
+{"id":"13571770044","timestamp":"2026-01-26T19:17:00.7960872Z","domain":"donnees-geophysiques.canada.ca","issuer":"Sectigo","from":"2026-01-26T00:00:00Z","to":"2027-02-26T23:59:59Z"}
+{"id":"13571770044","timestamp":"2026-01-26T19:17:00.79608747Z","domain":"geophysical-data.canada.ca","issuer":"Sectigo","from":"2026-01-26T00:00:00Z","to":"2027-02-26T23:59:59Z"}
