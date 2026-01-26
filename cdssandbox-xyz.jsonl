@@ -2218,3 +2218,10 @@
 {"id":"13526248210","timestamp":"2026-01-22T15:43:11.604942201Z","domain":"status.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-01-22T00:00:00Z","to":"2027-02-20T23:59:59Z"}
 {"id":"13565019952","timestamp":"2026-01-26T05:43:10.611798926Z","domain":"*.docs.superset.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-01-26T00:00:00Z","to":"2027-02-24T23:59:59Z"}
 {"id":"13565019952","timestamp":"2026-01-26T05:43:10.611799477Z","domain":"docs.superset.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-01-26T00:00:00Z","to":"2027-02-24T23:59:59Z"}
+{"id":"13572178236","timestamp":"2026-01-26T19:37:29.793423148Z","domain":"portail.test.delivrance-verification.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-01-26T18:09:38Z","to":"2026-04-26T18:09:37Z"}
+{"id":"13572188313","timestamp":"2026-01-26T19:37:29.793423479Z","domain":"didwebserver.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-01-26T18:09:38Z","to":"2026-04-26T18:09:37Z"}
+{"id":"13572188493","timestamp":"2026-01-26T19:37:29.793423629Z","domain":"*.dids.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-01-26T18:09:39Z","to":"2026-04-26T18:09:38Z"}
+{"id":"13572191553","timestamp":"2026-01-26T19:37:29.793423779Z","domain":"portal.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-01-26T18:09:39Z","to":"2026-04-26T18:09:38Z"}
+{"id":"13572191780","timestamp":"2026-01-26T19:37:29.79342386Z","domain":"aqvc.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-01-26T18:08:35Z","to":"2026-04-26T18:08:34Z"}
+{"id":"13572192975","timestamp":"2026-01-26T19:37:29.793424631Z","domain":"api.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-01-26T18:10:39Z","to":"2026-04-26T18:10:38Z"}
+{"id":"13572192975","timestamp":"2026-01-26T19:37:29.793424701Z","domain":"realtime.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-01-26T18:10:39Z","to":"2026-04-26T18:10:38Z"}
