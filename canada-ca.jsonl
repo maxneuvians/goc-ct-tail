@@ -15609,3 +15609,6 @@
 {"id":"13561775939","timestamp":"2026-01-25T22:15:56.034166141Z","domain":"tracker.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-25T20:29:26Z","to":"2026-04-25T20:29:25Z"}
 {"id":"13563222754","timestamp":"2026-01-26T01:45:49.505756268Z","domain":"*.acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-01-26T00:01:45Z","to":"2026-04-26T00:01:44Z"}
 {"id":"13563222754","timestamp":"2026-01-26T01:45:49.505756608Z","domain":"acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-01-26T00:01:45Z","to":"2026-04-26T00:01:44Z"}
+{"id":"13564928939","timestamp":"2026-01-26T05:21:32.311880649Z","domain":"*.pages.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-26T04:14:45Z","to":"2026-04-26T04:14:44Z"}
+{"id":"13564928939","timestamp":"2026-01-26T05:21:32.31188124Z","domain":"private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-26T04:14:45Z","to":"2026-04-26T04:14:44Z"}
+{"id":"13564928939","timestamp":"2026-01-26T05:21:32.31188153Z","domain":"secrets-differ.devops.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-26T04:14:45Z","to":"2026-04-26T04:14:44Z"}
