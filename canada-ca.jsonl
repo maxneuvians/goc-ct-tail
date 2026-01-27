@@ -15637,3 +15637,7 @@
 {"id":"13578051143","timestamp":"2026-01-27T08:17:24.768728573Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-27T06:29:39Z","to":"2026-04-27T06:29:38Z"}
 {"id":"13581816963","timestamp":"2026-01-27T15:17:44.132354271Z","domain":"argocd.non-prod.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-27T13:30:24Z","to":"2026-04-27T13:30:23Z"}
 {"id":"13582017229","timestamp":"2026-01-27T15:17:44.132355122Z","domain":"argocd.non-prod.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-27T13:51:12Z","to":"2026-04-27T13:51:11Z"}
+{"id":"13583966932","timestamp":"2026-01-27T19:17:32.636345916Z","domain":"gec-cig-dev1.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-27T00:00:00Z","to":"2027-02-25T23:59:59Z"}
+{"id":"13583982536","timestamp":"2026-01-27T19:17:32.636346389Z","domain":"gec-cig.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-27T00:00:00Z","to":"2027-02-25T23:59:59Z"}
+{"id":"13584049412","timestamp":"2026-01-27T19:17:32.636346641Z","domain":"gec-cig-dev1.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-27T00:00:00Z","to":"2027-02-25T23:59:59Z"}
+{"id":"13584070858","timestamp":"2026-01-27T19:17:32.636346935Z","domain":"gec-cig.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-27T00:00:00Z","to":"2027-02-25T23:59:59Z"}
