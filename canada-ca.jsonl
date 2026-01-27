@@ -15641,3 +15641,15 @@
 {"id":"13583982536","timestamp":"2026-01-27T19:17:32.636346389Z","domain":"gec-cig.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-27T00:00:00Z","to":"2027-02-25T23:59:59Z"}
 {"id":"13584049412","timestamp":"2026-01-27T19:17:32.636346641Z","domain":"gec-cig-dev1.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-27T00:00:00Z","to":"2027-02-25T23:59:59Z"}
 {"id":"13584070858","timestamp":"2026-01-27T19:17:32.636346935Z","domain":"gec-cig.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-27T00:00:00Z","to":"2027-02-25T23:59:59Z"}
+{"id":"13584560135","timestamp":"2026-01-27T20:16:20.34668945Z","domain":"beta.clegc.gc.ca","issuer":"Sectigo","from":"2026-01-27T00:00:00Z","to":"2027-02-27T23:59:59Z"}
+{"id":"13584560135","timestamp":"2026-01-27T20:16:20.346689781Z","domain":"beta-clegc-gckey.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2026-01-27T00:00:00Z","to":"2027-02-27T23:59:59Z"}
+{"id":"13584560135","timestamp":"2026-01-27T20:16:20.346690001Z","domain":"beta.clegc-gckey.gc.ca","issuer":"Sectigo","from":"2026-01-27T00:00:00Z","to":"2027-02-27T23:59:59Z"}
+{"id":"13584560135","timestamp":"2026-01-27T20:16:20.346690191Z","domain":"beta-gc.auth.canada.ca","issuer":"Sectigo","from":"2026-01-27T00:00:00Z","to":"2027-02-27T23:59:59Z"}
+{"id":"13584560135","timestamp":"2026-01-27T20:16:20.346690281Z","domain":"beta.gckey-clegc.gc.ca","issuer":"Sectigo","from":"2026-01-27T00:00:00Z","to":"2027-02-27T23:59:59Z"}
+{"id":"13584560135","timestamp":"2026-01-27T20:16:20.346691143Z","domain":"beta.gckey.gc.ca","issuer":"Sectigo","from":"2026-01-27T00:00:00Z","to":"2027-02-27T23:59:59Z"}
+{"id":"13584560135","timestamp":"2026-01-27T20:16:20.346691253Z","domain":"www.beta.clegc.gc.ca","issuer":"Sectigo","from":"2026-01-27T00:00:00Z","to":"2027-02-27T23:59:59Z"}
+{"id":"13584560135","timestamp":"2026-01-27T20:16:20.346691334Z","domain":"www.beta.clegc-gckey.gc.ca","issuer":"Sectigo","from":"2026-01-27T00:00:00Z","to":"2027-02-27T23:59:59Z"}
+{"id":"13584560135","timestamp":"2026-01-27T20:16:20.346691414Z","domain":"www.beta.gckey-clegc.gc.ca","issuer":"Sectigo","from":"2026-01-27T00:00:00Z","to":"2027-02-27T23:59:59Z"}
+{"id":"13584560135","timestamp":"2026-01-27T20:16:20.346692225Z","domain":"www.beta.gckey.gc.ca","issuer":"Sectigo","from":"2026-01-27T00:00:00Z","to":"2027-02-27T23:59:59Z"}
+{"id":"13584680083","timestamp":"2026-01-27T20:16:20.346692315Z","domain":"firearms-compensation-indemnisation-armes-feu-preview.canada.ca","issuer":"Sectigo","from":"2026-01-27T00:00:00Z","to":"2027-02-27T23:59:59Z"}
+{"id":"13584680083","timestamp":"2026-01-27T20:16:20.346692405Z","domain":"firearms-compensation-indemnisation-armes-feu-prod.canada.ca","issuer":"Sectigo","from":"2026-01-27T00:00:00Z","to":"2027-02-27T23:59:59Z"}
