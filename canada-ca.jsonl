@@ -15665,3 +15665,7 @@
 {"id":"13595227931","timestamp":"2026-01-28T16:18:39.221385504Z","domain":"apostille.canada.ca","issuer":"Sectigo","from":"2026-01-28T00:00:00Z","to":"2027-02-23T23:59:59Z"}
 {"id":"13595490713","timestamp":"2026-01-28T16:18:39.221386016Z","domain":"*.greenerhomes-maisonecologiques.canada.ca","issuer":"Sectigo","from":"2026-01-28T00:00:00Z","to":"2027-02-28T23:59:59Z"}
 {"id":"13595490713","timestamp":"2026-01-28T16:18:39.221386306Z","domain":"greenerhomes-maisonecologiques.canada.ca","issuer":"Sectigo","from":"2026-01-28T00:00:00Z","to":"2027-02-28T23:59:59Z"}
+{"id":"13596118926","timestamp":"2026-01-28T17:20:24.426599818Z","domain":"nachet.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-28T15:48:17Z","to":"2026-04-28T15:48:16Z"}
+{"id":"13596141723","timestamp":"2026-01-28T17:20:24.426600208Z","domain":"labelstudio.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-28T15:50:37Z","to":"2026-04-28T15:50:36Z"}
+{"id":"13596145652","timestamp":"2026-01-28T17:20:24.426600539Z","domain":"librechat.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-28T15:50:35Z","to":"2026-04-28T15:50:34Z"}
+{"id":"13596146153","timestamp":"2026-01-28T17:20:24.42660082Z","domain":"nachet-staging-op.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-28T15:50:35Z","to":"2026-04-28T15:50:34Z"}
