@@ -2225,3 +2225,7 @@
 {"id":"13572191780","timestamp":"2026-01-26T19:37:29.79342386Z","domain":"aqvc.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-01-26T18:08:35Z","to":"2026-04-26T18:08:34Z"}
 {"id":"13572192975","timestamp":"2026-01-26T19:37:29.793424631Z","domain":"api.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-01-26T18:10:39Z","to":"2026-04-26T18:10:38Z"}
 {"id":"13572192975","timestamp":"2026-01-26T19:37:29.793424701Z","domain":"realtime.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-01-26T18:10:39Z","to":"2026-04-26T18:10:38Z"}
+{"id":"13596024666","timestamp":"2026-01-28T16:45:58.921648246Z","domain":"*.app.migration.test.signin-connexion.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-01-28T00:00:00Z","to":"2027-02-26T23:59:59Z"}
+{"id":"13596024666","timestamp":"2026-01-28T16:45:58.921648757Z","domain":"app.migration.test.signin-connexion.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-01-28T00:00:00Z","to":"2027-02-26T23:59:59Z"}
+{"id":"13596024679","timestamp":"2026-01-28T16:45:58.921649088Z","domain":"*.api.migration.test.signin-connexion.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-01-28T00:00:00Z","to":"2027-02-26T23:59:59Z"}
+{"id":"13596024679","timestamp":"2026-01-28T16:45:58.921649398Z","domain":"api.migration.test.signin-connexion.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-01-28T00:00:00Z","to":"2027-02-26T23:59:59Z"}
