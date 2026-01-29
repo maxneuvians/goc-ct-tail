@@ -15786,3 +15786,7 @@
 {"id":"13603455297","timestamp":"2026-01-29T08:20:25.099259054Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-29T06:25:09Z","to":"2026-04-29T06:25:08Z"}
 {"id":"13603455297","timestamp":"2026-01-29T08:20:25.099259255Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-29T06:25:09Z","to":"2026-04-29T06:25:08Z"}
 {"id":"13606235138","timestamp":"2026-01-29T13:34:13.308934407Z","domain":"argocd.prod.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-29T11:44:49Z","to":"2026-04-29T11:44:48Z"}
+{"id":"13607532230","timestamp":"2026-01-29T15:20:03.358602059Z","domain":"gateway-passerelle.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-01-29T00:00:00Z","to":"2027-03-01T23:59:59Z"}
+{"id":"13607532230","timestamp":"2026-01-29T15:20:03.3586025Z","domain":"hcscb2cdev.gateway-passerelle.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-01-29T00:00:00Z","to":"2027-03-01T23:59:59Z"}
+{"id":"13607532230","timestamp":"2026-01-29T15:20:03.358602891Z","domain":"hcscb2cpreprod.gateway-passerelle.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-01-29T00:00:00Z","to":"2027-03-01T23:59:59Z"}
+{"id":"13607532230","timestamp":"2026-01-29T15:20:03.358603211Z","domain":"hcscb2cuat.gateway-passerelle.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-01-29T00:00:00Z","to":"2027-03-01T23:59:59Z"}
