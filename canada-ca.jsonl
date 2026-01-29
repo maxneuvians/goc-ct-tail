@@ -15781,3 +15781,7 @@
 {"id":"13597703756","timestamp":"2026-01-28T20:17:17.709210016Z","domain":"sosaa-gamma.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-28T00:00:00Z","to":"2027-02-28T23:59:59Z"}
 {"id":"13597799074","timestamp":"2026-01-28T20:17:17.709210136Z","domain":"billing.dev.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-28T19:04:51Z","to":"2026-04-28T19:04:50Z"}
 {"id":"13597799074","timestamp":"2026-01-28T20:17:17.709210227Z","domain":"billing.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-28T19:04:51Z","to":"2026-04-28T19:04:50Z"}
+{"id":"13603438718","timestamp":"2026-01-29T08:20:25.099258493Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-29T06:25:17Z","to":"2026-04-29T06:25:16Z"}
+{"id":"13603438718","timestamp":"2026-01-29T08:20:25.099258794Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-29T06:25:17Z","to":"2026-04-29T06:25:16Z"}
+{"id":"13603455297","timestamp":"2026-01-29T08:20:25.099259054Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-29T06:25:09Z","to":"2026-04-29T06:25:08Z"}
+{"id":"13603455297","timestamp":"2026-01-29T08:20:25.099259255Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-01-29T06:25:09Z","to":"2026-04-29T06:25:08Z"}
