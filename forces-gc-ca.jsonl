@@ -2295,3 +2295,5 @@
 {"id":"13582073586","timestamp":"2026-01-27T15:17:44.925219532Z","domain":"trg2.smms-sta.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-01-27T00:00:00Z","to":"2027-02-25T23:59:59Z"}
 {"id":"13595071863","timestamp":"2026-01-28T15:17:57.913347536Z","domain":"media-insights.stg.ntg-gim.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-01-28T00:00:00Z","to":"2027-02-28T23:59:59Z"}
 {"id":"13595071863","timestamp":"2026-01-28T15:17:57.913347827Z","domain":"medias-perspicace.stg.ntg-gim.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-01-28T00:00:00Z","to":"2027-02-28T23:59:59Z"}
+{"id":"13606217097","timestamp":"2026-01-29T13:34:12.566998589Z","domain":"pam.stg.ntg-gim.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-01-29T00:00:00Z","to":"2027-03-01T23:59:59Z"}
+{"id":"13606217097","timestamp":"2026-01-29T13:34:12.566999361Z","domain":"slp.stg.ntg-gim.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-01-29T00:00:00Z","to":"2027-03-01T23:59:59Z"}
