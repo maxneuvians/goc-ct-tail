@@ -15792,3 +15792,7 @@
 {"id":"13607532230","timestamp":"2026-01-29T15:20:03.358603211Z","domain":"hcscb2cuat.gateway-passerelle.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-01-29T00:00:00Z","to":"2027-03-01T23:59:59Z"}
 {"id":"13608024783","timestamp":"2026-01-29T16:21:54.711546217Z","domain":"ideabot-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-29T00:00:00Z","to":"2027-02-27T23:59:59Z"}
 {"id":"13608085457","timestamp":"2026-01-29T16:21:54.711546568Z","domain":"portalsecure.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-29T15:05:16Z","to":"2026-04-29T15:05:15Z"}
+{"id":"13608732270","timestamp":"2026-01-29T18:22:16.653898278Z","domain":"eagle.aurora.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-29T16:18:15Z","to":"2026-04-29T16:18:14Z"}
+{"id":"13608762311","timestamp":"2026-01-29T18:22:16.65389909Z","domain":"*.eagle.aurora.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-29T16:22:44Z","to":"2026-04-29T16:22:43Z"}
+{"id":"13608780639","timestamp":"2026-01-29T18:22:16.65389939Z","domain":"resource-catalogue.ws-nitrogen.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-29T16:25:50Z","to":"2026-04-29T16:25:49Z"}
+{"id":"13608795744","timestamp":"2026-01-29T18:22:16.653899681Z","domain":"mlflow.ws-nitrogen.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-01-29T16:25:51Z","to":"2026-04-29T16:25:50Z"}
