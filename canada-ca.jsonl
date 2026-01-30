@@ -15803,3 +15803,7 @@
 {"id":"13616447599","timestamp":"2026-01-30T10:18:56.627770005Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T08:40:57Z","to":"2026-04-30T08:40:56Z"}
 {"id":"13616447599","timestamp":"2026-01-30T10:18:56.627770445Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T08:40:57Z","to":"2026-04-30T08:40:56Z"}
 {"id":"13618644675","timestamp":"2026-01-30T14:21:52.208257631Z","domain":"dol-prod.prod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T13:11:20Z","to":"2026-04-30T13:11:19Z"}
+{"id":"13618861407","timestamp":"2026-01-30T15:19:22.58129208Z","domain":"cres-srec-websocket-dev1.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-30T00:00:00Z","to":"2027-02-28T23:59:59Z"}
+{"id":"13618863215","timestamp":"2026-01-30T15:19:22.581292451Z","domain":"cres-srec-websocket-dev.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-30T00:00:00Z","to":"2027-02-28T23:59:59Z"}
+{"id":"13618966367","timestamp":"2026-01-30T15:19:22.581292681Z","domain":"gec-cig.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-30T00:00:00Z","to":"2027-02-28T23:59:59Z"}
+{"id":"13618986865","timestamp":"2026-01-30T15:19:22.581292912Z","domain":"gec-cig.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-01-30T00:00:00Z","to":"2027-02-28T23:59:59Z"}
