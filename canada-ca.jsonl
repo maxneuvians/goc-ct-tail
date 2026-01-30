@@ -15844,3 +15844,16 @@
 {"id":"13620345958","timestamp":"2026-01-30T18:20:51.999313217Z","domain":"*.dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:29:13Z","to":"2026-04-30T16:29:12Z"}
 {"id":"13620345958","timestamp":"2026-01-30T18:20:51.999313298Z","domain":"dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:29:13Z","to":"2026-04-30T16:29:12Z"}
 {"id":"13620345958","timestamp":"2026-01-30T18:20:51.999313368Z","domain":"f6300751a589275b.e872a45d3dd6f931.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:29:13Z","to":"2026-04-30T16:29:12Z"}
+{"id":"13620978192","timestamp":"2026-01-30T19:20:59.573110691Z","domain":"frontend-dev.ssc-sand-gccopa.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T17:39:52Z","to":"2026-04-30T17:39:51Z"}
+{"id":"13621117420","timestamp":"2026-01-30T19:20:59.573111152Z","domain":"beta.ocama.achatscanada.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
+{"id":"13621117420","timestamp":"2026-01-30T19:20:59.573111483Z","domain":"beta.pda.canadabuys.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
+{"id":"13621117420","timestamp":"2026-01-30T19:20:59.573111773Z","domain":"beta.sosa.canadabuys.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
+{"id":"13621117420","timestamp":"2026-01-30T19:20:59.573111873Z","domain":"gamma.ocama.achatscanada.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
+{"id":"13621117420","timestamp":"2026-01-30T19:20:59.573113015Z","domain":"gamma.pda.canadabuys.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
+{"id":"13621117420","timestamp":"2026-01-30T19:20:59.573113106Z","domain":"gamma.sosa.canadabuys.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
+{"id":"13621117420","timestamp":"2026-01-30T19:20:59.573113216Z","domain":"ocama-beta.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
+{"id":"13621117420","timestamp":"2026-01-30T19:20:59.573113306Z","domain":"ocama-gamma.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
+{"id":"13621117420","timestamp":"2026-01-30T19:20:59.573114368Z","domain":"pda-beta.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
+{"id":"13621117420","timestamp":"2026-01-30T19:20:59.573114458Z","domain":"pda-gamma.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
+{"id":"13621117420","timestamp":"2026-01-30T19:20:59.573114558Z","domain":"sosaa-beta.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
+{"id":"13621117420","timestamp":"2026-01-30T19:20:59.573114649Z","domain":"sosaa-gamma.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
