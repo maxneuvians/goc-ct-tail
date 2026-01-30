@@ -15819,3 +15819,28 @@
 {"id":"13619314182","timestamp":"2026-01-30T16:19:45.488343108Z","domain":"pda-gamma.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
 {"id":"13619314182","timestamp":"2026-01-30T16:19:45.488343209Z","domain":"sosaa-beta.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
 {"id":"13619314182","timestamp":"2026-01-30T16:19:45.488343299Z","domain":"sosaa-gamma.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
+{"id":"13620303888","timestamp":"2026-01-30T18:20:51.999307266Z","domain":"*.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:26:17Z","to":"2026-04-30T16:26:16Z"}
+{"id":"13620303888","timestamp":"2026-01-30T18:20:51.999307727Z","domain":"dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:26:17Z","to":"2026-04-30T16:26:16Z"}
+{"id":"13620303888","timestamp":"2026-01-30T18:20:51.999307957Z","domain":"*.dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:26:17Z","to":"2026-04-30T16:26:16Z"}
+{"id":"13620303888","timestamp":"2026-01-30T18:20:51.999308198Z","domain":"dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:26:17Z","to":"2026-04-30T16:26:16Z"}
+{"id":"13620303888","timestamp":"2026-01-30T18:20:51.999308288Z","domain":"dffd67d4c7629619.fe67d28f179dc30a.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:26:17Z","to":"2026-04-30T16:26:16Z"}
+{"id":"13620313385","timestamp":"2026-01-30T18:20:51.999309791Z","domain":"920071a027445352.8315af6d4f9ad5b5.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:25:09Z","to":"2026-04-30T16:25:08Z"}
+{"id":"13620313385","timestamp":"2026-01-30T18:20:51.999309871Z","domain":"*.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:25:09Z","to":"2026-04-30T16:25:08Z"}
+{"id":"13620313385","timestamp":"2026-01-30T18:20:51.999309941Z","domain":"dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:25:09Z","to":"2026-04-30T16:25:08Z"}
+{"id":"13620313385","timestamp":"2026-01-30T18:20:51.999310011Z","domain":"*.dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:25:09Z","to":"2026-04-30T16:25:08Z"}
+{"id":"13620313385","timestamp":"2026-01-30T18:20:51.999310853Z","domain":"dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:25:09Z","to":"2026-04-30T16:25:08Z"}
+{"id":"13620334475","timestamp":"2026-01-30T18:20:51.999310943Z","domain":"*.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:27:05Z","to":"2026-04-30T16:27:04Z"}
+{"id":"13620334475","timestamp":"2026-01-30T18:20:51.999311013Z","domain":"dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:27:05Z","to":"2026-04-30T16:27:04Z"}
+{"id":"13620334475","timestamp":"2026-01-30T18:20:51.999311083Z","domain":"*.dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:27:05Z","to":"2026-04-30T16:27:04Z"}
+{"id":"13620334475","timestamp":"2026-01-30T18:20:51.999311163Z","domain":"dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:27:05Z","to":"2026-04-30T16:27:04Z"}
+{"id":"13620334475","timestamp":"2026-01-30T18:20:51.999311244Z","domain":"ef71406721bacd8b.99280eb120e72caf.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:27:05Z","to":"2026-04-30T16:27:04Z"}
+{"id":"13620336212","timestamp":"2026-01-30T18:20:51.999311334Z","domain":"da1c2f051159c547.3449e91036862e17.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:28:23Z","to":"2026-04-30T16:28:22Z"}
+{"id":"13620336212","timestamp":"2026-01-30T18:20:51.999311424Z","domain":"*.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:28:23Z","to":"2026-04-30T16:28:22Z"}
+{"id":"13620336212","timestamp":"2026-01-30T18:20:51.999311504Z","domain":"dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:28:23Z","to":"2026-04-30T16:28:22Z"}
+{"id":"13620336212","timestamp":"2026-01-30T18:20:51.999312897Z","domain":"*.dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:28:23Z","to":"2026-04-30T16:28:22Z"}
+{"id":"13620336212","timestamp":"2026-01-30T18:20:51.999312987Z","domain":"dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:28:23Z","to":"2026-04-30T16:28:22Z"}
+{"id":"13620345958","timestamp":"2026-01-30T18:20:51.999313067Z","domain":"*.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:29:13Z","to":"2026-04-30T16:29:12Z"}
+{"id":"13620345958","timestamp":"2026-01-30T18:20:51.999313137Z","domain":"dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:29:13Z","to":"2026-04-30T16:29:12Z"}
+{"id":"13620345958","timestamp":"2026-01-30T18:20:51.999313217Z","domain":"*.dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:29:13Z","to":"2026-04-30T16:29:12Z"}
+{"id":"13620345958","timestamp":"2026-01-30T18:20:51.999313298Z","domain":"dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:29:13Z","to":"2026-04-30T16:29:12Z"}
+{"id":"13620345958","timestamp":"2026-01-30T18:20:51.999313368Z","domain":"f6300751a589275b.e872a45d3dd6f931.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:29:13Z","to":"2026-04-30T16:29:12Z"}
