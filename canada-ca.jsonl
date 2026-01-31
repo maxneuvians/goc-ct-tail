@@ -15857,3 +15857,5 @@
 {"id":"13621117420","timestamp":"2026-01-30T19:20:59.573114458Z","domain":"pda-gamma.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
 {"id":"13621117420","timestamp":"2026-01-30T19:20:59.573114558Z","domain":"sosaa-beta.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
 {"id":"13621117420","timestamp":"2026-01-30T19:20:59.573114649Z","domain":"sosaa-gamma.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
+{"id":"13626751981","timestamp":"2026-01-31T06:20:11.732646967Z","domain":"*.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-31T05:07:18Z","to":"2026-05-01T05:07:17Z"}
+{"id":"13626751981","timestamp":"2026-01-31T06:20:11.732647518Z","domain":"science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-31T05:07:18Z","to":"2026-05-01T05:07:17Z"}
