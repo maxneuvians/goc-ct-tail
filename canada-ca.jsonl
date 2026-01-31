@@ -15859,3 +15859,27 @@
 {"id":"13621117420","timestamp":"2026-01-30T19:20:59.573114649Z","domain":"sosaa-gamma.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
 {"id":"13626751981","timestamp":"2026-01-31T06:20:11.732646967Z","domain":"*.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-31T05:07:18Z","to":"2026-05-01T05:07:17Z"}
 {"id":"13626751981","timestamp":"2026-01-31T06:20:11.732647518Z","domain":"science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-31T05:07:18Z","to":"2026-05-01T05:07:17Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109839004Z","domain":"ciafimd.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109839976Z","domain":"cidphn.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109840267Z","domain":"cidphn-sopf.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109840597Z","domain":"fraidg-ciafimd.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109840708Z","domain":"fraidg.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.10984198Z","domain":"navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.10984209Z","domain":"navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.10984218Z","domain":"ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.10984228Z","domain":"ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109843312Z","domain":"sopf-cidphn.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109843422Z","domain":"sopf.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109843513Z","domain":"www.ciafimd.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109843613Z","domain":"www.cidphn.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109843713Z","domain":"www.cidphn-sopf.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109843813Z","domain":"www.fraidg-ciafimd.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109843914Z","domain":"www.fraidg.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109844004Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109844104Z","domain":"www.navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109845396Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109845486Z","domain":"www.ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109845587Z","domain":"www.sopf-cidphn.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628342855","timestamp":"2026-01-31T10:16:29.109845677Z","domain":"www.sopf.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T08:41:49Z","to":"2026-05-01T08:41:48Z"}
+{"id":"13628547235","timestamp":"2026-01-31T10:16:29.109845837Z","domain":"*.innovation.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-31T09:08:03Z","to":"2026-05-01T09:08:02Z"}
+{"id":"13628547235","timestamp":"2026-01-31T10:16:29.109845957Z","domain":"innovation.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-01-31T09:08:03Z","to":"2026-05-01T09:08:02Z"}
