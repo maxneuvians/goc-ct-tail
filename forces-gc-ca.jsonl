@@ -2316,3 +2316,4 @@
 {"id":"13635014548","timestamp":"2026-02-01T00:56:33.325127164Z","domain":"*.vcds.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T23:03:56Z","to":"2026-05-01T23:03:55Z"}
 {"id":"13635018468","timestamp":"2026-02-01T00:56:33.325127805Z","domain":"*.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T23:03:52Z","to":"2026-05-01T23:03:51Z"}
 {"id":"13635018468","timestamp":"2026-02-01T00:56:33.325127895Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T23:03:52Z","to":"2026-05-01T23:03:51Z"}
+{"id":"13643982275","timestamp":"2026-02-01T19:17:01.001715565Z","domain":"portal-api-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2026-02-01T17:34:52Z","to":"2026-05-02T18:29:26Z"}
