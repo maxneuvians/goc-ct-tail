@@ -19755,3 +19755,13 @@
 {"id":"13637868881","timestamp":"2026-02-01T06:26:47.78925843Z","domain":"gsc.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-01T04:45:20Z","to":"2026-05-02T04:45:19Z"}
 {"id":"13637868881","timestamp":"2026-02-01T06:26:47.789259011Z","domain":"pad-dev.gsca.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-01T04:45:20Z","to":"2026-05-02T04:45:19Z"}
 {"id":"13637868881","timestamp":"2026-02-01T06:26:47.789259081Z","domain":"pad.gsca.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-01T04:45:20Z","to":"2026-05-02T04:45:19Z"}
+{"id":"13652241796","timestamp":"2026-02-02T13:36:10.051698346Z","domain":"gnss-ftp-prod1.nrcan.gc.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
+{"id":"13652241796","timestamp":"2026-02-02T13:36:10.051698697Z","domain":"gnss-ftp-prod2.nrcan.gc.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
+{"id":"13652241796","timestamp":"2026-02-02T13:36:10.051698867Z","domain":"gnss-ntrip-prod1.nrcan.gc.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
+{"id":"13652241796","timestamp":"2026-02-02T13:36:10.051699068Z","domain":"gnss-ntrip-prod2.nrcan.gc.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
+{"id":"13652241796","timestamp":"2026-02-02T13:36:10.051699158Z","domain":"ntrip1.nrcan.gc.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
+{"id":"13652241796","timestamp":"2026-02-02T13:36:10.05170026Z","domain":"ntrip2.nrcan.gc.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
+{"id":"13652241796","timestamp":"2026-02-02T13:36:10.05170034Z","domain":"ntrip.nrcan.gc.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
+{"id":"13652241796","timestamp":"2026-02-02T13:36:10.05170042Z","domain":"wcda1.nrcan.gc.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
+{"id":"13652241796","timestamp":"2026-02-02T13:36:10.0517005Z","domain":"wcda2.nrcan.gc.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
+{"id":"13652241796","timestamp":"2026-02-02T13:36:10.051701592Z","domain":"wcda.nrcan.gc.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
