@@ -2318,3 +2318,5 @@
 {"id":"13635018468","timestamp":"2026-02-01T00:56:33.325127895Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-01-31T23:03:52Z","to":"2026-05-01T23:03:51Z"}
 {"id":"13643982275","timestamp":"2026-02-01T19:17:01.001715565Z","domain":"portal-api-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2026-02-01T17:34:52Z","to":"2026-05-02T18:29:26Z"}
 {"id":"13646553401","timestamp":"2026-02-02T00:50:28.027139684Z","domain":"gs.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-02T00:00:00Z","to":"2027-03-03T23:59:59Z"}
+{"id":"13653643860","timestamp":"2026-02-02T16:19:04.41029356Z","domain":"www.cmrsj-rmcsj.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
+{"id":"13653643860","timestamp":"2026-02-02T16:19:04.4102972Z","domain":"www.cmrsj-rmcsj.forces.gc.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
