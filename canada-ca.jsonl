@@ -15960,3 +15960,11 @@
 {"id":"13653663254","timestamp":"2026-02-02T16:19:04.294762785Z","domain":"www.defense-complaints.canada.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
 {"id":"13653663254","timestamp":"2026-02-02T16:19:04.294762895Z","domain":"www.plaintes-defence.canada.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
 {"id":"13653956249","timestamp":"2026-02-02T16:19:04.294763005Z","domain":"*.dnd-sand-dice.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-02T15:02:28Z","to":"2026-05-03T15:02:27Z"}
+{"id":"13654307636","timestamp":"2026-02-02T17:23:29.301533565Z","domain":"ocama-beta.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-02T00:00:00Z","to":"2027-03-03T23:59:59Z"}
+{"id":"13654307636","timestamp":"2026-02-02T17:23:29.301534096Z","domain":"ocama-gamma.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-02T00:00:00Z","to":"2027-03-03T23:59:59Z"}
+{"id":"13654307636","timestamp":"2026-02-02T17:23:29.301534406Z","domain":"pda-beta.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-02T00:00:00Z","to":"2027-03-03T23:59:59Z"}
+{"id":"13654307636","timestamp":"2026-02-02T17:23:29.301534687Z","domain":"pda-gamma.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-02T00:00:00Z","to":"2027-03-03T23:59:59Z"}
+{"id":"13654307636","timestamp":"2026-02-02T17:23:29.301534807Z","domain":"sosaa-beta.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-02T00:00:00Z","to":"2027-03-03T23:59:59Z"}
+{"id":"13654307636","timestamp":"2026-02-02T17:23:29.30153623Z","domain":"sosaa-gamma.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-02T00:00:00Z","to":"2027-03-03T23:59:59Z"}
+{"id":"13654475407","timestamp":"2026-02-02T17:23:29.30153636Z","domain":"static-site-dev.dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-02T00:00:00Z","to":"2027-03-03T23:59:59Z"}
+{"id":"13654534653","timestamp":"2026-02-02T17:23:29.301536691Z","domain":"gptr-mcp.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-02T16:04:22Z","to":"2026-05-03T16:04:21Z"}
