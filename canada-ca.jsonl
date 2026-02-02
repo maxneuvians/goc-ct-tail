@@ -15951,3 +15951,12 @@
 {"id":"13653193774","timestamp":"2026-02-02T15:24:10.451623584Z","domain":"gptr.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-02T13:28:05Z","to":"2026-05-03T13:28:04Z"}
 {"id":"13653370362","timestamp":"2026-02-02T15:24:10.451623815Z","domain":"litellm.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-02T13:50:33Z","to":"2026-05-03T13:50:32Z"}
 {"id":"13653391108","timestamp":"2026-02-02T15:24:10.451623995Z","domain":"ollama.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-02T13:54:09Z","to":"2026-05-03T13:54:08Z"}
+{"id":"13653623954","timestamp":"2026-02-02T16:19:04.29476023Z","domain":"cartes.canada.ca","issuer":"Let's Encrypt","from":"2026-02-02T14:21:50Z","to":"2026-05-03T14:21:49Z"}
+{"id":"13653623954","timestamp":"2026-02-02T16:19:04.294760711Z","domain":"csw.open.canada.ca","issuer":"Let's Encrypt","from":"2026-02-02T14:21:50Z","to":"2026-05-03T14:21:49Z"}
+{"id":"13653623954","timestamp":"2026-02-02T16:19:04.294760971Z","domain":"maps.canada.ca","issuer":"Let's Encrypt","from":"2026-02-02T14:21:50Z","to":"2026-05-03T14:21:49Z"}
+{"id":"13653623954","timestamp":"2026-02-02T16:19:04.294761242Z","domain":"www.maps.canada.ca","issuer":"Let's Encrypt","from":"2026-02-02T14:21:50Z","to":"2026-05-03T14:21:49Z"}
+{"id":"13653663254","timestamp":"2026-02-02T16:19:04.294761472Z","domain":"defense-complaints.canada.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
+{"id":"13653663254","timestamp":"2026-02-02T16:19:04.294762685Z","domain":"plaintes-defence.canada.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
+{"id":"13653663254","timestamp":"2026-02-02T16:19:04.294762785Z","domain":"www.defense-complaints.canada.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
+{"id":"13653663254","timestamp":"2026-02-02T16:19:04.294762895Z","domain":"www.plaintes-defence.canada.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
+{"id":"13653956249","timestamp":"2026-02-02T16:19:04.294763005Z","domain":"*.dnd-sand-dice.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-02T15:02:28Z","to":"2026-05-03T15:02:27Z"}
