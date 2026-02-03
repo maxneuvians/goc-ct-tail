@@ -16065,3 +16065,7 @@
 {"id":"13665400873","timestamp":"2026-02-03T16:28:26.141055222Z","domain":"vac-personnel-acc.canada.ca","issuer":"DigiCert","from":"2026-02-03T00:00:00Z","to":"2026-08-03T23:59:59Z"}
 {"id":"13666069582","timestamp":"2026-02-03T17:29:16.650002387Z","domain":"portal.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-03T15:36:29Z","to":"2026-05-04T15:36:28Z"}
 {"id":"13666073629","timestamp":"2026-02-03T17:29:16.650002837Z","domain":"portail.prod.delivrance-verification.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-03T15:36:29Z","to":"2026-05-04T15:36:28Z"}
+{"id":"13666982015","timestamp":"2026-02-03T18:28:42.504535773Z","domain":"gateway-passerelle-2.dev.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-02-03T00:00:00Z","to":"2027-03-06T23:59:59Z"}
+{"id":"13666982015","timestamp":"2026-02-03T18:28:42.504536133Z","domain":"gateway-passerelle-2.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-02-03T00:00:00Z","to":"2027-03-06T23:59:59Z"}
+{"id":"13666982015","timestamp":"2026-02-03T18:28:42.504536344Z","domain":"gateway-passerelle-2.preprod.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-02-03T00:00:00Z","to":"2027-03-06T23:59:59Z"}
+{"id":"13666982015","timestamp":"2026-02-03T18:28:42.504536574Z","domain":"gateway-passerelle-2.uat.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-02-03T00:00:00Z","to":"2027-03-06T23:59:59Z"}
