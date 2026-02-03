@@ -3501,7 +3501,10 @@
       "Let's Encrypt": 61
     },
     "2026-02-02": {
-      "Let's Encrypt": 2
+      "Let's Encrypt": 14,
+      "Sectigo": 4,
+      "Amazon Trust Services": 17,
+      "DigiCert": 1
     }
   },
   "errors": []

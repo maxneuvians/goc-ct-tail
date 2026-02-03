@@ -1066,7 +1066,11 @@
       "Google Trust Services": 1
     },
     "2026-02-02": {
-      "Amazon Trust Services": 1
+      "Amazon Trust Services": 1,
+      "Sectigo": 4
+    },
+    "2026-02-03": {
+      "Sectigo": 6
     }
   },
   "errors": []
