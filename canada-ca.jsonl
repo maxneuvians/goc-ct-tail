@@ -15982,3 +15982,5 @@
 {"id":"13656402438","timestamp":"2026-02-02T23:17:24.66795284Z","domain":"sosaa.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-02T00:00:00Z","to":"2027-03-03T23:59:59Z"}
 {"id":"13656627637","timestamp":"2026-02-02T23:17:24.66795292Z","domain":"eagle.aurora.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-02T20:31:06Z","to":"2026-05-03T20:31:05Z"}
 {"id":"13660428276","timestamp":"2026-02-03T05:31:39.330199618Z","domain":"arrivecan-dev1de.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-03T00:00:00Z","to":"2027-03-04T23:59:59Z"}
+{"id":"13661370861","timestamp":"2026-02-03T08:20:23.601938126Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-03T06:24:43Z","to":"2026-05-04T06:24:42Z"}
+{"id":"13661370861","timestamp":"2026-02-03T08:20:23.601938627Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-03T06:24:43Z","to":"2026-05-04T06:24:42Z"}
