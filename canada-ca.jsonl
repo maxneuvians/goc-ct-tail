@@ -16069,3 +16069,5 @@
 {"id":"13666982015","timestamp":"2026-02-03T18:28:42.504536133Z","domain":"gateway-passerelle-2.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-02-03T00:00:00Z","to":"2027-03-06T23:59:59Z"}
 {"id":"13666982015","timestamp":"2026-02-03T18:28:42.504536344Z","domain":"gateway-passerelle-2.preprod.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-02-03T00:00:00Z","to":"2027-03-06T23:59:59Z"}
 {"id":"13666982015","timestamp":"2026-02-03T18:28:42.504536574Z","domain":"gateway-passerelle-2.uat.hc-sc.canada.ca","issuer":"Sectigo","from":"2026-02-03T00:00:00Z","to":"2027-03-06T23:59:59Z"}
+{"id":"13667739497","timestamp":"2026-02-03T20:19:14.477364366Z","domain":"auth-dev.climate-change.canada.ca","issuer":"DigiCert","from":"2026-02-03T00:00:00Z","to":"2026-08-03T23:59:59Z"}
+{"id":"13668050748","timestamp":"2026-02-03T20:19:14.477364717Z","domain":"tapx-rolemanager-prd-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-02-03T19:08:45Z","to":"2026-05-04T19:08:44Z"}
