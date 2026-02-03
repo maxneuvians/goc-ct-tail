@@ -828,3 +828,9 @@
 {"id":"13582353371","timestamp":"2026-01-27T15:41:38.467664796Z","domain":"alfred-stg.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-01-27T14:30:29Z","to":"2026-04-27T14:30:28Z"}
 {"id":"13582353371","timestamp":"2026-01-27T15:41:38.467664876Z","domain":"alfred-tst.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-01-27T14:30:29Z","to":"2026-04-27T14:30:28Z"}
 {"id":"13620590353","timestamp":"2026-01-30T18:46:48.946331479Z","domain":"jimbob.test.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-01-30T16:58:36Z","to":"2026-04-30T16:58:35Z"}
+{"id":"13662631531","timestamp":"2026-02-03T10:46:10.95497755Z","domain":"beaver.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-03T09:01:51Z","to":"2026-05-04T09:01:50Z"}
+{"id":"13662633698","timestamp":"2026-02-03T10:46:10.954978161Z","domain":"*.s3.uranus.nbs.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-03T09:01:54Z","to":"2026-05-04T09:01:53Z"}
+{"id":"13662635875","timestamp":"2026-02-03T10:46:10.954978532Z","domain":"*.services.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-03T09:02:17Z","to":"2026-05-04T09:02:16Z"}
+{"id":"13662635875","timestamp":"2026-02-03T10:46:10.954978802Z","domain":"services.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-03T09:02:17Z","to":"2026-05-04T09:02:16Z"}
+{"id":"13662638632","timestamp":"2026-02-03T10:46:10.954978932Z","domain":"*.services.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-03T09:02:24Z","to":"2026-05-04T09:02:23Z"}
+{"id":"13662665349","timestamp":"2026-02-03T10:46:10.954980495Z","domain":"*.decaf.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-03T09:02:51Z","to":"2026-05-04T09:02:50Z"}
