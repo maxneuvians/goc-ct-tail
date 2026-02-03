@@ -16055,3 +16055,7 @@
 {"id":"13664019158","timestamp":"2026-02-03T13:36:19.919116582Z","domain":"wages-salaires.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-03T11:42:46Z","to":"2026-05-04T11:42:45Z"}
 {"id":"13664112258","timestamp":"2026-02-03T13:36:19.919116692Z","domain":"api.io.canada.ca","issuer":"Let's Encrypt","from":"2026-02-03T11:53:08Z","to":"2026-05-04T11:53:07Z"}
 {"id":"13664112258","timestamp":"2026-02-03T13:36:19.919116782Z","domain":"api-test.io.canada.ca","issuer":"Let's Encrypt","from":"2026-02-03T11:53:08Z","to":"2026-05-04T11:53:07Z"}
+{"id":"13664599975","timestamp":"2026-02-03T14:26:41.447849418Z","domain":"portalsecure.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-03T12:51:12Z","to":"2026-05-04T12:51:11Z"}
+{"id":"13664843671","timestamp":"2026-02-03T14:26:41.447849729Z","domain":"ocama.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-03T00:00:00Z","to":"2027-03-04T23:59:59Z"}
+{"id":"13664843671","timestamp":"2026-02-03T14:26:41.447849959Z","domain":"pda.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-03T00:00:00Z","to":"2027-03-04T23:59:59Z"}
+{"id":"13664843671","timestamp":"2026-02-03T14:26:41.447850169Z","domain":"sosaa.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-03T00:00:00Z","to":"2027-03-04T23:59:59Z"}
