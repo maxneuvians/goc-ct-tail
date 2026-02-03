@@ -16063,3 +16063,5 @@
 {"id":"13664994188","timestamp":"2026-02-03T15:26:56.989457983Z","domain":"maps-staging.canada.ca","issuer":"Let's Encrypt","from":"2026-02-03T13:36:40Z","to":"2026-05-04T13:36:39Z"}
 {"id":"13665047101","timestamp":"2026-02-03T15:26:56.989458254Z","domain":"fin.canada.ca","issuer":"Sectigo","from":"2026-02-03T00:00:00Z","to":"2027-03-06T23:59:59Z"}
 {"id":"13665400873","timestamp":"2026-02-03T16:28:26.141055222Z","domain":"vac-personnel-acc.canada.ca","issuer":"DigiCert","from":"2026-02-03T00:00:00Z","to":"2026-08-03T23:59:59Z"}
+{"id":"13666069582","timestamp":"2026-02-03T17:29:16.650002387Z","domain":"portal.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-03T15:36:29Z","to":"2026-05-04T15:36:28Z"}
+{"id":"13666073629","timestamp":"2026-02-03T17:29:16.650002837Z","domain":"portail.prod.delivrance-verification.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-03T15:36:29Z","to":"2026-05-04T15:36:28Z"}
