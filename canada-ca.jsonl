@@ -16059,3 +16059,6 @@
 {"id":"13664843671","timestamp":"2026-02-03T14:26:41.447849729Z","domain":"ocama.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-03T00:00:00Z","to":"2027-03-04T23:59:59Z"}
 {"id":"13664843671","timestamp":"2026-02-03T14:26:41.447849959Z","domain":"pda.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-03T00:00:00Z","to":"2027-03-04T23:59:59Z"}
 {"id":"13664843671","timestamp":"2026-02-03T14:26:41.447850169Z","domain":"sosaa.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-03T00:00:00Z","to":"2027-03-04T23:59:59Z"}
+{"id":"13664994188","timestamp":"2026-02-03T15:26:56.989457673Z","domain":"cartes-staging.canada.ca","issuer":"Let's Encrypt","from":"2026-02-03T13:36:40Z","to":"2026-05-04T13:36:39Z"}
+{"id":"13664994188","timestamp":"2026-02-03T15:26:56.989457983Z","domain":"maps-staging.canada.ca","issuer":"Let's Encrypt","from":"2026-02-03T13:36:40Z","to":"2026-05-04T13:36:39Z"}
+{"id":"13665047101","timestamp":"2026-02-03T15:26:56.989458254Z","domain":"fin.canada.ca","issuer":"Sectigo","from":"2026-02-03T00:00:00Z","to":"2027-03-06T23:59:59Z"}
