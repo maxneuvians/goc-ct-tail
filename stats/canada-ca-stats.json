@@ -3505,6 +3505,16 @@
       "Sectigo": 4,
       "Amazon Trust Services": 17,
       "DigiCert": 1
+    },
+    "2026-02-03": {
+      "Amazon Trust Services": 4,
+      "Let's Encrypt": 87,
+      "Sectigo": 5,
+      "DigiCert": 2
+    },
+    "2026-02-04": {
+      "Amazon Trust Services": 3,
+      "DigiCert": 1
     }
   },
   "errors": []
