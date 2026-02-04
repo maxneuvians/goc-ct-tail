@@ -16117,3 +16117,8 @@
 {"id":"13680199112","timestamp":"2026-02-04T20:18:03.624463801Z","domain":"myaw-monlta-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-02-04T19:06:50Z","to":"2026-05-05T19:06:49Z"}
 {"id":"13680334817","timestamp":"2026-02-04T21:19:43.291548416Z","domain":"myaw-monlta-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-02-04T19:22:09Z","to":"2026-05-05T19:22:08Z"}
 {"id":"13680334817","timestamp":"2026-02-04T21:19:43.291548674Z","domain":"myaw-monlta-prd-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-02-04T19:22:09Z","to":"2026-05-05T19:22:08Z"}
+{"id":"13680763327","timestamp":"2026-02-04T22:16:57.141875261Z","domain":"rpss-qa-backend.apim-dev.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-02-04T20:13:43Z","to":"2026-05-05T20:13:42Z"}
+{"id":"13680784716","timestamp":"2026-02-04T22:16:57.141875932Z","domain":"*.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-02-04T20:15:50Z","to":"2026-05-05T20:15:49Z"}
+{"id":"13680784716","timestamp":"2026-02-04T22:16:57.141876248Z","domain":"crises.canada.ca","issuer":"Let's Encrypt","from":"2026-02-04T20:15:50Z","to":"2026-05-05T20:15:49Z"}
+{"id":"13680784716","timestamp":"2026-02-04T22:16:57.141876517Z","domain":"*.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-02-04T20:15:50Z","to":"2026-05-05T20:15:49Z"}
+{"id":"13680784716","timestamp":"2026-02-04T22:16:57.141876587Z","domain":"crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-02-04T20:15:50Z","to":"2026-05-05T20:15:49Z"}
