@@ -16132,3 +16132,4 @@
 {"id":"13685728522","timestamp":"2026-02-05T08:23:25.460749071Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-05T06:29:50Z","to":"2026-05-06T06:29:49Z"}
 {"id":"13685740558","timestamp":"2026-02-05T08:23:25.460749362Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-05T06:29:43Z","to":"2026-05-06T06:29:42Z"}
 {"id":"13685740558","timestamp":"2026-02-05T08:23:25.460749632Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-05T06:29:43Z","to":"2026-05-06T06:29:42Z"}
+{"id":"13691248809","timestamp":"2026-02-05T18:28:01.02854628Z","domain":"ces-docs.nrcan-rncan.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-02-05T00:00:00Z","to":"2026-08-05T23:59:59Z"}
