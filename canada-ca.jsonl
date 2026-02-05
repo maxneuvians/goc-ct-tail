@@ -16128,3 +16128,7 @@
 {"id":"13681721777","timestamp":"2026-02-05T00:49:55.400530351Z","domain":"mlflow.ws-lxu.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-04T22:18:49Z","to":"2026-05-05T22:18:48Z"}
 {"id":"13684547873","timestamp":"2026-02-05T05:34:00.339943193Z","domain":"f.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-02-05T04:04:39Z","to":"2026-05-06T04:04:38Z"}
 {"id":"13684547873","timestamp":"2026-02-05T05:34:00.339943644Z","domain":"tapx-rolemanager-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-02-05T04:04:39Z","to":"2026-05-06T04:04:38Z"}
+{"id":"13685728522","timestamp":"2026-02-05T08:23:25.460748501Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-05T06:29:50Z","to":"2026-05-06T06:29:49Z"}
+{"id":"13685728522","timestamp":"2026-02-05T08:23:25.460749071Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-05T06:29:50Z","to":"2026-05-06T06:29:49Z"}
+{"id":"13685740558","timestamp":"2026-02-05T08:23:25.460749362Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-05T06:29:43Z","to":"2026-05-06T06:29:42Z"}
+{"id":"13685740558","timestamp":"2026-02-05T08:23:25.460749632Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-05T06:29:43Z","to":"2026-05-06T06:29:42Z"}
