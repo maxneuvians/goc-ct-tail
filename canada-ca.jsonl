@@ -16133,3 +16133,8 @@
 {"id":"13685740558","timestamp":"2026-02-05T08:23:25.460749362Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-05T06:29:43Z","to":"2026-05-06T06:29:42Z"}
 {"id":"13685740558","timestamp":"2026-02-05T08:23:25.460749632Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-05T06:29:43Z","to":"2026-05-06T06:29:42Z"}
 {"id":"13691248809","timestamp":"2026-02-05T18:28:01.02854628Z","domain":"ces-docs.nrcan-rncan.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-02-05T00:00:00Z","to":"2026-08-05T23:59:59Z"}
+{"id":"13693138029","timestamp":"2026-02-05T22:17:04.890668145Z","domain":"*.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-02-05T20:25:14Z","to":"2026-05-06T20:25:13Z"}
+{"id":"13693138029","timestamp":"2026-02-05T22:17:04.890668847Z","domain":"crises.canada.ca","issuer":"Let's Encrypt","from":"2026-02-05T20:25:14Z","to":"2026-05-06T20:25:13Z"}
+{"id":"13693138029","timestamp":"2026-02-05T22:17:04.890669167Z","domain":"*.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-02-05T20:25:14Z","to":"2026-05-06T20:25:13Z"}
+{"id":"13693138029","timestamp":"2026-02-05T22:17:04.890669397Z","domain":"crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-02-05T20:25:14Z","to":"2026-05-06T20:25:13Z"}
+{"id":"13693161250","timestamp":"2026-02-05T22:17:04.890669538Z","domain":"hcscienceforum-forumscientifiquesc.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-05T20:30:53Z","to":"2026-05-06T20:30:52Z"}
