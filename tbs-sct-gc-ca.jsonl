@@ -1149,3 +1149,6 @@
 {"id":"13680499721","timestamp":"2026-02-04T21:43:47.131108768Z","domain":"v3-eepr-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-02-04T19:42:47Z","to":"2026-05-05T19:42:46Z"}
 {"id":"13680553352","timestamp":"2026-02-04T21:43:47.131109199Z","domain":"v3-calipersplusapi-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-02-04T19:48:43Z","to":"2026-05-05T19:48:42Z"}
 {"id":"13680642396","timestamp":"2026-02-04T21:43:47.1311095Z","domain":"infobase-data-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-02-04T20:01:13Z","to":"2026-05-05T20:01:12Z"}
+{"id":"13684519078","timestamp":"2026-02-05T05:48:36.350020233Z","domain":"v3-pbi-trd-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-02-05T04:03:20Z","to":"2026-05-06T04:03:19Z"}
+{"id":"13684547873","timestamp":"2026-02-05T05:48:36.350020672Z","domain":"f.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-02-05T04:04:39Z","to":"2026-05-06T04:04:38Z"}
+{"id":"13684547873","timestamp":"2026-02-05T05:48:36.35002098Z","domain":"tapx-rolemanager-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-02-05T04:04:39Z","to":"2026-05-06T04:04:38Z"}
