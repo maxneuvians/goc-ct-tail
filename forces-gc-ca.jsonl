@@ -2342,3 +2342,7 @@
 {"id":"13692568593","timestamp":"2026-02-05T21:17:34.52327461Z","domain":"api.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-05T00:00:00Z","to":"2027-03-06T23:59:59Z"}
 {"id":"13692818948","timestamp":"2026-02-05T21:17:34.523275131Z","domain":"api.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-05T00:00:00Z","to":"2027-03-06T23:59:59Z"}
 {"id":"13701124352","timestamp":"2026-02-06T15:23:52.736326666Z","domain":"api.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-06T00:00:00Z","to":"2027-03-07T23:59:59Z"}
+{"id":"13701803257","timestamp":"2026-02-06T16:24:00.583803978Z","domain":"api.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-06T00:00:00Z","to":"2027-03-07T23:59:59Z"}
+{"id":"13702065929","timestamp":"2026-02-06T16:24:00.583804378Z","domain":"api.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-06T00:00:00Z","to":"2027-03-07T23:59:59Z"}
+{"id":"13702136546","timestamp":"2026-02-06T16:24:00.583804629Z","domain":"cargo-ops.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-02-06T00:00:00Z","to":"2027-03-09T23:59:59Z"}
+{"id":"13702136546","timestamp":"2026-02-06T16:24:00.583804849Z","domain":"co.cargo-ops.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-02-06T00:00:00Z","to":"2027-03-09T23:59:59Z"}
