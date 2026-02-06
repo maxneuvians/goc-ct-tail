@@ -16172,3 +16172,15 @@
 {"id":"13702619659","timestamp":"2026-02-06T17:24:52.665843839Z","domain":"csv2.innovation.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-06T00:00:00Z","to":"2027-03-07T23:59:59Z"}
 {"id":"13702986522","timestamp":"2026-02-06T18:25:24.585754759Z","domain":"military-transition.canada.ca","issuer":"Sectigo","from":"2026-02-06T00:00:00Z","to":"2027-03-09T23:59:59Z"}
 {"id":"13702986522","timestamp":"2026-02-06T18:25:24.585755149Z","domain":"transition-militaire.canada.ca","issuer":"Sectigo","from":"2026-02-06T00:00:00Z","to":"2027-03-09T23:59:59Z"}
+{"id":"13703927673","timestamp":"2026-02-06T20:17:52.026429622Z","domain":"*.dev.crise.canada.ca","issuer":"Let's Encrypt","from":"2026-02-06T18:34:07Z","to":"2026-05-07T18:34:06Z"}
+{"id":"13703927673","timestamp":"2026-02-06T20:17:52.026430213Z","domain":"dev.crise.canada.ca","issuer":"Let's Encrypt","from":"2026-02-06T18:34:07Z","to":"2026-05-07T18:34:06Z"}
+{"id":"13703927673","timestamp":"2026-02-06T20:17:52.026430804Z","domain":"*.dev.crise.international.gc.ca","issuer":"Let's Encrypt","from":"2026-02-06T18:34:07Z","to":"2026-05-07T18:34:06Z"}
+{"id":"13703927673","timestamp":"2026-02-06T20:17:52.026431255Z","domain":"dev.crise.international.gc.ca","issuer":"Let's Encrypt","from":"2026-02-06T18:34:07Z","to":"2026-05-07T18:34:06Z"}
+{"id":"13703927673","timestamp":"2026-02-06T20:17:52.026431365Z","domain":"*.dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-02-06T18:34:07Z","to":"2026-05-07T18:34:06Z"}
+{"id":"13703927673","timestamp":"2026-02-06T20:17:52.026432597Z","domain":"dev.crises.canada.ca","issuer":"Let's Encrypt","from":"2026-02-06T18:34:07Z","to":"2026-05-07T18:34:06Z"}
+{"id":"13703927673","timestamp":"2026-02-06T20:17:52.026432698Z","domain":"*.dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-02-06T18:34:07Z","to":"2026-05-07T18:34:06Z"}
+{"id":"13703927673","timestamp":"2026-02-06T20:17:52.026432798Z","domain":"dev.crises.international.gc.ca","issuer":"Let's Encrypt","from":"2026-02-06T18:34:07Z","to":"2026-05-07T18:34:06Z"}
+{"id":"13703927673","timestamp":"2026-02-06T20:17:52.026433129Z","domain":"*.dev.crisis.canada.ca","issuer":"Let's Encrypt","from":"2026-02-06T18:34:07Z","to":"2026-05-07T18:34:06Z"}
+{"id":"13703927673","timestamp":"2026-02-06T20:17:52.026434491Z","domain":"dev.crisis.canada.ca","issuer":"Let's Encrypt","from":"2026-02-06T18:34:07Z","to":"2026-05-07T18:34:06Z"}
+{"id":"13703927673","timestamp":"2026-02-06T20:17:52.026434581Z","domain":"*.dev.crisis.international.gc.ca","issuer":"Let's Encrypt","from":"2026-02-06T18:34:07Z","to":"2026-05-07T18:34:06Z"}
+{"id":"13703927673","timestamp":"2026-02-06T20:17:52.026434672Z","domain":"dev.crisis.international.gc.ca","issuer":"Let's Encrypt","from":"2026-02-06T18:34:07Z","to":"2026-05-07T18:34:06Z"}
