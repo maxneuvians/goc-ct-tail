@@ -438,3 +438,6 @@
 {"id":"13677642042","timestamp":"2026-02-04T15:57:45.366754372Z","domain":"auth-dev.csps-efpc.gc.ca","issuer":"Sectigo","from":"2026-02-04T00:00:00Z","to":"2027-03-07T23:59:59Z"}
 {"id":"13680307723","timestamp":"2026-02-04T20:53:28.625176169Z","domain":"auth.csps-efpc.gc.ca","issuer":"Sectigo","from":"2026-02-04T00:00:00Z","to":"2027-03-07T23:59:59Z"}
 {"id":"13690991334","timestamp":"2026-02-05T17:58:50.927440748Z","domain":"idm-staging.csps-efpc.gc.ca","issuer":"Sectigo","from":"2026-02-05T00:00:00Z","to":"2027-03-08T23:59:59Z"}
+{"id":"13704794771","timestamp":"2026-02-06T21:49:53.368493166Z","domain":"esb-staging.csps-efpc.gc.ca","issuer":"Sectigo","from":"2026-02-06T00:00:00Z","to":"2027-03-09T23:59:59Z"}
+{"id":"13704870231","timestamp":"2026-02-06T21:49:53.368493717Z","domain":"esb-dev.csps-efpc.gc.ca","issuer":"Sectigo","from":"2026-02-06T00:00:00Z","to":"2027-03-09T23:59:59Z"}
+{"id":"13704910589","timestamp":"2026-02-06T21:49:53.368494047Z","domain":"idm-dev.csps-efpc.gc.ca","issuer":"Sectigo","from":"2026-02-06T00:00:00Z","to":"2027-03-09T23:59:59Z"}
