@@ -835,3 +835,6 @@
 {"id":"13696892468","timestamp":"2026-02-06T06:01:10.229482677Z","domain":"esut1vmkwmft02.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-02-06T00:00:00Z","to":"2027-02-05T23:59:59Z"}
 {"id":"13699356210","timestamp":"2026-02-06T11:50:29.980772622Z","domain":"csut1vmkwmft01.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-02-06T00:00:00Z","to":"2027-02-05T23:59:59Z"}
 {"id":"13699383814","timestamp":"2026-02-06T11:50:29.980773117Z","domain":"esut1vmkwmft02.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-02-06T00:00:00Z","to":"2027-02-05T23:59:59Z"}
+{"id":"13702243452","timestamp":"2026-02-06T16:59:33.251366537Z","domain":"mu-dev-05.non-prod.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-02-06T00:00:00Z","to":"2027-02-05T23:59:59Z"}
+{"id":"13702243452","timestamp":"2026-02-06T16:59:33.251366887Z","domain":"*.non-prod.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-02-06T00:00:00Z","to":"2027-02-05T23:59:59Z"}
+{"id":"13702243452","timestamp":"2026-02-06T16:59:33.251367198Z","domain":"non-prod.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-02-06T00:00:00Z","to":"2027-02-05T23:59:59Z"}
