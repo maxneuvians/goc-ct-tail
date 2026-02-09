@@ -16219,3 +16219,28 @@
 {"id":"13740410800","timestamp":"2026-02-09T19:39:07.22534643Z","domain":"gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-09T18:23:09Z","to":"2026-05-10T18:23:08Z"}
 {"id":"13740411851","timestamp":"2026-02-09T19:39:07.225346791Z","domain":"traefik.gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-09T18:23:18Z","to":"2026-05-10T18:23:17Z"}
 {"id":"13740535403","timestamp":"2026-02-09T20:22:06.156974264Z","domain":"atip-uat.apim.tbs-sct.canada.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783015382Z","domain":"bibliotheques-scientifiques.canada.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783015783Z","domain":"bsf-fsl.cnrc-nrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783016023Z","domain":"bsf-fsl.scitech.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783016624Z","domain":"bsn-nsl.cnrc-nrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783016715Z","domain":"connexion-login.cnrc-nrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783017777Z","domain":"depot-numerique-cnrc.canada.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783017857Z","domain":"dn-dr.cnrc-nrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783017927Z","domain":"dr-dn.nrc-cnrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783017997Z","domain":"fsl-bsf.nrc-cnrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783018899Z","domain":"fsl-bsf.scitech.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783018969Z","domain":"login-connexion.nrc-cnrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783019039Z","domain":"nparc.cnrc-nrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783019129Z","domain":"nparc.nrc-cnrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783019209Z","domain":"nrc-digital-repository.canada.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.78301928Z","domain":"nrc-publications.canada.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.78301936Z","domain":"nsl-bsn.nrc-cnrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.78301944Z","domain":"oai-pmh.cnrc-nrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.78301951Z","domain":"oai-pmh.nrc-cnrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783020732Z","domain":"publications-cnrc.canada.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783020812Z","domain":"science-libraries.canada.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783020883Z","domain":"scitech.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783020953Z","domain":"soundpaths.cnrc-nrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783021033Z","domain":"soundpaths.nrc-cnrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783021103Z","domain":"wae.cnrc-nrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13741267664","timestamp":"2026-02-09T21:22:56.783021173Z","domain":"wae.nrc-cnrc.gc.ca","issuer":"Sectigo","from":"2026-02-09T00:00:00Z","to":"2027-03-12T23:59:59Z"}
