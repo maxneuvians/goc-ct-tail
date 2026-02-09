@@ -16211,3 +16211,7 @@
 {"id":"13734717356","timestamp":"2026-02-09T10:32:16.699467933Z","domain":"www.ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2026-02-09T08:40:47Z","to":"2026-05-10T08:40:46Z"}
 {"id":"13735316043","timestamp":"2026-02-09T11:27:04.711159077Z","domain":"mlflow.ws-wmackinnon.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-09T09:43:19Z","to":"2026-05-10T09:43:18Z"}
 {"id":"13735332658","timestamp":"2026-02-09T11:27:04.711159468Z","domain":"resource-catalogue.ws-wmackinnon.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-09T09:43:19Z","to":"2026-05-10T09:43:18Z"}
+{"id":"13736708711","timestamp":"2026-02-09T13:42:02.835446107Z","domain":"api.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-09T12:06:37Z","to":"2026-05-10T12:06:36Z"}
+{"id":"13736708711","timestamp":"2026-02-09T13:42:02.835446428Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-09T12:06:37Z","to":"2026-05-10T12:06:36Z"}
+{"id":"13736708711","timestamp":"2026-02-09T13:42:02.835446618Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-09T12:06:37Z","to":"2026-05-10T12:06:36Z"}
+{"id":"13736708711","timestamp":"2026-02-09T13:42:02.835446828Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-09T12:06:37Z","to":"2026-05-10T12:06:36Z"}
