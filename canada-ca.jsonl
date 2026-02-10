@@ -16251,3 +16251,5 @@
 {"id":"13746064064","timestamp":"2026-02-10T06:36:47.611762688Z","domain":"login-uat.indigenous-services.canada.ca","issuer":"DigiCert","from":"2026-02-10T00:00:00Z","to":"2026-08-10T23:59:59Z"}
 {"id":"13746756885","timestamp":"2026-02-10T07:34:03.962997451Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-10T06:25:17Z","to":"2026-05-11T06:25:16Z"}
 {"id":"13746756885","timestamp":"2026-02-10T07:34:03.962997832Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-10T06:25:17Z","to":"2026-05-11T06:25:16Z"}
+{"id":"13746812878","timestamp":"2026-02-10T08:25:43.750578729Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-10T06:31:46Z","to":"2026-05-11T06:31:45Z"}
+{"id":"13746812878","timestamp":"2026-02-10T08:25:43.7505791Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-10T06:31:46Z","to":"2026-05-11T06:31:45Z"}
