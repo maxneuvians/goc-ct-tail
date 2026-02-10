@@ -16249,3 +16249,5 @@
 {"id":"13742891829","timestamp":"2026-02-10T00:56:10.781237251Z","domain":"*.systeme-design.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-10T00:00:00Z","to":"2027-03-11T23:59:59Z"}
 {"id":"13742891829","timestamp":"2026-02-10T00:56:10.781237481Z","domain":"systeme-design.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-10T00:00:00Z","to":"2027-03-11T23:59:59Z"}
 {"id":"13746064064","timestamp":"2026-02-10T06:36:47.611762688Z","domain":"login-uat.indigenous-services.canada.ca","issuer":"DigiCert","from":"2026-02-10T00:00:00Z","to":"2026-08-10T23:59:59Z"}
+{"id":"13746756885","timestamp":"2026-02-10T07:34:03.962997451Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-10T06:25:17Z","to":"2026-05-11T06:25:16Z"}
+{"id":"13746756885","timestamp":"2026-02-10T07:34:03.962997832Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-10T06:25:17Z","to":"2026-05-11T06:25:16Z"}
