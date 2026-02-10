@@ -317,3 +317,7 @@
 {"id":"13698613874","timestamp":"2026-02-06T10:23:17.672623421Z","domain":"catalogue.pc.gc.ca","issuer":"Let's Encrypt","from":"2026-02-06T08:24:38Z","to":"2026-05-07T08:24:37Z"}
 {"id":"13746473921","timestamp":"2026-02-10T07:34:05.431720847Z","domain":"www.ilesidney.pc.gc.ca","issuer":"Let's Encrypt","from":"2026-02-10T05:59:44Z","to":"2026-05-11T05:59:43Z"}
 {"id":"13746494500","timestamp":"2026-02-10T07:34:05.431721238Z","domain":"ilesidney.pc.gc.ca","issuer":"Let's Encrypt","from":"2026-02-10T06:01:44Z","to":"2026-05-11T06:01:43Z"}
+{"id":"13754808015","timestamp":"2026-02-10T22:22:56.29366366Z","domain":"autodiscover.pc.gc.ca","issuer":"Sectigo","from":"2026-02-10T00:00:00Z","to":"2027-03-13T23:59:59Z"}
+{"id":"13754808015","timestamp":"2026-02-10T22:22:56.293664281Z","domain":"mail.pc.gc.ca","issuer":"Sectigo","from":"2026-02-10T00:00:00Z","to":"2027-03-13T23:59:59Z"}
+{"id":"13754808015","timestamp":"2026-02-10T22:22:56.293664622Z","domain":"mrs.pc.gc.ca","issuer":"Sectigo","from":"2026-02-10T00:00:00Z","to":"2027-03-13T23:59:59Z"}
+{"id":"13754808015","timestamp":"2026-02-10T22:22:56.293665012Z","domain":"webmail.pc.gc.ca","issuer":"Sectigo","from":"2026-02-10T00:00:00Z","to":"2027-03-13T23:59:59Z"}
