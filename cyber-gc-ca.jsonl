@@ -839,3 +839,5 @@
 {"id":"13723684970","timestamp":"2026-02-08T12:47:12.32963147Z","domain":"core.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-08T11:09:04Z","to":"2026-05-09T11:09:03Z"}
 {"id":"13724868268","timestamp":"2026-02-08T14:42:40.070056517Z","domain":"*.dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-08T13:35:54Z","to":"2026-05-09T13:35:53Z"}
 {"id":"13724868268","timestamp":"2026-02-08T14:42:40.070056878Z","domain":"dev.pb.analysis.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-08T13:35:54Z","to":"2026-05-09T13:35:53Z"}
+{"id":"13748270164","timestamp":"2026-02-10T10:48:18.386761868Z","domain":"gw8.misp.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-10T09:01:58Z","to":"2026-05-11T09:01:57Z"}
+{"id":"13748273763","timestamp":"2026-02-10T10:48:18.386762409Z","domain":"cyberpostureassessments.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-10T09:02:31Z","to":"2026-05-11T09:02:30Z"}
