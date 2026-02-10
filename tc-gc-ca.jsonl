@@ -383,3 +383,5 @@
 {"id":"13585616579","timestamp":"2026-01-27T22:16:29.550143789Z","domain":"stats.tc.gc.ca","issuer":"DigiCert","from":"2026-01-27T00:00:00Z","to":"2027-02-27T23:59:59Z"}
 {"id":"13658355385","timestamp":"2026-02-03T01:46:26.926007172Z","domain":"*.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-02-03T00:01:46Z","to":"2026-05-04T00:01:45Z"}
 {"id":"13658355385","timestamp":"2026-02-03T01:46:26.926007462Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2026-02-03T00:01:46Z","to":"2026-05-04T00:01:45Z"}
+{"id":"13743378389","timestamp":"2026-02-10T01:46:55.33061304Z","domain":"*.dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-02-10T00:01:47Z","to":"2026-05-11T00:01:46Z"}
+{"id":"13743378389","timestamp":"2026-02-10T01:46:55.330613461Z","domain":"dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-02-10T00:01:47Z","to":"2026-05-11T00:01:46Z"}
