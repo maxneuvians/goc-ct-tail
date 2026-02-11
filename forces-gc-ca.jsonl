@@ -2354,3 +2354,11 @@
 {"id":"13738141307","timestamp":"2026-02-09T16:30:50.240640176Z","domain":"api.admin.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-09T00:00:00Z","to":"2027-03-10T23:59:59Z"}
 {"id":"13740953646","timestamp":"2026-02-09T21:22:56.448976389Z","domain":"api.admin.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-09T00:00:00Z","to":"2027-03-10T23:59:59Z"}
 {"id":"13753494525","timestamp":"2026-02-10T19:34:26.788073923Z","domain":"smmsgeo-trg-sta.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-10T00:00:00Z","to":"2027-03-11T23:59:59Z"}
+{"id":"13762693354","timestamp":"2026-02-11T12:29:32.135661616Z","domain":"api.trg1.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-02-11T00:00:00Z","to":"2027-03-14T23:59:59Z"}
+{"id":"13762693354","timestamp":"2026-02-11T12:29:32.135662147Z","domain":"api.trg2.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-02-11T00:00:00Z","to":"2027-03-14T23:59:59Z"}
+{"id":"13762693354","timestamp":"2026-02-11T12:29:32.135662357Z","domain":"api.trg3.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-02-11T00:00:00Z","to":"2027-03-14T23:59:59Z"}
+{"id":"13762693354","timestamp":"2026-02-11T12:29:32.135662598Z","domain":"api.trg4.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-02-11T00:00:00Z","to":"2027-03-14T23:59:59Z"}
+{"id":"13762693354","timestamp":"2026-02-11T12:29:32.135662688Z","domain":"trg1.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-02-11T00:00:00Z","to":"2027-03-14T23:59:59Z"}
+{"id":"13762693354","timestamp":"2026-02-11T12:29:32.135663329Z","domain":"trg2.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-02-11T00:00:00Z","to":"2027-03-14T23:59:59Z"}
+{"id":"13762693354","timestamp":"2026-02-11T12:29:32.135663399Z","domain":"trg3.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-02-11T00:00:00Z","to":"2027-03-14T23:59:59Z"}
+{"id":"13762693354","timestamp":"2026-02-11T12:29:32.135663469Z","domain":"trg4.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-02-11T00:00:00Z","to":"2027-03-14T23:59:59Z"}
