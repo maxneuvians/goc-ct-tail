@@ -3542,7 +3542,14 @@
       "Amazon Trust Services": 2
     },
     "2026-02-10": {
-      "Amazon Trust Services": 2
+      "Amazon Trust Services": 8,
+      "DigiCert": 1,
+      "Let's Encrypt": 6,
+      "Sectigo": 1
+    },
+    "2026-02-11": {
+      "Amazon Trust Services": 5,
+      "Let's Encrypt": 1
     }
   },
   "errors": []
