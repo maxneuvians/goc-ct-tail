@@ -16368,3 +16368,5 @@
 {"id":"13774521399","timestamp":"2026-02-12T08:24:38.256278509Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-12T06:29:57Z","to":"2026-05-13T06:29:56Z"}
 {"id":"13774521399","timestamp":"2026-02-12T08:24:38.25627896Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-12T06:29:57Z","to":"2026-05-13T06:29:56Z"}
 {"id":"13774569847","timestamp":"2026-02-12T08:24:38.25627922Z","domain":"suggestion.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-12T06:34:47Z","to":"2026-05-13T06:34:46Z"}
+{"id":"13778391402","timestamp":"2026-02-12T14:30:30.108555386Z","domain":"language-weaver.canada.ca","issuer":"Sectigo","from":"2026-02-12T00:00:00Z","to":"2027-03-15T23:59:59Z"}
+{"id":"13778418744","timestamp":"2026-02-12T14:30:30.108555897Z","domain":"test-languageweaver.canada.ca","issuer":"Sectigo","from":"2026-02-12T00:00:00Z","to":"2027-03-15T23:59:59Z"}
