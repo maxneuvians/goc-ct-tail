@@ -16351,3 +16351,8 @@
 {"id":"13767500971","timestamp":"2026-02-11T20:21:27.513703979Z","domain":"wages-salaires.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-11T18:34:20Z","to":"2026-05-12T18:34:19Z"}
 {"id":"13768551195","timestamp":"2026-02-11T22:17:33.573419803Z","domain":"systeme-design.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-11T00:00:00Z","to":"2027-03-12T23:59:59Z"}
 {"id":"13768551260","timestamp":"2026-02-11T22:17:33.573420224Z","domain":"design-system.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-11T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13769989746","timestamp":"2026-02-12T00:49:56.185293513Z","domain":"*.cdn.design-system.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-11T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13769989746","timestamp":"2026-02-12T00:49:56.185294064Z","domain":"cdn.design-system.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-11T00:00:00Z","to":"2027-03-12T23:59:59Z"}
+{"id":"13770005776","timestamp":"2026-02-12T00:49:56.185294625Z","domain":"kubernetes-dashboard-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-02-11T22:55:53Z","to":"2026-05-12T22:55:52Z"}
+{"id":"13770189450","timestamp":"2026-02-12T00:49:56.185294936Z","domain":"*.systeme-design.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-12T00:00:00Z","to":"2027-03-13T23:59:59Z"}
+{"id":"13770189450","timestamp":"2026-02-12T00:49:56.185295056Z","domain":"systeme-design.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-12T00:00:00Z","to":"2027-03-13T23:59:59Z"}
