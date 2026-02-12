@@ -3548,8 +3548,12 @@
       "Sectigo": 1
     },
     "2026-02-11": {
-      "Amazon Trust Services": 5,
-      "Let's Encrypt": 1
+      "Amazon Trust Services": 9,
+      "Let's Encrypt": 80,
+      "Sectigo": 3
+    },
+    "2026-02-12": {
+      "Amazon Trust Services": 4
     }
   },
   "errors": []
