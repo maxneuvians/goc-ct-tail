@@ -16381,3 +16381,9 @@
 {"id":"13781992958","timestamp":"2026-02-12T20:18:34.076170685Z","domain":"our-languages.canada.ca","issuer":"Sectigo","from":"2026-02-12T00:00:00Z","to":"2027-03-15T23:59:59Z"}
 {"id":"13781994538","timestamp":"2026-02-12T20:18:34.076171005Z","domain":"*.prod-finance.c.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-02-12T00:00:00Z","to":"2027-03-15T23:59:59Z"}
 {"id":"13781994538","timestamp":"2026-02-12T20:18:34.076171246Z","domain":"prod-finance.c.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-02-12T00:00:00Z","to":"2027-03-15T23:59:59Z"}
+{"id":"13782273276","timestamp":"2026-02-12T21:19:03.623043988Z","domain":"moncanafe-myfintrac-dev.canafe-fintrac.canada.ca","issuer":"Sectigo","from":"2026-02-12T00:00:00Z","to":"2027-03-15T23:59:59Z"}
+{"id":"13782273276","timestamp":"2026-02-12T21:19:03.623044459Z","domain":"moncanafe-myfintrac-qa.canafe-fintrac.canada.ca","issuer":"Sectigo","from":"2026-02-12T00:00:00Z","to":"2027-03-15T23:59:59Z"}
+{"id":"13782273276","timestamp":"2026-02-12T21:19:03.62304477Z","domain":"myfintrac-moncanafe-dev.fintrac-canafe.canada.ca","issuer":"Sectigo","from":"2026-02-12T00:00:00Z","to":"2027-03-15T23:59:59Z"}
+{"id":"13782273276","timestamp":"2026-02-12T21:19:03.623045561Z","domain":"myfintrac-moncanafe-qa.fintrac-canafe.canada.ca","issuer":"Sectigo","from":"2026-02-12T00:00:00Z","to":"2027-03-15T23:59:59Z"}
+{"id":"13782526972","timestamp":"2026-02-12T21:19:03.623045712Z","domain":"fcac-compliance-conformite-acfc.canada.ca","issuer":"DigiCert","from":"2026-02-12T00:00:00Z","to":"2026-07-23T23:59:59Z"}
+{"id":"13782542261","timestamp":"2026-02-12T21:19:03.623046724Z","domain":"fcac-compliance-test-essai-conformite-acfc.canada.ca","issuer":"DigiCert","from":"2026-02-12T00:00:00Z","to":"2026-07-23T23:59:59Z"}
