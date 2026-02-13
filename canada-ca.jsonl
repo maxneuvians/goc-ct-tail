@@ -16397,3 +16397,7 @@
 {"id":"13794134393","timestamp":"2026-02-13T16:24:30.369805513Z","domain":"*.ssc-prod-cloudopsportal.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-13T15:02:58Z","to":"2026-05-14T15:02:57Z"}
 {"id":"13794652715","timestamp":"2026-02-13T17:26:30.113818546Z","domain":"preprod.nexcol-nceel.canada.ca","issuer":"Sectigo","from":"2026-02-13T00:00:00Z","to":"2027-03-16T23:59:59Z"}
 {"id":"13794847481","timestamp":"2026-02-13T17:26:30.113818968Z","domain":"workload1.c1-qa21106.qa21106.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-02-13T16:09:20Z","to":"2026-05-14T17:03:33Z"}
+{"id":"13795662451","timestamp":"2026-02-13T19:26:45.370102816Z","domain":"clinical-information.canada.ca","issuer":"Sectigo","from":"2026-02-13T00:00:00Z","to":"2027-03-16T23:59:59Z"}
+{"id":"13795662451","timestamp":"2026-02-13T19:26:45.370103177Z","domain":"renseignements-cliniques.canada.ca","issuer":"Sectigo","from":"2026-02-13T00:00:00Z","to":"2027-03-16T23:59:59Z"}
+{"id":"13795662451","timestamp":"2026-02-13T19:26:45.370103388Z","domain":"www.clinical-information.canada.ca","issuer":"Sectigo","from":"2026-02-13T00:00:00Z","to":"2027-03-16T23:59:59Z"}
+{"id":"13795662451","timestamp":"2026-02-13T19:26:45.370103628Z","domain":"www.renseignements-cliniques.canada.ca","issuer":"Sectigo","from":"2026-02-13T00:00:00Z","to":"2027-03-16T23:59:59Z"}
