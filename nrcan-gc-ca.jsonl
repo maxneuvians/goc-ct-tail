@@ -19821,3 +19821,7 @@
 {"id":"13765883651","timestamp":"2026-02-11T17:31:14.072277518Z","domain":"scifv.scf.rncan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-11T15:49:14Z","to":"2026-05-12T15:49:13Z"}
 {"id":"13787777038","timestamp":"2026-02-13T06:32:20.653347843Z","domain":"bootcamp.nrcan.gc.ca","issuer":"Sectigo","from":"2026-02-13T00:00:00Z","to":"2026-05-14T23:59:59Z"}
 {"id":"13787777038","timestamp":"2026-02-13T06:32:20.653348404Z","domain":"bootcamp.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2026-02-13T00:00:00Z","to":"2026-05-14T23:59:59Z"}
+{"id":"13796489076","timestamp":"2026-02-13T20:19:37.858894689Z","domain":"*.ccifv.rncan.gc.ca","issuer":"Sectigo","from":"2026-02-13T00:00:00Z","to":"2027-03-16T23:59:59Z"}
+{"id":"13796489076","timestamp":"2026-02-13T20:19:37.8588952Z","domain":"*.cwfif.nrcan.gc.ca","issuer":"Sectigo","from":"2026-02-13T00:00:00Z","to":"2027-03-16T23:59:59Z"}
+{"id":"13796489076","timestamp":"2026-02-13T20:19:37.85889551Z","domain":"cwfis.cfs.nrcan.gc.ca","issuer":"Sectigo","from":"2026-02-13T00:00:00Z","to":"2027-03-16T23:59:59Z"}
+{"id":"13796489076","timestamp":"2026-02-13T20:19:37.858895741Z","domain":"scifv.scf.rncan.gc.ca","issuer":"Sectigo","from":"2026-02-13T00:00:00Z","to":"2027-03-16T23:59:59Z"}
