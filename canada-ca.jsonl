@@ -16409,3 +16409,9 @@
 {"id":"13805387841","timestamp":"2026-02-14T12:17:40.010301827Z","domain":"policy-community.canada.ca","issuer":"Google Trust Services","from":"2026-02-14T10:55:52Z","to":"2026-05-15T11:55:22Z"}
 {"id":"13805393762","timestamp":"2026-02-14T12:17:40.010302228Z","domain":"policy-community.canada.ca","issuer":"Google Trust Services","from":"2026-02-14T10:55:13Z","to":"2026-05-15T11:53:52Z"}
 {"id":"13806558849","timestamp":"2026-02-14T15:16:50.174109125Z","domain":"litellm.uat.ibm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-14T13:15:55Z","to":"2026-05-15T13:15:54Z"}
+{"id":"13807933511","timestamp":"2026-02-14T17:17:12.741589169Z","domain":"billing.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-14T15:57:05Z","to":"2026-05-15T15:57:04Z"}
+{"id":"13808002945","timestamp":"2026-02-14T17:17:12.74158954Z","domain":"*.d2.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-14T16:02:41Z","to":"2026-05-15T16:02:40Z"}
+{"id":"13808002945","timestamp":"2026-02-14T17:17:12.74158974Z","domain":"*.dev.d2.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-14T16:02:41Z","to":"2026-05-15T16:02:40Z"}
+{"id":"13808002945","timestamp":"2026-02-14T17:17:12.741590011Z","domain":"*.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-14T16:02:41Z","to":"2026-05-15T16:02:40Z"}
+{"id":"13808002945","timestamp":"2026-02-14T17:17:12.741590091Z","domain":"gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-14T16:02:41Z","to":"2026-05-15T16:02:40Z"}
+{"id":"13808002945","timestamp":"2026-02-14T17:17:12.741591112Z","domain":"*.test.d2.gcshare.az.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-14T16:02:41Z","to":"2026-05-15T16:02:40Z"}
