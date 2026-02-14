@@ -3558,6 +3558,12 @@
       "DigiCert": 4,
       "Sectigo": 17,
       "Google Trust Services": 1
+    },
+    "2026-02-13": {
+      "Let's Encrypt": 8,
+      "DigiCert": 1,
+      "Sectigo": 6,
+      "Google Trust Services": 2
     }
   },
   "errors": []
