@@ -3564,6 +3564,13 @@
       "DigiCert": 1,
       "Sectigo": 6,
       "Google Trust Services": 2
+    },
+    "2026-02-14": {
+      "Google Trust Services": 2,
+      "Let's Encrypt": 7
+    },
+    "2026-02-15": {
+      "Amazon Trust Services": 1
     }
   },
   "errors": []
