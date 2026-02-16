@@ -16431,3 +16431,10 @@
 {"id":"13828948842","timestamp":"2026-02-16T13:38:19.590113679Z","domain":"www.srv129.services.gc.ca","issuer":"Sectigo","from":"2026-02-16T00:00:00Z","to":"2027-03-19T23:59:59Z"}
 {"id":"13829073372","timestamp":"2026-02-16T13:38:19.590113799Z","domain":"cres-srec-websocket-test.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-16T00:00:00Z","to":"2027-03-17T23:59:59Z"}
 {"id":"13829074095","timestamp":"2026-02-16T13:38:19.590113909Z","domain":"cres-srec-websocket.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-16T00:00:00Z","to":"2027-03-17T23:59:59Z"}
+{"id":"13830045117","timestamp":"2026-02-16T15:24:39.637004879Z","domain":"fcac-compliance-test-essai-conformite-acfc.canada.ca","issuer":"DigiCert","from":"2026-02-16T00:00:00Z","to":"2026-08-16T23:59:59Z"}
+{"id":"13830096145","timestamp":"2026-02-16T15:24:39.637005841Z","domain":"carrieres-communaute-ti-defense.canada.ca","issuer":"Let's Encrypt","from":"2026-02-16T14:04:09Z","to":"2026-05-17T14:04:08Z"}
+{"id":"13830096145","timestamp":"2026-02-16T15:24:39.637006151Z","domain":"defence-it-community-careers.canada.ca","issuer":"Let's Encrypt","from":"2026-02-16T14:04:09Z","to":"2026-05-17T14:04:08Z"}
+{"id":"13830096145","timestamp":"2026-02-16T15:24:39.637006492Z","domain":"dt-it-be.dnd-sand-dice.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-16T14:04:09Z","to":"2026-05-17T14:04:08Z"}
+{"id":"13830096145","timestamp":"2026-02-16T15:24:39.637006572Z","domain":"dt-it.dnd-sand-dice.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-16T14:04:09Z","to":"2026-05-17T14:04:08Z"}
+{"id":"13830096145","timestamp":"2026-02-16T15:24:39.637007684Z","domain":"ed-ti.dnd-sand-dice.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-16T14:04:09Z","to":"2026-05-17T14:04:08Z"}
+{"id":"13830127613","timestamp":"2026-02-16T15:24:39.637007774Z","domain":"fcac-compliance-conformite-acfc.canada.ca","issuer":"DigiCert","from":"2026-02-16T00:00:00Z","to":"2026-08-16T23:59:59Z"}
