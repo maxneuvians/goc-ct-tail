@@ -16422,3 +16422,12 @@
 {"id":"13822864207","timestamp":"2026-02-16T00:50:38.498946949Z","domain":"gcclassifications-dev.tpsgc-pwgsc.aws.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-16T00:00:00Z","to":"2027-03-17T23:59:59Z"}
 {"id":"13823320400","timestamp":"2026-02-16T01:46:14.264519855Z","domain":"*.acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-02-16T00:01:45Z","to":"2026-05-17T00:01:44Z"}
 {"id":"13823320400","timestamp":"2026-02-16T01:46:14.264520396Z","domain":"acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-02-16T00:01:45Z","to":"2026-05-17T00:01:44Z"}
+{"id":"13828827126","timestamp":"2026-02-16T13:38:19.590110463Z","domain":"index-de-jurisprudence.canada.ca","issuer":"Sectigo","from":"2026-02-16T00:00:00Z","to":"2027-03-19T23:59:59Z"}
+{"id":"13828827126","timestamp":"2026-02-16T13:38:19.590111765Z","domain":"index-of-jurisprudence.canada.ca","issuer":"Sectigo","from":"2026-02-16T00:00:00Z","to":"2027-03-19T23:59:59Z"}
+{"id":"13828827126","timestamp":"2026-02-16T13:38:19.590112036Z","domain":"srv130.services.gc.ca","issuer":"Sectigo","from":"2026-02-16T00:00:00Z","to":"2027-03-19T23:59:59Z"}
+{"id":"13828948842","timestamp":"2026-02-16T13:38:19.590112356Z","domain":"ei-regions.canada.ca","issuer":"Sectigo","from":"2026-02-16T00:00:00Z","to":"2027-03-19T23:59:59Z"}
+{"id":"13828948842","timestamp":"2026-02-16T13:38:19.590112477Z","domain":"regions-ae.canada.ca","issuer":"Sectigo","from":"2026-02-16T00:00:00Z","to":"2027-03-19T23:59:59Z"}
+{"id":"13828948842","timestamp":"2026-02-16T13:38:19.590113579Z","domain":"srv129.services.gc.ca","issuer":"Sectigo","from":"2026-02-16T00:00:00Z","to":"2027-03-19T23:59:59Z"}
+{"id":"13828948842","timestamp":"2026-02-16T13:38:19.590113679Z","domain":"www.srv129.services.gc.ca","issuer":"Sectigo","from":"2026-02-16T00:00:00Z","to":"2027-03-19T23:59:59Z"}
+{"id":"13829073372","timestamp":"2026-02-16T13:38:19.590113799Z","domain":"cres-srec-websocket-test.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-16T00:00:00Z","to":"2027-03-17T23:59:59Z"}
+{"id":"13829074095","timestamp":"2026-02-16T13:38:19.590113909Z","domain":"cres-srec-websocket.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-16T00:00:00Z","to":"2027-03-17T23:59:59Z"}
