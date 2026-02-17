@@ -16457,3 +16457,9 @@
 {"id":"13839943943","timestamp":"2026-02-17T11:25:28.572154732Z","domain":"minio-console.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-17T10:08:15Z","to":"2026-05-18T10:08:14Z"}
 {"id":"13839951369","timestamp":"2026-02-17T11:25:28.572155093Z","domain":"minio.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-17T10:08:16Z","to":"2026-05-18T10:08:15Z"}
 {"id":"13841173733","timestamp":"2026-02-17T13:38:27.318672058Z","domain":"micro-acquisition.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-17T12:30:08Z","to":"2026-05-18T12:30:07Z"}
+{"id":"13841972797","timestamp":"2026-02-17T15:27:43.627787493Z","domain":"mlflow.ws-asimoneau.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-17T14:01:49Z","to":"2026-05-18T14:01:48Z"}
+{"id":"13841974205","timestamp":"2026-02-17T15:27:43.627787904Z","domain":"resource-catalogue.ws-asimoneau.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-17T14:02:03Z","to":"2026-05-18T14:02:02Z"}
+{"id":"13842029978","timestamp":"2026-02-17T15:27:43.627788134Z","domain":"mlflow.ws-stolszczuk.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-17T14:08:41Z","to":"2026-05-18T14:08:40Z"}
+{"id":"13842030096","timestamp":"2026-02-17T15:27:43.627788354Z","domain":"resource-catalogue.ws-stolszczuk.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-17T14:08:41Z","to":"2026-05-18T14:08:40Z"}
+{"id":"13842072291","timestamp":"2026-02-17T15:27:43.627788445Z","domain":"resource-catalogue.ws-blehrbass.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-17T14:13:17Z","to":"2026-05-18T14:13:16Z"}
+{"id":"13842080585","timestamp":"2026-02-17T15:27:43.627789476Z","domain":"mlflow.ws-blehrbass.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-17T14:13:17Z","to":"2026-05-18T14:13:16Z"}
