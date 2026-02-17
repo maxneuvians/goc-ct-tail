@@ -3574,8 +3574,11 @@
       "Let's Encrypt": 3
     },
     "2026-02-16": {
-      "Amazon Trust Services": 1,
-      "Let's Encrypt": 2
+      "Amazon Trust Services": 4,
+      "Let's Encrypt": 16,
+      "Sectigo": 7,
+      "DigiCert": 2,
+      "Google Trust Services": 1
     }
   },
   "errors": []
