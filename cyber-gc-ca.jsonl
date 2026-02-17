@@ -842,3 +842,15 @@
 {"id":"13748270164","timestamp":"2026-02-10T10:48:18.386761868Z","domain":"gw8.misp.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-10T09:01:58Z","to":"2026-05-11T09:01:57Z"}
 {"id":"13748273763","timestamp":"2026-02-10T10:48:18.386762409Z","domain":"cyberpostureassessments.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-10T09:02:31Z","to":"2026-05-11T09:02:30Z"}
 {"id":"13836120657","timestamp":"2026-02-17T04:17:28.323585372Z","domain":"*.floonet.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-17T02:31:38Z","to":"2026-05-18T02:31:37Z"}
+{"id":"13839379490","timestamp":"2026-02-17T10:47:01.135817525Z","domain":"beaver.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-17T09:01:38Z","to":"2026-05-18T09:01:37Z"}
+{"id":"13839381863","timestamp":"2026-02-17T10:47:01.135817956Z","domain":"malware-stg.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-17T09:02:02Z","to":"2026-05-18T09:02:01Z"}
+{"id":"13839385350","timestamp":"2026-02-17T10:47:01.135818226Z","domain":"beaver.ino.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-17T09:02:44Z","to":"2026-05-18T09:02:43Z"}
+{"id":"13839398492","timestamp":"2026-02-17T10:47:01.135818446Z","domain":"beaver.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-17T09:03:05Z","to":"2026-05-18T09:03:04Z"}
+{"id":"13839407071","timestamp":"2026-02-17T10:47:01.135818547Z","domain":"*.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-17T09:03:34Z","to":"2026-05-18T09:03:33Z"}
+{"id":"13839407071","timestamp":"2026-02-17T10:47:01.13582002Z","domain":"collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-17T09:03:34Z","to":"2026-05-18T09:03:33Z"}
+{"id":"13839408608","timestamp":"2026-02-17T10:47:01.13582012Z","domain":"*.floonet.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-17T09:04:16Z","to":"2026-05-18T09:04:15Z"}
+{"id":"13839414689","timestamp":"2026-02-17T10:47:01.13582021Z","domain":"*.gitlab.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-17T09:04:03Z","to":"2026-05-18T09:04:02Z"}
+{"id":"13839414689","timestamp":"2026-02-17T10:47:01.13582029Z","domain":"gitlab.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-17T09:04:03Z","to":"2026-05-18T09:04:02Z"}
+{"id":"13839414689","timestamp":"2026-02-17T10:47:01.135821773Z","domain":"harbor.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-17T09:04:03Z","to":"2026-05-18T09:04:02Z"}
+{"id":"13839414689","timestamp":"2026-02-17T10:47:01.135821903Z","domain":"*.pages.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-17T09:04:03Z","to":"2026-05-18T09:04:02Z"}
+{"id":"13839414689","timestamp":"2026-02-17T10:47:01.135821983Z","domain":"pages.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-02-17T09:04:03Z","to":"2026-05-18T09:04:02Z"}
