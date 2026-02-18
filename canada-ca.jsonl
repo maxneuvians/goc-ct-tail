@@ -16467,3 +16467,5 @@
 {"id":"13842593198","timestamp":"2026-02-17T16:29:46.86528353Z","domain":"port.canada.ca","issuer":"Sectigo","from":"2026-02-17T00:00:00Z","to":"2027-03-20T23:59:59Z"}
 {"id":"13843902036","timestamp":"2026-02-17T18:29:07.686629726Z","domain":"*.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-17T17:21:57Z","to":"2026-05-18T17:21:56Z"}
 {"id":"13843902036","timestamp":"2026-02-17T18:29:07.686630267Z","domain":"science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-17T17:21:57Z","to":"2026-05-18T17:21:56Z"}
+{"id":"13848982778","timestamp":"2026-02-18T05:38:27.602182721Z","domain":"oidc-provider.id.alpha.canada.ca","issuer":"DigiCert","from":"2026-02-18T00:00:00Z","to":"2026-08-18T23:59:59Z"}
+{"id":"13848983990","timestamp":"2026-02-18T05:38:27.602183322Z","domain":"rp2-oidc.id.alpha.canada.ca","issuer":"DigiCert","from":"2026-02-18T00:00:00Z","to":"2026-08-18T23:59:59Z"}
