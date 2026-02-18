@@ -1245,3 +1245,5 @@
 {"id":"13793725869","timestamp":"2026-02-13T15:32:07.958430308Z","domain":"neptune.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-02-13T14:24:36Z","to":"2026-05-14T14:24:35Z"}
 {"id":"13806476421","timestamp":"2026-02-14T14:29:41.089735055Z","domain":"prediction.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-02-14T13:04:08Z","to":"2026-05-15T13:04:07Z"}
 {"id":"13806513209","timestamp":"2026-02-14T14:29:41.089735476Z","domain":"neptune.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-02-14T13:09:30Z","to":"2026-05-15T13:09:29Z"}
+{"id":"13848355716","timestamp":"2026-02-18T04:08:52.62844712Z","domain":"epro-dev.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2026-02-18T00:00:00Z","to":"2026-08-18T23:59:59Z"}
+{"id":"13848427273","timestamp":"2026-02-18T04:08:52.628447471Z","domain":"epro-test.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2026-02-18T00:00:00Z","to":"2026-08-18T23:59:59Z"}
