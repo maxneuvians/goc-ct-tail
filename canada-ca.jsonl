@@ -16484,3 +16484,7 @@
 {"id":"13854325152","timestamp":"2026-02-18T14:28:36.447757513Z","domain":"week-code.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2026-02-18T00:00:00Z","to":"2026-08-18T23:59:59Z"}
 {"id":"13854327967","timestamp":"2026-02-18T14:28:36.447757974Z","domain":"semaines-codees.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2026-02-18T00:00:00Z","to":"2026-08-18T23:59:59Z"}
 {"id":"13854650342","timestamp":"2026-02-18T15:27:58.571631588Z","domain":"semaines-codees.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2026-02-18T00:00:00Z","to":"2026-08-18T23:59:59Z"}
+{"id":"13855274265","timestamp":"2026-02-18T16:30:44.99425649Z","domain":"*.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-02-18T00:00:00Z","to":"2026-05-19T23:59:59Z"}
+{"id":"13855282455","timestamp":"2026-02-18T16:30:44.994257061Z","domain":"*.nxrm.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-02-18T00:00:00Z","to":"2026-05-19T23:59:59Z"}
+{"id":"13855401864","timestamp":"2026-02-18T16:30:44.994257372Z","domain":"rpss-uat-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2026-02-18T00:00:00Z","to":"2026-08-18T23:59:59Z"}
+{"id":"13855690112","timestamp":"2026-02-18T16:30:44.994257672Z","domain":"*.meta.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-02-18T00:00:00Z","to":"2026-05-19T23:59:59Z"}
