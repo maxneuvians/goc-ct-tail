@@ -16476,3 +16476,8 @@
 {"id":"13850929260","timestamp":"2026-02-18T08:24:20.958145764Z","domain":"wiki.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-02-18T00:00:00Z","to":"2026-08-18T23:59:59Z"}
 {"id":"13850942334","timestamp":"2026-02-18T08:24:20.958146106Z","domain":"conform.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-02-18T00:00:00Z","to":"2026-08-18T23:59:59Z"}
 {"id":"13850942822","timestamp":"2026-02-18T08:24:20.958146322Z","domain":"conform-dev.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-02-18T00:00:00Z","to":"2026-08-18T23:59:59Z"}
+{"id":"13854003479","timestamp":"2026-02-18T13:39:40.105577093Z","domain":"gciv-dvgc.alpha.canada.ca","issuer":"DigiCert","from":"2026-02-18T00:00:00Z","to":"2026-08-18T23:59:59Z"}
+{"id":"13854072649","timestamp":"2026-02-18T13:39:40.105577453Z","domain":"*.aide-etudiants.service.canada.ca","issuer":"Sectigo","from":"2026-02-18T00:00:00Z","to":"2027-03-21T23:59:59Z"}
+{"id":"13854072649","timestamp":"2026-02-18T13:39:40.105577644Z","domain":"aide-etudiants.service.canada.ca","issuer":"Sectigo","from":"2026-02-18T00:00:00Z","to":"2027-03-21T23:59:59Z"}
+{"id":"13854072649","timestamp":"2026-02-18T13:39:40.105577784Z","domain":"*.student-aid.service.canada.ca","issuer":"Sectigo","from":"2026-02-18T00:00:00Z","to":"2027-03-21T23:59:59Z"}
+{"id":"13854072649","timestamp":"2026-02-18T13:39:40.105577854Z","domain":"student-aid.service.canada.ca","issuer":"Sectigo","from":"2026-02-18T00:00:00Z","to":"2027-03-21T23:59:59Z"}
