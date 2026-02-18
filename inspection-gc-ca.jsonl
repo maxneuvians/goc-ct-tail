@@ -222,3 +222,6 @@
 {"id":"13538809392","timestamp":"2026-01-23T18:30:36.620277304Z","domain":"vpn-bcp.inspection.gc.ca","issuer":"Sectigo","from":"2026-01-23T00:00:00Z","to":"2027-01-26T23:59:59Z"}
 {"id":"13621461395","timestamp":"2026-01-30T20:30:09.826851733Z","domain":"smartvue.cfia-acia.inspection.gc.ca","issuer":"Sectigo","from":"2026-01-30T00:00:00Z","to":"2027-03-02T23:59:59Z"}
 {"id":"13701027567","timestamp":"2026-02-06T14:32:24.599654886Z","domain":"geo.inspection.gc.ca","issuer":"Sectigo","from":"2026-02-06T00:00:00Z","to":"2027-03-09T23:59:59Z"}
+{"id":"13856426736","timestamp":"2026-02-18T18:33:15.208527866Z","domain":"vpn-a.inspection.gc.ca","issuer":"Sectigo","from":"2026-02-18T00:00:00Z","to":"2027-03-19T23:59:59Z"}
+{"id":"13856426736","timestamp":"2026-02-18T18:33:15.208528498Z","domain":"vpn-b.inspection.gc.ca","issuer":"Sectigo","from":"2026-02-18T00:00:00Z","to":"2027-03-19T23:59:59Z"}
+{"id":"13856426736","timestamp":"2026-02-18T18:33:15.208528818Z","domain":"vpn.inspection.gc.ca","issuer":"Sectigo","from":"2026-02-18T00:00:00Z","to":"2027-03-19T23:59:59Z"}
