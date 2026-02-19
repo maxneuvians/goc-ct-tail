@@ -3583,6 +3583,15 @@
     "2026-02-17": {
       "Let's Encrypt": 16,
       "Sectigo": 2
+    },
+    "2026-02-18": {
+      "DigiCert": 15,
+      "Sectigo": 8,
+      "Google Trust Services": 1,
+      "Let's Encrypt": 1
+    },
+    "2026-02-19": {
+      "DigiCert": 7
     }
   },
   "errors": []

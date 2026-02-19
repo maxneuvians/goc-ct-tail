@@ -16,11 +16,11 @@
     {
       "inputFile": "asc-csa-gc-ca.jsonl",
       "outputFile": "stats/asc-csa-gc-ca-stats.json",
-      "totalCertificates": 102,
+      "totalCertificates": 103,
       "totalsByIssuer": {
         "Entrust": 44,
         "SSL.com": 15,
-        "Sectigo": 43
+        "Sectigo": 44
       },
       "errorCount": 0
     },
@@ -38,15 +38,15 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 16469,
+      "totalCertificates": 16501,
       "totalsByIssuer": {
         "Entrust": 2525,
         "Amazon Trust Services": 1189,
-        "DigiCert": 754,
+        "DigiCert": 776,
         "GoDaddy": 13,
-        "Let's Encrypt": 8821,
-        "Google Trust Services": 348,
-        "Sectigo": 1161,
+        "Let's Encrypt": 8822,
+        "Google Trust Services": 349,
+        "Sectigo": 1169,
         "SSL.com": 1658
       },
       "errorCount": 0
@@ -86,20 +86,20 @@
     {
       "inputFile": "cbsa-asfc-gc-ca.jsonl",
       "outputFile": "stats/cbsa-asfc-gc-ca-stats.json",
-      "totalCertificates": 228,
+      "totalCertificates": 229,
       "totalsByIssuer": {
         "Entrust": 113,
         "SSL.com": 71,
-        "Sectigo": 44
+        "Sectigo": 45
       },
       "errorCount": 0
     },
     {
       "inputFile": "cds-snc-ca.jsonl",
       "outputFile": "stats/cds-snc-ca-stats.json",
-      "totalCertificates": 105,
+      "totalCertificates": 107,
       "totalsByIssuer": {
-        "Amazon Trust Services": 17,
+        "Amazon Trust Services": 19,
         "Let's Encrypt": 56,
         "Google Trust Services": 32
       },
@@ -141,9 +141,9 @@
     {
       "inputFile": "cmhc-schl-gc-ca.jsonl",
       "outputFile": "stats/cmhc-schl-gc-ca-stats.json",
-      "totalCertificates": 874,
+      "totalCertificates": 877,
       "totalsByIssuer": {
-        "DigiCert": 737,
+        "DigiCert": 740,
         "Entrust": 4,
         "Sectigo": 32,
         "Let's Encrypt": 9,
@@ -325,13 +325,13 @@
     {
       "inputFile": "inspection-gc-ca.jsonl",
       "outputFile": "stats/inspection-gc-ca-stats.json",
-      "totalCertificates": 224,
+      "totalCertificates": 227,
       "totalsByIssuer": {
         "Entrust": 131,
         "DigiCert": 1,
         "Let's Encrypt": 10,
         "SSL.com": 62,
-        "Sectigo": 20
+        "Sectigo": 23
       },
       "errorCount": 0
     },
@@ -396,12 +396,12 @@
     {
       "inputFile": "mint-ca.jsonl",
       "outputFile": "stats/mint-ca-stats.json",
-      "totalCertificates": 483,
+      "totalCertificates": 487,
       "totalsByIssuer": {
         "Entrust": 137,
         "DigiCert": 16,
         "Let's Encrypt": 44,
-        "Google Trust Services": 224,
+        "Google Trust Services": 228,
         "Sectigo": 47,
         "Entrust Limited": 15
       },
@@ -435,12 +435,12 @@
     {
       "inputFile": "nserc-crsng-gc-ca.jsonl",
       "outputFile": "stats/nserc-crsng-gc-ca-stats.json",
-      "totalCertificates": 33,
+      "totalCertificates": 35,
       "totalsByIssuer": {
         "Entrust": 12,
         "Amazon Trust Services": 3,
         "SSL.com": 5,
-        "DigiCert": 3,
+        "DigiCert": 5,
         "Sectigo": 10
       },
       "errorCount": 0
@@ -649,13 +649,13 @@
     {
       "inputFile": "tc-gc-ca.jsonl",
       "outputFile": "stats/tc-gc-ca-stats.json",
-      "totalCertificates": 391,
+      "totalCertificates": 393,
       "totalsByIssuer": {
         "Entrust": 154,
-        "DigiCert": 17,
+        "DigiCert": 18,
         "Let's Encrypt": 133,
         "SSL.com": 28,
-        "Sectigo": 58,
+        "Sectigo": 59,
         "Google Trust Services": 1
       },
       "errorCount": 0
@@ -709,13 +709,13 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 4024,
-    "Let's Encrypt": 23782,
+    "Amazon Trust Services": 4026,
+    "Let's Encrypt": 23783,
     "SSL.com": 6251,
-    "Sectigo": 15941,
-    "DigiCert": 2418,
+    "Sectigo": 15955,
+    "DigiCert": 2446,
     "GoDaddy": 85,
-    "Google Trust Services": 715,
+    "Google Trust Services": 720,
     "Entrust Limited": 20,
     "GlobalSign": 2
   }
