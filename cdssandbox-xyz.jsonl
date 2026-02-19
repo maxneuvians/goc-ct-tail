@@ -2244,3 +2244,5 @@
 {"id":"13822861598","timestamp":"2026-02-16T00:55:45.038033352Z","domain":"staging.alpha.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-02-16T00:00:00Z","to":"2027-03-17T23:59:59Z"}
 {"id":"13845825415","timestamp":"2026-02-17T22:44:42.039434298Z","domain":"cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-02-17T00:00:00Z","to":"2027-03-18T23:59:59Z"}
 {"id":"13845825415","timestamp":"2026-02-17T22:44:42.039434728Z","domain":"www.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-02-17T00:00:00Z","to":"2027-03-18T23:59:59Z"}
+{"id":"13867608198","timestamp":"2026-02-19T15:47:01.401467109Z","domain":"*.api.login-connexion.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-02-19T00:00:00Z","to":"2026-09-04T23:59:59Z"}
+{"id":"13867608198","timestamp":"2026-02-19T15:47:01.40146767Z","domain":"api.login-connexion.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-02-19T00:00:00Z","to":"2026-09-04T23:59:59Z"}
