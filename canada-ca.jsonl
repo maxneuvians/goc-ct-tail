@@ -16506,3 +16506,20 @@
 {"id":"13863602413","timestamp":"2026-02-19T07:30:59.644294065Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-19T06:25:17Z","to":"2026-05-20T06:25:16Z"}
 {"id":"13864585205","timestamp":"2026-02-19T09:26:09.433565459Z","domain":"grafana.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-19T08:13:01Z","to":"2026-05-20T08:13:00Z"}
 {"id":"13864604699","timestamp":"2026-02-19T09:26:09.43356587Z","domain":"alloy.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-19T08:12:59Z","to":"2026-05-20T08:12:58Z"}
+{"id":"13868100481","timestamp":"2026-02-19T16:28:22.376862539Z","domain":"pta.gcfm.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868100481","timestamp":"2026-02-19T16:28:22.376863301Z","domain":"pte.gcfm.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868100481","timestamp":"2026-02-19T16:28:22.376863591Z","domain":"ptf.gcfm.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868100481","timestamp":"2026-02-19T16:28:22.376863902Z","domain":"ptj.gcfm.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868100481","timestamp":"2026-02-19T16:28:22.376863982Z","domain":"pto.gcfm.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868100481","timestamp":"2026-02-19T16:28:22.376865054Z","domain":"ptw.gcfm.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868100481","timestamp":"2026-02-19T16:28:22.376865124Z","domain":"ptx.gcfm.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868100481","timestamp":"2026-02-19T16:28:22.376865194Z","domain":"pwd.gcfm.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868123827","timestamp":"2026-02-19T16:28:22.376865284Z","domain":"xte-dev.gcfm.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868123827","timestamp":"2026-02-19T16:28:22.376866356Z","domain":"xtf-dev.gcfm.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868123827","timestamp":"2026-02-19T16:28:22.376866426Z","domain":"xtw-dev.gcfm.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868123827","timestamp":"2026-02-19T16:28:22.376866497Z","domain":"xwd-dev.gcfm.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868165551","timestamp":"2026-02-19T16:28:22.376866587Z","domain":"dge.fm2.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868165551","timestamp":"2026-02-19T16:28:22.376866667Z","domain":"pge.fm2.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868165551","timestamp":"2026-02-19T16:28:22.376866747Z","domain":"qge.fm2.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868165551","timestamp":"2026-02-19T16:28:22.376866817Z","domain":"tge.fm2.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868165551","timestamp":"2026-02-19T16:28:22.376866887Z","domain":"zge.fm2.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
