@@ -338,3 +338,10 @@
 {"id":"13779361525","timestamp":"2026-02-12T16:10:45.145456364Z","domain":"asc1oqgcdocs04.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-02-12T00:00:00Z","to":"2027-03-15T23:59:59Z"}
 {"id":"13779361525","timestamp":"2026-02-12T16:10:45.145456474Z","domain":"asc1oqotds01.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-02-12T00:00:00Z","to":"2027-03-15T23:59:59Z"}
 {"id":"13779361525","timestamp":"2026-02-12T16:10:45.145457486Z","domain":"gcdocs-ppd.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-02-12T00:00:00Z","to":"2027-03-15T23:59:59Z"}
+{"id":"13868503628","timestamp":"2026-02-19T17:12:08.491785112Z","domain":"akhq.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-02-19T15:32:57Z","to":"2026-05-20T15:32:56Z"}
+{"id":"13868566182","timestamp":"2026-02-19T17:12:08.491785744Z","domain":"tenant-id-enricher.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-02-19T15:39:57Z","to":"2026-05-20T15:39:56Z"}
+{"id":"13868567477","timestamp":"2026-02-19T17:12:08.491785994Z","domain":"temporal.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-02-19T15:40:12Z","to":"2026-05-20T15:40:11Z"}
+{"id":"13868567477","timestamp":"2026-02-19T17:12:08.491786204Z","domain":"temporal-codec.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-02-19T15:40:12Z","to":"2026-05-20T15:40:11Z"}
+{"id":"13868573297","timestamp":"2026-02-19T17:12:08.491786305Z","domain":"*.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-02-19T15:39:31Z","to":"2026-05-20T15:39:30Z"}
+{"id":"13868658889","timestamp":"2026-02-19T17:12:08.491787276Z","domain":"deployment-manager.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-02-19T15:50:16Z","to":"2026-05-20T15:50:15Z"}
+{"id":"13868666356","timestamp":"2026-02-19T17:12:08.491787387Z","domain":"argocd.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-02-19T15:49:53Z","to":"2026-05-20T15:49:52Z"}
