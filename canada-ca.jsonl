@@ -16523,3 +16523,6 @@
 {"id":"13868165551","timestamp":"2026-02-19T16:28:22.376866747Z","domain":"qge.fm2.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
 {"id":"13868165551","timestamp":"2026-02-19T16:28:22.376866817Z","domain":"tge.fm2.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
 {"id":"13868165551","timestamp":"2026-02-19T16:28:22.376866887Z","domain":"zge.fm2.canada.ca","issuer":"Sectigo","from":"2026-02-19T00:00:00Z","to":"2027-03-22T23:59:59Z"}
+{"id":"13868516766","timestamp":"2026-02-19T17:29:30.29356813Z","domain":"resource-catalogue.ws-arctic.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-19T15:34:30Z","to":"2026-05-20T15:34:29Z"}
+{"id":"13868526420","timestamp":"2026-02-19T17:29:30.293568641Z","domain":"mlflow.ws-arctic.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-19T15:34:30Z","to":"2026-05-20T15:34:29Z"}
+{"id":"13868557090","timestamp":"2026-02-19T17:29:30.293568991Z","domain":"workload1.c1-qa21260.qa21260.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-02-19T15:38:11Z","to":"2026-05-20T16:31:43Z"}
