@@ -347,3 +347,5 @@
 {"id":"13868666356","timestamp":"2026-02-19T17:12:08.491787387Z","domain":"argocd.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-02-19T15:49:53Z","to":"2026-05-20T15:49:52Z"}
 {"id":"13869686575","timestamp":"2026-02-19T19:10:27.861831381Z","domain":"akhq.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-02-19T17:47:20Z","to":"2026-05-20T17:47:19Z"}
 {"id":"13869718826","timestamp":"2026-02-19T19:10:27.861832072Z","domain":"loki.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-02-19T17:50:46Z","to":"2026-05-20T17:50:45Z"}
+{"id":"13880050515","timestamp":"2026-02-20T16:02:46.64671466Z","domain":"gcdocs-dev.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-02-20T00:00:00Z","to":"2027-03-23T23:59:59Z"}
+{"id":"13880050515","timestamp":"2026-02-20T16:02:46.646714991Z","domain":"otdslow-dev.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-02-20T00:00:00Z","to":"2027-03-23T23:59:59Z"}
