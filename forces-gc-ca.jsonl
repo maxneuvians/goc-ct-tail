@@ -2382,3 +2382,6 @@
 {"id":"13794854430","timestamp":"2026-02-13T17:26:30.306179805Z","domain":"cw.hangar-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-13T00:00:00Z","to":"2027-03-14T23:59:59Z"}
 {"id":"13842644053","timestamp":"2026-02-17T16:29:47.244316209Z","domain":"cw.hangar-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-17T00:00:00Z","to":"2027-03-18T23:59:59Z"}
 {"id":"13842644535","timestamp":"2026-02-17T16:29:47.24431685Z","domain":"cw.hangar-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-17T00:00:00Z","to":"2027-03-18T23:59:59Z"}
+{"id":"13873835773","timestamp":"2026-02-20T03:59:40.466385676Z","domain":"*.innovation-hub-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-20T00:00:00Z","to":"2026-09-05T23:59:59Z"}
+{"id":"13873835773","timestamp":"2026-02-20T03:59:40.466386027Z","domain":"innovation-hub-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-20T00:00:00Z","to":"2026-09-05T23:59:59Z"}
+{"id":"13873841974","timestamp":"2026-02-20T03:59:40.466386257Z","domain":"innovation-hub-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-02-20T00:00:00Z","to":"2026-09-05T23:59:59Z"}
