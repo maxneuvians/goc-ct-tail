@@ -16541,3 +16541,7 @@
 {"id":"13880865629","timestamp":"2026-02-20T18:23:25.034993515Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Sectigo","from":"2026-02-20T00:00:00Z","to":"2027-03-23T23:59:59Z"}
 {"id":"13880865629","timestamp":"2026-02-20T18:23:25.034993912Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Sectigo","from":"2026-02-20T00:00:00Z","to":"2027-03-23T23:59:59Z"}
 {"id":"13883517436","timestamp":"2026-02-20T23:17:22.109295613Z","domain":"port.canada.ca","issuer":"Sectigo","from":"2026-02-20T00:00:00Z","to":"2027-03-23T23:59:59Z"}
+{"id":"13884030234","timestamp":"2026-02-21T00:46:57.606625941Z","domain":"*.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2026-02-21T00:00:00Z","to":"2026-05-22T23:59:59Z"}
+{"id":"13884046542","timestamp":"2026-02-21T00:46:57.606626462Z","domain":"*.nxrm.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2026-02-21T00:00:00Z","to":"2026-05-22T23:59:59Z"}
+{"id":"13884227112","timestamp":"2026-02-21T00:46:57.606626743Z","domain":"surfsense.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-20T23:27:56Z","to":"2026-05-21T23:27:55Z"}
+{"id":"13884243309","timestamp":"2026-02-21T00:46:57.606627053Z","domain":"*.md.itsec.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2026-02-21T00:00:00Z","to":"2026-05-22T23:59:59Z"}
