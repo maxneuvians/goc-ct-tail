@@ -3603,7 +3603,11 @@
       "Let's Encrypt": 1
     },
     "2026-02-21": {
-      "Sectigo": 3
+      "Sectigo": 8,
+      "DigiCert": 8
+    },
+    "2026-02-22": {
+      "DigiCert": 1
     }
   },
   "errors": []
