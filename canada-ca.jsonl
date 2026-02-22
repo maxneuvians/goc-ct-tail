@@ -16560,3 +16560,6 @@
 {"id":"13894956674","timestamp":"2026-02-22T00:50:28.437900491Z","domain":"firearms-compensation-indemnisation-armes-feu-prod.canada.ca","issuer":"Sectigo","from":"2026-02-21T00:00:00Z","to":"2027-03-24T23:59:59Z"}
 {"id":"13896097377","timestamp":"2026-02-22T03:12:05.25744724Z","domain":"vmo.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-02-22T00:00:00Z","to":"2026-08-22T23:59:59Z"}
 {"id":"13900183692","timestamp":"2026-02-22T11:16:13.716606513Z","domain":"api.vmo.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-02-22T00:00:00Z","to":"2026-08-22T23:59:59Z"}
+{"id":"13900618411","timestamp":"2026-02-22T12:18:22.652297977Z","domain":"rook-c.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-22T10:13:42Z","to":"2026-05-23T10:13:41Z"}
+{"id":"13900621003","timestamp":"2026-02-22T12:18:22.652298788Z","domain":"dev.interface.daf.service.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-02-22T00:00:00Z","to":"2026-08-22T23:59:59Z"}
+{"id":"13900637519","timestamp":"2026-02-22T12:18:22.652299069Z","domain":"rook-h.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-22T10:13:41Z","to":"2026-05-23T10:13:40Z"}
