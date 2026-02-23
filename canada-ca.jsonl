@@ -16629,3 +16629,7 @@
 {"id":"13915381788","timestamp":"2026-02-23T18:32:27.490194436Z","domain":"srv145.services.gc.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
 {"id":"13915381788","timestamp":"2026-02-23T18:32:27.490194646Z","domain":"www.srv145.services.gc.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
 {"id":"13915553949","timestamp":"2026-02-23T18:32:27.490194746Z","domain":"staticwebsite2.blueprint.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-02-23T16:46:03Z","to":"2026-05-24T17:39:37Z"}
+{"id":"13917092194","timestamp":"2026-02-23T21:26:10.250282545Z","domain":"csc-scc.webrtc.video.canada.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
+{"id":"13917092194","timestamp":"2026-02-23T21:26:10.250282856Z","domain":"ssc-cmsedge-30.video.canada.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
+{"id":"13917092194","timestamp":"2026-02-23T21:26:10.250283026Z","domain":"video.canada.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
+{"id":"13917315119","timestamp":"2026-02-23T21:26:10.250283206Z","domain":"workload1.c1-nl21375.nl21375.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-02-23T20:15:15Z","to":"2026-05-24T21:07:47Z"}
