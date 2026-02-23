@@ -16624,3 +16624,8 @@
 {"id":"13914730022","timestamp":"2026-02-23T16:29:14.346704536Z","domain":"portal.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-23T15:14:14Z","to":"2026-05-24T15:14:13Z"}
 {"id":"13914733999","timestamp":"2026-02-23T16:29:14.346704844Z","domain":"portal-dev.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-23T15:15:52Z","to":"2026-05-24T15:15:51Z"}
 {"id":"13915328831","timestamp":"2026-02-23T17:33:17.992460059Z","domain":"workload1.c1-qa21364.qa21364.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-02-23T16:21:25Z","to":"2026-05-24T17:14:37Z"}
+{"id":"13915381788","timestamp":"2026-02-23T18:32:27.490193834Z","domain":"canada-service-corps.canada.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
+{"id":"13915381788","timestamp":"2026-02-23T18:32:27.490194145Z","domain":"service-jeunesse.canada.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
+{"id":"13915381788","timestamp":"2026-02-23T18:32:27.490194436Z","domain":"srv145.services.gc.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
+{"id":"13915381788","timestamp":"2026-02-23T18:32:27.490194646Z","domain":"www.srv145.services.gc.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
+{"id":"13915553949","timestamp":"2026-02-23T18:32:27.490194746Z","domain":"staticwebsite2.blueprint.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-02-23T16:46:03Z","to":"2026-05-24T17:39:37Z"}
