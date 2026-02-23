@@ -38,13 +38,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 16561,
+      "totalCertificates": 16569,
       "totalsByIssuer": {
         "Entrust": 2525,
         "Amazon Trust Services": 1190,
-        "DigiCert": 791,
+        "DigiCert": 793,
         "GoDaddy": 13,
-        "Let's Encrypt": 8832,
+        "Let's Encrypt": 8838,
         "Google Trust Services": 350,
         "Sectigo": 1202,
         "SSL.com": 1658
@@ -97,10 +97,10 @@
     {
       "inputFile": "cds-snc-ca.jsonl",
       "outputFile": "stats/cds-snc-ca-stats.json",
-      "totalCertificates": 107,
+      "totalCertificates": 108,
       "totalsByIssuer": {
         "Amazon Trust Services": 19,
-        "Let's Encrypt": 56,
+        "Let's Encrypt": 57,
         "Google Trust Services": 32
       },
       "errorCount": 0
@@ -421,13 +421,13 @@
     {
       "inputFile": "nrcan-gc-ca.jsonl",
       "outputFile": "stats/nrcan-gc-ca-stats.json",
-      "totalCertificates": 20550,
+      "totalCertificates": 20564,
       "totalsByIssuer": {
         "Amazon Trust Services": 45,
         "Entrust": 460,
         "DigiCert": 30,
         "Let's Encrypt": 8258,
-        "Sectigo": 11477,
+        "Sectigo": 11491,
         "SSL.com": 280
       },
       "errorCount": 0
@@ -636,10 +636,10 @@
     {
       "inputFile": "tbs-sct-gc-ca.jsonl",
       "outputFile": "stats/tbs-sct-gc-ca-stats.json",
-      "totalCertificates": 1168,
+      "totalCertificates": 1170,
       "totalsByIssuer": {
         "Entrust": 166,
-        "DigiCert": 511,
+        "DigiCert": 513,
         "SSL.com": 79,
         "Sectigo": 93,
         "Let's Encrypt": 319
@@ -710,10 +710,10 @@
   "grandTotalByIssuer": {
     "Entrust": 11243,
     "Amazon Trust Services": 4066,
-    "Let's Encrypt": 24017,
+    "Let's Encrypt": 24024,
     "SSL.com": 6251,
-    "Sectigo": 16444,
-    "DigiCert": 2474,
+    "Sectigo": 16458,
+    "DigiCert": 2478,
     "GoDaddy": 85,
     "Google Trust Services": 721,
     "Entrust Limited": 20,

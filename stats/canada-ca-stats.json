@@ -3607,7 +3607,11 @@
       "DigiCert": 8
     },
     "2026-02-22": {
-      "DigiCert": 1
+      "DigiCert": 3,
+      "Let's Encrypt": 2
+    },
+    "2026-02-23": {
+      "Let's Encrypt": 4
     }
   },
   "errors": []
