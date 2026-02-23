@@ -16567,3 +16567,6 @@
 {"id":"13907397020","timestamp":"2026-02-23T01:46:13.015006093Z","domain":"tc.canada.ca","issuer":"Let's Encrypt","from":"2026-02-23T00:01:45Z","to":"2026-05-24T00:01:44Z"}
 {"id":"13908663092","timestamp":"2026-02-23T04:49:23.378135255Z","domain":"gcnotify.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-23T02:45:45Z","to":"2026-05-24T02:45:44Z"}
 {"id":"13908688845","timestamp":"2026-02-23T04:49:23.378135829Z","domain":"design.canada.ca","issuer":"Let's Encrypt","from":"2026-02-23T02:50:45Z","to":"2026-05-24T02:50:44Z"}
+{"id":"13912707030","timestamp":"2026-02-23T12:26:32.474547399Z","domain":"icare-iedec-train.canada.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
+{"id":"13912707030","timestamp":"2026-02-23T12:26:32.47454787Z","domain":"icare-iedec-trn-proxy.cic.gc.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
+{"id":"13912707030","timestamp":"2026-02-23T12:26:32.47454816Z","domain":"icare-oauth-trn-proxy.cic.gc.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
