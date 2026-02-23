@@ -16619,3 +16619,7 @@
 {"id":"13914120381","timestamp":"2026-02-23T15:26:31.877496679Z","domain":"www.victimsweek.gc.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
 {"id":"13914120381","timestamp":"2026-02-23T15:26:31.877496806Z","domain":"www.web1.justice.gc.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
 {"id":"13914120381","timestamp":"2026-02-23T15:26:31.877496915Z","domain":"www.web2.justice.gc.ca","issuer":"Sectigo","from":"2026-02-23T00:00:00Z","to":"2027-03-26T23:59:59Z"}
+{"id":"13914669849","timestamp":"2026-02-23T16:29:14.346703493Z","domain":"test1.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-23T15:08:50Z","to":"2026-05-24T15:08:49Z"}
+{"id":"13914724924","timestamp":"2026-02-23T16:29:14.346704203Z","domain":"gcco-asset-viewer.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-23T15:16:27Z","to":"2026-05-24T15:16:26Z"}
+{"id":"13914730022","timestamp":"2026-02-23T16:29:14.346704536Z","domain":"portal.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-23T15:14:14Z","to":"2026-05-24T15:14:13Z"}
+{"id":"13914733999","timestamp":"2026-02-23T16:29:14.346704844Z","domain":"portal-dev.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-23T15:15:52Z","to":"2026-05-24T15:15:51Z"}
