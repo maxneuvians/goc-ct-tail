@@ -16647,3 +16647,11 @@
 {"id":"13926197816","timestamp":"2026-02-24T16:32:26.097448979Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-24T14:35:44Z","to":"2026-05-25T14:35:43Z"}
 {"id":"13926207918","timestamp":"2026-02-24T16:32:26.09744931Z","domain":"ircc-services.canada.ca","issuer":"Sectigo","from":"2026-02-24T00:00:00Z","to":"2027-03-27T23:59:59Z"}
 {"id":"13926949941","timestamp":"2026-02-24T17:32:25.973598508Z","domain":"chinai.innovation.alpha.canada.ca","issuer":"DigiCert","from":"2026-02-24T00:00:00Z","to":"2026-08-24T23:59:59Z"}
+{"id":"13927727635","timestamp":"2026-02-24T19:29:56.314952442Z","domain":"*.api.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-24T00:00:00Z","to":"2026-09-09T23:59:59Z"}
+{"id":"13927727635","timestamp":"2026-02-24T19:29:56.314952792Z","domain":"api.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-24T00:00:00Z","to":"2026-09-09T23:59:59Z"}
+{"id":"13927797793","timestamp":"2026-02-24T19:29:56.314953033Z","domain":"*.app.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-24T00:00:00Z","to":"2026-09-09T23:59:59Z"}
+{"id":"13927797793","timestamp":"2026-02-24T19:29:56.314953985Z","domain":"app.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-24T00:00:00Z","to":"2026-09-09T23:59:59Z"}
+{"id":"13927798139","timestamp":"2026-02-24T19:29:56.314954105Z","domain":"*.login.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-24T00:00:00Z","to":"2026-09-09T23:59:59Z"}
+{"id":"13927798139","timestamp":"2026-02-24T19:29:56.314955137Z","domain":"login.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-24T00:00:00Z","to":"2026-09-09T23:59:59Z"}
+{"id":"13927818046","timestamp":"2026-02-24T19:29:56.314955257Z","domain":"*.rp.app.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-24T00:00:00Z","to":"2026-09-09T23:59:59Z"}
+{"id":"13927818046","timestamp":"2026-02-24T19:29:56.314955357Z","domain":"rp.app.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-24T00:00:00Z","to":"2026-09-09T23:59:59Z"}
