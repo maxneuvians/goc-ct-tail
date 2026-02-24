@@ -16643,3 +16643,6 @@
 {"id":"13922238633","timestamp":"2026-02-24T08:25:04.687226882Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-02-24T06:29:08Z","to":"2026-05-25T06:29:07Z"}
 {"id":"13924880425","timestamp":"2026-02-24T13:40:50.766689025Z","domain":"connect.canada.ca","issuer":"Let's Encrypt","from":"2026-02-24T11:55:09Z","to":"2026-05-25T11:55:08Z"}
 {"id":"13926017235","timestamp":"2026-02-24T15:30:40.845954616Z","domain":"docs.ssc-prod-gccopa.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-02-24T00:00:00Z","to":"2026-08-24T23:59:59Z"}
+{"id":"13926197816","timestamp":"2026-02-24T16:32:26.097446655Z","domain":"flood-risk-portal.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2026-02-24T14:35:44Z","to":"2026-05-25T14:35:43Z"}
+{"id":"13926197816","timestamp":"2026-02-24T16:32:26.097448979Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-24T14:35:44Z","to":"2026-05-25T14:35:43Z"}
+{"id":"13926207918","timestamp":"2026-02-24T16:32:26.09744931Z","domain":"ircc-services.canada.ca","issuer":"Sectigo","from":"2026-02-24T00:00:00Z","to":"2027-03-27T23:59:59Z"}
