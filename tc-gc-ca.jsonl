@@ -391,3 +391,5 @@
 {"id":"13842023146","timestamp":"2026-02-17T15:27:43.621633745Z","domain":"tc.gc.ca","issuer":"Sectigo","from":"2026-02-17T00:00:00Z","to":"2027-03-20T23:59:59Z"}
 {"id":"13856838932","timestamp":"2026-02-18T19:29:09.871227974Z","domain":"outils-collab-tools.tc.gc.ca","issuer":"DigiCert","from":"2026-02-18T00:00:00Z","to":"2026-08-18T23:59:59Z"}
 {"id":"13857197467","timestamp":"2026-02-18T19:29:09.871228395Z","domain":"rc.tc.gc.ca","issuer":"Sectigo","from":"2026-02-18T00:00:00Z","to":"2027-03-21T23:59:59Z"}
+{"id":"13919190851","timestamp":"2026-02-24T01:46:20.345391574Z","domain":"*.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-02-24T00:01:45Z","to":"2026-05-25T00:01:44Z"}
+{"id":"13919190851","timestamp":"2026-02-24T01:46:20.34539198Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2026-02-24T00:01:45Z","to":"2026-05-25T00:01:44Z"}
