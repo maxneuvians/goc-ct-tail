@@ -3611,7 +3611,12 @@
       "Let's Encrypt": 2
     },
     "2026-02-23": {
-      "Let's Encrypt": 4
+      "Let's Encrypt": 9,
+      "Sectigo": 59,
+      "Google Trust Services": 3
+    },
+    "2026-02-24": {
+      "Amazon Trust Services": 1
     }
   },
   "errors": []
