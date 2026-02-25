@@ -16673,3 +16673,6 @@
 {"id":"13930552446","timestamp":"2026-02-25T00:52:32.261534998Z","domain":"rancher-ccmeo-ci-dev.priv.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-25T00:00:00Z","to":"2026-09-10T23:59:59Z"}
 {"id":"13930552446","timestamp":"2026-02-25T00:52:32.26153588Z","domain":"traces-ccmeo-ci-dev.priv.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-25T00:00:00Z","to":"2026-09-10T23:59:59Z"}
 {"id":"13930552446","timestamp":"2026-02-25T00:52:32.26153598Z","domain":"viewer-ccmeo-ci-dev.priv.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-25T00:00:00Z","to":"2026-09-10T23:59:59Z"}
+{"id":"13934297872","timestamp":"2026-02-25T08:25:40.04698314Z","domain":"hydra.canada.ca","issuer":"Let's Encrypt","from":"2026-02-25T07:15:48Z","to":"2026-05-26T07:15:47Z"}
+{"id":"13934301139","timestamp":"2026-02-25T08:25:40.046983701Z","domain":"ciqap.canada.ca","issuer":"Let's Encrypt","from":"2026-02-25T07:15:14Z","to":"2026-05-26T07:15:13Z"}
+{"id":"13934314399","timestamp":"2026-02-25T08:25:40.046983972Z","domain":"qasi.canada.ca","issuer":"Let's Encrypt","from":"2026-02-25T07:17:08Z","to":"2026-05-26T07:17:07Z"}
