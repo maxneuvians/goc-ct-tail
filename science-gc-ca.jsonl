@@ -99,3 +99,5 @@
 {"id":"13754632536","timestamp":"2026-02-10T21:46:13.734170607Z","domain":"cmds.science.gc.ca","issuer":"Sectigo","from":"2026-02-10T00:00:00Z","to":"2027-03-13T23:59:59Z"}
 {"id":"13842649934","timestamp":"2026-02-17T16:48:23.956655617Z","domain":"cmds.science.gc.ca","issuer":"Sectigo","from":"2026-02-17T00:00:00Z","to":"2027-03-20T23:59:59Z"}
 {"id":"13948213011","timestamp":"2026-02-26T14:51:03.778211382Z","domain":"science.gc.ca","issuer":"Sectigo","from":"2026-02-26T00:00:00Z","to":"2026-05-27T23:59:59Z"}
+{"id":"13949215580","timestamp":"2026-02-26T16:48:28.517121697Z","domain":"*.service.collab.science.gc.ca","issuer":"Sectigo","from":"2026-02-26T00:00:00Z","to":"2027-03-29T23:59:59Z"}
+{"id":"13949215580","timestamp":"2026-02-26T16:48:28.517122058Z","domain":"*.service.ec.gc.ca","issuer":"Sectigo","from":"2026-02-26T00:00:00Z","to":"2027-03-29T23:59:59Z"}
