@@ -16703,3 +16703,5 @@
 {"id":"13946244334","timestamp":"2026-02-26T10:26:54.132291738Z","domain":"open-notebook.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-26T08:59:53Z","to":"2026-05-27T08:59:52Z"}
 {"id":"13947280412","timestamp":"2026-02-26T12:26:45.988288591Z","domain":"ised-isde.canada.ca","issuer":"Sectigo","from":"2026-02-26T00:00:00Z","to":"2027-03-29T23:59:59Z"}
 {"id":"13948076245","timestamp":"2026-02-26T14:30:01.503475218Z","domain":"litellm-chaotic.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-26T13:05:33Z","to":"2026-05-27T13:05:32Z"}
+{"id":"13949026390","timestamp":"2026-02-26T16:29:30.069045267Z","domain":"*.dnd-dev-srt.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-26T15:05:11Z","to":"2026-05-27T15:05:10Z"}
+{"id":"13949088452","timestamp":"2026-02-26T16:29:30.069046079Z","domain":"workload1.c1-qa21524.qa21524.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-02-26T15:10:44Z","to":"2026-05-27T16:04:18Z"}
