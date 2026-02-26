@@ -349,3 +349,8 @@
 {"id":"13869718826","timestamp":"2026-02-19T19:10:27.861832072Z","domain":"loki.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-02-19T17:50:46Z","to":"2026-05-20T17:50:45Z"}
 {"id":"13880050515","timestamp":"2026-02-20T16:02:46.64671466Z","domain":"gcdocs-dev.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-02-20T00:00:00Z","to":"2027-03-23T23:59:59Z"}
 {"id":"13880050515","timestamp":"2026-02-20T16:02:46.646714991Z","domain":"otdslow-dev.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-02-20T00:00:00Z","to":"2027-03-23T23:59:59Z"}
+{"id":"13948524937","timestamp":"2026-02-26T16:09:43.456610778Z","domain":"asc1odgcdocs01.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-02-26T00:00:00Z","to":"2027-03-24T23:59:59Z"}
+{"id":"13948524937","timestamp":"2026-02-26T16:09:43.456611259Z","domain":"asc1odgcdocs02.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-02-26T00:00:00Z","to":"2027-03-24T23:59:59Z"}
+{"id":"13948524937","timestamp":"2026-02-26T16:09:43.45661156Z","domain":"asc1odgcdocs03.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-02-26T00:00:00Z","to":"2027-03-24T23:59:59Z"}
+{"id":"13948524937","timestamp":"2026-02-26T16:09:43.456611861Z","domain":"asc1odotds01.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-02-26T00:00:00Z","to":"2027-03-24T23:59:59Z"}
+{"id":"13948524937","timestamp":"2026-02-26T16:09:43.456611971Z","domain":"gcdocs-dev.corp.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-02-26T00:00:00Z","to":"2027-03-24T23:59:59Z"}
