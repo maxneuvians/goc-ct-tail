@@ -16705,3 +16705,7 @@
 {"id":"13948076245","timestamp":"2026-02-26T14:30:01.503475218Z","domain":"litellm-chaotic.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-26T13:05:33Z","to":"2026-05-27T13:05:32Z"}
 {"id":"13949026390","timestamp":"2026-02-26T16:29:30.069045267Z","domain":"*.dnd-dev-srt.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-26T15:05:11Z","to":"2026-05-27T15:05:10Z"}
 {"id":"13949088452","timestamp":"2026-02-26T16:29:30.069046079Z","domain":"workload1.c1-qa21524.qa21524.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-02-26T15:10:44Z","to":"2026-05-27T16:04:18Z"}
+{"id":"13949559340","timestamp":"2026-02-26T17:32:12.482341551Z","domain":"*.app.migration.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-26T00:00:00Z","to":"2026-09-11T23:59:59Z"}
+{"id":"13949559340","timestamp":"2026-02-26T17:32:12.482342322Z","domain":"app.migration.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-26T00:00:00Z","to":"2026-09-11T23:59:59Z"}
+{"id":"13949559721","timestamp":"2026-02-26T17:32:12.482342573Z","domain":"*.api.migration.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-26T00:00:00Z","to":"2026-09-11T23:59:59Z"}
+{"id":"13949559721","timestamp":"2026-02-26T17:32:12.482342773Z","domain":"api.migration.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-26T00:00:00Z","to":"2026-09-11T23:59:59Z"}
