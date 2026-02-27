@@ -16732,3 +16732,6 @@
 {"id":"13959618424","timestamp":"2026-02-27T15:23:22.270878264Z","domain":"fee-payments.phac.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2026-12-26T23:59:59Z"}
 {"id":"13959618424","timestamp":"2026-02-27T15:23:22.270878598Z","domain":"paiements-frais.aspc.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2026-12-26T23:59:59Z"}
 {"id":"13959618424","timestamp":"2026-02-27T15:23:22.270878683Z","domain":"paiements-frais.sante.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"13960912188","timestamp":"2026-02-27T17:21:00.320872058Z","domain":"tbsanalyticsapi-dev.apim-dev.tbs-sct.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2027-03-30T23:59:59Z"}
+{"id":"13960912188","timestamp":"2026-02-27T17:21:00.320872569Z","domain":"tbsanalyticsapi-qa.apim-dev.tbs-sct.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2027-03-30T23:59:59Z"}
+{"id":"13960970949","timestamp":"2026-02-27T17:21:00.32087292Z","domain":"autodesk-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-27T00:00:00Z","to":"2026-09-12T23:59:59Z"}
