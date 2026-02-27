@@ -881,3 +881,6 @@
 {"id":"13926329641","timestamp":"2026-02-24T16:02:14.093956364Z","domain":"cmhc.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-02-24T00:00:00Z","to":"2027-02-23T23:59:59Z"}
 {"id":"13939470534","timestamp":"2026-02-25T19:54:22.955838155Z","domain":"social.cmhc-schl.gc.ca","issuer":"Let's Encrypt","from":"2026-02-25T18:10:40Z","to":"2026-05-26T18:10:39Z"}
 {"id":"13961484209","timestamp":"2026-02-27T18:59:16.553952148Z","domain":"www05-eit.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-02-27T00:00:00Z","to":"2026-09-13T23:59:59Z"}
+{"id":"13962413384","timestamp":"2026-02-27T20:49:29.797070229Z","domain":"www05-sys.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-02-27T00:00:00Z","to":"2026-09-13T23:59:59Z"}
+{"id":"13962446046","timestamp":"2026-02-27T20:49:29.7970706Z","domain":"www03.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-02-27T00:00:00Z","to":"2026-09-13T23:59:59Z"}
+{"id":"13962486125","timestamp":"2026-02-27T20:49:29.79707081Z","domain":"www05-dev.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-02-27T00:00:00Z","to":"2026-09-13T23:59:59Z"}
