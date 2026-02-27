@@ -16735,3 +16735,5 @@
 {"id":"13960912188","timestamp":"2026-02-27T17:21:00.320872058Z","domain":"tbsanalyticsapi-dev.apim-dev.tbs-sct.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2027-03-30T23:59:59Z"}
 {"id":"13960912188","timestamp":"2026-02-27T17:21:00.320872569Z","domain":"tbsanalyticsapi-qa.apim-dev.tbs-sct.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2027-03-30T23:59:59Z"}
 {"id":"13960970949","timestamp":"2026-02-27T17:21:00.32087292Z","domain":"autodesk-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-27T00:00:00Z","to":"2026-09-12T23:59:59Z"}
+{"id":"13961895012","timestamp":"2026-02-27T19:22:02.431269492Z","domain":"kserve.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-27T17:50:21Z","to":"2026-05-28T17:50:20Z"}
+{"id":"13961965273","timestamp":"2026-02-27T19:22:02.431269823Z","domain":"*.kserve.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-27T18:00:11Z","to":"2026-05-28T18:00:10Z"}
