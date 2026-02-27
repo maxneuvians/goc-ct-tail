@@ -1041,3 +1041,10 @@
 {"id":"13912526145","timestamp":"2026-02-23T12:48:14.21885387Z","domain":"campaigns-campagnes.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-23T10:57:39Z","to":"2026-05-24T10:57:38Z"}
 {"id":"13921649132","timestamp":"2026-02-24T06:48:40.945722869Z","domain":"sdmx-config.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-24T05:18:02Z","to":"2026-05-25T05:18:01Z"}
 {"id":"13936952620","timestamp":"2026-02-25T14:47:19.765170914Z","domain":"de-pceip.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-25T12:58:09Z","to":"2026-05-26T12:58:08Z"}
+{"id":"13956331202","timestamp":"2026-02-27T08:46:29.826272217Z","domain":"interviewer-intervieweur-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-27T06:41:45Z","to":"2026-05-28T06:41:44Z"}
+{"id":"13956331202","timestamp":"2026-02-27T08:46:29.826272567Z","domain":"interviewer-intervieweur.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-27T06:41:45Z","to":"2026-05-28T06:41:44Z"}
+{"id":"13956347682","timestamp":"2026-02-27T08:46:29.826272758Z","domain":"cmp-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-27T06:42:49Z","to":"2026-05-28T06:42:48Z"}
+{"id":"13956347682","timestamp":"2026-02-27T08:46:29.826272958Z","domain":"cmp.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-27T06:42:49Z","to":"2026-05-28T06:42:48Z"}
+{"id":"13956347682","timestamp":"2026-02-27T08:46:29.826273038Z","domain":"pgc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-27T06:42:49Z","to":"2026-05-28T06:42:48Z"}
+{"id":"13956360478","timestamp":"2026-02-27T08:46:29.82627403Z","domain":"mis-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-27T06:42:51Z","to":"2026-05-28T06:42:50Z"}
+{"id":"13956360478","timestamp":"2026-02-27T08:46:29.82627411Z","domain":"mis.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-27T06:42:51Z","to":"2026-05-28T06:42:50Z"}
