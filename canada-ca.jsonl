@@ -16727,3 +16727,8 @@
 {"id":"13951847132","timestamp":"2026-02-26T23:17:32.396930272Z","domain":"*.rp-sim.migration.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-26T00:00:00Z","to":"2026-09-11T23:59:59Z"}
 {"id":"13951847132","timestamp":"2026-02-26T23:17:32.396930823Z","domain":"rp-sim.migration.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-02-26T00:00:00Z","to":"2026-09-11T23:59:59Z"}
 {"id":"13952683076","timestamp":"2026-02-27T00:49:18.010831932Z","domain":"kfserving.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-02-26T23:02:15Z","to":"2026-05-27T23:02:14Z"}
+{"id":"13959618424","timestamp":"2026-02-27T15:23:22.270877176Z","domain":"cops-maintenance.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"13959618424","timestamp":"2026-02-27T15:23:22.270877769Z","domain":"fee-payments.health.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"13959618424","timestamp":"2026-02-27T15:23:22.270878264Z","domain":"fee-payments.phac.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"13959618424","timestamp":"2026-02-27T15:23:22.270878598Z","domain":"paiements-frais.aspc.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"13959618424","timestamp":"2026-02-27T15:23:22.270878683Z","domain":"paiements-frais.sante.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2026-12-26T23:59:59Z"}
