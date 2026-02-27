@@ -1169,3 +1169,5 @@
 {"id":"13900508776","timestamp":"2026-02-22T11:37:06.380251376Z","domain":"tapx-claimsigner-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-02-22T00:00:00Z","to":"2026-08-22T23:59:59Z"}
 {"id":"13904836224","timestamp":"2026-02-22T20:41:11.15552739Z","domain":"sitefinity-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-02-22T00:00:00Z","to":"2026-08-22T23:59:59Z"}
 {"id":"13922419956","timestamp":"2026-02-24T08:47:11.030675859Z","domain":"infobase-forms-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-02-24T00:00:00Z","to":"2026-08-24T23:59:59Z"}
+{"id":"13960893675","timestamp":"2026-02-27T17:44:55.893828159Z","domain":"uat-gppti.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2027-03-30T23:59:59Z"}
+{"id":"13960893675","timestamp":"2026-02-27T17:44:55.89382867Z","domain":"uat-itppm.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2027-03-30T23:59:59Z"}
