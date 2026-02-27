@@ -1254,3 +1254,8 @@
 {"id":"13880949829","timestamp":"2026-02-20T18:16:15.710859636Z","domain":"mcdc2-vpn.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-02-20T00:00:00Z","to":"2027-02-23T23:59:59Z"}
 {"id":"13880949829","timestamp":"2026-02-20T18:16:15.710859907Z","domain":"mcdc-vpn.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-02-20T00:00:00Z","to":"2027-02-23T23:59:59Z"}
 {"id":"13880949829","timestamp":"2026-02-20T18:16:15.710860227Z","domain":"pdp-vpn.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-02-20T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"13959618424","timestamp":"2026-02-27T15:16:51.037980211Z","domain":"cops-maintenance.hc-sc.gc.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"13959618424","timestamp":"2026-02-27T15:16:51.037980599Z","domain":"fee-payments.health.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"13959618424","timestamp":"2026-02-27T15:16:51.037980876Z","domain":"fee-payments.phac.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"13959618424","timestamp":"2026-02-27T15:16:51.037981082Z","domain":"paiements-frais.aspc.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"13959618424","timestamp":"2026-02-27T15:16:51.037981164Z","domain":"paiements-frais.sante.canada.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2026-12-26T23:59:59Z"}
