@@ -3630,8 +3630,10 @@
       "Sectigo": 1
     },
     "2026-02-26": {
-      "Google Trust Services": 1,
-      "Let's Encrypt": 8
+      "Google Trust Services": 2,
+      "Let's Encrypt": 18,
+      "Sectigo": 16,
+      "Amazon Trust Services": 6
     }
   },
   "errors": []
