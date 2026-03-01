@@ -16791,3 +16791,6 @@
 {"id":"13979575053","timestamp":"2026-03-01T10:16:47.447723313Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T08:40:54Z","to":"2026-05-30T08:40:53Z"}
 {"id":"13979575053","timestamp":"2026-03-01T10:16:47.447723604Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T08:40:54Z","to":"2026-05-30T08:40:53Z"}
 {"id":"13979922914","timestamp":"2026-03-01T11:15:56.038599421Z","domain":"ressources.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T09:26:09Z","to":"2026-05-30T09:26:08Z"}
+{"id":"13981980402","timestamp":"2026-03-01T15:16:23.158684905Z","domain":"identity-api.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T14:00:09Z","to":"2026-05-30T14:00:08Z"}
+{"id":"13981982816","timestamp":"2026-03-01T15:16:23.158685396Z","domain":"keycloak.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T14:00:40Z","to":"2026-05-30T14:00:39Z"}
+{"id":"13982049780","timestamp":"2026-03-01T15:16:23.158685626Z","domain":"console.minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T14:10:27Z","to":"2026-05-30T14:10:26Z"}
