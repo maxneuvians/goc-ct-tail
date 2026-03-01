@@ -16786,3 +16786,7 @@
 {"id":"13978582866","timestamp":"2026-03-01T08:17:12.315118725Z","domain":"auth.g7-dev.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T06:23:52Z","to":"2026-05-30T06:23:51Z"}
 {"id":"13978626073","timestamp":"2026-03-01T08:17:12.315118956Z","domain":"canchat.uat.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T06:30:30Z","to":"2026-05-30T06:30:29Z"}
 {"id":"13978761710","timestamp":"2026-03-01T08:17:12.315119216Z","domain":"a11y.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T06:48:16Z","to":"2026-05-30T06:48:15Z"}
+{"id":"13979575053","timestamp":"2026-03-01T10:16:47.447722442Z","domain":"navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T08:40:54Z","to":"2026-05-30T08:40:53Z"}
+{"id":"13979575053","timestamp":"2026-03-01T10:16:47.447722973Z","domain":"ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T08:40:54Z","to":"2026-05-30T08:40:53Z"}
+{"id":"13979575053","timestamp":"2026-03-01T10:16:47.447723313Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T08:40:54Z","to":"2026-05-30T08:40:53Z"}
+{"id":"13979575053","timestamp":"2026-03-01T10:16:47.447723604Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T08:40:54Z","to":"2026-05-30T08:40:53Z"}
