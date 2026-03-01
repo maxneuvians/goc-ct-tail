@@ -16805,3 +16805,6 @@
 {"id":"13982252867","timestamp":"2026-03-01T16:16:48.506905097Z","domain":"applicationhub.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T14:34:57Z","to":"2026-05-30T14:34:56Z"}
 {"id":"13982486616","timestamp":"2026-03-01T16:16:48.506906049Z","domain":"minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T15:06:01Z","to":"2026-05-30T15:06:00Z"}
 {"id":"13982514702","timestamp":"2026-03-01T16:16:48.506906129Z","domain":"console.minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T15:10:29Z","to":"2026-05-30T15:10:28Z"}
+{"id":"13982655334","timestamp":"2026-03-01T17:16:36.821991615Z","domain":"data-access.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T15:26:35Z","to":"2026-05-30T15:26:34Z"}
+{"id":"13982660121","timestamp":"2026-03-01T17:16:36.821992156Z","domain":"eoepca-portal.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T15:27:00Z","to":"2026-05-30T15:26:59Z"}
+{"id":"13982718871","timestamp":"2026-03-01T17:16:36.821992346Z","domain":"harbor.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T15:35:25Z","to":"2026-05-30T15:35:24Z"}
