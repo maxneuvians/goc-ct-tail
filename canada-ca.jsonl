@@ -16747,3 +16747,5 @@
 {"id":"13969356884","timestamp":"2026-02-28T11:15:57.168991844Z","domain":"incident-forwarder.mgmt.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-02-28T10:09:43Z","to":"2026-05-29T11:05:38Z"}
 {"id":"13975270544","timestamp":"2026-03-01T00:55:32.171733865Z","domain":"api.csv2.innovation.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-01T00:00:00Z","to":"2026-09-14T23:59:59Z"}
 {"id":"13975363091","timestamp":"2026-03-01T00:55:32.171734166Z","domain":"resources.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-02-28T23:21:39Z","to":"2026-05-29T23:21:38Z"}
+{"id":"13977348243","timestamp":"2026-03-01T04:47:23.987237041Z","domain":"cartes-test.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T03:35:28Z","to":"2026-05-30T03:35:27Z"}
+{"id":"13977348243","timestamp":"2026-03-01T04:47:23.987237285Z","domain":"maps-test.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T03:35:28Z","to":"2026-05-30T03:35:27Z"}
