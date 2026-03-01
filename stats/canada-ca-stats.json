@@ -3639,6 +3639,14 @@
       "Sectigo": 7,
       "Amazon Trust Services": 1,
       "Let's Encrypt": 7
+    },
+    "2026-02-28": {
+      "Let's Encrypt": 3,
+      "Google Trust Services": 1
+    },
+    "2026-03-01": {
+      "Amazon Trust Services": 1,
+      "Let's Encrypt": 2
     }
   },
   "errors": []
