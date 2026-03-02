@@ -16814,3 +16814,5 @@
 {"id":"13986145353","timestamp":"2026-03-02T00:49:26.180897309Z","domain":"bcd-api.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-02T00:00:00Z","to":"2026-09-15T23:59:59Z"}
 {"id":"13986600635","timestamp":"2026-03-02T01:46:05.695348161Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-03-02T00:01:45Z","to":"2026-05-31T00:01:44Z"}
 {"id":"13986600635","timestamp":"2026-03-02T01:46:05.695348492Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-03-02T00:01:45Z","to":"2026-05-31T00:01:44Z"}
+{"id":"13988836181","timestamp":"2026-03-02T06:31:04.379952807Z","domain":"earthquakes.canada.ca","issuer":"Let's Encrypt","from":"2026-03-02T04:40:59Z","to":"2026-05-31T04:40:58Z"}
+{"id":"13988836181","timestamp":"2026-03-02T06:31:04.379953148Z","domain":"seismes.canada.ca","issuer":"Let's Encrypt","from":"2026-03-02T04:40:59Z","to":"2026-05-31T04:40:58Z"}
