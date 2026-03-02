@@ -16812,3 +16812,5 @@
 {"id":"13985790038","timestamp":"2026-03-02T00:49:26.180896267Z","domain":"backstage.mgmt.as49lw.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-03-01T22:18:43Z","to":"2026-05-30T23:12:56Z"}
 {"id":"13985845438","timestamp":"2026-03-02T00:49:26.180896928Z","domain":"nachet-dev-op.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-01T22:30:09Z","to":"2026-05-30T22:30:08Z"}
 {"id":"13986145353","timestamp":"2026-03-02T00:49:26.180897309Z","domain":"bcd-api.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-02T00:00:00Z","to":"2026-09-15T23:59:59Z"}
+{"id":"13986600635","timestamp":"2026-03-02T01:46:05.695348161Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-03-02T00:01:45Z","to":"2026-05-31T00:01:44Z"}
+{"id":"13986600635","timestamp":"2026-03-02T01:46:05.695348492Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-03-02T00:01:45Z","to":"2026-05-31T00:01:44Z"}
