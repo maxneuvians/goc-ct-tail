@@ -16878,3 +16878,5 @@
 {"id":"14006481507","timestamp":"2026-03-03T16:25:54.447132433Z","domain":"mlflow.ws-bob.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-03T14:48:04Z","to":"2026-06-01T14:48:03Z"}
 {"id":"14007461312","timestamp":"2026-03-03T18:25:33.143692937Z","domain":"dev.tbs-sct.canada.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
 {"id":"14007558491","timestamp":"2026-03-03T18:25:33.143693298Z","domain":"code.ouvert.canada.ca","issuer":"Let's Encrypt","from":"2026-03-03T16:56:10Z","to":"2026-06-01T16:56:09Z"}
+{"id":"14007946250","timestamp":"2026-03-03T19:25:44.058028972Z","domain":"clinical-information.canada.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14007946250","timestamp":"2026-03-03T19:25:44.058029433Z","domain":"renseignements-cliniques.canada.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
