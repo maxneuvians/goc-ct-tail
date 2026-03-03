@@ -1171,3 +1171,7 @@
 {"id":"13922419956","timestamp":"2026-02-24T08:47:11.030675859Z","domain":"infobase-forms-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-02-24T00:00:00Z","to":"2026-08-24T23:59:59Z"}
 {"id":"13960893675","timestamp":"2026-02-27T17:44:55.893828159Z","domain":"uat-gppti.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2027-03-30T23:59:59Z"}
 {"id":"13960893675","timestamp":"2026-02-27T17:44:55.89382867Z","domain":"uat-itppm.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-02-27T00:00:00Z","to":"2027-03-30T23:59:59Z"}
+{"id":"14008579650","timestamp":"2026-03-03T20:43:47.552685677Z","domain":"gppti.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"14008579650","timestamp":"2026-03-03T20:43:47.552686078Z","domain":"itppm.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"14008579650","timestamp":"2026-03-03T20:43:47.552686759Z","domain":"uat-gppti.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-02-23T23:59:59Z"}
+{"id":"14008579650","timestamp":"2026-03-03T20:43:47.55268705Z","domain":"uat-itppm.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-02-23T23:59:59Z"}
