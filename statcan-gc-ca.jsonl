@@ -1067,3 +1067,22 @@
 {"id":"13973945518","timestamp":"2026-02-28T21:36:38.492400148Z","domain":"www23.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-02-28T20:15:58Z","to":"2026-05-29T20:15:57Z"}
 {"id":"14008664541","timestamp":"2026-03-03T20:43:47.792794047Z","domain":"rich-data-services.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-03T19:12:24Z","to":"2026-06-01T19:12:23Z"}
 {"id":"14008664541","timestamp":"2026-03-03T20:43:47.792794528Z","domain":"services-donnees-enrichis.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-03T19:12:24Z","to":"2026-06-01T19:12:23Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029377957Z","domain":"enquetes.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029378348Z","domain":"enquetes-surveys.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029378568Z","domain":"enquete.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029378769Z","domain":"enquete-survey.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029378879Z","domain":"iiszpwebnlbceneq.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.02937939Z","domain":"survey-enquete.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.02937948Z","domain":"surveys-enquetes-new-prod.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.02937957Z","domain":"surveys-enquetes.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029379661Z","domain":"surveys.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029380262Z","domain":"survey.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029380342Z","domain":"www.enquetes.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029380432Z","domain":"www.enquetes-surveys.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029380522Z","domain":"www.enquete.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029380612Z","domain":"www.enquete-survey.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029380703Z","domain":"www.survey-enquete.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029380793Z","domain":"www.surveys-enquetes-new-prod.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029380873Z","domain":"www.surveys-enquetes.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029380963Z","domain":"www.surveys.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
+{"id":"14009091779","timestamp":"2026-03-03T21:43:54.029381714Z","domain":"www.survey.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
