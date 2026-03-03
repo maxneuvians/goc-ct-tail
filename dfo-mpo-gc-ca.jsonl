@@ -1268,3 +1268,5 @@
 {"id":"13995456650","timestamp":"2026-03-02T18:31:59.883245244Z","domain":"api-sine.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-03-02T17:13:50Z","to":"2026-05-31T17:13:49Z"}
 {"id":"13995456650","timestamp":"2026-03-02T18:31:59.883245324Z","domain":"iwls-sine-api.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-03-02T17:13:50Z","to":"2026-05-31T17:13:49Z"}
 {"id":"14002227720","timestamp":"2026-03-03T07:32:38.535750948Z","domain":"*.aps.dev.intra.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-03-03T06:22:29Z","to":"2026-06-01T06:22:28Z"}
+{"id":"14007463459","timestamp":"2026-03-03T18:32:16.399328628Z","domain":"wla.dev.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-03-03T16:43:35Z","to":"2026-06-01T16:43:34Z"}
+{"id":"14007463459","timestamp":"2026-03-03T18:32:16.399329139Z","domain":"wla.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-03-03T16:43:35Z","to":"2026-06-01T16:43:34Z"}
