@@ -16892,3 +16892,13 @@
 {"id":"14018185658","timestamp":"2026-03-04T16:23:09.50966317Z","domain":"*.cto-dev-portal.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-04T15:03:08Z","to":"2026-06-02T15:03:07Z"}
 {"id":"14018194167","timestamp":"2026-03-04T16:23:09.509663531Z","domain":"*.cto-prod-portal.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-04T15:02:52Z","to":"2026-06-02T15:02:51Z"}
 {"id":"14018354713","timestamp":"2026-03-04T17:23:36.149507748Z","domain":"containers.tko-ott2.prod.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-04T15:22:06Z","to":"2026-06-02T15:22:05Z"}
+{"id":"14019675838","timestamp":"2026-03-04T19:24:38.025457281Z","domain":"cic.gc.ca","issuer":"Sectigo","from":"2026-03-04T00:00:00Z","to":"2027-04-04T23:59:59Z"}
+{"id":"14019675838","timestamp":"2026-03-04T19:24:38.025457772Z","domain":"cic.gslb.global.gc.ca","issuer":"Sectigo","from":"2026-03-04T00:00:00Z","to":"2027-04-04T23:59:59Z"}
+{"id":"14019675838","timestamp":"2026-03-04T19:24:38.025457982Z","domain":"immigration.canada.ca","issuer":"Sectigo","from":"2026-03-04T00:00:00Z","to":"2027-04-04T23:59:59Z"}
+{"id":"14019675838","timestamp":"2026-03-04T19:24:38.025458193Z","domain":"immigration.gc.ca","issuer":"Sectigo","from":"2026-03-04T00:00:00Z","to":"2027-04-04T23:59:59Z"}
+{"id":"14019675838","timestamp":"2026-03-04T19:24:38.025458273Z","domain":"ircc.canada.ca","issuer":"Sectigo","from":"2026-03-04T00:00:00Z","to":"2027-04-04T23:59:59Z"}
+{"id":"14019675838","timestamp":"2026-03-04T19:24:38.025459515Z","domain":"www.cic.gc.ca","issuer":"Sectigo","from":"2026-03-04T00:00:00Z","to":"2027-04-04T23:59:59Z"}
+{"id":"14019675838","timestamp":"2026-03-04T19:24:38.025459595Z","domain":"www.cic.gslb.global.gc.ca","issuer":"Sectigo","from":"2026-03-04T00:00:00Z","to":"2027-04-04T23:59:59Z"}
+{"id":"14019675838","timestamp":"2026-03-04T19:24:38.025459675Z","domain":"www.immigration.canada.ca","issuer":"Sectigo","from":"2026-03-04T00:00:00Z","to":"2027-04-04T23:59:59Z"}
+{"id":"14019675838","timestamp":"2026-03-04T19:24:38.025459746Z","domain":"www.immigration.gc.ca","issuer":"Sectigo","from":"2026-03-04T00:00:00Z","to":"2027-04-04T23:59:59Z"}
+{"id":"14019675838","timestamp":"2026-03-04T19:24:38.025460868Z","domain":"www.ircc.canada.ca","issuer":"Sectigo","from":"2026-03-04T00:00:00Z","to":"2027-04-04T23:59:59Z"}
