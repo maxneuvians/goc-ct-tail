@@ -1087,3 +1087,5 @@
 {"id":"14009091779","timestamp":"2026-03-03T21:43:54.029380963Z","domain":"www.surveys.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
 {"id":"14009091779","timestamp":"2026-03-03T21:43:54.029381714Z","domain":"www.survey.statcan.gc.ca","issuer":"Sectigo","from":"2026-03-03T00:00:00Z","to":"2027-04-03T23:59:59Z"}
 {"id":"14014573713","timestamp":"2026-03-04T08:46:02.950624032Z","domain":"de-sddsplus-ext.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-04T07:39:40Z","to":"2026-06-02T07:39:39Z"}
+{"id":"14023239149","timestamp":"2026-03-05T03:20:35.826105375Z","domain":"analytics-platform.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-05T01:32:29Z","to":"2026-06-03T01:32:28Z"}
+{"id":"14023239149","timestamp":"2026-03-05T03:20:35.826105745Z","domain":"plateforme-analyse.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-05T01:32:29Z","to":"2026-06-03T01:32:28Z"}
