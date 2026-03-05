@@ -17001,3 +17001,20 @@
 {"id":"14029065995","timestamp":"2026-03-05T15:28:18.018957297Z","domain":"portalsecure.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-05T14:13:51Z","to":"2026-06-03T14:13:50Z"}
 {"id":"14029129886","timestamp":"2026-03-05T15:28:18.018957397Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
 {"id":"14029129886","timestamp":"2026-03-05T15:28:18.018957497Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
+{"id":"14029250982","timestamp":"2026-03-05T18:46:15.881482375Z","domain":"*.ised-isde.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
+{"id":"14029250982","timestamp":"2026-03-05T18:46:15.881482886Z","domain":"*.uat.ised-isde.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
+{"id":"14029250982","timestamp":"2026-03-05T18:46:15.881483156Z","domain":"uat.ised-isde.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
+{"id":"14029338730","timestamp":"2026-03-05T18:46:15.881483517Z","domain":"*.ised-isde.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
+{"id":"14029338730","timestamp":"2026-03-05T18:46:15.881483627Z","domain":"ised-isde.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
+{"id":"14029418762","timestamp":"2026-03-05T18:46:15.88148493Z","domain":"gcco-iugc.dev.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-05T14:59:02Z","to":"2026-06-03T14:59:01Z"}
+{"id":"14029996737","timestamp":"2026-03-05T18:46:15.88148505Z","domain":"selfserve.ssc-sand-gccopa.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-05T16:06:48Z","to":"2026-06-03T16:06:47Z"}
+{"id":"14030509376","timestamp":"2026-03-05T18:46:15.88148517Z","domain":"*.test.ised-isde.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
+{"id":"14030509376","timestamp":"2026-03-05T18:46:15.88148526Z","domain":"test.ised-isde.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
+{"id":"14030604438","timestamp":"2026-03-05T18:46:15.881486282Z","domain":"portalsecure.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-05T17:24:04Z","to":"2026-06-03T17:24:03Z"}
+{"id":"14030611821","timestamp":"2026-03-05T18:46:15.881486372Z","domain":"*.dev.ised-isde.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
+{"id":"14030611821","timestamp":"2026-03-05T18:46:15.881486462Z","domain":"dev.ised-isde.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
+{"id":"14030687608","timestamp":"2026-03-05T18:46:15.881486573Z","domain":"deputypm.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
+{"id":"14030687608","timestamp":"2026-03-05T18:46:15.881486683Z","domain":"dpm.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
+{"id":"14030687608","timestamp":"2026-03-05T18:46:15.881486773Z","domain":"vicepm.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
+{"id":"14030687608","timestamp":"2026-03-05T18:46:15.881486873Z","domain":"vpm.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
+{"id":"14030687608","timestamp":"2026-03-05T18:46:15.881486963Z","domain":"www.deputypm.canada.ca","issuer":"Sectigo","from":"2026-03-05T00:00:00Z","to":"2027-04-05T23:59:59Z"}
