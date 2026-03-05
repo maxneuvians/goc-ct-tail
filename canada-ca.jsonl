@@ -16984,3 +16984,5 @@
 {"id":"14025375220","timestamp":"2026-03-05T08:21:28.044902167Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-05T06:24:37Z","to":"2026-06-03T06:24:36Z"}
 {"id":"14025424060","timestamp":"2026-03-05T08:21:28.044902487Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-05T06:29:42Z","to":"2026-06-03T06:29:41Z"}
 {"id":"14025424060","timestamp":"2026-03-05T08:21:28.044902788Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-05T06:29:42Z","to":"2026-06-03T06:29:41Z"}
+{"id":"14028372951","timestamp":"2026-03-05T14:25:47.794577214Z","domain":"www.nilfa-apain.service.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-03-05T00:00:00Z","to":"2026-09-05T23:59:59Z"}
+{"id":"14028610905","timestamp":"2026-03-05T14:25:47.794577745Z","domain":"nilfa-apain.service.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-03-05T00:00:00Z","to":"2026-09-05T23:59:59Z"}
