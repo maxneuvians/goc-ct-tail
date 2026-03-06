@@ -3663,6 +3663,12 @@
       "Amazon Trust Services": 2,
       "Let's Encrypt": 81,
       "Sectigo": 10
+    },
+    "2026-03-05": {
+      "Let's Encrypt": 13,
+      "DigiCert": 3,
+      "Sectigo": 26,
+      "Amazon Trust Services": 28
     }
   },
   "errors": []
