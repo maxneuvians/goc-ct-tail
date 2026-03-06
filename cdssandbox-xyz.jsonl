@@ -2318,3 +2318,5 @@
 {"id":"13948150668","timestamp":"2026-02-26T14:47:04.551279044Z","domain":"api-k8s-nlb.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-02-26T00:00:00Z","to":"2026-09-11T23:59:59Z"}
 {"id":"14040649254","timestamp":"2026-03-06T17:44:55.132367811Z","domain":"*.dev.notification.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-03-06T15:52:35Z","to":"2026-06-04T15:52:34Z"}
 {"id":"14040649254","timestamp":"2026-03-06T17:44:55.132368292Z","domain":"dev.notification.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-03-06T15:52:35Z","to":"2026-06-04T15:52:34Z"}
+{"id":"14042446845","timestamp":"2026-03-06T21:41:24.479731492Z","domain":"*.dev.notification.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-03-06T19:38:00Z","to":"2026-06-04T19:37:59Z"}
+{"id":"14042446845","timestamp":"2026-03-06T21:41:24.479731885Z","domain":"dev.notification.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-03-06T19:38:00Z","to":"2026-06-04T19:37:59Z"}
