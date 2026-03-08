@@ -17062,3 +17062,5 @@
 {"id":"14051658137","timestamp":"2026-03-07T17:16:09.397770694Z","domain":"auth.g7.canada.ca","issuer":"Let's Encrypt","from":"2026-03-07T16:04:18Z","to":"2026-06-05T16:04:17Z"}
 {"id":"14051660955","timestamp":"2026-03-07T17:16:09.397770934Z","domain":"auth.g7.canada.ca","issuer":"Let's Encrypt","from":"2026-03-07T16:04:16Z","to":"2026-06-05T16:04:15Z"}
 {"id":"14054592510","timestamp":"2026-03-08T00:50:23.133831511Z","domain":"publications-be-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-08T00:00:00Z","to":"2026-09-21T23:59:59Z"}
+{"id":"14055140776","timestamp":"2026-03-08T01:46:05.214779628Z","domain":"sol.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-08T00:31:20Z","to":"2026-06-06T00:31:19Z"}
+{"id":"14055163052","timestamp":"2026-03-08T01:46:05.214779989Z","domain":"aur.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-08T00:33:27Z","to":"2026-06-06T00:33:26Z"}
