@@ -38,13 +38,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 17057,
+      "totalCertificates": 17068,
       "totalsByIssuer": {
         "Entrust": 2525,
-        "Amazon Trust Services": 1254,
+        "Amazon Trust Services": 1255,
         "DigiCert": 801,
         "GoDaddy": 13,
-        "Let's Encrypt": 9116,
+        "Let's Encrypt": 9126,
         "Google Trust Services": 360,
         "Sectigo": 1330,
         "SSL.com": 1658
@@ -710,8 +710,8 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 4173,
-    "Let's Encrypt": 25152,
+    "Amazon Trust Services": 4174,
+    "Let's Encrypt": 25162,
     "SSL.com": 6251,
     "Sectigo": 17371,
     "DigiCert": 2525,
