@@ -17092,3 +17092,5 @@
 {"id":"14064823866","timestamp":"2026-03-09T00:49:56.594269952Z","domain":"cicp-pcip-calc-dev.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-09T00:00:00Z","to":"2026-09-22T23:59:59Z"}
 {"id":"14064824661","timestamp":"2026-03-09T00:49:56.594271465Z","domain":"cicp-pcip-calc-main.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-09T00:00:00Z","to":"2026-09-22T23:59:59Z"}
 {"id":"14064825638","timestamp":"2026-03-09T00:49:56.594271585Z","domain":"ocir-riso-ontario.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-09T00:00:00Z","to":"2026-09-22T23:59:59Z"}
+{"id":"14065265114","timestamp":"2026-03-09T01:46:17.145521018Z","domain":"*.acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-03-09T00:01:46Z","to":"2026-06-07T00:01:45Z"}
+{"id":"14065265114","timestamp":"2026-03-09T01:46:17.145521579Z","domain":"acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-03-09T00:01:46Z","to":"2026-06-07T00:01:45Z"}
