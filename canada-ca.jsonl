@@ -17085,3 +17085,10 @@
 {"id":"14062956638","timestamp":"2026-03-08T20:16:35.87317457Z","domain":"flood-risk-portal-release.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2026-03-08T18:44:53Z","to":"2026-06-06T18:44:52Z"}
 {"id":"14062956638","timestamp":"2026-03-08T20:16:35.87317489Z","domain":"outil-risques-inondation.canada.ca","issuer":"Let's Encrypt","from":"2026-03-08T18:44:53Z","to":"2026-06-06T18:44:52Z"}
 {"id":"14063551765","timestamp":"2026-03-08T21:16:31.072536043Z","domain":"tccampus-catalogue.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-03-08T20:08:13Z","to":"2026-06-06T20:08:12Z"}
+{"id":"14064620496","timestamp":"2026-03-09T00:49:56.594267618Z","domain":"incident-forwarder.mgmt.experimentation.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-03-08T22:36:37Z","to":"2026-06-06T23:32:32Z"}
+{"id":"14064820659","timestamp":"2026-03-09T00:49:56.594268039Z","domain":"*.dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-09T00:00:00Z","to":"2026-09-22T23:59:59Z"}
+{"id":"14064820659","timestamp":"2026-03-09T00:49:56.594268359Z","domain":"dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-09T00:00:00Z","to":"2026-09-22T23:59:59Z"}
+{"id":"14064822481","timestamp":"2026-03-09T00:49:56.594269812Z","domain":"sgb-lms.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-09T00:00:00Z","to":"2026-09-22T23:59:59Z"}
+{"id":"14064823866","timestamp":"2026-03-09T00:49:56.594269952Z","domain":"cicp-pcip-calc-dev.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-09T00:00:00Z","to":"2026-09-22T23:59:59Z"}
+{"id":"14064824661","timestamp":"2026-03-09T00:49:56.594271465Z","domain":"cicp-pcip-calc-main.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-09T00:00:00Z","to":"2026-09-22T23:59:59Z"}
+{"id":"14064825638","timestamp":"2026-03-09T00:49:56.594271585Z","domain":"ocir-riso-ontario.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-09T00:00:00Z","to":"2026-09-22T23:59:59Z"}
