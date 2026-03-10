@@ -17199,3 +17199,9 @@
 {"id":"14086754154","timestamp":"2026-03-10T20:18:02.419998787Z","domain":"betak.tools.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
 {"id":"14086754154","timestamp":"2026-03-10T20:18:02.419998877Z","domain":"*.tools.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
 {"id":"14086754154","timestamp":"2026-03-10T20:18:02.419999729Z","domain":"tools.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14086937663","timestamp":"2026-03-10T21:17:47.475046257Z","domain":"*.betak.tools.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14086937663","timestamp":"2026-03-10T21:17:47.475046588Z","domain":"betak.tools.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14087229733","timestamp":"2026-03-10T21:17:47.475046838Z","domain":"beneficiaire-infrastructure.canada.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-04-10T23:59:59Z"}
+{"id":"14087229733","timestamp":"2026-03-10T21:17:47.475047109Z","domain":"beneficiaire-infrastructure-preprod.canada.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-04-10T23:59:59Z"}
+{"id":"14087229733","timestamp":"2026-03-10T21:17:47.475047189Z","domain":"infrastructure-recipient.canada.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-04-10T23:59:59Z"}
+{"id":"14087229733","timestamp":"2026-03-10T21:17:47.475048231Z","domain":"infrastructure-recipient-preprod.canada.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-04-10T23:59:59Z"}
