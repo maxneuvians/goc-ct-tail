@@ -17175,3 +17175,19 @@
 {"id":"14084909793","timestamp":"2026-03-10T17:25:59.79392666Z","domain":"tools.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
 {"id":"14085137842","timestamp":"2026-03-10T17:25:59.793926731Z","domain":"*.betak.tools.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
 {"id":"14085137842","timestamp":"2026-03-10T17:25:59.793926801Z","domain":"betak.tools.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14085397996","timestamp":"2026-03-10T18:26:23.79345375Z","domain":"billing.dev.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-10T16:27:32Z","to":"2026-06-08T16:27:31Z"}
+{"id":"14085441075","timestamp":"2026-03-10T18:26:23.793454332Z","domain":"*.priv.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-04-10T23:59:59Z"}
+{"id":"14085441075","timestamp":"2026-03-10T18:26:23.793454622Z","domain":"priv.nrcan-rncan.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-04-10T23:59:59Z"}
+{"id":"14085534605","timestamp":"2026-03-10T18:26:23.793454862Z","domain":"icare-iedec.canada.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-04-10T23:59:59Z"}
+{"id":"14085534605","timestamp":"2026-03-10T18:26:23.793454953Z","domain":"icare-iedec.cic.gc.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-04-10T23:59:59Z"}
+{"id":"14085534605","timestamp":"2026-03-10T18:26:23.793455784Z","domain":"icare-iedec-proxy.cic.gc.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-04-10T23:59:59Z"}
+{"id":"14085534605","timestamp":"2026-03-10T18:26:23.793455864Z","domain":"icare-oauth-proxy.cic.gc.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-04-10T23:59:59Z"}
+{"id":"14085534605","timestamp":"2026-03-10T18:26:23.793455944Z","domain":"www.icare-iedec.canada.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-04-10T23:59:59Z"}
+{"id":"14085534605","timestamp":"2026-03-10T18:26:23.793456015Z","domain":"www.icare-iedec.cic.gc.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-04-10T23:59:59Z"}
+{"id":"14085621271","timestamp":"2026-03-10T18:26:23.793456586Z","domain":"aws.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-10T16:49:55Z","to":"2026-06-08T16:49:54Z"}
+{"id":"14085838204","timestamp":"2026-03-10T18:26:23.793456666Z","domain":"*.betak.tools.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14085838204","timestamp":"2026-03-10T18:26:23.793456746Z","domain":"betak.tools.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14085838204","timestamp":"2026-03-10T18:26:23.793456816Z","domain":"*.tools.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14085838204","timestamp":"2026-03-10T18:26:23.793456886Z","domain":"tools.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14085838252","timestamp":"2026-03-10T18:26:23.793456977Z","domain":"*.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14085838252","timestamp":"2026-03-10T18:26:23.793457046Z","domain":"guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
