@@ -17138,3 +17138,11 @@
 {"id":"14082864487","timestamp":"2026-03-10T13:37:41.459143795Z","domain":"whoami.dev.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-10T11:56:53Z","to":"2026-06-08T11:56:52Z"}
 {"id":"14083108838","timestamp":"2026-03-10T13:37:41.459144246Z","domain":"*.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
 {"id":"14083108838","timestamp":"2026-03-10T13:37:41.459144507Z","domain":"guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14083315999","timestamp":"2026-03-10T14:26:52.812666806Z","domain":"*.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14083315999","timestamp":"2026-03-10T14:26:52.812667166Z","domain":"guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14083475959","timestamp":"2026-03-10T14:26:52.812667517Z","domain":"*.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14083475959","timestamp":"2026-03-10T14:26:52.812667757Z","domain":"guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14083565376","timestamp":"2026-03-10T14:26:52.812667857Z","domain":"*.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14083565376","timestamp":"2026-03-10T14:26:52.81266925Z","domain":"guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-10T00:00:00Z","to":"2026-09-23T23:59:59Z"}
+{"id":"14083575483","timestamp":"2026-03-10T14:26:52.81266939Z","domain":"resource-catalogue.ws-xlu.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-10T13:18:07Z","to":"2026-06-08T13:18:06Z"}
+{"id":"14083575631","timestamp":"2026-03-10T14:26:52.81266948Z","domain":"mlflow.ws-xlu.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-10T13:18:09Z","to":"2026-06-08T13:18:08Z"}
