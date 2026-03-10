@@ -372,3 +372,5 @@
 {"id":"13608341398","timestamp":"2026-01-29T17:23:03.913741295Z","domain":"apps-ot2.cra-arc.gc.ca","issuer":"Sectigo","from":"2026-01-29T00:00:00Z","to":"2027-03-01T23:59:59Z"}
 {"id":"13781317832","timestamp":"2026-02-12T19:31:36.667951388Z","domain":"apigw-d.cra-arc.gc.ca","issuer":"Sectigo","from":"2026-02-12T00:00:00Z","to":"2027-03-15T23:59:59Z"}
 {"id":"13796681333","timestamp":"2026-02-13T21:20:47.882453399Z","domain":"apigw-mtls-d.cra-arc.gc.ca","issuer":"Sectigo","from":"2026-02-13T00:00:00Z","to":"2027-03-16T23:59:59Z"}
+{"id":"14084092891","timestamp":"2026-03-10T15:33:07.12025515Z","domain":"casd-dsac.cra-arc.gc.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-03-10T23:59:59Z"}
+{"id":"14084092891","timestamp":"2026-03-10T15:33:07.12025556Z","domain":"casd-dsac-cts.cra-arc.gc.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-03-10T23:59:59Z"}
