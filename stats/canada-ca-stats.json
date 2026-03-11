@@ -3689,7 +3689,12 @@
       "Google Trust Services": 2
     },
     "2026-03-10": {
-      "Let's Encrypt": 2
+      "Let's Encrypt": 17,
+      "Amazon Trust Services": 50,
+      "Sectigo": 13
+    },
+    "2026-03-11": {
+      "Let's Encrypt": 1
     }
   },
   "errors": []
