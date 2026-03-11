@@ -17244,3 +17244,7 @@
 {"id":"14097979411","timestamp":"2026-03-11T17:28:22.774572851Z","domain":"resource-catalogue.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T16:01:00Z","to":"2026-06-09T16:00:59Z"}
 {"id":"14097986057","timestamp":"2026-03-11T17:28:22.774573793Z","domain":"mlflow.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T16:01:00Z","to":"2026-06-09T16:00:59Z"}
 {"id":"14098004687","timestamp":"2026-03-11T17:28:22.774573873Z","domain":"cipo.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T16:03:47Z","to":"2026-06-09T16:03:46Z"}
+{"id":"14098221568","timestamp":"2026-03-11T18:28:27.147163894Z","domain":"*.bureaux.service.canada.ca","issuer":"Sectigo","from":"2026-03-11T00:00:00Z","to":"2027-04-11T23:59:59Z"}
+{"id":"14098221568","timestamp":"2026-03-11T18:28:27.147164766Z","domain":"bureaux.service.canada.ca","issuer":"Sectigo","from":"2026-03-11T00:00:00Z","to":"2027-04-11T23:59:59Z"}
+{"id":"14098221568","timestamp":"2026-03-11T18:28:27.147165036Z","domain":"*.offices.service.canada.ca","issuer":"Sectigo","from":"2026-03-11T00:00:00Z","to":"2027-04-11T23:59:59Z"}
+{"id":"14098221568","timestamp":"2026-03-11T18:28:27.147165327Z","domain":"offices.service.canada.ca","issuer":"Sectigo","from":"2026-03-11T00:00:00Z","to":"2027-04-11T23:59:59Z"}
