@@ -17221,3 +17221,19 @@
 {"id":"14096709962","timestamp":"2026-03-11T15:26:36.57100264Z","domain":"minio.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T13:38:35Z","to":"2026-06-09T13:38:34Z"}
 {"id":"14096726813","timestamp":"2026-03-11T15:26:36.57100293Z","domain":"identity-api.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T13:39:59Z","to":"2026-06-09T13:39:58Z"}
 {"id":"14096982146","timestamp":"2026-03-11T15:26:36.571003181Z","domain":"canary-workload.ssc-spc.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-03-11T14:08:04Z","to":"2026-06-09T15:01:17Z"}
+{"id":"14097183675","timestamp":"2026-03-11T16:28:35.731381525Z","domain":"zoo.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:33:08Z","to":"2026-06-09T14:33:07Z"}
+{"id":"14097183680","timestamp":"2026-03-11T16:28:35.731382186Z","domain":"eoepca-portal.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:33:43Z","to":"2026-06-09T14:33:42Z"}
+{"id":"14097187343","timestamp":"2026-03-11T16:28:35.731382787Z","domain":"workspace-api.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:33:32Z","to":"2026-06-09T14:33:31Z"}
+{"id":"14097188952","timestamp":"2026-03-11T16:28:35.731385372Z","domain":"subscription.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:33:49Z","to":"2026-06-09T14:33:48Z"}
+{"id":"14097191529","timestamp":"2026-03-11T16:28:35.731385512Z","domain":"dec-ui.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:34:23Z","to":"2026-06-09T14:34:22Z"}
+{"id":"14097193687","timestamp":"2026-03-11T16:28:35.731387145Z","domain":"resource-catalogue.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:33:10Z","to":"2026-06-09T14:33:09Z"}
+{"id":"14097193994","timestamp":"2026-03-11T16:28:35.731387245Z","domain":"notifications.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:34:50Z","to":"2026-06-09T14:34:49Z"}
+{"id":"14097195587","timestamp":"2026-03-11T16:28:35.731387346Z","domain":"registration-api.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:33:25Z","to":"2026-06-09T14:33:24Z"}
+{"id":"14097196366","timestamp":"2026-03-11T16:28:35.731387446Z","domain":"titilerx.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:35:33Z","to":"2026-06-09T14:35:32Z"}
+{"id":"14097200255","timestamp":"2026-03-11T16:28:35.731388788Z","domain":"data-access.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:33:15Z","to":"2026-06-09T14:33:14Z"}
+{"id":"14097205132","timestamp":"2026-03-11T16:28:35.731388889Z","domain":"argo-workflow.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:34:19Z","to":"2026-06-09T14:34:18Z"}
+{"id":"14097206668","timestamp":"2026-03-11T16:28:35.731388999Z","domain":"opencost.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:34:44Z","to":"2026-06-09T14:34:43Z"}
+{"id":"14097213618","timestamp":"2026-03-11T16:28:35.731389089Z","domain":"grafana.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:36:16Z","to":"2026-06-09T14:36:15Z"}
+{"id":"14097214995","timestamp":"2026-03-11T16:28:35.731389209Z","domain":"datacube-api.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:35:34Z","to":"2026-06-09T14:35:33Z"}
+{"id":"14097241905","timestamp":"2026-03-11T16:28:35.7313893Z","domain":"incident-forwarder.mgmt.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-03-11T14:36:59Z","to":"2026-06-09T15:32:53Z"}
+{"id":"14097256256","timestamp":"2026-03-11T16:28:35.7313894Z","domain":"keycloak.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:40:01Z","to":"2026-06-09T14:40:00Z"}
