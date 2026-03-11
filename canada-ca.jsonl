@@ -17217,3 +17217,7 @@
 {"id":"14094078524","timestamp":"2026-03-11T10:23:20.376773798Z","domain":"www.ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2026-03-11T08:40:53Z","to":"2026-06-09T08:40:52Z"}
 {"id":"14094729032","timestamp":"2026-03-11T11:20:53.832208567Z","domain":"minio-console.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T09:59:36Z","to":"2026-06-09T09:59:35Z"}
 {"id":"14094739051","timestamp":"2026-03-11T11:20:53.832208968Z","domain":"minio.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T09:59:37Z","to":"2026-06-09T09:59:36Z"}
+{"id":"14096705607","timestamp":"2026-03-11T15:26:36.571002129Z","domain":"console.minio.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T13:38:35Z","to":"2026-06-09T13:38:34Z"}
+{"id":"14096709962","timestamp":"2026-03-11T15:26:36.57100264Z","domain":"minio.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T13:38:35Z","to":"2026-06-09T13:38:34Z"}
+{"id":"14096726813","timestamp":"2026-03-11T15:26:36.57100293Z","domain":"identity-api.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T13:39:59Z","to":"2026-06-09T13:39:58Z"}
+{"id":"14096982146","timestamp":"2026-03-11T15:26:36.571003181Z","domain":"canary-workload.ssc-spc.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-03-11T14:08:04Z","to":"2026-06-09T15:01:17Z"}
