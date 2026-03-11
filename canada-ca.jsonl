@@ -17237,3 +17237,10 @@
 {"id":"14097214995","timestamp":"2026-03-11T16:28:35.731389209Z","domain":"datacube-api.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:35:34Z","to":"2026-06-09T14:35:33Z"}
 {"id":"14097241905","timestamp":"2026-03-11T16:28:35.7313893Z","domain":"incident-forwarder.mgmt.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-03-11T14:36:59Z","to":"2026-06-09T15:32:53Z"}
 {"id":"14097256256","timestamp":"2026-03-11T16:28:35.7313894Z","domain":"keycloak.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T14:40:01Z","to":"2026-06-09T14:40:00Z"}
+{"id":"14097758328","timestamp":"2026-03-11T17:28:22.77457187Z","domain":"prometheus.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T15:34:54Z","to":"2026-06-09T15:34:53Z"}
+{"id":"14097861198","timestamp":"2026-03-11T17:28:22.77457227Z","domain":"harbor.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T15:46:49Z","to":"2026-06-09T15:46:48Z"}
+{"id":"14097881748","timestamp":"2026-03-11T17:28:22.774572551Z","domain":"autodesk-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-11T00:00:00Z","to":"2026-09-24T23:59:59Z"}
+{"id":"14097952807","timestamp":"2026-03-11T17:28:22.774572761Z","domain":"applicationhub.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T15:57:54Z","to":"2026-06-09T15:57:53Z"}
+{"id":"14097979411","timestamp":"2026-03-11T17:28:22.774572851Z","domain":"resource-catalogue.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T16:01:00Z","to":"2026-06-09T16:00:59Z"}
+{"id":"14097986057","timestamp":"2026-03-11T17:28:22.774573793Z","domain":"mlflow.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T16:01:00Z","to":"2026-06-09T16:00:59Z"}
+{"id":"14098004687","timestamp":"2026-03-11T17:28:22.774573873Z","domain":"cipo.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T16:03:47Z","to":"2026-06-09T16:03:46Z"}
