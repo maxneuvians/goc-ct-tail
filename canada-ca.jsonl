@@ -17207,3 +17207,11 @@
 {"id":"14087229733","timestamp":"2026-03-10T21:17:47.475048231Z","domain":"infrastructure-recipient-preprod.canada.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-04-10T23:59:59Z"}
 {"id":"14089771855","timestamp":"2026-03-11T03:06:23.089664563Z","domain":"uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T00:43:38Z","to":"2026-06-09T00:43:37Z"}
 {"id":"14092781978","timestamp":"2026-03-11T07:27:42.438757067Z","domain":"ngstar.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T06:19:28Z","to":"2026-06-09T06:19:27Z"}
+{"id":"14094078524","timestamp":"2026-03-11T10:23:20.376772057Z","domain":"navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T08:40:53Z","to":"2026-06-09T08:40:52Z"}
+{"id":"14094078524","timestamp":"2026-03-11T10:23:20.376772301Z","domain":"navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2026-03-11T08:40:53Z","to":"2026-06-09T08:40:52Z"}
+{"id":"14094078524","timestamp":"2026-03-11T10:23:20.376772582Z","domain":"ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T08:40:53Z","to":"2026-06-09T08:40:52Z"}
+{"id":"14094078524","timestamp":"2026-03-11T10:23:20.376772719Z","domain":"ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2026-03-11T08:40:53Z","to":"2026-06-09T08:40:52Z"}
+{"id":"14094078524","timestamp":"2026-03-11T10:23:20.37677277Z","domain":"www.navire-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T08:40:53Z","to":"2026-06-09T08:40:52Z"}
+{"id":"14094078524","timestamp":"2026-03-11T10:23:20.376773695Z","domain":"www.navire-rail.gc.ca","issuer":"Let's Encrypt","from":"2026-03-11T08:40:53Z","to":"2026-06-09T08:40:52Z"}
+{"id":"14094078524","timestamp":"2026-03-11T10:23:20.376773747Z","domain":"www.ship-rail.canada.ca","issuer":"Let's Encrypt","from":"2026-03-11T08:40:53Z","to":"2026-06-09T08:40:52Z"}
+{"id":"14094078524","timestamp":"2026-03-11T10:23:20.376773798Z","domain":"www.ship-rail.gc.ca","issuer":"Let's Encrypt","from":"2026-03-11T08:40:53Z","to":"2026-06-09T08:40:52Z"}
