@@ -17266,3 +17266,7 @@
 {"id":"14108537369","timestamp":"2026-03-12T15:30:31.546546438Z","domain":"dt-it-be.dnd-prod-srt.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-12T13:40:20Z","to":"2026-06-10T13:40:19Z"}
 {"id":"14108537369","timestamp":"2026-03-12T15:30:31.546546549Z","domain":"dt-it.dnd-prod-srt.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-12T13:40:20Z","to":"2026-06-10T13:40:19Z"}
 {"id":"14108537369","timestamp":"2026-03-12T15:30:31.546547821Z","domain":"ed-ti.dnd-prod-srt.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-12T13:40:20Z","to":"2026-06-10T13:40:19Z"}
+{"id":"14110273018","timestamp":"2026-03-12T18:27:32.148999183Z","domain":"termium-opensearch.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-12T00:00:00Z","to":"2026-09-25T23:59:59Z"}
+{"id":"14110274102","timestamp":"2026-03-12T18:27:32.148999594Z","domain":"admin.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-12T00:00:00Z","to":"2026-09-25T23:59:59Z"}
+{"id":"14110274102","timestamp":"2026-03-12T18:27:32.148999814Z","domain":"termium.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-12T00:00:00Z","to":"2026-09-25T23:59:59Z"}
+{"id":"14110342160","timestamp":"2026-03-12T18:27:32.149000045Z","domain":"portalsecure.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-12T17:15:55Z","to":"2026-06-10T17:15:54Z"}
