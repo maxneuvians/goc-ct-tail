@@ -17249,3 +17249,12 @@
 {"id":"14098221568","timestamp":"2026-03-11T18:28:27.147165036Z","domain":"*.offices.service.canada.ca","issuer":"Sectigo","from":"2026-03-11T00:00:00Z","to":"2027-04-11T23:59:59Z"}
 {"id":"14098221568","timestamp":"2026-03-11T18:28:27.147165327Z","domain":"offices.service.canada.ca","issuer":"Sectigo","from":"2026-03-11T00:00:00Z","to":"2027-04-11T23:59:59Z"}
 {"id":"14099370767","timestamp":"2026-03-11T20:18:26.857421573Z","domain":"auth.login-connexion.canada.ca","issuer":"Sectigo","from":"2026-03-11T00:00:00Z","to":"2027-04-11T23:59:59Z"}
+{"id":"14105055236","timestamp":"2026-03-12T08:23:26.610760963Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-12T06:24:45Z","to":"2026-06-10T06:24:44Z"}
+{"id":"14105055236","timestamp":"2026-03-12T08:23:26.610761364Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-12T06:24:45Z","to":"2026-06-10T06:24:44Z"}
+{"id":"14105114590","timestamp":"2026-03-12T08:23:26.610761654Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-12T06:29:04Z","to":"2026-06-10T06:29:03Z"}
+{"id":"14105114590","timestamp":"2026-03-12T08:23:26.610761934Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-12T06:29:04Z","to":"2026-06-10T06:29:03Z"}
+{"id":"14105240745","timestamp":"2026-03-12T08:23:26.610762195Z","domain":"argo-workflow.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-12T06:47:47Z","to":"2026-06-10T06:47:46Z"}
+{"id":"14105398067","timestamp":"2026-03-12T08:23:26.610763637Z","domain":"api.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-12T07:09:26Z","to":"2026-06-10T07:09:25Z"}
+{"id":"14105398067","timestamp":"2026-03-12T08:23:26.610763727Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-12T07:09:26Z","to":"2026-06-10T07:09:25Z"}
+{"id":"14105398067","timestamp":"2026-03-12T08:23:26.610763807Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-12T07:09:26Z","to":"2026-06-10T07:09:25Z"}
+{"id":"14105398067","timestamp":"2026-03-12T08:23:26.610763897Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-12T07:09:26Z","to":"2026-06-10T07:09:25Z"}
