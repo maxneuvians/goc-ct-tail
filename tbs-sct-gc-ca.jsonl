@@ -1190,3 +1190,12 @@
 {"id":"14084822789","timestamp":"2026-03-10T16:48:44.259684631Z","domain":"v3-wfa-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-10T15:33:26Z","to":"2026-06-08T15:33:25Z"}
 {"id":"14107564332","timestamp":"2026-03-12T13:51:05.94368766Z","domain":"tap-prdgcdotd01.t1.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-12T00:00:00Z","to":"2027-04-12T23:59:59Z"}
 {"id":"14109250407","timestamp":"2026-03-12T16:48:54.667618318Z","domain":"tap-prdgcdotd01.t1.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-12T00:00:00Z","to":"2027-04-12T23:59:59Z"}
+{"id":"14119605749","timestamp":"2026-03-13T13:49:19.064846291Z","domain":"et1.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-13T00:00:00Z","to":"2026-09-27T23:59:59Z"}
+{"id":"14119605749","timestamp":"2026-03-13T13:49:19.064846651Z","domain":"et2.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-13T00:00:00Z","to":"2026-09-27T23:59:59Z"}
+{"id":"14119605749","timestamp":"2026-03-13T13:49:19.064846872Z","domain":"ext1.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-13T00:00:00Z","to":"2026-09-27T23:59:59Z"}
+{"id":"14119605749","timestamp":"2026-03-13T13:49:19.064847052Z","domain":"ext2.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-13T00:00:00Z","to":"2026-09-27T23:59:59Z"}
+{"id":"14119605749","timestamp":"2026-03-13T13:49:19.064847142Z","domain":"ext3.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-13T00:00:00Z","to":"2026-09-27T23:59:59Z"}
+{"id":"14119605749","timestamp":"2026-03-13T13:49:19.064847974Z","domain":"mail.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-13T00:00:00Z","to":"2026-09-27T23:59:59Z"}
+{"id":"14119605749","timestamp":"2026-03-13T13:49:19.064848054Z","domain":"smtp.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-13T00:00:00Z","to":"2026-09-27T23:59:59Z"}
+{"id":"14119605749","timestamp":"2026-03-13T13:49:19.064848134Z","domain":"tbs-et-01.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-13T00:00:00Z","to":"2026-09-27T23:59:59Z"}
+{"id":"14119605749","timestamp":"2026-03-13T13:49:19.064848214Z","domain":"tbs-et-02.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-13T00:00:00Z","to":"2026-09-27T23:59:59Z"}
