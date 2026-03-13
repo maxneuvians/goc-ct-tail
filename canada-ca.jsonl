@@ -17273,3 +17273,6 @@
 {"id":"14111331617","timestamp":"2026-03-12T21:18:44.042518108Z","domain":"autodesk-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-12T00:00:00Z","to":"2026-09-25T23:59:59Z"}
 {"id":"14112029090","timestamp":"2026-03-12T22:16:44.940334514Z","domain":"emmit.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-12T20:53:22Z","to":"2026-06-10T20:53:21Z"}
 {"id":"14119317960","timestamp":"2026-03-13T13:35:05.815593769Z","domain":"app.p2p.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-13T11:41:50Z","to":"2026-06-11T11:41:49Z"}
+{"id":"14119863101","timestamp":"2026-03-13T14:25:05.899090037Z","domain":"iscwp.uptime.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-13T12:44:12Z","to":"2026-06-11T12:44:11Z"}
+{"id":"14120135530","timestamp":"2026-03-13T14:25:05.899090638Z","domain":"*.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-13T13:16:32Z","to":"2026-06-11T13:16:31Z"}
+{"id":"14120135530","timestamp":"2026-03-13T14:25:05.899090959Z","domain":"*.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-13T13:16:32Z","to":"2026-06-11T13:16:31Z"}
