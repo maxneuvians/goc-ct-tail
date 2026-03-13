@@ -17297,3 +17297,5 @@
 {"id":"14121823485","timestamp":"2026-03-13T18:21:14.529839087Z","domain":"chaosstorage-dev4.onboarding.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-03-13T00:00:00Z","to":"2026-09-27T23:59:59Z"}
 {"id":"14121823485","timestamp":"2026-03-13T18:21:14.529839177Z","domain":"chaosstorage.onboarding.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-03-13T00:00:00Z","to":"2026-09-27T23:59:59Z"}
 {"id":"14122173456","timestamp":"2026-03-13T18:21:14.529839257Z","domain":"www.budget.canada.ca","issuer":"DigiCert","from":"2026-03-13T00:00:00Z","to":"2026-09-13T23:59:59Z"}
+{"id":"14122787299","timestamp":"2026-03-13T20:17:49.363923982Z","domain":"*.aurora.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-13T18:18:45Z","to":"2026-06-11T18:18:44Z"}
+{"id":"14122787299","timestamp":"2026-03-13T20:17:49.363924417Z","domain":"*.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-13T18:18:45Z","to":"2026-06-11T18:18:44Z"}
