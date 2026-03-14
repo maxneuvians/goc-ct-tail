@@ -17302,3 +17302,8 @@
 {"id":"14123533717","timestamp":"2026-03-13T21:18:59.835952395Z","domain":"*.aurora.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-13T19:54:53Z","to":"2026-06-11T19:54:52Z"}
 {"id":"14123533717","timestamp":"2026-03-13T21:18:59.835953147Z","domain":"*.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-13T19:54:53Z","to":"2026-06-11T19:54:52Z"}
 {"id":"14129288474","timestamp":"2026-03-14T10:17:02.277114992Z","domain":"canary-workload.ssc-spc.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-03-14T08:44:15Z","to":"2026-06-12T09:37:07Z"}
+{"id":"14131802471","timestamp":"2026-03-14T16:17:30.563632358Z","domain":"vault.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-14T14:27:13Z","to":"2026-06-12T14:27:12Z"}
+{"id":"14132038845","timestamp":"2026-03-14T16:17:30.563632883Z","domain":"argocd.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-14T14:58:16Z","to":"2026-06-12T14:58:15Z"}
+{"id":"14132045130","timestamp":"2026-03-14T16:17:30.563633263Z","domain":"triton.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-14T14:59:14Z","to":"2026-06-12T14:59:13Z"}
+{"id":"14132045166","timestamp":"2026-03-14T16:17:30.5636335Z","domain":"hubble.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-14T14:58:15Z","to":"2026-06-12T14:58:14Z"}
+{"id":"14132068695","timestamp":"2026-03-14T16:17:30.563633606Z","domain":"mlflow.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-14T14:59:10Z","to":"2026-06-12T14:59:09Z"}
