@@ -3707,6 +3707,14 @@
       "Let's Encrypt": 12,
       "Sectigo": 16,
       "DigiCert": 1
+    },
+    "2026-03-14": {
+      "Google Trust Services": 1,
+      "Let's Encrypt": 8
+    },
+    "2026-03-15": {
+      "Let's Encrypt": 2,
+      "Google Trust Services": 1
     }
   },
   "errors": []
