@@ -2562,3 +2562,5 @@
 {"id":"14082985717","timestamp":"2026-03-10T13:37:39.366009293Z","domain":"caface-rfacace.forces.gc.ca","issuer":"Sectigo","from":"2026-03-10T00:00:00Z","to":"2027-04-04T23:59:59Z"}
 {"id":"14110600120","timestamp":"2026-03-12T19:26:21.344415577Z","domain":"tidevpn.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-03-12T00:00:00Z","to":"2027-04-12T23:59:59Z"}
 {"id":"14137560672","timestamp":"2026-03-15T04:55:28.607644948Z","domain":"cargo-ops-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-03-15T00:00:00Z","to":"2026-09-28T23:59:59Z"}
+{"id":"14140125626","timestamp":"2026-03-15T10:17:35.040995221Z","domain":"bib.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-03-15T09:01:41Z","to":"2026-06-13T09:01:40Z"}
+{"id":"14140130472","timestamp":"2026-03-15T10:17:35.040995802Z","domain":"www.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-03-15T09:01:40Z","to":"2026-06-13T09:01:39Z"}
