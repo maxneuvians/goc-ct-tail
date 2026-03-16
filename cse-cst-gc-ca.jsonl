@@ -357,3 +357,7 @@
 {"id":"14031342090","timestamp":"2026-03-05T21:02:40.697397301Z","domain":"*.aisd.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-03-05T19:06:34Z","to":"2026-06-03T19:06:33Z"}
 {"id":"14031342090","timestamp":"2026-03-05T21:02:40.697397812Z","domain":"aisd.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-03-05T19:06:34Z","to":"2026-06-03T19:06:33Z"}
 {"id":"14122118655","timestamp":"2026-03-13T19:05:12.077345677Z","domain":"*.oss.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-03-13T00:00:00Z","to":"2026-09-27T23:59:59Z"}
+{"id":"14154113741","timestamp":"2026-03-16T16:14:52.929316816Z","domain":"osaa2b-docs.oss.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-03-16T14:14:41Z","to":"2026-06-14T14:14:40Z"}
+{"id":"14154210126","timestamp":"2026-03-16T16:14:52.929317417Z","domain":"ets-smtp-relay2.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-03-16T00:00:00Z","to":"2026-09-30T23:59:59Z"}
+{"id":"14154210126","timestamp":"2026-03-16T16:14:52.929317748Z","domain":"ets-smtp-relay.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-03-16T00:00:00Z","to":"2026-09-30T23:59:59Z"}
+{"id":"14154210126","timestamp":"2026-03-16T16:14:52.929318048Z","domain":"ets-smtp-relaylb.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-03-16T00:00:00Z","to":"2026-09-30T23:59:59Z"}
