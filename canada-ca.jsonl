@@ -17319,3 +17319,5 @@
 {"id":"14144995973","timestamp":"2026-03-15T21:17:19.409775846Z","domain":"feedback-viewer.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-15T19:46:22Z","to":"2026-06-13T19:46:21Z"}
 {"id":"14146920538","timestamp":"2026-03-16T01:46:41.287260381Z","domain":"*.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-03-16T00:01:46Z","to":"2026-06-14T00:01:45Z"}
 {"id":"14146920538","timestamp":"2026-03-16T01:46:41.287260682Z","domain":"tc.canada.ca","issuer":"Let's Encrypt","from":"2026-03-16T00:01:46Z","to":"2026-06-14T00:01:45Z"}
+{"id":"14148226238","timestamp":"2026-03-16T05:01:45.650614741Z","domain":"elvis-celine.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-16T00:00:00Z","to":"2026-09-29T23:59:59Z"}
+{"id":"14148769887","timestamp":"2026-03-16T05:01:45.650615262Z","domain":"staticwebsite.blueprint.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-03-16T03:54:19Z","to":"2026-06-14T04:48:13Z"}
