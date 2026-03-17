@@ -17351,3 +17351,15 @@
 {"id":"14164100865","timestamp":"2026-03-17T11:26:29.185251952Z","domain":"mlflow.ws-yzhu.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-17T10:22:11Z","to":"2026-06-15T10:22:10Z"}
 {"id":"14165630913","timestamp":"2026-03-17T14:35:03.88776996Z","domain":"mlflow.ws-jlajoie.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-17T13:32:55Z","to":"2026-06-15T13:32:54Z"}
 {"id":"14165632187","timestamp":"2026-03-17T14:35:03.887770321Z","domain":"resource-catalogue.ws-jlajoie.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-17T13:33:15Z","to":"2026-06-15T13:33:14Z"}
+{"id":"14167117528","timestamp":"2026-03-17T17:32:31.498507969Z","domain":"*.cto-fsdh-core.c.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
+{"id":"14167117528","timestamp":"2026-03-17T17:32:31.49850839Z","domain":"*.cto-qa-fsdh-core.c.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
+{"id":"14167117528","timestamp":"2026-03-17T17:32:31.498508671Z","domain":"*.datahub-scientifique-federal.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
+{"id":"14167117528","timestamp":"2026-03-17T17:32:31.498508871Z","domain":"datahub-scientifique-federal.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
+{"id":"14167117528","timestamp":"2026-03-17T17:32:31.498508961Z","domain":"*.federal-science-datahub.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
+{"id":"14167117528","timestamp":"2026-03-17T17:32:31.498509953Z","domain":"federal-science-datahub.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
+{"id":"14167117528","timestamp":"2026-03-17T17:32:31.498510033Z","domain":"*.fsdh-dhsf.science.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
+{"id":"14167117528","timestamp":"2026-03-17T17:32:31.498510103Z","domain":"fsdh-dhsf.science.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
+{"id":"14167117528","timestamp":"2026-03-17T17:32:31.498510183Z","domain":"*.plateforme-federale-donnees-scientifiques.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
+{"id":"14167117528","timestamp":"2026-03-17T17:32:31.498511165Z","domain":"plateforme-federale-donnees-scientifiques.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
+{"id":"14167117528","timestamp":"2026-03-17T17:32:31.498511235Z","domain":"*.sds.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
+{"id":"14167117528","timestamp":"2026-03-17T17:32:31.498511316Z","domain":"sds.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
