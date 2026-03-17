@@ -17340,3 +17340,5 @@
 {"id":"14158478264","timestamp":"2026-03-17T00:48:21.323827026Z","domain":"viap-paiv.canada.ca","issuer":"Sectigo","from":"2026-03-16T00:00:00Z","to":"2026-09-30T23:59:59Z"}
 {"id":"14158819332","timestamp":"2026-03-17T00:48:21.323828369Z","domain":"git.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-16T23:26:50Z","to":"2026-06-14T23:26:49Z"}
 {"id":"14159437750","timestamp":"2026-03-17T01:46:04.077406984Z","domain":"incident-forwarder.mgmt.com-test.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-03-17T00:36:28Z","to":"2026-06-15T01:32:22Z"}
+{"id":"14160815942","timestamp":"2026-03-17T04:46:27.662721235Z","domain":"*.uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-17T03:31:12Z","to":"2026-06-15T03:31:11Z"}
+{"id":"14160815942","timestamp":"2026-03-17T04:46:27.662721655Z","domain":"uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-17T03:31:12Z","to":"2026-06-15T03:31:11Z"}
