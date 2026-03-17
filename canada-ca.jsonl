@@ -17363,3 +17363,8 @@
 {"id":"14167117528","timestamp":"2026-03-17T17:32:31.498511165Z","domain":"plateforme-federale-donnees-scientifiques.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
 {"id":"14167117528","timestamp":"2026-03-17T17:32:31.498511235Z","domain":"*.sds.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
 {"id":"14167117528","timestamp":"2026-03-17T17:32:31.498511316Z","domain":"sds.canada.ca","issuer":"Sectigo","from":"2026-03-17T00:00:00Z","to":"2026-10-01T23:59:59Z"}
+{"id":"14167904311","timestamp":"2026-03-17T19:31:33.038124663Z","domain":"auth.login-connexion.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-17T17:53:55Z","to":"2026-06-15T17:53:54Z"}
+{"id":"14167975010","timestamp":"2026-03-17T19:31:33.038125334Z","domain":"*.hydro.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-17T18:02:51Z","to":"2026-06-15T18:02:50Z"}
+{"id":"14167975010","timestamp":"2026-03-17T19:31:33.038125655Z","domain":"hydro.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-17T18:02:51Z","to":"2026-06-15T18:02:50Z"}
+{"id":"14168141251","timestamp":"2026-03-17T19:31:33.038125966Z","domain":"*.betak.tools.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-17T00:00:00Z","to":"2026-09-30T23:59:59Z"}
+{"id":"14168141251","timestamp":"2026-03-17T19:31:33.038126076Z","domain":"betak.tools.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-17T00:00:00Z","to":"2026-09-30T23:59:59Z"}
