@@ -3725,7 +3725,10 @@
     },
     "2026-03-17": {
       "Google Trust Services": 1,
-      "Let's Encrypt": 2
+      "Let's Encrypt": 14,
+      "Sectigo": 12,
+      "Amazon Trust Services": 4,
+      "DigiCert": 1
     }
   },
   "errors": []
