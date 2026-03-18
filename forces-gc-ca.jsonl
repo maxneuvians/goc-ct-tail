@@ -2568,3 +2568,6 @@
 {"id":"14155658528","timestamp":"2026-03-16T18:30:36.455921254Z","domain":"endpoint-qjceq.test.udf.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-03-16T00:00:00Z","to":"2026-09-30T23:59:59Z"}
 {"id":"14178687304","timestamp":"2026-03-18T16:33:50.014989284Z","domain":"*.aurora-dev.ssc-dnd-aur.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-03-18T15:11:40Z","to":"2026-06-16T15:11:39Z"}
 {"id":"14178687304","timestamp":"2026-03-18T16:33:50.014989605Z","domain":"*.ssc-dnd-aur.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-03-18T15:11:40Z","to":"2026-06-16T15:11:39Z"}
+{"id":"14179740693","timestamp":"2026-03-18T18:29:59.581432872Z","domain":"*.aurora-dev.ssc-dnd-aur.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-03-18T17:12:56Z","to":"2026-06-16T17:12:55Z"}
+{"id":"14179740693","timestamp":"2026-03-18T18:29:59.581433253Z","domain":"*.ssc-dnd-aur.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-03-18T17:12:56Z","to":"2026-06-16T17:12:55Z"}
+{"id":"14179746486","timestamp":"2026-03-18T18:29:59.581433533Z","domain":"aur.aurora-dev.ssc-dnd-aur.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-03-18T17:13:43Z","to":"2026-06-16T17:13:42Z"}
