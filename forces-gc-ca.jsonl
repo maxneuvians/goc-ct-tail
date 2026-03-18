@@ -2566,3 +2566,5 @@
 {"id":"14140130472","timestamp":"2026-03-15T10:17:35.040995802Z","domain":"www.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-03-15T09:01:40Z","to":"2026-06-13T09:01:39Z"}
 {"id":"14155658528","timestamp":"2026-03-16T18:30:36.455920914Z","domain":"endpoint-htgle.test.udf.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-03-16T00:00:00Z","to":"2026-09-30T23:59:59Z"}
 {"id":"14155658528","timestamp":"2026-03-16T18:30:36.455921254Z","domain":"endpoint-qjceq.test.udf.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-03-16T00:00:00Z","to":"2026-09-30T23:59:59Z"}
+{"id":"14178687304","timestamp":"2026-03-18T16:33:50.014989284Z","domain":"*.aurora-dev.ssc-dnd-aur.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-03-18T15:11:40Z","to":"2026-06-16T15:11:39Z"}
+{"id":"14178687304","timestamp":"2026-03-18T16:33:50.014989605Z","domain":"*.ssc-dnd-aur.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-03-18T15:11:40Z","to":"2026-06-16T15:11:39Z"}
