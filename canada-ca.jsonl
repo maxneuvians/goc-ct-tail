@@ -17406,3 +17406,11 @@
 {"id":"14189066565","timestamp":"2026-03-19T11:22:19.062926877Z","domain":"canchat-pco.uat.ibm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T09:47:36Z","to":"2026-06-17T09:47:35Z"}
 {"id":"14189138934","timestamp":"2026-03-19T11:22:19.062927191Z","domain":"dashboard.bc16.exp.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T09:55:17Z","to":"2026-06-17T09:55:16Z"}
 {"id":"14189140947","timestamp":"2026-03-19T11:22:19.062927414Z","domain":"database.bc16.exp.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T09:55:17Z","to":"2026-06-17T09:55:16Z"}
+{"id":"14191129920","timestamp":"2026-03-19T15:27:14.487134966Z","domain":"ssc-vcse-10.video.canada.ca","issuer":"Sectigo","from":"2026-03-19T00:00:00Z","to":"2026-10-03T23:59:59Z"}
+{"id":"14191129920","timestamp":"2026-03-19T15:27:14.487135276Z","domain":"ssc-vcse-11.video.canada.ca","issuer":"Sectigo","from":"2026-03-19T00:00:00Z","to":"2026-10-03T23:59:59Z"}
+{"id":"14191129920","timestamp":"2026-03-19T15:27:14.487135467Z","domain":"ssc-vcse-12.video.canada.ca","issuer":"Sectigo","from":"2026-03-19T00:00:00Z","to":"2026-10-03T23:59:59Z"}
+{"id":"14191129920","timestamp":"2026-03-19T15:27:14.487135637Z","domain":"ssc-vcse-13.video.canada.ca","issuer":"Sectigo","from":"2026-03-19T00:00:00Z","to":"2026-10-03T23:59:59Z"}
+{"id":"14191129920","timestamp":"2026-03-19T15:27:14.487135717Z","domain":"ssc-vcse-cluster00.video.canada.ca","issuer":"Sectigo","from":"2026-03-19T00:00:00Z","to":"2026-10-03T23:59:59Z"}
+{"id":"14191165961","timestamp":"2026-03-19T15:27:14.487136859Z","domain":"resource-catalogue.ws-bigweather.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T13:31:10Z","to":"2026-06-17T13:31:09Z"}
+{"id":"14191297083","timestamp":"2026-03-19T15:27:14.487136929Z","domain":"resource-catalogue.ws-bsmith.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T13:46:03Z","to":"2026-06-17T13:46:02Z"}
+{"id":"14191298380","timestamp":"2026-03-19T15:27:14.487137009Z","domain":"mlflow.ws-bsmith.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T13:46:01Z","to":"2026-06-17T13:46:00Z"}
