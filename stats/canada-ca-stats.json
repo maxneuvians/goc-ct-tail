@@ -3729,6 +3729,11 @@
       "Sectigo": 12,
       "Amazon Trust Services": 4,
       "DigiCert": 1
+    },
+    "2026-03-18": {
+      "Let's Encrypt": 7,
+      "Amazon Trust Services": 20,
+      "Google Trust Services": 1
     }
   },
   "errors": []
