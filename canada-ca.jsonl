@@ -17401,3 +17401,5 @@
 {"id":"14182919048","timestamp":"2026-03-19T00:51:44.448295526Z","domain":"canary-workload.ssc-spc.preprod.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-03-18T23:34:01Z","to":"2026-06-17T00:27:13Z"}
 {"id":"14186934880","timestamp":"2026-03-19T07:30:12.852763033Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T06:25:18Z","to":"2026-06-17T06:25:17Z"}
 {"id":"14186934880","timestamp":"2026-03-19T07:30:12.852763414Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T06:25:18Z","to":"2026-06-17T06:25:17Z"}
+{"id":"14186999502","timestamp":"2026-03-19T08:24:00.207023012Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T06:29:10Z","to":"2026-06-17T06:29:09Z"}
+{"id":"14186999502","timestamp":"2026-03-19T08:24:00.207023293Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T06:29:10Z","to":"2026-06-17T06:29:09Z"}
