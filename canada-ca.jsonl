@@ -17403,3 +17403,6 @@
 {"id":"14186934880","timestamp":"2026-03-19T07:30:12.852763414Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T06:25:18Z","to":"2026-06-17T06:25:17Z"}
 {"id":"14186999502","timestamp":"2026-03-19T08:24:00.207023012Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T06:29:10Z","to":"2026-06-17T06:29:09Z"}
 {"id":"14186999502","timestamp":"2026-03-19T08:24:00.207023293Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T06:29:10Z","to":"2026-06-17T06:29:09Z"}
+{"id":"14189066565","timestamp":"2026-03-19T11:22:19.062926877Z","domain":"canchat-pco.uat.ibm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T09:47:36Z","to":"2026-06-17T09:47:35Z"}
+{"id":"14189138934","timestamp":"2026-03-19T11:22:19.062927191Z","domain":"dashboard.bc16.exp.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T09:55:17Z","to":"2026-06-17T09:55:16Z"}
+{"id":"14189140947","timestamp":"2026-03-19T11:22:19.062927414Z","domain":"database.bc16.exp.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-19T09:55:17Z","to":"2026-06-17T09:55:16Z"}
