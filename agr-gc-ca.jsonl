@@ -451,3 +451,12 @@
 {"id":"14041478085","timestamp":"2026-03-06T18:46:50.660015928Z","domain":"sams-sgai-port-preprod.agr.gc.ca","issuer":"Sectigo","from":"2026-03-06T00:00:00Z","to":"2027-04-06T23:59:59Z"}
 {"id":"14178872898","timestamp":"2026-03-18T16:48:51.622582911Z","domain":"catalogue-campus.agr.gc.ca","issuer":"Let's Encrypt","from":"2026-03-18T15:32:37Z","to":"2026-06-16T15:32:36Z"}
 {"id":"14190817106","timestamp":"2026-03-19T14:47:27.760098885Z","domain":"agriculture.agr.gc.ca","issuer":"Sectigo","from":"2026-03-19T00:00:00Z","to":"2026-10-03T23:59:59Z"}
+{"id":"14205774692","timestamp":"2026-03-20T18:47:15.834342493Z","domain":"agr.gc.ca","issuer":"Sectigo","from":"2026-03-20T00:00:00Z","to":"2026-06-18T23:59:59Z"}
+{"id":"14205842249","timestamp":"2026-03-20T18:47:15.834342893Z","domain":"cnc.agr.gc.ca","issuer":"Sectigo","from":"2026-03-20T00:00:00Z","to":"2026-10-04T23:59:59Z"}
+{"id":"14205842249","timestamp":"2026-03-20T18:47:15.834343104Z","domain":"cnc-dev.agr.gc.ca","issuer":"Sectigo","from":"2026-03-20T00:00:00Z","to":"2026-10-04T23:59:59Z"}
+{"id":"14205842249","timestamp":"2026-03-20T18:47:15.834343274Z","domain":"cnc-ottawa.ca","issuer":"Sectigo","from":"2026-03-20T00:00:00Z","to":"2026-10-04T23:59:59Z"}
+{"id":"14205842249","timestamp":"2026-03-20T18:47:15.834343364Z","domain":"cnc-test.agr.gc.ca","issuer":"Sectigo","from":"2026-03-20T00:00:00Z","to":"2026-10-04T23:59:59Z"}
+{"id":"14205842249","timestamp":"2026-03-20T18:47:15.834344316Z","domain":"www.cnc.agr.gc.ca","issuer":"Sectigo","from":"2026-03-20T00:00:00Z","to":"2026-10-04T23:59:59Z"}
+{"id":"14205842249","timestamp":"2026-03-20T18:47:15.834344426Z","domain":"www.cnc-dev.agr.gc.ca","issuer":"Sectigo","from":"2026-03-20T00:00:00Z","to":"2026-10-04T23:59:59Z"}
+{"id":"14205842249","timestamp":"2026-03-20T18:47:15.834344506Z","domain":"www.cnc-ottawa.ca","issuer":"Sectigo","from":"2026-03-20T00:00:00Z","to":"2026-10-04T23:59:59Z"}
+{"id":"14205842249","timestamp":"2026-03-20T18:47:15.834344586Z","domain":"www.cnc-test.agr.gc.ca","issuer":"Sectigo","from":"2026-03-20T00:00:00Z","to":"2026-10-04T23:59:59Z"}
