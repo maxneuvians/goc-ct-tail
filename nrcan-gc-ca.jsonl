@@ -21564,3 +21564,33 @@
 {"id":"14199142613","timestamp":"2026-03-20T05:31:56.004009181Z","domain":"www.sap.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-20T04:05:54Z","to":"2026-06-18T04:05:53Z"}
 {"id":"14208831859","timestamp":"2026-03-21T00:46:48.244289167Z","domain":"cfs.nrcan.gc.ca","issuer":"Amazon Trust Services","from":"2026-03-21T00:00:00Z","to":"2026-10-04T23:59:59Z"}
 {"id":"14208831859","timestamp":"2026-03-21T00:46:48.244289518Z","domain":"scf.rncan.gc.ca","issuer":"Amazon Trust Services","from":"2026-03-21T00:00:00Z","to":"2026-10-04T23:59:59Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718561765Z","domain":"ess.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718562256Z","domain":"mcan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718562467Z","domain":"naturalresources.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718562687Z","domain":"naturalresourcescanada.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718562777Z","domain":"naturalresourcescanada.com","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718563939Z","domain":"nrcanada.com","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718564019Z","domain":"nrcan.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.71856409Z","domain":"resourcescanada.com","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.71856416Z","domain":"ressourcesnaturelles.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718565092Z","domain":"ressourcesnaturellescanada.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718565162Z","domain":"ressourcesnaturellescanada.com","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718565232Z","domain":"rncan.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718565312Z","domain":"www.mcan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718565382Z","domain":"www.naturalresources.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718565452Z","domain":"www.naturalresourcescanada.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718565532Z","domain":"www.naturalresourcescanada.com","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718565602Z","domain":"www.nrcanada.com","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718565673Z","domain":"www.nrcan.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718567095Z","domain":"www.ressourcesnaturelles.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718567165Z","domain":"www.ressourcesnaturellescanada.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718567396Z","domain":"www.ressourcesnaturellescanada.com","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221447758","timestamp":"2026-03-22T05:34:12.718567476Z","domain":"www.rncan.ca","issuer":"Let's Encrypt","from":"2026-03-22T03:42:28Z","to":"2026-06-20T03:42:27Z"}
+{"id":"14221680561","timestamp":"2026-03-22T05:34:12.718567576Z","domain":"oil.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-22T04:21:36Z","to":"2026-06-20T04:21:35Z"}
+{"id":"14221680561","timestamp":"2026-03-22T05:34:12.718567666Z","domain":"oil.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-22T04:21:36Z","to":"2026-06-20T04:21:35Z"}
+{"id":"14221680561","timestamp":"2026-03-22T05:34:12.718567737Z","domain":"oil.rncan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-22T04:21:36Z","to":"2026-06-20T04:21:35Z"}
+{"id":"14221680561","timestamp":"2026-03-22T05:34:12.718567807Z","domain":"oil.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-22T04:21:36Z","to":"2026-06-20T04:21:35Z"}
+{"id":"14221680561","timestamp":"2026-03-22T05:34:12.718567887Z","domain":"www.oil.nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-22T04:21:36Z","to":"2026-06-20T04:21:35Z"}
+{"id":"14221680561","timestamp":"2026-03-22T05:34:12.718567967Z","domain":"www.oil.nrcan-rncan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-22T04:21:36Z","to":"2026-06-20T04:21:35Z"}
+{"id":"14221680561","timestamp":"2026-03-22T05:34:12.718568037Z","domain":"www.oil.rncan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-22T04:21:36Z","to":"2026-06-20T04:21:35Z"}
+{"id":"14221680561","timestamp":"2026-03-22T05:34:12.718568107Z","domain":"www.oil.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-03-22T04:21:36Z","to":"2026-06-20T04:21:35Z"}
