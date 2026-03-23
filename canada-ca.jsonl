@@ -17496,3 +17496,4 @@
 {"id":"14232226549","timestamp":"2026-03-23T06:40:05.694840893Z","domain":"chirpstack.aafciot.exp.science.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-23T00:00:00Z","to":"2026-10-06T23:59:59Z"}
 {"id":"14234913882","timestamp":"2026-03-23T11:26:13.165979334Z","domain":"incident-forwarder.mgmt.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-03-23T10:20:17Z","to":"2026-06-21T11:16:12Z"}
 {"id":"14234931126","timestamp":"2026-03-23T11:26:13.165979945Z","domain":"mlflow.ws-sleipe.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-23T10:24:10Z","to":"2026-06-21T10:24:09Z"}
+{"id":"14234944727","timestamp":"2026-03-23T12:29:35.269986388Z","domain":"resource-catalogue.ws-sleipe.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-23T10:24:08Z","to":"2026-06-21T10:24:07Z"}
