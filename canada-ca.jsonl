@@ -17486,3 +17486,7 @@
 {"id":"14222032961","timestamp":"2026-03-22T06:27:56.91732861Z","domain":"guide-alimentaire.canada.ca","issuer":"Google Trust Services","from":"2026-03-22T05:16:18Z","to":"2026-06-20T06:15:09Z"}
 {"id":"14222043172","timestamp":"2026-03-22T06:27:56.917328971Z","domain":"guide-alimentaire.canada.ca","issuer":"Google Trust Services","from":"2026-03-22T05:16:26Z","to":"2026-06-20T06:16:24Z"}
 {"id":"14223400478","timestamp":"2026-03-22T10:16:58.762193665Z","domain":"canchat.sandbox.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-22T08:44:10Z","to":"2026-06-20T08:44:09Z"}
+{"id":"14229741216","timestamp":"2026-03-23T00:53:40.393600086Z","domain":"chirpstack.aafciot.exp.science.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-23T00:00:00Z","to":"2026-10-06T23:59:59Z"}
+{"id":"14229741216","timestamp":"2026-03-23T00:53:40.393600516Z","domain":"grafana.aafciot.exp.science.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-23T00:00:00Z","to":"2026-10-06T23:59:59Z"}
+{"id":"14229743110","timestamp":"2026-03-23T00:53:40.393600822Z","domain":"cicp-pcip-calc.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-23T00:00:00Z","to":"2026-10-06T23:59:59Z"}
+{"id":"14229743142","timestamp":"2026-03-23T00:53:40.393601184Z","domain":"cicp-pcip-calc.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-23T00:00:00Z","to":"2026-10-06T23:59:59Z"}
