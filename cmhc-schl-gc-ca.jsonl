@@ -918,3 +918,6 @@
 {"id":"14203014525","timestamp":"2026-03-20T13:02:31.714300072Z","domain":"mvsprod.cmhc-schl.gc.ca","issuer":"Sectigo","from":"2026-03-20T00:00:00Z","to":"2026-10-04T23:59:59Z"}
 {"id":"14203014525","timestamp":"2026-03-20T13:02:31.714300142Z","domain":"mvsprodftp.cmhc-schl.gc.ca","issuer":"Sectigo","from":"2026-03-20T00:00:00Z","to":"2026-10-04T23:59:59Z"}
 {"id":"14203630795","timestamp":"2026-03-20T14:01:57.319970797Z","domain":"l.communications.cmhc-schl.gc.ca","issuer":"Let's Encrypt","from":"2026-03-20T12:54:42Z","to":"2026-06-18T12:54:41Z"}
+{"id":"14238890088","timestamp":"2026-03-23T19:55:07.481782794Z","domain":"qmciweb.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-03-23T00:00:00Z","to":"2026-10-07T23:59:59Z"}
+{"id":"14238890088","timestamp":"2026-03-23T19:55:07.481783204Z","domain":"qmdvweb.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-03-23T00:00:00Z","to":"2026-10-07T23:59:59Z"}
+{"id":"14238890088","timestamp":"2026-03-23T19:55:07.481783415Z","domain":"qmepweb.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-03-23T00:00:00Z","to":"2026-10-07T23:59:59Z"}
