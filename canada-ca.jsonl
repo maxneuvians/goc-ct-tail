@@ -17539,3 +17539,7 @@
 {"id":"14248546686","timestamp":"2026-03-24T15:35:38.162774442Z","domain":"dt-it-be.dnd-prod-srt.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-24T14:07:21Z","to":"2026-06-22T14:07:20Z"}
 {"id":"14248546686","timestamp":"2026-03-24T15:35:38.162774752Z","domain":"dt-it.dnd-prod-srt.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-24T14:07:21Z","to":"2026-06-22T14:07:20Z"}
 {"id":"14248546686","timestamp":"2026-03-24T15:35:38.162774863Z","domain":"ed-ti.dnd-prod-srt.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-24T14:07:21Z","to":"2026-06-22T14:07:20Z"}
+{"id":"14249627084","timestamp":"2026-03-24T17:30:08.413322261Z","domain":"*.dids.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-24T16:14:45Z","to":"2026-06-22T16:14:44Z"}
+{"id":"14249628576","timestamp":"2026-03-24T17:30:08.413322792Z","domain":"didwebserver.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-24T16:14:46Z","to":"2026-06-22T16:14:45Z"}
+{"id":"14249643520","timestamp":"2026-03-24T17:30:08.413323112Z","domain":"api.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-24T16:15:47Z","to":"2026-06-22T16:15:46Z"}
+{"id":"14249643520","timestamp":"2026-03-24T17:30:08.413323373Z","domain":"realtime.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-24T16:15:47Z","to":"2026-06-22T16:15:46Z"}
