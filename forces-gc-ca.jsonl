@@ -2581,3 +2581,5 @@
 {"id":"14203869918","timestamp":"2026-03-20T14:25:33.012901906Z","domain":"api.admin.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-03-20T00:00:00Z","to":"2026-10-03T23:59:59Z"}
 {"id":"14203869946","timestamp":"2026-03-20T14:25:33.012902206Z","domain":"api.maven.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-03-20T00:00:00Z","to":"2026-10-03T23:59:59Z"}
 {"id":"14238140098","timestamp":"2026-03-23T18:26:54.624791363Z","domain":"api.cbrv.cbr-rcb-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-03-23T00:00:00Z","to":"2026-10-06T23:59:59Z"}
+{"id":"14248658440","timestamp":"2026-03-24T15:35:37.636732173Z","domain":"kubeflow-dev.ssc-dnd-aur.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-03-24T14:21:56Z","to":"2026-06-22T14:21:55Z"}
+{"id":"14248666385","timestamp":"2026-03-24T15:35:37.636734167Z","domain":"kfserving-dev.ssc-dnd-aur.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-03-24T14:22:24Z","to":"2026-06-22T14:22:23Z"}
