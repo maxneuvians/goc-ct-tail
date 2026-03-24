@@ -17544,3 +17544,5 @@
 {"id":"14249643520","timestamp":"2026-03-24T17:30:08.413323112Z","domain":"api.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-24T16:15:47Z","to":"2026-06-22T16:15:46Z"}
 {"id":"14249643520","timestamp":"2026-03-24T17:30:08.413323373Z","domain":"realtime.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-24T16:15:47Z","to":"2026-06-22T16:15:46Z"}
 {"id":"14250125454","timestamp":"2026-03-24T18:30:19.146877856Z","domain":"aqvc.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-24T17:15:49Z","to":"2026-06-22T17:15:48Z"}
+{"id":"14250735955","timestamp":"2026-03-24T20:22:58.400536957Z","domain":"whoami.hcgenomics.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-24T18:28:12Z","to":"2026-06-22T18:28:11Z"}
+{"id":"14250736925","timestamp":"2026-03-24T20:22:58.400537357Z","domain":"portainer.hcgenomics.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-24T18:28:17Z","to":"2026-06-22T18:28:16Z"}
