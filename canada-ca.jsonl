@@ -17584,3 +17584,10 @@
 {"id":"14259521967","timestamp":"2026-03-25T15:36:50.941513038Z","domain":"prort-orlrtc.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-03-25T13:54:17Z","to":"2026-06-23T13:54:16Z"}
 {"id":"14259521967","timestamp":"2026-03-25T15:36:50.941513109Z","domain":"*.prort-orlrtc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-25T13:54:17Z","to":"2026-06-23T13:54:16Z"}
 {"id":"14259521967","timestamp":"2026-03-25T15:36:50.941513169Z","domain":"prort-orlrtc.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-25T13:54:17Z","to":"2026-06-23T13:54:16Z"}
+{"id":"14260086691","timestamp":"2026-03-25T16:36:38.68764314Z","domain":"*.cloudopsportal.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-03-25T15:03:09Z","to":"2026-06-23T15:03:08Z"}
+{"id":"14260186482","timestamp":"2026-03-25T16:36:38.687643731Z","domain":"mlflow.ws-ebishop.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-25T15:15:42Z","to":"2026-06-23T15:15:41Z"}
+{"id":"14260192496","timestamp":"2026-03-25T16:36:38.687644031Z","domain":"resource-catalogue.ws-ebishop.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-25T15:15:42Z","to":"2026-06-23T15:15:41Z"}
+{"id":"14260215677","timestamp":"2026-03-25T16:36:38.687644282Z","domain":"resource-catalogue.ws-abishop.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-25T15:20:38Z","to":"2026-06-23T15:20:37Z"}
+{"id":"14260230225","timestamp":"2026-03-25T16:36:38.687644372Z","domain":"mlflow.ws-abishop.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-25T15:20:37Z","to":"2026-06-23T15:20:36Z"}
+{"id":"14260244123","timestamp":"2026-03-25T16:36:38.687645474Z","domain":"resource-catalogue.ws-cbinding.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-25T15:23:14Z","to":"2026-06-23T15:23:13Z"}
+{"id":"14260280378","timestamp":"2026-03-25T16:36:38.687645564Z","domain":"mlflow.ws-cbinding.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-25T15:23:15Z","to":"2026-06-23T15:23:14Z"}
