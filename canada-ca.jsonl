@@ -17601,3 +17601,7 @@
 {"id":"14263192055","timestamp":"2026-03-25T23:20:02.084762061Z","domain":"mlflow.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-25T21:34:05Z","to":"2026-06-23T21:34:04Z"}
 {"id":"14263192065","timestamp":"2026-03-25T23:20:02.084762632Z","domain":"resource-catalogue.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-03-25T21:34:04Z","to":"2026-06-23T21:34:03Z"}
 {"id":"14265548815","timestamp":"2026-03-26T04:55:52.747208256Z","domain":"g7-dev.canada.ca","issuer":"Amazon Trust Services","from":"2026-03-26T00:00:00Z","to":"2026-10-09T23:59:59Z"}
+{"id":"14267377162","timestamp":"2026-03-26T07:36:36.798282459Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-26T06:24:41Z","to":"2026-06-24T06:24:40Z"}
+{"id":"14267377162","timestamp":"2026-03-26T07:36:36.798282849Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-26T06:24:41Z","to":"2026-06-24T06:24:40Z"}
+{"id":"14267412232","timestamp":"2026-03-26T07:36:36.79828308Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-26T06:29:00Z","to":"2026-06-24T06:28:59Z"}
+{"id":"14267412232","timestamp":"2026-03-26T07:36:36.7982833Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-03-26T06:29:00Z","to":"2026-06-24T06:28:59Z"}
