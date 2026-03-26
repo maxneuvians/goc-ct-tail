@@ -1211,3 +1211,7 @@
 {"id":"14177418133","timestamp":"2026-03-18T14:00:15.251788908Z","domain":"tapx-roles.qa.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-18T00:00:00Z","to":"2026-10-02T23:59:59Z"}
 {"id":"14207379362","timestamp":"2026-03-20T21:42:10.583446575Z","domain":"tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-20T00:00:00Z","to":"2026-06-18T23:59:59Z"}
 {"id":"14207382674","timestamp":"2026-03-20T21:42:10.583447146Z","domain":"cms.prd.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-20T00:00:00Z","to":"2026-10-04T23:59:59Z"}
+{"id":"14271688997","timestamp":"2026-03-26T16:49:21.714054243Z","domain":"uat-gcdocs-otds.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-26T00:00:00Z","to":"2026-10-10T23:59:59Z"}
+{"id":"14271688997","timestamp":"2026-03-26T16:49:21.714054754Z","domain":"uat-gcdocs-spmig.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-26T00:00:00Z","to":"2026-10-10T23:59:59Z"}
+{"id":"14271688997","timestamp":"2026-03-26T16:49:21.714055015Z","domain":"www.uat-gcdocs-otds.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-26T00:00:00Z","to":"2026-10-10T23:59:59Z"}
+{"id":"14271902069","timestamp":"2026-03-26T16:49:21.714055305Z","domain":"hranalytics-analytiquerh.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-03-26T00:00:00Z","to":"2026-10-10T23:59:59Z"}
