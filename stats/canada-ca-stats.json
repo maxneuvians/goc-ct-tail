@@ -3767,7 +3767,9 @@
       "Google Trust Services": 2
     },
     "2026-03-26": {
-      "Amazon Trust Services": 1
+      "Amazon Trust Services": 1,
+      "Let's Encrypt": 15,
+      "Google Trust Services": 4
     }
   },
   "errors": []
