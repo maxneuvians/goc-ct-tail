@@ -2586,3 +2586,5 @@
 {"id":"14260927829","timestamp":"2026-03-25T18:29:30.168588386Z","domain":"securelogin.h02.is2s.forces.gc.ca","issuer":"Sectigo","from":"2026-03-25T00:00:00Z","to":"2026-10-09T23:59:59Z"}
 {"id":"14260938903","timestamp":"2026-03-25T18:29:30.168588927Z","domain":"securelogin.h02.is2s.forces.gc.ca","issuer":"Sectigo","from":"2026-03-25T00:00:00Z","to":"2026-06-23T23:59:59Z"}
 {"id":"14273444598","timestamp":"2026-03-26T20:20:20.269936752Z","domain":"portal-api-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2026-03-26T18:55:42Z","to":"2026-06-24T19:50:35Z"}
+{"id":"14277232566","timestamp":"2026-03-27T04:56:19.818794896Z","domain":"*.army.tak-dev.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-03-27T03:11:40Z","to":"2026-06-25T03:11:39Z"}
+{"id":"14277232566","timestamp":"2026-03-27T04:56:19.818795196Z","domain":"*.tak-dev.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-03-27T03:11:40Z","to":"2026-06-25T03:11:39Z"}
