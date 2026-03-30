@@ -1222,3 +1222,8 @@
 {"id":"14314181399","timestamp":"2026-03-30T14:04:17.561798565Z","domain":"tapx-tiv-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-30T12:24:09Z","to":"2026-06-28T12:24:08Z"}
 {"id":"14314188542","timestamp":"2026-03-30T14:04:17.561799647Z","domain":"atip-aoas-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-30T12:23:38Z","to":"2026-06-28T12:23:37Z"}
 {"id":"14314196416","timestamp":"2026-03-30T14:04:17.561799747Z","domain":"burolis-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-30T12:24:35Z","to":"2026-06-28T12:24:34Z"}
+{"id":"14315490840","timestamp":"2026-03-30T16:48:24.080302007Z","domain":"v3-quessvc-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-30T15:00:25Z","to":"2026-06-28T15:00:24Z"}
+{"id":"14315682573","timestamp":"2026-03-30T16:48:24.080302318Z","domain":"v3-pbi-rcp-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-30T15:19:47Z","to":"2026-06-28T15:19:46Z"}
+{"id":"14315722521","timestamp":"2026-03-30T16:48:24.080302609Z","domain":"v3-calipersplusapi-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-30T15:24:56Z","to":"2026-06-28T15:24:55Z"}
+{"id":"14315722521","timestamp":"2026-03-30T16:48:24.080302839Z","domain":"v3-calipersplus-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-30T15:24:56Z","to":"2026-06-28T15:24:55Z"}
+{"id":"14315856029","timestamp":"2026-03-30T16:48:24.080302939Z","domain":"v3-eepr-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-30T15:40:01Z","to":"2026-06-28T15:40:00Z"}
