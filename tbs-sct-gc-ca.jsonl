@@ -1315,3 +1315,12 @@
 {"id":"14322525873","timestamp":"2026-03-31T05:15:47.568630035Z","domain":"burolis-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T04:10:47Z","to":"2026-06-29T04:10:46Z"}
 {"id":"14322526039","timestamp":"2026-03-31T05:15:47.568630115Z","domain":"tapx-claimsigner-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T04:09:50Z","to":"2026-06-29T04:09:49Z"}
 {"id":"14322527858","timestamp":"2026-03-31T05:15:47.568630195Z","domain":"sitefinityrenderer-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T04:11:11Z","to":"2026-06-29T04:11:10Z"}
+{"id":"14322541239","timestamp":"2026-03-31T06:01:35.54983359Z","domain":"mockups-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T04:12:02Z","to":"2026-06-29T04:12:01Z"}
+{"id":"14322546308","timestamp":"2026-03-31T06:01:35.549834101Z","domain":"sitefinity-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T04:12:28Z","to":"2026-06-29T04:12:27Z"}
+{"id":"14322546308","timestamp":"2026-03-31T06:01:35.549834362Z","domain":"sitefinityrenderer-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T04:12:28Z","to":"2026-06-29T04:12:27Z"}
+{"id":"14322553646","timestamp":"2026-03-31T06:01:35.549834642Z","domain":"v3-pbi-hrap-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T04:12:55Z","to":"2026-06-29T04:12:54Z"}
+{"id":"14322555957","timestamp":"2026-03-31T06:01:35.549834743Z","domain":"v3-quessvc-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T04:13:53Z","to":"2026-06-29T04:13:52Z"}
+{"id":"14322556310","timestamp":"2026-03-31T06:01:35.549835965Z","domain":"v3-calipersplusapi-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T04:13:28Z","to":"2026-06-29T04:13:27Z"}
+{"id":"14322556310","timestamp":"2026-03-31T06:01:35.549836045Z","domain":"v3-calipersplus-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T04:13:28Z","to":"2026-06-29T04:13:27Z"}
+{"id":"14322567773","timestamp":"2026-03-31T06:01:35.549836125Z","domain":"v3-wfm-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T04:14:17Z","to":"2026-06-29T04:14:16Z"}
+{"id":"14322571813","timestamp":"2026-03-31T06:01:35.549836215Z","domain":"v3-eri-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T04:14:43Z","to":"2026-06-29T04:14:42Z"}
