@@ -1289,3 +1289,4 @@
 {"id":"14314710711","timestamp":"2026-03-30T14:46:39.511957004Z","domain":"policy-reporter.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-03-30T13:26:52Z","to":"2026-06-28T13:26:51Z"}
 {"id":"14320691010","timestamp":"2026-03-31T02:01:06.234193186Z","domain":"api-spine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T00:42:10Z","to":"2026-06-29T00:42:09Z"}
 {"id":"14320691010","timestamp":"2026-03-31T02:01:06.234193516Z","domain":"api-spine.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T00:42:10Z","to":"2026-06-29T00:42:09Z"}
+{"id":"14321729469","timestamp":"2026-03-31T05:02:01.705585035Z","domain":"intra-api.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-03-31T02:37:40Z","to":"2026-06-29T02:37:39Z"}
