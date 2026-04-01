@@ -17837,3 +17837,8 @@
 {"id":"14342790939","timestamp":"2026-04-01T18:30:03.409799452Z","domain":"serial.tko-ott2.prod.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-01T17:14:11Z","to":"2026-06-30T17:14:10Z"}
 {"id":"14342790939","timestamp":"2026-04-01T18:30:03.409799542Z","domain":"tko-ott2.prod.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-01T17:14:11Z","to":"2026-06-30T17:14:10Z"}
 {"id":"14342790939","timestamp":"2026-04-01T18:30:03.409799622Z","domain":"volume.tko-ott2.prod.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-01T17:14:11Z","to":"2026-06-30T17:14:10Z"}
+{"id":"14344000197","timestamp":"2026-04-01T21:25:08.237679177Z","domain":"api.ircc-services-trn.canada.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14344000197","timestamp":"2026-04-01T21:25:08.237679628Z","domain":"ircc-services-trn1.canada.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14344000197","timestamp":"2026-04-01T21:25:08.237680409Z","domain":"ircc-services-trn2.canada.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14344000197","timestamp":"2026-04-01T21:25:08.23768067Z","domain":"ircc-services-trn3.canada.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14344000197","timestamp":"2026-04-01T21:25:08.23768078Z","domain":"ircc-services-trn.canada.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
