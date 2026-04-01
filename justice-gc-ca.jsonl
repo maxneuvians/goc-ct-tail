@@ -622,3 +622,15 @@
 {"id":"14315922900","timestamp":"2026-03-30T17:37:07.740579654Z","domain":"pjaapp.justice.gc.ca","issuer":"Sectigo","from":"2026-03-30T00:00:00Z","to":"2026-10-14T23:59:59Z"}
 {"id":"14315922900","timestamp":"2026-03-30T17:37:07.740581347Z","domain":"sipjtus.justice.gc.ca","issuer":"Sectigo","from":"2026-03-30T00:00:00Z","to":"2026-10-14T23:59:59Z"}
 {"id":"14315922900","timestamp":"2026-03-30T17:37:07.740581457Z","domain":"sutcis.justice.gc.ca","issuer":"Sectigo","from":"2026-03-30T00:00:00Z","to":"2026-10-14T23:59:59Z"}
+{"id":"14341327921","timestamp":"2026-04-01T16:37:14.748337942Z","domain":"autodiscover.ccrc-ceap.gc.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14341327921","timestamp":"2026-04-01T16:37:14.748338253Z","domain":"autodiscover.justice.gc.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14341327921","timestamp":"2026-04-01T16:37:14.748338443Z","domain":"autodiscover.lcc-cdc.gc.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14341327921","timestamp":"2026-04-01T16:37:14.748338634Z","domain":"autodiscover.ombud.gc.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14341327921","timestamp":"2026-04-01T16:37:14.748338724Z","domain":"autodiscover.ombudsman.gc.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14341327921","timestamp":"2026-04-01T16:37:14.748339445Z","domain":"autodiscover.osi-bis.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14341327921","timestamp":"2026-04-01T16:37:14.748339525Z","domain":"cas.justice.gc.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14341327921","timestamp":"2026-04-01T16:37:14.748339606Z","domain":"justicewebmail.prv.global.gc.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14341327921","timestamp":"2026-04-01T16:37:14.748339686Z","domain":"mail.justice.gc.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14341327921","timestamp":"2026-04-01T16:37:14.748340277Z","domain":"mrs.justice.gc.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14341327921","timestamp":"2026-04-01T16:37:14.748340357Z","domain":"smtp.justice.gc.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14341327921","timestamp":"2026-04-01T16:37:14.748340447Z","domain":"webmail.justice.gc.ca","issuer":"Sectigo","from":"2026-04-01T00:00:00Z","to":"2026-10-16T23:59:59Z"}
