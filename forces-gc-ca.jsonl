@@ -2654,3 +2654,4 @@
 {"id":"14327928266","timestamp":"2026-03-31T15:36:35.574748759Z","domain":"rcaf-athena-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-03-31T00:00:00Z","to":"2026-10-14T23:59:59Z"}
 {"id":"14328800342","timestamp":"2026-03-31T17:30:34.473574238Z","domain":"ignitor-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-03-31T00:00:00Z","to":"2026-10-14T23:59:59Z"}
 {"id":"14332771294","timestamp":"2026-04-01T01:00:57.94573711Z","domain":"link16-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-01T00:00:00Z","to":"2026-10-15T23:59:59Z"}
+{"id":"14338213785","timestamp":"2026-04-01T10:32:05.494413026Z","domain":"mars.cfc.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-04-01T09:01:41Z","to":"2026-06-30T09:01:40Z"}
