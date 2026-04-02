@@ -17872,3 +17872,19 @@
 {"id":"14355015321","timestamp":"2026-04-02T18:29:45.816398945Z","domain":"ssc-vcse-13.video.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
 {"id":"14355015321","timestamp":"2026-04-02T18:29:45.816399025Z","domain":"ssc-vcse-cluster00.video.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
 {"id":"14357066200","timestamp":"2026-04-02T21:20:47.593955889Z","domain":"workload1.c1-qa23814.qa23814.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-04-02T20:07:12Z","to":"2026-07-01T20:59:44Z"}
+{"id":"14357183307","timestamp":"2026-04-02T22:18:44.748924999Z","domain":"comptesgc.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357183307","timestamp":"2026-04-02T22:18:44.74892555Z","domain":"gcaccounts.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357183307","timestamp":"2026-04-02T22:18:44.748925921Z","domain":"gcaccounts-service.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357183307","timestamp":"2026-04-02T22:18:44.748926181Z","domain":"gcaccounts-service.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357331663","timestamp":"2026-04-02T22:18:44.748926322Z","domain":"beta-comptesgc.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357331663","timestamp":"2026-04-02T22:18:44.748927584Z","domain":"beta-gcaccounts.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357331663","timestamp":"2026-04-02T22:18:44.748927684Z","domain":"beta-gcaccounts-service.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357331663","timestamp":"2026-04-02T22:18:44.748927774Z","domain":"dev-comptesgc.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357331663","timestamp":"2026-04-02T22:18:44.748927864Z","domain":"dev-gcaccounts.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357331663","timestamp":"2026-04-02T22:18:44.748930339Z","domain":"dev-gcaccounts-service.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357331663","timestamp":"2026-04-02T22:18:44.748930429Z","domain":"gcaccounts-comptesgc.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357331663","timestamp":"2026-04-02T22:18:44.74893052Z","domain":"gcaccounts-service-beta.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357331663","timestamp":"2026-04-02T22:18:44.74893061Z","domain":"gcaccounts-service-dev.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357331663","timestamp":"2026-04-02T22:18:44.74893071Z","domain":"scm.gcaccounts-comptesgc.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357331663","timestamp":"2026-04-02T22:18:44.74893079Z","domain":"*.support.gcaccounts-comptesgc.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14357366285","timestamp":"2026-04-02T22:18:44.74893092Z","domain":"dec-ui-react.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-02T20:46:13Z","to":"2026-07-01T20:46:12Z"}
