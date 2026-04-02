@@ -280,3 +280,22 @@
 {"id":"13793503062","timestamp":"2026-02-13T16:06:02.404128622Z","domain":"cas-satj.gc.ca","issuer":"Sectigo","from":"2026-02-13T00:00:00Z","to":"2026-05-14T23:59:59Z"}
 {"id":"13974083509","timestamp":"2026-02-28T21:55:00.505302874Z","domain":"service.cas-satj.gc.ca","issuer":"Let's Encrypt","from":"2026-02-28T20:33:26Z","to":"2026-05-29T20:33:25Z"}
 {"id":"13974083509","timestamp":"2026-02-28T21:55:00.505303294Z","domain":"services.cas-satj.gc.ca","issuer":"Let's Encrypt","from":"2026-02-28T20:33:26Z","to":"2026-05-29T20:33:25Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496043802Z","domain":"autodiscover.cas-satj.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496044133Z","domain":"autodiscover.cmac-cacm.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496044323Z","domain":"autodiscover.fca-caf.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496044564Z","domain":"autodiscover.fca-caf.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496044654Z","domain":"autodiscover.fct-cf.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496045385Z","domain":"autodiscover.fct-cf.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496045465Z","domain":"autodiscover.tcc-cci.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496045546Z","domain":"autodiscover.tcc-cci.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496045626Z","domain":"casowa.cas-satj.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496046367Z","domain":"cas-satj.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496046457Z","domain":"exchange.cas-satj.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496046537Z","domain":"imap.cas-satj.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496046617Z","domain":"mail.cas-satj.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496046698Z","domain":"msowa.cas-satj.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496046788Z","domain":"o365.cas-satj.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496046868Z","domain":"owa.cas-satj.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496046948Z","domain":"relay.cas-satj.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.496047028Z","domain":"smtp.cas-satj.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14353934860","timestamp":"2026-04-02T16:11:03.49604769Z","domain":"webmail.cas-satj.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
