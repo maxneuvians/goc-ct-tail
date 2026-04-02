@@ -17866,3 +17866,8 @@
 {"id":"14349542098","timestamp":"2026-04-02T07:39:39.443940653Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-02T06:28:54Z","to":"2026-07-01T06:28:53Z"}
 {"id":"14351610717","timestamp":"2026-04-02T12:33:13.73701769Z","domain":"gccloudone.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-02T10:27:09Z","to":"2026-07-01T10:27:08Z"}
 {"id":"14354678112","timestamp":"2026-04-02T17:27:07.17877369Z","domain":"workload1.c1-qa23782.qa23782.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-04-02T16:01:02Z","to":"2026-07-01T16:55:35Z"}
+{"id":"14355015321","timestamp":"2026-04-02T18:29:45.816397943Z","domain":"ssc-vcse-10.video.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14355015321","timestamp":"2026-04-02T18:29:45.816398544Z","domain":"ssc-vcse-11.video.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14355015321","timestamp":"2026-04-02T18:29:45.816398734Z","domain":"ssc-vcse-12.video.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14355015321","timestamp":"2026-04-02T18:29:45.816398945Z","domain":"ssc-vcse-13.video.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14355015321","timestamp":"2026-04-02T18:29:45.816399025Z","domain":"ssc-vcse-cluster00.video.canada.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
