@@ -1193,7 +1193,12 @@
       "Amazon Trust Services": 7
     },
     "2026-04-01": {
-      "Amazon Trust Services": 1
+      "Amazon Trust Services": 1,
+      "Let's Encrypt": 10,
+      "Sectigo": 2
+    },
+    "2026-04-02": {
+      "Amazon Trust Services": 2
     }
   },
   "errors": []
