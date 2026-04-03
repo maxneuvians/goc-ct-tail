@@ -1327,3 +1327,4 @@
 {"id":"14346652581","timestamp":"2026-04-02T02:18:16.580773463Z","domain":"tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-07-01T23:59:59Z"}
 {"id":"14354427942","timestamp":"2026-04-02T16:48:32.436304674Z","domain":"v3-eri-backend.qa.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-02T15:40:10Z","to":"2026-07-01T15:40:09Z"}
 {"id":"14354794745","timestamp":"2026-04-02T17:47:40.515469889Z","domain":"mockups-frontend-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-02T16:18:45Z","to":"2026-07-01T16:18:44Z"}
+{"id":"14361116787","timestamp":"2026-04-03T05:13:09.535612427Z","domain":"v3-wfm-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-03T04:05:15Z","to":"2026-07-02T04:05:14Z"}
