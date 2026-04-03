@@ -3796,7 +3796,10 @@
       "Sectigo": 7
     },
     "2026-04-02": {
-      "Let's Encrypt": 17
+      "Let's Encrypt": 25,
+      "Google Trust Services": 2,
+      "Sectigo": 20,
+      "DigiCert": 1
     }
   },
   "errors": []
