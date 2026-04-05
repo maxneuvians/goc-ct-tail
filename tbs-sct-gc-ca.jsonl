@@ -1330,3 +1330,16 @@
 {"id":"14361116787","timestamp":"2026-04-03T05:13:09.535612427Z","domain":"v3-wfm-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-03T04:05:15Z","to":"2026-07-02T04:05:14Z"}
 {"id":"14373467008","timestamp":"2026-04-04T05:48:44.924999312Z","domain":"tapx-claimsigner-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-04T04:05:58Z","to":"2026-07-03T04:05:57Z"}
 {"id":"14373480813","timestamp":"2026-04-04T05:48:44.924999623Z","domain":"v3-itas-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-04T04:06:42Z","to":"2026-07-03T04:06:41Z"}
+{"id":"14384272923","timestamp":"2026-04-05T05:16:19.23187125Z","domain":"sitefinity-backend.poc.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T03:03:53Z","to":"2026-07-04T03:03:52Z"}
+{"id":"14384759099","timestamp":"2026-04-05T05:16:19.231871761Z","domain":"v3-pbi-hrap-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T04:04:37Z","to":"2026-07-04T04:04:36Z"}
+{"id":"14384759271","timestamp":"2026-04-05T05:16:19.231872091Z","domain":"v3-pbi-pses-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T04:05:19Z","to":"2026-07-04T04:05:18Z"}
+{"id":"14384762525","timestamp":"2026-04-05T05:16:19.231872422Z","domain":"v3-pbi-itexp-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T04:05:53Z","to":"2026-07-04T04:05:52Z"}
+{"id":"14384766737","timestamp":"2026-04-05T05:16:19.231872542Z","domain":"v3-cwf-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T04:06:33Z","to":"2026-07-04T04:06:32Z"}
+{"id":"14384769565","timestamp":"2026-04-05T05:16:19.231873714Z","domain":"v3-pbi-trd-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T04:07:05Z","to":"2026-07-04T04:07:04Z"}
+{"id":"14384789276","timestamp":"2026-04-05T05:16:19.231873834Z","domain":"v3-calipersplus-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T04:09:27Z","to":"2026-07-04T04:09:26Z"}
+{"id":"14384790669","timestamp":"2026-04-05T05:16:19.231873955Z","domain":"v3-pbi-mental-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T04:08:57Z","to":"2026-07-04T04:08:56Z"}
+{"id":"14384801793","timestamp":"2026-04-05T05:16:19.231874075Z","domain":"sitefinity-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T04:11:37Z","to":"2026-07-04T04:11:36Z"}
+{"id":"14384801793","timestamp":"2026-04-05T05:16:19.231875437Z","domain":"sitefinityrenderer-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T04:11:37Z","to":"2026-07-04T04:11:36Z"}
+{"id":"14384803596","timestamp":"2026-04-05T05:16:19.231875548Z","domain":"selfid-autoid-api-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T04:10:58Z","to":"2026-07-04T04:10:57Z"}
+{"id":"14384816576","timestamp":"2026-04-05T05:16:19.231875648Z","domain":"v3-calipersplusapi-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T04:13:19Z","to":"2026-07-04T04:13:18Z"}
+{"id":"14384820780","timestamp":"2026-04-05T05:16:19.231875748Z","domain":"v3-quessvc-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T04:12:24Z","to":"2026-07-04T04:12:23Z"}
