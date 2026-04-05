@@ -1122,3 +1122,6 @@
 {"id":"14385319628","timestamp":"2026-04-05T06:49:38.556169794Z","domain":"statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T05:21:34Z","to":"2026-07-04T05:21:33Z"}
 {"id":"14385319628","timestamp":"2026-04-05T06:49:38.55617003Z","domain":"www.statcan.ca","issuer":"Let's Encrypt","from":"2026-04-05T05:21:34Z","to":"2026-07-04T05:21:33Z"}
 {"id":"14385319628","timestamp":"2026-04-05T06:49:38.556170221Z","domain":"www.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T05:21:34Z","to":"2026-07-04T05:21:33Z"}
+{"id":"14388937763","timestamp":"2026-04-05T14:45:01.370556387Z","domain":"census-cws.alpha.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T13:19:53Z","to":"2026-07-04T13:19:52Z"}
+{"id":"14388937763","timestamp":"2026-04-05T14:45:01.370556838Z","domain":"census-cws-fr.alpha.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T13:19:53Z","to":"2026-07-04T13:19:52Z"}
+{"id":"14388937763","timestamp":"2026-04-05T14:45:01.370557619Z","domain":"census-cws.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2026-04-05T13:19:53Z","to":"2026-07-04T13:19:52Z"}
