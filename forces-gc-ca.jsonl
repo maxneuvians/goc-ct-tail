@@ -2682,3 +2682,5 @@
 {"id":"14356911138","timestamp":"2026-04-02T21:20:43.94095779Z","domain":"betak.tools.tak-test.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-02T00:00:00Z","to":"2026-10-16T23:59:59Z"}
 {"id":"14356911138","timestamp":"2026-04-02T21:20:43.940957881Z","domain":"*.tools.tak-test.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-02T00:00:00Z","to":"2026-10-16T23:59:59Z"}
 {"id":"14356911138","timestamp":"2026-04-02T21:20:43.940957971Z","domain":"tools.tak-test.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-02T00:00:00Z","to":"2026-10-16T23:59:59Z"}
+{"id":"14382361051","timestamp":"2026-04-05T00:58:51.821168807Z","domain":"*.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-04-04T23:03:12Z","to":"2026-07-03T23:03:11Z"}
+{"id":"14382361051","timestamp":"2026-04-05T00:58:51.821169127Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-04-04T23:03:12Z","to":"2026-07-03T23:03:11Z"}
