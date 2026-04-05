@@ -17897,3 +17897,7 @@
 {"id":"14378460325","timestamp":"2026-04-04T16:18:19.711467125Z","domain":"portail.prod.delivrance-verification.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-04T14:39:13Z","to":"2026-07-03T14:39:12Z"}
 {"id":"14384367356","timestamp":"2026-04-05T04:59:38.868784903Z","domain":"cicp-pcid.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-05T00:00:00Z","to":"2026-10-19T23:59:59Z"}
 {"id":"14384623923","timestamp":"2026-04-05T04:59:38.868785464Z","domain":"cicp-pcid.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-05T00:00:00Z","to":"2026-10-19T23:59:59Z"}
+{"id":"14392635512","timestamp":"2026-04-05T23:19:22.500556013Z","domain":"mlflow.ws-ws-lxu.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-05T21:15:42Z","to":"2026-07-04T21:15:41Z"}
+{"id":"14392635539","timestamp":"2026-04-05T23:19:22.500556565Z","domain":"resource-catalogue.ws-ws-lxu.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-05T21:15:42Z","to":"2026-07-04T21:15:41Z"}
+{"id":"14392665861","timestamp":"2026-04-05T23:19:22.500557276Z","domain":"mlflow.ws-lxu.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-05T21:20:40Z","to":"2026-07-04T21:20:39Z"}
+{"id":"14392670255","timestamp":"2026-04-05T23:19:22.500557877Z","domain":"resource-catalogue.ws-lxu.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-05T21:20:45Z","to":"2026-07-04T21:20:44Z"}
