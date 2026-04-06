@@ -3809,7 +3809,12 @@
       "Let's Encrypt": 2
     },
     "2026-04-05": {
-      "Amazon Trust Services": 2
+      "Amazon Trust Services": 2,
+      "Let's Encrypt": 4
+    },
+    "2026-04-06": {
+      "Amazon Trust Services": 2,
+      "Let's Encrypt": 2
     }
   },
   "errors": []
