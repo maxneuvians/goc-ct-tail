@@ -17937,3 +17937,5 @@
 {"id":"14413395145","timestamp":"2026-04-07T15:40:19.424333914Z","domain":"integration-gcaccounts-service.canada.ca","issuer":"Sectigo","from":"2026-04-07T00:00:00Z","to":"2026-10-22T23:59:59Z"}
 {"id":"14413488781","timestamp":"2026-04-07T15:40:19.424334154Z","domain":"validation-service-canada.canada.ca","issuer":"Sectigo","from":"2026-04-07T00:00:00Z","to":"2026-10-22T23:59:59Z"}
 {"id":"14413488781","timestamp":"2026-04-07T15:40:19.424335677Z","domain":"www.validation-service-canada.canada.ca","issuer":"Sectigo","from":"2026-04-07T00:00:00Z","to":"2026-10-22T23:59:59Z"}
+{"id":"14413902655","timestamp":"2026-04-07T16:32:09.336172053Z","domain":"workload1.c1-dl23903.dl23903.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-04-07T14:40:12Z","to":"2026-07-06T15:33:23Z"}
+{"id":"14414031768","timestamp":"2026-04-07T16:32:09.336172464Z","domain":"app.fegc.canada.ca","issuer":"DigiCert","from":"2026-04-07T00:00:00Z","to":"2026-10-01T23:59:59Z"}
