@@ -38,13 +38,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 17907,
+      "totalCertificates": 17920,
       "totalsByIssuer": {
         "Entrust": 2525,
-        "Amazon Trust Services": 1402,
+        "Amazon Trust Services": 1414,
         "DigiCert": 804,
         "GoDaddy": 13,
-        "Let's Encrypt": 9663,
+        "Let's Encrypt": 9664,
         "Google Trust Services": 391,
         "Sectigo": 1451,
         "SSL.com": 1658
@@ -141,13 +141,13 @@
     {
       "inputFile": "cmhc-schl-gc-ca.jsonl",
       "outputFile": "stats/cmhc-schl-gc-ca-stats.json",
-      "totalCertificates": 931,
+      "totalCertificates": 955,
       "totalsByIssuer": {
         "DigiCert": 783,
         "Entrust": 4,
         "Sectigo": 41,
         "Let's Encrypt": 11,
-        "Google Trust Services": 88,
+        "Google Trust Services": 112,
         "SSL.com": 4
       },
       "errorCount": 0
@@ -650,11 +650,11 @@
     {
       "inputFile": "tc-gc-ca.jsonl",
       "outputFile": "stats/tc-gc-ca-stats.json",
-      "totalCertificates": 416,
+      "totalCertificates": 418,
       "totalsByIssuer": {
         "Entrust": 154,
         "DigiCert": 18,
-        "Let's Encrypt": 145,
+        "Let's Encrypt": 147,
         "SSL.com": 28,
         "Sectigo": 70,
         "Google Trust Services": 1
@@ -687,12 +687,12 @@
     {
       "inputFile": "veterans-gc-ca.jsonl",
       "outputFile": "stats/veterans-gc-ca-stats.json",
-      "totalCertificates": 816,
+      "totalCertificates": 817,
       "totalsByIssuer": {
         "Amazon Trust Services": 24,
         "Entrust": 22,
         "GoDaddy": 1,
-        "Let's Encrypt": 760,
+        "Let's Encrypt": 761,
         "Sectigo": 9
       },
       "errorCount": 0
@@ -710,13 +710,13 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 4461,
-    "Let's Encrypt": 26231,
+    "Amazon Trust Services": 4473,
+    "Let's Encrypt": 26235,
     "SSL.com": 6251,
     "Sectigo": 17842,
     "DigiCert": 2546,
     "GoDaddy": 85,
-    "Google Trust Services": 780,
+    "Google Trust Services": 804,
     "Entrust Limited": 20,
     "GlobalSign": 2
   }
