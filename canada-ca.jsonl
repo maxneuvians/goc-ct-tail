@@ -17973,3 +17973,21 @@
 {"id":"14426998964","timestamp":"2026-04-08T16:37:01.148228268Z","domain":"rpss-prd-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T15:30:44Z","to":"2026-07-07T15:30:43Z"}
 {"id":"14427145961","timestamp":"2026-04-08T17:34:37.08164754Z","domain":"myaw-monlta-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-08T15:45:39Z","to":"2026-07-07T15:45:38Z"}
 {"id":"14427145961","timestamp":"2026-04-08T17:34:37.08164784Z","domain":"myaw-monlta-prd-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T15:45:39Z","to":"2026-07-07T15:45:38Z"}
+{"id":"14427692441","timestamp":"2026-04-08T18:39:37.698311385Z","domain":"rpss-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T16:47:11Z","to":"2026-07-07T16:47:10Z"}
+{"id":"14427703241","timestamp":"2026-04-08T18:39:37.698311966Z","domain":"workload1.c1-qa24089.qa24089.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-04-08T16:46:14Z","to":"2026-07-07T17:39:46Z"}
+{"id":"14427801160","timestamp":"2026-04-08T18:39:37.698312247Z","domain":"rpss-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:00:40Z","to":"2026-07-07T17:00:39Z"}
+{"id":"14427824292","timestamp":"2026-04-08T18:39:37.698312507Z","domain":"f.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:02:43Z","to":"2026-07-07T17:02:42Z"}
+{"id":"14427824292","timestamp":"2026-04-08T18:39:37.698312598Z","domain":"tapx-rolemanager-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:02:43Z","to":"2026-07-07T17:02:42Z"}
+{"id":"14427826569","timestamp":"2026-04-08T18:39:37.69831384Z","domain":"rpss-dev-backend.apim-dev.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:02:04Z","to":"2026-07-07T17:02:03Z"}
+{"id":"14427826569","timestamp":"2026-04-08T18:39:37.69831392Z","domain":"rpss-dev-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:02:04Z","to":"2026-07-07T17:02:03Z"}
+{"id":"14427848095","timestamp":"2026-04-08T18:39:37.69831402Z","domain":"tapx-rolemanagerapp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:04:21Z","to":"2026-07-07T17:04:20Z"}
+{"id":"14427848095","timestamp":"2026-04-08T18:39:37.69831409Z","domain":"tapx-rolemanager-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:04:21Z","to":"2026-07-07T17:04:20Z"}
+{"id":"14427849001","timestamp":"2026-04-08T18:39:37.698315202Z","domain":"f.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:05:55Z","to":"2026-07-07T17:05:54Z"}
+{"id":"14427849001","timestamp":"2026-04-08T18:39:37.698315283Z","domain":"tapx-rolemanager-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:05:55Z","to":"2026-07-07T17:05:54Z"}
+{"id":"14427851168","timestamp":"2026-04-08T18:39:37.698315363Z","domain":"myaw-monlta-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:06:26Z","to":"2026-07-07T17:06:25Z"}
+{"id":"14427851168","timestamp":"2026-04-08T18:39:37.698315443Z","domain":"myaw-monlta-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:06:26Z","to":"2026-07-07T17:06:25Z"}
+{"id":"14427861179","timestamp":"2026-04-08T18:39:37.698315533Z","domain":"tapx-rolemanagerapp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:06:35Z","to":"2026-07-07T17:06:34Z"}
+{"id":"14427861179","timestamp":"2026-04-08T18:39:37.698315603Z","domain":"tapx-rolemanager-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:06:35Z","to":"2026-07-07T17:06:34Z"}
+{"id":"14427877856","timestamp":"2026-04-08T18:39:37.698315693Z","domain":"myaw-monlta-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:07:16Z","to":"2026-07-07T17:07:15Z"}
+{"id":"14427877856","timestamp":"2026-04-08T18:39:37.698315764Z","domain":"myaw-monlta-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:07:16Z","to":"2026-07-07T17:07:15Z"}
+{"id":"14427905552","timestamp":"2026-04-08T18:39:37.698315864Z","domain":"rpss-qa-backend.apim-dev.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:11:45Z","to":"2026-07-07T17:11:44Z"}
