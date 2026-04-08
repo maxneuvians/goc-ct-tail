@@ -17991,3 +17991,5 @@
 {"id":"14427877856","timestamp":"2026-04-08T18:39:37.698315693Z","domain":"myaw-monlta-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:07:16Z","to":"2026-07-07T17:07:15Z"}
 {"id":"14427877856","timestamp":"2026-04-08T18:39:37.698315764Z","domain":"myaw-monlta-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:07:16Z","to":"2026-07-07T17:07:15Z"}
 {"id":"14427905552","timestamp":"2026-04-08T18:39:37.698315864Z","domain":"rpss-qa-backend.apim-dev.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T17:11:45Z","to":"2026-07-07T17:11:44Z"}
+{"id":"14428151696","timestamp":"2026-04-08T19:38:32.927770868Z","domain":"test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-08T00:00:00Z","to":"2026-07-07T23:59:59Z"}
+{"id":"14428157632","timestamp":"2026-04-08T19:38:32.927771269Z","domain":"cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-08T00:00:00Z","to":"2026-07-07T23:59:59Z"}
