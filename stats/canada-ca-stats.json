@@ -3817,7 +3817,11 @@
       "Let's Encrypt": 3
     },
     "2026-04-07": {
-      "Amazon Trust Services": 12
+      "Amazon Trust Services": 12,
+      "Let's Encrypt": 13,
+      "Sectigo": 7,
+      "Google Trust Services": 1,
+      "DigiCert": 1
     }
   },
   "errors": []
