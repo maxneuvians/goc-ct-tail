@@ -1349,3 +1349,5 @@
 {"id":"14415535883","timestamp":"2026-04-07T19:49:25.746246195Z","domain":"solo.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-04-07T00:00:00Z","to":"2026-10-22T23:59:59Z"}
 {"id":"14425786552","timestamp":"2026-04-08T14:55:53.526795992Z","domain":"tapx-rolemanagerapp-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-08T13:15:40Z","to":"2026-07-07T13:15:39Z"}
 {"id":"14425786552","timestamp":"2026-04-08T14:55:53.526796351Z","domain":"tapx-rolemanager-prd-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T13:15:40Z","to":"2026-07-07T13:15:39Z"}
+{"id":"14426839714","timestamp":"2026-04-08T16:49:09.38249405Z","domain":"myaw-monlta-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-08T15:12:54Z","to":"2026-07-07T15:12:53Z"}
+{"id":"14426839714","timestamp":"2026-04-08T16:49:09.382494401Z","domain":"myaw-monlta-prd-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-08T15:12:54Z","to":"2026-07-07T15:12:53Z"}
