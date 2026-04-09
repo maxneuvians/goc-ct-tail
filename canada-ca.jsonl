@@ -18014,3 +18014,6 @@
 {"id":"14439705854","timestamp":"2026-04-09T16:40:37.266240169Z","domain":"*.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-09T15:30:53Z","to":"2026-07-08T15:30:52Z"}
 {"id":"14439705854","timestamp":"2026-04-09T16:40:37.26624051Z","domain":"*.rcmp.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-09T15:30:53Z","to":"2026-07-08T15:30:52Z"}
 {"id":"14439705854","timestamp":"2026-04-09T16:40:37.26624074Z","domain":"*.ssc.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-09T15:30:53Z","to":"2026-07-08T15:30:52Z"}
+{"id":"14440523602","timestamp":"2026-04-09T18:31:26.503207426Z","domain":"app-pt.fegc.canada.ca","issuer":"DigiCert","from":"2026-04-09T00:00:00Z","to":"2026-10-08T23:59:59Z"}
+{"id":"14440627647","timestamp":"2026-04-09T18:31:26.503207917Z","domain":"*.carbon.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-09T17:14:26Z","to":"2026-07-08T17:14:25Z"}
+{"id":"14440627647","timestamp":"2026-04-09T18:31:26.503208208Z","domain":"carbon.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-09T17:14:26Z","to":"2026-07-08T17:14:25Z"}
