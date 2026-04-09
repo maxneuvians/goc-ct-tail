@@ -18006,3 +18006,5 @@
 {"id":"14434634839","timestamp":"2026-04-09T07:44:22.40735201Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-09T06:24:43Z","to":"2026-07-08T06:24:42Z"}
 {"id":"14434634839","timestamp":"2026-04-09T07:44:22.407352281Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-09T06:24:43Z","to":"2026-07-08T06:24:42Z"}
 {"id":"14437324613","timestamp":"2026-04-09T12:37:17.540709249Z","domain":"*.swac-wsca.service.canada.ca","issuer":"Sectigo","from":"2026-04-09T00:00:00Z","to":"2026-10-24T23:59:59Z"}
+{"id":"14438257277","timestamp":"2026-04-09T14:47:51.929287718Z","domain":"blog.canada.ca","issuer":"Let's Encrypt","from":"2026-04-09T12:53:52Z","to":"2026-07-08T12:53:51Z"}
+{"id":"14438257277","timestamp":"2026-04-09T14:47:51.929288108Z","domain":"blog.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-09T12:53:52Z","to":"2026-07-08T12:53:51Z"}
