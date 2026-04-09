@@ -18008,3 +18008,6 @@
 {"id":"14437324613","timestamp":"2026-04-09T12:37:17.540709249Z","domain":"*.swac-wsca.service.canada.ca","issuer":"Sectigo","from":"2026-04-09T00:00:00Z","to":"2026-10-24T23:59:59Z"}
 {"id":"14438257277","timestamp":"2026-04-09T14:47:51.929287718Z","domain":"blog.canada.ca","issuer":"Let's Encrypt","from":"2026-04-09T12:53:52Z","to":"2026-07-08T12:53:51Z"}
 {"id":"14438257277","timestamp":"2026-04-09T14:47:51.929288108Z","domain":"blog.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-09T12:53:52Z","to":"2026-07-08T12:53:51Z"}
+{"id":"14438725704","timestamp":"2026-04-09T15:43:53.322825797Z","domain":"doc-to-html.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-09T13:46:03Z","to":"2026-07-08T13:46:02Z"}
+{"id":"14439012721","timestamp":"2026-04-09T15:43:53.322826198Z","domain":"dask.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-09T14:17:36Z","to":"2026-07-08T14:17:35Z"}
+{"id":"14439065673","timestamp":"2026-04-09T15:43:53.322826448Z","domain":"dask.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-09T14:24:32Z","to":"2026-07-08T14:24:31Z"}
