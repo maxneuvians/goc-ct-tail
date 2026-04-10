@@ -18037,3 +18037,7 @@
 {"id":"14450490555","timestamp":"2026-04-10T13:42:40.576219128Z","domain":"iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-10T12:18:29Z","to":"2026-07-09T12:18:28Z"}
 {"id":"14450560929","timestamp":"2026-04-10T13:42:40.576219559Z","domain":"workload1.c1-ma20154.ma20154.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-04-10T12:23:37Z","to":"2026-07-09T13:17:08Z"}
 {"id":"14450905696","timestamp":"2026-04-10T14:31:57.502382102Z","domain":"nfis.canada.ca","issuer":"Sectigo","from":"2026-04-10T00:00:00Z","to":"2026-10-25T23:59:59Z"}
+{"id":"14451461880","timestamp":"2026-04-10T15:27:17.217698451Z","domain":"apn-npa.gc.ca","issuer":"Sectigo","from":"2026-04-10T00:00:00Z","to":"2026-10-25T23:59:59Z"}
+{"id":"14451461880","timestamp":"2026-04-10T15:27:17.217698792Z","domain":"northern-pipeline.canada.ca","issuer":"Sectigo","from":"2026-04-10T00:00:00Z","to":"2026-10-25T23:59:59Z"}
+{"id":"14451461880","timestamp":"2026-04-10T15:27:17.217699063Z","domain":"npa-apn.gc.ca","issuer":"Sectigo","from":"2026-04-10T00:00:00Z","to":"2026-10-25T23:59:59Z"}
+{"id":"14451461880","timestamp":"2026-04-10T15:27:17.217699263Z","domain":"pipe-line-nord.canada.ca","issuer":"Sectigo","from":"2026-04-10T00:00:00Z","to":"2026-10-25T23:59:59Z"}
