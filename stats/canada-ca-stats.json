@@ -3829,7 +3829,10 @@
       "Google Trust Services": 2
     },
     "2026-04-09": {
-      "Amazon Trust Services": 1
+      "Amazon Trust Services": 1,
+      "Let's Encrypt": 17,
+      "Sectigo": 3,
+      "DigiCert": 1
     }
   },
   "errors": []
