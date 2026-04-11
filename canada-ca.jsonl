@@ -18046,3 +18046,5 @@
 {"id":"14452050506","timestamp":"2026-04-10T16:29:03.68751859Z","domain":"ace-dedac.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-10T00:00:00Z","to":"2026-10-24T23:59:59Z"}
 {"id":"14454007057","timestamp":"2026-04-10T20:19:35.368491159Z","domain":"gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-10T18:23:08Z","to":"2026-07-09T18:23:07Z"}
 {"id":"14454007971","timestamp":"2026-04-10T20:19:35.368491549Z","domain":"traefik.gcperformance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-10T18:23:17Z","to":"2026-07-09T18:23:16Z"}
+{"id":"14460293633","timestamp":"2026-04-11T07:31:45.742188015Z","domain":"*.crt-ort.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-04-11T06:16:39Z","to":"2026-07-10T06:16:38Z"}
+{"id":"14460293633","timestamp":"2026-04-11T07:31:45.742188687Z","domain":"crt-ort.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-04-11T06:16:39Z","to":"2026-07-10T06:16:38Z"}
