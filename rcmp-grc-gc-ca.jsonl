@@ -1710,3 +1710,5 @@
 {"id":"14260822046","timestamp":"2026-03-25T18:29:28.792722442Z","domain":"gateway-passerelle.azs.api.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2026-03-25T00:00:00Z","to":"2026-10-09T23:59:59Z"}
 {"id":"14260822046","timestamp":"2026-03-25T18:29:28.792722793Z","domain":"rcmp-grc.gc.ca","issuer":"Sectigo","from":"2026-03-25T00:00:00Z","to":"2026-10-09T23:59:59Z"}
 {"id":"14260936647","timestamp":"2026-03-25T18:29:28.792723043Z","domain":"gateway-passerelle.azs.api.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2026-03-25T00:00:00Z","to":"2026-10-09T23:59:59Z"}
+{"id":"14457158318","timestamp":"2026-04-11T01:46:22.915269128Z","domain":"*.alpha.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2026-04-11T00:04:51Z","to":"2026-07-10T00:04:50Z"}
+{"id":"14457158318","timestamp":"2026-04-11T01:46:22.915269428Z","domain":"alpha.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2026-04-11T00:04:51Z","to":"2026-07-10T00:04:50Z"}
