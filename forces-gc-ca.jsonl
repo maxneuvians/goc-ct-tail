@@ -2698,3 +2698,8 @@
 {"id":"14439868811","timestamp":"2026-04-09T17:33:35.755945265Z","domain":"rcaf-athena-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-09T00:00:00Z","to":"2026-10-23T23:59:59Z"}
 {"id":"14451301925","timestamp":"2026-04-10T15:27:18.10615095Z","domain":"auth.athenapro.rcaf-athena-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-10T00:00:00Z","to":"2026-10-24T23:59:59Z"}
 {"id":"14451941051","timestamp":"2026-04-10T16:29:02.425461615Z","domain":"cafpay-soldefac.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-04-10T00:00:00Z","to":"2026-10-25T23:59:59Z"}
+{"id":"14480935562","timestamp":"2026-04-12T20:18:21.392909623Z","domain":"defence365.forces.gc.ca","issuer":"DigiCert","from":"2026-04-12T00:00:00Z","to":"2026-10-12T23:59:59Z"}
+{"id":"14480935577","timestamp":"2026-04-12T20:18:21.392910125Z","domain":"defense365.forces.gc.ca","issuer":"DigiCert","from":"2026-04-12T00:00:00Z","to":"2026-10-12T23:59:59Z"}
+{"id":"14480935723","timestamp":"2026-04-12T20:18:21.392910391Z","domain":"defenseo365.forces.gc.ca","issuer":"DigiCert","from":"2026-04-12T00:00:00Z","to":"2026-10-12T23:59:59Z"}
+{"id":"14480936514","timestamp":"2026-04-12T20:18:21.392911624Z","domain":"defenceo365.forces.gc.ca","issuer":"DigiCert","from":"2026-04-12T00:00:00Z","to":"2026-10-12T23:59:59Z"}
+{"id":"14480951957","timestamp":"2026-04-12T20:18:21.39291171Z","domain":"365.forces.gc.ca","issuer":"DigiCert","from":"2026-04-12T00:00:00Z","to":"2026-10-12T23:59:59Z"}
