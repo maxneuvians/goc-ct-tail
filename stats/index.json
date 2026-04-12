@@ -38,13 +38,13 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 18048,
+      "totalCertificates": 18057,
       "totalsByIssuer": {
         "Entrust": 2525,
         "Amazon Trust Services": 1417,
         "DigiCert": 806,
         "GoDaddy": 13,
-        "Let's Encrypt": 9742,
+        "Let's Encrypt": 9751,
         "Google Trust Services": 395,
         "Sectigo": 1492,
         "SSL.com": 1658
@@ -219,11 +219,11 @@
     {
       "inputFile": "dfo-mpo-gc-ca.jsonl",
       "outputFile": "stats/dfo-mpo-gc-ca-stats.json",
-      "totalCertificates": 1425,
+      "totalCertificates": 1428,
       "totalsByIssuer": {
         "Entrust": 332,
         "DigiCert": 60,
-        "Let's Encrypt": 516,
+        "Let's Encrypt": 519,
         "SSL.com": 341,
         "Sectigo": 176
       },
@@ -396,12 +396,12 @@
     {
       "inputFile": "mint-ca.jsonl",
       "outputFile": "stats/mint-ca-stats.json",
-      "totalCertificates": 510,
+      "totalCertificates": 512,
       "totalsByIssuer": {
         "Entrust": 137,
         "DigiCert": 16,
         "Let's Encrypt": 48,
-        "Google Trust Services": 242,
+        "Google Trust Services": 244,
         "Sectigo": 52,
         "Entrust Limited": 15
       },
@@ -421,13 +421,13 @@
     {
       "inputFile": "nrcan-gc-ca.jsonl",
       "outputFile": "stats/nrcan-gc-ca-stats.json",
-      "totalCertificates": 21722,
+      "totalCertificates": 21763,
       "totalsByIssuer": {
         "Amazon Trust Services": 47,
         "Entrust": 460,
         "DigiCert": 30,
-        "Let's Encrypt": 8765,
-        "Sectigo": 12140,
+        "Let's Encrypt": 8788,
+        "Sectigo": 12158,
         "SSL.com": 280
       },
       "errorCount": 0
@@ -711,12 +711,12 @@
   "grandTotalByIssuer": {
     "Entrust": 11243,
     "Amazon Trust Services": 4491,
-    "Let's Encrypt": 26357,
+    "Let's Encrypt": 26392,
     "SSL.com": 6251,
-    "Sectigo": 18061,
+    "Sectigo": 18079,
     "DigiCert": 2559,
     "GoDaddy": 85,
-    "Google Trust Services": 810,
+    "Google Trust Services": 812,
     "Entrust Limited": 20,
     "GlobalSign": 2
   }
