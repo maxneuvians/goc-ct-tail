@@ -1425,3 +1425,4 @@
 {"id":"14414707373","timestamp":"2026-04-07T17:38:56.890640456Z","domain":"www.waterlevels.gc.ca","issuer":"Sectigo","from":"2026-04-07T00:00:00Z","to":"2026-10-22T23:59:59Z"}
 {"id":"14468527522","timestamp":"2026-04-11T22:30:30.077114513Z","domain":"falco-ui.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-04-11T20:41:59Z","to":"2026-07-10T20:41:58Z"}
 {"id":"14468576180","timestamp":"2026-04-11T22:30:30.077114863Z","domain":"prometheus.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-04-11T20:48:32Z","to":"2026-07-10T20:48:31Z"}
+{"id":"14469649174","timestamp":"2026-04-12T01:03:17.973362011Z","domain":"argocd.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-04-11T22:52:36Z","to":"2026-07-10T22:52:35Z"}
