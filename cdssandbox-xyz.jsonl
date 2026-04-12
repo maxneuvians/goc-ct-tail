@@ -2395,3 +2395,4 @@
 {"id":"14427911246","timestamp":"2026-04-08T18:52:57.272535674Z","domain":"test.issue-verify.cdssandbox.xyz","issuer":"DigiCert","from":"2026-04-08T00:00:00Z","to":"2026-10-08T23:59:59Z"}
 {"id":"14431387247","timestamp":"2026-04-09T02:18:23.371780657Z","domain":"*.test.issue-verify.cdssandbox.xyz","issuer":"DigiCert","from":"2026-04-09T00:00:00Z","to":"2026-10-09T23:59:59Z"}
 {"id":"14438900492","timestamp":"2026-04-09T16:01:34.932844885Z","domain":"portal.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-04-09T14:03:33Z","to":"2026-07-08T14:03:32Z"}
+{"id":"14477336509","timestamp":"2026-04-12T13:49:54.100532839Z","domain":"portal.dev.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-04-12T12:37:07Z","to":"2026-07-11T12:37:06Z"}
