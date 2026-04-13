@@ -3844,7 +3844,11 @@
       "Let's Encrypt": 5
     },
     "2026-04-12": {
-      "Let's Encrypt": 4
+      "Let's Encrypt": 9,
+      "DigiCert": 3
+    },
+    "2026-04-13": {
+      "Let's Encrypt": 2
     }
   },
   "errors": []
