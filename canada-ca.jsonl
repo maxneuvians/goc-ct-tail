@@ -18083,3 +18083,17 @@
 {"id":"14506437097","timestamp":"2026-04-14T12:35:58.786167005Z","domain":"api-test.io.canada.ca","issuer":"Let's Encrypt","from":"2026-04-14T10:57:31Z","to":"2026-07-13T10:57:30Z"}
 {"id":"14506775368","timestamp":"2026-04-14T12:35:58.786167647Z","domain":"policy-community.canada.ca","issuer":"Google Trust Services","from":"2026-04-14T11:24:33Z","to":"2026-07-13T12:23:14Z"}
 {"id":"14506777952","timestamp":"2026-04-14T12:35:58.786167987Z","domain":"policy-community.canada.ca","issuer":"Google Trust Services","from":"2026-04-14T11:24:47Z","to":"2026-07-13T12:24:39Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:45:03.199047394Z","domain":"apps.inspection.canada.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:45:03.199047855Z","domain":"apps.inspection.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:45:03.199048146Z","domain":"inspection.canada.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:45:03.199048306Z","domain":"inspection.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:45:03.199048386Z","domain":"prod.inspection.canada.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:45:03.199049287Z","domain":"www.apps.inspection.canada.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:45:03.199049458Z","domain":"www.apps.inspection.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:45:03.199049538Z","domain":"www.inspection.canada.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:45:03.199049608Z","domain":"www.inspection.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:45:03.19905087Z","domain":"www.prod.inspection.canada.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14507011506","timestamp":"2026-04-14T13:45:03.19905095Z","domain":"policy-community.canada.ca","issuer":"Google Trust Services","from":"2026-04-14T11:45:16Z","to":"2026-07-13T12:45:01Z"}
+{"id":"14507012909","timestamp":"2026-04-14T13:45:03.19905102Z","domain":"policy-community.canada.ca","issuer":"Google Trust Services","from":"2026-04-14T11:44:56Z","to":"2026-07-13T12:44:54Z"}
+{"id":"14507221535","timestamp":"2026-04-14T13:45:03.1990511Z","domain":"mlflow.ws-eodms.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-14T12:08:28Z","to":"2026-07-13T12:08:27Z"}
+{"id":"14507226544","timestamp":"2026-04-14T13:45:03.19905117Z","domain":"resource-catalogue.ws-eodms.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-14T12:08:27Z","to":"2026-07-13T12:08:26Z"}
