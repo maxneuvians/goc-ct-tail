@@ -1130,3 +1130,11 @@
 {"id":"14389758278","timestamp":"2026-04-05T16:45:34.840363415Z","domain":"geocensus.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2026-04-05T15:06:44Z","to":"2026-07-04T15:06:43Z"}
 {"id":"14389758278","timestamp":"2026-04-05T16:45:34.840363725Z","domain":"geoprod.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-05T15:06:44Z","to":"2026-07-04T15:06:43Z"}
 {"id":"14414840102","timestamp":"2026-04-07T17:48:44.226357719Z","domain":"de-cgfs.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-07T16:28:39Z","to":"2026-07-06T16:28:38Z"}
+{"id":"14507552846","timestamp":"2026-04-14T14:10:13.486785025Z","domain":"icoskb-qa-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-14T12:39:32Z","to":"2026-07-13T12:39:31Z"}
+{"id":"14507552846","timestamp":"2026-04-14T14:10:13.486785506Z","domain":"icoskb-qa.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-14T12:39:32Z","to":"2026-07-13T12:39:31Z"}
+{"id":"14507659216","timestamp":"2026-04-14T14:10:13.486785936Z","domain":"census-cws.alpha.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-14T12:49:12Z","to":"2026-07-13T12:49:11Z"}
+{"id":"14507659216","timestamp":"2026-04-14T14:10:13.486786267Z","domain":"census-cws-fr.alpha.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-14T12:49:12Z","to":"2026-07-13T12:49:11Z"}
+{"id":"14507659216","timestamp":"2026-04-14T14:10:13.486786397Z","domain":"census-cws.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2026-04-14T12:49:12Z","to":"2026-07-13T12:49:11Z"}
+{"id":"14507744815","timestamp":"2026-04-14T14:10:13.48678763Z","domain":"icoskb.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-14T12:55:40Z","to":"2026-07-13T12:55:39Z"}
+{"id":"14507781874","timestamp":"2026-04-14T14:10:13.48678774Z","domain":"www111.cmp-pgc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-14T13:01:17Z","to":"2026-07-13T13:01:16Z"}
+{"id":"14507861283","timestamp":"2026-04-14T14:10:13.48678786Z","domain":"www136.cmp-pgc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-14T13:06:41Z","to":"2026-07-13T13:06:40Z"}
