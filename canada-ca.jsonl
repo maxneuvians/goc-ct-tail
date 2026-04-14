@@ -18073,3 +18073,5 @@
 {"id":"14493354130","timestamp":"2026-04-13T16:37:43.578863739Z","domain":"labelstudio.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-13T14:58:12Z","to":"2026-07-12T14:58:11Z"}
 {"id":"14494534787","timestamp":"2026-04-13T18:38:30.238450355Z","domain":"test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-13T00:00:00Z","to":"2026-07-12T23:59:59Z"}
 {"id":"14494535431","timestamp":"2026-04-13T18:38:30.238450796Z","domain":"cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-13T00:00:00Z","to":"2026-07-12T23:59:59Z"}
+{"id":"14501323631","timestamp":"2026-04-14T05:06:18.513085153Z","domain":"*.itsm.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-14T03:31:26Z","to":"2026-07-13T03:31:25Z"}
+{"id":"14501323631","timestamp":"2026-04-14T05:06:18.513085543Z","domain":"itsm.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-14T03:31:26Z","to":"2026-07-13T03:31:25Z"}
