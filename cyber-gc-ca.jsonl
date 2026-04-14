@@ -912,3 +912,9 @@
 {"id":"14451196908","timestamp":"2026-04-10T14:47:00.918600241Z","domain":"*.pilot.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-04-10T13:36:40Z","to":"2026-07-09T13:36:39Z"}
 {"id":"14505124872","timestamp":"2026-04-14T10:51:31.822165889Z","domain":"gw8.misp.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-04-14T09:01:54Z","to":"2026-07-13T09:01:53Z"}
 {"id":"14505132620","timestamp":"2026-04-14T10:51:31.82216646Z","domain":"cyberpostureassessments.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-04-14T09:02:27Z","to":"2026-07-13T09:02:26Z"}
+{"id":"14507431078","timestamp":"2026-04-14T14:10:12.417561627Z","domain":"cyber.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-07-13T23:59:59Z"}
+{"id":"14507435111","timestamp":"2026-04-14T14:10:12.417562108Z","domain":"mon.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14507435111","timestamp":"2026-04-14T14:10:12.417562388Z","domain":"my.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14507435111","timestamp":"2026-04-14T14:10:12.417562639Z","domain":"portail.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14507435111","timestamp":"2026-04-14T14:10:12.417562729Z","domain":"portal.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14507435111","timestamp":"2026-04-14T14:10:12.417563801Z","domain":"portal-portail.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
