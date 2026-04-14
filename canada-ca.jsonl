@@ -18079,3 +18079,7 @@
 {"id":"14503303917","timestamp":"2026-04-14T07:45:13.741634605Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-14T06:28:57Z","to":"2026-07-13T06:28:56Z"}
 {"id":"14503304536","timestamp":"2026-04-14T07:45:13.741634835Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-14T06:29:01Z","to":"2026-07-13T06:29:00Z"}
 {"id":"14503304536","timestamp":"2026-04-14T07:45:13.741635036Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-14T06:29:01Z","to":"2026-07-13T06:29:00Z"}
+{"id":"14506437097","timestamp":"2026-04-14T12:35:58.786166524Z","domain":"api.io.canada.ca","issuer":"Let's Encrypt","from":"2026-04-14T10:57:31Z","to":"2026-07-13T10:57:30Z"}
+{"id":"14506437097","timestamp":"2026-04-14T12:35:58.786167005Z","domain":"api-test.io.canada.ca","issuer":"Let's Encrypt","from":"2026-04-14T10:57:31Z","to":"2026-07-13T10:57:30Z"}
+{"id":"14506775368","timestamp":"2026-04-14T12:35:58.786167647Z","domain":"policy-community.canada.ca","issuer":"Google Trust Services","from":"2026-04-14T11:24:33Z","to":"2026-07-13T12:23:14Z"}
+{"id":"14506777952","timestamp":"2026-04-14T12:35:58.786167987Z","domain":"policy-community.canada.ca","issuer":"Google Trust Services","from":"2026-04-14T11:24:47Z","to":"2026-07-13T12:24:39Z"}
