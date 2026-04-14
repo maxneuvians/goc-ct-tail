@@ -227,3 +227,14 @@
 {"id":"13856426736","timestamp":"2026-02-18T18:33:15.208528818Z","domain":"vpn.inspection.gc.ca","issuer":"Sectigo","from":"2026-02-18T00:00:00Z","to":"2027-03-19T23:59:59Z"}
 {"id":"14063551316","timestamp":"2026-03-08T21:29:08.780883015Z","domain":"catalogue.inspection.gc.ca","issuer":"Let's Encrypt","from":"2026-03-08T20:06:49Z","to":"2026-06-06T20:06:48Z"}
 {"id":"14354774515","timestamp":"2026-04-02T17:36:16.245597551Z","domain":"inspection.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-07-01T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:59:09.371581613Z","domain":"apps.inspection.canada.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:59:09.371582164Z","domain":"apps.inspection.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:59:09.371582454Z","domain":"inspection.canada.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:59:09.371582745Z","domain":"inspection.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:59:09.371582855Z","domain":"prod.inspection.canada.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:59:09.371584558Z","domain":"www.apps.inspection.canada.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:59:09.371584648Z","domain":"www.apps.inspection.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:59:09.371584738Z","domain":"www.inspection.canada.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:59:09.371584829Z","domain":"www.inspection.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506968167","timestamp":"2026-04-14T13:59:09.371586021Z","domain":"www.prod.inspection.canada.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
+{"id":"14506990810","timestamp":"2026-04-14T13:59:09.371586151Z","domain":"inspection.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-07-13T23:59:59Z"}
