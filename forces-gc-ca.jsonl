@@ -2708,3 +2708,4 @@
 {"id":"14498258587","timestamp":"2026-04-14T01:00:22.21307998Z","domain":"pvc.cloud.forces.gc.ca","issuer":"DigiCert","from":"2026-04-13T00:00:00Z","to":"2026-10-13T23:59:59Z"}
 {"id":"14507393643","timestamp":"2026-04-14T13:45:01.472684245Z","domain":"cafpay-soldefac-stg.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-04-14T00:00:00Z","to":"2026-10-29T23:59:59Z"}
 {"id":"14524301793","timestamp":"2026-04-15T15:37:32.183766275Z","domain":"efb-content-gateway.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"14526215178","timestamp":"2026-04-15T18:36:31.489097765Z","domain":"*.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
