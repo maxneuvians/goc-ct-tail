@@ -1714,3 +1714,11 @@
 {"id":"14457158318","timestamp":"2026-04-11T01:46:22.915269428Z","domain":"alpha.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2026-04-11T00:04:51Z","to":"2026-07-10T00:04:50Z"}
 {"id":"14514265112","timestamp":"2026-04-15T01:00:59.581098269Z","domain":"testing2244.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2026-04-14T23:08:30Z","to":"2026-07-13T23:08:29Z"}
 {"id":"14514265112","timestamp":"2026-04-15T01:00:59.58109852Z","domain":"testing8899.testingssl.rcmp.ca","issuer":"Let's Encrypt","from":"2026-04-14T23:08:30Z","to":"2026-07-13T23:08:29Z"}
+{"id":"14525769505","timestamp":"2026-04-15T17:34:38.403631296Z","domain":"cohere-compass-models-dev.azs.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"14525769505","timestamp":"2026-04-15T17:34:38.403631747Z","domain":"cohere-compass-models-stag.azs.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"14525769505","timestamp":"2026-04-15T17:34:38.403632048Z","domain":"cohere-gen-models-dev.azs.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"14525769505","timestamp":"2026-04-15T17:34:38.403632258Z","domain":"cohere-gen-models-stag.azs.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"14525769505","timestamp":"2026-04-15T17:34:38.403632338Z","domain":"cohere-models-dev.azs.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"14525769505","timestamp":"2026-04-15T17:34:38.40363352Z","domain":"cohere-models-stag.azs.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"14525769505","timestamp":"2026-04-15T17:34:38.4036336Z","domain":"cohere-north-dev.azs.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"14525769505","timestamp":"2026-04-15T17:34:38.40363368Z","domain":"cohere-north-stag.azs.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
