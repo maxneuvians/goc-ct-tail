@@ -18181,3 +18181,5 @@
 {"id":"14522916537","timestamp":"2026-04-15T13:44:41.1226322Z","domain":"dol-prod.prod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-04-15T12:14:03Z","to":"2026-07-14T12:14:02Z"}
 {"id":"14522969067","timestamp":"2026-04-15T13:44:41.122632782Z","domain":"litellm.uat.ibm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-15T12:18:41Z","to":"2026-07-14T12:18:40Z"}
 {"id":"14523023490","timestamp":"2026-04-15T13:44:41.122633012Z","domain":"www.drug-inspections.canada.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"14523898661","timestamp":"2026-04-15T14:45:02.496918114Z","domain":"www142.canafe-fintrac.canada.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"14523898661","timestamp":"2026-04-15T14:45:02.496918444Z","domain":"www142.fintrac-canafe.canada.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
