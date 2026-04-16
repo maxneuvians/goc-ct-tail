@@ -18195,3 +18195,5 @@
 {"id":"14526264745","timestamp":"2026-04-15T18:36:32.944813098Z","domain":"www133.canafe-fintrac.canada.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
 {"id":"14526264745","timestamp":"2026-04-15T18:36:32.944813169Z","domain":"www133.fintrac-canafe.canada.ca","issuer":"Sectigo","from":"2026-04-15T00:00:00Z","to":"2026-10-30T23:59:59Z"}
 {"id":"14526881408","timestamp":"2026-04-15T19:40:44.866862347Z","domain":"workload1.c1-ac24469.ac24469.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-04-15T18:02:56Z","to":"2026-07-14T18:57:09Z"}
+{"id":"14532912391","timestamp":"2026-04-16T05:10:50.838211045Z","domain":"*.uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-16T03:31:35Z","to":"2026-07-15T03:31:34Z"}
+{"id":"14532912391","timestamp":"2026-04-16T05:10:50.838211406Z","domain":"uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-16T03:31:35Z","to":"2026-07-15T03:31:34Z"}
