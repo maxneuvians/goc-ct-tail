@@ -3857,7 +3857,12 @@
       "Sectigo": 15
     },
     "2026-04-15": {
-      "Sectigo": 61
+      "Sectigo": 87,
+      "Let's Encrypt": 3,
+      "Google Trust Services": 1
+    },
+    "2026-04-16": {
+      "Let's Encrypt": 2
     }
   },
   "errors": []
