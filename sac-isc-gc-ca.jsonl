@@ -626,3 +626,6 @@
 {"id":"14346225082","timestamp":"2026-04-02T01:20:37.788013613Z","domain":"vpn-01.sac-isc.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
 {"id":"14346225082","timestamp":"2026-04-02T01:20:37.788014144Z","domain":"vpn-02.sac-isc.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
 {"id":"14346225082","timestamp":"2026-04-02T01:20:37.788014445Z","domain":"vpn.sac-isc.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-10-17T23:59:59Z"}
+{"id":"14550893326","timestamp":"2026-04-17T14:19:16.184584924Z","domain":"vpn-west-1.sac-isc.gc.ca","issuer":"Sectigo","from":"2026-04-17T00:00:00Z","to":"2026-11-01T23:59:59Z"}
+{"id":"14550893326","timestamp":"2026-04-17T14:19:16.184585255Z","domain":"vpn-west-2.sac-isc.gc.ca","issuer":"Sectigo","from":"2026-04-17T00:00:00Z","to":"2026-11-01T23:59:59Z"}
+{"id":"14550893326","timestamp":"2026-04-17T14:19:16.184585505Z","domain":"vpn-west.sac-isc.gc.ca","issuer":"Sectigo","from":"2026-04-17T00:00:00Z","to":"2026-11-01T23:59:59Z"}
