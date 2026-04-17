@@ -18287,3 +18287,5 @@
 {"id":"14541293376","timestamp":"2026-04-16T19:37:14.742397974Z","domain":"fcac-research-recherche-acfc.canada.ca","issuer":"Sectigo","from":"2026-04-16T00:00:00Z","to":"2026-10-31T23:59:59Z"}
 {"id":"14551284430","timestamp":"2026-04-17T14:36:19.657429056Z","domain":"budget.canada.ca","issuer":"Sectigo","from":"2026-04-17T00:00:00Z","to":"2026-11-01T23:59:59Z"}
 {"id":"14551284430","timestamp":"2026-04-17T14:36:19.657429307Z","domain":"www.budget.canada.ca","issuer":"Sectigo","from":"2026-04-17T00:00:00Z","to":"2026-11-01T23:59:59Z"}
+{"id":"14552358752","timestamp":"2026-04-17T16:29:03.630774656Z","domain":"*.cto-prod-portal.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-17T15:02:55Z","to":"2026-07-16T15:02:54Z"}
+{"id":"14552362635","timestamp":"2026-04-17T16:29:03.630774997Z","domain":"*.cto-dev-portal.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-17T15:02:51Z","to":"2026-07-16T15:02:50Z"}
