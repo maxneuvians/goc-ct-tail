@@ -18311,3 +18311,5 @@
 {"id":"14568434555","timestamp":"2026-04-19T01:02:55.536173076Z","domain":"termium-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-19T00:00:00Z","to":"2026-11-02T23:59:59Z"}
 {"id":"14570768783","timestamp":"2026-04-19T05:10:09.941525347Z","domain":"atip.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-04-19T04:05:20Z","to":"2026-07-18T04:05:19Z"}
 {"id":"14573640312","timestamp":"2026-04-19T11:21:55.455647144Z","domain":"docling.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-19T10:00:05Z","to":"2026-07-18T10:00:04Z"}
+{"id":"14580520923","timestamp":"2026-04-20T01:47:00.829715817Z","domain":"*.acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-04-20T00:01:56Z","to":"2026-07-19T00:01:55Z"}
+{"id":"14580520923","timestamp":"2026-04-20T01:47:00.829716137Z","domain":"acc.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-04-20T00:01:56Z","to":"2026-07-19T00:01:55Z"}
