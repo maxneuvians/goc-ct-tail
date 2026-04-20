@@ -18320,3 +18320,7 @@
 {"id":"14589977694","timestamp":"2026-04-20T19:35:32.360239204Z","domain":"sandbox-sud.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-20T18:11:29Z","to":"2026-07-19T18:11:28Z"}
 {"id":"14590239978","timestamp":"2026-04-20T20:24:09.111511706Z","domain":"sandbox-sud.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-20T18:42:35Z","to":"2026-07-19T18:42:34Z"}
 {"id":"14590418469","timestamp":"2026-04-20T20:24:09.111512357Z","domain":"sbx-vm-chris.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-20T19:04:46Z","to":"2026-07-19T19:04:45Z"}
+{"id":"14590668033","timestamp":"2026-04-20T21:27:00.662576085Z","domain":"service1.chat.canada.ca","issuer":"Sectigo","from":"2026-04-20T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"14590668033","timestamp":"2026-04-20T21:27:00.662576616Z","domain":"service2.chat.canada.ca","issuer":"Sectigo","from":"2026-04-20T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"14590668033","timestamp":"2026-04-20T21:27:00.662576887Z","domain":"service3.chat.canada.ca","issuer":"Sectigo","from":"2026-04-20T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"14590668033","timestamp":"2026-04-20T21:27:00.662577137Z","domain":"service4.chat.canada.ca","issuer":"Sectigo","from":"2026-04-20T00:00:00Z","to":"2026-11-04T23:59:59Z"}
