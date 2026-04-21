@@ -2725,3 +2725,7 @@
 {"id":"14556316556","timestamp":"2026-04-18T00:55:06.47085385Z","domain":"tools.tak.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-17T00:00:00Z","to":"2026-10-31T23:59:59Z"}
 {"id":"14602340589","timestamp":"2026-04-21T19:37:15.438804242Z","domain":"*.tak-dev.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-21T00:00:00Z","to":"2026-11-04T23:59:59Z"}
 {"id":"14602340589","timestamp":"2026-04-21T19:37:15.438804512Z","domain":"tak-dev.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-21T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"14603432468","timestamp":"2026-04-21T21:25:44.251640936Z","domain":"*.tak-test.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-21T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"14603432468","timestamp":"2026-04-21T21:25:44.251641286Z","domain":"tak-test.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-21T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"14603641817","timestamp":"2026-04-21T21:25:44.251641527Z","domain":"*.tak.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-21T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"14603641817","timestamp":"2026-04-21T21:25:44.251641757Z","domain":"tak.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-21T00:00:00Z","to":"2026-11-04T23:59:59Z"}
