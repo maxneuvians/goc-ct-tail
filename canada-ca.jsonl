@@ -18331,3 +18331,6 @@
 {"id":"14597638436","timestamp":"2026-04-21T10:40:15.574357139Z","domain":"put.alpha.service.canada.ca","issuer":"Let's Encrypt","from":"2026-04-21T09:07:11Z","to":"2026-07-20T09:07:10Z"}
 {"id":"14598615623","timestamp":"2026-04-21T12:37:01.860709597Z","domain":"budget.canada.ca","issuer":"Sectigo","from":"2026-04-21T00:00:00Z","to":"2026-11-02T23:59:59Z"}
 {"id":"14598615623","timestamp":"2026-04-21T12:37:01.860710147Z","domain":"www.budget.canada.ca","issuer":"Sectigo","from":"2026-04-21T00:00:00Z","to":"2026-11-02T23:59:59Z"}
+{"id":"14599299364","timestamp":"2026-04-21T13:44:56.55262319Z","domain":"open-science.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-21T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"14599299364","timestamp":"2026-04-21T13:44:56.552624111Z","domain":"science-ouverte.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-21T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"14599354747","timestamp":"2026-04-21T13:44:56.552624442Z","domain":"sbx-vm-chris.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-21T12:13:33Z","to":"2026-07-20T12:13:32Z"}
