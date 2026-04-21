@@ -18338,3 +18338,8 @@
 {"id":"14600501097","timestamp":"2026-04-21T15:39:59.306826266Z","domain":"services.tbs-sct.canada.ca","issuer":"Sectigo","from":"2026-04-21T00:00:00Z","to":"2026-11-05T23:59:59Z"}
 {"id":"14600501097","timestamp":"2026-04-21T15:39:59.306826567Z","domain":"www.services.tbs-sct.canada.ca","issuer":"Sectigo","from":"2026-04-21T00:00:00Z","to":"2026-11-05T23:59:59Z"}
 {"id":"14600791321","timestamp":"2026-04-21T16:33:52.919287047Z","domain":"sbx-vm-test01.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-21T14:55:58Z","to":"2026-07-20T14:55:57Z"}
+{"id":"14602520629","timestamp":"2026-04-21T19:37:17.085726522Z","domain":"ideabot-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-21T00:00:00Z","to":"2026-11-04T23:59:59Z"}
+{"id":"14602581549","timestamp":"2026-04-21T19:37:17.085726963Z","domain":"cartes.canada.ca","issuer":"Let's Encrypt","from":"2026-04-21T18:04:15Z","to":"2026-07-20T18:04:14Z"}
+{"id":"14602581549","timestamp":"2026-04-21T19:37:17.085727213Z","domain":"csw.open.canada.ca","issuer":"Let's Encrypt","from":"2026-04-21T18:04:15Z","to":"2026-07-20T18:04:14Z"}
+{"id":"14602581549","timestamp":"2026-04-21T19:37:17.085727433Z","domain":"maps.canada.ca","issuer":"Let's Encrypt","from":"2026-04-21T18:04:15Z","to":"2026-07-20T18:04:14Z"}
+{"id":"14602581549","timestamp":"2026-04-21T19:37:17.085727524Z","domain":"www.maps.canada.ca","issuer":"Let's Encrypt","from":"2026-04-21T18:04:15Z","to":"2026-07-20T18:04:14Z"}
