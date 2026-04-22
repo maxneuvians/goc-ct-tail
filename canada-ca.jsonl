@@ -18343,3 +18343,5 @@
 {"id":"14602581549","timestamp":"2026-04-21T19:37:17.085727213Z","domain":"csw.open.canada.ca","issuer":"Let's Encrypt","from":"2026-04-21T18:04:15Z","to":"2026-07-20T18:04:14Z"}
 {"id":"14602581549","timestamp":"2026-04-21T19:37:17.085727433Z","domain":"maps.canada.ca","issuer":"Let's Encrypt","from":"2026-04-21T18:04:15Z","to":"2026-07-20T18:04:14Z"}
 {"id":"14602581549","timestamp":"2026-04-21T19:37:17.085727524Z","domain":"www.maps.canada.ca","issuer":"Let's Encrypt","from":"2026-04-21T18:04:15Z","to":"2026-07-20T18:04:14Z"}
+{"id":"14605995519","timestamp":"2026-04-22T01:46:44.403998471Z","domain":"*.status.notification.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-22T00:00:00Z","to":"2026-11-05T23:59:59Z"}
+{"id":"14605995519","timestamp":"2026-04-22T01:46:44.403998801Z","domain":"status.notification.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-22T00:00:00Z","to":"2026-11-05T23:59:59Z"}
