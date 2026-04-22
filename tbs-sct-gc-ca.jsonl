@@ -1371,3 +1371,5 @@
 {"id":"14558352449","timestamp":"2026-04-18T05:14:14.591476506Z","domain":"aihorizon-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-18T03:02:33Z","to":"2026-07-17T03:02:32Z"}
 {"id":"14600446709","timestamp":"2026-04-21T15:56:15.257603877Z","domain":"tapx-claimsigner.uat.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-04-21T00:00:00Z","to":"2026-11-05T23:59:59Z"}
 {"id":"14612852894","timestamp":"2026-04-22T14:09:11.40158105Z","domain":"pbi-trd.prd.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-04-22T00:00:00Z","to":"2026-11-06T23:59:59Z"}
+{"id":"14615056822","timestamp":"2026-04-22T18:50:59.426472457Z","domain":"v3-sitefinity-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-22T16:50:45Z","to":"2026-07-21T16:50:44Z"}
+{"id":"14615127160","timestamp":"2026-04-22T18:50:59.426472837Z","domain":"v3-sitefinity-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-22T16:58:57Z","to":"2026-07-21T16:58:56Z"}
