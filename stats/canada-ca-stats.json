@@ -3881,6 +3881,14 @@
       "Let's Encrypt": 8,
       "Google Trust Services": 1,
       "Sectigo": 4
+    },
+    "2026-04-21": {
+      "Let's Encrypt": 12,
+      "Sectigo": 4,
+      "Amazon Trust Services": 3
+    },
+    "2026-04-22": {
+      "Amazon Trust Services": 2
     }
   },
   "errors": []

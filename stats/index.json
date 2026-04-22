@@ -38,15 +38,15 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 18326,
+      "totalCertificates": 18347,
       "totalsByIssuer": {
         "Entrust": 2525,
-        "Amazon Trust Services": 1420,
+        "Amazon Trust Services": 1425,
         "DigiCert": 809,
         "GoDaddy": 13,
-        "Let's Encrypt": 9817,
+        "Let's Encrypt": 9829,
         "Google Trust Services": 401,
-        "Sectigo": 1683,
+        "Sectigo": 1687,
         "SSL.com": 1658
       },
       "errorCount": 0
@@ -86,11 +86,11 @@
     {
       "inputFile": "cbsa-asfc-gc-ca.jsonl",
       "outputFile": "stats/cbsa-asfc-gc-ca-stats.json",
-      "totalCertificates": 232,
+      "totalCertificates": 233,
       "totalsByIssuer": {
         "Entrust": 113,
         "SSL.com": 71,
-        "Sectigo": 48
+        "Sectigo": 49
       },
       "errorCount": 0
     },
@@ -207,10 +207,10 @@
     {
       "inputFile": "cyber-gc-ca.jsonl",
       "outputFile": "stats/cyber-gc-ca-stats.json",
-      "totalCertificates": 921,
+      "totalCertificates": 932,
       "totalsByIssuer": {
         "Entrust": 200,
-        "Let's Encrypt": 577,
+        "Let's Encrypt": 588,
         "SSL.com": 46,
         "Sectigo": 98
       },
@@ -219,13 +219,13 @@
     {
       "inputFile": "dfo-mpo-gc-ca.jsonl",
       "outputFile": "stats/dfo-mpo-gc-ca-stats.json",
-      "totalCertificates": 1433,
+      "totalCertificates": 1437,
       "totalsByIssuer": {
         "Entrust": 332,
         "DigiCert": 60,
-        "Let's Encrypt": 523,
+        "Let's Encrypt": 526,
         "SSL.com": 341,
-        "Sectigo": 177
+        "Sectigo": 178
       },
       "errorCount": 0
     },
@@ -243,9 +243,9 @@
     {
       "inputFile": "forces-gc-ca.jsonl",
       "outputFile": "stats/forces-gc-ca-stats.json",
-      "totalCertificates": 2725,
+      "totalCertificates": 2731,
       "totalsByIssuer": {
-        "Amazon Trust Services": 787,
+        "Amazon Trust Services": 793,
         "Entrust": 249,
         "DigiCert": 48,
         "SSL.com": 120,
@@ -258,10 +258,10 @@
     {
       "inputFile": "gg-ca.jsonl",
       "outputFile": "stats/gg-ca-stats.json",
-      "totalCertificates": 72,
+      "totalCertificates": 74,
       "totalsByIssuer": {
         "GoDaddy": 12,
-        "Let's Encrypt": 60
+        "Let's Encrypt": 62
       },
       "errorCount": 0
     },
@@ -421,13 +421,13 @@
     {
       "inputFile": "nrcan-gc-ca.jsonl",
       "outputFile": "stats/nrcan-gc-ca-stats.json",
-      "totalCertificates": 21857,
+      "totalCertificates": 22032,
       "totalsByIssuer": {
         "Amazon Trust Services": 47,
         "Entrust": 460,
         "DigiCert": 30,
-        "Let's Encrypt": 8868,
-        "Sectigo": 12172,
+        "Let's Encrypt": 9007,
+        "Sectigo": 12208,
         "SSL.com": 280
       },
       "errorCount": 0
@@ -637,12 +637,12 @@
     {
       "inputFile": "tbs-sct-gc-ca.jsonl",
       "outputFile": "stats/tbs-sct-gc-ca-stats.json",
-      "totalCertificates": 1371,
+      "totalCertificates": 1372,
       "totalsByIssuer": {
         "Entrust": 166,
         "DigiCert": 514,
         "SSL.com": 79,
-        "Sectigo": 140,
+        "Sectigo": 141,
         "Let's Encrypt": 472
       },
       "errorCount": 0
@@ -687,12 +687,12 @@
     {
       "inputFile": "veterans-gc-ca.jsonl",
       "outputFile": "stats/veterans-gc-ca-stats.json",
-      "totalCertificates": 826,
+      "totalCertificates": 829,
       "totalsByIssuer": {
         "Amazon Trust Services": 24,
         "Entrust": 22,
         "GoDaddy": 1,
-        "Let's Encrypt": 769,
+        "Let's Encrypt": 772,
         "Sectigo": 9,
         "DigiCert": 1
       },
@@ -711,10 +711,10 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 4511,
-    "Let's Encrypt": 26587,
+    "Amazon Trust Services": 4522,
+    "Let's Encrypt": 26757,
     "SSL.com": 6251,
-    "Sectigo": 18335,
+    "Sectigo": 18378,
     "DigiCert": 2591,
     "GoDaddy": 85,
     "Google Trust Services": 834,
