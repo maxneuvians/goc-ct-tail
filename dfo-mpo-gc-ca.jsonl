@@ -1435,3 +1435,5 @@
 {"id":"14601573097","timestamp":"2026-04-21T17:39:19.819565868Z","domain":"api.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-04-21T16:14:28Z","to":"2026-07-20T16:14:27Z"}
 {"id":"14603050146","timestamp":"2026-04-21T20:35:01.604319746Z","domain":"test.recfish-pechesportive.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2026-04-21T00:00:00Z","to":"2026-07-20T23:59:59Z"}
 {"id":"14603371495","timestamp":"2026-04-21T21:33:18.566256014Z","domain":"prediction.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-04-21T19:33:13Z","to":"2026-07-20T19:33:12Z"}
+{"id":"14617381426","timestamp":"2026-04-22T22:34:05.197267133Z","domain":"wla.test.iwls.azure.cloud.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-04-22T21:19:24Z","to":"2026-07-21T21:19:23Z"}
+{"id":"14617381426","timestamp":"2026-04-22T22:34:05.197267433Z","domain":"wla.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-04-22T21:19:24Z","to":"2026-07-21T21:19:23Z"}
