@@ -18346,3 +18346,5 @@
 {"id":"14605995519","timestamp":"2026-04-22T01:46:44.403998471Z","domain":"*.status.notification.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-22T00:00:00Z","to":"2026-11-05T23:59:59Z"}
 {"id":"14605995519","timestamp":"2026-04-22T01:46:44.403998801Z","domain":"status.notification.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-22T00:00:00Z","to":"2026-11-05T23:59:59Z"}
 {"id":"14608813755","timestamp":"2026-04-22T06:51:46.058918163Z","domain":"surfsense.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-22T05:26:04Z","to":"2026-07-21T05:26:03Z"}
+{"id":"14614698979","timestamp":"2026-04-22T17:31:06.235582292Z","domain":"www147.canafe-fintrac.canada.ca","issuer":"Sectigo","from":"2026-04-22T00:00:00Z","to":"2026-11-06T23:59:59Z"}
+{"id":"14614698979","timestamp":"2026-04-22T17:31:06.235582733Z","domain":"www147.fintrac-canafe.canada.ca","issuer":"Sectigo","from":"2026-04-22T00:00:00Z","to":"2026-11-06T23:59:59Z"}
