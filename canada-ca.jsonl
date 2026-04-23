@@ -18374,3 +18374,6 @@
 {"id":"14627224142","timestamp":"2026-04-23T17:41:42.226776199Z","domain":"*.acc.tc.canada.ca","issuer":"Sectigo","from":"2026-04-23T00:00:00Z","to":"2026-11-07T23:59:59Z"}
 {"id":"14627224142","timestamp":"2026-04-23T17:41:42.22677655Z","domain":"acc.tc.canada.ca","issuer":"Sectigo","from":"2026-04-23T00:00:00Z","to":"2026-11-07T23:59:59Z"}
 {"id":"14627634506","timestamp":"2026-04-23T18:37:35.729655056Z","domain":"uat.pdsp-appeals.canada.ca","issuer":"Sectigo","from":"2026-04-23T00:00:00Z","to":"2026-11-07T23:59:59Z"}
+{"id":"14627724951","timestamp":"2026-04-23T19:38:53.97532056Z","domain":"appels-rsdp.canada.ca","issuer":"Sectigo","from":"2026-04-23T00:00:00Z","to":"2026-11-07T23:59:59Z"}
+{"id":"14627724951","timestamp":"2026-04-23T19:38:53.975320861Z","domain":"pdsp-appeals.canada.ca","issuer":"Sectigo","from":"2026-04-23T00:00:00Z","to":"2026-11-07T23:59:59Z"}
+{"id":"14628199154","timestamp":"2026-04-23T19:38:53.975321051Z","domain":"portal.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-23T18:27:57Z","to":"2026-07-22T18:27:56Z"}
