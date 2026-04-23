@@ -18350,3 +18350,7 @@
 {"id":"14614698979","timestamp":"2026-04-22T17:31:06.235582733Z","domain":"www147.fintrac-canafe.canada.ca","issuer":"Sectigo","from":"2026-04-22T00:00:00Z","to":"2026-11-06T23:59:59Z"}
 {"id":"14616005311","timestamp":"2026-04-22T20:29:56.958084322Z","domain":"*.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-22T18:45:06Z","to":"2026-07-21T18:45:05Z"}
 {"id":"14616005311","timestamp":"2026-04-22T20:29:56.958084733Z","domain":"*.ssc.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-22T18:45:06Z","to":"2026-07-21T18:45:05Z"}
+{"id":"14621898488","timestamp":"2026-04-23T07:45:44.753970698Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-23T06:24:32Z","to":"2026-07-22T06:24:31Z"}
+{"id":"14621898488","timestamp":"2026-04-23T07:45:44.753971319Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-23T06:24:32Z","to":"2026-07-22T06:24:31Z"}
+{"id":"14621934032","timestamp":"2026-04-23T07:45:44.75397156Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-23T06:29:10Z","to":"2026-07-22T06:29:09Z"}
+{"id":"14621934032","timestamp":"2026-04-23T07:45:44.75397182Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-23T06:29:10Z","to":"2026-07-22T06:29:09Z"}
