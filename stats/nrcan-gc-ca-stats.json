@@ -1565,8 +1565,11 @@
       "Let's Encrypt": 35
     },
     "2026-04-22": {
-      "Let's Encrypt": 104,
-      "Sectigo": 36
+      "Let's Encrypt": 161,
+      "Sectigo": 440
+    },
+    "2026-04-23": {
+      "Sectigo": 4
     }
   },
   "errors": []
