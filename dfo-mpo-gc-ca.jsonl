@@ -1441,3 +1441,6 @@
 {"id":"14639666602","timestamp":"2026-04-24T17:37:27.6387532Z","domain":"grafana.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-04-24T16:13:08Z","to":"2026-07-23T16:13:07Z"}
 {"id":"14639674361","timestamp":"2026-04-24T17:37:27.638753681Z","domain":"prometheus.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-04-24T16:13:31Z","to":"2026-07-23T16:13:30Z"}
 {"id":"14639795272","timestamp":"2026-04-24T17:37:27.638753961Z","domain":"argocd.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-04-24T16:26:57Z","to":"2026-07-23T16:26:56Z"}
+{"id":"14640047328","timestamp":"2026-04-24T18:32:42.936869142Z","domain":"cnodc-cndoc.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2026-04-24T00:00:00Z","to":"2026-11-08T23:59:59Z"}
+{"id":"14640047328","timestamp":"2026-04-24T18:32:42.936869603Z","domain":"cnodc-cndoc.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2026-04-24T00:00:00Z","to":"2026-11-08T23:59:59Z"}
+{"id":"14640047328","timestamp":"2026-04-24T18:32:42.936869863Z","domain":"www.cnodc-cndoc.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2026-04-24T00:00:00Z","to":"2026-11-08T23:59:59Z"}
