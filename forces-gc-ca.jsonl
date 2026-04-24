@@ -2744,3 +2744,11 @@
 {"id":"14628386825","timestamp":"2026-04-23T20:30:27.145374121Z","domain":"athenalite.rcaf-athena-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-23T00:00:00Z","to":"2026-11-06T23:59:59Z"}
 {"id":"14628386825","timestamp":"2026-04-23T20:30:27.145374622Z","domain":"athenapro.rcaf-athena-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-23T00:00:00Z","to":"2026-11-06T23:59:59Z"}
 {"id":"14628386825","timestamp":"2026-04-23T20:30:27.145374873Z","domain":"auth.athenapro.rcaf-athena-staging.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-23T00:00:00Z","to":"2026-11-06T23:59:59Z"}
+{"id":"14639242373","timestamp":"2026-04-24T17:29:48.699325928Z","domain":"api.trg1.smms-sta.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-24T00:00:00Z","to":"2026-11-07T23:59:59Z"}
+{"id":"14639242373","timestamp":"2026-04-24T17:29:48.699326389Z","domain":"api.trg2.smms-sta.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-24T00:00:00Z","to":"2026-11-07T23:59:59Z"}
+{"id":"14639242373","timestamp":"2026-04-24T17:29:48.69932712Z","domain":"trg1.smms-sta.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-24T00:00:00Z","to":"2026-11-07T23:59:59Z"}
+{"id":"14639242373","timestamp":"2026-04-24T17:29:48.699327411Z","domain":"trg2.smms-sta.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-24T00:00:00Z","to":"2026-11-07T23:59:59Z"}
+{"id":"14639242373","timestamp":"2026-04-24T17:29:48.699327511Z","domain":"ws.trg1.smms-sta.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-24T00:00:00Z","to":"2026-11-07T23:59:59Z"}
+{"id":"14639242373","timestamp":"2026-04-24T17:29:48.699328783Z","domain":"ws.trg2.smms-sta.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-24T00:00:00Z","to":"2026-11-07T23:59:59Z"}
+{"id":"14639711092","timestamp":"2026-04-24T17:29:48.699328914Z","domain":"tidedev-flowtime.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-04-24T00:00:00Z","to":"2026-11-08T23:59:59Z"}
+{"id":"14639721305","timestamp":"2026-04-24T17:29:48.699329024Z","domain":"tidedev-sasweb.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-04-24T00:00:00Z","to":"2026-11-08T23:59:59Z"}
