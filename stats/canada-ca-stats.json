@@ -3891,6 +3891,12 @@
       "Amazon Trust Services": 2,
       "Let's Encrypt": 3,
       "Sectigo": 2
+    },
+    "2026-04-23": {
+      "Let's Encrypt": 8,
+      "Amazon Trust Services": 12,
+      "Sectigo": 8,
+      "DigiCert": 1
     }
   },
   "errors": []
