@@ -18392,3 +18392,5 @@
 {"id":"14646465824","timestamp":"2026-04-25T05:45:46.150537359Z","domain":"space-weather.canada.ca","issuer":"Sectigo","from":"2026-04-25T00:00:00Z","to":"2026-07-24T23:59:59Z"}
 {"id":"14648046387","timestamp":"2026-04-25T09:29:07.267646681Z","domain":"backstage.mgmt.as49lw.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-04-25T07:32:16Z","to":"2026-07-24T08:26:09Z"}
 {"id":"14650396071","timestamp":"2026-04-25T14:25:20.926040037Z","domain":"connect.canada.ca","issuer":"Let's Encrypt","from":"2026-04-25T12:35:49Z","to":"2026-07-24T12:35:48Z"}
+{"id":"14650901112","timestamp":"2026-04-25T15:24:35.677863692Z","domain":"flood-risk-portal.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2026-04-25T13:38:35Z","to":"2026-07-24T13:38:34Z"}
+{"id":"14650901112","timestamp":"2026-04-25T15:24:35.677864333Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-04-25T13:38:35Z","to":"2026-07-24T13:38:34Z"}
