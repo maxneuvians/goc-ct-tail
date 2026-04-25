@@ -18387,3 +18387,6 @@
 {"id":"14645307348","timestamp":"2026-04-25T04:59:12.271222116Z","domain":"gcco-asset-viewer.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-25T02:27:03Z","to":"2026-07-24T02:27:02Z"}
 {"id":"14645308461","timestamp":"2026-04-25T04:59:12.271222537Z","domain":"portal-dev.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-25T02:27:13Z","to":"2026-07-24T02:27:12Z"}
 {"id":"14645966910","timestamp":"2026-04-25T04:59:12.271222767Z","domain":"incident-forwarder.mgmt.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-04-25T03:33:28Z","to":"2026-07-24T04:29:23Z"}
+{"id":"14646132453","timestamp":"2026-04-25T05:45:46.150536567Z","domain":"dol-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-04-25T03:53:46Z","to":"2026-07-24T03:53:45Z"}
+{"id":"14646465824","timestamp":"2026-04-25T05:45:46.150537108Z","domain":"meteo-spatiale.canada.ca","issuer":"Sectigo","from":"2026-04-25T00:00:00Z","to":"2026-07-24T23:59:59Z"}
+{"id":"14646465824","timestamp":"2026-04-25T05:45:46.150537359Z","domain":"space-weather.canada.ca","issuer":"Sectigo","from":"2026-04-25T00:00:00Z","to":"2026-07-24T23:59:59Z"}
