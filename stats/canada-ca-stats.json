@@ -3903,8 +3903,12 @@
       "Sectigo": 2
     },
     "2026-04-25": {
-      "Let's Encrypt": 2,
-      "Google Trust Services": 1
+      "Let's Encrypt": 9,
+      "Google Trust Services": 2,
+      "Sectigo": 2
+    },
+    "2026-04-26": {
+      "Let's Encrypt": 1
     }
   },
   "errors": []
