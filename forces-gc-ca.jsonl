@@ -2753,3 +2753,7 @@
 {"id":"14639711092","timestamp":"2026-04-24T17:29:48.699328914Z","domain":"tidedev-flowtime.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-04-24T00:00:00Z","to":"2026-11-08T23:59:59Z"}
 {"id":"14639721305","timestamp":"2026-04-24T17:29:48.699329024Z","domain":"tidedev-sasweb.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-04-24T00:00:00Z","to":"2026-11-08T23:59:59Z"}
 {"id":"14654042576","timestamp":"2026-04-25T22:19:32.72465596Z","domain":"portal-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2026-04-25T20:19:48Z","to":"2026-07-24T21:14:22Z"}
+{"id":"14655206441","timestamp":"2026-04-26T01:05:12.237354929Z","domain":"*.caf.tak-test.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-04-25T23:02:40Z","to":"2026-07-24T23:02:39Z"}
+{"id":"14655206441","timestamp":"2026-04-26T01:05:12.237355386Z","domain":"*.tak-test.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-04-25T23:02:40Z","to":"2026-07-24T23:02:39Z"}
+{"id":"14655214836","timestamp":"2026-04-26T01:05:12.237355653Z","domain":"*.sandbox.tak-dev.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-04-25T23:03:07Z","to":"2026-07-24T23:03:06Z"}
+{"id":"14655214836","timestamp":"2026-04-26T01:05:12.237357482Z","domain":"*.tak-dev.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-04-25T23:03:07Z","to":"2026-07-24T23:03:06Z"}
