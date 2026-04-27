@@ -2757,3 +2757,11 @@
 {"id":"14655206441","timestamp":"2026-04-26T01:05:12.237355386Z","domain":"*.tak-test.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-04-25T23:02:40Z","to":"2026-07-24T23:02:39Z"}
 {"id":"14655214836","timestamp":"2026-04-26T01:05:12.237355653Z","domain":"*.sandbox.tak-dev.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-04-25T23:03:07Z","to":"2026-07-24T23:03:06Z"}
 {"id":"14655214836","timestamp":"2026-04-26T01:05:12.237357482Z","domain":"*.tak-dev.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-04-25T23:03:07Z","to":"2026-07-24T23:03:06Z"}
+{"id":"14676041588","timestamp":"2026-04-27T16:44:19.797535905Z","domain":"dgp-pgd-staging.forces.gc.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14676041588","timestamp":"2026-04-27T16:44:19.797536266Z","domain":"dgp-pgd-staging.mce-scarto.mil.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14676041588","timestamp":"2026-04-27T16:44:19.797536486Z","domain":"mce-gws-por01-s.mce.mil.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14676041588","timestamp":"2026-04-27T16:44:19.797536726Z","domain":"mce-gws-web01-s.mce.mil.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14676052582","timestamp":"2026-04-27T16:44:19.797536836Z","domain":"dgp-pgd.forces.gc.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14676052582","timestamp":"2026-04-27T16:44:19.797537428Z","domain":"dgp-pgd.mce-scarto.mil.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14676052582","timestamp":"2026-04-27T16:44:19.797537929Z","domain":"mce-gws-por01-p.mce.mil.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14676052582","timestamp":"2026-04-27T16:44:19.797538009Z","domain":"mce-gws-web01-p.mce.mil.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
