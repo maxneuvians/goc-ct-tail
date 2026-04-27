@@ -18401,3 +18401,5 @@
 {"id":"14660349551","timestamp":"2026-04-26T11:24:29.246341526Z","domain":"command-a.dev.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-26T10:14:56Z","to":"2026-07-25T10:14:55Z"}
 {"id":"14661458776","timestamp":"2026-04-26T14:25:21.099465885Z","domain":"test1.aurora.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-26T12:40:03Z","to":"2026-07-25T12:40:02Z"}
 {"id":"14661892862","timestamp":"2026-04-26T15:25:23.045318624Z","domain":"test1.aurora.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-26T13:35:15Z","to":"2026-07-25T13:35:14Z"}
+{"id":"14667074399","timestamp":"2026-04-27T01:05:21.400826162Z","domain":"*.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-04-27T00:01:47Z","to":"2026-07-26T00:01:46Z"}
+{"id":"14667074399","timestamp":"2026-04-27T01:05:21.400826478Z","domain":"tc.canada.ca","issuer":"Let's Encrypt","from":"2026-04-27T00:01:47Z","to":"2026-07-26T00:01:46Z"}
