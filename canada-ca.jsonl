@@ -18404,3 +18404,5 @@
 {"id":"14667074399","timestamp":"2026-04-27T01:05:21.400826162Z","domain":"*.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-04-27T00:01:47Z","to":"2026-07-26T00:01:46Z"}
 {"id":"14667074399","timestamp":"2026-04-27T01:05:21.400826478Z","domain":"tc.canada.ca","issuer":"Let's Encrypt","from":"2026-04-27T00:01:47Z","to":"2026-07-26T00:01:46Z"}
 {"id":"14668113992","timestamp":"2026-04-27T03:19:15.515695929Z","domain":"kubeflow.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-27T01:51:30Z","to":"2026-07-26T01:51:29Z"}
+{"id":"14668872868","timestamp":"2026-04-27T05:16:30.941461734Z","domain":"diffusion-cnrc.canada.ca","issuer":"Let's Encrypt","from":"2026-04-27T03:22:04Z","to":"2026-07-26T03:22:03Z"}
+{"id":"14668873035","timestamp":"2026-04-27T05:16:30.941462195Z","domain":"outreach-nrc.canada.ca","issuer":"Let's Encrypt","from":"2026-04-27T03:22:07Z","to":"2026-07-26T03:22:06Z"}
