@@ -940,3 +940,11 @@
 {"id":"14674773136","timestamp":"2026-04-27T15:13:44.827721056Z","domain":"mail.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T13:19:52Z","to":"2026-07-26T13:19:51Z"}
 {"id":"14674773136","timestamp":"2026-04-27T15:13:44.827721447Z","domain":"mail.sensor.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T13:19:52Z","to":"2026-07-26T13:19:51Z"}
 {"id":"14674773136","timestamp":"2026-04-27T15:13:44.827721698Z","domain":"onprem.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T13:19:52Z","to":"2026-07-26T13:19:51Z"}
+{"id":"14679412935","timestamp":"2026-04-27T22:47:49.609968463Z","domain":"*.aventail.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14679412935","timestamp":"2026-04-27T22:47:49.609969024Z","domain":"aventail.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14679412935","timestamp":"2026-04-27T22:47:49.609969214Z","domain":"catapult.ops.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14679412935","timestamp":"2026-04-27T22:47:49.609969435Z","domain":"misp.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14679412935","timestamp":"2026-04-27T22:47:49.609969525Z","domain":"services.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14679412935","timestamp":"2026-04-27T22:47:49.609970397Z","domain":"taxii.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14679412935","timestamp":"2026-04-27T22:47:49.609970477Z","domain":"*.u.aventail.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14679439457","timestamp":"2026-04-27T22:47:49.609970567Z","domain":"aventail.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-07-26T23:59:59Z"}
