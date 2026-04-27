@@ -362,3 +362,11 @@
 {"id":"14154210126","timestamp":"2026-03-16T16:14:52.929317748Z","domain":"ets-smtp-relay.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-03-16T00:00:00Z","to":"2026-09-30T23:59:59Z"}
 {"id":"14154210126","timestamp":"2026-03-16T16:14:52.929318048Z","domain":"ets-smtp-relaylb.cse-cst.gc.ca","issuer":"Sectigo","from":"2026-03-16T00:00:00Z","to":"2026-09-30T23:59:59Z"}
 {"id":"14640313453","timestamp":"2026-04-24T19:11:37.903771949Z","domain":"akhq.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-04-24T17:25:09Z","to":"2026-07-23T17:25:08Z"}
+{"id":"14674571203","timestamp":"2026-04-27T14:33:25.112912758Z","domain":"akhq.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T13:00:01Z","to":"2026-07-26T13:00:00Z"}
+{"id":"14674650121","timestamp":"2026-04-27T14:33:25.112913078Z","domain":"*.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T13:06:43Z","to":"2026-07-26T13:06:42Z"}
+{"id":"14674679811","timestamp":"2026-04-27T14:33:25.112913248Z","domain":"temporal.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T13:10:37Z","to":"2026-07-26T13:10:36Z"}
+{"id":"14674679811","timestamp":"2026-04-27T14:33:25.112913419Z","domain":"temporal-codec.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T13:10:37Z","to":"2026-07-26T13:10:36Z"}
+{"id":"14674684632","timestamp":"2026-04-27T14:33:25.112913519Z","domain":"tenant-id-enricher.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T13:10:22Z","to":"2026-07-26T13:10:21Z"}
+{"id":"14674775101","timestamp":"2026-04-27T14:33:25.11291412Z","domain":"argocd.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T13:20:05Z","to":"2026-07-26T13:20:04Z"}
+{"id":"14674779420","timestamp":"2026-04-27T14:33:25.1129142Z","domain":"deployment-manager.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T13:20:17Z","to":"2026-07-26T13:20:16Z"}
+{"id":"14674781200","timestamp":"2026-04-27T14:33:25.11291427Z","domain":"loki.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T13:20:29Z","to":"2026-07-26T13:20:28Z"}
