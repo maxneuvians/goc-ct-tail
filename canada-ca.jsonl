@@ -18414,3 +18414,5 @@
 {"id":"14674304287","timestamp":"2026-04-27T13:45:56.334416427Z","domain":"blog.alpha.service.canada.ca","issuer":"Let's Encrypt","from":"2026-04-27T12:32:37Z","to":"2026-07-26T12:32:36Z"}
 {"id":"14676966609","timestamp":"2026-04-27T18:39:53.379968928Z","domain":"*.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-10-30T23:59:59Z"}
 {"id":"14676966609","timestamp":"2026-04-27T18:39:53.379969188Z","domain":"dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"14677806703","timestamp":"2026-04-27T19:43:35.331816722Z","domain":"*.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-10-30T23:59:59Z"}
+{"id":"14677806703","timestamp":"2026-04-27T19:43:35.331820729Z","domain":"test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-10-30T23:59:59Z"}
