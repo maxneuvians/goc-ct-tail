@@ -18417,3 +18417,4 @@
 {"id":"14677806703","timestamp":"2026-04-27T19:43:35.331816722Z","domain":"*.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-10-30T23:59:59Z"}
 {"id":"14677806703","timestamp":"2026-04-27T19:43:35.331820729Z","domain":"test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-10-30T23:59:59Z"}
 {"id":"14678710911","timestamp":"2026-04-27T21:31:30.170647898Z","domain":"tagapp.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-27T00:00:00Z","to":"2026-11-10T23:59:59Z"}
+{"id":"14680022695","timestamp":"2026-04-27T23:28:41.767181008Z","domain":"kubernetes-dashboard-dev.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-04-27T21:58:39Z","to":"2026-07-26T21:58:38Z"}
