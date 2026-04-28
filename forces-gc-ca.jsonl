@@ -2766,3 +2766,15 @@
 {"id":"14676052582","timestamp":"2026-04-27T16:44:19.797537929Z","domain":"mce-gws-por01-p.mce.mil.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
 {"id":"14676052582","timestamp":"2026-04-27T16:44:19.797538009Z","domain":"mce-gws-web01-p.mce.mil.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
 {"id":"14689644512","timestamp":"2026-04-28T15:58:06.353568802Z","domain":"tideqa-sasweb.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-04-28T00:00:00Z","to":"2026-11-12T23:59:59Z"}
+{"id":"14691238884","timestamp":"2026-04-28T18:44:16.005860054Z","domain":"*.tak-dev.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14691238884","timestamp":"2026-04-28T18:44:16.005860696Z","domain":"tak-dev.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14691241997","timestamp":"2026-04-28T18:44:16.005860986Z","domain":"*.betak.tools.tak-dev.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14691241997","timestamp":"2026-04-28T18:44:16.005861718Z","domain":"betak.tools.tak-dev.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14691242510","timestamp":"2026-04-28T18:44:16.005861838Z","domain":"*.betak.tools.betak.tools.tak-dev.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14691242510","timestamp":"2026-04-28T18:44:16.00586308Z","domain":"betak.tools.betak.tools.tak-dev.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14691242510","timestamp":"2026-04-28T18:44:16.00586317Z","domain":"*.tools.betak.tools.tak-dev.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14691242510","timestamp":"2026-04-28T18:44:16.00586327Z","domain":"tools.betak.tools.tak-dev.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14691245840","timestamp":"2026-04-28T18:44:16.00586337Z","domain":"*.betak.tools.tak-dev.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14691245840","timestamp":"2026-04-28T18:44:16.005864573Z","domain":"betak.tools.tak-dev.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14691245840","timestamp":"2026-04-28T18:44:16.005864673Z","domain":"*.tools.tak-dev.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14691245840","timestamp":"2026-04-28T18:44:16.005864773Z","domain":"tools.tak-dev.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
