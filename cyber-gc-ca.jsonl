@@ -948,3 +948,6 @@
 {"id":"14679412935","timestamp":"2026-04-27T22:47:49.609970397Z","domain":"taxii.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
 {"id":"14679412935","timestamp":"2026-04-27T22:47:49.609970477Z","domain":"*.u.aventail.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-11-11T23:59:59Z"}
 {"id":"14679439457","timestamp":"2026-04-27T22:47:49.609970567Z","domain":"aventail.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-27T00:00:00Z","to":"2026-07-26T23:59:59Z"}
+{"id":"14682079791","timestamp":"2026-04-28T02:20:18.452695032Z","domain":"*.aventail-gov.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-28T00:00:00Z","to":"2026-11-12T23:59:59Z"}
+{"id":"14682079791","timestamp":"2026-04-28T02:20:18.452695864Z","domain":"aventail-gov.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-28T00:00:00Z","to":"2026-11-12T23:59:59Z"}
+{"id":"14682079791","timestamp":"2026-04-28T02:20:18.452696763Z","domain":"taxii-pb.cyber.gc.ca","issuer":"Sectigo","from":"2026-04-28T00:00:00Z","to":"2026-11-12T23:59:59Z"}
