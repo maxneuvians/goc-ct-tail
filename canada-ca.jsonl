@@ -18422,3 +18422,7 @@
 {"id":"14683974575","timestamp":"2026-04-28T07:09:15.880597819Z","domain":"bondroom-salleregistre-qa.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
 {"id":"14684515884","timestamp":"2026-04-28T07:09:15.88059842Z","domain":"bondroom-salleregistre-rc.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
 {"id":"14684593969","timestamp":"2026-04-28T07:09:15.880598771Z","domain":"bondroom-salleregistre.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-28T00:00:00Z","to":"2026-11-11T23:59:59Z"}
+{"id":"14685109447","timestamp":"2026-04-28T07:55:25.669536856Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-28T06:24:34Z","to":"2026-07-27T06:24:33Z"}
+{"id":"14685109447","timestamp":"2026-04-28T07:55:25.669537127Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-28T06:24:34Z","to":"2026-07-27T06:24:33Z"}
+{"id":"14685161575","timestamp":"2026-04-28T07:55:25.669537297Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-28T06:29:06Z","to":"2026-07-27T06:29:05Z"}
+{"id":"14685161575","timestamp":"2026-04-28T07:55:25.669537427Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-28T06:29:06Z","to":"2026-07-27T06:29:05Z"}
