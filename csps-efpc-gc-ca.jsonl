@@ -460,3 +460,5 @@
 {"id":"14331010855","timestamp":"2026-03-31T21:55:13.17277013Z","domain":"esb2-dev.csps-efpc.gc.ca","issuer":"Sectigo","from":"2026-03-31T00:00:00Z","to":"2026-10-15T23:59:59Z"}
 {"id":"14353323101","timestamp":"2026-04-02T15:02:12.585478568Z","domain":"csps-efpc.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-07-01T23:59:59Z"}
 {"id":"14627956123","timestamp":"2026-04-23T20:03:25.386023404Z","domain":"survey-sondage.csps-efpc.gc.ca","issuer":"Let's Encrypt","from":"2026-04-23T18:00:25Z","to":"2026-07-22T18:00:24Z"}
+{"id":"14690252556","timestamp":"2026-04-28T16:20:50.936202466Z","domain":"intranet.csps-efpc.gc.ca","issuer":"Sectigo","from":"2026-04-28T00:00:00Z","to":"2026-11-12T23:59:59Z"}
+{"id":"14690252556","timestamp":"2026-04-28T16:20:50.93620511Z","domain":"www.intranet.csps-efpc.gc.ca","issuer":"Sectigo","from":"2026-04-28T00:00:00Z","to":"2026-11-12T23:59:59Z"}
