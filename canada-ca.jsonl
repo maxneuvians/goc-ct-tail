@@ -18426,3 +18426,12 @@
 {"id":"14685109447","timestamp":"2026-04-28T07:55:25.669537127Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-28T06:24:34Z","to":"2026-07-27T06:24:33Z"}
 {"id":"14685161575","timestamp":"2026-04-28T07:55:25.669537297Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-28T06:29:06Z","to":"2026-07-27T06:29:05Z"}
 {"id":"14685161575","timestamp":"2026-04-28T07:55:25.669537427Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-28T06:29:06Z","to":"2026-07-27T06:29:05Z"}
+{"id":"14688451755","timestamp":"2026-04-28T15:58:05.280861109Z","domain":"www.cloudopsportal.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-28T12:14:45Z","to":"2026-07-27T12:14:44Z"}
+{"id":"14688516967","timestamp":"2026-04-28T15:58:05.28086175Z","domain":"api.cloudopsportal.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-28T12:21:46Z","to":"2026-07-27T12:21:45Z"}
+{"id":"14688654691","timestamp":"2026-04-28T15:58:05.280861981Z","domain":"aimms-sgima.dev.tc.canada.ca","issuer":"Sectigo","from":"2026-04-28T00:00:00Z","to":"2026-11-12T23:59:59Z"}
+{"id":"14688714897","timestamp":"2026-04-28T15:58:05.280862211Z","domain":"aimms-sgima.train.tc.canada.ca","issuer":"Sectigo","from":"2026-04-28T00:00:00Z","to":"2026-11-12T23:59:59Z"}
+{"id":"14689070042","timestamp":"2026-04-28T15:58:05.280862321Z","domain":"training-pws-core.neics-nscei.canada.ca","issuer":"Sectigo","from":"2026-04-28T00:00:00Z","to":"2026-11-12T23:59:59Z"}
+{"id":"14689173197","timestamp":"2026-04-28T15:58:05.280863493Z","domain":"training-pwsclient-core.neics-nscei.canada.ca","issuer":"Sectigo","from":"2026-04-28T00:00:00Z","to":"2026-11-12T23:59:59Z"}
+{"id":"14689625362","timestamp":"2026-04-28T15:58:05.280863583Z","domain":"*.sbx.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-28T14:12:47Z","to":"2026-07-27T14:12:46Z"}
+{"id":"14689851674","timestamp":"2026-04-28T15:58:05.280863663Z","domain":"*.sbx.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-28T14:34:24Z","to":"2026-07-27T14:34:23Z"}
+{"id":"14689921233","timestamp":"2026-04-28T15:58:05.280863753Z","domain":"*.sbx.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-28T14:42:05Z","to":"2026-07-27T14:42:04Z"}
