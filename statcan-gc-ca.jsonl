@@ -1161,3 +1161,8 @@
 {"id":"14684738035","timestamp":"2026-04-28T07:21:28.870111932Z","domain":"cmp-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-28T05:45:32Z","to":"2026-07-27T05:45:31Z"}
 {"id":"14684738035","timestamp":"2026-04-28T07:21:28.870113074Z","domain":"cmp.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-28T05:45:32Z","to":"2026-07-27T05:45:31Z"}
 {"id":"14684738035","timestamp":"2026-04-28T07:21:28.870113165Z","domain":"pgc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-28T05:45:32Z","to":"2026-07-27T05:45:31Z"}
+{"id":"14688971647","timestamp":"2026-04-28T14:16:56.461429603Z","domain":"cmp-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-28T13:07:29Z","to":"2026-07-27T13:07:28Z"}
+{"id":"14688971647","timestamp":"2026-04-28T14:16:56.461430475Z","domain":"cmp.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-28T13:07:29Z","to":"2026-07-27T13:07:28Z"}
+{"id":"14688971647","timestamp":"2026-04-28T14:16:56.461430755Z","domain":"pgc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-28T13:07:29Z","to":"2026-07-27T13:07:28Z"}
+{"id":"14688973313","timestamp":"2026-04-28T14:16:56.461431046Z","domain":"interviewer-intervieweur-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-28T13:07:29Z","to":"2026-07-27T13:07:28Z"}
+{"id":"14688973313","timestamp":"2026-04-28T14:16:56.461431166Z","domain":"interviewer-intervieweur.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-04-28T13:07:29Z","to":"2026-07-27T13:07:28Z"}
