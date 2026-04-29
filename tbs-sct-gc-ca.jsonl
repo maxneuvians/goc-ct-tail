@@ -1376,3 +1376,5 @@
 {"id":"14615946047","timestamp":"2026-04-22T19:52:51.207533574Z","domain":"v3-sitefinity-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-22T18:37:50Z","to":"2026-07-21T18:37:49Z"}
 {"id":"14623815353","timestamp":"2026-04-23T11:49:20.566455623Z","domain":"uat-gcdocs.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-04-23T00:00:00Z","to":"2026-11-07T23:59:59Z"}
 {"id":"14701792651","timestamp":"2026-04-29T14:15:56.565599012Z","domain":"uat.wcf.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"14704136300","timestamp":"2026-04-29T17:59:48.626392518Z","domain":"talentcloud-pilot-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-29T16:43:11Z","to":"2026-07-28T16:43:10Z"}
+{"id":"14704184279","timestamp":"2026-04-29T17:59:48.626392919Z","domain":"talentcloud-pilot-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-29T16:50:01Z","to":"2026-07-28T16:50:00Z"}
