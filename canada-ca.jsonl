@@ -18439,3 +18439,5 @@
 {"id":"14691504159","timestamp":"2026-04-28T18:44:19.536732494Z","domain":"*.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-28T00:00:00Z","to":"2026-11-12T23:59:59Z"}
 {"id":"14691504159","timestamp":"2026-04-28T18:44:19.536732915Z","domain":"cbsa-asfc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-28T00:00:00Z","to":"2026-11-12T23:59:59Z"}
 {"id":"14696722871","timestamp":"2026-04-29T03:19:19.426681443Z","domain":"documentation.sds.canada.ca","issuer":"Let's Encrypt","from":"2026-04-29T02:08:19Z","to":"2026-07-28T02:08:18Z"}
+{"id":"14696944609","timestamp":"2026-04-29T05:17:03.746570693Z","domain":"cartes-dev.canada.ca","issuer":"Let's Encrypt","from":"2026-04-29T02:32:17Z","to":"2026-07-28T02:32:16Z"}
+{"id":"14696944609","timestamp":"2026-04-29T05:17:03.746571764Z","domain":"maps-dev.canada.ca","issuer":"Let's Encrypt","from":"2026-04-29T02:32:17Z","to":"2026-07-28T02:32:16Z"}
