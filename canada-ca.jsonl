@@ -18443,3 +18443,16 @@
 {"id":"14696944609","timestamp":"2026-04-29T05:17:03.746571764Z","domain":"maps-dev.canada.ca","issuer":"Let's Encrypt","from":"2026-04-29T02:32:17Z","to":"2026-07-28T02:32:16Z"}
 {"id":"14698859233","timestamp":"2026-04-29T07:50:44.01694201Z","domain":"ciqap.canada.ca","issuer":"Let's Encrypt","from":"2026-04-29T06:19:21Z","to":"2026-07-28T06:19:20Z"}
 {"id":"14698896888","timestamp":"2026-04-29T07:50:44.016942572Z","domain":"qasi.canada.ca","issuer":"Let's Encrypt","from":"2026-04-29T06:25:11Z","to":"2026-07-28T06:25:10Z"}
+{"id":"14700463760","timestamp":"2026-04-29T10:46:49.28178915Z","domain":"*.dev.g.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"14700463760","timestamp":"2026-04-29T10:46:49.28178947Z","domain":"*.g.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"14700463760","timestamp":"2026-04-29T10:46:49.28178964Z","domain":"g.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"14700463760","timestamp":"2026-04-29T10:46:49.281789811Z","domain":"*.int.g.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"14700463760","timestamp":"2026-04-29T10:46:49.281789891Z","domain":"*.intg.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"14700463760","timestamp":"2026-04-29T10:46:49.281790932Z","domain":"*.p3.dev.g.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"14700463760","timestamp":"2026-04-29T10:46:49.281791013Z","domain":"*.p3.g.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"14700463760","timestamp":"2026-04-29T10:46:49.281791083Z","domain":"*.p3.int.g.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"14700463760","timestamp":"2026-04-29T10:46:49.281791153Z","domain":"*.p6.dev.g.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"14700463760","timestamp":"2026-04-29T10:46:49.281792034Z","domain":"*.p6.g.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"14700463760","timestamp":"2026-04-29T10:46:49.281792104Z","domain":"*.p6.int.g.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"14700463760","timestamp":"2026-04-29T10:46:49.281792174Z","domain":"*.z.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"14700463760","timestamp":"2026-04-29T10:46:49.281792254Z","domain":"z.ent.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
