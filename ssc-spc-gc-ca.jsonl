@@ -1116,3 +1116,6 @@
 {"id":"14677517168","timestamp":"2026-04-27T19:43:33.779659809Z","domain":"supplier-fournisseur-preprod-sscp2pspc-ssc-spc.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T17:50:32Z","to":"2026-07-26T17:50:31Z"}
 {"id":"14677517168","timestamp":"2026-04-27T19:43:33.779659889Z","domain":"supplier-fournisseur-preprod-sscp2pspc.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T17:50:32Z","to":"2026-07-26T17:50:31Z"}
 {"id":"14694963004","timestamp":"2026-04-29T01:07:06.461615339Z","domain":"campus.ssc-spc.gc.ca","issuer":"Amazon Trust Services","from":"2026-04-29T00:00:00Z","to":"2026-11-12T23:59:59Z"}
+{"id":"14715489960","timestamp":"2026-04-30T16:42:03.095324242Z","domain":"bpc-pac-qa.ssc-spc.gc.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"14715515288","timestamp":"2026-04-30T16:42:03.095324543Z","domain":"bpc-pac.ssc-spc.gc.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"14715555898","timestamp":"2026-04-30T16:42:03.095324794Z","domain":"bpc-pac-dev.ssc-spc.gc.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
