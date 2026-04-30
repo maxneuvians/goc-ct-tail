@@ -18472,3 +18472,7 @@
 {"id":"14710410667","timestamp":"2026-04-30T07:06:45.626882465Z","domain":"canchat.uat.ibm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-30T05:14:00Z","to":"2026-07-29T05:13:59Z"}
 {"id":"14710468344","timestamp":"2026-04-30T07:06:45.626882856Z","domain":"canchat.dev.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-30T05:21:16Z","to":"2026-07-29T05:21:15Z"}
 {"id":"14710561086","timestamp":"2026-04-30T07:06:45.626883627Z","domain":"canchat.uat.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-30T05:33:14Z","to":"2026-07-29T05:33:13Z"}
+{"id":"14710982305","timestamp":"2026-04-30T07:53:34.053897038Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-30T06:24:28Z","to":"2026-07-29T06:24:27Z"}
+{"id":"14710982305","timestamp":"2026-04-30T07:53:34.053897389Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-30T06:24:28Z","to":"2026-07-29T06:24:27Z"}
+{"id":"14711017697","timestamp":"2026-04-30T07:53:34.053897659Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-30T06:29:05Z","to":"2026-07-29T06:29:04Z"}
+{"id":"14711017697","timestamp":"2026-04-30T07:53:34.053897829Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-04-30T06:29:05Z","to":"2026-07-29T06:29:04Z"}
