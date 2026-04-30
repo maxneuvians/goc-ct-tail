@@ -18505,3 +18505,4 @@
 {"id":"14716264547","timestamp":"2026-04-30T17:40:46.66528442Z","domain":"auth.dev.login-connexion.alpha.canada.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
 {"id":"14716463301","timestamp":"2026-04-30T18:42:19.188438922Z","domain":"travel-voyage.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-30T00:00:00Z","to":"2026-11-13T23:59:59Z"}
 {"id":"14716673709","timestamp":"2026-04-30T18:42:19.188439633Z","domain":"auth.test.login-connexion.alpha.canada.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"14718008587","timestamp":"2026-04-30T21:31:00.13630582Z","domain":"*.sbx.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-30T19:38:14Z","to":"2026-07-29T19:38:13Z"}
