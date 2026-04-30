@@ -18503,3 +18503,5 @@
 {"id":"14715469861","timestamp":"2026-04-30T16:42:04.133349872Z","domain":"*.aurora.ssc-dev-fin-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-30T15:06:19Z","to":"2026-07-29T15:06:18Z"}
 {"id":"14715469861","timestamp":"2026-04-30T16:42:04.133350583Z","domain":"*.ssc-dev-fin-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-04-30T15:06:19Z","to":"2026-07-29T15:06:18Z"}
 {"id":"14716264547","timestamp":"2026-04-30T17:40:46.66528442Z","domain":"auth.dev.login-connexion.alpha.canada.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"14716463301","timestamp":"2026-04-30T18:42:19.188438922Z","domain":"travel-voyage.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-04-30T00:00:00Z","to":"2026-11-13T23:59:59Z"}
+{"id":"14716673709","timestamp":"2026-04-30T18:42:19.188439633Z","domain":"auth.test.login-connexion.alpha.canada.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
