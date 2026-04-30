@@ -22,3 +22,12 @@
 {"id":"11397797334","timestamp":"2025-08-06T15:47:10.499654112Z","domain":"api.meteo.gc.ca","issuer":"SSL.com","from":"2025-08-06T14:48:19Z","to":"2026-09-06T04:00:00Z"}
 {"id":"11397797334","timestamp":"2025-08-06T15:47:10.499654353Z","domain":"*.api.weather.gc.ca","issuer":"SSL.com","from":"2025-08-06T14:48:19Z","to":"2026-09-06T04:00:00Z"}
 {"id":"11397797334","timestamp":"2025-08-06T15:47:10.499654583Z","domain":"api.weather.gc.ca","issuer":"SSL.com","from":"2025-08-06T14:48:19Z","to":"2026-09-06T04:00:00Z"}
+{"id":"14714700897","timestamp":"2026-04-30T15:23:15.947145693Z","domain":"weather.gc.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-07-29T23:59:59Z"}
+{"id":"14714897515","timestamp":"2026-04-30T15:23:15.947146094Z","domain":"*.alpha.meteo.gc.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"14714897515","timestamp":"2026-04-30T15:23:15.947146354Z","domain":"*.alpha.weather.gc.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"14714897515","timestamp":"2026-04-30T15:23:15.947146564Z","domain":"*.beta.meteo.gc.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"14714897515","timestamp":"2026-04-30T15:23:15.947146655Z","domain":"*.beta.weather.gc.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"14714897515","timestamp":"2026-04-30T15:23:15.947147286Z","domain":"*.meteo.gc.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"14714897515","timestamp":"2026-04-30T15:23:15.947147366Z","domain":"meteo.gc.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"14714897515","timestamp":"2026-04-30T15:23:15.947147446Z","domain":"*.weather.gc.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
+{"id":"14714897515","timestamp":"2026-04-30T15:23:15.947147526Z","domain":"weather.gc.ca","issuer":"Sectigo","from":"2026-04-30T00:00:00Z","to":"2026-11-14T23:59:59Z"}
