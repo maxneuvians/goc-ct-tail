@@ -370,3 +370,4 @@
 {"id":"14674775101","timestamp":"2026-04-27T14:33:25.11291412Z","domain":"argocd.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T13:20:05Z","to":"2026-07-26T13:20:04Z"}
 {"id":"14674779420","timestamp":"2026-04-27T14:33:25.1129142Z","domain":"deployment-manager.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T13:20:17Z","to":"2026-07-26T13:20:16Z"}
 {"id":"14674781200","timestamp":"2026-04-27T14:33:25.11291427Z","domain":"loki.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-04-27T13:20:29Z","to":"2026-07-26T13:20:28Z"}
+{"id":"14728184600","timestamp":"2026-05-01T17:12:14.789497927Z","domain":"loki.cbs.azure.cse-cst.gc.ca","issuer":"Let's Encrypt","from":"2026-05-01T15:59:43Z","to":"2026-07-30T15:59:42Z"}
