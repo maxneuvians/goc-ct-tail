@@ -18599,3 +18599,5 @@
 {"id":"14734173347","timestamp":"2026-05-02T05:14:16.812948094Z","domain":"sso-uat-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2026-05-02T03:34:48Z","to":"2026-07-31T03:34:47Z"}
 {"id":"14734441858","timestamp":"2026-05-02T05:14:16.812948195Z","domain":"chis.canada.ca","issuer":"Let's Encrypt","from":"2026-05-02T04:04:12Z","to":"2026-07-31T04:04:11Z"}
 {"id":"14734441858","timestamp":"2026-05-02T05:14:16.812948284Z","domain":"scir.canada.ca","issuer":"Let's Encrypt","from":"2026-05-02T04:04:12Z","to":"2026-07-31T04:04:11Z"}
+{"id":"14737829156","timestamp":"2026-05-02T11:26:33.866513733Z","domain":"datacube-api.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-02T10:02:52Z","to":"2026-07-31T10:02:51Z"}
+{"id":"14737986504","timestamp":"2026-05-02T11:26:33.866514173Z","domain":"notifications.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-02T10:19:07Z","to":"2026-07-31T10:19:06Z"}
