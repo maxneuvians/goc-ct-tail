@@ -1198,3 +1198,5 @@
 {"id":"14726402741","timestamp":"2026-05-01T14:00:38.796908925Z","domain":"www136.cmp-pgc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-01T12:36:18Z","to":"2026-07-30T12:36:17Z"}
 {"id":"14726403881","timestamp":"2026-05-01T14:00:38.796909005Z","domain":"www136-qa-cloud.cmp-pgc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-01T12:36:31Z","to":"2026-07-30T12:36:30Z"}
 {"id":"14726403881","timestamp":"2026-05-01T14:00:38.796909075Z","domain":"www136-qa.cmp-pgc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-01T12:36:31Z","to":"2026-07-30T12:36:30Z"}
+{"id":"14742469983","timestamp":"2026-05-02T19:48:17.299290321Z","domain":"rich-data-services.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-02T18:15:11Z","to":"2026-07-31T18:15:10Z"}
+{"id":"14742469983","timestamp":"2026-05-02T19:48:17.299290772Z","domain":"services-donnees-enrichis.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-02T18:15:11Z","to":"2026-07-31T18:15:10Z"}
