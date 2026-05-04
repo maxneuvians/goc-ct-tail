@@ -2415,3 +2415,4 @@
 {"id":"14715502860","timestamp":"2026-04-30T16:59:47.970060014Z","domain":"api.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-04-30T15:09:52Z","to":"2026-07-29T15:09:51Z"}
 {"id":"14715502860","timestamp":"2026-04-30T16:59:47.970061527Z","domain":"realtime.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-04-30T15:09:52Z","to":"2026-07-29T15:09:51Z"}
 {"id":"14715503438","timestamp":"2026-04-30T16:59:47.970061657Z","domain":"*.dids.test.issue-verify.cdssandbox.xyz","issuer":"Let's Encrypt","from":"2026-04-30T15:09:53Z","to":"2026-07-29T15:09:52Z"}
+{"id":"14756844453","timestamp":"2026-05-04T01:13:39.689317543Z","domain":"auth.forms-staging.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-05-04T00:00:00Z","to":"2026-11-17T23:59:59Z"}
