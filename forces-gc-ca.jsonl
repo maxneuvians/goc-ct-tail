@@ -2872,3 +2872,8 @@
 {"id":"14755771835","timestamp":"2026-05-03T22:23:09.909714821Z","domain":"www.seylii.org","issuer":"Let's Encrypt","from":"2026-05-03T20:52:58Z","to":"2026-08-01T20:52:57Z"}
 {"id":"14755771835","timestamp":"2026-05-03T22:23:09.909714891Z","domain":"www.trackenergyregs.ca","issuer":"Let's Encrypt","from":"2026-05-03T20:52:58Z","to":"2026-08-01T20:52:57Z"}
 {"id":"14755771835","timestamp":"2026-05-03T22:23:09.909714961Z","domain":"www.trackenergyregs.com","issuer":"Let's Encrypt","from":"2026-05-03T20:52:58Z","to":"2026-08-01T20:52:57Z"}
+{"id":"14764354560","timestamp":"2026-05-04T14:54:48.082307107Z","domain":"api.test.udf.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-04T00:00:00Z","to":"2026-11-18T23:59:59Z"}
+{"id":"14764354560","timestamp":"2026-05-04T14:54:48.082307445Z","domain":"endpoint-htgle.test.udf.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-04T00:00:00Z","to":"2026-11-18T23:59:59Z"}
+{"id":"14764354560","timestamp":"2026-05-04T14:54:48.082307685Z","domain":"endpoint-izgov.test.udf.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-04T00:00:00Z","to":"2026-11-18T23:59:59Z"}
+{"id":"14764354560","timestamp":"2026-05-04T14:54:48.082307879Z","domain":"endpoint-qjceq.test.udf.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-04T00:00:00Z","to":"2026-11-18T23:59:59Z"}
+{"id":"14764354560","timestamp":"2026-05-04T14:54:48.082307946Z","domain":"portal.test.udf.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-04T00:00:00Z","to":"2026-11-18T23:59:59Z"}
