@@ -18699,3 +18699,6 @@
 {"id":"14763689384","timestamp":"2026-05-04T13:46:20.389186597Z","domain":"backend.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-04T11:51:23Z","to":"2026-08-02T11:51:22Z"}
 {"id":"14765645847","timestamp":"2026-05-04T16:45:09.953704531Z","domain":"apt.alpha.service.canada.ca","issuer":"Let's Encrypt","from":"2026-05-04T15:25:47Z","to":"2026-08-02T15:25:46Z"}
 {"id":"14767335905","timestamp":"2026-05-04T19:44:48.75303322Z","domain":"selfserve.ssc-sand-gccopa.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-04T18:32:05Z","to":"2026-08-02T18:32:04Z"}
+{"id":"14769644583","timestamp":"2026-05-05T01:01:38.663701681Z","domain":"do-rb-api.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-05T00:00:00Z","to":"2026-11-18T23:59:59Z"}
+{"id":"14769652373","timestamp":"2026-05-05T01:01:38.663702143Z","domain":"do-rb-api-dev1.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-05T00:00:00Z","to":"2026-11-18T23:59:59Z"}
+{"id":"14769652373","timestamp":"2026-05-05T01:01:38.663702467Z","domain":"do-rb-api-dev.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-05T00:00:00Z","to":"2026-11-18T23:59:59Z"}
