@@ -954,3 +954,5 @@
 {"id":"14686555417","timestamp":"2026-04-28T10:16:29.169255921Z","domain":"*.floonet.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-04-28T09:01:47Z","to":"2026-07-27T09:01:46Z"}
 {"id":"14729150225","timestamp":"2026-05-01T19:53:08.361056551Z","domain":"*.aurora-dev.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-05-01T17:59:22Z","to":"2026-07-30T17:59:21Z"}
 {"id":"14729150225","timestamp":"2026-05-01T19:53:08.361056922Z","domain":"aurora-dev.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-05-01T17:59:22Z","to":"2026-07-30T17:59:21Z"}
+{"id":"14775165639","timestamp":"2026-05-05T10:11:10.260287896Z","domain":"malware-pb.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-05-05T09:01:52Z","to":"2026-08-03T09:01:51Z"}
+{"id":"14775170774","timestamp":"2026-05-05T10:11:10.260288227Z","domain":"malware.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-05-05T09:01:58Z","to":"2026-08-03T09:01:57Z"}
