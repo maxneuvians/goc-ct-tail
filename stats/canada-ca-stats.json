@@ -3943,7 +3943,10 @@
       "Let's Encrypt": 5
     },
     "2026-05-05": {
-      "Amazon Trust Services": 3
+      "Amazon Trust Services": 3,
+      "Let's Encrypt": 8,
+      "Sectigo": 2,
+      "Google Trust Services": 5
     }
   },
   "errors": []
