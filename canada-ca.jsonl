@@ -18731,3 +18731,5 @@
 {"id":"14793444866","timestamp":"2026-05-06T18:46:26.90125384Z","domain":"image-test.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-06T00:00:00Z","to":"2026-11-19T23:59:59Z"}
 {"id":"14793759672","timestamp":"2026-05-06T18:46:26.90125393Z","domain":"image-prod.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-06T00:00:00Z","to":"2026-11-19T23:59:59Z"}
 {"id":"14793759860","timestamp":"2026-05-06T18:46:26.901254852Z","domain":"image-prod-api.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-06T00:00:00Z","to":"2026-11-19T23:59:59Z"}
+{"id":"14794965190","timestamp":"2026-05-06T21:34:25.80262838Z","domain":"*.api.test.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-06T00:00:00Z","to":"2026-11-19T23:59:59Z"}
+{"id":"14794965190","timestamp":"2026-05-06T21:34:25.80262869Z","domain":"api.test.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-06T00:00:00Z","to":"2026-11-19T23:59:59Z"}
