@@ -18725,3 +18725,9 @@
 {"id":"14791868509","timestamp":"2026-05-06T15:52:23.350132318Z","domain":"www.talent.canada.ca","issuer":"Sectigo","from":"2026-05-06T00:00:00Z","to":"2026-11-20T23:59:59Z"}
 {"id":"14792337736","timestamp":"2026-05-06T16:44:49.074634131Z","domain":"image-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-06T00:00:00Z","to":"2026-11-19T23:59:59Z"}
 {"id":"14792337867","timestamp":"2026-05-06T16:44:49.074634362Z","domain":"image-dev-api.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-06T00:00:00Z","to":"2026-11-19T23:59:59Z"}
+{"id":"14793364866","timestamp":"2026-05-06T18:46:26.901252978Z","domain":"food-guide.canada.ca","issuer":"Google Trust Services","from":"2026-05-06T16:56:22Z","to":"2026-08-04T17:56:21Z"}
+{"id":"14793366910","timestamp":"2026-05-06T18:46:26.901253319Z","domain":"food-guide.canada.ca","issuer":"Google Trust Services","from":"2026-05-06T16:56:15Z","to":"2026-08-04T17:55:07Z"}
+{"id":"14793444865","timestamp":"2026-05-06T18:46:26.901253569Z","domain":"image-test-api.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-06T00:00:00Z","to":"2026-11-19T23:59:59Z"}
+{"id":"14793444866","timestamp":"2026-05-06T18:46:26.90125384Z","domain":"image-test.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-06T00:00:00Z","to":"2026-11-19T23:59:59Z"}
+{"id":"14793759672","timestamp":"2026-05-06T18:46:26.90125393Z","domain":"image-prod.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-06T00:00:00Z","to":"2026-11-19T23:59:59Z"}
+{"id":"14793759860","timestamp":"2026-05-06T18:46:26.901254852Z","domain":"image-prod-api.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-06T00:00:00Z","to":"2026-11-19T23:59:59Z"}
