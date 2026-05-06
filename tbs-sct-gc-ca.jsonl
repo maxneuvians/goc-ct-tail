@@ -1378,3 +1378,4 @@
 {"id":"14701792651","timestamp":"2026-04-29T14:15:56.565599012Z","domain":"uat.wcf.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-04-29T00:00:00Z","to":"2026-11-13T23:59:59Z"}
 {"id":"14704136300","timestamp":"2026-04-29T17:59:48.626392518Z","domain":"talentcloud-pilot-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-29T16:43:11Z","to":"2026-07-28T16:43:10Z"}
 {"id":"14704184279","timestamp":"2026-04-29T17:59:48.626392919Z","domain":"talentcloud-pilot-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-04-29T16:50:01Z","to":"2026-07-28T16:50:00Z"}
+{"id":"14791740518","timestamp":"2026-05-06T16:09:40.72875334Z","domain":"crm-sgc.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-05-06T00:00:00Z","to":"2026-11-20T23:59:59Z"}
