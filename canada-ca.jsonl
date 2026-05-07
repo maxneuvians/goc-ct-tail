@@ -18753,3 +18753,6 @@
 {"id":"14796874715","timestamp":"2026-05-07T01:06:29.482724604Z","domain":"bcd-api.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-07T00:00:00Z","to":"2026-11-20T23:59:59Z"}
 {"id":"14797156860","timestamp":"2026-05-07T01:06:29.482724874Z","domain":"sol.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-06T23:34:34Z","to":"2026-08-04T23:34:33Z"}
 {"id":"14797158715","timestamp":"2026-05-07T01:06:29.482725105Z","domain":"aur.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-06T23:36:40Z","to":"2026-08-04T23:36:39Z"}
+{"id":"14797520470","timestamp":"2026-05-07T01:49:18.364357225Z","domain":"sol.aurora.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T00:11:00Z","to":"2026-08-05T00:10:59Z"}
+{"id":"14797563675","timestamp":"2026-05-07T01:49:18.364357836Z","domain":"aur.aurora.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T00:15:44Z","to":"2026-08-05T00:15:43Z"}
+{"id":"14797574581","timestamp":"2026-05-07T01:49:18.364358377Z","domain":"canary-workload.ssc-spc.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-05-07T00:12:18Z","to":"2026-08-05T01:06:31Z"}
