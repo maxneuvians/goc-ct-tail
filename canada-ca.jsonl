@@ -18777,3 +18777,8 @@
 {"id":"14805737009","timestamp":"2026-05-07T15:05:27.904832235Z","domain":"dev.cbsa-asfc-az.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-05-07T00:00:00Z","to":"2026-11-21T23:59:59Z"}
 {"id":"14806101491","timestamp":"2026-05-07T15:05:27.904832316Z","domain":"incident-forwarder.mgmt.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-05-07T13:46:19Z","to":"2026-08-05T14:42:14Z"}
 {"id":"14806345515","timestamp":"2026-05-07T15:53:34.136812609Z","domain":"resource-catalogue.ws-cpoff.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T14:12:50Z","to":"2026-08-05T14:12:49Z"}
+{"id":"14807562314","timestamp":"2026-05-07T17:45:37.984133598Z","domain":"suivi.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T16:02:03Z","to":"2026-08-05T16:02:02Z"}
+{"id":"14807562314","timestamp":"2026-05-07T17:45:37.984133968Z","domain":"tracker.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T16:02:03Z","to":"2026-08-05T16:02:02Z"}
+{"id":"14807647297","timestamp":"2026-05-07T17:45:37.984134209Z","domain":"*.datahub-scientifique-federal.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T16:07:54Z","to":"2026-08-05T16:07:53Z"}
+{"id":"14807647297","timestamp":"2026-05-07T17:45:37.984134419Z","domain":"datahub-scientifique-federal.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T16:07:54Z","to":"2026-08-05T16:07:53Z"}
+{"id":"14807968715","timestamp":"2026-05-07T17:45:37.984134519Z","domain":"gcmatarchive-api-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-07T00:00:00Z","to":"2026-11-20T23:59:59Z"}
