@@ -18765,3 +18765,14 @@
 {"id":"14804352242","timestamp":"2026-05-07T12:53:04.720017752Z","domain":"canchat.uat.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T11:10:20Z","to":"2026-08-05T11:10:19Z"}
 {"id":"14804385760","timestamp":"2026-05-07T12:53:04.720018022Z","domain":"*.cbsa-asfc-az.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-05-07T00:00:00Z","to":"2026-11-21T23:59:59Z"}
 {"id":"14804385760","timestamp":"2026-05-07T12:53:04.720018112Z","domain":"cbsa-asfc-az.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-05-07T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"14805669190","timestamp":"2026-05-07T15:05:27.904829009Z","domain":"resource-catalogue.ws-cchampagne.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T13:11:53Z","to":"2026-08-05T13:11:52Z"}
+{"id":"14805669569","timestamp":"2026-05-07T15:05:27.90482935Z","domain":"mlflow.ws-cchampagne.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T13:11:53Z","to":"2026-08-05T13:11:52Z"}
+{"id":"14805672175","timestamp":"2026-05-07T15:05:27.904829601Z","domain":"resource-catalogue.ws-prollin.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T13:12:10Z","to":"2026-08-05T13:12:09Z"}
+{"id":"14805674016","timestamp":"2026-05-07T15:05:27.904829861Z","domain":"mlflow.ws-prollin.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T13:12:09Z","to":"2026-08-05T13:12:08Z"}
+{"id":"14805675531","timestamp":"2026-05-07T15:05:27.904829951Z","domain":"mlflow.ws-cpoff.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T13:12:43Z","to":"2026-08-05T13:12:42Z"}
+{"id":"14805704028","timestamp":"2026-05-07T15:05:27.904830873Z","domain":"resource-catalogue.ws-jwojtiw.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T13:16:29Z","to":"2026-08-05T13:16:28Z"}
+{"id":"14805710449","timestamp":"2026-05-07T15:05:27.904830953Z","domain":"mlflow.ws-jwojtiw.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T13:16:29Z","to":"2026-08-05T13:16:28Z"}
+{"id":"14805732216","timestamp":"2026-05-07T15:05:27.904831043Z","domain":"resource-catalogue.ws-elindsay.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-07T13:17:56Z","to":"2026-08-05T13:17:55Z"}
+{"id":"14805737009","timestamp":"2026-05-07T15:05:27.904831133Z","domain":"*.dev.cbsa-asfc-az.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-05-07T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"14805737009","timestamp":"2026-05-07T15:05:27.904832235Z","domain":"dev.cbsa-asfc-az.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-05-07T00:00:00Z","to":"2026-11-21T23:59:59Z"}
+{"id":"14806101491","timestamp":"2026-05-07T15:05:27.904832316Z","domain":"incident-forwarder.mgmt.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-05-07T13:46:19Z","to":"2026-08-05T14:42:14Z"}
