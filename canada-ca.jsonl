@@ -18749,3 +18749,7 @@
 {"id":"14795885031","timestamp":"2026-05-06T22:26:56.158852821Z","domain":"app.migration.test.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-06T00:00:00Z","to":"2026-11-19T23:59:59Z"}
 {"id":"14795908849","timestamp":"2026-05-06T23:28:36.642126549Z","domain":"*.rp.app.test.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-06T00:00:00Z","to":"2026-11-19T23:59:59Z"}
 {"id":"14795908849","timestamp":"2026-05-06T23:28:36.64212691Z","domain":"rp.app.test.login-connexion.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-06T00:00:00Z","to":"2026-11-19T23:59:59Z"}
+{"id":"14796874715","timestamp":"2026-05-07T01:06:29.482724284Z","domain":"bcd-api-test1.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-07T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"14796874715","timestamp":"2026-05-07T01:06:29.482724604Z","domain":"bcd-api.test.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-07T00:00:00Z","to":"2026-11-20T23:59:59Z"}
+{"id":"14797156860","timestamp":"2026-05-07T01:06:29.482724874Z","domain":"sol.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-06T23:34:34Z","to":"2026-08-04T23:34:33Z"}
+{"id":"14797158715","timestamp":"2026-05-07T01:06:29.482725105Z","domain":"aur.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-06T23:36:40Z","to":"2026-08-04T23:36:39Z"}
