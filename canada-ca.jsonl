@@ -18803,3 +18803,9 @@
 {"id":"14819791717","timestamp":"2026-05-08T13:45:28.342175233Z","domain":"tracker.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-08T12:16:23Z","to":"2026-08-06T12:16:22Z"}
 {"id":"14819861838","timestamp":"2026-05-08T13:45:28.342175324Z","domain":"*.meta.itsec.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-05-08T00:00:00Z","to":"2026-08-06T23:59:59Z"}
 {"id":"14820245261","timestamp":"2026-05-08T14:46:48.018785216Z","domain":"canary-workload.ssc-spc.com-test.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-05-08T12:57:56Z","to":"2026-08-06T13:52:09Z"}
+{"id":"14821369695","timestamp":"2026-05-08T16:41:28.250169428Z","domain":"ops-toolkit-pr-7.gphin.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-08T14:56:43Z","to":"2026-08-06T14:56:42Z"}
+{"id":"14821431860","timestamp":"2026-05-08T16:41:28.250169901Z","domain":"gphin.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-08T15:02:47Z","to":"2026-08-06T15:02:46Z"}
+{"id":"14821435249","timestamp":"2026-05-08T16:41:28.250170218Z","domain":"*.cloudopsportal.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-08T15:03:11Z","to":"2026-08-06T15:03:10Z"}
+{"id":"14821460803","timestamp":"2026-05-08T16:41:28.250170494Z","domain":"*.ssc-dev-stm.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-08T15:03:39Z","to":"2026-08-06T15:03:38Z"}
+{"id":"14821465192","timestamp":"2026-05-08T16:41:28.25017058Z","domain":"moncanafe-myfintrac-et.canafe-fintrac.canada.ca","issuer":"Sectigo","from":"2026-05-08T00:00:00Z","to":"2026-11-22T23:59:59Z"}
+{"id":"14821465192","timestamp":"2026-05-08T16:41:28.250171737Z","domain":"myfintrac-moncanafe-et.fintrac-canafe.canada.ca","issuer":"Sectigo","from":"2026-05-08T00:00:00Z","to":"2026-11-22T23:59:59Z"}
