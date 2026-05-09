@@ -1383,3 +1383,5 @@
 {"id":"14803896797","timestamp":"2026-05-07T12:09:20.347323197Z","domain":"uat-gcdocs-spmig.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-05-07T00:00:00Z","to":"2026-11-21T23:59:59Z"}
 {"id":"14803896797","timestamp":"2026-05-07T12:09:20.347323397Z","domain":"www.uat-gcdocs-otds.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-05-07T00:00:00Z","to":"2026-11-21T23:59:59Z"}
 {"id":"14823981687","timestamp":"2026-05-08T21:48:44.429987654Z","domain":"rpss-appmgmt-pub-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-05-08T19:50:45Z","to":"2026-08-06T19:50:44Z"}
+{"id":"14829082570","timestamp":"2026-05-09T05:32:56.037657702Z","domain":"v3-pbi-rcp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-05-09T04:04:50Z","to":"2026-08-07T04:04:49Z"}
+{"id":"14829096123","timestamp":"2026-05-09T05:32:56.037658032Z","domain":"v3-wfa-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-05-09T04:05:24Z","to":"2026-08-07T04:05:23Z"}
