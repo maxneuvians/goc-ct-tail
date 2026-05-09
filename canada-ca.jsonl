@@ -18831,3 +18831,7 @@
 {"id":"14829898945","timestamp":"2026-05-09T06:56:00.944327453Z","domain":"energy-information.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-09T05:28:16Z","to":"2026-08-07T05:28:15Z"}
 {"id":"14829898945","timestamp":"2026-05-09T06:56:00.944327523Z","domain":"information-energie.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-09T05:28:16Z","to":"2026-08-07T05:28:15Z"}
 {"id":"14833089750","timestamp":"2026-05-09T12:32:57.015648208Z","domain":"whoami.dev.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-09T10:59:38Z","to":"2026-08-07T10:59:37Z"}
+{"id":"14833910607","timestamp":"2026-05-09T13:43:39.108625478Z","domain":"mlflow.ws-xlu.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-09T12:20:01Z","to":"2026-08-07T12:20:00Z"}
+{"id":"14833913619","timestamp":"2026-05-09T13:43:39.108625889Z","domain":"resource-catalogue.ws-xlu.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-09T12:20:00Z","to":"2026-08-07T12:19:59Z"}
+{"id":"14833968065","timestamp":"2026-05-09T13:43:39.108626099Z","domain":"mlflow.ws-lwang.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-09T12:24:59Z","to":"2026-08-07T12:24:58Z"}
+{"id":"14833968196","timestamp":"2026-05-09T13:43:39.10862631Z","domain":"resource-catalogue.ws-lwang.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-09T12:25:01Z","to":"2026-08-07T12:25:00Z"}
