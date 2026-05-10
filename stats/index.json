@@ -38,14 +38,14 @@
     {
       "inputFile": "canada-ca.jsonl",
       "outputFile": "stats/canada-ca-stats.json",
-      "totalCertificates": 18827,
+      "totalCertificates": 18843,
       "totalsByIssuer": {
         "Entrust": 2525,
-        "Amazon Trust Services": 1472,
-        "DigiCert": 810,
+        "Amazon Trust Services": 1473,
+        "DigiCert": 811,
         "GoDaddy": 13,
-        "Let's Encrypt": 10176,
-        "Google Trust Services": 419,
+        "Let's Encrypt": 10188,
+        "Google Trust Services": 421,
         "Sectigo": 1754,
         "SSL.com": 1658
       },
@@ -220,11 +220,11 @@
     {
       "inputFile": "dfo-mpo-gc-ca.jsonl",
       "outputFile": "stats/dfo-mpo-gc-ca-stats.json",
-      "totalCertificates": 1459,
+      "totalCertificates": 1460,
       "totalsByIssuer": {
         "Entrust": 332,
         "DigiCert": 60,
-        "Let's Encrypt": 544,
+        "Let's Encrypt": 545,
         "SSL.com": 341,
         "Sectigo": 182
       },
@@ -259,10 +259,10 @@
     {
       "inputFile": "gg-ca.jsonl",
       "outputFile": "stats/gg-ca-stats.json",
-      "totalCertificates": 74,
+      "totalCertificates": 75,
       "totalsByIssuer": {
         "GoDaddy": 12,
-        "Let's Encrypt": 62
+        "Let's Encrypt": 63
       },
       "errorCount": 0
     },
@@ -638,13 +638,13 @@
     {
       "inputFile": "tbs-sct-gc-ca.jsonl",
       "outputFile": "stats/tbs-sct-gc-ca-stats.json",
-      "totalCertificates": 1385,
+      "totalCertificates": 1387,
       "totalsByIssuer": {
         "Entrust": 166,
         "DigiCert": 514,
         "SSL.com": 79,
         "Sectigo": 148,
-        "Let's Encrypt": 478
+        "Let's Encrypt": 480
       },
       "errorCount": 0
     },
@@ -713,13 +713,13 @@
   ],
   "grandTotalByIssuer": {
     "Entrust": 11243,
-    "Amazon Trust Services": 4634,
-    "Let's Encrypt": 27861,
+    "Amazon Trust Services": 4635,
+    "Let's Encrypt": 27877,
     "SSL.com": 6251,
     "Sectigo": 19571,
-    "DigiCert": 2600,
+    "DigiCert": 2601,
     "GoDaddy": 85,
-    "Google Trust Services": 867,
+    "Google Trust Services": 869,
     "Entrust Limited": 20,
     "GlobalSign": 2
   }

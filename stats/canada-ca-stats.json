@@ -3966,7 +3966,13 @@
       "Google Trust Services": 2
     },
     "2026-05-09": {
-      "Let's Encrypt": 4
+      "Let's Encrypt": 15,
+      "Google Trust Services": 2
+    },
+    "2026-05-10": {
+      "Let's Encrypt": 1,
+      "DigiCert": 1,
+      "Amazon Trust Services": 1
     }
   },
   "errors": []
