@@ -101,3 +101,12 @@
 {"id":"14821396702","timestamp":"2026-05-08T16:34:51.335200441Z","domain":"mrs.ised-isde.gc.ca","issuer":"Sectigo","from":"2026-05-08T00:00:00Z","to":"2026-11-22T23:59:59Z"}
 {"id":"14821396702","timestamp":"2026-05-08T16:34:51.335200521Z","domain":"www.mail.ised-isde.gc.ca","issuer":"Sectigo","from":"2026-05-08T00:00:00Z","to":"2026-11-22T23:59:59Z"}
 {"id":"14821443690","timestamp":"2026-05-08T16:34:51.335200611Z","domain":"mrs.ised-isde.gc.ca","issuer":"Sectigo","from":"2026-05-08T00:00:00Z","to":"2026-08-06T23:59:59Z"}
+{"id":"14864569688","timestamp":"2026-05-11T19:35:27.787564453Z","domain":"autodiscover.cb-bc.gc.ca","issuer":"Sectigo","from":"2026-05-11T00:00:00Z","to":"2026-11-25T23:59:59Z"}
+{"id":"14864569688","timestamp":"2026-05-11T19:35:27.787564784Z","domain":"autodiscover.cb-cda.gc.ca","issuer":"Sectigo","from":"2026-05-11T00:00:00Z","to":"2026-11-25T23:59:59Z"}
+{"id":"14864569688","timestamp":"2026-05-11T19:35:27.787564964Z","domain":"autodiscover.feddevontario.gc.ca","issuer":"Sectigo","from":"2026-05-11T00:00:00Z","to":"2026-11-25T23:59:59Z"}
+{"id":"14864569688","timestamp":"2026-05-11T19:35:27.787565134Z","domain":"autodiscover.fednor.gc.ca","issuer":"Sectigo","from":"2026-05-11T00:00:00Z","to":"2026-11-25T23:59:59Z"}
+{"id":"14864569688","timestamp":"2026-05-11T19:35:27.787565214Z","domain":"autodiscover.ised-isde.gc.ca","issuer":"Sectigo","from":"2026-05-11T00:00:00Z","to":"2026-11-25T23:59:59Z"}
+{"id":"14864569688","timestamp":"2026-05-11T19:35:27.787566347Z","domain":"autodiscover.ocsa-bcsc.gc.ca","issuer":"Sectigo","from":"2026-05-11T00:00:00Z","to":"2026-11-25T23:59:59Z"}
+{"id":"14864569688","timestamp":"2026-05-11T19:35:27.787566537Z","domain":"mail.ised-isde.gc.ca","issuer":"Sectigo","from":"2026-05-11T00:00:00Z","to":"2026-11-25T23:59:59Z"}
+{"id":"14864569688","timestamp":"2026-05-11T19:35:27.787566608Z","domain":"mrs.ised-isde.gc.ca","issuer":"Sectigo","from":"2026-05-11T00:00:00Z","to":"2026-11-25T23:59:59Z"}
+{"id":"14864569688","timestamp":"2026-05-11T19:35:27.787566678Z","domain":"www.mail.ised-isde.gc.ca","issuer":"Sectigo","from":"2026-05-11T00:00:00Z","to":"2026-11-25T23:59:59Z"}
