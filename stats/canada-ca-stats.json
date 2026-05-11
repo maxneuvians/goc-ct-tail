@@ -3970,9 +3970,13 @@
       "Google Trust Services": 2
     },
     "2026-05-10": {
-      "Let's Encrypt": 1,
-      "DigiCert": 1,
-      "Amazon Trust Services": 1
+      "Let's Encrypt": 30,
+      "DigiCert": 2,
+      "Amazon Trust Services": 2
+    },
+    "2026-05-11": {
+      "Let's Encrypt": 2,
+      "DigiCert": 1
     }
   },
   "errors": []
