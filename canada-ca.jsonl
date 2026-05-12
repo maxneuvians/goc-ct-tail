@@ -18898,3 +18898,8 @@
 {"id":"14865478079","timestamp":"2026-05-11T20:45:31.085434227Z","domain":"incident-forwarder.mgmt.preprod.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-05-11T19:36:49Z","to":"2026-08-09T20:32:44Z"}
 {"id":"14867554334","timestamp":"2026-05-12T01:05:50.913053567Z","domain":"tccampus.tc.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-12T00:00:00Z","to":"2026-11-25T23:59:59Z"}
 {"id":"14868355756","timestamp":"2026-05-12T01:48:27.391228302Z","domain":"emmit.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T00:29:46Z","to":"2026-08-10T00:29:45Z"}
+{"id":"14871845653","timestamp":"2026-05-12T09:10:51.476392525Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T06:24:33Z","to":"2026-08-10T06:24:32Z"}
+{"id":"14871845653","timestamp":"2026-05-12T09:10:51.476392925Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T06:24:33Z","to":"2026-08-10T06:24:32Z"}
+{"id":"14871898499","timestamp":"2026-05-12T09:10:51.476393196Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T06:29:07Z","to":"2026-08-10T06:29:06Z"}
+{"id":"14871898499","timestamp":"2026-05-12T09:10:51.476393396Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T06:29:07Z","to":"2026-08-10T06:29:06Z"}
+{"id":"14872370549","timestamp":"2026-05-12T09:10:51.476393496Z","domain":"www.eipr-rtcae.service.canada.ca","issuer":"DigiCert","from":"2026-05-12T00:00:00Z","to":"2026-11-12T23:59:59Z"}
