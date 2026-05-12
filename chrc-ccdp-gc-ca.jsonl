@@ -101,3 +101,6 @@
 {"id":"14656738043","timestamp":"2026-04-26T03:55:14.344085112Z","domain":"chrc-ccdp.gc.ca","issuer":"Let's Encrypt","from":"2026-04-26T02:12:14Z","to":"2026-07-25T02:12:13Z"}
 {"id":"14656738043","timestamp":"2026-04-26T03:55:14.344085463Z","domain":"www.chrc-ccdp.gc.ca","issuer":"Let's Encrypt","from":"2026-04-26T02:12:14Z","to":"2026-07-25T02:12:13Z"}
 {"id":"14876510117","timestamp":"2026-05-12T15:34:48.335022705Z","domain":"chrc-ccdp.gc.ca","issuer":"Sectigo","from":"2026-05-12T00:00:00Z","to":"2026-08-10T23:59:59Z"}
+{"id":"14877700085","timestamp":"2026-05-12T17:23:44.890689841Z","domain":"autodiscover.chrc-ccdp.gc.ca","issuer":"Sectigo","from":"2026-05-12T00:00:00Z","to":"2026-11-26T23:59:59Z"}
+{"id":"14877700085","timestamp":"2026-05-12T17:23:44.890690211Z","domain":"mail.chrc-ccdp.gc.ca","issuer":"Sectigo","from":"2026-05-12T00:00:00Z","to":"2026-11-26T23:59:59Z"}
+{"id":"14877700085","timestamp":"2026-05-12T17:23:44.890690422Z","domain":"mailserver.chrc-ccdp.gc.ca","issuer":"Sectigo","from":"2026-05-12T00:00:00Z","to":"2026-11-26T23:59:59Z"}
