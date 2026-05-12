@@ -18928,3 +18928,7 @@
 {"id":"14879880554","timestamp":"2026-05-12T20:44:01.193863798Z","domain":"*.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T19:02:48Z","to":"2026-08-10T19:02:47Z"}
 {"id":"14880606597","timestamp":"2026-05-12T21:38:18.436125117Z","domain":"*.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-12T00:00:00Z","to":"2026-11-25T23:59:59Z"}
 {"id":"14880606597","timestamp":"2026-05-12T21:38:18.436125417Z","domain":"guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-12T00:00:00Z","to":"2026-11-25T23:59:59Z"}
+{"id":"14881266170","timestamp":"2026-05-12T22:36:13.938386572Z","domain":"api.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T21:14:58Z","to":"2026-08-10T21:14:57Z"}
+{"id":"14881266170","timestamp":"2026-05-12T22:36:13.938387103Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T21:14:58Z","to":"2026-08-10T21:14:57Z"}
+{"id":"14881266170","timestamp":"2026-05-12T22:36:13.938387444Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T21:14:58Z","to":"2026-08-10T21:14:57Z"}
+{"id":"14881266170","timestamp":"2026-05-12T22:36:13.938387725Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T21:14:58Z","to":"2026-08-10T21:14:57Z"}
