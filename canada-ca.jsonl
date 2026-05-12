@@ -18905,3 +18905,7 @@
 {"id":"14872370549","timestamp":"2026-05-12T09:10:51.476393496Z","domain":"www.eipr-rtcae.service.canada.ca","issuer":"DigiCert","from":"2026-05-12T00:00:00Z","to":"2026-11-12T23:59:59Z"}
 {"id":"14875703096","timestamp":"2026-05-12T13:47:41.305162628Z","domain":"*.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T12:24:29Z","to":"2026-08-10T12:24:28Z"}
 {"id":"14875703096","timestamp":"2026-05-12T13:47:41.305163069Z","domain":"*.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T12:24:29Z","to":"2026-08-10T12:24:28Z"}
+{"id":"14876199919","timestamp":"2026-05-12T15:07:33.8128504Z","domain":"portal.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T13:12:01Z","to":"2026-08-10T13:12:00Z"}
+{"id":"14876204019","timestamp":"2026-05-12T15:07:33.812850901Z","domain":"aqvc.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T13:12:37Z","to":"2026-08-10T13:12:36Z"}
+{"id":"14876204102","timestamp":"2026-05-12T15:07:33.812851672Z","domain":"*.dids.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T13:12:38Z","to":"2026-08-10T13:12:37Z"}
+{"id":"14876205160","timestamp":"2026-05-12T15:07:33.812851933Z","domain":"didwebserver.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T13:12:53Z","to":"2026-08-10T13:12:52Z"}
