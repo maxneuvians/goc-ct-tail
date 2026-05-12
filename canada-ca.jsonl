@@ -18914,3 +18914,12 @@
 {"id":"14877408612","timestamp":"2026-05-12T16:54:41.71437835Z","domain":"gac-amc-sso-au.canada.ca","issuer":"DigiCert","from":"2026-05-12T00:00:00Z","to":"2026-11-12T23:59:59Z"}
 {"id":"14877947451","timestamp":"2026-05-12T17:49:39.726818645Z","domain":"gcs.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-05-12T00:00:00Z","to":"2026-11-12T23:59:59Z"}
 {"id":"14878175759","timestamp":"2026-05-12T17:49:39.726818976Z","domain":"aegis-test.canada.ca","issuer":"Sectigo","from":"2026-05-12T00:00:00Z","to":"2026-11-26T23:59:59Z"}
+{"id":"14878628257","timestamp":"2026-05-12T18:48:43.507028355Z","domain":"canary-workload.ssc-spc.preprod.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-05-12T16:56:55Z","to":"2026-08-10T17:50:08Z"}
+{"id":"14878915128","timestamp":"2026-05-12T18:48:43.507028836Z","domain":"*.aurora.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T17:26:41Z","to":"2026-08-10T17:26:40Z"}
+{"id":"14878915128","timestamp":"2026-05-12T18:48:43.507029267Z","domain":"*.ssc-prod-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T17:26:41Z","to":"2026-08-10T17:26:40Z"}
+{"id":"14878943494","timestamp":"2026-05-12T18:48:43.507029838Z","domain":"*.betak.tools.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-12T00:00:00Z","to":"2026-11-25T23:59:59Z"}
+{"id":"14878943494","timestamp":"2026-05-12T18:48:43.507029948Z","domain":"betak.tools.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-12T00:00:00Z","to":"2026-11-25T23:59:59Z"}
+{"id":"14878943494","timestamp":"2026-05-12T18:48:43.50703121Z","domain":"*.tools.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-12T00:00:00Z","to":"2026-11-25T23:59:59Z"}
+{"id":"14878943494","timestamp":"2026-05-12T18:48:43.50703129Z","domain":"tools.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-12T00:00:00Z","to":"2026-11-25T23:59:59Z"}
+{"id":"14878960857","timestamp":"2026-05-12T18:48:43.50703139Z","domain":"*.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-12T00:00:00Z","to":"2026-11-25T23:59:59Z"}
+{"id":"14878960857","timestamp":"2026-05-12T18:48:43.50703147Z","domain":"betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-12T00:00:00Z","to":"2026-11-25T23:59:59Z"}
