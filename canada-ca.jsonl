@@ -18903,3 +18903,5 @@
 {"id":"14871898499","timestamp":"2026-05-12T09:10:51.476393196Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T06:29:07Z","to":"2026-08-10T06:29:06Z"}
 {"id":"14871898499","timestamp":"2026-05-12T09:10:51.476393396Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T06:29:07Z","to":"2026-08-10T06:29:06Z"}
 {"id":"14872370549","timestamp":"2026-05-12T09:10:51.476393496Z","domain":"www.eipr-rtcae.service.canada.ca","issuer":"DigiCert","from":"2026-05-12T00:00:00Z","to":"2026-11-12T23:59:59Z"}
+{"id":"14875703096","timestamp":"2026-05-12T13:47:41.305162628Z","domain":"*.aurora.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T12:24:29Z","to":"2026-08-10T12:24:28Z"}
+{"id":"14875703096","timestamp":"2026-05-12T13:47:41.305163069Z","domain":"*.ssc-dev-auroramgmt.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T12:24:29Z","to":"2026-08-10T12:24:28Z"}
