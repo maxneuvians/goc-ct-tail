@@ -3981,8 +3981,15 @@
       "Google Trust Services": 1
     },
     "2026-05-12": {
-      "Amazon Trust Services": 1,
-      "Let's Encrypt": 1
+      "Amazon Trust Services": 9,
+      "Let's Encrypt": 21,
+      "DigiCert": 3,
+      "Sectigo": 2,
+      "Google Trust Services": 1
+    },
+    "2026-05-13": {
+      "Sectigo": 1,
+      "DigiCert": 1
     }
   },
   "errors": []
