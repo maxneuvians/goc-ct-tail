@@ -18932,3 +18932,5 @@
 {"id":"14881266170","timestamp":"2026-05-12T22:36:13.938387103Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T21:14:58Z","to":"2026-08-10T21:14:57Z"}
 {"id":"14881266170","timestamp":"2026-05-12T22:36:13.938387444Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T21:14:58Z","to":"2026-08-10T21:14:57Z"}
 {"id":"14881266170","timestamp":"2026-05-12T22:36:13.938387725Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-12T21:14:58Z","to":"2026-08-10T21:14:57Z"}
+{"id":"14885441862","timestamp":"2026-05-13T05:28:44.848989529Z","domain":"marine-geo.canada.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-08-11T23:59:59Z"}
+{"id":"14885562688","timestamp":"2026-05-13T05:28:44.848989839Z","domain":"auth.acc.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-05-13T00:00:00Z","to":"2026-11-13T23:59:59Z"}
