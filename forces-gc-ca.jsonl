@@ -2911,3 +2911,4 @@
 {"id":"14877871214","timestamp":"2026-05-12T16:54:42.094590559Z","domain":"efas-uat.forces.gc.ca","issuer":"Sectigo","from":"2026-05-12T00:00:00Z","to":"2026-11-26T23:59:59Z"}
 {"id":"14891008210","timestamp":"2026-05-13T13:52:42.606144572Z","domain":"dev1.ede.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
 {"id":"14891008210","timestamp":"2026-05-13T13:52:42.606144851Z","domain":"dev.ede.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14893129909","timestamp":"2026-05-13T17:50:31.496061504Z","domain":"api.cbrv.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-13T00:00:00Z","to":"2026-11-26T23:59:59Z"}
