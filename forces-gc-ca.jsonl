@@ -2913,3 +2913,16 @@
 {"id":"14891008210","timestamp":"2026-05-13T13:52:42.606144851Z","domain":"dev.ede.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
 {"id":"14893129909","timestamp":"2026-05-13T17:50:31.496061504Z","domain":"api.cbrv.cbr-rcb-tst.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-13T00:00:00Z","to":"2026-11-26T23:59:59Z"}
 {"id":"14894907322","timestamp":"2026-05-13T20:45:03.074272768Z","domain":"dio-iod.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2026-05-13T18:42:41Z","to":"2026-08-11T19:35:55Z"}
+{"id":"14895572082","timestamp":"2026-05-13T21:41:58.760159044Z","domain":"api.trg1.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895572082","timestamp":"2026-05-13T21:41:58.760159554Z","domain":"api.trg2.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895572082","timestamp":"2026-05-13T21:41:58.760159785Z","domain":"api.trg3.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895572082","timestamp":"2026-05-13T21:41:58.760160005Z","domain":"api.trg4.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895572082","timestamp":"2026-05-13T21:41:58.760160085Z","domain":"smmsgeo-trg.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895572082","timestamp":"2026-05-13T21:41:58.760161567Z","domain":"trg1.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895572082","timestamp":"2026-05-13T21:41:58.760161658Z","domain":"trg2.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895572082","timestamp":"2026-05-13T21:41:58.760161738Z","domain":"trg3.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895572082","timestamp":"2026-05-13T21:41:58.760161808Z","domain":"trg4.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895572082","timestamp":"2026-05-13T21:41:58.76016306Z","domain":"ws.trg1.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895572082","timestamp":"2026-05-13T21:41:58.76016315Z","domain":"ws.trg2.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895572082","timestamp":"2026-05-13T21:41:58.76016325Z","domain":"ws.trg3.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895572082","timestamp":"2026-05-13T21:41:58.76016333Z","domain":"ws.trg4.smms.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
