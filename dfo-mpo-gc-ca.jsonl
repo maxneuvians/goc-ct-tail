@@ -1459,3 +1459,4 @@
 {"id":"14766248311","timestamp":"2026-05-04T17:51:55.05644364Z","domain":"grafana.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-05-04T16:27:26Z","to":"2026-08-02T16:27:25Z"}
 {"id":"14830724533","timestamp":"2026-05-09T08:52:02.62628709Z","domain":"prediction.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-05-09T06:54:35Z","to":"2026-08-07T06:54:34Z"}
 {"id":"14878780428","timestamp":"2026-05-12T18:59:13.634572802Z","domain":"eprorepo-dev.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2026-05-12T00:00:00Z","to":"2026-11-12T23:59:59Z"}
+{"id":"14885738511","timestamp":"2026-05-13T05:35:30.416275166Z","domain":"prometheus.dev.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-05-13T04:29:09Z","to":"2026-08-11T04:29:08Z"}
