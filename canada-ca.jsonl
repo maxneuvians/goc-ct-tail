@@ -18935,3 +18935,14 @@
 {"id":"14885441862","timestamp":"2026-05-13T05:28:44.848989529Z","domain":"marine-geo.canada.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-08-11T23:59:59Z"}
 {"id":"14885562688","timestamp":"2026-05-13T05:28:44.848989839Z","domain":"auth.acc.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-05-13T00:00:00Z","to":"2026-11-13T23:59:59Z"}
 {"id":"14886955399","timestamp":"2026-05-13T09:15:52.966475153Z","domain":"ngstar.canada.ca","issuer":"Let's Encrypt","from":"2026-05-13T06:23:03Z","to":"2026-08-11T06:23:02Z"}
+{"id":"14891104940","timestamp":"2026-05-13T15:11:01.565400052Z","domain":"*.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-13T00:00:00Z","to":"2026-11-26T23:59:59Z"}
+{"id":"14891104940","timestamp":"2026-05-13T15:11:01.565400994Z","domain":"betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-13T00:00:00Z","to":"2026-11-26T23:59:59Z"}
+{"id":"14891105141","timestamp":"2026-05-13T15:11:01.565401355Z","domain":"*.betak.tools.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-13T00:00:00Z","to":"2026-11-26T23:59:59Z"}
+{"id":"14891105141","timestamp":"2026-05-13T15:11:01.565401635Z","domain":"betak.tools.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-13T00:00:00Z","to":"2026-11-26T23:59:59Z"}
+{"id":"14891105141","timestamp":"2026-05-13T15:11:01.565401736Z","domain":"*.tools.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-13T00:00:00Z","to":"2026-11-26T23:59:59Z"}
+{"id":"14891105141","timestamp":"2026-05-13T15:11:01.565403048Z","domain":"tools.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-13T00:00:00Z","to":"2026-11-26T23:59:59Z"}
+{"id":"14891591391","timestamp":"2026-05-13T15:11:01.565403158Z","domain":"vault.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-13T13:34:50Z","to":"2026-08-11T13:34:49Z"}
+{"id":"14891864661","timestamp":"2026-05-13T15:11:01.565403278Z","domain":"hubble.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-13T14:01:41Z","to":"2026-08-11T14:01:40Z"}
+{"id":"14891909267","timestamp":"2026-05-13T15:11:01.565403388Z","domain":"argocd.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-13T14:05:52Z","to":"2026-08-11T14:05:51Z"}
+{"id":"14891918568","timestamp":"2026-05-13T15:11:01.565404511Z","domain":"mlflow.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-13T14:06:44Z","to":"2026-08-11T14:06:43Z"}
+{"id":"14891918966","timestamp":"2026-05-13T15:11:01.565404611Z","domain":"triton.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-13T14:06:48Z","to":"2026-08-11T14:06:47Z"}
