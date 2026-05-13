@@ -1399,3 +1399,7 @@
 {"id":"14893972795","timestamp":"2026-05-13T19:08:08.540431184Z","domain":"v3-pub-atip-aoas-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-05-13T17:17:01Z","to":"2026-08-11T17:17:00Z"}
 {"id":"14893972795","timestamp":"2026-05-13T19:08:08.540431695Z","domain":"v3-pub-atip-aomt-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-05-13T17:17:01Z","to":"2026-08-11T17:17:00Z"}
 {"id":"14893972795","timestamp":"2026-05-13T19:08:08.540431995Z","domain":"v3-pub-atip-aors-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-05-13T17:17:01Z","to":"2026-08-11T17:17:00Z"}
+{"id":"14895641512","timestamp":"2026-05-13T21:03:51.229721627Z","domain":"tbs-sct.canada.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895641512","timestamp":"2026-05-13T21:03:51.229722228Z","domain":"tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895641512","timestamp":"2026-05-13T21:03:51.229722479Z","domain":"www.tbs-sct.canada.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"14895641512","timestamp":"2026-05-13T21:03:51.229722689Z","domain":"www.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
