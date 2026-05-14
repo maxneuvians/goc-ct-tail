@@ -18994,3 +18994,7 @@
 {"id":"14908084122","timestamp":"2026-05-14T18:48:04.084426917Z","domain":"tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-14T00:00:00Z","to":"2026-11-27T23:59:59Z"}
 {"id":"14908287026","timestamp":"2026-05-14T18:48:04.084426997Z","domain":"vaccin-covid.canada.ca","issuer":"Google Trust Services","from":"2026-05-14T17:06:45Z","to":"2026-08-12T18:06:42Z"}
 {"id":"14908299077","timestamp":"2026-05-14T18:48:04.084427077Z","domain":"vaccin-covid.canada.ca","issuer":"Google Trust Services","from":"2026-05-14T17:06:36Z","to":"2026-08-12T18:05:29Z"}
+{"id":"14908942726","timestamp":"2026-05-14T19:45:14.759154511Z","domain":"hydra.canada.ca","issuer":"Let's Encrypt","from":"2026-05-14T18:21:00Z","to":"2026-08-12T18:20:59Z"}
+{"id":"14908943006","timestamp":"2026-05-14T19:45:14.759155112Z","domain":"*.dev.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-14T18:21:04Z","to":"2026-08-12T18:21:03Z"}
+{"id":"14908997352","timestamp":"2026-05-14T19:45:14.759155403Z","domain":"vaccin-covid.canada.ca","issuer":"Google Trust Services","from":"2026-05-14T18:21:53Z","to":"2026-08-12T19:21:51Z"}
+{"id":"14909000685","timestamp":"2026-05-14T19:45:14.759155743Z","domain":"vaccin-covid.canada.ca","issuer":"Google Trust Services","from":"2026-05-14T18:22:01Z","to":"2026-08-12T19:21:59Z"}
