@@ -3988,8 +3988,13 @@
       "Google Trust Services": 1
     },
     "2026-05-13": {
-      "Sectigo": 1,
-      "DigiCert": 1
+      "Sectigo": 18,
+      "DigiCert": 1,
+      "Let's Encrypt": 9,
+      "Amazon Trust Services": 6
+    },
+    "2026-05-14": {
+      "Let's Encrypt": 2
     }
   },
   "errors": []
