@@ -465,3 +465,5 @@
 {"id":"14691416028","timestamp":"2026-04-28T19:10:44.101987981Z","domain":"esb2-staging.csps-efpc.gc.ca","issuer":"Sectigo","from":"2026-04-28T00:00:00Z","to":"2026-11-12T23:59:59Z"}
 {"id":"14725731898","timestamp":"2026-05-01T13:03:55.483843344Z","domain":"catalogue.csps-efpc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-01T11:15:02Z","to":"2026-07-30T11:15:01Z"}
 {"id":"14905890911","timestamp":"2026-05-14T14:31:31.824817702Z","domain":"govai-dev.csps-efpc.gc.ca","issuer":"Sectigo","from":"2026-05-14T00:00:00Z","to":"2026-11-28T23:59:59Z"}
+{"id":"14920684700","timestamp":"2026-05-15T15:26:56.547598443Z","domain":"intranet.csps-efpc.gc.ca","issuer":"Sectigo","from":"2026-05-15T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"14920684700","timestamp":"2026-05-15T15:26:56.547598864Z","domain":"www.intranet.csps-efpc.gc.ca","issuer":"Sectigo","from":"2026-05-15T00:00:00Z","to":"2026-11-29T23:59:59Z"}
