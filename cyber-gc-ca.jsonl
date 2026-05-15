@@ -961,3 +961,6 @@
 {"id":"14790348478","timestamp":"2026-05-06T14:16:52.195179195Z","domain":"*.hogwarts.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-05-06T12:14:01Z","to":"2026-08-04T12:14:00Z"}
 {"id":"14790348478","timestamp":"2026-05-06T14:16:52.195179495Z","domain":"hogwarts.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-05-06T12:14:01Z","to":"2026-08-04T12:14:00Z"}
 {"id":"14873551040","timestamp":"2026-05-12T10:19:14.848220675Z","domain":"cyberpostureassessments.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-05-12T09:02:08Z","to":"2026-08-10T09:02:07Z"}
+{"id":"14923465599","timestamp":"2026-05-15T20:01:34.386663769Z","domain":"hogwarts.logging.pb.analysis.cyber.gc.ca","issuer":"Sectigo","from":"2026-05-15T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"14923465599","timestamp":"2026-05-15T20:01:34.3866642Z","domain":"*.logging.pb.analysis.cyber.gc.ca","issuer":"Sectigo","from":"2026-05-15T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"14923465599","timestamp":"2026-05-15T20:01:34.38666436Z","domain":"logging.pb.analysis.cyber.gc.ca","issuer":"Sectigo","from":"2026-05-15T00:00:00Z","to":"2026-11-29T23:59:59Z"}
