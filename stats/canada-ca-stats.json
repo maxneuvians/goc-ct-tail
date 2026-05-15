@@ -3994,7 +3994,13 @@
       "Amazon Trust Services": 6
     },
     "2026-05-14": {
-      "Let's Encrypt": 2
+      "Let's Encrypt": 16,
+      "DigiCert": 7,
+      "Amazon Trust Services": 12,
+      "Google Trust Services": 4
+    },
+    "2026-05-15": {
+      "Let's Encrypt": 1
     }
   },
   "errors": []
