@@ -19029,3 +19029,7 @@
 {"id":"14933680953","timestamp":"2026-05-16T13:44:11.269111086Z","domain":"mlflow.ws-jlajoie.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-16T12:34:49Z","to":"2026-08-14T12:34:48Z"}
 {"id":"14935477203","timestamp":"2026-05-16T17:29:56.229657814Z","domain":"app-demo.fegc.canada.ca","issuer":"DigiCert","from":"2026-05-16T00:00:00Z","to":"2026-11-16T23:59:59Z"}
 {"id":"14939737161","timestamp":"2026-05-17T01:14:08.439252483Z","domain":"git.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-16T23:26:52Z","to":"2026-08-14T23:26:51Z"}
+{"id":"14940142489","timestamp":"2026-05-17T03:20:53.519681238Z","domain":"*.hydro.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-17T00:09:33Z","to":"2026-08-15T00:09:32Z"}
+{"id":"14940142489","timestamp":"2026-05-17T03:20:53.519681619Z","domain":"hydro.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-17T00:09:33Z","to":"2026-08-15T00:09:32Z"}
+{"id":"14940474880","timestamp":"2026-05-17T03:20:53.519681859Z","domain":"auth.tc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-05-17T00:00:00Z","to":"2026-11-17T23:59:59Z"}
+{"id":"14941137676","timestamp":"2026-05-17T03:20:53.519682109Z","domain":"dol-uat.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-05-17T01:54:33Z","to":"2026-08-15T01:54:32Z"}
