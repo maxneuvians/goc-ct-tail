@@ -4010,8 +4010,12 @@
       "DigiCert": 2
     },
     "2026-05-17": {
-      "Let's Encrypt": 4,
+      "Let's Encrypt": 7,
       "DigiCert": 2
+    },
+    "2026-05-18": {
+      "Let's Encrypt": 2,
+      "DigiCert": 1
     }
   },
   "errors": []
