@@ -19055,3 +19055,6 @@
 {"id":"14972750878","timestamp":"2026-05-19T07:30:04.536612075Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-19T06:24:42Z","to":"2026-08-17T06:24:41Z"}
 {"id":"14972788793","timestamp":"2026-05-19T09:25:23.48076713Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-19T06:28:55Z","to":"2026-08-17T06:28:54Z"}
 {"id":"14972788793","timestamp":"2026-05-19T09:25:23.48076746Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-19T06:28:55Z","to":"2026-08-17T06:28:54Z"}
+{"id":"14974827017","timestamp":"2026-05-19T11:15:29.348776986Z","domain":"resource-catalogue.ws-ws-asclepia.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-19T09:44:21Z","to":"2026-08-17T09:44:20Z"}
+{"id":"14974892396","timestamp":"2026-05-19T11:15:29.348778048Z","domain":"resource-catalogue.ws-asclepian.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-19T09:51:12Z","to":"2026-08-17T09:51:11Z"}
+{"id":"14974892437","timestamp":"2026-05-19T11:15:29.348778369Z","domain":"mlflow.ws-asclepian.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-19T09:51:13Z","to":"2026-08-17T09:51:12Z"}
