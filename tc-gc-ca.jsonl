@@ -429,3 +429,5 @@
 {"id":"14874726729","timestamp":"2026-05-12T12:56:24.547267246Z","domain":"dev-tcsupport.tc.gc.ca","issuer":"Sectigo","from":"2026-05-12T00:00:00Z","to":"2026-11-26T23:59:59Z"}
 {"id":"14874738578","timestamp":"2026-05-12T12:56:24.547267737Z","domain":"tc.gc.ca","issuer":"Sectigo","from":"2026-05-12T00:00:00Z","to":"2026-08-10T23:59:59Z"}
 {"id":"14878491614","timestamp":"2026-05-12T18:48:51.711065825Z","domain":"tcsupport.tc.gc.ca","issuer":"Sectigo","from":"2026-05-12T00:00:00Z","to":"2026-11-26T23:59:59Z"}
+{"id":"14968894300","timestamp":"2026-05-19T01:14:49.254537491Z","domain":"*.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-19T00:01:45Z","to":"2026-08-17T00:01:44Z"}
+{"id":"14968894300","timestamp":"2026-05-19T01:14:49.254537751Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-19T00:01:45Z","to":"2026-08-17T00:01:44Z"}
