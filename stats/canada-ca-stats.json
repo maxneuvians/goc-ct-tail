@@ -4014,8 +4014,9 @@
       "DigiCert": 2
     },
     "2026-05-18": {
-      "Let's Encrypt": 2,
-      "DigiCert": 1
+      "Let's Encrypt": 10,
+      "DigiCert": 1,
+      "Google Trust Services": 1
     }
   },
   "errors": []
