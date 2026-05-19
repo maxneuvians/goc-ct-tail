@@ -964,3 +964,7 @@
 {"id":"14923465599","timestamp":"2026-05-15T20:01:34.386663769Z","domain":"hogwarts.logging.pb.analysis.cyber.gc.ca","issuer":"Sectigo","from":"2026-05-15T00:00:00Z","to":"2026-11-29T23:59:59Z"}
 {"id":"14923465599","timestamp":"2026-05-15T20:01:34.3866642Z","domain":"*.logging.pb.analysis.cyber.gc.ca","issuer":"Sectigo","from":"2026-05-15T00:00:00Z","to":"2026-11-29T23:59:59Z"}
 {"id":"14923465599","timestamp":"2026-05-15T20:01:34.38666436Z","domain":"logging.pb.analysis.cyber.gc.ca","issuer":"Sectigo","from":"2026-05-15T00:00:00Z","to":"2026-11-29T23:59:59Z"}
+{"id":"14974369818","timestamp":"2026-05-19T11:34:31.931096173Z","domain":"grid.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-05-19T09:02:24Z","to":"2026-08-17T09:02:23Z"}
+{"id":"14974370806","timestamp":"2026-05-19T11:34:31.931096494Z","domain":"*.functions.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-05-19T09:03:03Z","to":"2026-08-17T09:03:02Z"}
+{"id":"14974373070","timestamp":"2026-05-19T11:34:31.931096744Z","domain":"*.functions.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-05-19T09:02:53Z","to":"2026-08-17T09:02:52Z"}
+{"id":"14974375103","timestamp":"2026-05-19T11:34:31.931096914Z","domain":"*.functions.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-05-19T09:03:12Z","to":"2026-08-17T09:03:11Z"}
