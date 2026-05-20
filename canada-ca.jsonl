@@ -19167,3 +19167,36 @@
 {"id":"14993713459","timestamp":"2026-05-20T19:00:31.752430712Z","domain":"*.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
 {"id":"14993713459","timestamp":"2026-05-20T19:00:31.752430792Z","domain":"tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
 {"id":"14993937150","timestamp":"2026-05-20T19:00:31.752430872Z","domain":"gcmatarchive-api-test.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041416896Z","domain":"*.bac-lac.canada.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041417577Z","domain":"bac-lac.canada.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041417757Z","domain":"*.bac-lac.gc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041417977Z","domain":"bac-lac.gc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041418077Z","domain":"*.bibliotheque-archives.canada.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041419119Z","domain":"bibliotheque-archives.canada.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041419199Z","domain":"*.collectionscanada.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041419279Z","domain":"collectionscanada.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041419359Z","domain":"*.collectionscanada.gc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041420251Z","domain":"collectionscanada.gc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041420331Z","domain":"*.dam-oclc-secure.bac-lac.gc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041420401Z","domain":"dam-oclc-secure.bac-lac.gc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041420481Z","domain":"*.data2.archives.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041420561Z","domain":"data2.archives.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041420641Z","domain":"*.lac-bac.gc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041420721Z","domain":"lac-bac.gc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041420792Z","domain":"*.library-archives.canada.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041420872Z","domain":"library-archives.canada.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041422134Z","domain":"*.marc21.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041422214Z","domain":"marc21.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041422434Z","domain":"*.nlc-bnc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041422514Z","domain":"nlc-bnc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041422604Z","domain":"*.nouvelle-france.org","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041422684Z","domain":"nouvelle-france.org","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041422765Z","domain":"www.bac-lac.canada.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041422855Z","domain":"www.bac-lac.gc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041422925Z","domain":"www.bibliotheque-archives.canada.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041423005Z","domain":"www.collectionscanada.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041423085Z","domain":"www.collectionscanada.gc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041423175Z","domain":"www.dam-oclc-secure.bac-lac.gc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041423255Z","domain":"www.data2.archives.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041423335Z","domain":"www.marc21.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"14994629391","timestamp":"2026-05-20T19:53:13.041423416Z","domain":"www.nlc-bnc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
