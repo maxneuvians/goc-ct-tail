@@ -2946,3 +2946,4 @@
 {"id":"14982581025","timestamp":"2026-05-19T23:34:11.904534314Z","domain":"watchtower.tak.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-19T00:00:00Z","to":"2026-12-02T23:59:59Z"}
 {"id":"14995431157","timestamp":"2026-05-20T20:53:04.527334527Z","domain":"*.watchtower.tak-test.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
 {"id":"14995431157","timestamp":"2026-05-20T20:53:04.527334847Z","domain":"watchtower.tak-test.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"14995782936","timestamp":"2026-05-20T21:46:26.536977067Z","domain":"portal-api-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2026-05-20T20:15:15Z","to":"2026-08-18T21:10:50Z"}
