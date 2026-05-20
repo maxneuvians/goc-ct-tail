@@ -4017,6 +4017,13 @@
       "Let's Encrypt": 10,
       "DigiCert": 1,
       "Google Trust Services": 1
+    },
+    "2026-05-19": {
+      "Let's Encrypt": 60,
+      "Amazon Trust Services": 24
+    },
+    "2026-05-20": {
+      "Amazon Trust Services": 10
     }
   },
   "errors": []
