@@ -19134,3 +19134,13 @@
 {"id":"14980819800","timestamp":"2026-05-19T20:45:05.890742382Z","domain":"serial.tko-ott2.dev.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-19T19:10:33Z","to":"2026-08-17T19:10:32Z"}
 {"id":"14980819800","timestamp":"2026-05-19T20:45:05.890742453Z","domain":"tko-ott2.dev.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-19T19:10:33Z","to":"2026-08-17T19:10:32Z"}
 {"id":"14980819800","timestamp":"2026-05-19T20:45:05.890742523Z","domain":"volume.tko-ott2.dev.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-19T19:10:33Z","to":"2026-08-17T19:10:32Z"}
+{"id":"14984192965","timestamp":"2026-05-20T03:21:19.643119067Z","domain":"natural-resources.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"14984192965","timestamp":"2026-05-20T03:21:19.643119388Z","domain":"nrcan.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"14984192965","timestamp":"2026-05-20T03:21:19.643119598Z","domain":"nrcan.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"14984192965","timestamp":"2026-05-20T03:21:19.643119778Z","domain":"ressources-naturelles.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"14984192965","timestamp":"2026-05-20T03:21:19.643119869Z","domain":"rncan.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"14984192965","timestamp":"2026-05-20T03:21:19.643120791Z","domain":"rncan.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"14984192965","timestamp":"2026-05-20T03:21:19.643120871Z","domain":"www.natural-resources.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"14984192965","timestamp":"2026-05-20T03:21:19.643120951Z","domain":"www.nrcan.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"14984192965","timestamp":"2026-05-20T03:21:19.643121041Z","domain":"www.ressources-naturelles.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"14984192965","timestamp":"2026-05-20T03:21:19.643122073Z","domain":"www.rncan.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
