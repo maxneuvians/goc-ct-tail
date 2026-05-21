@@ -2948,3 +2948,5 @@
 {"id":"14995431157","timestamp":"2026-05-20T20:53:04.527334847Z","domain":"watchtower.tak-test.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-20T00:00:00Z","to":"2026-12-03T23:59:59Z"}
 {"id":"14995782936","timestamp":"2026-05-20T21:46:26.536977067Z","domain":"portal-api-dev.gcp.cloud.forces.gc.ca","issuer":"Google Trust Services","from":"2026-05-20T20:15:15Z","to":"2026-08-18T21:10:50Z"}
 {"id":"14997360897","timestamp":"2026-05-21T01:16:41.333486885Z","domain":"test-sandbox.vcds.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-21T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"15005656707","timestamp":"2026-05-21T15:16:31.17890017Z","domain":"cafdbl-ldmfac.forces.gc.ca","issuer":"Sectigo","from":"2026-05-21T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"15005656707","timestamp":"2026-05-21T15:16:31.178900491Z","domain":"www.cafdbl-ldmfac.forces.gc.ca","issuer":"Sectigo","from":"2026-05-21T00:00:00Z","to":"2026-12-05T23:59:59Z"}
