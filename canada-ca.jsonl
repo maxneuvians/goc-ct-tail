@@ -19219,3 +19219,8 @@
 {"id":"15019343395","timestamp":"2026-05-22T13:59:13.524134308Z","domain":"api.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-22T12:09:09Z","to":"2026-08-20T12:09:08Z"}
 {"id":"15019343395","timestamp":"2026-05-22T13:59:13.524134789Z","domain":"realtime.partner-test.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-22T12:09:09Z","to":"2026-08-20T12:09:08Z"}
 {"id":"15020484802","timestamp":"2026-05-22T15:13:54.998872909Z","domain":"fmgs-dev.gphin.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-22T13:55:51Z","to":"2026-08-20T13:55:50Z"}
+{"id":"15021031791","timestamp":"2026-05-22T16:55:32.061461447Z","domain":"performance.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-22T14:48:01Z","to":"2026-08-20T14:48:00Z"}
+{"id":"15021247289","timestamp":"2026-05-22T16:55:32.061462589Z","domain":"*.aurora.ssc-dev-fin-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-22T15:11:00Z","to":"2026-08-20T15:10:59Z"}
+{"id":"15021247289","timestamp":"2026-05-22T16:55:32.061462889Z","domain":"*.ssc-dev-fin-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-22T15:11:00Z","to":"2026-08-20T15:10:59Z"}
+{"id":"15021256265","timestamp":"2026-05-22T16:55:32.06146321Z","domain":"resource-catalogue.ws-lakewatch.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-22T15:10:37Z","to":"2026-08-20T15:10:36Z"}
+{"id":"15021397831","timestamp":"2026-05-22T16:55:32.06146333Z","domain":"fmgs.gphin.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-22T15:26:05Z","to":"2026-08-20T15:26:04Z"}
