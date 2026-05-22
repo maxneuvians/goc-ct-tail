@@ -1802,3 +1802,5 @@
 {"id":"14755771835","timestamp":"2026-05-03T22:23:10.255615178Z","domain":"www.trackenergyregs.ca","issuer":"Let's Encrypt","from":"2026-05-03T20:52:58Z","to":"2026-08-01T20:52:57Z"}
 {"id":"14755771835","timestamp":"2026-05-03T22:23:10.255615269Z","domain":"www.trackenergyregs.com","issuer":"Let's Encrypt","from":"2026-05-03T20:52:58Z","to":"2026-08-01T20:52:57Z"}
 {"id":"14968315022","timestamp":"2026-05-19T01:14:50.321671084Z","domain":"testserver44.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-18T23:06:31Z","to":"2026-08-16T23:06:30Z"}
+{"id":"15011684553","timestamp":"2026-05-22T01:14:50.795970328Z","domain":"*.aks.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15011684553","timestamp":"2026-05-22T01:14:50.795970759Z","domain":"aks.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
