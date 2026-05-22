@@ -19208,3 +19208,8 @@
 {"id":"15001305144","timestamp":"2026-05-21T07:33:51.35961707Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-21T06:24:42Z","to":"2026-08-19T06:24:41Z"}
 {"id":"15001971735","timestamp":"2026-05-21T09:21:50.302033673Z","domain":"dol-dev.nonprod-ce.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-05-21T07:33:40Z","to":"2026-08-19T07:33:39Z"}
 {"id":"15002091743","timestamp":"2026-05-21T09:21:50.302034485Z","domain":"canchat.sandbox.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-21T07:46:56Z","to":"2026-08-19T07:46:55Z"}
+{"id":"15011516479","timestamp":"2026-05-22T01:14:52.427010229Z","domain":"brightspace-verification.csc-scc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15011740353","timestamp":"2026-05-22T01:14:52.42701069Z","domain":"health-infobase.canada.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15011740353","timestamp":"2026-05-22T01:14:52.42701093Z","domain":"infobase.phac-aspc.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15011740353","timestamp":"2026-05-22T01:14:52.42701113Z","domain":"sante-infobase.canada.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15011740353","timestamp":"2026-05-22T01:14:52.42701122Z","domain":"www.infobase.phac-aspc.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
