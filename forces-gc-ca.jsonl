@@ -2952,3 +2952,17 @@
 {"id":"15005656707","timestamp":"2026-05-21T15:16:31.178900491Z","domain":"www.cafdbl-ldmfac.forces.gc.ca","issuer":"Sectigo","from":"2026-05-21T00:00:00Z","to":"2026-12-05T23:59:59Z"}
 {"id":"15019398650","timestamp":"2026-05-22T13:59:12.518477258Z","domain":"*.raptor.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-22T00:00:00Z","to":"2026-12-05T23:59:59Z"}
 {"id":"15019398650","timestamp":"2026-05-22T13:59:12.518477929Z","domain":"raptor.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-22T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"15019897953","timestamp":"2026-05-22T15:13:57.420207819Z","domain":"*.caf.raptor.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-05-22T12:59:39Z","to":"2026-08-20T12:59:38Z"}
+{"id":"15019897953","timestamp":"2026-05-22T15:13:57.42020813Z","domain":"*.raptor.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-05-22T12:59:39Z","to":"2026-08-20T12:59:38Z"}
+{"id":"15020002452","timestamp":"2026-05-22T15:13:57.42020834Z","domain":"*.raptor.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-22T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"15020002452","timestamp":"2026-05-22T15:13:57.42020847Z","domain":"raptor.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-22T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"15020002766","timestamp":"2026-05-22T15:13:57.42020854Z","domain":"*.betak.tools.raptor.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-22T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"15020002766","timestamp":"2026-05-22T15:13:57.420209532Z","domain":"betak.tools.raptor.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-22T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"15020005249","timestamp":"2026-05-22T15:13:57.420209602Z","domain":"*.betak.tools.raptor.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-22T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"15020005249","timestamp":"2026-05-22T15:13:57.420209662Z","domain":"betak.tools.raptor.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-22T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"15020005249","timestamp":"2026-05-22T15:13:57.420209712Z","domain":"*.tools.raptor.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-22T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"15020005249","timestamp":"2026-05-22T15:13:57.420210694Z","domain":"tools.raptor.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-22T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"15020007967","timestamp":"2026-05-22T15:13:57.420210754Z","domain":"*.betak.tools.betak.tools.raptor.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-22T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"15020007967","timestamp":"2026-05-22T15:13:57.420210814Z","domain":"betak.tools.betak.tools.raptor.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-22T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"15020007967","timestamp":"2026-05-22T15:13:57.420210864Z","domain":"*.tools.betak.tools.raptor.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-22T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"15020007967","timestamp":"2026-05-22T15:13:57.420210924Z","domain":"tools.betak.tools.raptor.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-05-22T00:00:00Z","to":"2026-12-05T23:59:59Z"}
