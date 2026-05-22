@@ -1128,3 +1128,5 @@
 {"id":"14863543551","timestamp":"2026-05-11T17:47:16.079164782Z","domain":"bpc-pac-dev.ssc-spc.gc.ca","issuer":"Sectigo","from":"2026-05-11T00:00:00Z","to":"2026-11-25T23:59:59Z"}
 {"id":"14924464881","timestamp":"2026-05-15T22:29:37.45425137Z","domain":"esp-pse.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-15T20:32:59Z","to":"2026-08-13T20:32:58Z"}
 {"id":"14984018260","timestamp":"2026-05-20T03:21:19.96751943Z","domain":"dc01vpn0004.ssc-spc.gc.ca","issuer":"Sectigo","from":"2026-05-20T00:00:00Z","to":"2026-12-04T23:59:59Z"}
+{"id":"15015254545","timestamp":"2026-05-22T07:30:13.893035351Z","domain":"cloud.sscquery.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-22T05:39:21Z","to":"2026-08-20T05:39:20Z"}
+{"id":"15015255041","timestamp":"2026-05-22T07:30:13.893035801Z","domain":"cloud.sscquery.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-22T05:39:27Z","to":"2026-08-20T05:39:26Z"}
