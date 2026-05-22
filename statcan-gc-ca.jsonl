@@ -1212,3 +1212,42 @@
 {"id":"14854596051","timestamp":"2026-05-11T02:20:55.526602413Z","domain":"de-ircc.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-11T01:13:20Z","to":"2026-08-09T01:13:19Z"}
 {"id":"14860572314","timestamp":"2026-05-11T13:28:28.990768623Z","domain":"sdmx-sfs.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-11T11:45:38Z","to":"2026-08-09T11:45:37Z"}
 {"id":"14906292936","timestamp":"2026-05-14T15:17:10.587961287Z","domain":"hub-carrefour-alpha.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-14T13:54:00Z","to":"2026-08-12T13:53:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985806502Z","domain":"cancer-data.canada.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985807103Z","domain":"donnees-cancer.canada.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985807314Z","domain":"ecn-rce.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985807514Z","domain":"ecn-rce.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985807614Z","domain":"energy-information.canada.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985808235Z","domain":"icn-rci.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985808325Z","domain":"icn-rci.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985808405Z","domain":"information-energie.canada.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985808475Z","domain":"statcan.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985809046Z","domain":"www144.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985809126Z","domain":"www158.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985809206Z","domain":"www158.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985809276Z","domain":"www159.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985809357Z","domain":"www159.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985809447Z","domain":"www160.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985809517Z","domain":"www160.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985809607Z","domain":"www44.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985809687Z","domain":"www44.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985810578Z","domain":"www45.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985810659Z","domain":"www45.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985810739Z","domain":"www46.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985810959Z","domain":"www46.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985811039Z","domain":"www47.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985811119Z","domain":"www47.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985811209Z","domain":"www65.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.98581129Z","domain":"www65.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.98581137Z","domain":"www66.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.98581145Z","domain":"www66.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.98581154Z","domain":"www69.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.98581162Z","domain":"www69.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.9858117Z","domain":"www70.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.98581179Z","domain":"www70.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985812001Z","domain":"www80.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985812081Z","domain":"www80.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985812161Z","domain":"www90.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985812241Z","domain":"www90.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985812321Z","domain":"www96.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985812391Z","domain":"www96.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15022815172","timestamp":"2026-05-22T19:05:57.985812471Z","domain":"www.ecn-rce.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
