@@ -1251,3 +1251,5 @@
 {"id":"15022815172","timestamp":"2026-05-22T19:05:57.985812321Z","domain":"www96.statcan.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
 {"id":"15022815172","timestamp":"2026-05-22T19:05:57.985812391Z","domain":"www96.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
 {"id":"15022815172","timestamp":"2026-05-22T19:05:57.985812471Z","domain":"www.ecn-rce.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
+{"id":"15032822389","timestamp":"2026-05-23T11:49:59.150247292Z","domain":"mis-qa-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-23T10:30:33Z","to":"2026-08-21T10:30:32Z"}
+{"id":"15032822389","timestamp":"2026-05-23T11:49:59.150247732Z","domain":"mis-qa.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-23T10:30:33Z","to":"2026-08-21T10:30:32Z"}
