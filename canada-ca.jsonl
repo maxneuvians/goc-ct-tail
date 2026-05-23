@@ -19268,3 +19268,7 @@
 {"id":"15023445895","timestamp":"2026-05-22T19:45:01.898395846Z","domain":"ops-toolkit-pr-24.gphin.innovation.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-22T18:33:38Z","to":"2026-08-20T18:33:37Z"}
 {"id":"15033368413","timestamp":"2026-05-23T13:44:24.671159066Z","domain":"it-ti.acquisition.canada.ca","issuer":"Let's Encrypt","from":"2026-05-23T11:26:59Z","to":"2026-08-21T11:26:58Z"}
 {"id":"15033369416","timestamp":"2026-05-23T13:44:24.671159987Z","domain":"it-ti.acquisition.canada.ca","issuer":"Let's Encrypt","from":"2026-05-23T11:27:08Z","to":"2026-08-21T11:27:07Z"}
+{"id":"15035658917","timestamp":"2026-05-23T16:30:08.861560525Z","domain":"didwebserver.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-23T15:17:32Z","to":"2026-08-21T15:17:31Z"}
+{"id":"15035661168","timestamp":"2026-05-23T16:30:08.861561577Z","domain":"*.dids.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-23T15:17:32Z","to":"2026-08-21T15:17:31Z"}
+{"id":"15035668774","timestamp":"2026-05-23T16:30:08.861561867Z","domain":"api.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-23T15:18:31Z","to":"2026-08-21T15:18:30Z"}
+{"id":"15035668774","timestamp":"2026-05-23T16:30:08.861562128Z","domain":"realtime.prod.issue-verify.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-23T15:18:31Z","to":"2026-08-21T15:18:30Z"}
