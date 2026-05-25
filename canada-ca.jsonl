@@ -19290,3 +19290,8 @@
 {"id":"15051751999","timestamp":"2026-05-24T22:29:42.067020263Z","domain":"mlflow.ws-bob.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-24T20:35:57Z","to":"2026-08-22T20:35:56Z"}
 {"id":"15052469373","timestamp":"2026-05-24T23:31:04.944088988Z","domain":"clinical-trials-search.canada.ca","issuer":"Google Trust Services","from":"2026-05-24T21:58:00Z","to":"2026-08-22T22:56:53Z"}
 {"id":"15052476194","timestamp":"2026-05-24T23:31:04.944089299Z","domain":"clinical-trials-search.canada.ca","issuer":"Google Trust Services","from":"2026-05-24T21:58:08Z","to":"2026-08-22T22:58:07Z"}
+{"id":"15052861238","timestamp":"2026-05-25T01:17:43.553315534Z","domain":"*.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-24T22:51:27Z","to":"2026-08-22T22:51:26Z"}
+{"id":"15052861238","timestamp":"2026-05-25T01:17:43.553315985Z","domain":"science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-24T22:51:27Z","to":"2026-08-22T22:51:26Z"}
+{"id":"15053032332","timestamp":"2026-05-25T01:17:43.553316406Z","domain":"orion-ontario-dev.aws.tpsgc-pwgsc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-25T00:00:00Z","to":"2026-12-08T23:59:59Z"}
+{"id":"15053553966","timestamp":"2026-05-25T01:17:43.553316727Z","domain":"*.dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-05-25T00:01:46Z","to":"2026-08-23T00:01:45Z"}
+{"id":"15053553966","timestamp":"2026-05-25T01:17:43.553316857Z","domain":"dev.tc.canada.ca","issuer":"Let's Encrypt","from":"2026-05-25T00:01:46Z","to":"2026-08-23T00:01:45Z"}
