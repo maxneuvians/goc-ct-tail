@@ -1131,3 +1131,13 @@
 {"id":"15015254545","timestamp":"2026-05-22T07:30:13.893035351Z","domain":"cloud.sscquery.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-22T05:39:21Z","to":"2026-08-20T05:39:20Z"}
 {"id":"15015255041","timestamp":"2026-05-22T07:30:13.893035801Z","domain":"cloud.sscquery.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-22T05:39:27Z","to":"2026-08-20T05:39:26Z"}
 {"id":"15018177378","timestamp":"2026-05-22T13:08:38.19769927Z","domain":"catalogue-campus.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-22T10:15:40Z","to":"2026-08-20T10:15:39Z"}
+{"id":"15059865098","timestamp":"2026-05-25T13:25:01.836599733Z","domain":"daemon.srv.gc.ca","issuer":"Let's Encrypt","from":"2026-05-25T11:06:04Z","to":"2026-08-23T11:06:03Z"}
+{"id":"15059865098","timestamp":"2026-05-25T13:25:01.836600064Z","domain":"gdrm.ssc-spc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-25T11:06:04Z","to":"2026-08-23T11:06:03Z"}
+{"id":"15059865098","timestamp":"2026-05-25T13:25:01.836600314Z","domain":"registre.gc.ca","issuer":"Let's Encrypt","from":"2026-05-25T11:06:04Z","to":"2026-08-23T11:06:03Z"}
+{"id":"15059865098","timestamp":"2026-05-25T13:25:01.836600535Z","domain":"registre-registry.gc.ca","issuer":"Let's Encrypt","from":"2026-05-25T11:06:04Z","to":"2026-08-23T11:06:03Z"}
+{"id":"15059865098","timestamp":"2026-05-25T13:25:01.836600625Z","domain":"registry.gc.ca","issuer":"Let's Encrypt","from":"2026-05-25T11:06:04Z","to":"2026-08-23T11:06:03Z"}
+{"id":"15059865098","timestamp":"2026-05-25T13:25:01.836601677Z","domain":"registry-registre.gc.ca","issuer":"Let's Encrypt","from":"2026-05-25T11:06:04Z","to":"2026-08-23T11:06:03Z"}
+{"id":"15059865098","timestamp":"2026-05-25T13:25:01.836601757Z","domain":"www.registre.gc.ca","issuer":"Let's Encrypt","from":"2026-05-25T11:06:04Z","to":"2026-08-23T11:06:03Z"}
+{"id":"15059865098","timestamp":"2026-05-25T13:25:01.836601847Z","domain":"www.registre-registry.gc.ca","issuer":"Let's Encrypt","from":"2026-05-25T11:06:04Z","to":"2026-08-23T11:06:03Z"}
+{"id":"15059865098","timestamp":"2026-05-25T13:25:01.836601927Z","domain":"www.registry.gc.ca","issuer":"Let's Encrypt","from":"2026-05-25T11:06:04Z","to":"2026-08-23T11:06:03Z"}
+{"id":"15059865098","timestamp":"2026-05-25T13:25:01.83660301Z","domain":"www.registry-registre.gc.ca","issuer":"Let's Encrypt","from":"2026-05-25T11:06:04Z","to":"2026-08-23T11:06:03Z"}
