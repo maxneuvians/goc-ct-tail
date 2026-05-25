@@ -19299,3 +19299,7 @@
 {"id":"15056970834","timestamp":"2026-05-25T07:53:27.946908191Z","domain":"www.cloudopsportal.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-25T06:03:14Z","to":"2026-08-23T06:03:13Z"}
 {"id":"15057487786","timestamp":"2026-05-25T09:34:55.521786712Z","domain":"*.exp.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-25T06:57:37Z","to":"2026-08-23T06:57:36Z"}
 {"id":"15057487786","timestamp":"2026-05-25T09:34:55.521787063Z","domain":"exp.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-25T06:57:37Z","to":"2026-08-23T06:57:36Z"}
+{"id":"15058405044","timestamp":"2026-05-25T11:32:02.496920088Z","domain":"resource-catalogue.ws-rfernandes.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-25T08:31:33Z","to":"2026-08-23T08:31:32Z"}
+{"id":"15058687090","timestamp":"2026-05-25T11:32:02.496920609Z","domain":"minio.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-25T09:01:07Z","to":"2026-08-23T09:01:06Z"}
+{"id":"15058687152","timestamp":"2026-05-25T11:32:02.49692093Z","domain":"minio-console.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-25T09:01:08Z","to":"2026-08-23T09:01:07Z"}
+{"id":"15058985619","timestamp":"2026-05-25T11:32:02.49692119Z","domain":"mlflow.ws-rfernandes.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-25T09:31:42Z","to":"2026-08-23T09:31:41Z"}
