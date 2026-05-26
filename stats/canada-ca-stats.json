@@ -4044,8 +4044,12 @@
       "Google Trust Services": 6
     },
     "2026-05-25": {
-      "Amazon Trust Services": 1,
-      "Let's Encrypt": 2
+      "Amazon Trust Services": 32,
+      "Let's Encrypt": 15,
+      "DigiCert": 1
+    },
+    "2026-05-26": {
+      "Amazon Trust Services": 1
     }
   },
   "errors": []
