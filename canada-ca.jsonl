@@ -19351,3 +19351,7 @@
 {"id":"15074121932","timestamp":"2026-05-26T13:18:54.333621404Z","domain":"infrastructure-recipient-training.canada.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
 {"id":"15074121932","timestamp":"2026-05-26T13:18:54.333621484Z","domain":"www.beneficiaire-infrastructure-formation.canada.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
 {"id":"15074121932","timestamp":"2026-05-26T13:18:54.333622716Z","domain":"www.infrastructure-recipient-training.canada.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15074948543","timestamp":"2026-05-26T15:16:12.896186805Z","domain":"api.io.canada.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15074948543","timestamp":"2026-05-26T15:16:12.896187305Z","domain":"www.api.io.canada.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15075076236","timestamp":"2026-05-26T15:16:12.896187536Z","domain":"resource-catalogue.ws-leaf.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-26T12:57:35Z","to":"2026-08-24T12:57:34Z"}
+{"id":"15075077929","timestamp":"2026-05-26T15:16:12.896187746Z","domain":"mlflow.ws-leaf.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-26T12:57:36Z","to":"2026-08-24T12:57:35Z"}
