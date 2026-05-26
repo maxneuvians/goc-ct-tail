@@ -1253,3 +1253,22 @@
 {"id":"15022815172","timestamp":"2026-05-22T19:05:57.985812471Z","domain":"www.ecn-rce.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-22T00:00:00Z","to":"2026-12-06T23:59:59Z"}
 {"id":"15032822389","timestamp":"2026-05-23T11:49:59.150247292Z","domain":"mis-qa-cloud.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-23T10:30:33Z","to":"2026-08-21T10:30:32Z"}
 {"id":"15032822389","timestamp":"2026-05-23T11:49:59.150247732Z","domain":"mis-qa.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-23T10:30:33Z","to":"2026-08-21T10:30:32Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.562832756Z","domain":"eq3-admin-service.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.562833056Z","domain":"eq3-bounceback-service.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.562833297Z","domain":"eq3-email-services.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.562833477Z","domain":"eq3-email-services-v2.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.562833567Z","domain":"eq3-eq4gcodesearch-service.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.562834208Z","domain":"eq3-eq-eft-services.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.562834288Z","domain":"eq3-form-services.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.562834379Z","domain":"eq3-gcode3dnaics-service.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.562834459Z","domain":"eq3-jobscheduler-service.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.56283492Z","domain":"eq3-loadsamplefile-service.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.562835Z","domain":"eq3-maintenance-service.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.56283508Z","domain":"eq3-mis-services.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.56283516Z","domain":"eq3-portal-service.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.56283525Z","domain":"eq3-questionnairedeploy-service.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.56283533Z","domain":"eq3-randomselector-service.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.56283541Z","domain":"eq3-surveysearch-service.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.562835501Z","domain":"eq3-survey-services.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.562835581Z","domain":"eq3-upload-service.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15077873463","timestamp":"2026-05-26T19:17:37.562836072Z","domain":"iiszpsvcnlbeq3.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
