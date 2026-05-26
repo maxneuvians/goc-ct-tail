@@ -19345,3 +19345,9 @@
 {"id":"15070953153","timestamp":"2026-05-26T09:26:11.068661069Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-26T06:24:41Z","to":"2026-08-24T06:24:40Z"}
 {"id":"15070989717","timestamp":"2026-05-26T09:26:11.06866132Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-26T06:28:57Z","to":"2026-08-24T06:28:56Z"}
 {"id":"15070989717","timestamp":"2026-05-26T09:26:11.06866153Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-26T06:28:57Z","to":"2026-08-24T06:28:56Z"}
+{"id":"15073923013","timestamp":"2026-05-26T13:18:54.333620733Z","domain":"collaboration.nrc.canada.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15073942886","timestamp":"2026-05-26T13:18:54.333621053Z","domain":"zhipeng.bc16.exp.science.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-26T11:08:48Z","to":"2026-08-24T11:08:47Z"}
+{"id":"15074121932","timestamp":"2026-05-26T13:18:54.333621244Z","domain":"beneficiaire-infrastructure-formation.canada.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15074121932","timestamp":"2026-05-26T13:18:54.333621404Z","domain":"infrastructure-recipient-training.canada.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15074121932","timestamp":"2026-05-26T13:18:54.333621484Z","domain":"www.beneficiaire-infrastructure-formation.canada.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15074121932","timestamp":"2026-05-26T13:18:54.333622716Z","domain":"www.infrastructure-recipient-training.canada.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
