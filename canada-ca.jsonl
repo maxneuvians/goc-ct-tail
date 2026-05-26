@@ -19355,3 +19355,6 @@
 {"id":"15074948543","timestamp":"2026-05-26T15:16:12.896187305Z","domain":"www.api.io.canada.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
 {"id":"15075076236","timestamp":"2026-05-26T15:16:12.896187536Z","domain":"resource-catalogue.ws-leaf.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-26T12:57:35Z","to":"2026-08-24T12:57:34Z"}
 {"id":"15075077929","timestamp":"2026-05-26T15:16:12.896187746Z","domain":"mlflow.ws-leaf.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-05-26T12:57:36Z","to":"2026-08-24T12:57:35Z"}
+{"id":"15077468178","timestamp":"2026-05-26T18:59:54.135949553Z","domain":"*.aurora.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-26T16:40:51Z","to":"2026-08-24T16:40:50Z"}
+{"id":"15077468178","timestamp":"2026-05-26T18:59:54.135949944Z","domain":"*.aurora.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-26T16:40:51Z","to":"2026-08-24T16:40:50Z"}
+{"id":"15077468178","timestamp":"2026-05-26T18:59:54.135950284Z","domain":"*.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-26T16:40:51Z","to":"2026-08-24T16:40:50Z"}
