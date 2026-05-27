@@ -19364,3 +19364,5 @@
 {"id":"15090943329","timestamp":"2026-05-27T17:16:28.699782999Z","domain":"newsdesk.experimentation.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-05-27T14:19:42Z","to":"2026-08-25T15:09:33Z"}
 {"id":"15093417826","timestamp":"2026-05-27T19:49:48.956818401Z","domain":"azure-oauth.irb-cisr.canada.ca","issuer":"Sectigo","from":"2026-05-27T00:00:00Z","to":"2026-12-11T23:59:59Z"}
 {"id":"15095276410","timestamp":"2026-05-27T22:44:03.736366078Z","domain":"cv-parser.dev.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-05-27T00:00:00Z","to":"2026-11-27T23:59:59Z"}
+{"id":"15095993692","timestamp":"2026-05-27T23:37:30.676968729Z","domain":"*.test.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-27T22:10:31Z","to":"2026-08-25T22:10:30Z"}
+{"id":"15096213458","timestamp":"2026-05-27T23:37:30.67696921Z","domain":"*.test.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-27T22:32:16Z","to":"2026-08-25T22:32:15Z"}
