@@ -4049,7 +4049,9 @@
       "DigiCert": 1
     },
     "2026-05-26": {
-      "Amazon Trust Services": 1
+      "Amazon Trust Services": 1,
+      "Let's Encrypt": 10,
+      "Sectigo": 7
     }
   },
   "errors": []
