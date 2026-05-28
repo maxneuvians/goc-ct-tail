@@ -1404,3 +1404,7 @@
 {"id":"14895641512","timestamp":"2026-05-13T21:03:51.229722479Z","domain":"www.tbs-sct.canada.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
 {"id":"14895641512","timestamp":"2026-05-13T21:03:51.229722689Z","domain":"www.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-05-13T00:00:00Z","to":"2026-11-27T23:59:59Z"}
 {"id":"14980719475","timestamp":"2026-05-19T20:06:42.57680109Z","domain":"talentcloud-pilot.prd.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-05-19T00:00:00Z","to":"2026-12-03T23:59:59Z"}
+{"id":"15110064022","timestamp":"2026-05-28T22:08:46.360907413Z","domain":"aoas-pub.uat.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-05-28T00:00:00Z","to":"2026-12-12T23:59:59Z"}
+{"id":"15110064022","timestamp":"2026-05-28T22:08:46.360907764Z","domain":"aomt-pub.uat.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-05-28T00:00:00Z","to":"2026-12-12T23:59:59Z"}
+{"id":"15110064022","timestamp":"2026-05-28T22:08:46.360908014Z","domain":"aors-pub.uat.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-05-28T00:00:00Z","to":"2026-12-12T23:59:59Z"}
+{"id":"15110064022","timestamp":"2026-05-28T22:08:46.360908204Z","domain":"rpss-appmgmt-pub.uat.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-05-28T00:00:00Z","to":"2026-12-12T23:59:59Z"}
