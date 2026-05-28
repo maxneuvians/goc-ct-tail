@@ -1807,3 +1807,5 @@
 {"id":"15040094133","timestamp":"2026-05-24T01:16:31.334443964Z","domain":"testdd2.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-23T23:04:27Z","to":"2026-08-21T23:04:26Z"}
 {"id":"15040094133","timestamp":"2026-05-24T01:16:31.33444436Z","domain":"testdd.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-23T23:04:27Z","to":"2026-08-21T23:04:26Z"}
 {"id":"15052965655","timestamp":"2026-05-25T01:17:41.816823419Z","domain":"testserverdave.azs.api.rcmp-grc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-24T23:03:04Z","to":"2026-08-22T23:03:03Z"}
+{"id":"15108387827","timestamp":"2026-05-28T19:05:46.513939437Z","domain":"servicesb2cdev-rcmp-grc-acr.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2026-05-28T00:00:00Z","to":"2026-12-12T23:59:59Z"}
+{"id":"15108387827","timestamp":"2026-05-28T19:05:46.513939818Z","domain":"servicesdev.rcmp-grc.gc.ca","issuer":"Sectigo","from":"2026-05-28T00:00:00Z","to":"2026-12-12T23:59:59Z"}
