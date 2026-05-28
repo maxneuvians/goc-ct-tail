@@ -19368,3 +19368,8 @@
 {"id":"15096213458","timestamp":"2026-05-27T23:37:30.67696921Z","domain":"*.test.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-27T22:32:16Z","to":"2026-08-25T22:32:15Z"}
 {"id":"15096406018","timestamp":"2026-05-28T01:08:43.539856691Z","domain":"*.test.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-27T22:52:13Z","to":"2026-08-25T22:52:12Z"}
 {"id":"15096542226","timestamp":"2026-05-28T01:08:43.539857062Z","domain":"ebidm.sandbox.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-05-28T00:00:00Z","to":"2026-11-28T23:59:59Z"}
+{"id":"15098927977","timestamp":"2026-05-28T05:35:50.862209721Z","domain":"*.dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-28T00:00:00Z","to":"2026-12-11T23:59:59Z"}
+{"id":"15098927977","timestamp":"2026-05-28T05:35:50.862210082Z","domain":"dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-28T00:00:00Z","to":"2026-12-11T23:59:59Z"}
+{"id":"15100014927","timestamp":"2026-05-28T05:35:50.862210322Z","domain":"nrcan-rncan.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T04:18:54Z","to":"2026-08-26T04:18:53Z"}
+{"id":"15100014927","timestamp":"2026-05-28T05:35:50.862210552Z","domain":"rncan-nrcan.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T04:18:54Z","to":"2026-08-26T04:18:53Z"}
+{"id":"15100014927","timestamp":"2026-05-28T05:35:50.862210632Z","domain":"www2.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-28T04:18:54Z","to":"2026-08-26T04:18:53Z"}
