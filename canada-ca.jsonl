@@ -19377,3 +19377,9 @@
 {"id":"15101349246","timestamp":"2026-05-28T07:38:52.564568632Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T06:24:32Z","to":"2026-08-26T06:24:31Z"}
 {"id":"15101417687","timestamp":"2026-05-28T07:38:52.564568887Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T06:29:08Z","to":"2026-08-26T06:29:07Z"}
 {"id":"15101417687","timestamp":"2026-05-28T07:38:52.564569117Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T06:29:08Z","to":"2026-08-26T06:29:07Z"}
+{"id":"15107568428","timestamp":"2026-05-28T17:26:04.625392316Z","domain":"api.newsdesk-infomedia.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T16:16:08Z","to":"2026-08-26T16:16:07Z"}
+{"id":"15107568428","timestamp":"2026-05-28T17:26:04.625392921Z","domain":"newsdesk-infomedia.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T16:16:08Z","to":"2026-08-26T16:16:07Z"}
+{"id":"15107568428","timestamp":"2026-05-28T17:26:04.625393157Z","domain":"prd.api.newsdesk-infomedia.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T16:16:08Z","to":"2026-08-26T16:16:07Z"}
+{"id":"15107568428","timestamp":"2026-05-28T17:26:04.625393304Z","domain":"prd.newsdesk-infomedia.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T16:16:08Z","to":"2026-08-26T16:16:07Z"}
+{"id":"15107568428","timestamp":"2026-05-28T17:26:04.625393356Z","domain":"solr.newsdesk-infomedia.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T16:16:08Z","to":"2026-08-26T16:16:07Z"}
+{"id":"15107568428","timestamp":"2026-05-28T17:26:04.625394005Z","domain":"www.newsdesk-infomedia.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T16:16:08Z","to":"2026-08-26T16:16:07Z"}
