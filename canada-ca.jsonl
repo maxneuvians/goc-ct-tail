@@ -19373,3 +19373,7 @@
 {"id":"15100014927","timestamp":"2026-05-28T05:35:50.862210322Z","domain":"nrcan-rncan.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T04:18:54Z","to":"2026-08-26T04:18:53Z"}
 {"id":"15100014927","timestamp":"2026-05-28T05:35:50.862210552Z","domain":"rncan-nrcan.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T04:18:54Z","to":"2026-08-26T04:18:53Z"}
 {"id":"15100014927","timestamp":"2026-05-28T05:35:50.862210632Z","domain":"www2.rncan-nrcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-28T04:18:54Z","to":"2026-08-26T04:18:53Z"}
+{"id":"15101349246","timestamp":"2026-05-28T07:38:52.564568003Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T06:24:32Z","to":"2026-08-26T06:24:31Z"}
+{"id":"15101349246","timestamp":"2026-05-28T07:38:52.564568632Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T06:24:32Z","to":"2026-08-26T06:24:31Z"}
+{"id":"15101417687","timestamp":"2026-05-28T07:38:52.564568887Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T06:29:08Z","to":"2026-08-26T06:29:07Z"}
+{"id":"15101417687","timestamp":"2026-05-28T07:38:52.564569117Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-05-28T06:29:08Z","to":"2026-08-26T06:29:07Z"}
