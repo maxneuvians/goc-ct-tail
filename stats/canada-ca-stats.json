@@ -4052,6 +4052,21 @@
       "Amazon Trust Services": 1,
       "Let's Encrypt": 10,
       "Sectigo": 7
+    },
+    "2026-05-27": {
+      "Let's Encrypt": 4,
+      "Google Trust Services": 3,
+      "Sectigo": 1,
+      "DigiCert": 1
+    },
+    "2026-05-28": {
+      "DigiCert": 1,
+      "Amazon Trust Services": 4,
+      "Let's Encrypt": 17,
+      "Sectigo": 2
+    },
+    "2026-05-29": {
+      "Amazon Trust Services": 4
     }
   },
   "errors": []
