@@ -19397,3 +19397,4 @@
 {"id":"15111622477","timestamp":"2026-05-29T01:17:59.759629456Z","domain":"dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2026-05-29T00:00:00Z","to":"2026-12-12T23:59:59Z"}
 {"id":"15115320715","timestamp":"2026-05-29T07:37:22.209356353Z","domain":"gac-amc-sso-au-cate.canada.ca","issuer":"DigiCert","from":"2026-05-29T00:00:00Z","to":"2026-11-29T23:59:59Z"}
 {"id":"15116078163","timestamp":"2026-05-29T07:37:22.209356844Z","domain":"app.p2p.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-29T06:04:34Z","to":"2026-08-27T06:04:33Z"}
+{"id":"15118525065","timestamp":"2026-05-29T11:17:26.015727878Z","domain":"argocd.prod.thinkon.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-05-29T09:50:18Z","to":"2026-08-27T09:50:17Z"}
