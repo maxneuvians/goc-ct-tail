@@ -1272,3 +1272,5 @@
 {"id":"15077873463","timestamp":"2026-05-26T19:17:37.562835501Z","domain":"eq3-survey-services.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
 {"id":"15077873463","timestamp":"2026-05-26T19:17:37.562835581Z","domain":"eq3-upload-service.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
 {"id":"15077873463","timestamp":"2026-05-26T19:17:37.562836072Z","domain":"iiszpsvcnlbeq3.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15134353335","timestamp":"2026-05-30T14:07:12.717143689Z","domain":"geosuite.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2026-05-30T12:08:50Z","to":"2026-08-28T12:08:49Z"}
+{"id":"15134353335","timestamp":"2026-05-30T14:07:12.71714417Z","domain":"geosuite.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-30T12:08:50Z","to":"2026-08-28T12:08:49Z"}
