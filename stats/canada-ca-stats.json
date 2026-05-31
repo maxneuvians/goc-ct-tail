@@ -4070,6 +4070,10 @@
       "DigiCert": 1,
       "Let's Encrypt": 5,
       "Sectigo": 2
+    },
+    "2026-05-30": {
+      "Let's Encrypt": 51,
+      "DigiCert": 1
     }
   },
   "errors": []
