@@ -869,3 +869,6 @@
 {"id":"15103610236","timestamp":"2026-05-28T11:31:26.479566249Z","domain":"check-cache.unclass.aks.cloud.veterans.gc.ca","issuer":"Let's Encrypt","from":"2026-05-28T09:52:49Z","to":"2026-08-26T09:52:48Z"}
 {"id":"15122036220","timestamp":"2026-05-29T17:31:03.989889522Z","domain":"prod-latest-config-changes.unclass.aks.cloud.veterans.gc.ca","issuer":"Let's Encrypt","from":"2026-05-29T15:35:47Z","to":"2026-08-27T15:35:46Z"}
 {"id":"15124571325","timestamp":"2026-05-29T21:03:18.846857758Z","domain":"vid-gal-view-filters-fix.unclass.aks.cloud.veterans.gc.ca","issuer":"Let's Encrypt","from":"2026-05-29T19:53:16Z","to":"2026-08-27T19:53:15Z"}
+{"id":"15159860510","timestamp":"2026-06-01T12:15:27.966527008Z","domain":"add-onboarding-doc.unclass.aks.cloud.veterans.gc.ca","issuer":"Let's Encrypt","from":"2026-06-01T09:31:21Z","to":"2026-08-30T09:31:20Z"}
+{"id":"15160103038","timestamp":"2026-06-01T12:15:27.966527819Z","domain":"add-casualty-db-index.unclass.aks.cloud.veterans.gc.ca","issuer":"Let's Encrypt","from":"2026-06-01T09:54:05Z","to":"2026-08-30T09:54:04Z"}
+{"id":"15160272317","timestamp":"2026-06-01T12:15:27.96652808Z","domain":"update-docusauraus-dependencies.unclass.aks.cloud.veterans.gc.ca","issuer":"Let's Encrypt","from":"2026-06-01T10:09:57Z","to":"2026-08-30T10:09:56Z"}
