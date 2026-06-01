@@ -19495,3 +19495,6 @@
 {"id":"15156307371","timestamp":"2026-06-01T05:49:45.72790651Z","domain":"sso-qa-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2026-06-01T03:43:54Z","to":"2026-08-30T03:43:53Z"}
 {"id":"15156307371","timestamp":"2026-06-01T05:49:45.72790657Z","domain":"sso-uat.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-01T03:43:54Z","to":"2026-08-30T03:43:53Z"}
 {"id":"15156307371","timestamp":"2026-06-01T05:49:45.72790662Z","domain":"sso-uat-ised-isde.fjgc-gccf.gc.ca","issuer":"Let's Encrypt","from":"2026-06-01T03:43:54Z","to":"2026-08-30T03:43:53Z"}
+{"id":"15161141097","timestamp":"2026-06-01T14:20:11.914164195Z","domain":"*.dev.iga-gai.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-01T11:37:42Z","to":"2026-08-30T11:37:41Z"}
+{"id":"15161241281","timestamp":"2026-06-01T14:20:11.914164696Z","domain":"canchat.dev.ibm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-06-01T00:00:00Z","to":"2026-12-01T23:59:59Z"}
+{"id":"15161867897","timestamp":"2026-06-01T14:20:11.914165087Z","domain":"aurora.gccloudone.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-01T13:18:51Z","to":"2026-08-30T13:18:50Z"}
