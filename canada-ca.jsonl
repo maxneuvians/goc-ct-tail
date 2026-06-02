@@ -19509,3 +19509,7 @@
 {"id":"15165249890","timestamp":"2026-06-01T20:36:01.269219861Z","domain":"www.newsdesk-infomedia.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-01T18:35:09Z","to":"2026-08-30T18:35:08Z"}
 {"id":"15165882307","timestamp":"2026-06-01T22:13:38.68391978Z","domain":"dec-ui-react.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-01T19:48:07Z","to":"2026-08-30T19:48:06Z"}
 {"id":"15168112525","timestamp":"2026-06-02T01:23:20.513444881Z","domain":"maladies.canada.ca","issuer":"Let's Encrypt","from":"2026-06-01T23:26:24Z","to":"2026-08-30T23:26:23Z"}
+{"id":"15172688603","timestamp":"2026-06-02T07:56:23.890465609Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-02T06:24:29Z","to":"2026-08-31T06:24:28Z"}
+{"id":"15172688603","timestamp":"2026-06-02T07:56:23.890466Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-02T06:24:29Z","to":"2026-08-31T06:24:28Z"}
+{"id":"15172721160","timestamp":"2026-06-02T07:56:23.890466391Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-02T06:29:15Z","to":"2026-08-31T06:29:14Z"}
+{"id":"15172721160","timestamp":"2026-06-02T07:56:23.890466661Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-02T06:29:15Z","to":"2026-08-31T06:29:14Z"}
