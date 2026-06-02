@@ -433,3 +433,5 @@
 {"id":"14968894300","timestamp":"2026-05-19T01:14:49.254537751Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-19T00:01:45Z","to":"2026-08-17T00:01:44Z"}
 {"id":"15067275626","timestamp":"2026-05-26T01:13:01.534633718Z","domain":"*.dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-26T00:01:45Z","to":"2026-08-24T00:01:44Z"}
 {"id":"15067275626","timestamp":"2026-05-26T01:13:01.534633979Z","domain":"dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-05-26T00:01:45Z","to":"2026-08-24T00:01:44Z"}
+{"id":"15168480672","timestamp":"2026-06-02T01:23:20.347491045Z","domain":"*.acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T00:01:48Z","to":"2026-08-31T00:01:47Z"}
+{"id":"15168480672","timestamp":"2026-06-02T01:23:20.347491465Z","domain":"acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T00:01:48Z","to":"2026-08-31T00:01:47Z"}
