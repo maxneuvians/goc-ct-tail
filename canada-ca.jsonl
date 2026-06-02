@@ -19515,3 +19515,5 @@
 {"id":"15172721160","timestamp":"2026-06-02T07:56:23.890466661Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-02T06:29:15Z","to":"2026-08-31T06:29:14Z"}
 {"id":"15176933090","timestamp":"2026-06-02T15:36:10.113761224Z","domain":"gitea.wass.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-02T12:44:28Z","to":"2026-08-31T12:44:27Z"}
 {"id":"15177907976","timestamp":"2026-06-02T15:36:10.113761574Z","domain":"www.neics-nscei.canada.ca","issuer":"Sectigo","from":"2026-06-02T00:00:00Z","to":"2026-12-17T23:59:59Z"}
+{"id":"15181395272","timestamp":"2026-06-02T21:15:33.773694866Z","domain":"eagle.aurora.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-02T18:37:37Z","to":"2026-08-31T18:37:36Z"}
+{"id":"15182282204","timestamp":"2026-06-02T21:15:33.773695197Z","domain":"diseases.canada.ca","issuer":"Let's Encrypt","from":"2026-06-02T19:44:21Z","to":"2026-08-31T19:44:20Z"}
