@@ -19513,3 +19513,5 @@
 {"id":"15172688603","timestamp":"2026-06-02T07:56:23.890466Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-02T06:24:29Z","to":"2026-08-31T06:24:28Z"}
 {"id":"15172721160","timestamp":"2026-06-02T07:56:23.890466391Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-02T06:29:15Z","to":"2026-08-31T06:29:14Z"}
 {"id":"15172721160","timestamp":"2026-06-02T07:56:23.890466661Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-02T06:29:15Z","to":"2026-08-31T06:29:14Z"}
+{"id":"15176933090","timestamp":"2026-06-02T15:36:10.113761224Z","domain":"gitea.wass.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-02T12:44:28Z","to":"2026-08-31T12:44:27Z"}
+{"id":"15177907976","timestamp":"2026-06-02T15:36:10.113761574Z","domain":"www.neics-nscei.canada.ca","issuer":"Sectigo","from":"2026-06-02T00:00:00Z","to":"2026-12-17T23:59:59Z"}
