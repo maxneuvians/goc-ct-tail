@@ -980,3 +980,16 @@
 {"id":"15063599200","timestamp":"2026-05-25T19:01:40.70988457Z","domain":"*.mcp.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-05-25T17:29:32Z","to":"2026-08-23T17:29:31Z"}
 {"id":"15063599200","timestamp":"2026-05-25T19:01:40.70988501Z","domain":"mcp.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-05-25T17:29:32Z","to":"2026-08-23T17:29:31Z"}
 {"id":"15133980292","timestamp":"2026-05-30T12:51:00.310985743Z","domain":"jimbob.test.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-05-30T11:33:30Z","to":"2026-08-28T11:33:29Z"}
+{"id":"15174424887","timestamp":"2026-06-02T11:52:34.449928832Z","domain":"dnsdb.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T09:02:02Z","to":"2026-08-31T09:02:01Z"}
+{"id":"15174425445","timestamp":"2026-06-02T11:52:34.449929273Z","domain":"alfred-ci.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T09:02:05Z","to":"2026-08-31T09:02:04Z"}
+{"id":"15174425445","timestamp":"2026-06-02T11:52:34.449929473Z","domain":"alfred-dev.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T09:02:05Z","to":"2026-08-31T09:02:04Z"}
+{"id":"15174425445","timestamp":"2026-06-02T11:52:34.449929844Z","domain":"alfred-sonar.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T09:02:05Z","to":"2026-08-31T09:02:04Z"}
+{"id":"15174425445","timestamp":"2026-06-02T11:52:34.449929934Z","domain":"alfred-stg.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T09:02:05Z","to":"2026-08-31T09:02:04Z"}
+{"id":"15174425445","timestamp":"2026-06-02T11:52:34.449930976Z","domain":"alfred-tst.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T09:02:05Z","to":"2026-08-31T09:02:04Z"}
+{"id":"15174427887","timestamp":"2026-06-02T11:52:34.449931066Z","domain":"*.aurora-dev.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T09:02:31Z","to":"2026-08-31T09:02:30Z"}
+{"id":"15174430091","timestamp":"2026-06-02T11:52:34.449931167Z","domain":"nctns.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T09:02:55Z","to":"2026-08-31T09:02:54Z"}
+{"id":"15174430091","timestamp":"2026-06-02T11:52:34.449931247Z","domain":"notifications.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T09:02:55Z","to":"2026-08-31T09:02:54Z"}
+{"id":"15174442307","timestamp":"2026-06-02T11:52:34.449932148Z","domain":"*.aurora-core-dev.pb.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T09:02:53Z","to":"2026-08-31T09:02:52Z"}
+{"id":"15174444060","timestamp":"2026-06-02T11:52:34.449932238Z","domain":"*.floonet-dev.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T09:03:22Z","to":"2026-08-31T09:03:21Z"}
+{"id":"15174457510","timestamp":"2026-06-02T11:52:34.449932329Z","domain":"*.misp.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T09:03:47Z","to":"2026-08-31T09:03:46Z"}
+{"id":"15174457510","timestamp":"2026-06-02T11:52:34.449932409Z","domain":"misp.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-02T09:03:47Z","to":"2026-08-31T09:03:46Z"}
