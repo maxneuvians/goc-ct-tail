@@ -127,3 +127,6 @@
 {"id":"13654055397","timestamp":"2026-02-02T16:31:47.534172427Z","domain":"*.ic.gc.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
 {"id":"13654055397","timestamp":"2026-02-02T16:31:47.534173138Z","domain":"mls-lce-1.ic.gc.ca","issuer":"Sectigo","from":"2026-02-02T00:00:00Z","to":"2027-03-05T23:59:59Z"}
 {"id":"14353328396","timestamp":"2026-04-02T15:39:03.865684573Z","domain":"ic.gc.ca","issuer":"Sectigo","from":"2026-04-02T00:00:00Z","to":"2026-07-01T23:59:59Z"}
+{"id":"15196662432","timestamp":"2026-06-03T17:59:38.624963347Z","domain":"ic.gc.ca","issuer":"Sectigo","from":"2026-06-03T00:00:00Z","to":"2026-09-01T23:59:59Z"}
+{"id":"15196670967","timestamp":"2026-06-03T17:59:38.624963818Z","domain":"connexion.ic.gc.ca","issuer":"Sectigo","from":"2026-06-03T00:00:00Z","to":"2026-12-18T23:59:59Z"}
+{"id":"15196670967","timestamp":"2026-06-03T17:59:38.624964069Z","domain":"prd-connexion.ic.gc.ca","issuer":"Sectigo","from":"2026-06-03T00:00:00Z","to":"2026-12-18T23:59:59Z"}
