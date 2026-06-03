@@ -19523,3 +19523,13 @@
 {"id":"15195000503","timestamp":"2026-06-03T15:46:52.098489611Z","domain":"portail.prod.delivrance-verification.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-03T13:42:07Z","to":"2026-09-01T13:42:06Z"}
 {"id":"15195087846","timestamp":"2026-06-03T15:46:52.098489872Z","domain":"cbcl.alpha.service.canada.ca","issuer":"Let's Encrypt","from":"2026-06-03T13:50:58Z","to":"2026-09-01T13:50:57Z"}
 {"id":"15195098047","timestamp":"2026-06-03T15:46:52.098490092Z","domain":"classic.alpha.service.canada.ca","issuer":"Let's Encrypt","from":"2026-06-03T13:51:03Z","to":"2026-09-01T13:51:02Z"}
+{"id":"15196375483","timestamp":"2026-06-03T17:51:37.153178706Z","domain":"fiftyone.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-03T15:36:20Z","to":"2026-09-01T15:36:19Z"}
+{"id":"15196381061","timestamp":"2026-06-03T17:51:37.153179136Z","domain":"keycloak.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-03T15:36:19Z","to":"2026-09-01T15:36:18Z"}
+{"id":"15196405229","timestamp":"2026-06-03T17:51:37.153179377Z","domain":"fertiscan.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-03T15:37:55Z","to":"2026-09-01T15:37:54Z"}
+{"id":"15196531797","timestamp":"2026-06-03T17:51:37.153179627Z","domain":"csnpe-nslsc.canada.ca","issuer":"Sectigo","from":"2026-06-03T00:00:00Z","to":"2026-12-18T23:59:59Z"}
+{"id":"15196531797","timestamp":"2026-06-03T17:51:37.153179737Z","domain":"protege-secure-2.csnpe-nslsc.canada.ca","issuer":"Sectigo","from":"2026-06-03T00:00:00Z","to":"2026-12-18T23:59:59Z"}
+{"id":"15196531797","timestamp":"2026-06-03T17:51:37.153180859Z","domain":"protege-secure.csnpe-nslsc.canada.ca","issuer":"Sectigo","from":"2026-06-03T00:00:00Z","to":"2026-12-18T23:59:59Z"}
+{"id":"15196531797","timestamp":"2026-06-03T17:51:37.153180949Z","domain":"www.csnpe-nslsc.canada.ca","issuer":"Sectigo","from":"2026-06-03T00:00:00Z","to":"2026-12-18T23:59:59Z"}
+{"id":"15197183415","timestamp":"2026-06-03T17:51:37.153181039Z","domain":"nachet-dev-op.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-03T16:39:37Z","to":"2026-09-01T16:39:36Z"}
+{"id":"15197225373","timestamp":"2026-06-03T17:51:37.153181139Z","domain":"insect.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-03T16:42:21Z","to":"2026-09-01T16:42:20Z"}
+{"id":"15197228679","timestamp":"2026-06-03T17:51:37.153182471Z","domain":"memos.inspection.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-03T16:42:20Z","to":"2026-09-01T16:42:19Z"}
