@@ -19517,3 +19517,5 @@
 {"id":"15177907976","timestamp":"2026-06-02T15:36:10.113761574Z","domain":"www.neics-nscei.canada.ca","issuer":"Sectigo","from":"2026-06-02T00:00:00Z","to":"2026-12-17T23:59:59Z"}
 {"id":"15181395272","timestamp":"2026-06-02T21:15:33.773694866Z","domain":"eagle.aurora.ssc-dev-aurorasdlc.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-02T18:37:37Z","to":"2026-08-31T18:37:36Z"}
 {"id":"15182282204","timestamp":"2026-06-02T21:15:33.773695197Z","domain":"diseases.canada.ca","issuer":"Let's Encrypt","from":"2026-06-02T19:44:21Z","to":"2026-08-31T19:44:20Z"}
+{"id":"15185848596","timestamp":"2026-06-03T03:23:59.62094666Z","domain":"*.alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-03T00:00:00Z","to":"2026-12-17T23:59:59Z"}
+{"id":"15185848596","timestamp":"2026-06-03T03:23:59.620947061Z","domain":"alpha.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-03T00:00:00Z","to":"2026-12-17T23:59:59Z"}
