@@ -4081,6 +4081,13 @@
     "2026-06-01": {
       "Let's Encrypt": 31,
       "DigiCert": 1
+    },
+    "2026-06-02": {
+      "Let's Encrypt": 7,
+      "Sectigo": 1
+    },
+    "2026-06-03": {
+      "Amazon Trust Services": 2
     }
   },
   "errors": []
