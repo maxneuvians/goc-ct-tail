@@ -1274,3 +1274,8 @@
 {"id":"15077873463","timestamp":"2026-05-26T19:17:37.562836072Z","domain":"iiszpsvcnlbeq3.stcpaz.statcan.gc.ca","issuer":"Sectigo","from":"2026-05-26T00:00:00Z","to":"2026-12-10T23:59:59Z"}
 {"id":"15134353335","timestamp":"2026-05-30T14:07:12.717143689Z","domain":"geosuite.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2026-05-30T12:08:50Z","to":"2026-08-28T12:08:49Z"}
 {"id":"15134353335","timestamp":"2026-05-30T14:07:12.71714417Z","domain":"geosuite.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-05-30T12:08:50Z","to":"2026-08-28T12:08:49Z"}
+{"id":"15204546848","timestamp":"2026-06-04T06:07:32.350741063Z","domain":"api.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-06-04T03:06:27Z","to":"2026-09-02T03:06:26Z"}
+{"id":"15205457584","timestamp":"2026-06-04T06:07:32.350741774Z","domain":"statcan.ca","issuer":"Let's Encrypt","from":"2026-06-04T04:24:21Z","to":"2026-09-02T04:24:20Z"}
+{"id":"15205457584","timestamp":"2026-06-04T06:07:32.350742014Z","domain":"statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-06-04T04:24:21Z","to":"2026-09-02T04:24:20Z"}
+{"id":"15205457584","timestamp":"2026-06-04T06:07:32.350742205Z","domain":"www.statcan.ca","issuer":"Let's Encrypt","from":"2026-06-04T04:24:21Z","to":"2026-09-02T04:24:20Z"}
+{"id":"15205457584","timestamp":"2026-06-04T06:07:32.350742295Z","domain":"www.statcan.gc.ca","issuer":"Let's Encrypt","from":"2026-06-04T04:24:21Z","to":"2026-09-02T04:24:20Z"}
