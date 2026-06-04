@@ -4087,7 +4087,13 @@
       "Sectigo": 1
     },
     "2026-06-03": {
-      "Amazon Trust Services": 2
+      "Amazon Trust Services": 2,
+      "Let's Encrypt": 14,
+      "Sectigo": 4,
+      "Google Trust Services": 1
+    },
+    "2026-06-04": {
+      "Let's Encrypt": 1
     }
   },
   "errors": []
