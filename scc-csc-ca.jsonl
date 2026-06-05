@@ -1184,3 +1184,6 @@
 {"id":"14755771835","timestamp":"2026-05-03T22:16:41.783556532Z","domain":"www.seylii.org","issuer":"Let's Encrypt","from":"2026-05-03T20:52:58Z","to":"2026-08-01T20:52:57Z"}
 {"id":"14755771835","timestamp":"2026-05-03T22:16:41.783556601Z","domain":"www.trackenergyregs.ca","issuer":"Let's Encrypt","from":"2026-05-03T20:52:58Z","to":"2026-08-01T20:52:57Z"}
 {"id":"14755771835","timestamp":"2026-05-03T22:16:41.783556672Z","domain":"www.trackenergyregs.com","issuer":"Let's Encrypt","from":"2026-05-03T20:52:58Z","to":"2026-08-01T20:52:57Z"}
+{"id":"15232747642","timestamp":"2026-06-05T19:36:15.97802186Z","domain":"vpn1.scc-csc.ca","issuer":"DigiCert","from":"2026-06-05T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"15232747642","timestamp":"2026-06-05T19:36:15.978022281Z","domain":"vpn2.scc-csc.ca","issuer":"DigiCert","from":"2026-06-05T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"15232747642","timestamp":"2026-06-05T19:36:15.978022511Z","domain":"vpn.scc-csc.gc.ca","issuer":"DigiCert","from":"2026-06-05T00:00:00Z","to":"2026-12-20T23:59:59Z"}
