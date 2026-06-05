@@ -1521,3 +1521,5 @@
 {"id":"15205304187","timestamp":"2026-06-04T06:07:32.579641939Z","domain":"v3-quessvc-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-04T04:10:22Z","to":"2026-09-02T04:10:21Z"}
 {"id":"15205305865","timestamp":"2026-06-04T06:07:32.579642049Z","domain":"v3-calipersplusapi-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-04T04:11:20Z","to":"2026-09-02T04:11:19Z"}
 {"id":"15213380021","timestamp":"2026-06-04T17:30:54.095773302Z","domain":"v3-www2-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-04T15:05:48Z","to":"2026-09-02T15:05:47Z"}
+{"id":"15229850183","timestamp":"2026-06-05T15:32:35.448282212Z","domain":"infobase-forms-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-05T00:00:00Z","to":"2026-12-05T23:59:59Z"}
+{"id":"15229909693","timestamp":"2026-06-05T15:32:35.448282513Z","domain":"infobase-data-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-05T00:00:00Z","to":"2026-12-05T23:59:59Z"}
