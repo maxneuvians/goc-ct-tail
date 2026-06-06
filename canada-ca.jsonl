@@ -19580,3 +19580,6 @@
 {"id":"15231396548","timestamp":"2026-06-05T16:59:10.373595335Z","domain":"www.te.clegc-gckey.gc.ca","issuer":"Sectigo","from":"2026-06-05T00:00:00Z","to":"2026-12-20T23:59:59Z"}
 {"id":"15231396548","timestamp":"2026-06-05T16:59:10.373596187Z","domain":"www.te.gckey-clegc.gc.ca","issuer":"Sectigo","from":"2026-06-05T00:00:00Z","to":"2026-12-20T23:59:59Z"}
 {"id":"15231396548","timestamp":"2026-06-05T16:59:10.373596267Z","domain":"www.te.gckey.gc.ca","issuer":"Sectigo","from":"2026-06-05T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"15239887882","timestamp":"2026-06-06T05:29:42.068390425Z","domain":"accessibilite.canada.ca","issuer":"Let's Encrypt","from":"2026-06-06T03:59:45Z","to":"2026-09-04T03:59:44Z"}
+{"id":"15239887882","timestamp":"2026-06-06T05:29:42.068391397Z","domain":"accessibility.canada.ca","issuer":"Let's Encrypt","from":"2026-06-06T03:59:45Z","to":"2026-09-04T03:59:44Z"}
+{"id":"15239887882","timestamp":"2026-06-06T05:29:42.068391667Z","domain":"accessible.canada.ca","issuer":"Let's Encrypt","from":"2026-06-06T03:59:45Z","to":"2026-09-04T03:59:44Z"}
