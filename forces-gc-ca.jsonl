@@ -3014,3 +3014,16 @@
 {"id":"15204489766","timestamp":"2026-06-04T05:47:35.141824039Z","domain":"*.ammos-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-06-04T00:00:00Z","to":"2026-12-18T23:59:59Z"}
 {"id":"15204489766","timestamp":"2026-06-04T05:47:35.141824389Z","domain":"ammos-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-06-04T00:00:00Z","to":"2026-12-18T23:59:59Z"}
 {"id":"15215017379","timestamp":"2026-06-04T19:00:24.86575116Z","domain":"efb-share-alt.cloud.forces.gc.ca","issuer":"Sectigo","from":"2026-06-04T00:00:00Z","to":"2026-12-19T23:59:59Z"}
+{"id":"15252431458","timestamp":"2026-06-07T01:23:09.09657315Z","domain":"*.army.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-06-06T23:04:23Z","to":"2026-09-04T23:04:22Z"}
+{"id":"15252431458","timestamp":"2026-06-07T01:23:09.09657354Z","domain":"*.tak-dev.aws.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-06-06T23:04:23Z","to":"2026-09-04T23:04:22Z"}
+{"id":"15252446559","timestamp":"2026-06-07T01:23:09.096573791Z","domain":"*.admmat.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-06-06T23:04:40Z","to":"2026-09-04T23:04:39Z"}
+{"id":"15252446559","timestamp":"2026-06-07T01:23:09.096574482Z","domain":"*.army.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-06-06T23:04:40Z","to":"2026-09-04T23:04:39Z"}
+{"id":"15252446559","timestamp":"2026-06-07T01:23:09.096574572Z","domain":"*.caf.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-06-06T23:04:40Z","to":"2026-09-04T23:04:39Z"}
+{"id":"15252446559","timestamp":"2026-06-07T01:23:09.096575724Z","domain":"*.cjoc.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-06-06T23:04:40Z","to":"2026-09-04T23:04:39Z"}
+{"id":"15252446559","timestamp":"2026-06-07T01:23:09.096575794Z","domain":"*.drdc.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-06-06T23:04:40Z","to":"2026-09-04T23:04:39Z"}
+{"id":"15252446559","timestamp":"2026-06-07T01:23:09.096575874Z","domain":"*.navy.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-06-06T23:04:40Z","to":"2026-09-04T23:04:39Z"}
+{"id":"15252446559","timestamp":"2026-06-07T01:23:09.096575954Z","domain":"*.rcaf.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-06-06T23:04:40Z","to":"2026-09-04T23:04:39Z"}
+{"id":"15252446559","timestamp":"2026-06-07T01:23:09.096577376Z","domain":"*.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-06-06T23:04:40Z","to":"2026-09-04T23:04:39Z"}
+{"id":"15252446559","timestamp":"2026-06-07T01:23:09.096577476Z","domain":"*.vcds.tak.cloud.forces.gc.ca","issuer":"Let's Encrypt","from":"2026-06-06T23:04:40Z","to":"2026-09-04T23:04:39Z"}
+{"id":"15252503880","timestamp":"2026-06-07T01:23:09.096577577Z","domain":"athena.rdh-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-06-07T00:00:00Z","to":"2026-12-21T23:59:59Z"}
+{"id":"15252506117","timestamp":"2026-06-07T01:23:09.096577687Z","domain":"api.ammos-dev.aws.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-06-07T00:00:00Z","to":"2026-12-21T23:59:59Z"}
