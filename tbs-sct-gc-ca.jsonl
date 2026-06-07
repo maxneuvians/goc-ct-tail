@@ -1524,3 +1524,13 @@
 {"id":"15229850183","timestamp":"2026-06-05T15:32:35.448282212Z","domain":"infobase-forms-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-05T00:00:00Z","to":"2026-12-05T23:59:59Z"}
 {"id":"15229909693","timestamp":"2026-06-05T15:32:35.448282513Z","domain":"infobase-data-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-05T00:00:00Z","to":"2026-12-05T23:59:59Z"}
 {"id":"15239317080","timestamp":"2026-06-06T05:47:57.115330086Z","domain":"talentcloud-pilot-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-06T03:04:05Z","to":"2026-09-04T03:04:04Z"}
+{"id":"15256137721","timestamp":"2026-06-07T06:01:25.974894361Z","domain":"tapx-rolemanagerapp-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:05:42Z","to":"2026-09-05T04:05:41Z"}
+{"id":"15256137721","timestamp":"2026-06-07T06:01:25.974894922Z","domain":"tapx-rolemanager-prd-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:05:42Z","to":"2026-09-05T04:05:41Z"}
+{"id":"15256150050","timestamp":"2026-06-07T06:01:25.974895212Z","domain":"f.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:06:06Z","to":"2026-09-05T04:06:05Z"}
+{"id":"15256150050","timestamp":"2026-06-07T06:01:25.974895453Z","domain":"tapx-rolemanager-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:06:06Z","to":"2026-09-05T04:06:05Z"}
+{"id":"15256151732","timestamp":"2026-06-07T06:01:25.974895563Z","domain":"myaw-monlta-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:06:30Z","to":"2026-09-05T04:06:29Z"}
+{"id":"15256151732","timestamp":"2026-06-07T06:01:25.974897105Z","domain":"myaw-monlta-prd-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:06:30Z","to":"2026-09-05T04:06:29Z"}
+{"id":"15256158669","timestamp":"2026-06-07T06:01:25.974897205Z","domain":"tapx-rolemanagerapp-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:06:47Z","to":"2026-09-05T04:06:46Z"}
+{"id":"15256158669","timestamp":"2026-06-07T06:01:25.974897296Z","domain":"tapx-rolemanager-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:06:47Z","to":"2026-09-05T04:06:46Z"}
+{"id":"15256180612","timestamp":"2026-06-07T06:01:25.974897376Z","domain":"myaw-monlta-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:07:40Z","to":"2026-09-05T04:07:39Z"}
+{"id":"15256180612","timestamp":"2026-06-07T06:01:25.974898738Z","domain":"myaw-monlta-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:07:40Z","to":"2026-09-05T04:07:39Z"}
