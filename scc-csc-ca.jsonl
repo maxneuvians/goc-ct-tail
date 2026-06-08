@@ -1190,3 +1190,11 @@
 {"id":"15234239618","timestamp":"2026-06-05T21:33:34.334600116Z","domain":"vpn1.scc-csc.ca","issuer":"DigiCert","from":"2026-06-05T00:00:00Z","to":"2026-12-20T23:59:59Z"}
 {"id":"15234239618","timestamp":"2026-06-05T21:33:34.334600416Z","domain":"vpn2.scc-csc.ca","issuer":"DigiCert","from":"2026-06-05T00:00:00Z","to":"2026-12-20T23:59:59Z"}
 {"id":"15234239618","timestamp":"2026-06-05T21:33:34.334600577Z","domain":"vpn.scc-csc.gc.ca","issuer":"DigiCert","from":"2026-06-05T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"15282607243","timestamp":"2026-06-08T18:54:35.508493564Z","domain":"certauth.sts.scc-csc.ca","issuer":"DigiCert","from":"2026-06-08T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15282607243","timestamp":"2026-06-08T18:54:35.508494365Z","domain":"enterpriseregistration.scc-csc.ca","issuer":"DigiCert","from":"2026-06-08T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15282607243","timestamp":"2026-06-08T18:54:35.508494636Z","domain":"sts.scc-csc.ca","issuer":"DigiCert","from":"2026-06-08T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15282607243","timestamp":"2026-06-08T18:54:35.508495007Z","domain":"www.sts.scc-csc.ca","issuer":"DigiCert","from":"2026-06-08T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15282675096","timestamp":"2026-06-08T18:54:35.508495147Z","domain":"certauth.sts.scc-csc.ca","issuer":"DigiCert","from":"2026-06-08T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15282675096","timestamp":"2026-06-08T18:54:35.508496289Z","domain":"enterpriseregistration.scc-csc.ca","issuer":"DigiCert","from":"2026-06-08T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15282675096","timestamp":"2026-06-08T18:54:35.508496389Z","domain":"sts.scc-csc.ca","issuer":"DigiCert","from":"2026-06-08T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15282675096","timestamp":"2026-06-08T18:54:35.508496489Z","domain":"www.sts.scc-csc.ca","issuer":"DigiCert","from":"2026-06-08T00:00:00Z","to":"2026-12-23T23:59:59Z"}
