@@ -19617,3 +19617,6 @@
 {"id":"15278899600","timestamp":"2026-06-08T13:43:20.443365441Z","domain":"axon-upload.ssc-sand-gccopa.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-08T12:33:55Z","to":"2026-09-06T12:33:54Z"}
 {"id":"15279443789","timestamp":"2026-06-08T15:17:54.008412628Z","domain":"dask.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-08T13:19:28Z","to":"2026-09-06T13:19:27Z"}
 {"id":"15279518126","timestamp":"2026-06-08T15:17:54.008412939Z","domain":"dask.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-08T13:26:25Z","to":"2026-09-06T13:26:24Z"}
+{"id":"15283473267","timestamp":"2026-06-08T19:51:55.670951431Z","domain":"crsh.canada.ca","issuer":"Sectigo","from":"2026-06-08T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15283473267","timestamp":"2026-06-08T19:51:55.670951811Z","domain":"sshrc.canada.ca","issuer":"Sectigo","from":"2026-06-08T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15283473267","timestamp":"2026-06-08T19:51:55.670952062Z","domain":"sshrc-crsh.canada.ca","issuer":"Sectigo","from":"2026-06-08T00:00:00Z","to":"2026-12-23T23:59:59Z"}
