@@ -19816,3 +19816,16 @@
 {"id":"15296885808","timestamp":"2026-06-09T15:14:34.524658978Z","domain":"www.inspection.canada.ca","issuer":"Sectigo","from":"2026-06-09T00:00:00Z","to":"2026-12-24T23:59:59Z"}
 {"id":"15296885808","timestamp":"2026-06-09T15:14:34.524659079Z","domain":"www.inspection.gc.ca","issuer":"Sectigo","from":"2026-06-09T00:00:00Z","to":"2026-12-24T23:59:59Z"}
 {"id":"15296885808","timestamp":"2026-06-09T15:14:34.524659189Z","domain":"www.prod.inspection.canada.ca","issuer":"Sectigo","from":"2026-06-09T00:00:00Z","to":"2026-12-24T23:59:59Z"}
+{"id":"15297750609","timestamp":"2026-06-09T17:05:09.447965725Z","domain":"*.betak.tools.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-09T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15297750609","timestamp":"2026-06-09T17:05:09.447966256Z","domain":"betak.tools.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-09T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15297750609","timestamp":"2026-06-09T17:05:09.447966527Z","domain":"*.tools.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-09T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15297750609","timestamp":"2026-06-09T17:05:09.447966757Z","domain":"tools.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-09T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15297750694","timestamp":"2026-06-09T17:05:09.447966888Z","domain":"*.betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-09T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15297750694","timestamp":"2026-06-09T17:05:09.447967839Z","domain":"betak.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-09T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15297750694","timestamp":"2026-06-09T17:05:09.447967939Z","domain":"*.tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-09T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15297750694","timestamp":"2026-06-09T17:05:09.44796803Z","domain":"tools.guard-stg.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-09T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15297847317","timestamp":"2026-06-09T17:05:09.44796816Z","domain":"basin.marine-geo.canada.ca","issuer":"Sectigo","from":"2026-06-09T00:00:00Z","to":"2026-12-24T23:59:59Z"}
+{"id":"15297847317","timestamp":"2026-06-09T17:05:09.447968841Z","domain":"ed.marine-geo.canada.ca","issuer":"Sectigo","from":"2026-06-09T00:00:00Z","to":"2026-12-24T23:59:59Z"}
+{"id":"15297847317","timestamp":"2026-06-09T17:05:09.447968941Z","domain":"*.marine-geo.canada.ca","issuer":"Sectigo","from":"2026-06-09T00:00:00Z","to":"2026-12-24T23:59:59Z"}
+{"id":"15297847317","timestamp":"2026-06-09T17:05:09.447969041Z","domain":"marine-geo.canada.ca","issuer":"Sectigo","from":"2026-06-09T00:00:00Z","to":"2026-12-24T23:59:59Z"}
+{"id":"15297847317","timestamp":"2026-06-09T17:05:09.447969132Z","domain":"pad.marine-geo.canada.ca","issuer":"Sectigo","from":"2026-06-09T00:00:00Z","to":"2026-12-24T23:59:59Z"}
