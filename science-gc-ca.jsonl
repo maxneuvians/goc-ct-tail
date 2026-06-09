@@ -103,3 +103,6 @@
 {"id":"13949215580","timestamp":"2026-02-26T16:48:28.517122058Z","domain":"*.service.ec.gc.ca","issuer":"Sectigo","from":"2026-02-26T00:00:00Z","to":"2027-03-29T23:59:59Z"}
 {"id":"15231026856","timestamp":"2026-06-05T17:16:50.794548216Z","domain":"science.gc.ca","issuer":"Sectigo","from":"2026-06-05T00:00:00Z","to":"2026-12-20T23:59:59Z"}
 {"id":"15231026856","timestamp":"2026-06-05T17:16:50.794548636Z","domain":"www.science.gc.ca","issuer":"Sectigo","from":"2026-06-05T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"15295138091","timestamp":"2026-06-09T13:28:05.177748447Z","domain":"*.hpci-svc.science.gc.ca","issuer":"Sectigo","from":"2026-06-09T00:00:00Z","to":"2026-12-24T23:59:59Z"}
+{"id":"15295138091","timestamp":"2026-06-09T13:28:05.177749079Z","domain":"hpci-svc.science.gc.ca","issuer":"Sectigo","from":"2026-06-09T00:00:00Z","to":"2026-12-24T23:59:59Z"}
+{"id":"15295138091","timestamp":"2026-06-09T13:28:05.177749359Z","domain":"registry.maze.science.gc.ca","issuer":"Sectigo","from":"2026-06-09T00:00:00Z","to":"2026-12-24T23:59:59Z"}
