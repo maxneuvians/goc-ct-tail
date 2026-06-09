@@ -19632,3 +19632,7 @@
 {"id":"15291372571","timestamp":"2026-06-09T07:31:04.03735607Z","domain":"ed-ti.dnd-prod-srt.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-09T06:05:45Z","to":"2026-09-07T06:05:44Z"}
 {"id":"15291572676","timestamp":"2026-06-09T07:31:04.037357713Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-09T06:24:41Z","to":"2026-09-07T06:24:40Z"}
 {"id":"15291572676","timestamp":"2026-06-09T07:31:04.037357814Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-09T06:24:41Z","to":"2026-09-07T06:24:40Z"}
+{"id":"15291616731","timestamp":"2026-06-09T09:22:23.529161801Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-09T06:28:56Z","to":"2026-09-07T06:28:55Z"}
+{"id":"15291616731","timestamp":"2026-06-09T09:22:23.529162703Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-09T06:28:56Z","to":"2026-09-07T06:28:55Z"}
+{"id":"15292584204","timestamp":"2026-06-09T09:22:23.529162993Z","domain":"mlflow.ws-wmackinnon.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-09T07:47:06Z","to":"2026-09-07T07:47:05Z"}
+{"id":"15292584889","timestamp":"2026-06-09T09:22:23.529163294Z","domain":"resource-catalogue.ws-wmackinnon.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-09T07:47:05Z","to":"2026-09-07T07:47:04Z"}
