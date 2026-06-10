@@ -4112,7 +4112,12 @@
       "Sectigo": 5
     },
     "2026-06-09": {
-      "Amazon Trust Services": 1
+      "Amazon Trust Services": 9,
+      "Let's Encrypt": 123,
+      "Sectigo": 96
+    },
+    "2026-06-10": {
+      "Let's Encrypt": 1
     }
   },
   "errors": []
