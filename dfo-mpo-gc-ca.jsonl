@@ -1480,3 +1480,4 @@
 {"id":"15320820815","timestamp":"2026-06-10T21:10:50.57925631Z","domain":"epro-test.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2026-06-10T00:00:00Z","to":"2026-12-10T23:59:59Z"}
 {"id":"15321091266","timestamp":"2026-06-10T21:10:50.579256751Z","domain":"falco-ui.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-06-10T19:44:43Z","to":"2026-09-08T19:44:42Z"}
 {"id":"15321169637","timestamp":"2026-06-10T21:10:50.579256981Z","domain":"prometheus.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-06-10T19:51:16Z","to":"2026-09-08T19:51:15Z"}
+{"id":"15323179287","timestamp":"2026-06-10T23:50:33.632033303Z","domain":"argocd.test.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-06-10T21:55:20Z","to":"2026-09-08T21:55:19Z"}
