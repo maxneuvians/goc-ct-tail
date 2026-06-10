@@ -19853,3 +19853,7 @@
 {"id":"15301513580","timestamp":"2026-06-09T21:45:28.164605346Z","domain":"www.pco.gc.ca","issuer":"Sectigo","from":"2026-06-09T00:00:00Z","to":"2026-12-24T23:59:59Z"}
 {"id":"15301513580","timestamp":"2026-06-09T21:45:28.164605447Z","domain":"www.repertoire-ministeres.canada.ca","issuer":"Sectigo","from":"2026-06-09T00:00:00Z","to":"2026-12-24T23:59:59Z"}
 {"id":"15304618416","timestamp":"2026-06-10T03:21:23.440553787Z","domain":"next.alpha.service.canada.ca","issuer":"Let's Encrypt","from":"2026-06-10T00:18:28Z","to":"2026-09-08T00:18:27Z"}
+{"id":"15310951716","timestamp":"2026-06-10T11:24:50.907238736Z","domain":"oidc-provider.id.alpha.canada.ca","issuer":"DigiCert","from":"2026-06-10T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15310959697","timestamp":"2026-06-10T11:24:50.907239267Z","domain":"rp2-oidc.id.alpha.canada.ca","issuer":"DigiCert","from":"2026-06-10T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15312187361","timestamp":"2026-06-10T11:24:50.907239558Z","domain":"conform-dev.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-06-10T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15312189975","timestamp":"2026-06-10T11:24:50.907239838Z","domain":"conform.science.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-06-10T00:00:00Z","to":"2026-12-10T23:59:59Z"}
