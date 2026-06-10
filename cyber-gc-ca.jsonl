@@ -1007,3 +1007,7 @@
 {"id":"15293457356","timestamp":"2026-06-09T11:34:06.622744589Z","domain":"*.services.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-09T09:02:22Z","to":"2026-09-07T09:02:21Z"}
 {"id":"15293468379","timestamp":"2026-06-09T11:34:06.622745651Z","domain":"*.decaf.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-09T09:02:53Z","to":"2026-09-07T09:02:52Z"}
 {"id":"15313711606","timestamp":"2026-06-10T13:43:09.528393479Z","domain":"vast-kafka-stg-tst.nbs.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-10T11:46:15Z","to":"2026-09-08T11:46:14Z"}
+{"id":"15315292383","timestamp":"2026-06-10T15:46:12.888498093Z","domain":"sub.notif.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-10T13:32:06Z","to":"2026-09-08T13:32:05Z"}
+{"id":"15315489651","timestamp":"2026-06-10T15:46:12.888498454Z","domain":"mail.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-10T13:45:15Z","to":"2026-09-08T13:45:14Z"}
+{"id":"15315489651","timestamp":"2026-06-10T15:46:12.888498724Z","domain":"mail.sensor.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-10T13:45:15Z","to":"2026-09-08T13:45:14Z"}
+{"id":"15315489651","timestamp":"2026-06-10T15:46:12.888498915Z","domain":"onprem.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-10T13:45:15Z","to":"2026-09-08T13:45:14Z"}
