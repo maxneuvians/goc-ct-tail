@@ -130,3 +130,6 @@
 {"id":"15196662432","timestamp":"2026-06-03T17:59:38.624963347Z","domain":"ic.gc.ca","issuer":"Sectigo","from":"2026-06-03T00:00:00Z","to":"2026-09-01T23:59:59Z"}
 {"id":"15196670967","timestamp":"2026-06-03T17:59:38.624963818Z","domain":"connexion.ic.gc.ca","issuer":"Sectigo","from":"2026-06-03T00:00:00Z","to":"2026-12-18T23:59:59Z"}
 {"id":"15196670967","timestamp":"2026-06-03T17:59:38.624964069Z","domain":"prd-connexion.ic.gc.ca","issuer":"Sectigo","from":"2026-06-03T00:00:00Z","to":"2026-12-18T23:59:59Z"}
+{"id":"15336112390","timestamp":"2026-06-11T13:42:08.754521168Z","domain":"gcsra-a.ic.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15336112390","timestamp":"2026-06-11T13:42:08.754521418Z","domain":"gcsra-b.ic.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15336112390","timestamp":"2026-06-11T13:42:08.754521629Z","domain":"gcsra.ic.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
