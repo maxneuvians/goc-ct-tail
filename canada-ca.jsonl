@@ -19879,3 +19879,12 @@
 {"id":"15318750833","timestamp":"2026-06-10T19:07:16.278152301Z","domain":"equivisionchatbot.service.canada.ca","issuer":"Sectigo","from":"2026-06-10T00:00:00Z","to":"2026-12-25T23:59:59Z"}
 {"id":"15320505463","timestamp":"2026-06-10T21:03:13.167420813Z","domain":"semaines-codees.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2026-06-10T00:00:00Z","to":"2026-12-10T23:59:59Z"}
 {"id":"15323399720","timestamp":"2026-06-10T23:43:01.507768652Z","domain":"rpss-uat-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2026-06-10T00:00:00Z","to":"2026-12-10T23:59:59Z"}
+{"id":"15329956107","timestamp":"2026-06-11T07:58:56.923756968Z","domain":"vocab.canada.ca","issuer":"Let's Encrypt","from":"2026-06-11T05:03:21Z","to":"2026-09-09T05:03:20Z"}
+{"id":"15331080941","timestamp":"2026-06-11T07:58:56.923757309Z","domain":"resource-catalogue.ws-hfawzy.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-11T06:15:52Z","to":"2026-09-09T06:15:51Z"}
+{"id":"15331117678","timestamp":"2026-06-11T07:58:56.923757549Z","domain":"mlflow.ws-hfawzy.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-11T06:15:51Z","to":"2026-09-09T06:15:50Z"}
+{"id":"15331227586","timestamp":"2026-06-11T07:58:56.92375773Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-11T06:24:34Z","to":"2026-09-09T06:24:33Z"}
+{"id":"15331227586","timestamp":"2026-06-11T07:58:56.92375782Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-11T06:24:34Z","to":"2026-09-09T06:24:33Z"}
+{"id":"15331244441","timestamp":"2026-06-11T07:58:56.923758761Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-11T06:24:43Z","to":"2026-09-09T06:24:42Z"}
+{"id":"15331244441","timestamp":"2026-06-11T07:58:56.923758831Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-11T06:24:43Z","to":"2026-09-09T06:24:42Z"}
+{"id":"15331390963","timestamp":"2026-06-11T07:58:56.923758901Z","domain":"resource-catalogue.ws-lstonge.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-11T06:36:08Z","to":"2026-09-09T06:36:07Z"}
+{"id":"15331410628","timestamp":"2026-06-11T07:58:56.923758971Z","domain":"mlflow.ws-lstonge.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-11T06:36:08Z","to":"2026-09-09T06:36:07Z"}
