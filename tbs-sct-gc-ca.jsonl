@@ -1534,3 +1534,4 @@
 {"id":"15256158669","timestamp":"2026-06-07T06:01:25.974897296Z","domain":"tapx-rolemanager-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:06:47Z","to":"2026-09-05T04:06:46Z"}
 {"id":"15256180612","timestamp":"2026-06-07T06:01:25.974897376Z","domain":"myaw-monlta-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:07:40Z","to":"2026-09-05T04:07:39Z"}
 {"id":"15256180612","timestamp":"2026-06-07T06:01:25.974898738Z","domain":"myaw-monlta-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:07:40Z","to":"2026-09-05T04:07:39Z"}
+{"id":"15339591967","timestamp":"2026-06-11T17:43:08.857997795Z","domain":"tapx-claimsigner.prd.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
