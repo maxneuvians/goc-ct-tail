@@ -19893,3 +19893,24 @@
 {"id":"15335127083","timestamp":"2026-06-11T11:42:27.582961469Z","domain":"a11y-ict-wizard-dev-2021.ict-cio.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-06-11T00:00:00Z","to":"2026-12-11T23:59:59Z"}
 {"id":"15335132948","timestamp":"2026-06-11T11:42:27.58296169Z","domain":"a11y-ict-wizard-2025.ict-cio.ssc-spc.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-06-11T00:00:00Z","to":"2026-12-11T23:59:59Z"}
 {"id":"15336936012","timestamp":"2026-06-11T13:39:04.961563923Z","domain":"guidebook-staging.sdlc.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2026-06-11T00:00:00Z","to":"2026-12-11T23:59:59Z"}
+{"id":"15337067496","timestamp":"2026-06-11T15:21:07.806295074Z","domain":"*.api.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337067496","timestamp":"2026-06-11T15:21:07.806295365Z","domain":"*.dev.service.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337067496","timestamp":"2026-06-11T15:21:07.806295495Z","domain":"*.interop.service.canada.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337067496","timestamp":"2026-06-11T15:21:07.806295625Z","domain":"*.interop.service.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337067496","timestamp":"2026-06-11T15:21:07.806295695Z","domain":"*.service.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337067496","timestamp":"2026-06-11T15:21:07.806296587Z","domain":"*.services.global.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337149566","timestamp":"2026-06-11T15:21:07.806296657Z","domain":"clegc.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337149566","timestamp":"2026-06-11T15:21:07.806296717Z","domain":"clegc-gckey.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337149566","timestamp":"2026-06-11T15:21:07.806296777Z","domain":"clegc-gckey.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337149566","timestamp":"2026-06-11T15:21:07.806297969Z","domain":"gc.auth.canada.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337149566","timestamp":"2026-06-11T15:21:07.806298019Z","domain":"gckey-clegc.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337149566","timestamp":"2026-06-11T15:21:07.806298079Z","domain":"gckey.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337149566","timestamp":"2026-06-11T15:21:07.806298129Z","domain":"www.clegc.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337149566","timestamp":"2026-06-11T15:21:07.806298189Z","domain":"www.clegc-gckey.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337149566","timestamp":"2026-06-11T15:21:07.806298249Z","domain":"www.gckey-clegc.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337149566","timestamp":"2026-06-11T15:21:07.806298299Z","domain":"www.gckey.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15337604274","timestamp":"2026-06-11T15:21:07.806298359Z","domain":"collabportalspo-api.bac-lac.gc.ca","issuer":"Let's Encrypt","from":"2026-06-11T13:15:22Z","to":"2026-09-09T13:15:21Z"}
+{"id":"15337604274","timestamp":"2026-06-11T15:21:07.806298419Z","domain":"collabportalspo-api.lac-prod-veeam-m365.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-11T13:15:22Z","to":"2026-09-09T13:15:21Z"}
+{"id":"15337807059","timestamp":"2026-06-11T15:21:07.806299221Z","domain":"*.test.iga-gai.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-06-11T13:29:44Z","to":"2026-09-09T13:29:43Z"}
+{"id":"15337846112","timestamp":"2026-06-11T15:21:07.806299281Z","domain":"collabportalspo-pnp.bac-lac.gc.ca","issuer":"Let's Encrypt","from":"2026-06-11T13:33:56Z","to":"2026-09-09T13:33:55Z"}
+{"id":"15337846112","timestamp":"2026-06-11T15:21:07.806299341Z","domain":"collabportalspo-pnp.lac-prod-veeam-m365.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-11T13:33:56Z","to":"2026-09-09T13:33:55Z"}
