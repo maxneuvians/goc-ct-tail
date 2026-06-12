@@ -19923,3 +19923,9 @@
 {"id":"15360397696","timestamp":"2026-06-12T15:15:14.187039476Z","domain":"policy-community.canada.ca","issuer":"Google Trust Services","from":"2026-06-12T12:48:15Z","to":"2026-09-10T13:48:00Z"}
 {"id":"15360811425","timestamp":"2026-06-12T15:15:14.187039687Z","domain":"policy-community.canada.ca","issuer":"Google Trust Services","from":"2026-06-12T12:47:54Z","to":"2026-09-10T13:47:53Z"}
 {"id":"15362811265","timestamp":"2026-06-12T17:12:00.275974231Z","domain":"billing.private-prive.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-12T15:56:55Z","to":"2026-09-10T15:56:54Z"}
+{"id":"15363083884","timestamp":"2026-06-12T18:52:38.183831819Z","domain":"api.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-12T16:17:43Z","to":"2026-09-10T16:17:42Z"}
+{"id":"15363083884","timestamp":"2026-06-12T18:52:38.18383215Z","domain":"*.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-12T16:17:43Z","to":"2026-09-10T16:17:42Z"}
+{"id":"15363083884","timestamp":"2026-06-12T18:52:38.18383227Z","domain":"*.apps.aro-nonprd.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-12T16:17:43Z","to":"2026-09-10T16:17:42Z"}
+{"id":"15363083884","timestamp":"2026-06-12T18:52:38.18383242Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-12T16:17:43Z","to":"2026-09-10T16:17:42Z"}
+{"id":"15363195738","timestamp":"2026-06-12T18:52:38.1838325Z","domain":"atip-uat-pub.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-06-12T16:30:48Z","to":"2026-09-10T16:30:47Z"}
+{"id":"15364056666","timestamp":"2026-06-12T18:52:38.183833381Z","domain":"auth-prod.climate-change.canada.ca","issuer":"DigiCert","from":"2026-06-12T00:00:00Z","to":"2026-12-12T23:59:59Z"}
