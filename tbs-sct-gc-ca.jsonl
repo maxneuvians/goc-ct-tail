@@ -1535,3 +1535,5 @@
 {"id":"15256180612","timestamp":"2026-06-07T06:01:25.974897376Z","domain":"myaw-monlta-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:07:40Z","to":"2026-09-05T04:07:39Z"}
 {"id":"15256180612","timestamp":"2026-06-07T06:01:25.974898738Z","domain":"myaw-monlta-uat-backend.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-06-07T04:07:40Z","to":"2026-09-05T04:07:39Z"}
 {"id":"15339591967","timestamp":"2026-06-11T17:43:08.857997795Z","domain":"tapx-claimsigner.prd.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-06-11T00:00:00Z","to":"2026-12-26T23:59:59Z"}
+{"id":"15359500552","timestamp":"2026-06-12T13:41:09.998758617Z","domain":"verification.uat.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-06-12T00:00:00Z","to":"2026-12-27T23:59:59Z"}
+{"id":"15359876159","timestamp":"2026-06-12T13:41:09.998758898Z","domain":"tih.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-12T00:00:00Z","to":"2026-12-12T23:59:59Z"}
