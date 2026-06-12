@@ -19929,3 +19929,5 @@
 {"id":"15363083884","timestamp":"2026-06-12T18:52:38.18383242Z","domain":"*.services.api-nonprod.service.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-12T16:17:43Z","to":"2026-09-10T16:17:42Z"}
 {"id":"15363195738","timestamp":"2026-06-12T18:52:38.1838325Z","domain":"atip-uat-pub.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-06-12T16:30:48Z","to":"2026-09-10T16:30:47Z"}
 {"id":"15364056666","timestamp":"2026-06-12T18:52:38.183833381Z","domain":"auth-prod.climate-change.canada.ca","issuer":"DigiCert","from":"2026-06-12T00:00:00Z","to":"2026-12-12T23:59:59Z"}
+{"id":"15364924630","timestamp":"2026-06-12T20:54:29.846808947Z","domain":"semaines-codees.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2026-06-12T00:00:00Z","to":"2026-12-27T23:59:59Z"}
+{"id":"15364924630","timestamp":"2026-06-12T20:54:29.846809398Z","domain":"week-code.esdc-edsc.canada.ca","issuer":"Sectigo","from":"2026-06-12T00:00:00Z","to":"2026-12-27T23:59:59Z"}
