@@ -19935,3 +19935,5 @@
 {"id":"15375376977","timestamp":"2026-06-13T10:58:33.309528159Z","domain":"tapx-rolemanager-uat-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2026-06-13T00:00:00Z","to":"2026-12-13T23:59:59Z"}
 {"id":"15376063703","timestamp":"2026-06-13T11:46:47.222967018Z","domain":"guidebook.sdlc.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2026-06-13T00:00:00Z","to":"2026-12-13T23:59:59Z"}
 {"id":"15376570800","timestamp":"2026-06-13T11:46:47.222967479Z","domain":"carrieres-civiles-defense.canada.ca","issuer":"DigiCert","from":"2026-06-13T00:00:00Z","to":"2026-12-13T23:59:59Z"}
+{"id":"15376952854","timestamp":"2026-06-13T12:50:36.090830029Z","domain":"mlflow.ws-eodms.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-13T11:10:20Z","to":"2026-09-11T11:10:19Z"}
+{"id":"15376954074","timestamp":"2026-06-13T12:50:36.090830349Z","domain":"resource-catalogue.ws-eodms.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-13T11:10:20Z","to":"2026-09-11T11:10:19Z"}
