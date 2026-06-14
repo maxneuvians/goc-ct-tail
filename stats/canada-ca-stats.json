@@ -4132,6 +4132,13 @@
       "Google Trust Services": 4,
       "DigiCert": 1,
       "Sectigo": 2
+    },
+    "2026-06-13": {
+      "DigiCert": 5,
+      "Let's Encrypt": 5
+    },
+    "2026-06-14": {
+      "DigiCert": 3
     }
   },
   "errors": []
