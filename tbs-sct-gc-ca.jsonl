@@ -1538,3 +1538,7 @@
 {"id":"15359500552","timestamp":"2026-06-12T13:41:09.998758617Z","domain":"verification.uat.tbs-sct.gc.ca","issuer":"Sectigo","from":"2026-06-12T00:00:00Z","to":"2026-12-27T23:59:59Z"}
 {"id":"15359876159","timestamp":"2026-06-12T13:41:09.998758898Z","domain":"tih.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-12T00:00:00Z","to":"2026-12-12T23:59:59Z"}
 {"id":"15377306813","timestamp":"2026-06-13T13:02:24.313133981Z","domain":"v3-quessvc-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-13T00:00:00Z","to":"2026-12-13T23:59:59Z"}
+{"id":"15387102607","timestamp":"2026-06-14T06:05:51.419937743Z","domain":"tapx-rolemanagerapp-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-14T00:00:00Z","to":"2026-12-14T23:59:59Z"}
+{"id":"15387112720","timestamp":"2026-06-14T06:05:51.419938114Z","domain":"tapx-claimsigner-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-14T00:00:00Z","to":"2026-12-14T23:59:59Z"}
+{"id":"15387408053","timestamp":"2026-06-14T06:05:51.419938324Z","domain":"sitefinity-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-14T00:00:00Z","to":"2026-12-14T23:59:59Z"}
+{"id":"15388337579","timestamp":"2026-06-14T06:05:51.419938535Z","domain":"infobase-data-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-14T00:00:00Z","to":"2026-12-14T23:59:59Z"}
