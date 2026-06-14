@@ -19941,3 +19941,6 @@
 {"id":"15377553547","timestamp":"2026-06-13T13:46:08.951825754Z","domain":"blog.tbs.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-13T12:03:53Z","to":"2026-09-11T12:03:52Z"}
 {"id":"15379626782","timestamp":"2026-06-13T16:41:00.34936473Z","domain":"*.cloudopsportal.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-13T15:06:47Z","to":"2026-09-11T15:06:46Z"}
 {"id":"15380787721","timestamp":"2026-06-13T18:40:57.045263921Z","domain":"guide.ccdl.esdc-edsc.canada.ca","issuer":"DigiCert","from":"2026-06-13T00:00:00Z","to":"2026-12-13T23:59:59Z"}
+{"id":"15387100010","timestamp":"2026-06-14T05:45:41.149323703Z","domain":"tapx-rolemanager-prd-backend.apim.tbs-sct.canada.ca","issuer":"DigiCert","from":"2026-06-14T00:00:00Z","to":"2026-12-14T23:59:59Z"}
+{"id":"15387138144","timestamp":"2026-06-14T05:45:41.149324154Z","domain":"rpss-qa-backend.apim-dev.tbs-sct.canada.ca","issuer":"DigiCert","from":"2026-06-14T00:00:00Z","to":"2026-12-14T23:59:59Z"}
+{"id":"15387369780","timestamp":"2026-06-14T05:45:41.149324384Z","domain":"dev.interface.daf.service.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-06-14T00:00:00Z","to":"2026-12-14T23:59:59Z"}
