@@ -1543,3 +1543,6 @@
 {"id":"15387408053","timestamp":"2026-06-14T06:05:51.419938324Z","domain":"sitefinity-backend.prd.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-14T00:00:00Z","to":"2026-12-14T23:59:59Z"}
 {"id":"15388337579","timestamp":"2026-06-14T06:05:51.419938535Z","domain":"infobase-data-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-14T00:00:00Z","to":"2026-12-14T23:59:59Z"}
 {"id":"15391803319","timestamp":"2026-06-14T12:12:18.414562432Z","domain":"atip-aoas-backend.uat.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-14T00:00:00Z","to":"2026-12-14T23:59:59Z"}
+{"id":"15410621527","timestamp":"2026-06-15T18:53:29.410149156Z","domain":"*.ame-nova.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-15T16:15:37Z","to":"2026-09-13T16:15:36Z"}
+{"id":"15410621527","timestamp":"2026-06-15T18:53:29.410149987Z","domain":"ame-nova.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-15T16:15:37Z","to":"2026-09-13T16:15:36Z"}
+{"id":"15410990722","timestamp":"2026-06-15T18:53:29.410150288Z","domain":"nova-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-15T16:52:45Z","to":"2026-09-13T16:52:44Z"}
