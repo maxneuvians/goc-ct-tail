@@ -4138,7 +4138,12 @@
       "Let's Encrypt": 5
     },
     "2026-06-14": {
-      "DigiCert": 3
+      "DigiCert": 5,
+      "Let's Encrypt": 4
+    },
+    "2026-06-15": {
+      "Let's Encrypt": 2,
+      "Google Trust Services": 1
     }
   },
   "errors": []
