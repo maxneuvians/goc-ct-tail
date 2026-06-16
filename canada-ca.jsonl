@@ -19959,3 +19959,11 @@
 {"id":"15409310205","timestamp":"2026-06-15T16:47:53.250494703Z","domain":"hpc.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-15T14:21:48Z","to":"2026-09-13T14:21:47Z"}
 {"id":"15411699022","timestamp":"2026-06-15T20:17:31.688400554Z","domain":"dialogues.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-15T18:02:14Z","to":"2026-09-13T18:02:13Z"}
 {"id":"15415734688","timestamp":"2026-06-16T03:23:24.272741311Z","domain":"dol-sys.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-06-16T00:34:33Z","to":"2026-09-14T00:34:32Z"}
+{"id":"15419150117","timestamp":"2026-06-16T08:16:30.125250009Z","domain":"dt-it-be.dnd-sand-dice.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-16T06:06:11Z","to":"2026-09-14T06:06:10Z"}
+{"id":"15419150117","timestamp":"2026-06-16T08:16:30.12525041Z","domain":"dt-it.dnd-sand-dice.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-16T06:06:11Z","to":"2026-09-14T06:06:10Z"}
+{"id":"15419150117","timestamp":"2026-06-16T08:16:30.12525064Z","domain":"ed-ti.dnd-sand-dice.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-16T06:06:11Z","to":"2026-09-14T06:06:10Z"}
+{"id":"15419376124","timestamp":"2026-06-16T08:16:30.125250901Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-16T06:24:39Z","to":"2026-09-14T06:24:38Z"}
+{"id":"15419376124","timestamp":"2026-06-16T08:16:30.125250991Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-16T06:24:39Z","to":"2026-09-14T06:24:38Z"}
+{"id":"15419388944","timestamp":"2026-06-16T08:16:30.125252073Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-16T06:24:32Z","to":"2026-09-14T06:24:31Z"}
+{"id":"15419388944","timestamp":"2026-06-16T08:16:30.125252163Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-16T06:24:32Z","to":"2026-09-14T06:24:31Z"}
+{"id":"15419586751","timestamp":"2026-06-16T08:16:30.125252243Z","domain":"chinai.innovation.alpha.canada.ca","issuer":"DigiCert","from":"2026-06-16T00:00:00Z","to":"2026-12-16T23:59:59Z"}
