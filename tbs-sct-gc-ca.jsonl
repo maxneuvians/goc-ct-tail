@@ -1546,3 +1546,7 @@
 {"id":"15410621527","timestamp":"2026-06-15T18:53:29.410149156Z","domain":"*.ame-nova.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-15T16:15:37Z","to":"2026-09-13T16:15:36Z"}
 {"id":"15410621527","timestamp":"2026-06-15T18:53:29.410149987Z","domain":"ame-nova.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-15T16:15:37Z","to":"2026-09-13T16:15:36Z"}
 {"id":"15410990722","timestamp":"2026-06-15T18:53:29.410150288Z","domain":"nova-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-15T16:52:45Z","to":"2026-09-13T16:52:44Z"}
+{"id":"15417320685","timestamp":"2026-06-16T06:19:14.590547497Z","domain":"aihorizon-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-16T03:03:39Z","to":"2026-09-14T03:03:38Z"}
+{"id":"15417932153","timestamp":"2026-06-16T06:19:14.590547957Z","domain":"v3-wfa-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-16T04:05:16Z","to":"2026-09-14T04:05:15Z"}
+{"id":"15417956551","timestamp":"2026-06-16T06:19:14.590548218Z","domain":"aihorizon-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-16T04:05:50Z","to":"2026-09-14T04:05:49Z"}
+{"id":"15417956558","timestamp":"2026-06-16T06:19:14.590548478Z","domain":"v3-eri-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-16T04:06:34Z","to":"2026-09-14T04:06:33Z"}
