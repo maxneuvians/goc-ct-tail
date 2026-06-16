@@ -1484,3 +1484,12 @@
 {"id":"15375013058","timestamp":"2026-06-13T11:04:06.743474394Z","domain":"epro-loader-stage.azure.cloud.dfo-mpo.gc.ca","issuer":"DigiCert","from":"2026-06-13T00:00:00Z","to":"2026-12-13T23:59:59Z"}
 {"id":"15377860228","timestamp":"2026-06-13T14:00:04.031650811Z","domain":"neptune.test.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-06-13T12:30:04Z","to":"2026-09-11T12:30:03Z"}
 {"id":"15392123821","timestamp":"2026-06-14T12:59:39.295023821Z","domain":"neptune.dev.iwls-sine.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-06-14T11:14:58Z","to":"2026-09-12T11:14:57Z"}
+{"id":"15424295094","timestamp":"2026-06-16T15:04:19.569377023Z","domain":"autodiscover.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2026-06-16T00:00:00Z","to":"2026-12-31T23:59:59Z"}
+{"id":"15424295094","timestamp":"2026-06-16T15:04:19.569377594Z","domain":"autodiscover.mar.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2026-06-16T00:00:00Z","to":"2026-12-31T23:59:59Z"}
+{"id":"15424295094","timestamp":"2026-06-16T15:04:19.569377814Z","domain":"centralmrs.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2026-06-16T00:00:00Z","to":"2026-12-31T23:59:59Z"}
+{"id":"15424295094","timestamp":"2026-06-16T15:04:19.569380458Z","domain":"dfosmtp.ent.dfo-mpo.ca","issuer":"Sectigo","from":"2026-06-16T00:00:00Z","to":"2026-12-31T23:59:59Z"}
+{"id":"15424295094","timestamp":"2026-06-16T15:04:19.569380548Z","domain":"easternmrs.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2026-06-16T00:00:00Z","to":"2026-12-31T23:59:59Z"}
+{"id":"15424295094","timestamp":"2026-06-16T15:04:19.569382041Z","domain":"webmail.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2026-06-16T00:00:00Z","to":"2026-12-31T23:59:59Z"}
+{"id":"15424295094","timestamp":"2026-06-16T15:04:19.569382121Z","domain":"webmail.iqa.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2026-06-16T00:00:00Z","to":"2026-12-31T23:59:59Z"}
+{"id":"15424295094","timestamp":"2026-06-16T15:04:19.569382201Z","domain":"webmail.mar.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2026-06-16T00:00:00Z","to":"2026-12-31T23:59:59Z"}
+{"id":"15424295094","timestamp":"2026-06-16T15:04:19.569382281Z","domain":"webmail.nfl.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2026-06-16T00:00:00Z","to":"2026-12-31T23:59:59Z"}
