@@ -1011,3 +1011,6 @@
 {"id":"15315489651","timestamp":"2026-06-10T15:46:12.888498454Z","domain":"mail.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-10T13:45:15Z","to":"2026-09-08T13:45:14Z"}
 {"id":"15315489651","timestamp":"2026-06-10T15:46:12.888498724Z","domain":"mail.sensor.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-10T13:45:15Z","to":"2026-09-08T13:45:14Z"}
 {"id":"15315489651","timestamp":"2026-06-10T15:46:12.888498915Z","domain":"onprem.cbs.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-10T13:45:15Z","to":"2026-09-08T13:45:14Z"}
+{"id":"15421176415","timestamp":"2026-06-16T10:18:57.137159827Z","domain":"gw8.misp.collaboration.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-16T09:01:54Z","to":"2026-09-14T09:01:53Z"}
+{"id":"15421197101","timestamp":"2026-06-16T10:18:57.137160257Z","domain":"*.pilot.u.azure.chimera.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-16T09:02:18Z","to":"2026-09-14T09:02:17Z"}
+{"id":"15421216321","timestamp":"2026-06-16T10:18:57.137160467Z","domain":"cyberpostureassessments.ops.cyber.gc.ca","issuer":"Let's Encrypt","from":"2026-06-16T09:02:45Z","to":"2026-09-14T09:02:44Z"}
