@@ -19978,3 +19978,15 @@
 {"id":"15429386554","timestamp":"2026-06-16T22:47:00.898199594Z","domain":"incident-forwarder.mgmt.c3.ssc-spc.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-06-16T20:59:18Z","to":"2026-09-14T21:55:13Z"}
 {"id":"15434149186","timestamp":"2026-06-17T05:52:28.641150356Z","domain":"atip.apim.tbs-sct.canada.ca","issuer":"Let's Encrypt","from":"2026-06-17T04:06:07Z","to":"2026-09-15T04:06:06Z"}
 {"id":"15438846900","timestamp":"2026-06-17T12:32:20.959799629Z","domain":"micro-acquisition.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-17T11:17:20Z","to":"2026-09-15T11:17:19Z"}
+{"id":"15439376702","timestamp":"2026-06-17T14:19:08.489282158Z","domain":"mlflow.ws-asimoneau.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-17T12:05:36Z","to":"2026-09-15T12:05:35Z"}
+{"id":"15439380130","timestamp":"2026-06-17T14:19:08.489282448Z","domain":"resource-catalogue.ws-asimoneau.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-17T12:05:45Z","to":"2026-09-15T12:05:44Z"}
+{"id":"15439439152","timestamp":"2026-06-17T14:19:08.489282749Z","domain":"resource-catalogue.ws-stolszczuk.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-17T12:12:23Z","to":"2026-09-15T12:12:22Z"}
+{"id":"15439439545","timestamp":"2026-06-17T14:19:08.489282959Z","domain":"mlflow.ws-stolszczuk.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-17T12:12:24Z","to":"2026-09-15T12:12:23Z"}
+{"id":"15439491786","timestamp":"2026-06-17T14:19:08.489283049Z","domain":"resource-catalogue.ws-blehrbass.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-17T12:17:00Z","to":"2026-09-15T12:16:59Z"}
+{"id":"15439492334","timestamp":"2026-06-17T14:19:08.48928405Z","domain":"mlflow.ws-blehrbass.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-17T12:17:02Z","to":"2026-09-15T12:17:01Z"}
+{"id":"15439709882","timestamp":"2026-06-17T14:19:08.489284131Z","domain":"*.ssc-spc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-06-17T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"15439709882","timestamp":"2026-06-17T14:19:08.489284201Z","domain":"ssc-spc.cloud-nuage.canada.ca","issuer":"Sectigo","from":"2026-06-17T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"15439736719","timestamp":"2026-06-17T14:19:08.489284281Z","domain":"cartes-environnementales.canada.ca","issuer":"Sectigo","from":"2026-06-17T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"15439736719","timestamp":"2026-06-17T14:19:08.489285483Z","domain":"environmental-maps.canada.ca","issuer":"Sectigo","from":"2026-06-17T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"15440029892","timestamp":"2026-06-17T14:19:08.489285563Z","domain":"spc-approagile-immersif.canada.ca","issuer":"Let's Encrypt","from":"2026-06-17T13:05:40Z","to":"2026-09-15T13:05:39Z"}
+{"id":"15440029892","timestamp":"2026-06-17T14:19:08.489285633Z","domain":"ssc-agileprocurement-immersive.canada.ca","issuer":"Let's Encrypt","from":"2026-06-17T13:05:40Z","to":"2026-09-15T13:05:39Z"}
