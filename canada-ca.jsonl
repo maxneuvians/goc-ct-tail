@@ -19990,3 +19990,6 @@
 {"id":"15439736719","timestamp":"2026-06-17T14:19:08.489285483Z","domain":"environmental-maps.canada.ca","issuer":"Sectigo","from":"2026-06-17T00:00:00Z","to":"2027-01-01T23:59:59Z"}
 {"id":"15440029892","timestamp":"2026-06-17T14:19:08.489285563Z","domain":"spc-approagile-immersif.canada.ca","issuer":"Let's Encrypt","from":"2026-06-17T13:05:40Z","to":"2026-09-15T13:05:39Z"}
 {"id":"15440029892","timestamp":"2026-06-17T14:19:08.489285633Z","domain":"ssc-agileprocurement-immersive.canada.ca","issuer":"Let's Encrypt","from":"2026-06-17T13:05:40Z","to":"2026-09-15T13:05:39Z"}
+{"id":"15442652316","timestamp":"2026-06-17T19:04:40.486806062Z","domain":"te-auth.canada.ca","issuer":"Sectigo","from":"2026-06-17T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"15442652316","timestamp":"2026-06-17T19:04:40.486806372Z","domain":"te-mfa.auth.canada.ca","issuer":"Sectigo","from":"2026-06-17T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"15442652316","timestamp":"2026-06-17T19:04:40.486806593Z","domain":"www.te-mfa.auth.canada.ca","issuer":"Sectigo","from":"2026-06-17T00:00:00Z","to":"2027-01-01T23:59:59Z"}
