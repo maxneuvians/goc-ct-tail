@@ -4152,7 +4152,12 @@
       "Google Trust Services": 1
     },
     "2026-06-17": {
-      "Let's Encrypt": 1
+      "Let's Encrypt": 11,
+      "Sectigo": 7
+    },
+    "2026-06-18": {
+      "Google Trust Services": 1,
+      "Amazon Trust Services": 1
     }
   },
   "errors": []
