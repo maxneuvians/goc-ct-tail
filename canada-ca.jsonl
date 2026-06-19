@@ -20015,3 +20015,5 @@
 {"id":"15472024173","timestamp":"2026-06-19T16:11:44.669828784Z","domain":"partner-test-partenaires.gciv-dvgc.alpha.canada.ca","issuer":"DigiCert","from":"2026-06-19T00:00:00Z","to":"2026-12-19T23:59:59Z"}
 {"id":"15472149894","timestamp":"2026-06-19T16:11:44.669828844Z","domain":"litellm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-19T14:10:53Z","to":"2026-09-17T14:10:52Z"}
 {"id":"15472157381","timestamp":"2026-06-19T16:11:44.669829675Z","domain":"grafana.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-19T14:10:54Z","to":"2026-09-17T14:10:53Z"}
+{"id":"15473852301","timestamp":"2026-06-19T17:46:47.639845647Z","domain":"cato.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-19T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"15473852323","timestamp":"2026-06-19T17:46:47.639846188Z","domain":"cato.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-19T00:00:00Z","to":"2027-01-02T23:59:59Z"}
