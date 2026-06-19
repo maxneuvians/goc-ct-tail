@@ -20005,3 +20005,13 @@
 {"id":"15465249399","timestamp":"2026-06-19T05:55:30.293455641Z","domain":"auth-dev.climate-change.canada.ca","issuer":"DigiCert","from":"2026-06-19T00:00:00Z","to":"2026-12-19T23:59:59Z"}
 {"id":"15467684888","timestamp":"2026-06-19T10:44:15.104054277Z","domain":"vac-personnel-acc.canada.ca","issuer":"DigiCert","from":"2026-06-19T00:00:00Z","to":"2026-12-19T23:59:59Z"}
 {"id":"15471412768","timestamp":"2026-06-19T14:14:16.218801081Z","domain":"ramco-api-aimms-sgima.dev.tc.canada.ca","issuer":"Sectigo","from":"2026-06-19T00:00:00Z","to":"2027-01-03T23:59:59Z"}
+{"id":"15471493105","timestamp":"2026-06-19T16:11:44.669826971Z","domain":"cicp-pcid-dev1.dev.cbsa-asfc.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-19T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"15471651622","timestamp":"2026-06-19T16:11:44.669827262Z","domain":"greenerhomes-maisonecologiques.canada.ca","issuer":"Sectigo","from":"2026-06-19T00:00:00Z","to":"2027-01-03T23:59:59Z"}
+{"id":"15471651622","timestamp":"2026-06-19T16:11:44.669827412Z","domain":"greenerhomes-maisonecologiques.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2026-06-19T00:00:00Z","to":"2027-01-03T23:59:59Z"}
+{"id":"15471651622","timestamp":"2026-06-19T16:11:44.669827622Z","domain":"greenerhomes-maisonecologiques.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2026-06-19T00:00:00Z","to":"2027-01-03T23:59:59Z"}
+{"id":"15471651622","timestamp":"2026-06-19T16:11:44.669827682Z","domain":"uat-greenerhomes-maisonecologiques.nrcan-rncan.gc.ca","issuer":"Sectigo","from":"2026-06-19T00:00:00Z","to":"2027-01-03T23:59:59Z"}
+{"id":"15471801339","timestamp":"2026-06-19T16:11:44.669828664Z","domain":"mlflow.ws-arctic.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-19T13:38:17Z","to":"2026-09-17T13:38:16Z"}
+{"id":"15471801724","timestamp":"2026-06-19T16:11:44.669828724Z","domain":"resource-catalogue.ws-arctic.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-19T13:38:17Z","to":"2026-09-17T13:38:16Z"}
+{"id":"15472024173","timestamp":"2026-06-19T16:11:44.669828784Z","domain":"partner-test-partenaires.gciv-dvgc.alpha.canada.ca","issuer":"DigiCert","from":"2026-06-19T00:00:00Z","to":"2026-12-19T23:59:59Z"}
+{"id":"15472149894","timestamp":"2026-06-19T16:11:44.669828844Z","domain":"litellm.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-19T14:10:53Z","to":"2026-09-17T14:10:52Z"}
+{"id":"15472157381","timestamp":"2026-06-19T16:11:44.669829675Z","domain":"grafana.dsai-sdia.ssc-spc.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-19T14:10:54Z","to":"2026-09-17T14:10:53Z"}
