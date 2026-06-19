@@ -3083,3 +3083,8 @@
 {"id":"15460624604","timestamp":"2026-06-18T21:51:00.339055223Z","domain":"betak.tools.tak.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-06-18T00:00:00Z","to":"2027-01-01T23:59:59Z"}
 {"id":"15460624604","timestamp":"2026-06-18T21:51:00.339055503Z","domain":"*.tools.tak.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-06-18T00:00:00Z","to":"2027-01-01T23:59:59Z"}
 {"id":"15460624604","timestamp":"2026-06-18T21:51:00.339055803Z","domain":"tools.tak.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-06-18T00:00:00Z","to":"2027-01-01T23:59:59Z"}
+{"id":"15473713410","timestamp":"2026-06-19T17:46:47.547310669Z","domain":"forces.gc.ca","issuer":"Sectigo","from":"2026-06-19T00:00:00Z","to":"2026-09-17T23:59:59Z"}
+{"id":"15473796359","timestamp":"2026-06-19T17:46:47.54731136Z","domain":"athenalite.rcaf-athena.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-06-19T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"15473796359","timestamp":"2026-06-19T17:46:47.547311711Z","domain":"athenapro.rcaf-athena.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-06-19T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"15473796359","timestamp":"2026-06-19T17:46:47.547312051Z","domain":"auth.athenapro.rcaf-athena.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-06-19T00:00:00Z","to":"2027-01-02T23:59:59Z"}
+{"id":"15473796359","timestamp":"2026-06-19T17:46:47.547312151Z","domain":"rcaf-athena.cloud.forces.gc.ca","issuer":"Amazon Trust Services","from":"2026-06-19T00:00:00Z","to":"2027-01-02T23:59:59Z"}
