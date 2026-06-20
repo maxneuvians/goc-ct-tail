@@ -20023,3 +20023,7 @@
 {"id":"15475494263","timestamp":"2026-06-19T20:42:00.851486562Z","domain":"api-internal.cato.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-19T00:00:00Z","to":"2027-01-02T23:59:59Z"}
 {"id":"15475496784","timestamp":"2026-06-19T20:42:00.851487013Z","domain":"api.cato.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-19T00:00:00Z","to":"2027-01-02T23:59:59Z"}
 {"id":"15478250316","timestamp":"2026-06-20T01:18:55.36062657Z","domain":"test.ssc-dev-gccopa.c.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-06-20T00:00:00Z","to":"2026-12-20T23:59:59Z"}
+{"id":"15482154294","timestamp":"2026-06-20T07:34:42.496865971Z","domain":"cartes.canada.ca","issuer":"Let's Encrypt","from":"2026-06-20T06:15:55Z","to":"2026-09-18T06:15:54Z"}
+{"id":"15482154294","timestamp":"2026-06-20T07:34:42.496866502Z","domain":"csw.open.canada.ca","issuer":"Let's Encrypt","from":"2026-06-20T06:15:55Z","to":"2026-09-18T06:15:54Z"}
+{"id":"15482154294","timestamp":"2026-06-20T07:34:42.496866712Z","domain":"maps.canada.ca","issuer":"Let's Encrypt","from":"2026-06-20T06:15:55Z","to":"2026-09-18T06:15:54Z"}
+{"id":"15482154294","timestamp":"2026-06-20T07:34:42.496866962Z","domain":"www.maps.canada.ca","issuer":"Let's Encrypt","from":"2026-06-20T06:15:55Z","to":"2026-09-18T06:15:54Z"}
