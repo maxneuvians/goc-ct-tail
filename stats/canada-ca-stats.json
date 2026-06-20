@@ -4162,6 +4162,12 @@
       "DigiCert": 1
     },
     "2026-06-19": {
+      "DigiCert": 4,
+      "Sectigo": 5,
+      "Amazon Trust Services": 7,
+      "Let's Encrypt": 4
+    },
+    "2026-06-20": {
       "DigiCert": 1
     }
   },
