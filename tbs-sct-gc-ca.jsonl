@@ -1551,3 +1551,6 @@
 {"id":"15417956551","timestamp":"2026-06-16T06:19:14.590548218Z","domain":"aihorizon-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-16T04:05:50Z","to":"2026-09-14T04:05:49Z"}
 {"id":"15417956558","timestamp":"2026-06-16T06:19:14.590548478Z","domain":"v3-eri-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-16T04:06:34Z","to":"2026-09-14T04:06:33Z"}
 {"id":"15419382637","timestamp":"2026-06-16T08:30:01.057640427Z","domain":"infobase-forms-backend.dev.tbs-sct.gc.ca","issuer":"DigiCert","from":"2026-06-16T00:00:00Z","to":"2026-12-16T23:59:59Z"}
+{"id":"15494183366","timestamp":"2026-06-21T06:13:56.354772415Z","domain":"v3-sitefinity-backend.dev.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-21T03:03:57Z","to":"2026-09-19T03:03:56Z"}
+{"id":"15494749268","timestamp":"2026-06-21T06:13:56.354772846Z","domain":"v3-sitefinity-backend.prd.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-21T04:05:13Z","to":"2026-09-19T04:05:12Z"}
+{"id":"15494749636","timestamp":"2026-06-21T06:13:56.354772986Z","domain":"v3-sitefinity-backend.uat.tbs-sct.gc.ca","issuer":"Let's Encrypt","from":"2026-06-21T04:05:15Z","to":"2026-09-19T04:05:14Z"}
