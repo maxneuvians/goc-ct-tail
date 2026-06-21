@@ -4168,7 +4168,11 @@
       "Let's Encrypt": 4
     },
     "2026-06-20": {
-      "DigiCert": 1
+      "DigiCert": 1,
+      "Let's Encrypt": 4
+    },
+    "2026-06-21": {
+      "Amazon Trust Services": 1
     }
   },
   "errors": []
