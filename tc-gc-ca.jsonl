@@ -441,3 +441,5 @@
 {"id":"15416794284","timestamp":"2026-06-16T03:23:19.496532225Z","domain":"*.dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-06-16T02:15:29Z","to":"2026-09-14T02:15:28Z"}
 {"id":"15416794284","timestamp":"2026-06-16T03:23:19.496532635Z","domain":"dev.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-06-16T02:15:29Z","to":"2026-09-14T02:15:28Z"}
 {"id":"15471522220","timestamp":"2026-06-19T16:11:43.870141952Z","domain":"paymod.tc.gc.ca","issuer":"Sectigo","from":"2026-06-19T00:00:00Z","to":"2027-01-03T23:59:59Z"}
+{"id":"15519154068","timestamp":"2026-06-22T21:50:03.29166096Z","domain":"sfta-tfsa.tc.gc.ca","issuer":"Sectigo","from":"2026-06-22T00:00:00Z","to":"2027-01-06T23:59:59Z"}
+{"id":"15519154068","timestamp":"2026-06-22T21:50:03.291661521Z","domain":"tfsa-sfta.tc.gc.ca","issuer":"Sectigo","from":"2026-06-22T00:00:00Z","to":"2027-01-06T23:59:59Z"}
