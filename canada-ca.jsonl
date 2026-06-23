@@ -20049,3 +20049,7 @@
 {"id":"15523941219","timestamp":"2026-06-23T05:32:12.112907688Z","domain":"login-uat.services-autochtones.canada.ca","issuer":"DigiCert","from":"2026-06-23T00:00:00Z","to":"2026-12-23T23:59:59Z"}
 {"id":"15523950212","timestamp":"2026-06-23T05:32:12.112908033Z","domain":"prod.gciv-dvgc.alpha.canada.ca","issuer":"DigiCert","from":"2026-06-23T00:00:00Z","to":"2026-12-23T23:59:59Z"}
 {"id":"15524465249","timestamp":"2026-06-23T05:32:12.11290826Z","domain":"dol-sys-test.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-06-23T03:44:34Z","to":"2026-09-21T03:44:33Z"}
+{"id":"15526331812","timestamp":"2026-06-23T09:22:22.932331468Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-23T06:28:58Z","to":"2026-09-21T06:28:57Z"}
+{"id":"15526331812","timestamp":"2026-06-23T09:22:22.932331768Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-23T06:28:58Z","to":"2026-09-21T06:28:57Z"}
+{"id":"15526332910","timestamp":"2026-06-23T09:22:22.932331948Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-23T06:29:06Z","to":"2026-09-21T06:29:05Z"}
+{"id":"15526332910","timestamp":"2026-06-23T09:22:22.932332129Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-23T06:29:06Z","to":"2026-09-21T06:29:05Z"}
