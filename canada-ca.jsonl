@@ -20053,3 +20053,13 @@
 {"id":"15526331812","timestamp":"2026-06-23T09:22:22.932331768Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-23T06:28:58Z","to":"2026-09-21T06:28:57Z"}
 {"id":"15526332910","timestamp":"2026-06-23T09:22:22.932331948Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-23T06:29:06Z","to":"2026-09-21T06:29:05Z"}
 {"id":"15526332910","timestamp":"2026-06-23T09:22:22.932332129Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-23T06:29:06Z","to":"2026-09-21T06:29:05Z"}
+{"id":"15529041967","timestamp":"2026-06-23T13:14:37.055166339Z","domain":"p2g.fm2.canada.ca","issuer":"Sectigo","from":"2026-06-23T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"15529041967","timestamp":"2026-06-23T13:14:37.05516688Z","domain":"q2g.fm2.canada.ca","issuer":"Sectigo","from":"2026-06-23T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"15529105994","timestamp":"2026-06-23T13:14:37.055167191Z","domain":"dge.gcfm.canada.ca","issuer":"Sectigo","from":"2026-06-23T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"15529105994","timestamp":"2026-06-23T13:14:37.055167511Z","domain":"dgm.gcfm.canada.ca","issuer":"Sectigo","from":"2026-06-23T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"15529105994","timestamp":"2026-06-23T13:14:37.055167611Z","domain":"dgz.gcfm.canada.ca","issuer":"Sectigo","from":"2026-06-23T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"15529105994","timestamp":"2026-06-23T13:14:37.055168914Z","domain":"pgm.gcfm.canada.ca","issuer":"Sectigo","from":"2026-06-23T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"15529105994","timestamp":"2026-06-23T13:14:37.055169014Z","domain":"pgz.gcfm.canada.ca","issuer":"Sectigo","from":"2026-06-23T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"15529105994","timestamp":"2026-06-23T13:14:37.055169124Z","domain":"xge.gcfm.canada.ca","issuer":"Sectigo","from":"2026-06-23T00:00:00Z","to":"2027-01-07T23:59:59Z"}
+{"id":"15529221039","timestamp":"2026-06-23T13:14:37.055169234Z","domain":"api.io.canada.ca","issuer":"Let's Encrypt","from":"2026-06-23T10:34:19Z","to":"2026-09-21T10:34:18Z"}
+{"id":"15529221039","timestamp":"2026-06-23T13:14:37.055170267Z","domain":"api-test.io.canada.ca","issuer":"Let's Encrypt","from":"2026-06-23T10:34:19Z","to":"2026-09-21T10:34:18Z"}
