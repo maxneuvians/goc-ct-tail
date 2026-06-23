@@ -20045,3 +20045,7 @@
 {"id":"15515077556","timestamp":"2026-06-22T15:03:16.564532488Z","domain":"api.cato.guard-dev.g.ent.cloud-nuage.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-22T00:00:00Z","to":"2027-01-05T23:59:59Z"}
 {"id":"15516263097","timestamp":"2026-06-22T16:46:12.924840061Z","domain":"*.dnd-prod-srt.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-22T15:05:03Z","to":"2026-09-20T15:05:02Z"}
 {"id":"15519007079","timestamp":"2026-06-22T20:12:56.950698657Z","domain":"incident-forwarder.mgmt.experimentation.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-06-22T19:02:53Z","to":"2026-09-20T19:58:48Z"}
+{"id":"15523543080","timestamp":"2026-06-23T05:32:12.11290715Z","domain":"portal.cto-sandbox-privatecloud.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-23T02:26:00Z","to":"2026-09-21T02:25:59Z"}
+{"id":"15523941219","timestamp":"2026-06-23T05:32:12.112907688Z","domain":"login-uat.services-autochtones.canada.ca","issuer":"DigiCert","from":"2026-06-23T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15523950212","timestamp":"2026-06-23T05:32:12.112908033Z","domain":"prod.gciv-dvgc.alpha.canada.ca","issuer":"DigiCert","from":"2026-06-23T00:00:00Z","to":"2026-12-23T23:59:59Z"}
+{"id":"15524465249","timestamp":"2026-06-23T05:32:12.11290826Z","domain":"dol-sys-test.nonprod-cc.ps-sp.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-06-23T03:44:34Z","to":"2026-09-21T03:44:33Z"}
