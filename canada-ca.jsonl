@@ -20074,3 +20074,5 @@
 {"id":"15540067036","timestamp":"2026-06-24T05:31:31.996237595Z","domain":"design.canada.ca","issuer":"Let's Encrypt","from":"2026-06-24T03:07:50Z","to":"2026-09-22T03:07:49Z"}
 {"id":"15540839438","timestamp":"2026-06-24T05:31:31.996237885Z","domain":"meteo-spatiale.canada.ca","issuer":"Sectigo","from":"2026-06-24T00:00:00Z","to":"2026-09-22T23:59:59Z"}
 {"id":"15540839438","timestamp":"2026-06-24T05:31:31.996237986Z","domain":"space-weather.canada.ca","issuer":"Sectigo","from":"2026-06-24T00:00:00Z","to":"2026-09-22T23:59:59Z"}
+{"id":"15546288996","timestamp":"2026-06-24T13:53:07.007725115Z","domain":"flood-risk-portal.prod.cloud.statcan.ca","issuer":"Let's Encrypt","from":"2026-06-24T12:41:21Z","to":"2026-09-22T12:41:20Z"}
+{"id":"15546288996","timestamp":"2026-06-24T13:53:07.007725416Z","domain":"hazard-risk-search.ps.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-24T12:41:21Z","to":"2026-09-22T12:41:20Z"}
