@@ -1504,3 +1504,4 @@
 {"id":"15532451954","timestamp":"2026-06-23T17:06:19.214726964Z","domain":"grafana.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-06-23T15:15:58Z","to":"2026-09-21T15:15:57Z"}
 {"id":"15532456378","timestamp":"2026-06-23T17:06:19.214727274Z","domain":"prometheus.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-06-23T15:16:16Z","to":"2026-09-21T15:16:15Z"}
 {"id":"15532606050","timestamp":"2026-06-23T17:06:19.214727485Z","domain":"argocd.aks.azure.cloud-nuage.dfo-mpo.gc.ca","issuer":"Let's Encrypt","from":"2026-06-23T15:29:42Z","to":"2026-09-21T15:29:41Z"}
+{"id":"15550085762","timestamp":"2026-06-24T19:58:21.388704048Z","domain":"dfnsb2ywpasp005.dfo-mpo.gc.ca","issuer":"Sectigo","from":"2026-06-24T00:00:00Z","to":"2027-01-08T23:59:59Z"}
