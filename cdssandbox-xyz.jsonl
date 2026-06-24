@@ -2558,3 +2558,4 @@
 {"id":"15502071845","timestamp":"2026-06-21T18:02:25.41761185Z","domain":"*.document.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-06-21T00:00:00Z","to":"2027-01-04T23:59:59Z"}
 {"id":"15502650531","timestamp":"2026-06-21T19:01:27.505272357Z","domain":"*.status.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-06-21T00:00:00Z","to":"2027-01-04T23:59:59Z"}
 {"id":"15502650531","timestamp":"2026-06-21T19:01:27.505272718Z","domain":"status.dev.notification.cdssandbox.xyz","issuer":"Amazon Trust Services","from":"2026-06-21T00:00:00Z","to":"2027-01-04T23:59:59Z"}
+{"id":"15549928522","timestamp":"2026-06-24T20:08:48.036698134Z","domain":"test.gciv-dvgc.cdssandbox.xyz","issuer":"DigiCert","from":"2026-06-24T00:00:00Z","to":"2026-12-24T23:59:59Z"}
