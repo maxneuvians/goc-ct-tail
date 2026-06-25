@@ -1063,3 +1063,5 @@
 {"id":"15403388634","timestamp":"2026-06-15T06:31:40.16117617Z","domain":"cmhc-schl.gc.ca","issuer":"Google Trust Services","from":"2026-06-15T05:03:47Z","to":"2026-09-13T06:03:44Z"}
 {"id":"15406968811","timestamp":"2026-06-15T13:39:58.139104147Z","domain":"remote.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-06-15T00:00:00Z","to":"2026-12-30T23:59:59Z"}
 {"id":"15409096386","timestamp":"2026-06-15T15:41:09.65564693Z","domain":"uatsc10-cdlshsct.cmhc-schl.gc.ca","issuer":"DigiCert","from":"2026-06-15T00:00:00Z","to":"2026-12-30T23:59:59Z"}
+{"id":"15563867653","timestamp":"2026-06-25T17:23:35.355072858Z","domain":"*.cmhc-schl.gc.ca","issuer":"Sectigo","from":"2026-06-25T00:00:00Z","to":"2026-09-19T10:41:15Z"}
+{"id":"15563867653","timestamp":"2026-06-25T17:23:35.355073138Z","domain":"cmhc-schl.gc.ca","issuer":"Sectigo","from":"2026-06-25T00:00:00Z","to":"2026-09-19T10:41:15Z"}
