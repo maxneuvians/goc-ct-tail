@@ -20099,3 +20099,5 @@
 {"id":"15569680236","timestamp":"2026-06-26T03:20:55.197478952Z","domain":"kubeflow.ssc-dev-dnd-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-26T00:59:26Z","to":"2026-09-24T00:59:25Z"}
 {"id":"15569791096","timestamp":"2026-06-26T03:20:55.197479456Z","domain":"*.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-26T00:00:00Z","to":"2027-01-09T23:59:59Z"}
 {"id":"15569791096","timestamp":"2026-06-26T03:20:55.197481616Z","domain":"ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-26T00:00:00Z","to":"2027-01-09T23:59:59Z"}
+{"id":"15571254969","timestamp":"2026-06-26T05:37:15.912600584Z","domain":"outreach-nrc.canada.ca","issuer":"Let's Encrypt","from":"2026-06-26T03:23:24Z","to":"2026-09-24T03:23:23Z"}
+{"id":"15571277057","timestamp":"2026-06-26T05:37:15.912600985Z","domain":"diffusion-cnrc.canada.ca","issuer":"Let's Encrypt","from":"2026-06-26T03:23:22Z","to":"2026-09-24T03:23:21Z"}
