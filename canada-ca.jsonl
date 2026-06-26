@@ -20104,3 +20104,6 @@
 {"id":"15572782041","timestamp":"2026-06-26T07:34:02.741619805Z","domain":"fcac-compliance-conformite-acfc.canada.ca","issuer":"DigiCert","from":"2026-06-26T00:00:00Z","to":"2026-12-26T23:59:59Z"}
 {"id":"15572858715","timestamp":"2026-06-26T07:34:02.741620336Z","domain":"app.orgpublisher.dev.g3.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-26T06:03:42Z","to":"2026-09-24T06:03:41Z"}
 {"id":"15577102484","timestamp":"2026-06-26T13:50:45.840942837Z","domain":"training-formation-app.neics-nscei.canada.ca","issuer":"Sectigo","from":"2026-06-26T00:00:00Z","to":"2027-01-10T23:59:59Z"}
+{"id":"15577338153","timestamp":"2026-06-26T15:04:40.151890796Z","domain":"training-pwsclient-core.neics-nscei.canada.ca","issuer":"Sectigo","from":"2026-06-26T00:00:00Z","to":"2027-01-10T23:59:59Z"}
+{"id":"15577536634","timestamp":"2026-06-26T15:04:40.151891347Z","domain":"training-formation.neics-nscei.canada.ca","issuer":"Sectigo","from":"2026-06-26T00:00:00Z","to":"2027-01-10T23:59:59Z"}
+{"id":"15577622741","timestamp":"2026-06-26T15:04:40.151891698Z","domain":"training-pws-core.neics-nscei.canada.ca","issuer":"Sectigo","from":"2026-06-26T00:00:00Z","to":"2027-01-10T23:59:59Z"}
