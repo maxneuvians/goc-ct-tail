@@ -4199,8 +4199,14 @@
       "DigiCert": 1
     },
     "2026-06-26": {
-      "Let's Encrypt": 3,
-      "Amazon Trust Services": 2
+      "Let's Encrypt": 4,
+      "Amazon Trust Services": 2,
+      "DigiCert": 1,
+      "Sectigo": 6,
+      "Google Trust Services": 1
+    },
+    "2026-06-27": {
+      "Let's Encrypt": 2
     }
   },
   "errors": []
