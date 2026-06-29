@@ -20182,3 +20182,7 @@
 {"id":"15620480896","timestamp":"2026-06-29T15:18:56.176366156Z","domain":"harbor.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T13:39:10Z","to":"2026-09-27T13:39:09Z"}
 {"id":"15621894209","timestamp":"2026-06-29T17:10:08.925640094Z","domain":"a11y.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T15:47:47Z","to":"2026-09-27T15:47:46Z"}
 {"id":"15622219249","timestamp":"2026-06-29T17:59:35.664381451Z","domain":"iga-gai.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T16:15:07Z","to":"2026-09-27T16:15:06Z"}
+{"id":"15622774016","timestamp":"2026-06-29T18:52:42.427917704Z","domain":"pm.canada.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622774016","timestamp":"2026-06-29T18:52:42.427918184Z","domain":"pm.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622774016","timestamp":"2026-06-29T18:52:42.427918355Z","domain":"www.pm.canada.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622774016","timestamp":"2026-06-29T18:52:42.427918515Z","domain":"www.pm.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
