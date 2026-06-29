@@ -20171,3 +20171,12 @@
 {"id":"15619749142","timestamp":"2026-06-29T13:44:34.447608313Z","domain":"dec-ui.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T12:30:55Z","to":"2026-09-27T12:30:54Z"}
 {"id":"15619752770","timestamp":"2026-06-29T13:44:34.447609235Z","domain":"prometheus.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T12:31:28Z","to":"2026-09-27T12:31:27Z"}
 {"id":"15619754848","timestamp":"2026-06-29T13:44:34.447609325Z","domain":"opencost.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T12:31:38Z","to":"2026-09-27T12:31:37Z"}
+{"id":"15619826747","timestamp":"2026-06-29T15:18:56.176363431Z","domain":"applicationhub.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T12:38:42Z","to":"2026-09-27T12:38:41Z"}
+{"id":"15620164652","timestamp":"2026-06-29T15:18:56.176363902Z","domain":"minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T13:09:47Z","to":"2026-09-27T13:09:46Z"}
+{"id":"15620187820","timestamp":"2026-06-29T15:18:56.176364363Z","domain":"console.minio.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T13:14:11Z","to":"2026-09-27T13:14:10Z"}
+{"id":"15620307384","timestamp":"2026-06-29T15:18:56.176364663Z","domain":"*.aurora.ssc-dev-cds-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T13:25:27Z","to":"2026-09-27T13:25:26Z"}
+{"id":"15620307384","timestamp":"2026-06-29T15:18:56.176364804Z","domain":"*.ssc-dev-cds-aur.c.ent.cloud-nuage.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T13:25:27Z","to":"2026-09-27T13:25:26Z"}
+{"id":"15620357371","timestamp":"2026-06-29T15:18:56.176365836Z","domain":"*.prod.iga-gai.esdc-edsc.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T13:29:17Z","to":"2026-09-27T13:29:16Z"}
+{"id":"15620369043","timestamp":"2026-06-29T15:18:56.176365946Z","domain":"data-access.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T13:30:22Z","to":"2026-09-27T13:30:21Z"}
+{"id":"15620370832","timestamp":"2026-06-29T15:18:56.176366046Z","domain":"eoepca-portal.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T13:30:44Z","to":"2026-09-27T13:30:43Z"}
+{"id":"15620480896","timestamp":"2026-06-29T15:18:56.176366156Z","domain":"harbor.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-29T13:39:10Z","to":"2026-09-27T13:39:09Z"}
