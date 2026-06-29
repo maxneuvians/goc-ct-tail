@@ -654,3 +654,17 @@
 {"id":"15094303785","timestamp":"2026-05-27T21:00:16.718577836Z","domain":"portal-portail.justice.gc.ca","issuer":"Sectigo","from":"2026-05-27T00:00:00Z","to":"2026-12-11T23:59:59Z"}
 {"id":"15094303785","timestamp":"2026-05-27T21:00:16.718577906Z","domain":"services-sso-au.justice.gc.ca","issuer":"Sectigo","from":"2026-05-27T00:00:00Z","to":"2026-12-11T23:59:59Z"}
 {"id":"15109396664","timestamp":"2026-05-28T21:01:57.355662994Z","domain":"jus-ott2.justice.gc.ca","issuer":"Sectigo","from":"2026-05-28T00:00:00Z","to":"2026-12-12T23:59:59Z"}
+{"id":"15622265741","timestamp":"2026-06-29T18:02:37.363914122Z","domain":"businessnumber-dev.justice.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622265741","timestamp":"2026-06-29T18:02:37.363914613Z","domain":"businessnumber-preprod.justice.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622265741","timestamp":"2026-06-29T18:02:37.363914863Z","domain":"fund-fina-dev.justice.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622265741","timestamp":"2026-06-29T18:02:37.363915083Z","domain":"fund-fina-preprod.justice.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622265741","timestamp":"2026-06-29T18:02:37.363915164Z","domain":"internal-portal-dev.justice.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622265741","timestamp":"2026-06-29T18:02:37.363916937Z","domain":"internal-portal-preprod.justice.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622265741","timestamp":"2026-06-29T18:02:37.363917017Z","domain":"portal-api-dev.justice.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622265741","timestamp":"2026-06-29T18:02:37.363917097Z","domain":"portal-api-preprod.justice.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622265741","timestamp":"2026-06-29T18:02:37.363917167Z","domain":"portal-dev.justice.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622265741","timestamp":"2026-06-29T18:02:37.36391824Z","domain":"portal-portail-preprod-justice.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622265741","timestamp":"2026-06-29T18:02:37.36391832Z","domain":"portal-portail-test-justice.fjgc-gccf.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622265741","timestamp":"2026-06-29T18:02:37.36391839Z","domain":"portal-preprod.justice.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622265741","timestamp":"2026-06-29T18:02:37.36391847Z","domain":"portal-staging.justice.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15622265741","timestamp":"2026-06-29T18:02:37.36391854Z","domain":"services-test-sso.justice.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
