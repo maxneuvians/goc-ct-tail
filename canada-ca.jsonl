@@ -20201,3 +20201,6 @@
 {"id":"15636993957","timestamp":"2026-06-30T16:53:10.144458244Z","domain":"pygeoapi.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-30T15:48:16Z","to":"2026-09-28T15:48:15Z"}
 {"id":"15637044030","timestamp":"2026-06-30T17:46:40.437398387Z","domain":"www150.canafe-fintrac.canada.ca","issuer":"Sectigo","from":"2026-06-30T00:00:00Z","to":"2027-01-14T23:59:59Z"}
 {"id":"15637044030","timestamp":"2026-06-30T17:46:40.437398858Z","domain":"www150.fintrac-canafe.canada.ca","issuer":"Sectigo","from":"2026-06-30T00:00:00Z","to":"2027-01-14T23:59:59Z"}
+{"id":"15638312651","timestamp":"2026-06-30T19:46:14.006388006Z","domain":"optave-autopilot.dev.ised-isde.canada.ca","issuer":"Amazon Trust Services","from":"2026-06-30T00:00:00Z","to":"2027-01-13T23:59:59Z"}
+{"id":"15638575283","timestamp":"2026-06-30T19:46:14.006388538Z","domain":"resource-catalogue.ws-amandeville.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-30T18:15:58Z","to":"2026-09-28T18:15:57Z"}
+{"id":"15638577124","timestamp":"2026-06-30T19:46:14.006388808Z","domain":"mlflow.ws-amandeville.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-30T18:16:00Z","to":"2026-09-28T18:15:59Z"}
