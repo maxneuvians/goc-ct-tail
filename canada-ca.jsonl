@@ -20194,3 +20194,8 @@
 {"id":"15630846041","timestamp":"2026-06-30T07:34:37.950067062Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-30T06:29:10Z","to":"2026-09-28T06:29:09Z"}
 {"id":"15632783275","timestamp":"2026-06-30T11:14:03.653924687Z","domain":"code.open.canada.ca","issuer":"Let's Encrypt","from":"2026-06-30T09:18:20Z","to":"2026-09-28T09:18:19Z"}
 {"id":"15634734651","timestamp":"2026-06-30T13:47:32.304236205Z","domain":"titilerx.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-30T12:14:19Z","to":"2026-09-28T12:14:18Z"}
+{"id":"15636886592","timestamp":"2026-06-30T16:53:10.144456941Z","domain":"www148.canafe-fintrac.canada.ca","issuer":"Sectigo","from":"2026-06-30T00:00:00Z","to":"2027-01-14T23:59:59Z"}
+{"id":"15636886592","timestamp":"2026-06-30T16:53:10.144457482Z","domain":"www148.fintrac-canafe.canada.ca","issuer":"Sectigo","from":"2026-06-30T00:00:00Z","to":"2027-01-14T23:59:59Z"}
+{"id":"15636886592","timestamp":"2026-06-30T16:53:10.144457823Z","domain":"www149.canafe-fintrac.canada.ca","issuer":"Sectigo","from":"2026-06-30T00:00:00Z","to":"2027-01-14T23:59:59Z"}
+{"id":"15636886592","timestamp":"2026-06-30T16:53:10.144458094Z","domain":"www149.fintrac-canafe.canada.ca","issuer":"Sectigo","from":"2026-06-30T00:00:00Z","to":"2027-01-14T23:59:59Z"}
+{"id":"15636993957","timestamp":"2026-06-30T16:53:10.144458244Z","domain":"pygeoapi.dev.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-06-30T15:48:16Z","to":"2026-09-28T15:48:15Z"}
