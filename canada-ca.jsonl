@@ -20188,3 +20188,7 @@
 {"id":"15622774016","timestamp":"2026-06-29T18:52:42.427918515Z","domain":"www.pm.gc.ca","issuer":"Sectigo","from":"2026-06-29T00:00:00Z","to":"2027-01-13T23:59:59Z"}
 {"id":"15623463198","timestamp":"2026-06-29T19:46:22.06107779Z","domain":"collections.chinai.innovation.alpha.canada.ca","issuer":"DigiCert","from":"2026-06-29T00:00:00Z","to":"2026-12-29T23:59:59Z"}
 {"id":"15625195547","timestamp":"2026-06-29T22:33:20.998096673Z","domain":"www.ssc-prod-stm.g3.ent.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-06-29T00:00:00Z","to":"2026-12-29T23:59:59Z"}
+{"id":"15630799658","timestamp":"2026-06-30T07:34:37.950066151Z","domain":"api.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-30T06:24:33Z","to":"2026-09-28T06:24:32Z"}
+{"id":"15630799658","timestamp":"2026-06-30T07:34:37.950066491Z","domain":"*.apps.ocp.prod.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-30T06:24:33Z","to":"2026-09-28T06:24:32Z"}
+{"id":"15630846041","timestamp":"2026-06-30T07:34:37.950066852Z","domain":"api.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-30T06:29:10Z","to":"2026-09-28T06:29:09Z"}
+{"id":"15630846041","timestamp":"2026-06-30T07:34:37.950067062Z","domain":"*.apps.ocp.dev.ised-isde.canada.ca","issuer":"Let's Encrypt","from":"2026-06-30T06:29:10Z","to":"2026-09-28T06:29:09Z"}
