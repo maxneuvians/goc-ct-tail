@@ -445,3 +445,5 @@
 {"id":"15519154068","timestamp":"2026-06-22T21:50:03.291661521Z","domain":"tfsa-sfta.tc.gc.ca","issuer":"Sectigo","from":"2026-06-22T00:00:00Z","to":"2027-01-06T23:59:59Z"}
 {"id":"15524619898","timestamp":"2026-06-23T05:32:12.942463651Z","domain":"*.acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-06-23T04:01:04Z","to":"2026-09-21T04:01:03Z"}
 {"id":"15524619898","timestamp":"2026-06-23T05:32:12.942463982Z","domain":"acc.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-06-23T04:01:04Z","to":"2026-09-21T04:01:03Z"}
+{"id":"15628325964","timestamp":"2026-06-30T05:34:36.01905094Z","domain":"*.tc.gc.ca","issuer":"Let's Encrypt","from":"2026-06-30T02:19:10Z","to":"2026-09-28T02:19:09Z"}
+{"id":"15628325964","timestamp":"2026-06-30T05:34:36.019051261Z","domain":"tc.gc.ca","issuer":"Let's Encrypt","from":"2026-06-30T02:19:10Z","to":"2026-09-28T02:19:09Z"}
