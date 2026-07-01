@@ -4217,6 +4217,14 @@
       "Let's Encrypt": 53,
       "Sectigo": 4,
       "DigiCert": 2
+    },
+    "2026-06-30": {
+      "Let's Encrypt": 12,
+      "Sectigo": 6,
+      "Amazon Trust Services": 1
+    },
+    "2026-07-01": {
+      "Google Trust Services": 1
     }
   },
   "errors": []

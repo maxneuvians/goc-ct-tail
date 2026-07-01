@@ -1712,7 +1712,11 @@
       "Sectigo": 16
     },
     "2026-06-30": {
-      "Let's Encrypt": 132
+      "Let's Encrypt": 168
+    },
+    "2026-07-01": {
+      "Sectigo": 10,
+      "Let's Encrypt": 25
     }
   },
   "errors": []
