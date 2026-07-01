@@ -20210,3 +20210,7 @@
 {"id":"15642876603","timestamp":"2026-07-01T03:22:02.29440973Z","domain":"canary-workload.ssc-spc.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-07-01T00:55:54Z","to":"2026-09-29T01:49:06Z"}
 {"id":"15646146352","timestamp":"2026-07-01T07:46:53.9760826Z","domain":"ciqap.canada.ca","issuer":"Let's Encrypt","from":"2026-07-01T06:20:54Z","to":"2026-09-29T06:20:53Z"}
 {"id":"15646194110","timestamp":"2026-07-01T07:46:53.976082941Z","domain":"qasi.canada.ca","issuer":"Let's Encrypt","from":"2026-07-01T06:24:17Z","to":"2026-09-29T06:24:16Z"}
+{"id":"15647925549","timestamp":"2026-07-01T11:16:36.223507693Z","domain":"datacube-api.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-07-01T09:04:46Z","to":"2026-09-29T09:04:45Z"}
+{"id":"15648082725","timestamp":"2026-07-01T11:16:36.223508124Z","domain":"notifications.dec.alpha.canada.ca","issuer":"Let's Encrypt","from":"2026-07-01T09:20:59Z","to":"2026-09-29T09:20:58Z"}
+{"id":"15648200508","timestamp":"2026-07-01T11:16:36.223508364Z","domain":"incident-forwarder.mgmt.dev.m.ent.cloud-nuage.canada.ca","issuer":"Google Trust Services","from":"2026-07-01T09:27:34Z","to":"2026-09-29T10:23:28Z"}
+{"id":"15648542062","timestamp":"2026-07-01T11:16:36.223508585Z","domain":"ces-docs.nrcan-rncan.cloud-nuage.canada.ca","issuer":"DigiCert","from":"2026-07-01T00:00:00Z","to":"2027-01-01T23:59:59Z"}
